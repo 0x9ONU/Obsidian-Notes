@@ -64,5 +64,11 @@ A function that never takes on the same value twice.
 
 Each Element of $x$ maps to a *unique* element of $y$.
 
-$f(x_1) \ne f(x_2)$ Whenever $x_
+$f(x_1) \ne f(x_2)$ whenever $x_1 \ne x_2$
+
+```ad-tip
+Each element of $x$ is mapped to a new elem
+```
+
+
 
