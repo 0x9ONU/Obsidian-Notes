@@ -2,7 +2,7 @@ Date: <% tp.date.now("Do MMMM YYYY")%>
 Date Modified: <% tp.file.last_modified_date("Do MMMM YYYY")%>
 File Folder: <% tp.file.folder() %>
 
-<% tp.web.random_picture %>
+<% tp. %>
 
 ```ad-abstract
 title: Today's Topics
