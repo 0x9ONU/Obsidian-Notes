@@ -20,6 +20,7 @@ Every element of one set should match to **only** one elmtn of another set
 ```ad-info
 title: Example: Not a Function
 color: 225, 120, 0
-collapse
+collapse: open
+
 
 ```
