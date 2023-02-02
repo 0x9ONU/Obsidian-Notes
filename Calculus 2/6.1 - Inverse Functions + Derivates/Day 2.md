@@ -7,8 +7,11 @@ title: Today's Topics
 collapse: open
 
 - Definition of Inverse Function
-- 
+- Find Inverse Function of a One-to-One Function
+- Relationshipo between graph of $f(x)$ and $f^-1(x)$
 
 ```
+
+
 
 
