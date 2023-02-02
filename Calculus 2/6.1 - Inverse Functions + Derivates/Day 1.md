@@ -84,9 +84,20 @@ disableZoom: false
 grid: true
 ---
 y = x
-
-
 ```
+
+
+```functionplot
+---
+title: y = x^3
+xLabel: 
+yLabel: 
+bounds: [-5,5,-5,5]
+disableZoom: false
+grid: true
+---
+y = x^3
+
 
 
 
