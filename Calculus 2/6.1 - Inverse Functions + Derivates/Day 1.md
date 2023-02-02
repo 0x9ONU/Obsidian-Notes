@@ -15,7 +15,7 @@ collapse: open
 
 ## Functions
 
-Every element of one set should match to **only** one elmtn of another set
+Every element of one set should match to **only** one element of another set
 
 ```ad-info
 title: Example: Not a Function
