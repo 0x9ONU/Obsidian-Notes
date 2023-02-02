@@ -180,7 +180,12 @@ g(x) = 5
 
 ```java
 public static void main()
-{}
+{
+	for (int i = 0; i < 100; i++)
+	{
+		System.out.println("Balls");
+	}
+}
 ```
 
 
