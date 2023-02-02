@@ -71,7 +71,8 @@ Each element of $x$ is mapped to a new elemtn each time
 ```
 
 ```ad-example
-title: 
+title: Eamples of One-To-One Functions
+
 ```
 
 
