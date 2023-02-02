@@ -179,10 +179,14 @@ g(x) = 5
 ```
 
 ```c++
-int main 
+int main()
 {
-
+	for (int i = 0; i =< 100; i++)
+	{
+		cout << "balls";
+	}
 }
 ```
+
 
 
