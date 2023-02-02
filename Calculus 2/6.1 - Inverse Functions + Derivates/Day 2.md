@@ -33,8 +33,10 @@ title: Fact
 color: 255, 127, 80
 
 - $f^-1(f(x)) = x$ for all $x ∈ A$
-- $f(f^-1)
+- $f(f^-1(y)) = y$ for all $y ∈ B$
 ```
 
+
+## Find Inverse 
 
 
