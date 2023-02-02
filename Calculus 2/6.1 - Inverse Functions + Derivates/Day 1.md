@@ -29,4 +29,8 @@ collapse: open
 
 ```ad-info
 title: Example: Is a function
+collapse: open
+
+Each value of Set 1 is set to a single element in set 2
+
 ```
