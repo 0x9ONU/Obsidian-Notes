@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10bbd4fbe2a1fa31",
+        "id": "52eb183532b904cd",
         "type": "tabs",
         "children": [
           {
-            "id": "526be3dfcb84bcbb",
+            "id": "304782bcd8880f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Calculus Template/Calculus Template.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Calculus Template/Calculus Template.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Calculus Template/Calculus Template.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Calculus Template/Calculus Template.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -158,12 +158,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "526be3dfcb84bcbb",
+  "active": "304782bcd8880f9f",
   "lastOpenFiles": [
+    "Calculus 2/6.1/Untitled.md",
+    "Untitled.md",
+    "Templates/Calculus Template/Calculus Template.md",
     "Calculus 2/6.1/test.md",
     "Templates/Untitled.md",
     "Calculus 2/Template.md",
-    "Untitled.md",
     "2023-02-02.md",
     "Untitled.canvas"
   ]
