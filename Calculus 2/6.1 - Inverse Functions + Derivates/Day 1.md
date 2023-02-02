@@ -133,5 +133,5 @@ g(x) = 1
 
 
 ```ad-question
-Is the function f(x)
+Is the function $f(x) = \sqrt[x]$
 ```
