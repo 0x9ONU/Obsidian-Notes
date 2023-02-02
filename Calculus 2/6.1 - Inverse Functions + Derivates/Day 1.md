@@ -41,7 +41,12 @@ Each value of Set 1 is set to a single element in set 2
 When a function $f: x => y$ if every eleemtn in $y$ has a preimage in $x$
 
 ```ad-info
-title: Example:
+title: Example: One-To-One
+collapse: open
 
+Every element in set 2 has a pre-image in set 1
+(One value in set 1 can pre-image set 2)
 ```
+
+
 
