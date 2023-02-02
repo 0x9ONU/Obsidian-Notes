@@ -136,7 +136,9 @@ g(x) = 1
 Is the function $f(x) = \sqrt{x}$ a one-to-one function?
 
 	```ad-caution
-	title: answer
+	title: Answer
+	By the horizontal line test $f(x) = \sqrt{x}$ is one-to-one
+	
 ```
 
 ```
