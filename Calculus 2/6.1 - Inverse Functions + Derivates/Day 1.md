@@ -22,7 +22,11 @@ title: Example: Not a Function
 color: 225, 120, 0
 collapse: open
 
-**A** cannot be s
+**A** cannot be set to two different values
 
 ```
 ![[Drawing 2023-02-02 16.42.55.excalidraw]]
+
+```ad-info
+
+```
