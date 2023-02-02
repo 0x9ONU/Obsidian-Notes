@@ -6,9 +6,8 @@ File Folder: 6.1 - Inverse Functions + Derivates
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Definition of Inverse Function
+- 
 
 ```
 
