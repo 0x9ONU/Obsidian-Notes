@@ -45,6 +45,12 @@ Write $y = f(x)$
 
 ### Step 2
 
-Solve this equation for $x$ in terms of $y
+Solve this equation for $x$ in terms of $y$
+
+### Step 3
+
+To express $f^-1$ as a funciton of $x$.
+
+Interchange $x$ and 
 
 
