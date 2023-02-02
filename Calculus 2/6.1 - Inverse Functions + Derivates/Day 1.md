@@ -38,4 +38,10 @@ Each value of Set 1 is set to a single element in set 2
 
 ## Onto Functions
 
-Whena  function $f: x => y$ 
+When a function $f: x => y$ if every eleemtn in $y$ has a preimage in $x$
+
+```ad-info
+title: Example:
+
+```
+
