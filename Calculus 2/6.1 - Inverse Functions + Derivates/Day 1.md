@@ -73,6 +73,19 @@ Each element of $x$ is mapped to a new elemtn each time
 ```ad-example
 title: Eamples of One-To-One Functions
 
+
+```functionplot
+---
+title: 
+xLabel: 
+yLabel: 
+bounds: [-5,5,-5,5]
+disableZoom: false
+grid: true
+---
+y = x
+```
+
 ```
 
 
