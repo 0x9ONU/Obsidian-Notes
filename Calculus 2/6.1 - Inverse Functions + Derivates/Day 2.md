@@ -14,6 +14,8 @@ collapse: open
 
 ## Definition of Inverse Function
 
-Let $f$ be a one to oen funciotn with a domain of $A$ and a r
+Let $f$ be a one to oen funciotn with a domain of $A$ and a range of $B$.
+
+Its inverse function $f^-1(x)$ has a 
 
 
