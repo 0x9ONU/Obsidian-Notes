@@ -28,7 +28,12 @@ title: Fact
 - Range of $f$ = Domain of $f^-1$
 ```
 
+```ad-info
+title: Fact
+color: 255, 127, 80
 
+
+```
 
 
 
