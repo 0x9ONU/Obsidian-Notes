@@ -12,6 +12,8 @@ collapse: open
 
 ```
 
+## Definition of Inverse Function
 
+Let $f$ be a one to oen funciotn with a domain of $A$ and a r
 
 
