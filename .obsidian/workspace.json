@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivaties/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivaties/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivaties/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivaties/Untitled.md"
               }
             }
           },
@@ -158,10 +158,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "304782bcd8880f9f",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
+    "Calculus 2/6.1 - Inverse Functions + Derivaties/Untitled.md",
     "Calculus 2/6.1/Untitled.md",
-    "Untitled.md",
     "Templates/Calculus Template/Calculus Template.md",
     "Calculus 2/6.1/test.md",
     "Templates/Untitled.md",
