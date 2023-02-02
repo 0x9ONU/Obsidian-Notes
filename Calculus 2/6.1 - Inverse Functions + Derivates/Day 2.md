@@ -16,6 +16,12 @@ collapse: open
 
 Let $f$ be a one to oen funciotn with a domain of $A$ and a range of $B$.
 
-Its inverse function $f^-1(x)$ has a 
+Its inverse function $f^-1(x)$ has a domain of $B$ and a range of $A$.
+
+Is defined by:
+
+$f^-1(y) = x$ ==if and onlt
+
+
 
 
