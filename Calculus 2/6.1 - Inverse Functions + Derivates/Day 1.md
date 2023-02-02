@@ -60,4 +60,8 @@ Every element in set 2 has a pre-image in set 1
 
 ## One-To-One Functions
 
-A function that never takes on the s
+A function that never takes on the same value twice. 
+
+Each Element of $x$ maps to a *unique* element of $y$.
+
+$$f(x1) 
