@@ -104,7 +104,9 @@ y = x^3
 
 ## Horizontal Line Test
 
-**M
+**Most simple way** to find whether a function is one-to-one or not
+
+If *one horizontal line* is able to be drawn on a fucntion where it intersects at **two or more points**, the function is not 
 
 
 
