@@ -17,6 +17,6 @@ collapse: open
 
 Every elemtn of one set should match to **only** one elmtn of another set
 
-```ad-example
-
-```
+> [!info]+ Example
+> 
+> 
