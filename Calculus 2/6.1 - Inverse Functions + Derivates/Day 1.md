@@ -178,14 +178,9 @@ f(x) = x^2 + 4
 g(x) = 5
 ```
 
-```c++
-int main()
-{
-	for (int i = 0; i =< 100; i++)
-	{
-		cout << "balls";
-	}
-}
+```java
+public static void main()
+{}
 ```
 
 
