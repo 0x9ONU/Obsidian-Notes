@@ -154,3 +154,9 @@ f(x)=sqrt(x)
 g(x)=1
 z(x)=2
 ```
+
+```ad-question
+Is the function $f(x) = x^2 + 4$ one to one?
+
+
+```
