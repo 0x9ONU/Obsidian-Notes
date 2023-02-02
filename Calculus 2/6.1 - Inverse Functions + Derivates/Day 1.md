@@ -71,7 +71,7 @@ Each element of $x$ is mapped to a new elemtn each time
 ```
 
 ```ad-example
-title: Eamples of One-To-One Functions
+title: Example of One-To-One Functions
 
 
 ```functionplot
@@ -86,18 +86,8 @@ grid: true
 y = x
 ```
 
-
-```functionplot
----
-title: y = x^3
-xLabel: 
-yLabel: 
-bounds: [-5,5,-5,5]
-disableZoom: false
-grid: true
----
-y = x^3
-
+```ad-example
+```
 
 
 
