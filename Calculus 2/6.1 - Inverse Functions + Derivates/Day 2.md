@@ -37,6 +37,14 @@ color: 255, 127, 80
 ```
 
 
-## Find Inverse 
+## Find Inverse of a One-to-One Function
+
+### Step 1
+
+Write $y = f(x)$
+
+### Step 2
+
+Solve this equation for $x$ in terms of $y
 
 
