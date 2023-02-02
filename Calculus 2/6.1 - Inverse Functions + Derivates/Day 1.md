@@ -64,4 +64,5 @@ A function that never takes on the same value twice.
 
 Each Element of $x$ maps to a *unique* element of $y$.
 
-$$f(x1) 
+$$f(x_1) != f(x_2)$$
+
