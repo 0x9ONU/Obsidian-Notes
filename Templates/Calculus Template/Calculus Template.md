@@ -4,7 +4,7 @@ File Folder: <% tp.file.folder() %>
 
 <% tp.web.daily_quote %>
 
-```ad-a
-test
+```ad-abstract
+title: Today's Topics
 
 ```
