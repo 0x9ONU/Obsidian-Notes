@@ -76,7 +76,7 @@ title: Eamples of One-To-One Functions
 
 ```functionplot
 ---
-title: 
+title: y = x
 xLabel: 
 yLabel: 
 bounds: [-5,5,-5,5]
@@ -84,9 +84,11 @@ disableZoom: false
 grid: true
 ---
 y = x
-```
+
 
 ```
+
+
 
 
 
