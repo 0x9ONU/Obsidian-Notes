@@ -38,4 +38,4 @@ Each value of Set 1 is set to a single element in set 2
 
 ## Onto Functions
 
-Whena  function $$f: x -> y$$
+Whena  function $f: x => y$ 
