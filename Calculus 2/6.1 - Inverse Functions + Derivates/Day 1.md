@@ -114,6 +114,19 @@ title: Example: Horizontal Line Test
 At least one horizontal line intersects at two or more points of a funciton, so $y = x^2$ is NOT one-to-one
 
 
+```functionplot
+---
+title: y = x^2
+xLabel: 
+yLabel: 
+bounds: [-10,10,-10,10]
+disableZoom: false
+grid: true
+---
+f(x) = x^2
+g(x) = 1
+```
+
 ```
 
 
