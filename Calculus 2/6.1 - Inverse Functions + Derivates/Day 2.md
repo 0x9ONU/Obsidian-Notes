@@ -22,7 +22,10 @@ Is defined by:
 
 $f^-1(y) = x$ ==if and only if== $f(x) = y$
 
-
+```ad-info
+title Fact
+Domain of $f$ -
+```
 
 
 
