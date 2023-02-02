@@ -32,7 +32,7 @@ title: Fact
 title: Fact
 color: 255, 127, 80
 
-f
+$f^-1(f(x)) = x$ for all $x 
 ```
 
 
