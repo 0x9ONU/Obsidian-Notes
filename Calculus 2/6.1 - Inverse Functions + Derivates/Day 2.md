@@ -32,7 +32,8 @@ title: Fact
 title: Fact
 color: 255, 127, 80
 
-$f^-1(f(x)) = x$ for all $x 
+- $f^-1(f(x)) = x$ for all $x ∈ A$
+- $f(f^-1)
 ```
 
 
