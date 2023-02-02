@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template.md",
+                "file": "Calculus 2/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template.md",
+                "file": "Calculus 2/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template.md",
+                "file": "Calculus 2/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template.md"
+                "file": "Calculus 2/Template.md"
               }
             }
           },
@@ -158,11 +158,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d58cbd477c1d30e",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
     "Calculus 2/6.1/test.md",
     "2023-02-02.md",
     "Untitled.canvas",
-    "Template.md"
+    "Calculus 2/Template.md"
   ]
 }
