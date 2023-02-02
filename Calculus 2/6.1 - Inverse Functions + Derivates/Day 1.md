@@ -87,9 +87,24 @@ y = x
 ```
 
 ```ad-example
+title: Example of One-To-One Function 2
+
+```functionplot
+---
+title: y = x^3
+xLabel: 
+yLabel: 
+bounds: [-5,5,-5,5]
+disableZoom: false
+grid: true
+---
+y = x^3
+
 ```
 
+## Horizontal Line Test
 
+**M
 
 
 
