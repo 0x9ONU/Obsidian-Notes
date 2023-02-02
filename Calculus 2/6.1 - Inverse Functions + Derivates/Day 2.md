@@ -51,6 +51,10 @@ Solve this equation for $x$ in terms of $y$
 
 To express $f^-1$ as a funciton of $x$.
 
-Interchange $x$ and 
+*Interchange* $x$ and $y$.
+
+The resulting equation is $y = f^-1(x)$
+
+
 
 
