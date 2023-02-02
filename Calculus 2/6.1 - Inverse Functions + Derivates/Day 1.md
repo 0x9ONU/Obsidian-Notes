@@ -114,6 +114,10 @@ title: Example: Horizontal Line Test
 At least one horizontal line intersects at two or more points of a funciton, so $y = x^2$ is NOT one-to-one
 
 
+
+```
+
+
 ```
 
 
