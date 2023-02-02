@@ -109,9 +109,11 @@ y = x^3
 If *one horizontal line* is able to be drawn on a fucntion where it intersects at **two or more points**, the function is NOT one-to-one.
 
 ```ad-example
-title: Horizontal Line Test
+title: Example: Horizontal Line Test
 
-The 
+At least one horizontal line intersects at two or more points of a funciton, so $y = x^2$ is NOT one-to-one
+
+
 ```
 
 
