@@ -13,6 +13,6 @@ collapse: open
 
 ```
 
+## Functions
 
-```ad-example
-```
+For every element of one set 
