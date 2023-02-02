@@ -127,10 +127,11 @@ f(x) = x^2
 g(x) = 1
 ```
 
+```ad-important
+**ONLY** one-to-one funcitons are invertable
 ```
 
 
+```ad-question
+Is the function f(x)
 ```
-
-
-
