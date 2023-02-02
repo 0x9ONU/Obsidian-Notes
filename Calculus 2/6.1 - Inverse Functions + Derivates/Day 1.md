@@ -133,5 +133,10 @@ g(x) = 1
 
 
 ```ad-question
-Is the function $f(x) = \sqrt[x]$
+Is the function $f(x) = \sqrt{x}$ a one-to-one function?
+
+	```ad-caution
+	title: answer
+```
+
 ```
