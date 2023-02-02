@@ -50,6 +50,8 @@ collapse: open
 
 Every element in set 2 has a pre-image in set 1
 (One value in set 1 can pre-image set 2)
+
+
 ```
 
 
