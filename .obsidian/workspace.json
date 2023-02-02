@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6991c4052a475b2b",
+        "id": "10bbd4fbe2a1fa31",
         "type": "tabs",
         "children": [
           {
-            "id": "5d58cbd477c1d30e",
+            "id": "526be3dfcb84bcbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus 2/Template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Calculus 2/Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,9 +152,10 @@
   },
   "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Calculus 2/Template.md",
     "Calculus 2/6.1/test.md",
     "2023-02-02.md",
-    "Untitled.canvas",
-    "Calculus 2/Template.md"
+    "Untitled.canvas"
   ]
 }
