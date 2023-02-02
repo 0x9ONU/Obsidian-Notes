@@ -64,5 +64,5 @@ A function that never takes on the same value twice.
 
 Each Element of $x$ maps to a *unique* element of $y$.
 
-$$f(x_1) != f(x_2)$$
+$f(x_1) \ne f(x_2)$ Whenever $x_
 
