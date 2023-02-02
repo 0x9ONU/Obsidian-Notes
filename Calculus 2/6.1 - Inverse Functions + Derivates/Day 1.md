@@ -156,9 +156,13 @@ z(x)=2
 ```
 
 ```ad-question
-Is the function $f(x) = x^2 + 4$ one to one?\
+Is the function $f(x) = x^2 + 4$ one to one?
 
+```ad-check
+title: Answer
+By the horizontal line test, the given fucntion is NOT one to one
 
+```
 
 ```
 ```
