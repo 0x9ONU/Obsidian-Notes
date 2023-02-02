@@ -15,4 +15,8 @@ collapse: open
 
 ## Functions
 
-For every element of one set 
+Every elemtn of one set should match to **only** one elmtn of another set
+
+```ad-example
+
+```
