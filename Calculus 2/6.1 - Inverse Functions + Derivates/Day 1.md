@@ -133,8 +133,8 @@ g(x) = 1
 
 
 ```ad-question
+collapse: open
 Is the function $f(x) = \sqrt{x}$ a one-to-one function?
-co
 
 
 ```ad-check
@@ -158,9 +158,11 @@ z(x)=2
 
 ```ad-question
 Is the function $f(x) = x^2 + 4$ one to one?
+collapse: open
 
 ```ad-check
 title: Answer
+collapse: open
 By the horizontal line test, the given fucntion is NOT one to one
 
 ```functionplot
@@ -175,4 +177,9 @@ grid: true
 f(x) = x^2 + 4
 g(x) = 5
 ```
+
+```c++
+
+```
+
 
