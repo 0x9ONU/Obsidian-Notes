@@ -20,7 +20,9 @@ Its inverse function $f^-1(x)$ has a domain of $B$ and a range of $A$.
 
 Is defined by:
 
-$f^-1(y) = x$ ==if and onlt
+$f^-1(y) = x$ ==if and only if== $f(x) = y$
+
+
 
 
 
