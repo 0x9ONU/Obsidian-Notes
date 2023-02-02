@@ -22,5 +22,7 @@ title: Example: Not a Function
 color: 225, 120, 0
 collapse: open
 
+**A** cannot be s
 
 ```
+![[Drawing 2023-02-02 16.42.55.excalidraw]]
