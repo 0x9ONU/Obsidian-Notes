@@ -134,6 +134,7 @@ g(x) = 1
 
 ```ad-question
 Is the function $f(x) = \sqrt{x}$ a one-to-one function?
+co
 
 
 ```ad-check
@@ -162,8 +163,16 @@ Is the function $f(x) = x^2 + 4$ one to one?
 title: Answer
 By the horizontal line test, the given fucntion is NOT one to one
 
+```functionplot
+---
+title: f(x) = x^2 + 4
+xLabel: 
+yLabel: 
+bounds: [-10,10,-10,10]
+disableZoom: false
+grid: true
+---
+f(x) = x^2 + 4
+g(x) = 5
 ```
 
-```
-```
-```
