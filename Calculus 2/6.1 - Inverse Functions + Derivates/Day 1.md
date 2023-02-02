@@ -28,5 +28,5 @@ collapse: open
 ![[Drawing 2023-02-02 16.42.55.excalidraw]]
 
 ```ad-info
-
+title: Example: Is a function
 ```
