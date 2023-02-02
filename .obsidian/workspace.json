@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-02 16.54.51.excalidraw.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-02 16.54.51.excalidraw.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-02 16.54.51.excalidraw.md"
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md"
               }
             }
           },
@@ -174,10 +174,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ac148d1d698f161",
+  "active": "304782bcd8880f9f",
   "lastOpenFiles": [
-    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md",
     "Excalidraw/Drawing 2023-02-02 16.54.51.excalidraw.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md",
     "Excalidraw/Drawing 2023-02-02 16.42.55.excalidraw.md",
     "Excalidraw/Drawing 2023-02-02 16.52.58.excalidraw.md",
     "Templates/Calculus Template/Calculus Template.md",

@@ -34,3 +34,8 @@ collapse: open
 Each value of Set 1 is set to a single element in set 2
 
 ```
+![[Drawing 2023-02-02 16.54.51.excalidraw]]
+
+## Onto Functions
+
+Whena  function $$f: x -> y$$
