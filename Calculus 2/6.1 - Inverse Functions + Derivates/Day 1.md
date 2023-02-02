@@ -24,8 +24,10 @@ collapse: open
 
 **A** cannot be set to two different values
 
-```
 ![[Drawing 2023-02-02 16.42.55.excalidraw]]
+
+```
+
 
 ```ad-info
 title: Example: Is a function
@@ -33,8 +35,10 @@ collapse: open
 
 Each value of Set 1 is set to a single element in set 2
 
-```
 ![[Drawing 2023-02-02 16.54.51.excalidraw]]
+
+```
+
 
 ## Onto Functions
 
