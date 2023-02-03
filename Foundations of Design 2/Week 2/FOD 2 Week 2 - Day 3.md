@@ -76,11 +76,22 @@ color: 255, 255, 0
 # Two Minute Engineer
 
 ```ad-important
-- Key changes:
-	-memo = speech
+title: Key Changes
+- Memo = Speech Outline
+- Two minute long presentation
+- Create 2 slides for presentation
+- COME BACK
 ```
 
 
+
+
+
+
+```ad-todo
+- Sign up for a Writing Center appointment
+- Pick a topic!
+```
 
 
 
