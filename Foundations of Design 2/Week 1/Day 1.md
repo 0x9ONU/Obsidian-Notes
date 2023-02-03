@@ -115,10 +115,10 @@ title: Answer
 
 # Data Types
 
-| Type  | Default Value | Description          | Range       |
-| ----- | ------------- | -------------------- | ----------- |
-| Byte  | 0             | 8-bit signed integer | -128 to 127 |
-| Short | 0             | 16-bit signed in                     |             |
+| Type  | Default Value | Description           | Range       |
+| ----- | ------------- | --------------------- | ----------- |
+| Byte  | 0             | 8-bit signed integer  | -128 to 127 |
+| Short | 0             | 16-bit signed integer |             |
 
 
 
