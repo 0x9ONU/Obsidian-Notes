@@ -57,7 +57,9 @@ title: Answer
 	- $x(3x^2+4x+6) = 0$
 		- take $x$ out as a common factor
 	- $x = 0$ and $3x^2 + 4x + 6 = 0$
-	- \frac{(-4)+/pm\sqrt{}}
+	- \frac{(-4)+\pm\sqrt{(4)^2-4(3)(6)}}{2(3)}
+		- use quadratic formula to get the other two roots
+	- \frac -4 
 ```
 ```
 
