@@ -37,7 +37,14 @@ Find if the function is one to one
 
 ### Step 2
 
-Find $f^-1(a)$ using the previous theorem
+Find $f^-1(a)$ 
+
+## Step 3
+
+Utilize the formula:
+
+$$(f^-1)'(a) = \frac{1}{f'(f^-1(a))}$$
+
 
 ```ad-question
 Find $(f^-1)'(a)$:
