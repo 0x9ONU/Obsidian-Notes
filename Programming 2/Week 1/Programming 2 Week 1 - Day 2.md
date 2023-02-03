@@ -66,6 +66,31 @@ A small graphical window that displays a message to the user or request input
 Can be used as *both* input and output
 
 ```ad-warning
-
-You will need to add this to the beginning fo the file witht he other import statements
+title: Important
+You will need to add this to the beginning fo the file with the other import statements
+``` java
+import javax.swing.JOptionPane;
 ```
+
+### How to Utilize it
+
+``` java
+String name = JOptionPane.showInputDialog("What is your name?");
+JOptionPane.showMessageDialog(null, "Your name is " name);
+```
+
+```ad-danger
+title: Warning
+- WIll **always** return a String
+- You will have to conver the String object to another data format if you need another
+
+```ad-check
+title: So
+```
+```
+
+
+
+
+
+
