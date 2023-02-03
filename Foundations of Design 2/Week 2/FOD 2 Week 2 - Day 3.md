@@ -26,7 +26,9 @@ title: New News
 - Designs should be made for the user, not for *you*
 - Ask / observe / review literature about potential users
 
+# Notes
 
+Be very deligent about making your design decisions relating to the stakeholders
 
 
 
