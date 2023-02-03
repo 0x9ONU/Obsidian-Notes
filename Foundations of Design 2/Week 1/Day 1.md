@@ -118,7 +118,6 @@ title: Answer
 | Type | Default Value | Description          | Range       |
 | ---- | ------------- | -------------------- | ----------- |
 | Byte | 0             | 8-bit signed integer | -128 to 127 |
-|      |               |                      |             |
 
 
 
