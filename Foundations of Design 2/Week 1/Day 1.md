@@ -117,7 +117,7 @@ title: Answer
 
 | Type | Default Value | Description          | Range |
 | ---- | ------------- | -------------------- | ----- |
-| Byte | 0             | 8-bit signed integer |       |
+| Byte | 0             | 8-bit signed integer | -128 t      |
 
 
 
