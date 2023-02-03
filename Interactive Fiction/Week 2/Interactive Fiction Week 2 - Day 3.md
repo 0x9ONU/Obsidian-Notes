@@ -6,17 +6,32 @@ File Folder: Week 2
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Introduction to Inform
 
 ```
 
-
 ### Announcements
 
-
+```ad-tip
+title: Monday's Class
 - Assigned Tables
 	- Table #1
-- Bring paper and pencil
-- 
+- Bring paper and pencils
+```
+
+### Today's Lab
+
+- Introduction to Inform
+- Working with the basics of rooms and things (AKA objects)
+
+## Rooms
+
+Any locaiton in Inform where the player has the opportunity to enter commands
+
+```ad-example
+title: Can Be
+- An Actual Room
+- A location
+- Part of a room/location
+```
+
