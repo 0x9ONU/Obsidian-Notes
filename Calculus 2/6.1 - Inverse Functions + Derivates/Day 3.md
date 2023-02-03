@@ -68,6 +68,8 @@ title: Answer
 		- Use quadratic formula to get the other two roots
 	- $\frac {-4 \ sqrt{-56}}{6}$
 		- No real roots exist, so we do not consider them
+	- Thus, $f^-1(5) = 0$
+- Step 3
 	- 
 ```
 ```
