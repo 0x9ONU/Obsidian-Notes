@@ -29,5 +29,18 @@ title: Review of Terms
 - Programmer--Defiend Names/ Identifiers
 	- Usd to identify storage locations in memory and parts of the program taht are created by the programmer
 - Syntax
-	- Rules that must be followed when writing a program, dictates how key words and operators may be used and where punctuation 
+	- Rules that must be followed when writing a program, dictates how key words and operators may be used and where punctuation symbols must appear
+```
+
+## Example Program in Java
+
+```java
+public class CalcArea
+{
+	public static void main(String[] args)
+	{
+		double length = 10.0;
+		
+	}
+}
 ```
