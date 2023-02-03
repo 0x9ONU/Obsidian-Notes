@@ -77,7 +77,12 @@ collapse: open
 - Solution: $f^-1(x) = \frac{6-7x}{5x+3}$
 ```
 
-## Relationship betw
+## Relationship betweeng graph of $f(x)$ and $f^-1(x)$
+
+```ad-note
+collapse = open
+The graph of $f^-1()
+```
 
 
 
