@@ -70,10 +70,11 @@ title: Answer
 		- No real roots exist, so we do not consider them
 	- Thus, $f^-1(5) = 0$
 - Step 3
-	- $(f^-1)(5) = \frac{1}{f'(f^-1(5))}
-	- 
+	- $(f^-1)(5) = \frac{1}{f'(f^-1(5))}$
+	- $(f^-1)(5) = \frac{1}{f'(0)}$
+	- $(f^-1)(5) = \frac{1}{6}$
 ```
-```
+
 
 
 
