@@ -16,3 +16,7 @@ collapse: open
 
 # Introduction to Java
 
+```ad-abstract
+title: Review of Terms
+
+```
