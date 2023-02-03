@@ -40,7 +40,12 @@ public class CalcArea
 	public static void main(String[] args)
 	{
 		double length = 10.0;
-		
+		int width = 5;
+		double area = legth * width;
+		system.out.println("The area=" + area);
 	}
 }
 ```
+
+## Identifiers
+	
