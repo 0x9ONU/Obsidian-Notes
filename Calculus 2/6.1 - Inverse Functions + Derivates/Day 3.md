@@ -18,4 +18,9 @@ If $f$ is one to one, continuous function defined on an interval, its inverse fu
 ```
 
 
+```ad-abstract
+title: Theorem
+color: 
+```
+
 
