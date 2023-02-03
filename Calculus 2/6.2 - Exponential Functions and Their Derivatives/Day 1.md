@@ -22,5 +22,7 @@ If $b > 0$ and $b \ne 1$, then $f(x) = b^x$ is continuouis where the domain is a
 In particular: $b^x > 0$ for all $x$
 
 ```ad-info
-title: Fa
+title: Fact
+- If $0 < b < 1$, $f(x) = b^x$ is a devreasing function
+- If $b > 1$ f(x)
 ```
