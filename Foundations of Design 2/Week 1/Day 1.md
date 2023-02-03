@@ -115,9 +115,9 @@ title: Answer
 
 # Data Types
 
-| Type | Default Value | Description | Range |
-| ---- | ------------- | ----------- | ----- |
-| Byte | 0             | 8-bit signed            |       |
+| Type | Default Value | Description          | Range |
+| ---- | ------------- | -------------------- | ----- |
+| Byte | 0             | 8-bit signed integer |       |
 
 
 
