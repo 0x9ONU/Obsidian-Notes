@@ -56,7 +56,8 @@ title: Answer
 	- $3x^3+4x^2+6x = 0$
 	- $x(3x^2+4x+6) = 0$
 		- take $x$ out as a common factor
-	- $x = 0$ and 
+	- $x = 0$ and $3x^2 + 4x + 6 = 0$
+	- \frac{(-4)+/}
 ```
 ```
 
