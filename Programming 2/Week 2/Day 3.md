@@ -52,11 +52,25 @@ Scanner keyboard = new Scanner(System.in);
 
 ``Scanner keyboard`` is now an object or instance of class ``Scanner``
 
-```mermaid
-Flowchart FR
-A[Scanner] -> B[The data type of the variable]
-C[keyboard] -> D[The identifier/variable]
-```
+- ``Scanner``
+	The data type of the variable
+- ``keyboard``
+	- The identifer/variable
+
+### ``new`` Keyword
+
+Use to create a new object in memory
+
+We are calling a consturctor from the ``Scanner`` class and we are pass it ``System.in`` which will be the stuffed typed into the keyboard
+
+
+
+
+
+
+
+
+
 
 
 
