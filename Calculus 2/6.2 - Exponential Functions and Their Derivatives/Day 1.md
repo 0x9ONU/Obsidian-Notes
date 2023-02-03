@@ -10,6 +10,11 @@ collapse: open
 
 ```
 
+## Exponential Function
 
+An exponential function is a function of the form $f(x) = b^x$ where $b > 0$ and $b \ne 1$
+
+```ad-
+```
 
 
