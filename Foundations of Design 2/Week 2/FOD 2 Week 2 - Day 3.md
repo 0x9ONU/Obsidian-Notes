@@ -21,6 +21,13 @@ title: New News
 - Monday is Value Proposition
 ```
 
+### What are the article's key points?
+
+- Designs should be made for the user, not for *you*
+- Ask / observe / review literature about potential users
+
+
+
 
 
 
