@@ -68,7 +68,10 @@ title: Answer
 	- $5xy + 7y = 6 - 3x$ 
 	- $5xy + 3x = 6 - 7y$
 		- Shift terms of x to one side and terms of y to the other side
-	- $
+	- $x(5y + 3) = 6 - 7y$
+		- Take x out as a common factor
+	- $x = \frac{6-7y}{5y+3}$
+	- 
 ```
 ```
 
