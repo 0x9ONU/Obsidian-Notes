@@ -10,6 +10,12 @@ collapse: open
 
 ```
 
-## Differentiation of Inv
+## Differentiation of Inverse Functions
+
+```ad-abstract
+title: Theorem
+If $f$ is one to one, continuous function defined on an interval, its inverse funtion $f^-1$ is also continuous.
+```
+
 
 
