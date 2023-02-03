@@ -115,7 +115,9 @@ title: Answer
 
 # Data Types
 
-| t
+| Type |
+| ---- |
+|      |
 
 
 
