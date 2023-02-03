@@ -117,7 +117,7 @@ title: Answer
 
 | Type | Default Value | Description | Range |
 | ---- | ------------- | ----------- | ----- |
-| Byte |               |             |       |
+| Byte | 0             |             |       |
 
 
 
