@@ -66,11 +66,13 @@ title: Rules for Identifiers
 
 ```mermaid
 flowchart LR
-IDE --> Source Files (.java) --> Java Complier 
+IDE --> Source Files (.java)
 Source Files (.java) --> Java Complier 
 Java Complier --> Byte Code File
-Byte Code File -->
+Byte Code File --> Java Virtual Machine
 ```
+
+
 
 
 
