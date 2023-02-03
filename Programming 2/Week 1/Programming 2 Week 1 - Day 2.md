@@ -180,13 +180,50 @@ FormatString looks something like `"Pi is %f"`
 
 ``` java
 Double pi = 3.14159;
-System.out.printf(“Pi is %f!”, pi);
+System.out.printf("Pi is %f!", pi);
 
 Int dragons = 3;
 Int griffins = 7;
 
-System.out.printf(“We have %d dragons and %d griffins.\n”, dragons, griffins);
+System.out.printf("We have %d dragons and %d griffins.\n", dragons, griffins);
 
 Double value1 = 123.45678
-Ssytem.out.printf(“%.2f\n”, value1);
+System.out.printf("%.2f\n", value1);
+```
+
+
+## Increment and Decrement
+
+Same as C++
+
+- `++` to increase by one
+- `--` to decrease by one
+- Can be used as a prefix or a postfix
+
+# Loops
+
+Same as C++
+
+## Format
+
+```java
+while(condition) {/*loopbody*/}
+
+do
+{
+	//loop body
+}
+while(condition);
+```
+
+## For Loop
+
+Standard:
+``` java
+for (int i = x; i < y; i++)
+```
+
+Enhanced:
+``` java
+for (data)
 ```
