@@ -91,6 +91,23 @@ Sketch the graph of $f(x) = \sqrt{x - 2}$  and its inverse function ($f^-1(x) = 
 ```ad-check
 title: Answer
 
+```functionplot
+---
+title: 
+xLabel: 
+yLabel: 
+bounds: [0,10,0,10]
+disableZoom: false
+grid: true
+---
+f(x) = sqrt(x - 2)
+g(x) = x^2 + 2
+y(x) = x
+
+```
+
+
+
 ```
 
 
