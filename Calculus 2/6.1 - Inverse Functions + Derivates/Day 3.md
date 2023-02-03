@@ -37,7 +37,7 @@ Find if the function is one to one
 
 ### Step 2
 
-
+Find $f^-1(a)$ using the previous theorem
 
 ```ad-question
 Find $(f^-1)'(a)$:
@@ -45,7 +45,8 @@ Find $(f^-1)'(a)$:
 
 ```ad-check
 title: Answer
-
+- Step 1
+	- 
 ```
 ```
 
