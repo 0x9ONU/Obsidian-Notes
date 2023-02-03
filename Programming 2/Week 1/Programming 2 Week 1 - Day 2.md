@@ -83,13 +83,29 @@ JOptionPane.showMessageDialog(null, "Your name is " name);
 title: Warning
 - WIll **always** return a String
 - You will have to conver the String object to another data format if you need another
+```
+
+#### Converting Data Types
 
 ```ad-check
-title: So
-```
+title: Solution
+Utilized ``DataType.parseType(String)``
+```java
+String amnt = JOptionPane.showInputDialog("How many donuts?");
+int numDonuts = Integer.parseInt(amnt);
+
 ```
 
+# Decision Structure
 
+The **same** as in C!
+
+| Name                  | Symbol | Java |
+| --------------------- | ------ | ---- |
+| Greater Than          | $>$    | >    |
+| Less Than             | $<$    | <    |
+| Greater Than Equal to | $\ge$  | >=   |
+| Less Than Equal to    |        |      |
 
 
 
