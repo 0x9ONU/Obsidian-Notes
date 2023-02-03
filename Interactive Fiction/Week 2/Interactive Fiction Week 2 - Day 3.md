@@ -35,3 +35,4 @@ title: Can Be
 - Part of a room/location
 ```
 
+COME BACK LATER FOR OBJECTS/THINGS
