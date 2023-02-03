@@ -61,7 +61,10 @@ Find inverse fucntion of $f(x) = \frac{6-3x}{5x+7}$
 
 ```ad-check
 title: Answer
--Step 1: $f(x)
+-Step 1: $f(x)$ -> $y = \frac{6-3x}{5x+7}$
+-Step 2: 
+	- $y = \frac{6-3x}{5x+7}$
+	- $y(5x + 7) = 6
 ```
 ```
 
