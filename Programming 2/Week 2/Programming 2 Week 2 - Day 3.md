@@ -97,7 +97,16 @@ public class Main
 
 A *constructor* initalizes the instance variables of an object
 
-The construcotr is automatically called wheneve an ojbect is created with teh ***New*** operator.
+The construcotr is automatically called wheneve an ojbect is created with the ***New*** operator.
+
+```ad-info
+title: Example
+
+``` java
+public Student() {this.name = "Klodike Bear"; this.ID = 0;}
+```
+
+
 
 
 
