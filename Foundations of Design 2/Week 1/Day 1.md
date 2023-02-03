@@ -53,8 +53,12 @@ public class CalcArea
 - Variable names begin with a lowercase letter
 - Should be ***descriptive
 
-```id-info
+```ad-info
 title: Rules for Identifiers
--1st character must be a letter, an underscore, or a dollar sign ($)
-After the 
+- 1st character must be a letter, an underscore, or a dollar sign ($)
+- After the 1st character, you can use any letters or digits or underscores or dollars signs
+- Uppercase and lowercase characters are distinct
+- **Cannot** include spaces
 ```
+
+
