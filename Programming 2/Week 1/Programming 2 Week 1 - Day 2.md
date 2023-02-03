@@ -136,8 +136,22 @@ The **same** as in C!
 
 Three methods are used to compare two string objects
 
+1. `.equals`
+	1. Makes ure the string is the same.
+	2. Returns either true or false
+	3. *includes* case and symbols and whitespace
+	4. Syntax: ``str1.equals(str2)``
+2. `.equalsIgnoreCase`
+	1. Same as equals, **BUT** it does *not* take case into account
+	2. Example: "Hans" and "hans" would be the same
+	3. Syntax: `str.equalsIgnoreCase(str2)
+3. `.compareTo`
+	1. Returns an int value that is equal tot eh difference between the first different character of the String in ascii
+		1. =0 - means the Strings are the same
+		2. Less than - means str1 is less than str2
+		3. Greater than - means str1 is greater than str2
+	2. Syntax 
+		1. `int result = str1.compareTo(str2)`
 
-
-
-
+# Formatting Output
 
