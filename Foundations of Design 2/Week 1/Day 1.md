@@ -115,8 +115,9 @@ title: Answer
 
 # Data Types
 
-| Type | Default Value | Description | Range | 
+| Type | Default Value | Description | Range |
 | ---- | ------------- | ----------- | ----- |
+|      |               |             |       |
 
 
 
