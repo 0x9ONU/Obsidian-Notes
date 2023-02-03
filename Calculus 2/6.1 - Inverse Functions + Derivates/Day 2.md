@@ -66,6 +66,8 @@ title: Answer
 	- $y = \frac{6-3x}{5x+7}$
 	- $y(5x + 7) = 6 - 3x$
 	- $5xy + 7y = 6 - 3x$ 
+	- $5xy + 3x = 6 - 7y$
+		- Shift terms of x to one side and terms of y to the other side
 	- $
 ```
 ```
