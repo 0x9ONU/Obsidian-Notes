@@ -70,8 +70,12 @@ color: 255, 255, 0
 
 - July 17, 1981 in Kansas City, Missouri
 - Hotel atrium walkways collapsed, killing 114 people
-- Origianl Design by Jack Gillum and Associates
-- COME BACK
+- Origianl Design by Jack Gillum and Associates repordely accounts for ~60% of structural load
+- **Plans changed**, grealty reducing the safety factor to around 1 (no margin for error).
+- Final plans by Haven Steel approved over the phone, without aclculations or visual confirmation on site.
+
+```ad-danger
+```
 
 # Two Minute Engineer
 
