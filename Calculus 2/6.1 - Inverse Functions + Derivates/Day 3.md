@@ -50,6 +50,9 @@ title: Answer
 	- $f(x)$ is an increasing function
 	- Thus $f(x)$ is a one to one fucntion AND is invertible
 - Step 2
+	- $f^-1(5) = x$
+	- which means $f(x) = 5$
+	- $3x^3+4x^2+6x+5 = 5$
 	- 
 ```
 ```
