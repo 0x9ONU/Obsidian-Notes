@@ -115,7 +115,7 @@ title: Answer
 
 # Data Types
 
-| Type | Default Value | 
+| Type | Default Value | Descr
 | ---- | ------------- |
 
 
