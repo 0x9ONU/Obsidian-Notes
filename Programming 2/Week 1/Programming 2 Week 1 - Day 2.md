@@ -14,8 +14,13 @@ collapse: open
 - Order of Precedence 
 - Comparing String Objects
 - Formatting Output
+- Increment and Decrement
+- Loops
+	- While
+	- For
 
 ```
+
 
 # Comments
 
@@ -89,7 +94,7 @@ title: Warning
 
 ```ad-check
 title: Solution
-Utilized ``DataType.parseType(String)``
+Utilize ``DataType.parseType(String)``
 ```java
 String amnt = JOptionPane.showInputDialog("How many donuts?");
 int numDonuts = Integer.parseInt(amnt);
@@ -153,5 +158,35 @@ Three methods are used to compare two string objects
 	2. Syntax 
 		1. `int result = str1.compareTo(str2)`
 
+```ad-danger
+title: Warning
+
+**NEVER** do `str1 == str2` in java!
+```
+
 # Formatting Output
 
+Uses `printf` statements to properly format output.
+
+```ad-info
+title: General format
+``` java
+Stringout.printf("FormatString", ArgumentList);
+```
+
+FormatString looks something like `"Pi is %f"`
+
+## Examples of PrintF statements
+
+``` java
+Double pi = 3.14159;
+System.out.printf(“Pi is %f!”, pi);
+
+Int dragons = 3;
+Int griffins = 7;
+
+System.out.printf(“We have %d dragons and %d griffins.\n”, dragons, griffins);
+
+Double value1 = 123.45678
+Ssytem.out.printf(“%.2f\n”, value1);
+```
