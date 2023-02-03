@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52eb183532b904cd",
+        "id": "06a1adcddb527eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "304782bcd8880f9f",
+            "id": "e040469461ffaec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md"
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md"
               }
             }
           },
@@ -158,8 +158,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "304782bcd8880f9f",
+  "active": "e040469461ffaec8",
   "lastOpenFiles": [
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Drawing 2023-02-02 20.00.15.excalidraw.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/Day 2.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md",
     "Templates/Calculus Template/Calculus Template.md",
@@ -167,8 +169,6 @@
     "Excalidraw/Drawing 2023-02-02 16.54.51.excalidraw.md",
     "Excalidraw/Drawing 2023-02-02 16.42.55.excalidraw.md",
     "Excalidraw/Drawing 2023-02-02 16.52.58.excalidraw.md",
-    "Calculus 2/6.1/Untitled.md",
-    "Calculus 2/6.1/test.md",
-    "Templates/Untitled.md"
+    "Calculus 2/6.1/Untitled.md"
   ]
 }
