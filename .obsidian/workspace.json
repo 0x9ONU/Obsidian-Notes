@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-02.md",
+                "file": "Foundations of Design 2/Week 1/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-02.md",
+                "file": "Foundations of Design 2/Week 1/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-02.md",
+                "file": "Foundations of Design 2/Week 1/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-02.md"
+                "file": "Foundations of Design 2/Week 1/Day 1.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,15 +193,15 @@
   },
   "active": "a06685741712ade5",
   "lastOpenFiles": [
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Day 1.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 2.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md",
+    "2023-02-02.md",
     "Untitled.canvas",
     "Foundations of Design 2/Week 1/Day 1.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
-    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Day 1.md",
     "Templates/Foundations of Design 2 Template/Programming Template.md",
-    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 2.md",
-    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md",
     "Foundations of Design 2/Week 1/Drawing 2023-02-02 20.11.57.excalidraw.md",
-    "Templates/Calculus Template/Calculus Template.md",
-    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md"
+    "Templates/Calculus Template/Calculus Template.md"
   ]
 }
