@@ -7,9 +7,10 @@ title: Today's Topics
 collapse: open
 
 - Differentiation of Inverse Functions
-- How to Find $(f^)
+- How to Find $(f^-1)'(a)$
 
 ```
+
 
 ## Differentiation of Inverse Functions
 
@@ -27,6 +28,8 @@ If $f$ is one to one, differentiabel funciton with inverse function $f^-1(x)$ an
 
 ```
 
+
+## Find $(f^-1)'(a)$ 
 
 
 
