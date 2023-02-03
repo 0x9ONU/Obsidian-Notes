@@ -66,12 +66,57 @@ title: Rules for Identifiers
 
 ```mermaid
 flowchart LR
-IDE --> Source Files (.java)
-Source Files (.java) --> Java Complier 
-Java Complier --> Byte Code File
-Byte Code File --> Java Virtual Machine
+A[IDE] --> B
+B[Source Files .java] --> C
+C[Java Complier] --> D
+D[Byte Code File] --> E
+E[Java Virtual Machine]
 ```
 
+### Java Virtual Machine
+
+- Good for portability
+	- Works on almost any OS
+- Makes it so pointers are not necessary and don't work anymore
+- Makes it so you have to put more effort into a program to make it work
+
+## Object-Oriented Programming (OOP)
+
+```ad-example
+title: General Overview
+
+1. Java is an OOP language
+2. OOP is a method of sotware developmetn that has its own practices, concepts, and vocabulary
+3. OOP is centerd on creating objects
+4. OOP addresses the problem of code / data seperation through enapsulation and data hiding
+```
+
+### Objects
+- A software entity that contains data and procedures
+	- aka. Attributes and behaviors
+
+```ad-info
+- Encapsulation
+	- refers tot eh combining of data and code into a single object
+- Data hiding
+	- refers to an object's ability to hide its data from code taht is outside the object
+```
+
+# Fundamentals of Java
+
+## ``System.out.print`` vs ``System.out.println``
+
+```ad-check
+title: Answer
+- Print adds onto the previous line
+- Println adds onto a previous line AND goes to the next line
+	- much like endl and \n
+```
+
+# Data Types
+
+| Type | Default Value | Description | Range |
+|  | ------------- | ----------- | ----- |
 
 
 
