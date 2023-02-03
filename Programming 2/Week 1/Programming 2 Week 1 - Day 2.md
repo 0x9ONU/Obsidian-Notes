@@ -222,8 +222,3 @@ Standard:
 ``` java
 for (int i = x; i < y; i++)
 ```
-
-Enhanced:
-``` java
-for (data)
-```
