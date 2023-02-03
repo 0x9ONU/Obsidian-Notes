@@ -100,12 +100,43 @@ int numDonuts = Integer.parseInt(amnt);
 
 The **same** as in C!
 
-| Name                  | Symbol | Java |
-| --------------------- | ------ | ---- |
-| Greater Than          | $>$    | >    |
-| Less Than             | $<$    | <    |
-| Greater Than Equal to | $\ge$  | >=   |
-| Less Than Equal to    |        |      |
+| Name                  | Symbol | Java   |
+| --------------------- | ------ | ------ |
+| Greater Than          | $>$    | ``>``  |
+| Less Than             | $<$    | ``<``  |
+| Greater Than Equal to | $\ge$  | ``>=`` |
+| Less Than Equal to    | $\le$  | ``<=`` |
+| Equals                | $=$    | ``==`` |
+| Not Equal to          | $\ne$  | ``!=``       |
+
+## Logical Operators
+
+- `!` NOT
+	- First
+	- Reverses true and false
+- ``&&`` AND
+	- Second
+	- Returns true *only when both* sides are true
+- ``||`` OR
+	- Third
+	- Return true when *either* sides are true
+
+## Overall Order of Precedence
+
+1.  - (unary negation), !
+2. */ %
+3. +, - (subtraction)
+4. < > <= >=
+5. ++ !=
+6. &&
+7. ||
+8. All assignment operators
+
+# Comparing String Objects
+
+Three methods are used to compare two string objects
+
+
 
 
 
