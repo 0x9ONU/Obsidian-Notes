@@ -18,5 +18,8 @@ collapse: open
 
 ```ad-abstract
 title: Review of Terms
-
+- Key words/Reserved words
+	- Words that have special meaning in programming languages and they can only be used for their inteded purposes
+- Operators
+	- Symbols or words that perform operations on one or more operands
 ```
