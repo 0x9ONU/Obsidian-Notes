@@ -11,5 +11,6 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "obsidian-functionplot",
-  "execute-code"
+  "execute-code",
+  "mermaid-tools"
 ]

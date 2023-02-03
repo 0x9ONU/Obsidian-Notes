@@ -32,6 +32,7 @@ title: Review of Terms
 	- Rules that must be followed when writing a program, dictates how key words and operators may be used and where punctuation symbols must appear
 ```
 
+
 ## Example Program in Java
 
 ```java
@@ -63,7 +64,6 @@ title: Rules for Identifiers
 
 ## Program Development Process
 
-| Name | Description | 
-| ---- | ----------- |
+
 
 
