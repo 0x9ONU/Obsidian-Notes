@@ -64,6 +64,15 @@ title: Rules for Identifiers
 
 ## Program Development Process
 
+```mermaid
+flowchart LR
+IDE --> Source Files (.java) --> Java Complier 
+Source Files (.java) --> Java Complier 
+Java Complier --> Byte Code File
+Byte Code File -->
+```
+
+
 
 
 
