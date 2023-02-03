@@ -24,5 +24,10 @@ title: Review of Terms
 	- Symbols or words that perform operations on one or more operands
 	- ex. + and -
 - Puncuation
-	- Most programming languages require the use of punctuation character
+	- Most programming languages require the use of punctuation characters that serve specific purposes
+	- the semicolon in most languages
+- Programmer--Defiend Names/ Identifiers
+	- Usd to identify storage locations in memory and parts of the program taht are created by the programmer
+- Syntax
+	- Rules that must be followed when writing a program, dictates how key words and operators may be used and where punctuation 
 ```
