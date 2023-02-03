@@ -80,9 +80,13 @@ collapse: open
 ## Relationship betweeng graph of $f(x)$ and $f^-1(x)$
 
 ```ad-note
-collapse = open
-The graph of $f^-1()
+collapse: open
+The graph of $f^-1$ is obtained by reflecting the graph of $f$ about the line $y=x$
 ```
+
+
+
+
 
 
 
