@@ -197,5 +197,5 @@ System.out.println(stringSize);
 	- Gets the total number of characters in a string and returns an int
 - ``toLowerCase()``
 	- chages all uppercase letters withina  string to lowercase
-- ``toUpperCase()
+- ``toUpperCase()``
 	- changes all teh lowercase letters within a stirng to uppercase
