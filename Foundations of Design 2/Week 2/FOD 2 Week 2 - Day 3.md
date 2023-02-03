@@ -75,7 +75,10 @@ color: 255, 255, 0
 - Final plans by Haven Steel approved over the phone, without aclculations or visual confirmation on site.
 
 ```ad-danger
+**DOING SOMETHING LIKE THIS CAN LOSE YOUR ABILITY TO PRACTICE ENGINEERING**
 ```
+
+
 
 # Two Minute Engineer
 
@@ -84,12 +87,18 @@ title: Key Changes
 - Memo = Speech Outline
 - Two minute long presentation
 - Create 2 slides for presentation
-- COME BACK
+- Complete a library moduel (due in one week)
+- Focus = ethics
 ```
 
+Research an engineering topic and visit the Writing Center
 
+## Libarary Modules
 
+- Must go to two of them
+- 10-15 minutes each
 
+The content is created by the ONU librarians and focuses on finding and assessing sources
 
 
 ```ad-todo
