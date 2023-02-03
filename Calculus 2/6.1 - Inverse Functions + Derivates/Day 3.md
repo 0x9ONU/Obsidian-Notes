@@ -21,8 +21,7 @@ If $f$ is one to one, continuous function defined on an interval, its inverse fu
 ```ad-abstract
 title: Theorem
 color: 255, 192, 203
-If $f$ is one to one, differentiabel funciton with inverse function $f^-1(x)$ and $f'(f^-1(a)) \ne 0$ then the inverse function is differentiable at a.
-
+If $f$ is one to one, differentiabel funciton with inverse function $f^-1(x)$ and $f'(f^-1(a)) \ne 0$ then the inverse function is differentiable at $a$. AND $$(f^-1)'(a) = \frac{1}{f'(f^-1)}
 
 
 ```
