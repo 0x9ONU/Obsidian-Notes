@@ -64,7 +64,9 @@ title: Answer
 -Step 1: $f(x)$ -> $y = \frac{6-3x}{5x+7}$
 -Step 2: 
 	- $y = \frac{6-3x}{5x+7}$
-	- $y(5x + 7) = 6
+	- $y(5x + 7) = 6 - 3x$
+	- $5xy + 7y = 6 - 3x$ 
+	- $
 ```
 ```
 
