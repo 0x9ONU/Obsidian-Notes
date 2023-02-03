@@ -97,6 +97,8 @@ public class Main
 
 # Constructor
 
+A sequence of statements for initialzing a newly instantiated object
+
 A *constructor* initalizes the instance variables of an object
 
 The construcotr is automatically called wheneve an ojbect is created with the ***New*** operator.
