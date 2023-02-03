@@ -55,7 +55,34 @@ public class Student
 	
 	//Constructors
 	public Student() {this.name = "Klodike Bear"; this.ID = 0;} //default constructor
-	public Studnet(String name, int ID) {htis.name = name; this.ID = ID;} //
+	public Studnet(String name, int ID) {htis.name = name; this.ID = ID;} // constructor that takes two parameters
+	
+	//Getters and Setters (accessors and mutators)
+	public void setName(String name) {this.name = name;}
+	public void setID(int ID) {this.ID = ID;}
+	public String getName() {return this.name;}
+	public int getID() {return this.ID;}
+	
+	//Other methods
+	
+	@Override
+	public String toString() {return "Student" + "name=" + name + 
+	
+
+	//CONTINUE LATER
+}
+```
+
+### How the Class is Used
+
+```java
+public class Main
+{
+	public static void main(String[] Args)
+	{
+		Student temp = new Student() //creating an object of class Student
+		
+	}
 }
 ```
 
