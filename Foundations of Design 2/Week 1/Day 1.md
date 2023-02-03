@@ -48,4 +48,11 @@ public class CalcArea
 ```
 
 ## Identifiers
-	
+
+- Class names begin with an ==UPPERCASE LETTER==
+- Variable names begin with a lowercase letter
+- Should be ***descriptive
+
+```id-info
+
+```
