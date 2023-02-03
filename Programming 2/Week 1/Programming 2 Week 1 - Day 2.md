@@ -58,3 +58,14 @@ Scanner keyboard = new Scanner(System.in);
 Use to create a new object in memory
 
 We are calling a consturctor from the ``Scanner`` class and we are pass it ``System.in`` which will be the stuffed typed into the keyboard
+
+# Dialog Box 
+
+A small graphical window that displays a message to the user or request input
+
+Can be used as *both* input and output
+
+```ad-warning
+
+You will need to add this to the beginning fo the file witht he other import statements
+```

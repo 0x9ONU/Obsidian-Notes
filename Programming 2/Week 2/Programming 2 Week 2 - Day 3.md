@@ -111,9 +111,19 @@ public Student() {this.name = "Klodike Bear"; this.ID = 0;}
 
 # ``this`` keyword
 
-Used to differentiate a parameter variable from a class indicator
+Used to differentiate a class variable from a parameter variable
 
 Allows you to use the same name for both method parameters and data variables within a class
+
+```ad-example
+title: Use of ``this``
+
+``` java
+private String name;
+public void setName(String name) {this.name = name;}
+//this.name is the class variable with name is the method parameter
+```
+
 
 
 
