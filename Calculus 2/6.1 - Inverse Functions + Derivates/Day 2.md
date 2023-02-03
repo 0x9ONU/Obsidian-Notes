@@ -87,7 +87,12 @@ The graph of $f^-1$ is obtained by reflecting the graph of $f$ about the line $y
 
 ```ad-question
 Sketch the graph of $f(x) = \sqrt{x - 2}$  and its inverse function ($f^-1(x) = x^2 + 2$) using the same coordinate axis
+
+```ad-check
+title: Answer
+
 ```
+
 
 
 
