@@ -23,12 +23,45 @@ title: Writing Data to a File
 You can use the `PrintWriter` class or the `FileWriter` class
 ```
 
-
 ```ad-question
 title: Reading Data from a File
 color: 0, 255, 255
 You use the `Scanner` class and the `File` class
 ```
+
+## Three steps to using a file
+
+1. The file must be opened. When the file is opened, a connection is crated between the file and the program
+	1. Must be given a path (local or absolute)
+2. Data is then written to a file or read from the file
+3. When the program is finished using the file, the file *must* be closed
+
+```ad-danger
+title: Warning
+If the file is not closed during the program, java will not compile the program
+```
+
+```ad-info
+The Java Api for working with a class: `import java.io.*`
+```
+
+# Writing to A File
+
+Opening a set file:
+```java
+import java.io.*
+PrintWriter outputFile = new PrintWriter("eccs1621students.txt");
+```
+
+Opening a file with a path from the user
+
+```java
+String filename;
+filename = JOptionPane.hsowInputDialog("Enter the filename");
+output
+```
+
+
 
 
 
