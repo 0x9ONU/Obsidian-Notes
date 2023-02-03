@@ -6,8 +6,13 @@ File Folder: Week 1
 title: Today's Topics
 collapse: open
 
-- 
+- Introduction to Java
+- Fundamentals of Java
+- Variables
+- Strings
 
 ```
 
+
+# Introduction to Java
 
