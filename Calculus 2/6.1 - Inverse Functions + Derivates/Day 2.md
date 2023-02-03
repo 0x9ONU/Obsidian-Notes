@@ -94,8 +94,10 @@ title: Answer
 ```
 
 
+```ad-note
+The domain of $f(x)$ restricts the range of $f^-1(x)$
 ```
-```
+
 
 
 
