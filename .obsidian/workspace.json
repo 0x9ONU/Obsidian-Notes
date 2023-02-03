@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef3a927f16b03c53",
+            "id": "07ae1abe1ad4a565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/6.1/test.md",
+                "file": "Programming 2/Week 2/Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/6.1/test.md",
+                "file": "Programming 2/Week 2/Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/6.1/test.md",
+                "file": "Programming 2/Week 2/Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/6.1/test.md"
+                "file": "Programming 2/Week 2/Day 3.md"
               }
             }
           },
@@ -155,14 +155,21 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ef3a927f16b03c53",
+  "active": "07ae1abe1ad4a565",
   "lastOpenFiles": [
+    "Programming 2/Week 1/Day 1.md",
+    "Programming 2/Week 2/Day 3.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 2.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Day 1.md",
+    "conflict-files-obsidian-git.md",
+    "Calculus 2/6.1/test.md",
     "Calculus 2/6.1/Untitled.md",
     "2023-02-02.md",
-    "Untitled.canvas",
-    "Untitled.md"
+    "Untitled.canvas"
   ]
 }

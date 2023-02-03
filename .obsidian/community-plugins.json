@@ -9,5 +9,7 @@
   "obsidian-outliner",
   "periodic-notes",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-functionplot",
+  "mermaid-tools"
 ]
