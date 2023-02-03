@@ -115,13 +115,87 @@ title: Answer
 
 # Data Types
 
-| Type  | Default Value | Description           | Range       |
-| ----- | ------------- | --------------------- | ----------- |
-| Byte  | 0             | 8-bit signed integer  | -128 to 127 |
-| Short | 0             | 16-bit signed integer | -32768 to 32767            |
+| Type    | Default Value | Description                                     | Range                            |
+| ------- | ------------- | ----------------------------------------------- | -------------------------------- |
+| Byte    | 0             | 8-bit signed integer                            | -128 to 127                      |
+| Short   | 0             | 16-bit signed integer                           | -32768 to 32767                  |
+| Int     | 0             | 32-bit signed *or* unsigned integer             | -2^31 to 2^31-1 or 0 to 2^32 - 1 |
+| Long    | 0             | 64-bit signed integer                           | -2^63 to 2^63-1                  |
+| Float   | 0.0f          | Single-Precision 32-bit IEEE 754 floating point |                                  |
+| Double  | 0.0f          | Double-Precision 32-bit IEEE 754 floating point |                                  |
+| Boolean | false         | true or false, 1 bit of info                    | true or false                    |
+| Char    | \u0000        | 16-bit Unicode character                        | \u0000 to \uffff                 |
+| String  | null          | used to represent multiple character            |                                  |
+
+## Variables
+
+- Named storage lcoation in computer's memory
+- Same as C++ except some of the rules are different
+- Due to IDE and Java, we often see longer and more descriptive names
+- Recommended:
+	- **Give variables a defualt value whenever possible**
+
+## Constants
+
+- Uses the final keyword
+- Used witha  variable declaration to amke the variable a named cosntant
+
+```ad-info
+title: Constant Examples
+color: 250, 253, 15
+
+- Final
+	- A variable where the value does not change once it has been defined
+- Static
+	- Making sure there is only oen copy
+
+```
+
+## Conversion Between Data Types
+
+```ad-attention
+title: Java is a strongly typed language
+Before a value is assgiend to a variable, Java checks he data type of the variable and value being assigned to determine wheter they are compatible
+```
+
+### Cast
+
+A way to convert between integer variables and double variables without Java throwing up any errors
+
+```ad-example
+A cast turning a double into an integer so it can be stored in an integer
+``` java
+int x;
+double y = 7.16;
+x = (int)y;
+```
 
 
+# The String Class
 
+Allows you to create objects holding strings
 
+```ad-note
+Since it is a calss, the data type is an uppercase letter: String
+```
 
+The class contains various methods tow ork with those characters
 
+```ad-example
+title: Length fo String Example
+```java
+String name = "Skywalker";
+int stirngSize = name.length();
+System.out.println(stringSize);
+```
+
+## Other String Functions
+
+- ``charAt(index)``
+	- Gets and stores the character at the index included
+- ``length()`` 
+	- Gets the total number of characters in a string and returns an int
+- ``toLowerCase()``
+	- chages all uppercase letters withina  string to lowercase
+- ``toUpperCase()
+	- changes all teh lowercase letters within a stirng to uppercase
