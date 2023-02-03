@@ -19,4 +19,8 @@ title: Theorem
 If $b > 0$ and $b \ne 1$, then $f(x) = b^x$ is continuouis where the domain is a set of all real numbers and range (0, $\infty$)
 ```
 
+In particular: $b^x > 0$ for all $x$
 
+```ad-info
+title: Fa
+```
