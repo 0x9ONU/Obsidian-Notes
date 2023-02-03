@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md",
+                "file": "Templates/Calculus Template/Calculus Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a06685741712ade5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Foundations of Design 2 Template/Programming Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md",
+                "file": "Templates/Foundations of Design 2 Template/Programming Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md",
+                "file": "Templates/Foundations of Design 2 Template/Programming Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md"
+                "file": "Templates/Foundations of Design 2 Template/Programming Template.md"
               }
             }
           },
@@ -171,17 +183,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dac8c174546fbc50",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
-    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Day 1.md",
     "Templates/Calculus Template/Calculus Template.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Untitled.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Day 1.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Drawing 2023-02-02 20.00.15.excalidraw.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/Day 2.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md",
     "Excalidraw/Drawing 2023-02-02 17.01.39.excalidraw.md",
     "Excalidraw/Drawing 2023-02-02 16.54.51.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-02 16.42.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-02 16.52.58.excalidraw.md"
+    "Excalidraw/Drawing 2023-02-02 16.42.55.excalidraw.md"
   ]
 }
