@@ -50,6 +50,22 @@ public static void displayMessage() //method header
 3. MethodName
 	1. Example: `displayMessage`
 4. Parameters (if any)
-	1. 
+	1. Example: `displayMessage(String message)`
 
+# Javadoc Comments
+
+Used at the beginning of methods to denote what the method does. Will be converted to html documentation automatically through Java's API
+
+```ad-example
+Javadoc for a method that adds two numbers: `calcSum`
+``` java
+/**
+The calcSum method adds the two numbers and returns the value.
+@param n1 The first number
+@param n2 the second number
+@return the result of n1 + n2
+*/
+
+public static double calcSum(double n1, double n2) {}
+```
 
