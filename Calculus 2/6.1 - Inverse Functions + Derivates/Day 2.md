@@ -57,8 +57,11 @@ The resulting equation is $y = f^-1(x)$
 
 ```ad-question
 collapse: open
-Find inverse fucntion of $f(x) = 
+Find inverse fucntion of $f(x) = (6-3x)\frac(5x+7)$
+
 ```
+
+
 
 
 
