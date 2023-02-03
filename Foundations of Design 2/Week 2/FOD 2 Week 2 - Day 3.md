@@ -12,6 +12,19 @@ collapse: open
 
 ```
 
+```ad-note
+title: New News
+- TBP Tutoring Every Tuesday @ 7pm
+- Meet with the TA's next week to improve problem framing
+- Next Wendsday is Concept Generation
+- Friday is Concept Reduciton
+- Monday is Value Proposition
+```
+
+
+
+
+
 
 
 
