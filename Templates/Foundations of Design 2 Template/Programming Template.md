@@ -6,8 +6,9 @@ File Folder: <% tp.file.folder() %>
 title: Today's Topics
 collapse: open
 
-- Introduction to Java
-- 
+- Topic1
+- Topic2
+- Topic3
 
 ```
 
