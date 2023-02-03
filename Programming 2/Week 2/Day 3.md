@@ -26,6 +26,11 @@ Multi-Line Comments are
 /*This is a comment that can be on multiple lines.
 as seen here.*/
 ```
+```mermaid
+flowchart LR
+Start --> Stop
+```
+
 
 ```ad-info
 title: Javadoc
@@ -38,4 +43,20 @@ title: Javadoc
 # Reading Keyboard Input
 
 Use the ``Scanner`` class to read input from the keyboard
+
+```ad-example
+title: Create a Scanner object and connect it to System.in object
+``` java
+Scanner keyboard = new Scanner(System.in);
+```
+
+``Scanner keyboard`` is now an object or instance of class ``Scanner``
+
+```mermaid
+Flowchart FR
+A[Scanner] -> B[The data type of the variable]
+C[keyboard] -> D[The identifier/variable]
+```
+
+
 

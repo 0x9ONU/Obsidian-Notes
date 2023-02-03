@@ -136,13 +136,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d3dd24b98d4dd05f",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +167,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "07ae1abe1ad4a565",
+  "active": "d3dd24b98d4dd05f",
   "lastOpenFiles": [
     "Programming 2/Week 1/Day 1.md",
-    "Programming 2/Week 2/Day 3.md",
-    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/Day 2.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
+    "Programming 2/Week 2/Day 3.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Day 1.md",
     "conflict-files-obsidian-git.md",
     "Calculus 2/6.1/test.md",
