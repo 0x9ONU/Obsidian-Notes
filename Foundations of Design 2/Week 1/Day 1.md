@@ -22,4 +22,7 @@ title: Review of Terms
 	- Words that have special meaning in programming languages and they can only be used for their inteded purposes
 - Operators
 	- Symbols or words that perform operations on one or more operands
+	- ex. + and -
+- Puncuation
+	- Most programming languages require the use of punctuation character
 ```
