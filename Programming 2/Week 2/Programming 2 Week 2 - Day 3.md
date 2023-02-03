@@ -17,6 +17,8 @@ collapse: open
 **Object-Oriented Programing**: 
 Designing a program by discovering objects, their properties, and their relationships
 
+# Classes
+
 ## Class Examples
 
 ```java
@@ -32,6 +34,11 @@ public class Chair
 ```
 
 ### General Order of Classes
+
+- Data Variables
+- Constructors
+- Getters and Setters
+- Other methods
 
 ``` java
 public class Student 
@@ -66,10 +73,8 @@ public class Student
 	//Other methods
 	
 	@Override
-	public String toString() {return "Student" + "name=" + name + 
-	
-
-	//CONTINUE LATER
+	public String toString() {return "Student" + "name=" + name + "\" + ",ID=" + ID + ); 
+	}
 }
 ```
 
@@ -81,14 +86,18 @@ public class Main
 	public static void main(String[] Args)
 	{
 		Student temp = new Student() //creating an object of class Student
+		System.out.println()
 		
 	}
 }
 ```
 
-# Classes
 
+# Constructor
 
+A *constructor* initalizes the instance variables of an object
+
+The construcotr is automatically called wheneve an ojbect is created with teh ***New*** operator.
 
 
 
