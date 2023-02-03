@@ -79,8 +79,16 @@ inputFile.close();
 When you pass a File object reference to the Scanner class constructor, the constructor will throw an expection of the `IOException` type if the specified file is not found
 
 ```ad-check
-
+title: Solution
+use the `Throw IOException` after a method's definition and before the method's body
+``` java
+public static void main(String[] args) throws IOException
+{
+	//all the file code geos here
+}
 ```
+
+
 
 
 
