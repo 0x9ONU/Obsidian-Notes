@@ -8,6 +8,8 @@ collapse: open
 
 - Classes
 - Basic Structure
+- Constructors
+- ``this`` keyword
 
 ```
 
@@ -105,6 +107,13 @@ title: Example
 ``` java
 public Student() {this.name = "Klodike Bear"; this.ID = 0;}
 ```
+
+
+# ``this`` keyword
+
+Used to differentiate a parameter variable from a class indicator
+
+Allows you to use the same name for both method parameters and data variables within a class
 
 
 
