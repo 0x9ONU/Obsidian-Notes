@@ -55,7 +55,8 @@ To express $f^-1$ as a funciton of $x$.
 
 The resulting equation is $y = f^-1(x)$
 
-```
+```ad-question
+fac
 ```
 
 
