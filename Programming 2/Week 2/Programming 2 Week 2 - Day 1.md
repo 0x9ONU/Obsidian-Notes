@@ -51,6 +51,7 @@ Opening a set file:
 ```java
 import java.io.*
 PrintWriter outputFile = new PrintWriter("eccs1621students.txt");
+outputFile.println(/*"insert text here"*/)
 ```
 
 Opening a file with a path from the user
@@ -58,9 +59,28 @@ Opening a file with a path from the user
 ```java
 String filename;
 filename = JOptionPane.hsowInputDialog("Enter the filename");
-output
+PrintWriter otuputFile = new PrintWriter(filename);
 ```
 
+# Reading from a File
+
+Syntax:
+```java
+File myFile = new File("");
+Scanner inputFile = new Scanner(myFile);
+String line = inputFile.nextLine();
+System.out.println("The first score in the file is: " + line);
+
+inputFile.close();
+```
+
+# Throws Clause
+
+When you pass a File object reference to the Scanner class constructor, the constructor will throw an expection of the `IOException` type if the specified file is not found
+
+```ad-check
+
+```
 
 
 
