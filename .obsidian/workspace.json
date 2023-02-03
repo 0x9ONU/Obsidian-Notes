@@ -161,13 +161,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5c19a4264e73d416",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a06685741712ade5",
+  "active": "5c19a4264e73d416",
   "lastOpenFiles": [
     "Calculus 2/6.1 - Inverse Functions + Derivates/Day 3.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Day 1.md",
