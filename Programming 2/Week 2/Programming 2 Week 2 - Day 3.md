@@ -17,6 +17,19 @@ collapse: open
 **Object-Oriented Programing**: 
 Designing a program by discovering objects, their properties, and their relationships
 
+## Class Example
+
+```java
+public class Chair{
+	//Data... Variables
+	String color = "";
+
+	//
+}
+```
+
+# Classes
+
 
 
 
