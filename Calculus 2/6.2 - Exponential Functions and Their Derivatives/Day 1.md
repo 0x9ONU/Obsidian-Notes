@@ -1,4 +1,4 @@
-Date: 28th February 2023
+Date: 27th January 2023
 Date Modified: 2nd February 2023
 File Folder: 6.2 - Exponential Functions and Their Derivatives
 
@@ -6,10 +6,10 @@ File Folder: 6.2 - Exponential Functions and Their Derivatives
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Defintion of Exponetial Function
 
 ```
+
+
 
 
