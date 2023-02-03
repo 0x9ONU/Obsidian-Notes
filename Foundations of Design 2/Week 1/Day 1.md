@@ -54,5 +54,7 @@ public class CalcArea
 - Should be ***descriptive
 
 ```id-info
-
+title: Rules for Identifiers
+-1st character must be a letter, an underscore, or a dollar sign ($)
+After the 
 ```
