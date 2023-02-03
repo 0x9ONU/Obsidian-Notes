@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md",
+                "file": "Templates/Programming 2 Template/Programming Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md",
+                "file": "Templates/Programming 2 Template/Programming Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md",
+                "file": "Templates/Programming 2 Template/Programming Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md"
+                "file": "Templates/Programming 2 Template/Programming Template.md"
               }
             }
           },
@@ -168,17 +168,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "46c110001c6a5aab",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
-    "Programming 2/Week 2/Programming 2 Week 2 - Day 2.md",
-    "Programming 2/Week 2/Programming 2 Week 2 - Day 1.md",
-    "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md",
-    "Programming 2/Week 1/Programming 2 Week 1 - Day 1.md",
-    "Programming 2/Week 1/Programming 2 Week 1 - Day 2.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 1.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 2.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
-    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Day 1.md",
+    "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md",
+    "Programming 2/Week 2/Programming 2 Week 2 - Day 2.md",
+    "Programming 2/Week 2/Programming 2 Week 2 - Day 1.md",
+    "Programming 2/Week 1/Programming 2 Week 1 - Day 1.md",
+    "Programming 2/Week 1/Programming 2 Week 1 - Day 2.md",
     "conflict-files-obsidian-git.md"
   ]
 }
