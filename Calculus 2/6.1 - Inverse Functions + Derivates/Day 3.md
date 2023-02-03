@@ -46,9 +46,11 @@ Find $(f^-1)'(a)$:
 ```ad-check
 title: Answer
 - Step 1
-	- $f'(x) = 9x^2 + 8x + 6 > 0$ for all $x epsilon R$
+	- $f'(x) = 9x^2 + 8x + 6 > 0$ for all $x \epsilon R$
+	- $f(x)$ is an increasing function
 ```
 ```
+
 
 
 
