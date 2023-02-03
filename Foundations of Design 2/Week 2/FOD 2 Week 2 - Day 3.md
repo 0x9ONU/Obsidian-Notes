@@ -30,6 +30,21 @@ title: New News
 
 Be very deligent about making your design decisions relating to the stakeholders
 
+# Adaptability
+
+A one-off device for a specific individual is great. Something that can be easily adapted for many indiviuals is better."
+
+```ad-example
+- Texture plate; Good sensory input for some, but too rought for others
+- Trumpet toy: large button allows indiviudals with limited dexterity to more easily interact with it
+```
+
+# Ethics
+
+**Engineering Ethics** encompasses the *rules and standards* governing the conduct of engineers in their role as professionals
+
+
+
 
 
 
