@@ -79,11 +79,7 @@ collapse: open
 
 ## Relationship betweeng graph of $f(x)$ and $f^-1(x)$
 
-```ad-note
-collapse: open
 The graph of $f^-1$ is obtained by reflecting the graph of $f$ about the line $y=x$
-```
-
 
 ```ad-question
 Sketch the graph of $f(x) = \sqrt{x - 2}$  and its inverse function ($f^-1(x) = x^2 + 2$) using the same coordinate axis
@@ -103,10 +99,6 @@ grid: true
 f(x) = sqrt(x - 2)
 g(x) = x^2 + 2
 y(x) = x
-
-```
-
-
 
 ```
 
