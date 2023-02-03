@@ -20,7 +20,10 @@ If $f$ is one to one, continuous function defined on an interval, its inverse fu
 
 ```ad-abstract
 title: Theorem
-color: 
+color: 255, 192, 203
+If $f$ is one to one, differentiabel funciton with inverse func
 ```
+
+
 
 
