@@ -47,6 +47,7 @@ A one-off device for a specific individual is great. Something that can be easil
 
 ```ad-important
 title: Includes
+color: 255, 255, 0
 - National Society of Professional Engineers
 - Association for COmputing Machinery
 - Institute of Electrical and Electronics Engineers
@@ -54,6 +55,7 @@ title: Includes
 - American Society
 - COME BACK
 ```
+
 
 ## NSPE Code of Ethics - Fundamental Canons
 
@@ -64,8 +66,19 @@ title: Includes
 - Avoid deceptive acts
 - Condcut themselves **honorably, responsibly, ethically, and lawfully** so as to enhance the honor, reputation, and usefulness of the pression
 
+### Hyatt regency Walkway Collapse
 
+- July 17, 1981 in Kansas City, Missouri
+- Hotel atrium walkways collapsed, killing 114 people
+- Origianl Design by Jack Gillum and Associates
+- COME BACK
 
+# Two Minute Engineer
+
+```ad-important
+- Key changes:
+	-memo = speech
+```
 
 
 
