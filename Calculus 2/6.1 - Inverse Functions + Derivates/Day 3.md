@@ -31,12 +31,21 @@ If $f$ is one to one, differentiabel funciton with inverse function $f^-1(x)$ an
 
 ## Find $(f^-1)'(a)$ 
 
+### Step 1
+
+Find if the function is one to one
+
+### Step 2
+
+
+
 ```ad-question
 Find $(f^-1)'(a)$:
 - $f(x) = 3x^3+4x^2+6x+5$,  $a = 5$
 
 ```ad-check
 title: Answer
+
 ```
 ```
 
