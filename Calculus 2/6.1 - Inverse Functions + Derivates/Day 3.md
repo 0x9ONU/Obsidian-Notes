@@ -48,6 +48,9 @@ title: Answer
 - Step 1
 	- $f'(x) = 9x^2 + 8x + 6 > 0$ for all $x \epsilon R$
 	- $f(x)$ is an increasing function
+	- Thus $f(x)$ is a one to one fucntion AND is invertible
+- Step 2
+	- 
 ```
 ```
 
