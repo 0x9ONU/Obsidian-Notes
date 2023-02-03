@@ -17,14 +17,45 @@ collapse: open
 **Object-Oriented Programing**: 
 Designing a program by discovering objects, their properties, and their relationships
 
-## Class Example
+## Class Examples
 
 ```java
-public class Chair{
+public class Chair
+{
 	//Data... Variables
 	String color = "";
+	//Continue with variables for other features
+	
+	//method example
+	public void repaintChair(String newColor) {color = newColor;}
+}
+```
 
-	//
+### General Order of Classes
+
+``` java
+public class Student 
+{
+	//Data variables
+	
+	//Constructor
+	
+	//Getters and Setter (accessors and mutators)
+	
+	//Other methods (funtionality)
+}
+```
+
+```java
+public class Student 
+{
+	//Data Variables
+	private String name;
+	private int ID;
+	
+	//Constructors
+	public Student() {this.name = "Klodike Bear"; this.ID = 0;} //default constructor
+	public Studnet(String name, int ID) {htis.name = name; this.ID = ID;} //
 }
 ```
 
