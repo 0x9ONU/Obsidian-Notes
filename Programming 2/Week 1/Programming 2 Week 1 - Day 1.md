@@ -198,4 +198,4 @@ System.out.println(stringSize);
 - ``toLowerCase()``
 	- chages all uppercase letters withina  string to lowercase
 - ``toUpperCase()``
-	- changes all teh lowercase letters within a stirng to uppercase
+	- changes all the lowercase letters within a stirng to uppercase
