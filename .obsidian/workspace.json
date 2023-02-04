@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6991c4052a475b2b",
+        "id": "06a1adcddb527eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "46c110001c6a5aab",
+            "id": "a06685741712ade5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md",
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md",
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md",
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md"
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md"
               }
             }
           },
@@ -138,7 +138,15 @@
             }
           },
           {
-            "id": "d3dd24b98d4dd05f",
+            "id": "5c19a4264e73d416",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c95d249a0d120ca",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -146,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,17 +176,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "46c110001c6a5aab",
+  "active": "a06685741712ade5",
   "lastOpenFiles": [
-    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 1.md",
-    "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md",
-    "Programming 2/Week 1/Programming 2 Week 1 - Day 1.md",
-    "Foundations of Design 2/Week 2/FOD 2 Week 2 - Day 3.md",
-    "Interactive Fiction/Week 2/Interactive Fiction Week 2 - Day 3.md",
-    "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 2.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
+    "Templates/Calculus Template/Calculus Template.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md",
-    "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
-    "Programming 2/Week 2/Programming 2 Week 2 - Day 2.md",
-    "Programming 2/Week 2/Programming 2 Week 2 - Day 1.md"
+    "Programming 2/Week 1/Day 1.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/Day 1.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 1.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/Day 2.md",
+    "2023-02-02.md",
+    "Untitled.canvas"
   ]
 }
