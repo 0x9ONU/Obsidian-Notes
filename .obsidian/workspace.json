@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6991c4052a475b2b",
+        "id": "8db1fccf69ca3e65",
         "type": "tabs",
         "children": [
           {
-            "id": "46c110001c6a5aab",
+            "id": "571a164a2309dd87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Programming 2 Template/Programming Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cebf94bf96f58c7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Programming 2 Template/Programming Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2546f41700d1b90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Programming 2 Template/Programming Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72580b86204ad755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Digital Logic/Digital Logic Template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Digital Logic/Digital Logic Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Digital Logic/Digital Logic Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Digital Logic/Digital Logic Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,17 +161,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "20fa6d1f814f2ed8",
+  "active": "571a164a2309dd87",
   "lastOpenFiles": [
     "Templates/Programming 2 Template/Programming Template.md",
+    "Interactive Fiction/Week 3/Interactive Ficiton Week 3 - Day 1.md",
     "Templates/Interactive Fiction/Interactive Fiction Template.md",
-    "Templates/Calculus Template/Calculus Template.md",
     "Templates/Foundations of Design 2 Template/FOD 2 Template.md",
+    "Templates/Calculus Template/Calculus Template.md",
+    "Templates/Digital Logic/Digital Logic Template.md",
     "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
     "Untitled.canvas",
     "Programming 2/Week 3/Programming 2 Week 3 - Day 1.md",
-    "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md",
-    "Programming 2/Week 2/Programming 2 Week 2 - Day 2.md",
-    "Programming 2/Week 2/Programming 2 Week 2 - Day 1.md"
+    "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md"
   ]
 }
