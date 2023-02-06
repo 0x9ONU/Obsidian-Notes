@@ -9,8 +9,27 @@ collapse: open
 
 - Socially Responsible Engineering
 - Opportunity Recognition
-- Stakeho
+- Stakeholders
+- Opportunity Recognition Steps
+- Definign the Opportunity
 
+```
+
+
+# Socially Responsible Engineering
+
+The potential to benefit society or advance desired societal outcomes
+
+```ad-example
+-  Society
+	- Educational opportunities
+	- Well-being of individuals
+-  Environment
+	- Adoption of sustainable practices
+	- COnservation of natural resources
+- Economy
+	- National security so people have faith in their transactions
+	- the devleopment of a diverse, globally competitive workforce
 ```
 
 
