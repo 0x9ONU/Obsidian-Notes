@@ -63,4 +63,39 @@ Find the msot important stakeholders and consdier their wants, needs, and their 
 
 ## 2. Outline the Workspace
 
-What opporutnites exist to improve the lives of someone, somewhere in the world in a meaning
+What opporutnites exist to improve the lives of someone, somewhere in the world in a meaningful and impactful way?
+
+```ad-warning
+Focus on ***Opportunities***, NOT solutions
+```
+
+#### Example Questions to Ask:
+- Waht sort of tasks do epople perform?
+- What hurdles do they encoutner in their day-to-day lives?
+- What objects do they interact with? How?
+- Waht risks do they face?
+
+# Step 3: Organzie and Reduce
+
+```ad-example
+color: 255, 255, 0
+## Consider the list of challenges:
+- What are the most critical challenges that present an opportunity? For an engineering solution to have an impact?
+- Are there any related challenges? If so, what is the bigger opportunity these ideas address?
+```
+
+# Defining the Opportunity
+
+Begin to design the deleverible
+
+```ad-abstract
+title: Definition of Deliverable
+
+- Product or process
+- Can be physical or paper/digital
+- Can have both:
+	- **Form**
+		- What the deliverable is or looks like?
+	- **Function**
+		- Waht purpose the deliverable serves?
+```
