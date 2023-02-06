@@ -56,4 +56,8 @@ COME BACK LATER
 
 ## Turbine Example
 
-Senario: You are overseeing the seledction and installation of a large wind turbine for the City of Findlay.
+**Senario**: You are overseeing the seledction and installation of a large wind turbine for the City of Findlay.
+
+# Budgetting Time
+
+
