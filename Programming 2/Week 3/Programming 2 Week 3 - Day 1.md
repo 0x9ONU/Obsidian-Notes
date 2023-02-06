@@ -12,7 +12,7 @@ collapse: open
 
 # Classes
 
-Eepresents objects or things
+Represents objects or things
 
 # Cootie Bug Example
 
@@ -22,12 +22,24 @@ Each class has:
 
 - Data members that make up the data of the class in the form of private variables.
 - A constructor(s) that allows you to create new instances of the object.
-- Getters and Setters that allow other programs to access 
+- Getters and Setters that allow other programs to access data members of an object
 
 
 ```ad-important
 Data members are made **private** because it prevents other parts of the program to randomly access an objects variables **AND** it make it so a data members cannot be set passed its *boundaries*
 ```
+
+### Creating an Array of Objects
+
+In Java, you can create an array of objects (even ones that you made).
+
+Each object in the array will have the a new set of data members, getters and setters, etc.
+
+```ad-attention
+title: Warning
+Make sure to use ArrayLists *if* the number of objects might change throughout the program. 
+```
+
 
 ## Cootie Bug Class
 
@@ -42,7 +54,10 @@ public class Main {
 		int numPlayer = Integer.ParseInt(key.nextLine()); 
 		//note: A do-loop would typically be used here to check if the user has a correct input
 		
-		CootieBug[] allPlayersCootie = new CootieBug[] 
+		CootieBug[] allPlayersCootie = new CootieBug[numPlayers]; //creates a new array of objects
+		allplayerCootie[0].setLeg(1);
+		ap
+		
 	}
 }
 
