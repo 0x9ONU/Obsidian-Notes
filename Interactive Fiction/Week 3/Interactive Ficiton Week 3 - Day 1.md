@@ -12,6 +12,11 @@ collapse: open
 
 ```
 
+```ad-note
+Do Character Sheet by Next Class
+```
+
+
 
 # Class Activity: Box
 
