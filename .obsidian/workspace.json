@@ -11,12 +11,8 @@
             "id": "571a164a2309dd87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interactive Fiction/Week 3/Interactive Ficiton Week 3 - Day 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#tasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interactive Fiction/Week 3/Interactive Ficiton Week 3 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interactive Fiction/Week 3/Interactive Ficiton Week 3 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interactive Fiction/Week 3/Interactive Ficiton Week 3 - Day 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,15 +160,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "571a164a2309dd87",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
-    "Templates/Programming 2 Template/Programming Template.md",
     "Interactive Fiction/Week 3/Interactive Ficiton Week 3 - Day 1.md",
+    "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
+    "Templates/Programming 2 Template/Programming Template.md",
     "Templates/Interactive Fiction/Interactive Fiction Template.md",
     "Templates/Foundations of Design 2 Template/FOD 2 Template.md",
     "Templates/Calculus Template/Calculus Template.md",
     "Templates/Digital Logic/Digital Logic Template.md",
-    "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
     "Untitled.canvas",
     "Programming 2/Week 3/Programming 2 Week 3 - Day 1.md",
     "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md"

@@ -13,9 +13,9 @@ collapse: open
 ```
 
 ```ad-note
-Do Character Sheet by Next Class
+- [ ] Do Character Sheet by Next Class #tasks
 ```
-
+#tasks
 
 
 # Class Activity: Box

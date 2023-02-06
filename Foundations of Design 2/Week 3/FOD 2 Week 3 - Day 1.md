@@ -15,11 +15,11 @@ collapse: open
 
 ```ad-important
 title: To-Do
-- [ ] HW2 📅 2023-02-17 #tasks
+- [ ] HW2 📅 2023-02-17
       
-- [ ] TME Library Module 📅 2023-02-10 @taks
+- [ ] TME Library Module 📅 2023-02-10
 ```
-
+#tasks
 
 ```ad-example
 title: Reminders
