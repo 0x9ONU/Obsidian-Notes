@@ -8,9 +8,13 @@ title: Today's Topics
 collapse: open
 
 - Class Activity: Box
+- Creating a Player-Carhacter or Avatar
 
 ```
 
-# Summary of Activity
+
+# Private Persona and the Public Persona
+
+
 
 
