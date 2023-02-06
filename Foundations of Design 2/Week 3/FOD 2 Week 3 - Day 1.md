@@ -21,6 +21,20 @@ title: To-Do
 ```
 
 
+```ad-example
+title: Reminders
+- Today:
+	- Complete Problem Framing and Stakeholder Profile Canvases should be completed
+- Wendsday:
+	- Start Marking Section
+- Friday
+	- Concept Reduciton
+- Monday
+	- Value Proposition
+	- Design Sketch
+	  Low-fi Prototype
+```
+
 # Mistakes on HW1
 
 Pay attention to:
