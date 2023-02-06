@@ -35,10 +35,17 @@ private int leg = 0; //6 max
 private int playerTurn = 0;
 
 //constructor (make sure they are the same name)
-public CootieBug() {}
+public CootieBug() {} //default
+
+//getters and setters
+public void setLegs(int leg) {
+	if (leg <= 6 && leg >= 0) this.leg = leg;
+	else {this.leg = Math.abs(leg % 6);}
+}
+
 }
 ```
 
 ```ad-important
-Data members are made **private** because it prevents other parts of the program to randomly access an objects variables
+Data members are made **private** because it prevents other parts of the program to randomly access an objects variables **AND** it make it so a data members cannot be set passed 
 ```
