@@ -19,15 +19,14 @@ Used a box and placed things you enjoy our your personality traits you show on t
 
 Put characteristics of yourself that you do not show off to many people on the inside of the box
 
-```ad-important
+```ad-summary
 ### Public Persona Vs. Private Persona
 
 What we show to the world might be different from which we show in private and around people we trust
 ```
 
 
-
-# Creating a Player-Cahracter or Avatar
+# Creating a Player-Character or Avatar
 
 ## What makes a "you"?
 
@@ -42,7 +41,24 @@ What we show to the world might be different from which we show in private and a
 - Education
 - Role in the family
 
-### Physical Constr
+### Physical Constraints
+- Age
+- Physical Health
+- Appearance
+- Level of Safety
+
+### Historcial Factors
+
+- Physical Environment
+- Social Environment
+- Cultural Assumptions
+
+``` ad-important
+**YOU** can be anyone on the trail
+```
+
+
+
 
 
 
