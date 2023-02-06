@@ -8,12 +8,42 @@ title: Today's Topics
 collapse: open
 
 - Class Activity: Box
-- Creating a Player-Carhacter or Avatar
+- Creating a Player-Character or Avatar
 
 ```
 
 
-# Private Persona and the Public Persona
+# Class Activity: Box
+
+Used a box and placed things you enjoy our your personality traits you show on the outside of the box 
+
+Put characteristics of yourself that you do not show off to many people on the inside of the box
+
+```ad-important
+### Public Persona Vs. Private Persona
+
+What we show to the world might be different from which we show in private and around people we trust
+```
+
+
+
+# Creating a Player-Cahracter or Avatar
+
+## What makes a "you"?
+
+- Personal Characteristics
+
+### Background Info
+- Socioeconmic class
+- Father's occupation
+	- 
+- Religion
+	- 
+- Education
+- Role in the family
+
+### Physical Constr
+
 
 
 
