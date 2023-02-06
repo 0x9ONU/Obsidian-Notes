@@ -58,6 +58,41 @@ COME BACK LATER
 
 **Senario**: You are overseeing the seledction and installation of a large wind turbine for the City of Findlay.
 
+## Using a Gantt Chart
+
+A gantt chart is a living document that maps out the entire proejct
+
+**Expect change** in your Gantt chart if tassks need to be modified
+
+### Example Tasks for your flexible Gantt Chart
+
+- Design Notebook
+	- Review instructions > started for you in the template
+- DR1 - Problem framing + Conceptual Design
+	- Review instrucitons > include key tasks
+- DR 2
+
+COME BACK
+
 # Budgetting Time
+
+Why are overly optimistic time estimates a problem?
+
+What factors should be considered when making estimates?
+
+```ad-important
+
+Make sure to budget time for:
+- Porject delays
+	- weather, sipping, change orders
+- Lead time from supplier and sub-constractors
+	- material, communciations
+- Processing time for non-human resoruces
+	- running a simulation
+- Physical processes
+	- concrete curing, adhesive setting
+```
+
+
 
 
