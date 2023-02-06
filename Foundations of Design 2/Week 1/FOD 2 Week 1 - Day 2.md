@@ -44,7 +44,33 @@ Be sure to clearing state **why an assumption matters** to your design.
 ## Common Invalid Assumptions
 
 - The information is readily avaiable
-	- ex. The current number of students int eh coll
+	- ex. The current number of students int eh college is around 600.
 - Overly obvious
+	- Each classroom should have a place for students to sit
 - Outside the proejct scope
+	- the building should have a glass and stone facade
 - Factually inaccurate
+
+# Constraints
+
+Limitations of a design
+
+When a constraint is not met, it is not a viable solution
+
+```ad-note
+*Must* be a Measured Quantity
+```
+
+#### Benchmarks
+
+Sepcific performance expectations set by constraints
+
+# Evaluation Metrics
+
+Guidelines to determine a design's level of quailty
+
+Used to compare possible design options to one another
+
+#### Objectives
+
+The preferred performance of the metrics
