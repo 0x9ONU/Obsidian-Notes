@@ -68,13 +68,37 @@ A common tool for visualizing a project schedule
 - ==Progress==: 
 	- which tasks are completed and underway
 
-### Step 1: What steps are required?
+## Step 1: What steps are required?
 
-Any scheudle must be f
+Any scheudle must be founded on a clear understading of project **tasks** and key **milestones**
 
-## Turbine Example
+#### Identify what tasks need to be done
+
+```ad-note
+Make a list of all work *prioritized in order of completion*
+```
+
+#### Make sure to:
+- Identify any steps that are *prerequisites* for others
+	- must build a prototype before you can test
+- Include subtasks
+	- Prototype construciton = buying materials + cutting parts + assemplying components
+
+#### Turbine Example
 
 **Senario**: You are overseeing the seledction and installation of a large wind turbine for the City of Findlay.
+
+##### Work Breakdown Structure
+
+![[Pasted image 20230206164317.png]]
+
+```ad-note
+Notice how each major task, even though there is relatively on a few of them, has many subtasks
+```
+
+## Step 2: Logistical Details
+
+- 
 
 ## Using a Gantt Chart
 
