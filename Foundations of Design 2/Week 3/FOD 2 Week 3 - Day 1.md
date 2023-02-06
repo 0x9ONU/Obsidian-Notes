@@ -8,7 +8,11 @@ title: Today's Topics
 collapse: open
 
 - HW1 Review
-- 
+- Project Scheduling
+	- Gantt Chart
+	- Turbine Example
+	- Using a Gantt Chart
+- Budgetting Time
 
 ```
 
@@ -44,7 +48,7 @@ Pay attention to:
 - Excell
 - Scale
 	- Units!!
-- 
+- Keeping tract of units in equations
 
 # Project Scheduling
 
@@ -66,7 +70,7 @@ A common tool for visualizing a project schedule
 
 ### Step 1: What steps are required?
 
-COME BACK LATER
+Any scheudle must be f
 
 ## Turbine Example
 
