@@ -6,10 +6,7 @@ File Folder: Week 3
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
-
+- Classes Day
 ```
 
 
@@ -23,7 +20,22 @@ In the classic game cootie bug, you spin a spinner to gain different parts for y
 
 Each class has data members that make up the data of the class in the form of private variables.
 
+They also have a constructor that allows you to create new instances of the object.
+
+Getters and Setters allow other programs to access 
+## Cootie Bug Class
+
 ```java
+
+public class Main {
+
+	public static void main() {
+		System.out.println("Welcome to Cootie Bug Game");
+		
+	}
+}
+
+//Class that will store the cootiebug
 public class CootieBug {
 //initalize data members
 private boolean antenna = false;
@@ -32,7 +44,6 @@ private boolean head = false;
 private boolean mouth = false;
 private boolean eyes = false;
 private int leg = 0; //6 max
-private int playerTurn = 0;
 
 //constructor (make sure they are the same name)
 public CootieBug() {} //default
@@ -51,13 +62,10 @@ public void setHead(boolean head) this.head = head;
 public boolean getHead() return this.head;
 public void setMouth(boolean mouth) this.mouth = mouth;
 public boolean getMouth() return this.mouth;
-public void setEyes(boolean eyes) this.eyes = eyes;
-public boolean getEyes
+public void setEyes(boolean eyes) this.eyes = eyes; 
+public boolean getEyes() return this.eyes;
 
 
 }
 ```
 
-```ad-important
-Data members are made **private** because it prevents other parts of the program to randomly access an objects variables **AND** it make it so a data members cannot be set passed its *boundaries*
-```
