@@ -1,7 +1,7 @@
 Date: 6th February 2023
 Date Modified: 6th February 2023
 File Folder: Week 3
-
+#FOD2
 ```ad-abstract
 title: Today's Topics
 collapse: open
@@ -14,9 +14,9 @@ collapse: open
 
 ```ad-important
 title: To-Do
-- [ ] HW2 📅 202
+- [ ] HW2 📅 2023-02-17
       
-- [ ] TME Library Module
+- [ ] TME Library Module 📅 2023-02-10
 ```
 
 
@@ -26,4 +26,5 @@ Pay attention to:
 
 - Pugh's Method
 - Assumptions
-- 
+- Excell
+
