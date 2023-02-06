@@ -57,11 +57,11 @@ title: Three dimensions of importance:
 
 # Opportunity Recognition Steps
 
-## 1. Stakeholders
+## Step 1: Stakeholders
 
 Find the msot important stakeholders and consdier their wants, needs, and their situation
 
-## 2. Outline the Workspace
+## Step 2: Outline the Workspace
 
 What opporutnites exist to improve the lives of someone, somewhere in the world in a meaningful and impactful way?
 
@@ -75,7 +75,7 @@ Focus on ***Opportunities***, NOT solutions
 - What objects do they interact with? How?
 - Waht risks do they face?
 
-# Step 3: Organzie and Reduce
+## Step 3: Organzie and Reduce
 
 ```ad-example
 color: 255, 255, 0
@@ -83,6 +83,12 @@ color: 255, 255, 0
 - What are the most critical challenges that present an opportunity? For an engineering solution to have an impact?
 - Are there any related challenges? If so, what is the bigger opportunity these ideas address?
 ```
+
+## Step 4: Select and Refine
+
+Reviewing your list, identify one well-crafed opportunity statement, remembering to include:
+
+$$Users(s) + Function + Deliverable$$
 
 # Defining the Opportunity
 
@@ -97,5 +103,6 @@ title: Definition of Deliverable
 	- **Form**
 		- What the deliverable is or looks like?
 	- **Function**
-		- Waht purpose the deliverable serves?
+		- What purpose the deliverable serves?
 ```
+
