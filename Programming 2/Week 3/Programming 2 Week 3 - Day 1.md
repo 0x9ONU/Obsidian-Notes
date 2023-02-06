@@ -18,11 +18,17 @@ Eepresents objects or things
 
 In the classic game cootie bug, you spin a spinner to gain different parts for your cootie bug.
 
-Each class has data members that make up the data of the class in the form of private variables.
+Each class has: 
 
-They also have a constructor that allows you to create new instances of the object.
+- Data members that make up the data of the class in the form of private variables.
+- A constructor(s) that allows you to create new instances of the object.
+- Getters and Setters that allow other programs to access 
 
-Getters and Setters allow other programs to access 
+
+```ad-important
+Data members are made **private** because it prevents other parts of the program to randomly access an objects variables **AND** it make it so a data members cannot be set passed its *boundaries*
+```
+
 ## Cootie Bug Class
 
 ```java
@@ -31,7 +37,12 @@ public class Main {
 
 	public static void main() {
 		System.out.println("Welcome to Cootie Bug Game");
+		System.out.println("Number of players?");
+		Scanner key = new Scanner(System.in);
+		int numPlayer = Integer.ParseInt(key.nextLine()); 
+		//note: A do-loop would typically be used here to check if the user has a correct input
 		
+		CootieBug[] allPlayersCootie = new CootieBug[] 
 	}
 }
 
