@@ -6,15 +6,24 @@ File Folder: Week 3
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- HW1 Review
+- 
 
 ```
 
 
 ```ad-important
-- [] #task HW2
-- [] #task Library Module
+title: To-Do
+- [ ] HW2 📅 202
+      
+- [ ] TME Library Module
 ```
 
+
+# Mistakes on HW1
+
+Pay attention to:
+
+- Pugh's Method
+- Assumptions
+- 
