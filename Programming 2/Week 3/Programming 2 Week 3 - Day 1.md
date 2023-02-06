@@ -11,9 +11,9 @@ collapse: open
 	- Data Members
 	- Constructors
 	- Getters and Setters
-	- Creating an Ar
+	- Creating an Array of Objexts
+	- Class Examples
 ```
-
 
 # Classes
 
