@@ -7,10 +7,10 @@ File Folder: Week 3
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Class Activity: Box
 
 ```
+
+# Summary of Activity
 
 
