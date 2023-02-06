@@ -1,4 +1,4 @@
-Date: 6th February 2023
+Date: 1st January 2023
 Date Modified: 6th February 2023
 File Folder: Week 1
 #FOD2  
@@ -7,9 +7,9 @@ File Folder: Week 1
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Socially Responsible Engineering
+- Opportunity Recognition
+- Stakeho
 
 ```
 

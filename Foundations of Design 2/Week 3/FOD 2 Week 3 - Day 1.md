@@ -98,7 +98,11 @@ Notice how each major task, even though there is relatively on a few of them, ha
 
 ## Step 2: Logistical Details
 
-- 
+- **When** should each task be completed?
+- **When** sare deliverables due to the client?
+- **Who** is responsible for each deliverable and each task?
+- **How long** will each task take to complete?
+- Do any tasks require other tasks to be completed first? 
 
 ## Using a Gantt Chart
 
@@ -112,9 +116,13 @@ A gantt chart is a living document that maps out the entire proejct
 	- Review instructions > started for you in the template
 - DR1 - Problem framing + Conceptual Design
 	- Review instrucitons > include key tasks
-- DR 2
-
-COME BACK
+- DR2 - Detialed Design + Intial Testing
+	- Include: intial CAD test plan draft, updated low-fi prototype, initial BoM, present
+- DR3 - Design Refinement + Experimentation
+	- Include: revised CAD, order supplies, test plan, data analysis, initial demonstration prototype, updated BoM, present
+- Design Showcase
+	- Review RFP
+	- Include Polar Innovation Exchange
 
 # Budgetting Time
 
