@@ -6,7 +6,12 @@ File Folder: Week 3
 title: Today's Topics
 collapse: open
 
-- Classes Day
+- Classes
+- Cootie Bug Example
+	- Data Members
+	- Constructors
+	- Getters and Setters
+	- Creating an Ar
 ```
 
 
@@ -26,7 +31,7 @@ Each class has:
 
 
 ```ad-important
-Data members are made **private** because it prevents other parts of the program to randomly access an objects variables **AND** it make it so a data members cannot be set passed its *boundaries*
+Data members are made **private** because it prevents other parts of the program to randomly access an objects' variables **AND** it make it so a data members cannot be set passed its *boundaries*
 ```
 
 ### Creating an Array of Objects
@@ -55,8 +60,8 @@ public class Main {
 		//note: A do-loop would typically be used here to check if the user has a correct input
 		
 		CootieBug[] allPlayersCootie = new CootieBug[numPlayers]; //creates a new array of objects
-		allplayerCootie[0].setLeg(1);
-		ap
+		allplayerCootie[0].setLeg(1); //accesses the first object in the list
+		allplayersCootie[1].setAntenna(true); //accesses the second object in the list
 		
 	}
 }
