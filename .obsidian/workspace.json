@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
-                "mode": "source",
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md"
+                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md"
               }
             }
           },
@@ -179,15 +179,15 @@
   },
   "active": "be655b103db54b72",
   "lastOpenFiles": [
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 1.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
     "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
     "Foundations of Design 2/Week 2/FOD 2 Week 2 - Day 3.md",
     "Foundations of Design 2/Week 2/FOD 2 Week 2 - Day 2.md",
     "Foundations of Design 2/Week 2/FOD 2 Week 2 - Day 1.md",
     "Foundations of Design 2/Week 1/FOD 2 Week 1 - Day 3.md",
     "Foundations of Design 2/Week 1/FOD 2 Week 1 - Day 2.md",
-    "Templates/Foundations of Design 2 Template/FOD 2 Template.md",
-    "Interactive Fiction/Week 3/Interactive Ficiton Week 3 - Day 1.md",
-    "Templates/Programming 2 Template/Programming Template.md",
-    "Templates/Interactive Fiction/Interactive Fiction Template.md"
+    "Templates/Foundations of Design 2 Template/FOD 2 Template.md"
   ]
 }
