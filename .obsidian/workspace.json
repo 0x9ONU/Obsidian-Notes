@@ -19,8 +19,12 @@
             "id": "be655b103db54b72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md"
+              }
             }
           },
           {
