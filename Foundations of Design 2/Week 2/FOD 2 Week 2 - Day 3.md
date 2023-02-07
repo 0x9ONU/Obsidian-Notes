@@ -7,9 +7,10 @@ File Folder: Week 2
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Adaptability
+- Ethics
+- NSPE Fundamental Code of Ethics
+- Two Minute Engineer
 
 ```
 

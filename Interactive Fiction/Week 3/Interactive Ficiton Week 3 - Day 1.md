@@ -13,7 +13,7 @@ collapse: open
 ```
 
 ```ad-note
-- [ ] Do Character Sheet by Next Class #tasks
+- [x] Do Character Sheet by Next Class #tasks
 ```
 #tasks
 
