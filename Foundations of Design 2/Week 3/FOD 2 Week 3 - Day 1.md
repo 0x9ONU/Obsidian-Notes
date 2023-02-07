@@ -104,9 +104,9 @@ Notice how each major task, even though there is relatively on a few of them, ha
 - **How long** will each task take to complete?
 - Do any tasks require other tasks to be completed first? 
 
-## Using a Gantt Chart
+# Using a Gantt Chart
 
-A gantt chart is a living document that maps out the entire proejct
+A gantt chart is a living document that maps out the entire project
 
 **Expect change** in your Gantt chart if tassks need to be modified
 
