@@ -1,4 +1,4 @@
-Date: 27th January 2023
+Date: 25th January 2023
 Date Modified: 6th February 2023
 File Folder: Week 1
 #FOD2  
@@ -7,70 +7,102 @@ File Folder: Week 1
 title: Today's Topics
 collapse: open
 
-- Information Gathering
-- Assumptions
-	- Common Invalid Assumptions
-- Constraints
-- Evaluation Metrics
+- Socially Responsible Engineering
+- Opportunity Recognition
+- Stakeholders
+- Opportunity Recognition Steps
+- Definign the Opportunity
 
 ```
 
-# Information Gathering
 
-The act of gathering different kinds of information about the problem being considered
+# Socially Responsible Engineering
+
+The potential to benefit society or advance desired societal outcomes
+
+```ad-example
+-  Society
+	- Educational opportunities
+	- Well-being of individuals
+-  Environment
+	- Adoption of sustainable practices
+	- Conservation of natural resources
+- Economy
+	- National security so people have faith in their transactions
+	- the devleopment of a diverse, globally competitive workforce
+```
+
+# Opportunity Recognition
+
+**An opportunity Statement** identifies the user and has a _function_ and a *deliverable*
 
 ```ad-important
-### 4 ways to generate information
-- Asking experts on the subject
-- Doing tests and experiments
-- Asking people affected
-- Doing research in known literature soruces
+An opportunity statement is ***NOT*** a statement of the expected solution or product. Make it as broad as possible
 ```
 
-# Assumptions
+# Stakeholders
 
-In order to move a design forward, specific info is often needed
+Individuals/groups who will in some significant way be affected by the product development
 
-AFTER reviewing relevant literation and asking questions to experts and stakeholders, it migth be the case that this *info is not readily available*
+```ad-tldr
+title: Three dimensions of importance:
 
-Assumptions are made when a project needs to progress and the  information needed is difficult to find
-
-```ad-danger
-title: Warning
-Be sure to clearing state **why an assumption matters** to your design.
-- If you can't think of anything, it is probably not worth stating.
+- Severity
+	- How significantly are they affeced by the result?
+- Utility
+	- To what extent do our design choices depend on their input?
+- Capability
+	- To what extent are we able to obtain their feedback?
 ```
 
-## Common Invalid Assumptions
+# Opportunity Recognition Steps
 
-- The information is readily avaiable
-	- ex. The current number of students int eh college is around 600.
-- Overly obvious
-	- Each classroom should have a place for students to sit
-- Outside the proejct scope
-	- the building should have a glass and stone facade
-- Factually inaccurate
+## Step 1: Stakeholders
 
-# Constraints
+Find the msot important stakeholders and consdier their wants, needs, and their situation
 
-Limitations of a design
+## Step 2: Outline the Workspace
 
-When a constraint is not met, it is not a viable solution
+What opporutnites exist to improve the lives of someone, somewhere in the world in a meaningful and impactful way?
 
-```ad-note
-*Must* be a Measured Quantity
+```ad-warning
+Focus on ***Opportunities***, NOT solutions
 ```
 
-#### Benchmarks
+#### Example Questions to Ask:
+- Waht sort of tasks do epople perform?
+- What hurdles do they encoutner in their day-to-day lives?
+- What objects do they interact with? How?
+- Waht risks do they face?
 
-Sepcific performance expectations set by constraints
+## Step 3: Organzie and Reduce
 
-# Evaluation Metrics
+```ad-example
+color: 255, 255, 0
+## Consider the list of challenges:
+- What are the most critical challenges that present an opportunity? For an engineering solution to have an impact?
+- Are there any related challenges? If so, what is the bigger opportunity these ideas address?
+```
 
-Guidelines to determine a design's level of quailty
+## Step 4: Select and Refine
 
-Used to compare possible design options to one another
+Reviewing your list, identify one well-crafed opportunity statement, remembering to include:
 
-#### Objectives
+$$Users(s) + Function + Deliverable$$
 
-The preferred performance of the metrics
+# Defining the Opportunity
+
+Begin to design the deleverible
+
+```ad-abstract
+title: Definition of Deliverable
+
+- Product or process
+- Can be physical or paper/digital
+- Can have both:
+	- **Form**
+		- What the deliverable is or looks like?
+	- **Function**
+		- What purpose the deliverable serves?
+```
+
