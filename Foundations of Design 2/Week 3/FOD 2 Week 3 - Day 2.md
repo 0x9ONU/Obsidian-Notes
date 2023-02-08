@@ -7,11 +7,11 @@ File Folder: Week 3
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Functional Decomposition
+- Concept Generation Methods
 
 ```
+
 
 ```ad-note
 title: Reminders
@@ -19,6 +19,8 @@ title: Reminders
 - [ ] ⏫ Prepare Resume 📅 2023-02-16
 - GOAL: Have Conceptual Design ready by PR 1
 ```
+
+#tasks 
 
 ### Review: Concept Reduction
 
