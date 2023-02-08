@@ -7,10 +7,33 @@ File Folder: Week 3
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Story Design for IF
 
 ```
+
+## Conventional Plot Design: Freytag's Pyramid
+
+- Exposition -
+- Inciting Incident --
+- Rising Action ---------------
+- Climax -----------------------------
+- Falling Action -----------------
+- Resolution ----------
+
+```ad-warning
+### Problem with this design
+
+Based on Aristotle, who wrote in Classical Greece where plays and sources of fiction will last 2-3 hours. It does not translate well into more modern fiction and IF
+```
+
+# IF Story Design: Room by Room
+
+**"Flash FIction"** model (6 words - 280 characters)
+
+Stories should have
+- Setting
+- Problem/conflict
+- At least one character
+- A change
 
 
