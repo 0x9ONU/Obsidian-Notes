@@ -11,8 +11,12 @@
             "id": "571a164a2309dd87",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 2.md"
+              }
             }
           },
           {
@@ -174,6 +182,7 @@
   },
   "active": "571a164a2309dd87",
   "lastOpenFiles": [
+    "Foundations of Design 2/Week 3/FOD 2 Week 3 - Day 1.md",
     "Programming 2/Week 3/Programming 2 Week 3 - Day 2.md",
     "Templates/Programming 2 Template/Programming Template.md",
     "Pasted image 20230206164317.png",
@@ -182,7 +191,6 @@
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 1.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 2.md",
-    "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
-    "Programming 2/Week 3/Programming 2 Week 3 - Day 1.md"
+    "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md"
   ]
 }
