@@ -21,7 +21,7 @@ collapse: open
 title: To-Do
 - [ ] HW2 📅 2023-02-17
       
-- [ ] TME Library Module 📅 2023-02-10
+- [x] TME Library Module 📅 2023-02-10
 ```
 #tasks
 
