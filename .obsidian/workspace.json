@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,11 +172,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "be655b103db54b72",
+  "active": "571a164a2309dd87",
   "lastOpenFiles": [
+    "Programming 2/Week 3/Programming 2 Week 3 - Day 2.md",
     "Templates/Programming 2 Template/Programming Template.md",
     "Pasted image 20230206164317.png",
-    "Programming 2/Week 3/Programming 2 Week 3 - Day 2.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 1.md",
