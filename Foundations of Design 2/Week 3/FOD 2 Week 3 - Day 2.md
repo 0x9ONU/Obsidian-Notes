@@ -17,7 +17,7 @@ collapse: open
 title: Reminders
 - Winter Career and Graduate School Fair on Thursday, Febuary 16, 2023
 - [ ] ⏫ Prepare Resume 📅 2023-02-16
-- GOAL: Have Conceptual Design ready by PR 1
+- GOAL: Have Conceptual Design ready by DR 1
 ```
 
 #tasks 
