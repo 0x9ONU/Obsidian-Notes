@@ -429,5 +429,3 @@ public class Penguin
 }
 
 ```
-
-test
