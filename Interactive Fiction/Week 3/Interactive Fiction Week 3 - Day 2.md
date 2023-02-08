@@ -72,4 +72,3 @@ In IF, you utilize objects in the environment to add to the plots like:
 
 - Reaction to a Character
 - Reaction to something in the environment
-- 
