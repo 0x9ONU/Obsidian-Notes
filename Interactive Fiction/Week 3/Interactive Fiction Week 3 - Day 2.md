@@ -36,4 +36,40 @@ Stories should have
 - At least one character
 - A change
 
+#### How would this work for your story?
 
+- Front yard (N)
+- Front Hallway
+- Kitchen (NW)
+- Bedroom (NE)
+- Back Hallway
+- Common Room (SW
+- Parlor (SE)
+- Backyard (S)
+
+```ad-note
+Every Room should have something to do, so your game does not become flat
+```
+
+
+# E.M. Forseter: Story v. Plot
+
+**Story**: Events of a story in chronological order
+
+**Plot:** Events as the reader "sees" them
+
+```ad-example
+Finding a diary; learning something from a character
+```
+
+```ad-important
+In IF, you utilize objects in the environment to add to the plots like:
+- Diaries
+- Paper Scraps
+```
+
+### Devices to Reveal Avatar's feelings/memories
+
+- Reaction to a Character
+- Reaction to something in the environment
+- 
