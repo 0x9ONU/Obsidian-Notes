@@ -39,7 +39,7 @@ Considering a project topic:
 
 A function is a goal or objective accomplished by a product
 
-A feature is a working COME BACK
+A feature is a tool that helps acheive functions
 
 ```ad-note
 - If you can draw it, it is a **feature** not a function
@@ -80,7 +80,11 @@ title: Bad Bike Functions
 - Brainstorming
 - Asking Experts
 - Prior Art
-- COMEBACK
+- Bio-mimicry
+- Looking at it differently
+- Explore idea combinations
+- Collaborative sketching
+- Impromptu prototyping (prototyping)
 
 ## Brainstorming
 
