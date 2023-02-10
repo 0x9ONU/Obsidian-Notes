@@ -12,3 +12,4 @@ collapse: open
 ```
 
 
+Nothing of note today
