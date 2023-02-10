@@ -32,7 +32,11 @@ collapse: open
 3. `protected void finalize() throws Throwable`
 	1. Called by the garbage collector on an objec twhen garbage colleciton detmerines that there are no more references to the object
 4. `public final Class getClass()`
-COME bACK
+	1. Returns the runtime class of an object
+5. `public int hashCode()`
+	1. returns a rash code value for the object
+6. `public Stirng toString()`
+	1. Returns a string representation of the object.
 
 # Equals Method
 
@@ -40,14 +44,14 @@ Compares one Object to another
 
 ```ad-summary
 title: Basic Structure
+color: 255, 255, 0
 
 ```java
-
-```
-```
-
-
-COMEBACK
+public Boolean equals(Object o) {
+	//Check if they are the same object
+	//Check if they are the same class
+	//compare all the fields
+}
 
 ```
 
@@ -163,8 +167,6 @@ Why? When one object "s-a" speicalized version of another object
 
 ## UML Diagram Example
 
-COME BACK LATER
-
 ```mermaid
 classDiagram
 Penguin <|-- PiratePenguin
@@ -178,6 +180,11 @@ class Penguin {
 class PiratePenguin {
 	+String name
 	+String rank
+	+PiratePenguin(String name, Rank)
+	+String getName()
+	+String getRank()
+	+String setName()
+	+String setRank()
 }
 
 ```
@@ -198,7 +205,7 @@ super(name, age, department)
 
 A subclass may
 
-COME BACK
+#comebacklater
 
 # Review Points
 
