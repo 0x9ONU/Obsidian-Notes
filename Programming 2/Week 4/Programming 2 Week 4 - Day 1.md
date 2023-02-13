@@ -8,6 +8,7 @@ title: Today's Topics
 collapse: open
 
 - MP1 Debriefing
+- Class Practice
 ```
 
 
@@ -24,3 +25,26 @@ Tuesday the 14th will be lab to set up the basic layout
 
 The rest will be due on the 21st.
 
+# Class Practice
+
+```ad-question
+- Create a class called Fraction
+- (Create a class called Main to test your fraction class)
+```
+
+# UML Diagram - Fraction
+
+```mermaid
+classDiagram
+
+class Fraction {
+    - int num
+    - int denom
+    +toString()
+    +add(Fraction f1) Fraction
+    +subtract(Fraction f2) Fraction
+    +multiply(Fraction f3) Fraction
+}
+
+
+```
