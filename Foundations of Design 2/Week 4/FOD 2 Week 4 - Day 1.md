@@ -55,3 +55,4 @@ DO NOT wase time on insignifciant detials
 | Not taking notes                                       | You're getting feedback from isntructor(s) write it down!!                          |
 | Teams thougth they were presenting to the entire class | You're presents to 1 or 2 instructors                                               |
 
+#comebacklater 
