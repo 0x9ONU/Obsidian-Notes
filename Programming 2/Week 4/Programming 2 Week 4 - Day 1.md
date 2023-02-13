@@ -43,8 +43,8 @@ class Fraction {
     +toString() String
     +add(Fraction f1) Fraction
     +subtract(Fraction f2) Fraction
-    +multiply(Fraction f3) Fraction
 }
 
 
 ```
+
