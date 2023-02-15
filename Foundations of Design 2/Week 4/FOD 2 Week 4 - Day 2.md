@@ -26,4 +26,55 @@ collapse: open
 	2. Be accountable!
 5. Be open to feedback > don't take criticism personally!
 
+## 3 Tips for Dealing with Conflict
 
+```ad-important
+title: Be direct
+- Instead of ignoring a teammate and letting resentment build:
+- Try "I think the worklaod has beena  little unblanaced lately. Could you tak ethe lead on the CAD assembly?"
+```
+
+```ad-info
+title: Be Specific
+- Instead of doing the expeirment someitme soon?
+- Try: Could you colect the temperature data
+```
+
+#comebacklater 
+
+# Collaboration
+
+Excahnging ideas
+
+- All should feel comfortable participating and asking for help
+- Everyone should participate for critical decisions
+- Repsect everyone's time
+
+# Delegation
+
+Dividing workload for efficieny
+
+- Don't "beat aorudn the bush" - clarify expectations and deadlines
+
+# Team Role
+
+Giving teammates a task can make sure everyone gets the most equal amount of work as possible
+
+# Team Contract
+
+Edit / Establish Strategies for Conflict Resolution
+
+Consider:
+
+- What do you do if someone does not participate?
+- What if you cannot agree on a decision or plan of action?
+- What happens if someone does not complete their assigned work?
+- What happens is someone completes MORE than their assigned work?
+
+# Purchasing - RUles for using the cards
+
+- Any team member can make pruchases with the card
+- DOn't use the card for non-proejct purchases
+- Save all receipts in your team envelope
+
+#comebacklater 
