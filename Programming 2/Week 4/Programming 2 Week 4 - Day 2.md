@@ -51,4 +51,7 @@ class (noun)
 }
 ```
 
+```ad-note
+##### Utilize your IDE to help you program your classes and code
+```
 
