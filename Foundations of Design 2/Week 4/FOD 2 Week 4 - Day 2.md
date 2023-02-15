@@ -26,4 +26,4 @@ collapse: open
 	2. Be accountable!
 5. Be open to feedback > don't take criticism personally!
 
-## Group Dysfunciton Vignettes
+
