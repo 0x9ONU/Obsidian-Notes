@@ -40,7 +40,11 @@ title: Be Specific
 - Try: Could you colect the temperature data
 ```
 
-#comebacklater 
+```ad-note
+title: Be supportive
+- Instead of complaining to another teammate
+- Try... "It's a good start but these dimensions are a little bit off. Let's take a closer look."
+```
 
 # Collaboration
 
@@ -71,10 +75,9 @@ Consider:
 - What happens if someone does not complete their assigned work?
 - What happens is someone completes MORE than their assigned work?
 
-# Purchasing - RUles for using the cards
+# Purchasing - Rules for using the cards
 
 - Any team member can make pruchases with the card
 - DOn't use the card for non-proejct purchases
 - Save all receipts in your team envelope
 
-#comebacklater 

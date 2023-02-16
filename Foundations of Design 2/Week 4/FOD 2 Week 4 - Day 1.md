@@ -42,17 +42,16 @@ DO NOT wase time on insignifciant detials
 
 ## Common DR1 issues
 
-| Issue                                                  | Remedy                                                                              |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| Proejct scope is too broad                             | Present a realistic conceptual design sketch, labeled and annotated                 |
-| Not meeting at least one per week                      | Meet often and recrod detialed ntoes in agendas                                     |
-| Incomplete Gantt Chart                                 | Include tasks and sub-tasks for the entire semester                                 |
-| Not identifying proper stakeholders                    |                                                                                     |
-| COMEBACK                                               |                                                                                     |
-| Assumptoins are unclear                                | Use the assumpotion framework                                                       |
-| Feedback is conflated with preliminary research        | Research = publications, asking experts / potential stakeholders, experimental data |
-| References are poorly formatted                        | Use IEEE formatting                                                                 |
-| Not taking notes                                       | You're getting feedback from isntructor(s) write it down!!                          |
-| Teams thougth they were presenting to the entire class | You're presents to 1 or 2 instructors                                               |
+| Issue                                                     | Remedy                                                                              |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Proejct scope is too broad                                | Present a realistic conceptual design sketch, labeled and annotated                 |
+| Not meeting at least one per week                         | Meet often and recrod detialed ntoes in agendas                                     |
+| Incomplete Gantt Chart                                    | Include tasks and sub-tasks for the entire semester                                 |
+| Not identifying proper stakeholders is relevant to design | Ask "What desgin decision did we make due to this stakeholder?"                     |
+| Preliminary research is very weak                         | Sources should be numerous adn utilized to justify desgin                                                                                    |
+| Assumptoins are unclear                                   | Use the assumpotion framework                                                       |
+| Feedback is conflated with preliminary research           | Research = publications, asking experts / potential stakeholders, experimental data |
+| References are poorly formatted                           | Use IEEE formatting                                                                 |
+| Not taking notes                                          | You're getting feedback from isntructor(s) write it down!!                          |
+| Teams thougth they were presenting to the entire class    | You're presents to 1 or 2 instructors                                               |
 
-#comebacklater 
