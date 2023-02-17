@@ -30,3 +30,13 @@ title: Reminders
 5. Tolerance for Error
 6. Low Physical Effort
 7. Size & Space for Approach and Use
+
+```ad-note
+#### *Empathsize* with users by asking...
+
+- How will the design be used?
+- Who will use the design?
+- Is the design efficient?
+- Is the design easily understood?
+```
+
