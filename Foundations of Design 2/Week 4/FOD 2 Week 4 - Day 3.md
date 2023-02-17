@@ -21,3 +21,12 @@ title: Reminders
 
 #tasks 
 
+# Principles of Universal Design
+
+1. Equitable Use
+2. Flexibility in Use
+3. SImple and Intuitive Use
+4. Perceptible Information
+5. Tolerance for Error
+6. Low Physical Effort
+7. Size & Space for Approach and Use
