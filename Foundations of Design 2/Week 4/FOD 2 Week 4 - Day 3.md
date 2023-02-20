@@ -7,7 +7,7 @@ File Folder: Week 4
 title: Today's Topics
 collapse: open
 
-- 
+- Universal Design
 
 ```
 
@@ -15,8 +15,8 @@ collapse: open
 ```ad-note
 title: Reminders
 
-- [ ] Get DR1 turned in by Monday at 8am!
-- [ ] Email Dr.Clark about not being able to meet it to the Spotts Lecture @7pm
+- [x] Get DR1 turned in by Monday at 8am!
+- [x] Email Dr.Clark about not being able to meet it to the Spotts Lecture @7pm
 ```
 
 #tasks 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c21d451fbfdfd9e0",
+        "id": "8db1fccf69ca3e65",
         "type": "tabs",
         "children": [
           {
-            "id": "8558e048297f4b29",
+            "id": "1d66a3cdedd73524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
+                "file": "Programming 2/Week 5/Programming 2 Week 4 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FOD2",
+                "query": "tag:#comebacklater",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
+                "file": "Programming 2/Week 5/Programming 2 Week 4 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
+                "file": "Programming 2/Week 5/Programming 2 Week 4 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md"
+                "file": "Programming 2/Week 5/Programming 2 Week 4 - Day 1.md"
               }
             }
           },
@@ -138,15 +138,7 @@
             }
           },
           {
-            "id": "5c19a4264e73d416",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c95d249a0d120ca",
+            "id": "891d7c985ddbfae2",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -154,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,17 +168,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8558e048297f4b29",
+  "active": "1d66a3cdedd73524",
   "lastOpenFiles": [
-    "Pasted image 20230206164317.png",
-    "Templates/Programming 2 Template/Programming Template.md",
-    "Calculus 2/6.3 - Logarithmic Functions/6.3.md",
+    "Programming 2/Week 3/Programming 2 Week 3 - Day 3.md",
+    "Programming 2/Week 5/Programming 2 Week 4 - Day 1.md",
+    "Programming 2/Week 4/Programming 2 Week 4 - Day 1.md",
+    "Programming 2/Week 4/Programming 2 Week 4 - Day 2.md",
+    "Programming 2/Week 4/Programming 2 Week 4 - Day 3.md",
+    "Foundations of Design 2/Week 4/FOD 2 Week 4 - Day 3.md",
+    "Interactive Fiction/Week 4/Interactive Fiction Week 4 - Day 1.md",
+    "Interactive Fiction/Week 4/Interactive Fiction Week 4 - Day 2.md",
     "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
-    "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md",
-    "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
-    "conflict-files-obsidian-git.md",
-    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
-    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md",
     "Calculus 2/6.4 - Derivative of Logarithmic Functions/6.4.md"
   ]
 }
