@@ -8,6 +8,7 @@ title: Today's Topics
 collapse: open
 
 - Polymorphism
+- Abstract Classes + Methods
 
 ```
 
@@ -118,3 +119,72 @@ class Rectangle {
 ```
 
 #comebacklater  for UML
+
+# Abstract Classes
+
+An abstract class is not instantiated, but other classes extend it
+
+An abstract method has no body and must be overridden in a subclass
+
+## Abstract Class
+
+- A class that does not define all of its methods
+- You will have subclasses taht define those methods
+- An abstract class must serve as a superclass
+- Sits between Object and its subclassses
+
+## Outline
+
+When we add the `abstract` keyword to the class, this indicated that the classs contains at least 1 abstract method
+
+```java
+public abstract class NameOfClass {
+	//fields
+	//constructors
+	//getters/setters
+	//methods
+	//abstract methods
+}
+```
+
+### Example Abstract Class Animal
+
+```java
+public abstract class Animal {
+	public String name;
+	
+	public Animal(String name) {this.name = name;}
+	
+	public String getName() {return name;}
+	public String setName(String name) {this.name = name;}
+	
+	public abstract String sound();
+}
+```
+
+```ad-note
+This makes it so that the abstract methods **must** be implemented in the subclass
+```
+
+```java
+public class Cat extends Animal {
+	public Cat(String name) {super(name);}
+	
+	public String sound() {
+		return "meow";
+	}
+}
+```
+
+## Purpose
+
+Define some common behvaior that can be inherited by multiple subclasses without implementing the entire class
+
+An abstract class, bieng a class, can also contain familiar elements:
+- Instance variables
+- Static variables
+- Instance methods
+- Static methods
+
+
+
