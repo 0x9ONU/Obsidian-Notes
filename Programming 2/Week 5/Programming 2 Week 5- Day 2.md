@@ -54,8 +54,37 @@ public class RectanlgePizza extends Pizza {
 		double area = 1.0;
 		ArrayList<Double> temp = super.getSize();
 		for(int i = 0; i < temp.size(); i++) {
-			
+			area *= temp.get(i);
 		}
+		
+		return area;
 	}
 } 
+```
+
+# Round Pizza Class
+
+```java
+import java.util.ArrayList;
+
+public class RoundPizza extends pIzza {
+	public RoundPizza(ArrayList<Double> size) {
+		super(size);
+	}
+	
+	@Override
+	public dobule calcArea() {
+		return Math.PI * Math.power((super.getSize9).get(0)/2, 2)
+	}
+}
+```
+
+# Test Main Class
+
+```java
+public statid void main(String[] args) {
+	ArrayList<Double> dimensions = new ArrayList<Double>();
+	
+	
+}
 ```
