@@ -17,7 +17,7 @@ collapse: open
 ```java
 import java.util.ArrayList;
 
-public abstract classs Pizza {
+public abstract class Pizza {
 	//instance variable
 	private ArrayList<Double> size = new ArrayList<Double>();
 	
@@ -32,7 +32,7 @@ public abstract classs Pizza {
 	public void setSize(ArrayList<Double> size) { this.size = size;}
 	
 	//abstract method
-	public abstract couble calcArea();
+	public abstract double calcArea();
 	
 	//method that overrides the class Object
 	@Override
@@ -88,3 +88,40 @@ public statid void main(String[] args) {
 	
 }
 ```
+
+# Shape Class Activity
+
+```java
+
+public abstract class Shape {
+	private double width;
+	private double height;
+	
+	public Shape() {
+		width = 0.0;
+		height = 0.0;
+	}
+	
+	public Shape(double width, double height) {
+		this.width = width;
+		this.height = height;
+	}
+	
+	public double getWidth() return width;
+	public double getHeight() return height;
+	
+	public void setWidth(double width) this.width = width;
+	public void setHeight(double height) this.height = height;
+	
+	public abstract double calcArea();
+	
+	public abstract double calcPerimeter();
+}
+```
+
+```java
+public class Rectange extends Shape {
+	
+}
+```
+
