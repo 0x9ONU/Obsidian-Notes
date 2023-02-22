@@ -7,10 +7,55 @@ File Folder: Week 5
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- MP1 Debrief
+- RectanglePizza Example
 
 ```
 
+# Pizza Class
 
+```java
+import java.util.ArrayList;
+
+public abstract classs Pizza {
+	//instance variable
+	private ArrayList<Double> size = new ArrayList<Double>();
+	
+	//constructor
+	public Pizza(ArrayList<DOuble> size) {
+		super();
+		this.size = size;
+	}
+	
+	//getters and setters
+	public ArrayList<Double> getSize() {return size;}
+	public void setSize(ArrayList<Double> size) { this.size = size;}
+	
+	//abstract method
+	public abstract couble calcArea();
+	
+	//method that overrides the class Object
+	@Override
+	public String toString() {return "Pizza [size=" + size + "]"; }
+}
+```
+
+# Rectangle Pizza Class
+
+```java
+import java.util.ArrayList;
+
+public class RectanlgePizza extends Pizza {
+	public RectanlgePizza(ArrayList<Double> size) {
+		super(size);
+	}
+	
+	public double calcArea() {
+		double area = 1.0;
+		ArrayList<Double> temp = super.getSize();
+		for(int i = 0; i < temp.size(); i++) {
+			
+		}
+	}
+} 
+```
