@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 2.md",
+                "file": "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b55d79a27021616",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 2.md",
+                "file": "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 2.md",
+                "file": "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 2.md"
+                "file": "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md"
               }
             }
           },
@@ -179,8 +168,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1b55d79a27021616",
+  "active": "1d66a3cdedd73524",
   "lastOpenFiles": [
+    "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 2.md",
+    "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
     "Programming 2/Week 5/Programming 2 Week 5- Day 2.md",
     "Programming 2/Week 5/Programming 2 Week 5 - Day 1.md",
     "conflict-files-obsidian-git.md",
