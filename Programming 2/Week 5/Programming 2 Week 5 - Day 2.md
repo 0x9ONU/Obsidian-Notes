@@ -118,10 +118,3 @@ public abstract class Shape {
 	public abstract double calcPerimeter();
 }
 ```
-
-```java
-public class Rectange extends Shape {
-	
-}
-```
-
