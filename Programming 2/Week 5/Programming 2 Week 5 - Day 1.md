@@ -111,14 +111,22 @@ color: 255, 255, 0
 ```mermaid 
 classDiagram
 
+Rectangle <|-- Cube
+
 class Rectangle {
 	- length double
 	- width double
-	+ Rectangle
+	+ Rectangle(double length, double width)
+	+ getArea() : double
+}
+
+class Cube {
+	- height double
+	+ Cube(dobule length, double width, double height)
+	+ getSurfaceArea() : double
+	+ getVolume() : double
 }
 ```
-
-#comebacklater  for UML
 
 # Abstract Classes
 
