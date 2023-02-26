@@ -14,10 +14,10 @@ collapse: open
 # Final Project - Part A
 
 - Write a story in Inform that is set during the historical period being studied
-- You must have at elast one other character to interact with; the character doesn't have to be human.
+- You must have at least one other character to interact with; the character doesn't have to be human.
 - The story must include conflict, but not necessarily a full resolution. 
 	- You can treat this as a Chapter 1 of a longer story
-- Either the avatar or the other character must serve as the female protagonist of the sotry being told.
+- Either the avatar or the other character must serve as the female protagonist of the story being told.
 
 ## Location - The Schumacher Homestead
 
