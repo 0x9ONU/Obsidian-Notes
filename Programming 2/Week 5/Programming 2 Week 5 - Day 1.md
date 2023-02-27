@@ -51,7 +51,7 @@ Writing a completely different method with the same name that does what you want
 
 We can define two or more methods of the same name within a class as long as the argument list or parameters are different.
 
-| When we say "different'we mean ant of the following" |                                              |                                   |
+| When we say "different'we mean want of the following" |                                              |                                   |
 | ---------------------------------------------------- | -------------------------------------------- | --------------------------------- |
 | The number of parameters is different                | The data type of the parameters is different | The order of them does not matter | 
 
@@ -111,14 +111,22 @@ color: 255, 255, 0
 ```mermaid 
 classDiagram
 
+Rectangle <|-- Cube
+
 class Rectangle {
 	- length double
 	- width double
-	+ Rectangle
+	+ Rectangle(double length, double width)
+	+ getArea() : double
+}
+
+class Cube {
+	- height double
+	+ Cube(dobule length, double width, double height)
+	+ getSurfaceArea() : double
+	+ getVolume() : double
 }
 ```
-
-#comebacklater  for UML
 
 # Abstract Classes
 
