@@ -194,5 +194,7 @@ An abstract class, bieng a class, can also contain familiar elements:
 - Instance methods
 - Static methods
 
+![[Pasted image 20230226214225.png]]
+
 
 
