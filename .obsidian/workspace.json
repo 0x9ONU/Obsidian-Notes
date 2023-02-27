@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md"
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "8558e048297f4b29",
   "lastOpenFiles": [
-    "Calculus 2/6.3 - Logarithmic Functions/6.3.md",
+    "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
     "Calculus 2/6.4 - Derivative of Logarithmic Functions/6.4.md",
+    "Calculus 2/6.3 - Logarithmic Functions/6.3.md",
+    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
     "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
     "Pasted image 20230206164317.png",
     "Templates/Programming 2 Template/Programming Template.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md",
-    "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
     "conflict-files-obsidian-git.md",
-    "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md"
   ]
 }
