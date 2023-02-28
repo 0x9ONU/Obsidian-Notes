@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8db1fccf69ca3e65",
+        "id": "347420b8d689a5d7",
         "type": "tabs",
         "children": [
           {
-            "id": "1d66a3cdedd73524",
+            "id": "8b075902b4eb00d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d66a3cdedd73524",
+  "active": "8b075902b4eb00d9",
   "lastOpenFiles": [
-    "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 3.md",
+    "Foundations of Design 2/Week 6/FOD 2 Week 6 - Day 1.md",
     "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md",
+    "Foundations of Design 2/Week 6",
+    "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 3.md",
     "Programming 2/Week 6",
     "Pasted image 20230226214225.png",
     "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
