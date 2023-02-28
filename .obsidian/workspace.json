@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5adbc310d70dd61d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +187,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8558e048297f4b29",
+  "active": "5adbc310d70dd61d",
   "lastOpenFiles": [
     "Programming 2/Week 5/Programming 2 Week 5 - Day 2.md",
     "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
