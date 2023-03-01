@@ -122,6 +122,7 @@ catch(NumberFormtExeption e) { //executes what is inside this block when the spe
 try {
 	File file = new File("myfile.txt")
 	Scanner inputFile = new Scannner(file);
+	inputFile.close();
 }
 catch(FileNotFoundException e) {
 	System.out.println("File not found.");
@@ -132,4 +133,76 @@ catch(FileNotFoundException e) {
 Make sure that your try/catch block just contain the parts that might throw an exception.
 ```
 
+# Throwing
+
+You can write code that throws on the of the standard Java exceptoins, or an instance of a custom exception class you have designed.
+
+**General format:
+- `throw newExceptionType(MessageString);`
+
+You can use the throw statement to manually throw an exception
+- ExceptionType above is an exception calss name
+- MessageString is an optional String argument
+
+## Examples
+
+Simple Single Line Statement
+```java
+throw new Exception("Out of fuel");
+```
+
+As part of a cosntructor for a class...
+
+```java
+public class InventoryItem
+{
+	private String description;
+	private int units;
+	
+	public InventoryItem(String d) {
+		if(d.equals("")) {
+			throw new IllegalArgumentException("Empty String");
+		}
+		descriptoin = d;
+		units = 0;
+	}
+}
+```
+
+## Creating Yoru Own Exception Classes
+
+```java
+public class NegativeStartingBalanceException extends Exception {
+	public NegativeSTartingBalanceException() {
+		super("Error: Negative Starting Balance");
+	}
+	
+	public NegativeStartingBalanceException(double amount) {
+		super("Error: Negative starting balance: " + amount);
+	}
+}
+```
+
+### Test Yourself Question
+
+```java
+try {
+	System.out.println("Please enter # from 1 to 10");
+	Scanner console = new Scanner(System.in);
+	String userInput = console.nextLine();
+	int userNumber = Integer.parseInt(userInput);
+}
+catch(NumberFormatException e) {
+	System.out.println("Oops! Not a Number");
+}
+catch(Exception e) {
+	System.out.println("General Error");
+}
+```
+
+```ad-warning
+Make sure to **ALWAYS** put the more specific exception above the more general exceptions.
+```ad-example
+Exception is a superclass to IOException, so it goes after it in a try/catch statement
+```
 
