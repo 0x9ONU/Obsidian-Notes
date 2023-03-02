@@ -28,9 +28,21 @@
                 "currentVersion": "1.1.15"
               }
             }
+          },
+          {
+            "id": "b1933634625aa97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming 2/Week 5/Programming 2 Week 5 - Day 1.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming 2/Week 5/Programming 2 Week 5 - Day 1.md",
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming 2/Week 5/Programming 2 Week 5 - Day 1.md"
+                "file": "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md"
               }
             }
           },
@@ -187,13 +199,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5adbc310d70dd61d",
+  "active": "b1933634625aa97d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Programming 2/Week 6/Programming 2 Week 6 - Day 2.md",
+    "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md",
+    "Programming 2/Week 6",
+    "Foundations of Design 2/Week 6/FOD 2 Week 6 - Day 1.md",
+    "Foundations of Design 2/Week 6",
+    "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 1.md",
+    "Calculus 2/6.7 - Hyberbolic Functions",
+    "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 2.md",
     "Programming 2/Week 5/Programming 2 Week 5 - Day 2.md",
     "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
     "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 3.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 3.md",
-    "conflict-files-obsidian-git.md",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
     "Calculus 2/6.4 - Derivative of Logarithmic Functions/6.4.md",
     "Calculus 2/6.3 - Logarithmic Functions/6.3.md",
