@@ -23,9 +23,11 @@
             "id": "3fb29d07a72aa420",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
