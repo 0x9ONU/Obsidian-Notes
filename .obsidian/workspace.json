@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fb29d07a72aa420",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b075902b4eb00d9",
+  "active": "3fb29d07a72aa420",
   "lastOpenFiles": [
     "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 1.md",
     "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md",
