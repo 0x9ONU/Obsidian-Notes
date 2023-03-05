@@ -52,9 +52,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "447a15f0e4e73fd6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -211,7 +221,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d3e5bddf82c896c7",
+  "active": "447a15f0e4e73fd6",
   "lastOpenFiles": [
     "Pasted image 20230302122915.png",
     "Programming 2/Week 6/Programming 2 Week 6 - Day 2.md",
