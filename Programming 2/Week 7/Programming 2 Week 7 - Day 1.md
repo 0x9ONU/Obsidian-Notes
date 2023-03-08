@@ -113,5 +113,3 @@ Is not efficient at all
 - Easy to recognize when you are close to being completed witht eh soritng algorithm or not
 
 ### Insertion Sort
-
-- 
