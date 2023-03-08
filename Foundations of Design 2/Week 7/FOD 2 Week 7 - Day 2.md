@@ -72,3 +72,35 @@ Generates a **Scatter Plot** and a trend line
 - Goal: to demonstration the design's performance
 - Provides quantitative exvidence of success
 
+# Torque
+
+Torque = Force x Radius
+
+Force acts tangent to the pulley and in the same rotional direction as the torque
+
+```ad-important
+title: Torque Formula
+### $t = mgr$
+```
+
+## Measuring Shaft Speed
+
+$$RPM = \frac{Number of Rev}{min}$$
+## Motor System Model
+
+| Inputs | Outputs | Control       | Uncontrollable |
+| ------ | ------- | ------------- | -------------- |
+| Weight | Time    | Circumference | Friction       |         
+
+## Gear ratios
+
+Comparing "driven gear" to "drive gear":
+
+$$ \frac{N_2}{N_1} = \frac{D_2}{D_1} = \frac{T_2}{T_1} = \frac{RPM_1}{RPM_2}$$
+
+With:
+- N = Number of Teeth
+- D = Drive
+- T = Torque
+- RPM = Rotations per Minute
+
