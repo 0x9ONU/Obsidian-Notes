@@ -41,8 +41,34 @@ THese are NOT useful findings:
 Results form these tests allow designers to justify decisions
 ```
 
+## Types of Experimetnal Tests
 
+**DIscrete** independent variables (e.g. distinct categories)
+- Wind turbine: blade shape
+- Water filter: type of filtration media
 
+```ad-important
+Generates a **column** chart instead of a math model
+```
 
+**Continuous** indepndent variables (e.g. quantitative range)
+- Wind turbine: blade length
+- Water filter lab: thickness of sand
 
+```ad-note
+Generates a **Scatter Plot** and a trend line
+```
+
+## Types of Experimental Tests
+
+**System Behavior**
+
+- To learn something about the design componeneents, material, assembly, etc.
+- Manipulates an indepdent variable to determien relationship with a dependent variable
+- Guides design - infroms selection or design of individual compenents
+
+**Prototype Performance**
+
+- Goal: to demonstration the design's performance
+- Provides quantitative exvidence of success
 
