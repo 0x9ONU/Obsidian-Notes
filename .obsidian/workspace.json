@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
+                "file": "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
+                "file": "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
+                "file": "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md"
+                "file": "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 3.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   "active": "ac5d7f94adca1bfb",
   "lastOpenFiles": [
     "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
+    "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 3.md",
     "Excalidraw/Drawing 2023-03-10 09.23.03.excalidraw.md",
     "Programming 2/Week 3/Programming 2 Week 3 - Day 3.md",
     "Programming 2/Week 7/Programming 2 Week 7 - Day 1.md",
@@ -204,7 +205,6 @@
     "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 3.md",
     "Programming 2/Week 6",
     "Programming 2/Week 5/Programming 2 Week 5 - Day 2.md",
-    "Programming 2/Week 5/Programming 2 Week 5 - Day 1.md",
-    "Programming 2/Week 4/Programming 2 Week 4 - Day 1.md"
+    "Programming 2/Week 5/Programming 2 Week 5 - Day 1.md"
   ]
 }
