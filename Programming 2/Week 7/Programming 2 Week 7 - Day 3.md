@@ -8,6 +8,7 @@ title: Today's Topics
 collapse: open
 
 - Binary Searching
+- Oregon Trail Assignment Debrief
 
 ```
 
@@ -49,3 +50,11 @@ public static int binarySearch {
 }
 ```
 
+# Oregon Trail
+
+```ad-important
+## Tasks over break
+- Play the different Oregon Trail Games to research what you will do for your project
+```
+
+#todo 
