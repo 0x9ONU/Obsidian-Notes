@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 2.md",
+                "file": "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#comebacklater",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 2.md",
+                "file": "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 2.md",
+                "file": "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 2.md"
+                "file": "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md"
               }
             }
           },
@@ -170,8 +170,13 @@
   },
   "active": "ac5d7f94adca1bfb",
   "lastOpenFiles": [
-    "Programming 2/Week 7/Programming 2 Week 7 - Day 2.md",
+    "Programming 2/Week 3/Programming 2 Week 3 - Day 3.md",
+    "Programming 2/Week 7/Programming 2 Week 7 - Day 1.md",
+    "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
+    "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md",
+    "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
     "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 2.md",
+    "Programming 2/Week 7/Programming 2 Week 7 - Day 2.md",
     "Foundations of Design 2/Week 7",
     "Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
     "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
@@ -185,7 +190,6 @@
     "Pasted image 20230302122915.png",
     "Pasted image 20230226214225.png",
     "Pasted image 20230206164317.png",
-    "Programming 2/Week 7/Programming 2 Week 7 - Day 1.md",
     "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md",
     "Programming 2/Week 7",
     "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 1.md",
@@ -195,16 +199,12 @@
     "Programming 2/Week 6/Programming 2 Week 6 - Day 2.md",
     "Calculus 2/6.7 - Hyberbolic Functions",
     "Foundations of Design 2/Week 6/FOD 2 Week 6 - Day 1.md",
-    "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md",
     "Foundations of Design 2/Week 6",
     "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 3.md",
     "Programming 2/Week 6",
-    "Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
-    "Programming 2/Week 3/Programming 2 Week 3 - Day 3.md",
     "Programming 2/Week 5/Programming 2 Week 5 - Day 2.md",
     "Programming 2/Week 5/Programming 2 Week 5 - Day 1.md",
     "Programming 2/Week 4/Programming 2 Week 4 - Day 1.md",
-    "Programming 2/Week 4/Programming 2 Week 4 - Day 2.md",
-    "Programming 2/Week 4/Programming 2 Week 4 - Day 3.md"
+    "Programming 2/Week 4/Programming 2 Week 4 - Day 2.md"
   ]
 }
