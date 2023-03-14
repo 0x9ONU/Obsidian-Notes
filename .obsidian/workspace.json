@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
+                "file": "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
+                "file": "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
+                "file": "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md"
+                "file": "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 1.md"
               }
             }
           },
@@ -168,8 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20fa6d1f814f2ed8",
+  "active": "ac5d7f94adca1bfb",
   "lastOpenFiles": [
+    "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
+    "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 1.md",
     "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule",
     "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md",
     "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 1.md",
@@ -197,7 +199,6 @@
     "Pasted image 20230206164317.png",
     "Programming 2/Week 7",
     "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 2.md",
-    "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
     "conflict-files-obsidian-git.md",
     "Programming 2/Week 6/Programming 2 Week 6 - Day 2.md",
     "Calculus 2/6.7 - Hyberbolic Functions",
