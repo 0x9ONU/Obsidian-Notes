@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md",
+                "file": "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md",
+                "file": "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md",
+                "file": "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md"
+                "file": "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md"
               }
             }
           },
@@ -168,10 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac5d7f94adca1bfb",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
-    "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 1.md",
+    "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule",
     "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md",
+    "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 1.md",
     "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 3.md",
     "Foundations of Design 2/Week 7/FOD 2 Week 7 - Day 2.md",
     "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
@@ -204,7 +205,6 @@
     "Foundations of Design 2/Week 6",
     "Interactive Fiction/Week 5/Interactive Fiction Week 5 - Day 3.md",
     "Programming 2/Week 6",
-    "Programming 2/Week 5/Programming 2 Week 5 - Day 2.md",
-    "Programming 2/Week 5/Programming 2 Week 5 - Day 1.md"
+    "Programming 2/Week 5/Programming 2 Week 5 - Day 2.md"
   ]
 }
