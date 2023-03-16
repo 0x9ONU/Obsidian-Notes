@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 2.md",
+                "file": "Calculus 2/7.1 - Integration by Parts/7.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 2.md",
+                "file": "Calculus 2/7.1 - Integration by Parts/7.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 2.md",
+                "file": "Calculus 2/7.1 - Integration by Parts/7.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 2.md"
+                "file": "Calculus 2/7.1 - Integration by Parts/7.1.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "ac5d7f94adca1bfb",
   "lastOpenFiles": [
-    "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 1.md",
     "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 2.md",
+    "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 1.md",
     "Calculus 2/7.1 - Integration by Parts/7.1.md",
     "Calculus 2/7.1 - Integration by Parts",
     "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/Untitled",
