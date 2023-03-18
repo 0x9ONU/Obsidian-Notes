@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/7.1 - Integration by Parts/7.1.md",
+                "file": "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/7.1 - Integration by Parts/7.1.md",
+                "file": "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/7.1 - Integration by Parts/7.1.md",
+                "file": "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/7.1 - Integration by Parts/7.1.md"
+                "file": "Calculus 2/7.2 - Trigonometric Integrals/7.2.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "891d7c985ddbfae2",
+            "id": "57ba68c4806a0361",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,9 +169,11 @@
   },
   "active": "ac5d7f94adca1bfb",
   "lastOpenFiles": [
+    "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
+    "Calculus 2/7.1 - Integration by Parts/7.1.md",
+    "Calculus 2/7.2 - Trigonometric Integrals",
     "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 2.md",
     "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/6.8 - Day 1.md",
-    "Calculus 2/7.1 - Integration by Parts/7.1.md",
     "Calculus 2/7.1 - Integration by Parts",
     "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/Untitled",
     "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
@@ -206,7 +207,6 @@
     "conflict-files-obsidian-git.md",
     "Programming 2/Week 6/Programming 2 Week 6 - Day 2.md",
     "Calculus 2/6.7 - Hyberbolic Functions",
-    "Foundations of Design 2/Week 6/FOD 2 Week 6 - Day 1.md",
     "Foundations of Design 2/Week 6",
     "Programming 2/Week 6"
   ]
