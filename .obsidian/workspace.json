@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming 2/Week 8/Programming 2 Week 8 - Day 1.md",
+                "file": "Foundations of Design 2/Week 8/FOD 2 Week 8 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming 2/Week 8/Programming 2 Week 8 - Day 1.md",
+                "file": "Foundations of Design 2/Week 8/FOD 2 Week 8 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming 2/Week 8/Programming 2 Week 8 - Day 1.md",
+                "file": "Foundations of Design 2/Week 8/FOD 2 Week 8 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming 2/Week 8/Programming 2 Week 8 - Day 1.md"
+                "file": "Foundations of Design 2/Week 8/FOD 2 Week 8 - Day 1.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   "active": "f33f02430d0e300a",
   "lastOpenFiles": [
     "Programming 2/Week 8/Programming 2 Week 8 - Day 1.md",
+    "Foundations of Design 2/Week 8/FOD 2 Week 8 - Day 1.md",
+    "Foundations of Design 2/Week 8",
     "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md",
     "Programming 2/Week 8",
     "Programming 2/Week 6/Programming 2 Week 6 - Day 2.md",
@@ -203,13 +205,11 @@
     "Excalidraw/Drawing 2023-02-02 17.01.39.excalidraw.md",
     "Excalidraw/Drawing 2023-02-02 16.54.51.excalidraw.md",
     "Excalidraw/Drawing 2023-02-02 16.52.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-02 16.42.55.excalidraw.md",
     "Excalidraw/Drawing 2023-02-02 16.42.55.excalidraw.png",
     "Pasted image 20230302122915.png",
     "Pasted image 20230226214225.png",
     "Pasted image 20230206164317.png",
     "Programming 2/Week 7",
-    "Calculus 2/6.7 - Hyberbolic Functions",
-    "Foundations of Design 2/Week 6"
+    "Calculus 2/6.7 - Hyberbolic Functions"
   ]
 }
