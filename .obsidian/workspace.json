@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac5d7f94adca1bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming 2/Week 8/Programming 2 Week 8 - Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f33f02430d0e300a",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
