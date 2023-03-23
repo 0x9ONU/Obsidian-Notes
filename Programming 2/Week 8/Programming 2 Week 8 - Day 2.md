@@ -71,7 +71,15 @@ Have the person sign a photo release form, which gives you legal permission to u
 ### How to give public attribution
 
 Syntax:
-- Title by Author
+- **Title+Source** by **Author** is licensed under **LicenseType**
+
+## Option 3: Buy Images
+
+Can be very expensive, but might be worth it based on how many times you use it
+
+```ad-warning
+DO NOT use watermarked images. The watermark means it needs to be paid for.
+```
 
 
 
