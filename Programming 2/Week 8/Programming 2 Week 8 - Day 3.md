@@ -8,6 +8,8 @@ title: Today's Topics
 collapse: open
 
 - Create Your Own Persona
+	- Personas
+	- Senarios
 
 ```
 
@@ -28,4 +30,37 @@ title: Fundamental Principles:
 - Divulge all ideas without restraint
 - As many ideas as possible, as fast as possible
 ```
+
+# Persona & Senario
+
+- **Persona**:
+	- Fictional character that represents a typical user of an app, website, or other product
+	- Distilled essences of real users
+		- Used to build empathy with target users and focus on their world
+		- Should create from sesearcha bout real users
+		- SHOULD NOT invent out of your assumptions about your users
+		- Should not be "stretched" to fit your preferred design
+- **Senario**
+	- The problem that the persona is facing.
+	- Putting personas to work thinin sotries
+	- Can create a great scenario without a detailed persona
+	- Multiple stories provide contrast
+	- They provide context
+
+## Persona Development
+
+1. Collect data on target users
+2. Determine the qualities of and idfferences between users
+3. Dvelop a hypothesis from the research
+
+#comebacklater 
+
+## Persona Formats
+
+Often include: 
+- Name and picture
+- Demographic info
+- Needs, attitudes
+
+#comebacklater 
 
