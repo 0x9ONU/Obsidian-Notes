@@ -7,9 +7,7 @@ File Folder: Week 9
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Project Work Day
 
 ```
 
