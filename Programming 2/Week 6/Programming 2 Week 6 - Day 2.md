@@ -81,7 +81,7 @@ try {
 	String badString = "hello";
 	int theNumber = Integer.parseInt(badString); //This is where the error is thrown
 }
-catch(NumberFormtExeption e) { //executes what is inside this block when the specific error is thrown
+catch(NumberFormatExeption e) { //executes what is inside this block when the specific error is thrown
 	System.out.println("Oops! Not a number.");
 }
 ```
@@ -90,7 +90,7 @@ catch(NumberFormtExeption e) { //executes what is inside this block when the spe
 
 - An **exception is an object**, which means that it was created from Exception classes
 - These classes are in the Java API
-- **There is an extensive hierarchy of exception calsses
+- **There is an extensive hierarchy of exception classes**
 
 - Exception is the superclass, IOException and RuntimeException are derived classes.
 	- EOFException and FIleNotFundException are derived calsses of superclass IOExcpeoitn
