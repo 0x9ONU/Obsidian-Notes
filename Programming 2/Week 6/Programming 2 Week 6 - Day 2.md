@@ -137,7 +137,7 @@ Make sure that your try/catch block just contain the parts that might throw an e
 
 You can write code that throws on the of the standard Java exceptoins, or an instance of a custom exception class you have designed.
 
-**General format:
+**General format**:
 - `throw newExceptionType(MessageString);`
 
 You can use the throw statement to manually throw an exception
