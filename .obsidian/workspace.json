@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 1.md",
+                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 3.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 1.md",
+                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 1.md",
+                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 1.md"
+                "file": "Programming 2/Week 3/Programming 2 Week 3 - Day 3.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "28ecd2a7e80ea6f9",
   "lastOpenFiles": [
+    "Programming 2/Week 3/Programming 2 Week 3 - Day 2.md",
+    "Programming 2/Week 3/Programming 2 Week 3 - Day 1.md",
     "Programming 2/Week 2/Programming 2 Week 2 - Day 3.md",
     "Programming 2/Week 2/Programming 2 Week 2 - Day 2.md",
     "Programming 2/Week 2/Programming 2 Week 2 - Day 1.md",
@@ -207,9 +209,7 @@
     "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
     "Programming 2/Week 7/Programming 2 Week 7 - Day 2.md",
     "Programming 2/Week 7/Programming 2 Week 7 - Day 1.md",
-    "Calculus 2/7.3 - Trigonometric Substitution/7.3.md",
     "Calculus 2/7.3 - Trigonometric Substitution",
-    "Calculus 2/7.1 - Integration by Parts/7.1.md",
     "Calculus 2/7.2 - Trigonometric Integrals",
     "Calculus 2/7.1 - Integration by Parts",
     "Calculus 2/6.8 - Indeterminate Forms and L' Hospital's Rule/Untitled",
