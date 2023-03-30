@@ -89,7 +89,7 @@ public class Main
 	public static void main(String[] Args)
 	{
 		Student temp = new Student() //creating an object of class Student
-		System.out.println()
+		System.out.println(temp.getName());
 		
 	}
 }
