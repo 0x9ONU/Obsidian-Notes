@@ -21,20 +21,24 @@ The most difficult problem in teaching OOP porgramming is getting the learner to
 
 ```ad-summary
 title: CRC refers to:
-- Class - The name fo the class
+- Class - The name of the class
+	- A collection of similar objects
 - Responsibilities - What the class is reponsible for doing
+	- What class knows or does 
 - Collaborations - What other classes the class collaborates with.
+	- Addtional classes that are interacted with to fulfull responsibilities
 ```
-
-#comebacklater 
 
 # CRC card Process
 
 1. *Brainstorming*
 	1. Identify as many potential classes that may be in the problem domain and write them in a candiate class list.
 2. Filiter and Refine List
-3. 
-4. Identify responsbilities and collaborations using scenarios
+	1. Review the list you created in step 1 and come up with a refined list.
+3. Identify responsbilities and collaborations using scenarios
+	1. From the revised list, create CRC cards
+4. Identify responsibilities and collaborations using scenarios
+	1. Develop scenarios that will occur and play out the scenario to identify responsibilities and collaborations.
 5. Finalize classes
+	1. Throw out any cards  that do not have any responsibilities and collarborations.
 
-#comebacklater 

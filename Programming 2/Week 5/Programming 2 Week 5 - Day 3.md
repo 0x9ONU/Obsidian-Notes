@@ -91,8 +91,6 @@ public class Rectangle extends Shape {
 An interface specifies what operations must be performed but
 ```
 
-#comebacklater 
-
 ## General Format for an Interface
 
 ```java
@@ -104,8 +102,6 @@ public interface iNterfaceName
 	public Stirng method2(int x); //method
 }
 ```
-
-#comebacklater for the one slide
 
 ## Why Does Java Have Interfaces?
 

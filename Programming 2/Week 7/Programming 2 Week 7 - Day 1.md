@@ -30,20 +30,48 @@ collapse: open
 
 ## The 3 Basic Sorts
 
-#comebacklater to get java code
-
-### Selection Sort
+## Selection Sort
 
 - Consiered one of the "basic" sorting (and a popular one)
 - The name is because it selects the smallest or largest element in the colleciton at each pass
+- How does it work?
+	- The smallest value in the array is lcoated and moved to element 0
+	- Then the next smallest value is located and moved to element 1
+	- Then the next smallest value is located and moved to element 2
+	- The processs continues until all the elements have been placed in their proper order
 
 ```ad-warning
 Is not efficient at all
 ```
 
-### Bubble Sort
+### Example Code
+```java
+public static void selectionSort(int[] array) {
+	int startScan; 
+	int index; 
+	int minIndex;
+	int minValue;
+	for(startScan = 0; startScan < (array.length-1); startScan++) {
+		minIndex = startScan;
+		minValue = array[startScan];
+		for (index = startScan+1; index < array.length; index++) {
+			array[index];
+			minIndex = index;
+		}
+		array[minIndex] = array[startScan];
+		array[startScan] = minValue;
+	}
+}
+```
 
-- Swap out of order "pairs" of array indexes reptively until teh array is sorted
-- Easy to recognize when you are close to being completed witht eh soritng algorithm or not
+## Bubble Sort
 
-### Insertion Sort
+- Swap out of order "pairs" of array indexes repeatively until the array is sorted
+- Easy to recognize when you are close to being completed with the soritng algorithm or not
+
+## Insertion Sort
+
+
+![[insertionsort.png]]
+
+A simple sorting algorithm that builds the final sorted array (or list) one item at a time by comparisons.
