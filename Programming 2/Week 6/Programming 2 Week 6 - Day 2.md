@@ -28,9 +28,9 @@ public class Main {
 
 ## Exception Handling
 
-- **Exception: 
+- **Exception: **
 	- an object that is generated as the result of an error or an unexpcted event
-- **Exception Handling: 
+- **Exception Handling: **
 	- code that you with that detects and handles exceptoins that have occurred
 
 ```ad-important
