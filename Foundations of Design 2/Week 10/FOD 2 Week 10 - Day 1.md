@@ -74,5 +74,12 @@ Avoid technical jargon, math modeling, etc.
 - Benefits/Cost
 - Competition
 
+## What does the customer need to know
 
+- Promise
+- Credibility
+- Differentiator
+- Price 
+- Risk 
+- Effort
 
