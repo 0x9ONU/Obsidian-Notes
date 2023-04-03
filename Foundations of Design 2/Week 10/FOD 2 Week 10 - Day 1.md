@@ -55,7 +55,24 @@ Prepare a brief verbal presentation of no more than two mintues
 - Props are allowed and encouraged (bring your prototype and any other supplement such as a handout or photographs!) NOT ELECTRONIC MEDIA is allowed.
 - Q&A from a panel of judges
 
+### Check in and Awards
 
+- Check-in and room assignments start at 4:30pm @ Dicke College of Business
+
+### Recommendations
+
+Your judge will nto know the context of your proejct
+
+Leverage the TBL framework
+
+Avoid technical jargon, math modeling, etc.
+
+# Value Proposition Throuhg NABC
+
+- Need
+- Approach
+- Benefits/Cost
+- Competition
 
 
 
