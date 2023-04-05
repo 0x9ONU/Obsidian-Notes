@@ -74,4 +74,37 @@ The first one gives you the most flexibility of changing collection type, but re
 - int lastIndexOf(Object o)
 - List subList(int fromIndex, int toIndex)
 
+## Looney Tunes Example
+
+```java
+ArrayList<String> alNames = new ArrayList<String>();
+aLNames.add(0, "Bugs Bunny");
+
+LinkedList<String> names = new LinkedList<String>();
+names.addFirst("Bugs Bunny");
+names.addLast("Daffy Duck");
+names.add("Taz");
+names.add(2, "Road Runner");
+```
+
+## What is going on behind the scene?
+
+```java
+public class Node {
+	public Object data;
+	public Node next = null;
+	// public Node last = null; // this makes a doubly linked list
+}
+```
+
+```ad-note
+Node is the most general class for storing data
+```
+
+```ad-important
+Advantage of this code:
+- It is modular
+- Based on the idea of pointers, but in the form of Nodes
+- Expandable
+```
 
