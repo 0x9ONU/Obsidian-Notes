@@ -7,10 +7,11 @@ File Folder: Week 10
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Non-technical Communications Day 2
 
 ```
 
+## Remember: Value Proposition
+
+Why a Stakeholder should buy/use a product or service
 
