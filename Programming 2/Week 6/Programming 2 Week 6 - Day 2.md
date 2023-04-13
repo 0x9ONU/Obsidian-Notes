@@ -28,9 +28,9 @@ public class Main {
 
 ## Exception Handling
 
-- **Exception: 
+- **Exception: **
 	- an object that is generated as the result of an error or an unexpcted event
-- **Exception Handling: 
+- **Exception Handling: **
 	- code that you with that detects and handles exceptoins that have occurred
 
 ```ad-important
@@ -81,7 +81,7 @@ try {
 	String badString = "hello";
 	int theNumber = Integer.parseInt(badString); //This is where the error is thrown
 }
-catch(NumberFormtExeption e) { //executes what is inside this block when the specific error is thrown
+catch(NumberFormatExeption e) { //executes what is inside this block when the specific error is thrown
 	System.out.println("Oops! Not a number.");
 }
 ```
@@ -90,7 +90,7 @@ catch(NumberFormtExeption e) { //executes what is inside this block when the spe
 
 - An **exception is an object**, which means that it was created from Exception classes
 - These classes are in the Java API
-- **There is an extensive hierarchy of exception calsses
+- **There is an extensive hierarchy of exception classes**
 
 - Exception is the superclass, IOException and RuntimeException are derived classes.
 	- EOFException and FIleNotFundException are derived calsses of superclass IOExcpeoitn
@@ -137,7 +137,7 @@ Make sure that your try/catch block just contain the parts that might throw an e
 
 You can write code that throws on the of the standard Java exceptoins, or an instance of a custom exception class you have designed.
 
-**General format:
+**General format**:
 - `throw newExceptionType(MessageString);`
 
 You can use the throw statement to manually throw an exception

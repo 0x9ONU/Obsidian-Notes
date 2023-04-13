@@ -26,7 +26,7 @@ collapse: open
 ## Methods Inherited from Object
 
 1. `protected Object clone() throws CloneNotSUpportedExcpetion`
-	1. Creates adn returns a copy of this object
+	1. Creates and returns a copy of this object
 2. `public boolean equals(Object obj)`
 	1. Indicates whether some other object is "equal to" this one
 3. `protected void finalize() throws Throwable`
