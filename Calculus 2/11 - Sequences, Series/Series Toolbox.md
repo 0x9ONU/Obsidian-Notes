@@ -182,8 +182,33 @@ If a series is ***absolutely convergent***, then it is definitely ==convergent==
 
 ### Conditional Convergence
 
-```ad-
+```ad-important
+title: Conditional Convergence Definition
+If the series $\sum_{n=1}^{\infty} |a_n|$ **diverges** AND $\sum_{n=1}^{\infty} a_n$ ==converges==, then $\sum_{n=1}^{\infty} a_n$ ***converges conditionally***
 ```
+
+## Steps to Solving for Absolute Convergence
+
+1. Test for ***absolute convergence*** by using $\sum |a_n|$
+	1. If true, then the series is ***absolutely convergent*** AND ==convergent==
+2. Test for ***conditional convergence*** by using  $\sum a_n$
+	1. If this series is ==convergent== and the previous step was **divergent**, then the series is ***conditionally convergent***
+	2. If both series are **divergent**, then the series is **divergent**
+
+## The Ratio Test
+
+```ad-important
+Take the following limit: $$\lim_{n \to \infty} |\frac{a_{n+1}}{a_n}| = L$$ 
+1. If $L < 1$, then the series $\sum_{n=1}^{\infty} a_n$ ***converges absolutely***
+2. If $L > 1$ OR $L = \infty$, then the series is **divergent**
+3. If $L = 1$, the test is *inconclusive*
+```
+
+
+
+
+
+
 
 
 
