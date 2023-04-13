@@ -177,7 +177,12 @@ If the series $\sum_{n=1}^{\infty} |a_n|$ ==converges==, then the series $\sum_{
 
 ```ad-note
 color: 165, 104, 125
+If a series is ***absolutely convergent***, then it is definitely ==convergent==
+```
 
+### Conditional Convergence
+
+```ad-
 ```
 
 
