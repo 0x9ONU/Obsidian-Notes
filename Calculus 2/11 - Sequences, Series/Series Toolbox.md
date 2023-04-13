@@ -4,7 +4,7 @@
 title: Series
 color: 0, 255, 255
 
-$$\sum_{n=1}^{\infty} = a_1 + a_2 + a_3 + ... a_n$$
+$$\sum_{n=1}^{\infty} a_n= a_1 + a_2 + a_3 + ... a_n$$
 
 - Series is convergent if the sum can be found
 - It is divergent otherwise
@@ -62,6 +62,124 @@ The Divergence Test is ***inconclusive*** when $lim_{n \to \infty} a_n = 0$
 ```
 
 
-## Series 
+## Series Combination Theorems
+
+```ad-note
+If $\sum_{n=1}^{\infty} a_n$ and $\sum_{n=1}^{\infty} b_n$ are ==convergent series==, and $c$ is some constant 
+```
+
+```ad-summary
+title: Theorems
+color: 23, 234, 90
+1. $$\sum_{n=1}^{\infty} ca_n = c \sum_{n=1}^{\infty} a_n$$
+2. $$\sum_{n=1}^{\infty} (a_n + b_n) = \sum_{n=1}^{\infty} a_n + \sum_{n=1}^{\infty} b_n$$
+3. $$\sum_{n=1}^{\infty} (a_n - b_n) = \sum_{n=1}^{\infty} a_n - \sum_{n=1}^{\infty} b_n$$
+```
+
+```ad-summary
+Similar to both $\lim$ and Integral Theorems
+```
+
+## The Integral Test
+
+```ad-warning
+For $a_n = f(n)$, the function $f$ MUST be on the interval $[n=x, \infty)$:
+- Continuous
+- Positive
+- Decreasing
+```
+
+```ad-summary
+title: The Integral Test Setup
+color: 169, 212, 90
+
+A series $\sum_{n=x}^{\infty}$ ==converges== if and only if:
+$\int_{1}^{\infty} f(x)dx$ ==converges== (aka the integral results in a finite number)
+```
+
+## P-Series Theorem
+
+```ad-important
+title: P-Series Theorem
+The series of the type p-series is ==convergent== if $p > 1$ AND **divergent** otherwise.
+$$\sum_{n=1}^{\infty} \frac{1}{n^p}$$
+```
+
+## Comparison Tests
+
+### Direct Comparison Test
+
+```ad-abstract
+title: Direct Comparison Test Setup
+color: 46, 78, 210
+Suppose that $\sum a_n$ and $\sum b_n$ are series with **positive terms**
+```
+
+```ad-important
+title: Direct Comparison Test
+color: 146, 214, 83
+1. If $\sum b_n$ is ==convergent== and $a_n \le b_n$ for all $n$, then $\sum a_n$ is ==also convergent==
+2. If \sum b_n$ is **divergent** and $a_n \ge b_n$ for all $n$,, then $\sum a_n$ is **also divergent** 
+```
+
+### Limit Comparison Test
+
+```ad-summary
+title: Limit Comparison Test Setup
+color: 196, 47, 69
+Suppose that $\sum a_n$ and $\sum b_n$ are series with **positive terms**
+```
+
+```ad-important
+title: Limit Comparison Test
+color: 157, 103, 178
+If $\lim_{n \to \infty} \frac{a_n}{b_n} = c$ where $c$ is a **finite** number and $c > 0$, then ***either*** both of these series ==converge== or **diverge**
+```
+
+```ad-note
+Make $b_n$ a sequence that can be solved by other options in the toolbox
+```
+
+## Alternating Series
+
+### Definition
+
+```ad-summary
+title: Alternating Series
+color: 181, 128, 45
+
+A series with a $a_n$ of type $(-1)^{n-1}$
+- The series will swap signs indefinitely
+```
+
+### Alternating Series Test
+
+```ad-important
+title: Alternating Series Test
+color: 85, 242, 244
+
+If alternating series of type: $$\sum_{n=1}^{\infty} (-1)^{n-1} b_n$$
+Satisfies the following conditions:
+1. $b_{n+1} < b_n$ for all $n$ (The series is decreasing) 
+2. $\lim_{n \to \infty} b_n = 0$
+$$.$$
+If **both of these** conditions are met, then the series is ==convergent==
+```
+
+## Absolute/Conditional Convergence
+
+### Absolute Convergence
+
+```ad-important
+title:Absolute Convergence Defintion
+If the series $\sum_{n=1}^{\infty} |a_n|$ ==converges==, then the series $\sum_{n=1}^{\infty} a_n$ ***converges absolutely***
+```
+
+```ad-note
+color: 165, 104, 125
+
+```
+
+
 
 
