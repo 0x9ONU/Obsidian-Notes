@@ -5,6 +5,8 @@ File Folder: Digital Logic
 
 # State Table
 
+
+## Current State    |    Next State
 | $Q_3$ | $Q_2$ | $Q_1$ | $Q_0$ | $D_3$ | $D_2$ | $D_1$ | $D_0$ |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 0     | 0     | 0     | 0     | 0     | 0     | 0     | 1     |
