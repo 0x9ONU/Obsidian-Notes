@@ -7,10 +7,18 @@ File Folder: Week 11
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Developing Character
 
 ```
+
+# How to Develop a Character
+
+- Description of appearance
+- Accessories
+- How characters say what they say ("May I have the ketchup, please?"v. "Pass the damn ketchup. Now.")
+- Character's choices
+- What other people say aobut or to the character
+- Character's inner thoughts
+
 
 
