@@ -54,3 +54,57 @@ public static <E> String toString(ArrayList<E> a) {
 }
 ```
 
+### Example
+
+```java
+public static <T> void print(T temp) {
+	String s = String.valueOf(temp);
+	System.out.println(s);
+}
+
+Double d = 98.2;
+Integer i = 42;
+String e - "Basket";
+
+print(d);
+print(i);
+print(e);
+```
+
+## Syntax for Generic Class
+
+```java
+modifier class GenericClassName<TypeVariable, TypeVariable...> {
+	//instance variables
+	consturctors
+	methods
+}
+
+public class Pair<T, S> {
+	private T first;
+	private S second;
+public T getFirst() { return first; }
+}
+```
+
+### Example
+
+```java
+public class Area<T> {
+	private T lengh;
+	private T width;
+	
+	public void setLength(T value) {
+		this.length = value;
+	}
+	
+	public T getLength() {
+		return length;
+	}
+	
+	public void displayArea() {
+		//
+	}
+}
+```
+
