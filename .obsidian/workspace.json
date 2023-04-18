@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c88719d2d8dd4112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1df1a11a2864f01a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Calculus 2/11 - Sequences, Series/Series Toolbox.md"
               }
             }
           },
@@ -201,10 +176,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c88719d2d8dd4112",
+  "active": "4625373c7b76f61e",
   "lastOpenFiles": [
-    "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
     "conflict-files-obsidian-git.md",
+    "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
     "Programming 2/Week 11/Programming 2 Week 11 - Day 3.md",
     "Interactive Fiction/Week 11/Interactive Fiction Week 11 - Day 3.md",
     "Foundations of Design 2/Week 11/FOD 2 Week 11 - Day 3.md",

@@ -204,6 +204,8 @@ Take the following limit: $$\lim_{n \to \infty} |\frac{a_{n+1}}{a_n}| = L$$
 3. If $L = 1$, the test is *inconclusive*
 ```
 
+## The Root Test
+
 
 
 
