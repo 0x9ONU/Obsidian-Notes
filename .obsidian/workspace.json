@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Design 2/Week 13/FOD 2 Week 13 - Day 1.md",
+                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Design 2/Week 13/FOD 2 Week 13 - Day 1.md",
+                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Design 2/Week 13/FOD 2 Week 13 - Day 1.md",
+                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Design 2/Week 13/FOD 2 Week 13 - Day 1.md"
+                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 2.md"
               }
             }
           },
@@ -168,13 +168,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a166027c74720ae8",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
+    "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
+    "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 2.md",
     "conflict-files-obsidian-git.md",
-    "Foundations of Design 2/Week 13/FOD 2 Week 13 - Day 1.md",
     "Foundations of Design 2/Week 11/FOD 2 Week 11 - Day 3.md",
     "Interactive Fiction/Week 11/Interactive Fiction Week 11 - Day 3.md",
-    "Foundations of Design 2/Week 13",
+    "Foundations of Design 2/Week 14",
     "Interactive Fiction/Week 11/Interactive Ficiton Week 11 - Day 1.md",
     "Programming 2/Week 11/Programming 2 Week 11 - Day 3.md",
     "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
@@ -202,7 +203,6 @@
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
     "Programming 2/Week 7/Programming 2 Week 7 - Day 1.md",
     "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
-    "Programming 2/Week 7/Programming 2 Week 7 - Day 2.md",
     "insertionsort.png",
     "Interactive Fiction/Week 9",
     "Programming 2/Week 9",
