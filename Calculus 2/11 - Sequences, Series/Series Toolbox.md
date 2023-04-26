@@ -204,6 +204,24 @@ Take the following limit: $$\lim_{n \to \infty} |\frac{a_{n+1}}{a_n}| = L$$
 3. If $L = 1$, the test is *inconclusive*
 ```
 
+## The Root Test
+
+```ad-important
+color: 105, 183, 100
+Take the following limit:
+$$\lim_{n \to \infty} \sqrt[n]{|a_n|}$$
+
+1. If $\lim_{n \to \infty} \sqrt[n]{|a_n|} < 1$, then the series is ***absolutely convergent***
+2. If $\lim_{n \to \infty} \sqrt[n]{|a_n|} > 1$ OR $=\infty$, then the series is **divergent**
+3. If $\lim_{n \to \infty} \sqrt[n]{|a_n|} = 1$, the test is *inconclusive*
+```
+
+
+
+
+
+
+
 
 
 
