@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34fdd58fc5eee48b",
+        "id": "87c82fb7d7ffddb0",
         "type": "tabs",
         "children": [
           {
-            "id": "a166027c74720ae8",
+            "id": "b69ae0ab84411763",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
+                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
+                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
+                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md"
+                "file": "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md"
               }
             }
           },
@@ -168,8 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a166027c74720ae8",
+  "active": "b69ae0ab84411763",
   "lastOpenFiles": [
+    "Foundations of Design 2/Week 14/Drawing 2023-04-28 14.01.46.excalidraw.md",
+    "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 2.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
     "conflict-files-obsidian-git.md",
@@ -201,8 +203,6 @@
     "Programming 2/Week 10",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
-    "Programming 2/Week 7/Programming 2 Week 7 - Day 1.md",
-    "Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
     "insertionsort.png",
     "Interactive Fiction/Week 9",
     "Programming 2/Week 9",
