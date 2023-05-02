@@ -109,3 +109,10 @@ title: Boolean Logic
 GET PHOTO FROM BOARD
 #comebacklater 
 
+```ad-warning
+This mutliplier works for all cases **except** when the multiplier is negative and the multiplicand is 0.
+- It fails when $A_3$ is inverted in the last step of the problem
+- Can be fixed by taking the extra sign as magnitude OR understanding that values below -240 are out of the range.
+```
+
+
