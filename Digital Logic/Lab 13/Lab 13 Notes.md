@@ -55,8 +55,18 @@ color: 255, 255, 0
 
 $$20 Diplay + 16 buffer + 5 State Machine = 41 Flip Flops$$
 
+# Discussion Topic Answers
 
-
-
-
-
+1. What is the difference between pipelined parallel implemntation and serial implmentation?
+	1. Uses a array multiplier has a buffer in the middle. The inputs can be changed on every clock cycle, but there is latency so you must wait until the buffer has gotten all of its values first
+	2. You must provide the inputs and press and release the start button. Takes it an x amount of clocks cycles based on Moore or Mealy. They can only be changed once the multiplier is finished
+2. Question 2 answered in 
+3. Why the Mealy state machine cheaper?
+	1. For Moore state machine, you have to have 3 states per bit due to it only being able to give an output in a state.
+	2. For Mealy, you only need 1 state per bit because of the going to the next state and the output being tied to one.
+4. Why is the Moore state machine faster, but cost more clock cycles?
+	1. Due to $T_{clk} > T_{hold} + T_{setup} + T_{combonational}$
+	2. Mealy state needs more time to update the flip flops due to Mealy needing to update the state *AND* deciding what the output is in one clock cycle.
+	3. Thus, the $T_{combinational}$ for Moore is **always** smaller than Mealy.
+	4. Thus, the minimum period for a Moore state machine is much less than a Mealy, meaning it can be clocked faster.
+	5. Even though Mealy has less states, it can sometimes take longer due to it having to be able to clocked slower.
