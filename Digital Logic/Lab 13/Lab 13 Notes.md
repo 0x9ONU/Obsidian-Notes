@@ -115,4 +115,4 @@ This mutliplier works for all cases **except** when the multiplier is negative a
 - Can be fixed by taking the extra sign as magnitude OR understanding that values below -240 are out of the range.
 ```
 
-
+![[PXL_20230502_170640364~2.jpg]]
