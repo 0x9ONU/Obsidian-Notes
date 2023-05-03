@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Logic/Lab 13/Lab 13 Notes.md",
+                "file": "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3652d2dcc864db64",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Logic/Lab 13/Lab 13 Notes.md",
+                "file": "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Logic/Lab 13/Lab 13 Notes.md",
+                "file": "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Logic/Lab 13/Lab 13 Notes.md"
+                "file": "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md"
               }
             }
           },
@@ -187,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3652d2dcc864db64",
+  "active": "b69ae0ab84411763",
   "lastOpenFiles": [
-    "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
     "Digital Logic/Lab 13/Lab 13 Notes.md",
+    "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
     "Digital Logic/Lab 13/PXL_20230502_170640364~2.jpg",
     "insertionsort.png",
     "Pasted image 20230206164317.png",
