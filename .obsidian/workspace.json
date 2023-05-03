@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87c82fb7d7ffddb0",
+        "id": "6e48ff3ea42664d5",
         "type": "tabs",
         "children": [
           {
-            "id": "b69ae0ab84411763",
+            "id": "4625373c7b76f61e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3652d2dcc864db64",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#comebacklater",
+                "query": "tag:#FOD2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,20 +64,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "f261ad03e6af3096",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 300
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -134,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -157,7 +138,15 @@
             }
           },
           {
-            "id": "074ffa03b2132a38",
+            "id": "5c19a4264e73d416",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c95d249a0d120ca",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -165,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,54 +171,51 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3652d2dcc864db64",
+  "active": "4625373c7b76f61e",
   "lastOpenFiles": [
     "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
-    "Digital Logic/Lab 13/Lab 13 Notes.md",
     "Digital Logic/Lab 13/PXL_20230502_170640364~2.jpg",
-    "insertionsort.png",
-    "Pasted image 20230206164317.png",
-    "Pasted image 20230226214225.png",
-    "Pasted image 20230302122915.png",
+    "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
+    "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
+    "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
+    "Foundations of Design 2/Week 14",
     "Excalidraw/Drawing 2023-05-02 12.48.11.excalidraw.md",
-    "Digital Logic/test.md",
+    "Digital Logic/Lab 13/Lab 13 Notes.md",
     "Digital Logic/Lab 13",
     "Digital Logic/Lab 11/Lab 11 Tables and Diagrams.md",
     "Digital Logic/Lab 11",
-    "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
-    "Foundations of Design 2/Week 14/Drawing 2023-04-28 14.01.46.excalidraw.md",
-    "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 2.md",
-    "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
+    "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 2.md",
+    "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
     "conflict-files-obsidian-git.md",
-    "Foundations of Design 2/Week 11/FOD 2 Week 11 - Day 3.md",
-    "Interactive Fiction/Week 11/Interactive Fiction Week 11 - Day 3.md",
-    "Foundations of Design 2/Week 14",
-    "Interactive Fiction/Week 11/Interactive Ficiton Week 11 - Day 1.md",
     "Programming 2/Week 11/Programming 2 Week 11 - Day 3.md",
-    "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
-    "Calculus 2/11 - Sequences, Series",
-    "Programming 2/Week 11/Programming 2 Week 11 - Day 1.md",
-    "Interactive Fiction/Week 11",
+    "Interactive Fiction/Week 11/Interactive Fiction Week 11 - Day 3.md",
+    "Foundations of Design 2/Week 11/FOD 2 Week 11 - Day 3.md",
     "Foundations of Design 2/Week 11",
-    "Foundations of Design 2/Week 10/FOD 2 Week 10 - Day 2.md",
+    "Digital Logic/Lab 11 Tables and Diagrams.md",
+    "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
+    "Calculus 2/7.3 - Trigonometric Substitution/7.3.md",
+    "insertionsort.png",
+    "Programming 2/Week 11/Programming 2 Week 11 - Day 1.md",
     "Programming 2/Week 11",
-    "Foundations of Design 2/Week 10/Drawing 2023-04-05 14.00.38.excalidraw.md",
     "Programming 2/Week 10/Programming 2 Week 10 - Day 2.md",
     "Programming 2/Week 10/Programming 2 Week 10 - Day 1.md",
-    "Programming 2/Week 6/Programming 2 Week 6 - Day 2.md",
-    "Programming 2/Week 6/Programming 2 Week 6 - Day 1.md",
-    "Programming 2/Week 3/Programming 2 Week 3 - Day 3.md",
-    "Programming 2/Week 3/Programming 2 Week 3 - Day 2.md",
+    "Programming 2/Week 10",
+    "Interactive Fiction/Week 9/Interactive Fiction Week 9 - Day 2.md",
+    "Interactive Fiction/Week 11/Interactive Ficiton Week 11 - Day 1.md",
+    "Interactive Fiction/Week 11",
+    "Foundations of Design 2/Week 10/FOD 2 Week 10 - Day 2.md",
     "Foundations of Design 2/Week 10/FOD 2 Week 10 - Day 1.md",
     "Foundations of Design 2/Week 10",
-    "Programming 2/Week 10",
-    "Interactive Fiction/Week 9",
+    "Digital Logic/test.md",
+    "Digital Logic",
+    "Calculus 2/11 - Sequences, Series",
+    "Programming 2/Week 5/Programming 2 Week 5 - Day 1.md",
     "Excalidraw/Drawing 2023-03-08 09.29.13.excalidraw.png",
-    "Excalidraw/Drawing 2023-02-02 16.42.55.excalidraw.png"
+    "Pasted image 20230302122915.png"
   ]
 }
