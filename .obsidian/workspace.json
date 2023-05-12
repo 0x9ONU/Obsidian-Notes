@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72eda08f362605e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +199,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70013ae313449aa6",
+  "active": "72eda08f362605e7",
   "lastOpenFiles": [
     "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
     "Foundations of Design 2/Miscellaneous/Keyboard Values.md",
