@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
-                "mode": "source",
+                "file": "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
+                "file": "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
+                "file": "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2/11 - Sequences, Series/Series Toolbox.md"
+                "file": "Calculus 2/7.2 - Trigonometric Integrals/7.2.md"
               }
             }
           },
@@ -191,15 +191,18 @@
   },
   "active": "72eda08f362605e7",
   "lastOpenFiles": [
-    "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
+    "Calculus 2/7.3 - Trigonometric Substitution/7.3.md",
     "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
+    "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 1.md",
+    "Calculus 2/6.7 - Hyberbolic Functions/6.7 - Day 2.md",
+    "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 2.md",
+    "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
+    "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
     "Calculus 2/6.4 - Derivative of Logarithmic Functions/6.4.md",
     "Calculus 2/6.3 - Logarithmic Functions/6.3.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 2.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 1.md",
     "Calculus 2/6.2 - Exponential Functions and Their Derivatives/6.2 - Day 3.md",
-    "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 2.md",
-    "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
     "Digital Logic/Evan's Fellowship Small Essay.md",
     "Interactive Fiction/Programming - Final's Study Guide.md",
     "Foundations of Design 2/Miscellaneous/Keyboard Values.md",
@@ -223,10 +226,7 @@
     "Foundations of Design 2/Week 11/FOD 2 Week 11 - Day 3.md",
     "Interactive Fiction/Week 11/Interactive Fiction Week 11 - Day 3.md",
     "Foundations of Design 2/Week 14",
-    "Interactive Fiction/Week 11/Interactive Ficiton Week 11 - Day 1.md",
-    "Programming 2/Week 11/Programming 2 Week 11 - Day 3.md",
     "Calculus 2/11 - Sequences, Series",
-    "Programming 2/Week 11/Programming 2 Week 11 - Day 1.md",
     "Interactive Fiction/Week 11",
     "Foundations of Design 2/Week 11",
     "Programming 2/Week 11",
