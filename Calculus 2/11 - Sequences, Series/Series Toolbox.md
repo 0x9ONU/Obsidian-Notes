@@ -216,6 +216,28 @@ $$\lim_{n \to \infty} \sqrt[n]{|a_n|}$$
 3. If $\lim_{n \to \infty} \sqrt[n]{|a_n|} = 1$, the test is *inconclusive*
 ```
 
+# The Taylor Series
+
+```ad-important
+color: 34, 150, 200
+$$ f(x) = \sum_{n=0}^{\infty} \frac{f^n(a)}{n!}(x-a)^n$$
+```
+
+# Maclaurin Series
+
+```ad-note
+color: 237 255 33
+Taylor Series where $a = 0$
+$$ f(x) =  \sum_{n=0}^{\infty} \frac{f^n(0)}{n!}x^n$$
+```
+
+
+
+
+
+
+
+
 
 
 
