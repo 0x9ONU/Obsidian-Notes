@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67e8d7c79ae55679",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e848d912d6fd30f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -176,11 +195,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4625373c7b76f61e",
+  "active": "67e8d7c79ae55679",
   "lastOpenFiles": [
+    "Digital Logic/Lab 13/PXL_20230502_170640364~2.jpg",
     "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
     "Digital Logic/Lab 13/Lab 13 Notes.md",
-    "Digital Logic/Lab 13/PXL_20230502_170640364~2.jpg",
     "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
