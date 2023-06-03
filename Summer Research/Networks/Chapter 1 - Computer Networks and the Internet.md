@@ -106,7 +106,21 @@ To make the Internet work, ISPs must connect end systems with other end systems 
 
 Lower-level ISPs are interconnected to each other thorugh national and international ISPs which then directly connect to each other
 
+Despite their differences, ***ALL*** ISPs are:
+- Managed independently
+- run the IP protocol
+- Conforms to certain naming and address conventions
 
+### Transmission Control Protocol (TCP) and the Internet Protocol (IP)
+
+```ad-important
+color: 255, 255, 0
+The internet has *many* different protocols, but the two most important are the TCP and IP
+```
+
+**IP protocol**
+- specifies the format of the packets sent and received by routers and end systems
+- 
 
 
 
