@@ -52,4 +52,6 @@ A Machine Learning program that can learn to flag spam emails given spam and non
 - Human expertise does not exist (navigating on Mars)
 - Models are based on huge amounts of data (genomics)
 
+# Algorithms
 
+Tells the computer how to learn, understand, perceive, and react.
