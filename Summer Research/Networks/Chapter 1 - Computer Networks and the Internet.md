@@ -120,7 +120,78 @@ The internet has *many* different protocols, but the two most important are the 
 
 **IP protocol**
 - specifies the format of the packets sent and received by routers and end systems
-- 
+
+These protocols and standards are developed by the **Internet Engineering Task Force**
+
+They send out documents called *requests for comments* (RFCs) that solve an networking issue that services need to implement
+
+## 1.1.2 - A Services Description
+
+This chapter deals with descriping the internet in terms of *an infastructure that provides services to applications*
+
+```ad-note
+color: 235, 159, 200
+title: Term
+**Distributed Applications** - Applications that utilize mutiple end systems that exchange data with each other.
+- Inlcudes:
+	- Internet messaging
+	- mapping
+	- music streaming
+```
+
+```ad-important
+color: 234, 100, 234
+Internet applications ALWAYS run on end systems and not on packet switches in the network core.
+```
+
+### Socket Interface
+
+Allows one program on one end system to instruct the Internet to deliver data to another program running on another end system.
+
+This interface is a set of rules that the sending program must follow so the Internet can deliver the data to the destination
+
+Much like how letters must be properly formatted for them to end up in the correct mailbox
+
+## 1.1.3 - What Is a Protocol?
+
+### Human Analogy
+
+![[Pasted image 20230602212610.png]]
+
+A proper conversation is a lot like how computers communicate with each other using protocols:
+- Saying "Hi" starts a conversation with someone if they say hi back, much like a TCP connection request.
+- The failure to hear "Hi" back means that the conversation cannot start and the conversation fails.
+
+```ad-important
+It comes down to a transmission and receipt of messages that result in actions that are taken based on what messages were sent and received
+```
+
+### Network Protocols
+
+**ALL** activity between two or more communicating remote entities is govenered by a protocol on the internet.
+
+These protocols control both hardware communciation and Internet communication
+
+```ad-example
+title: Example: Web server
+- A computer will send a connection request message to the Web server
+- The Web server will receive the message and send back a connection reply message if it is able to reply
+- Now that the computer knows it is okay to communicate, it will send a GET message to fetch the Web page
+- Then the Web server returns the Web page (file) to the computer
+```
+
+```ad-important
+title: Protocol Definition
+*The format and the order of messages* exchanged between two or more communicating entities, as well as *the actions* taken on the transmission and/or receipt of a message or orther event.
+```
+
+
+
+
+
+
+
+
 
 
 
