@@ -277,7 +277,114 @@ Cable internet access requrie a special modem called a cable modem
 The **Cable Modem Termination System (CMTS)**:
 - turns the analog signal from the cable modems into a digital format.
 
-The network is divided into two channels 
+![[Pasted image 20230603112413.png]]
+
+The network is divided into two channels just like DSL and are *also asymmetric* with downstream having a higher bitrate than upstream
+
+```ad-note
+color: 255, 255, 0
+title: DOCSIS 2.0 and 3.0 Standards
+- Downstream bitrates of 40 Mbps and 1.2 Gbps
+- Upstream bitrates of 30 Mbps and 100 Mbps.
+```
+
+Because cable Internet access used a shared broadcast medium, if several users are downloading a file at the same time, the download rate would be significantly lower than the aggregate cable speed.
+
+#### FTTH (Fiber to the Home)
+
+An up-and-coming technology that provides higher speeds by providing *a optical fiber path* from the CO directly the home
+
+Multiple ways to have FTTH:
+- Direct Fiber - One cable per home
+	- Split Fiber - One cable shared by many homes using a splitter and smaller fiber
+		- Active Optical Networks (AONs)
+		- Passive Optical Networks (PONs)
+
+##### Active Optical Networks (AONs)
+
+Switched Ethernet
+
+##### Passive Optical Networks (PONs)
+
+- Each home has their own Optical Network Terminator (ONT)
+- It is connected to its own fiber
+- This fiber goes to a neighborhood splitter
+- The splitter then sends the data over a main optical fiber to the CO
+- The Optical Line Terminator (OLT) converts the optical and electrical signals to digital data and sends it to the router
+
+![[Pasted image 20230603113319.png]]
+
+```ad-note
+The packets sent from the OLT to the splitter are **replicated at the splitter**
+```
+
+### Access in the Enterprise (and the Home): Ethernet and WiFi
+
+#### Local Area Network (LAN)
+
+Connects end systems to the edge router using various means, but **Ethernet** is the most common.
+
+Ethernet Setup:
+- Use a twisted-pair copper wire that connects end systems to an Ethernet switch
+- The Ethernet switch(s) is then connected into he larger internet 
+
+![[Pasted image 20230603114940.png]]
+
+```ad-summary
+title: Note
+color: 243, 100, 100
+- User have 100 Mbps to 10s of Gbps of access to the Ethernet switch
+- Severs may have 1 Gbps to 10 Gbps access.
+```
+
+##### Wireless LAN/WiFi
+
+- Access points are placed around an enterprise's buildings 
+- These access points are connected to the network using wired Ethernet
+- Wireless users transmit and receive packets to and from the access point
+
+```ad-note
+The user must often be within a few tens of meters from the access point for it to work
+```
+
+This technology is based off the IEEE 802.111 technology which was termed as WiFi.
+
+```ad-note
+color: 231, 50, 199
+
+Today, homes combine LAN technology with their broadband access to create powerfu home networks
+![[Pasted image 20230603115116.png]]
+```
+
+### Wide-Area Wireless Access: 3G and LTE 4G and 5G
+
+- Is used by phones to access the internet while on the go
+- Uses the same wireless infrastructure used for cellular telephones and has a base station that is able to send and receive packets
+- Allows a user to be much farther away from a base station unlike WiFi
+
+## 1.2.2 Physical Media
+
+For data to travel from one place to another, the data must be propagated into electromagnetic waves or optical pulses and then sent across a **physical medium**
+
+Two types of physical mediums:
+- Guided Media
+	- A solid media that is often a cable of some kind
+- Unguided Media
+	- Waves sent into the atmosphere and outer space.
+
+### Twisted-Pair Copper Wire
+
+- Least Expensive
+- Most Commonly Used
+- Two insulated copper wires arranged into a regular spiral pattern
+	- Done to reduce electrical interference
+	- Can be bundled together using a shield between each pair
+	- Each pair is a single communication link
+
+**Unshielded Twisted Pair (UTP)**:
+- Most common wiring used for computer networks within a building and LAN
+- Transfers between 10 Mbps to 10 Gbps
+
 
 
 
