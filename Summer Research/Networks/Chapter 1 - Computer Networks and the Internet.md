@@ -385,8 +385,81 @@ Two types of physical mediums:
 - Most common wiring used for computer networks within a building and LAN
 - Transfers between 10 Mbps to 10 Gbps
 
+### Coaxial Cable
+
+- Consists of two copper conductors like twisted-pair
+- However, they are concentric rather than parallel
+- They are able to achieve high data transmission rates. 
+- Most commonly used for cable television
+- The transmitter turns the digital signal into a specific frequency band 
+- The analog signal is then sent from the transmitter to one or more receivers
+- Can be used as a guided *shared medium*
+	- Multiple end systems can connect directly to a single cable
+
+### Fiber Optics
+
+- Thin, flexible medium that conducts pulses of light, with each pulse representing a bit.
+- 10s to 100s Gbps
+- Immune to electromagnetic interference
+- Low signal attenuation
+- Very hard to tap
+- Most commonly used for long distances and for overseas connections
+- Is typically more expensive to install due to the cost of the transmitters, receivers, and switches
+
+```ad-note
+title: Note: Optical Carrier standard link speeds
+- Range from 51.8 Mbps to 39.8 Gpbs
+- Referred to as OC-$n$ where the speed equals $n * 51.8$ Mbps
+```
+
+### Terrestrial Radio Channels
+
+- Uses electromagnetic spectrum to transmit signals
+- Carries signals through physical mediums and long distances without the need of cables
+
+```ad-warning
+- Can suffer due to:
+	- Shadow fading
+		- A decrease in signals strength due to distance or objects
+	- Multipath fading
+		- Signal reflection off of interfering objects
+	- Interference
+		- Other transmissions and electromagnetic signals
+```
+
+Three broad groups of radio channels:
+- Very short distance (1-2 meters)
+	- Wireless headsets, keyboards, medical devices
+- Local distance (a few hundred meters)
+	- Wireless Lan technologies
+- Wide area (tens of kilometers)
+	- Cellular access technologies
+
+### Satellite Radio Channels
+
+- Links two or more ground stations
+	- microwave transmitters/receivers 
+- The satellite:
+	- recieves transmissions
+	- regenerates the signal using a repeater
+	- transmits the signal on another frequency
+
+#####  Geostationary Satellites
+
+- Permanently remains above the same spot on Earth
+- Around 36,000 kilometers above Earth's surface
+- Has a signal propagation delay of 280 milliseconds
+- Signals can still have high-speeds
+- Used in areas where DSL or cable-based internet is limited
+
+##### Low-Earth Orbiting (LEO) 
+
+- Placed much closer to Earth
+- Do not remain in one permanent location above Earth
+- Communicate with each other and other base stations
 
 
+# 1.3 - The Network Core
 
 
 
