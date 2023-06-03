@@ -44,4 +44,12 @@ A Machine Learning program that can learn to flag spam emails given spam and non
 - Cost-effective
 	- ML can reduce labor costs and increase efficiency, leading to cost saving for organizations
 
-# When Do We Use Machine Learning
+# When Do We Use Machine Learning?
+
+- Hand-written rules and equations that are too complex
+- Problems for which existing solutions require a lot of *hand tuning* or long lists of rules as in spam detection
+- The nature of the data *keeps changing*, and the program needs to **adapt**.
+- Human expertise does not exist (navigating on Mars)
+- Models are based on huge amounts of data (genomics)
+
+
