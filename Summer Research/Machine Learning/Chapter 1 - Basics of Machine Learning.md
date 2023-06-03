@@ -158,7 +158,40 @@ title: Examples of Supervised Learning
 	- Traing a model to predict the future price of a stock
 ```
 
+## Regression
+
+Taking data and finding the proper regression and whether it is linear, quadratic, logarithmic, etc.
+
+![[Pasted image 20230603160602.png]]
+
 ## Classification Algorithms
 
 **Binary Classifier**: If the classification problem has only two possible outcomes.
-- Ex. YES or NO, SPAM or NOT SPAM
+- Ex. YES or NO, SPAM or NOT SPAM, CAT or DOG
+
+**Multi-class Classifier**: If the classification problem has more than two outcomes
+- EX. Genre of music, type of crop
+
+# Unsupervised Learning
+
+The algorithm is trained on an unlabeled dataset to discover patterns or relationships within the data. 
+
+```ad-note
+Unlike supervised learning, there is not specific output or label that the algorithm is trying to predict.
+```
+
+```ad-important
+color:
+Unsupervised leanring is useful whent he goal is to:
+- find hidden structure in data
+- identify patterns
+- features that can be used to group, calssify or describe it.
+```
+
+```ad-example
+color: 234, 123, 243
+title: Examples of Unsupervised Learning
+- Clustering: grouping similar data points together
+- Anomaly detection: identifying unusual observations in the data
+- Dimensionality reduction: reducing the number of features in a dataset
+```
