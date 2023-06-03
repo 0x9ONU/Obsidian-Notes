@@ -44,7 +44,7 @@ A Machine Learning program that can learn to flag spam emails given spam and non
 - Cost-effective
 	- ML can reduce labor costs and increase efficiency, leading to cost saving for organizations
 
-# When Do We Use Machine Learning?
+## When Do We Use Machine Learning?
 
 - Hand-written rules and equations that are too complex
 - Problems for which existing solutions require a lot of *hand tuning* or long lists of rules as in spam detection
@@ -52,6 +52,113 @@ A Machine Learning program that can learn to flag spam emails given spam and non
 - Human expertise does not exist (navigating on Mars)
 - Models are based on huge amounts of data (genomics)
 
-# Algorithms
+```ad-tldr
+## Algorithms
 
-Tells the computer how to learn, understand, perceive, and react.
+Tells the computer how to learn, understand, perceive, and react. Can lead to intelligence demonstrated by machines.
+```
+
+## Machine Learning Applications
+
+- Detecting letters on handwriting
+- Autonomous Vehicle: vehicle Detection, (Lane Detection, Motion Tracking)
+- Scene Labeling via Deep Learning
+- Industrial Robot (Quality Control & Waste Sorting)
+
+## Machine Learning Overview
+
+- Machine learning is a branch of AI that enables machines to learn from data without explicit programming
+- It involves developing algorithms and models that can automatically analyze, learn from and make predictions or decisions based on input data
+- There are various types of machine learning such as **supervised, unsupervised, and reinforcement learning**
+	- The choice of which depends on the task and the data available.
+- Machine learning has a wide range of applications including:
+	- natural language processing
+	- computer vision
+	- speech recognition
+	- predictive modeling
+
+### Different Categories of Learning
+
+```ad-note
+title: ##### Reinforcement Learning
+Train the machine learnign models to make a sequence of decisions
+- Rewards from sequence of actions
+```
+
+```ad-note
+title: ##### Supervised Learning
+color: 134, 234, 10
+Teach or triant he machine using data that is well labelled
+- Given: training data + desired outputs (labels)
+```
+
+```ad-note
+title: ##### Unsupervised Learning
+color: 100, 255, 255
+classify data into structures; find similar data points without concern for the outcome
+- Given: training data (without desired output)
+```
+
+### Choosing the Right Algorithm
+
+The choice of algorithm and type of machine learning will depend on the specific problem you are trying to solve and the resources available.
+
+# Reinforcement Learning
+
+Where a model learns to make decisions by interacting with an environment and receiving feedback in the form of rewards or penalties.
+
+- Input: Sequence of interactions with an environment.
+- Output: Policy that performs a desired task
+
+```ad-example
+title: Examples of RL algorithms
+- Q-learning
+- REINFORCE
+- PPO
+- A3C
+- DQN
+```
+
+```ad-note
+RL has been succesfully applied in a wide range of fields:
+- robotics
+- control systems
+- game playing
+- recommendation systems
+```
+
+```mermaid
+flowchart LR
+Intelligent_Agent -- Action --> Environment
+Environment -- Feedback --> Intelligent_Agent
+```
+# Supervised Learning
+
+The algorithm is trained on a labeled dataset to predict the output for a new, unseen input.
+
+The goal is to train a model that can accurately predict the output given a new input using what it learned from the labeled data.
+
+- Input: Examples of inputs and outputs with its Direct feedback
+- Output: model that predicts unknown output given a new input
+
+![[Pasted image 20230603155539.png]]
+
+```ad-important
+It is the most common type of machine learning
+```
+
+```ad-example
+color: 234, 150, 100
+title: Examples of Supervised Learning
+- Image Classification
+	- Training a model to identify objects in images
+- Email spam filter
+	- Training a modelt o identify spam emails
+- Stock Price Prediction:
+	- Traing a model to predict the future price of a stock
+```
+
+## Classification Algorithms
+
+**Binary Classifier**: If the classification problem has only two possible outcomes.
+- Ex. YES or NO, SPAM or NOT SPAM

@@ -165,7 +165,7 @@
             }
           },
           {
-            "id": "5c95d249a0d120ca",
+            "id": "7df41ab4f9167936",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -194,8 +194,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ef9f3412ebc580ce",
+  "active": "bd7bb76f6a1d1b91",
   "lastOpenFiles": [
+    "Pasted image 20230603155539.png",
     "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
     "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
     "Pasted image 20230603115116.png",
@@ -240,7 +241,6 @@
     "Digital Logic/Lab 11 Tables and Diagrams.md",
     "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
     "Calculus 2/7.3 - Trigonometric Substitution/7.3.md",
-    "Programming 2/Week 11/Programming 2 Week 11 - Day 1.md",
-    "Programming 2/Week 10/Programming 2 Week 10 - Day 2.md"
+    "Programming 2/Week 11/Programming 2 Week 11 - Day 1.md"
   ]
 }
