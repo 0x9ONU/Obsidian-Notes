@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38c862d1f37591ef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Summer Research/Networks/Images/Pasted image 20230603103411.png"
-              }
-            }
-          },
-          {
             "id": "ef9f3412ebc580ce",
             "type": "leaf",
             "state": {
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +185,9 @@
   },
   "active": "ef9f3412ebc580ce",
   "lastOpenFiles": [
-    "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+    "Summer Research/Networks/Images/Pasted image 20230603103411.png",
     "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
+    "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
     "Pasted image 20230603161918.png",
     "Pasted image 20230603160602.png",
     "Pasted image 20230603155539.png",
@@ -240,7 +230,6 @@
     "Foundations of Design 2/Week 11/FOD 2 Week 11 - Day 3.md",
     "Digital Logic/Lab 11 Tables and Diagrams.md",
     "Calculus 2/7.2 - Trigonometric Integrals/7.2.md",
-    "Calculus 2/7.3 - Trigonometric Substitution/7.3.md",
-    "Programming 2/Week 11/Programming 2 Week 11 - Day 1.md"
+    "Calculus 2/7.3 - Trigonometric Substitution/7.3.md"
   ]
 }
