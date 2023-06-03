@@ -168,9 +168,9 @@ It comes down to a transmission and receipt of messages that result in actions t
 
 ### Network Protocols
 
-**ALL** activity between two or more communicating remote entities is govenered by a protocol on the internet.
+**ALL** activity between two or more communicating remote entities is governed by a protocol on the internet.
 
-These protocols control both hardware communciation and Internet communication
+These protocols control both hardware communication and Internet communication
 
 ```ad-example
 title: Example: Web server
@@ -185,8 +185,99 @@ title: Protocol Definition
 *The format and the order of messages* exchanged between two or more communicating entities, as well as *the actions* taken on the transmission and/or receipt of a message or orther event.
 ```
 
+# 1.2 - The Network Edge
 
+This section focuses on the edge the network and its components
 
+```ad-note 
+color: 234, 234, 123
+
+End systems are also know as *hosts* as they run applications that hold Web servers and all the functions of the internet
+
+```
+
+Hosts can be divided into two categories:
+- **Clients**
+	- Tend to be the customers of the Internet such as desktops, laptops, smartphones, and more
+- **Servers**
+	- More powerful machines that store and distribute files such as Web pages, videos, and run e-mail
+
+## 1.2.1 -  Access Networks
+
+```ad-important
+title: Term
+color: 70, 234, 143
+
+The network that physicaly *connects an end system to the first router* on a path fromt he end system to any other distant end system
+```
+
+![[Pasted image 20230603103411.png]]
+
+### Home Access: DSL, Cable, FTTH, and 5G Fixed Wireless
+
+The two most common forms of broadband in residential areas are **digital subscriber line (DSL)** and **cable**
+
+#### DSL
+
+```ad-faq
+title: Note
+
+DSL is often obtained through a customer's telephone provider, which makes the telco the ISP
+
+```
+
+DSL modems take advantage of *the existing telephone line* to exchange data to the telco's central office (CO).
+
+The modem turns the digital data into high-frequency tones to transmit over the wires.
+
+From there, a Digital Subscriber Line Access Multiplexer (DSLAM) in the CO converts the tones back into digital data.
+
+By doing this, the line is able to carry both internet traffic and telephone traffic using 3 different frequencies:
+- A high-speed downstream channel, in the 50kHz to 1 MHz band
+- A medium-speed upstream channel, in the 4 kHz to 50 kHz band
+- The ordinary two-way telephone channel, in the 0 to 4 kHz band
+
+A splitter on the customer's side separates the digital data and the telephone signals arriving to the house into two different signals
+
+The DSLAM on the telco side separates the data and phone signals and sends the data into the internet.
+
+![[Pasted image 20230603105315.png]]
+
+```ad-summary
+title: DSL standards
+
+- Downstream transmission rates of 24 Mbs and 52 Mbs
+- Upstream rates of 3.5 Mbps and 16 Mbps
+- **THIS MAKES IT ASYMMETRIC**
+```
+
+```ad-note
+- The telco is able to limit the speed of the internet to charge more for high rates.
+- The max rate is also limited by: 
+	- the distance between the home and the CO
+	- The guage of the twisted pair line
+	- degree of eletrical interface
+```
+
+DSL is used when the residence is within 5 to 10 miles from the CO, so a resident must you a different alternative if needed
+
+#### Cable
+
+Cable makes use of the cable television company's existing cable television infrastructure. 
+
+Utilizes a system called **Hybrid Fiber Coax (HFC)**:
+- A fiber cable from the cable company connects to a single fiber node that is able to serve 500 to 5,000 homes 
+- The traditional coaxial cable from the original television connect each individual home to the fiber node.
+
+```ad-important
+Cable internet access requrie a special modem called a cable modem
+- An external device that connects to a PC through an Ethernet port
+```
+
+The **Cable Modem Termination System (CMTS)**:
+- turns the analog signal from the cable modems into a digital format.
+
+The network is divided into two channels 
 
 
 
