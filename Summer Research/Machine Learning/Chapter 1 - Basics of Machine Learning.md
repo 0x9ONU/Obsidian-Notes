@@ -180,6 +180,9 @@ The algorithm is trained on an unlabeled dataset to discover patterns or relatio
 Unlike supervised learning, there is not specific output or label that the algorithm is trying to predict.
 ```
 
+- Input: Examples of some data with not outputs
+- Output: Representation of structure in the data
+
 ```ad-important
 color:
 Unsupervised leanring is useful whent he goal is to:
@@ -195,3 +198,15 @@ title: Examples of Unsupervised Learning
 - Anomaly detection: identifying unusual observations in the data
 - Dimensionality reduction: reducing the number of features in a dataset
 ```
+
+![[Pasted image 20230603161918.png]]
+
+# Supervised vs Unsupervised Summarized
+
+| **Supervised Learning**                                                                 | **Unsupervised Learning**                                                                                                     |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Trained on labeled data (input and corresponding output labels)                         | Trained on unlabeled data (only includes input)                                                                               |
+| Goal is to predict the output for new, unseen input                                     | Goal is to discover patterns or relationships within the data                                                                 |
+| Commonly used for classification and regression tasks                                   | Commonly used for clsutering, dimensionality reduction, and anomaly dection tasks                                             |
+| Exampels include image classification, email spam filtering, and stock price prediction | Examples include goruping similar data points together, identifying unusual observations, and reducing the number of features |
+

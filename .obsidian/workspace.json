@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md"
+                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md"
               }
             }
           },
@@ -196,10 +196,12 @@
   },
   "active": "ef9f3412ebc580ce",
   "lastOpenFiles": [
+    "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+    "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
+    "Pasted image 20230603161918.png",
     "Pasted image 20230603160602.png",
     "Pasted image 20230603155539.png",
     "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
-    "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
     "Pasted image 20230603115116.png",
     "Pasted image 20230603114940.png",
     "Pasted image 20230603114937.png",
@@ -207,9 +209,7 @@
     "Pasted image 20230603112413.png",
     "Pasted image 20230603105315.png",
     "Summer Research/Networks/Images/Pasted image 20230602212610.png",
-    "Summer Research/Networks/Images/Pasted image 20230603103411.png",
     "Summer Research/Networks/Images",
-    "Summer Research/Networks/Images/Pasted image 20230602201231.png",
     "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
     "Templates/Networks/Networks Template.md",
     "Templates/Machine Learning/Machine Learning Template.md",
