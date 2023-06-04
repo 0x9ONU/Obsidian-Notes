@@ -552,3 +552,23 @@ When it comes to circuit switched networks, for each host, there must be another
 
 ### Multiplexing in Circuit-Switched Networks
 
+A circuit can be implemented through either:
+- **Frequency-Division Multiplexing (FDM)**
+	- A frequency band across the link is dedicated to each connection for the entirety of the connection.
+	- The **bandwidth** of the connection determines the width of these frequency bands.
+	- ![[Pasted image 20230604190935.png]]
+- **Time-Division Multiplexing (TDM)**
+	- Time is divided into a frame that has a fixed duration. 
+	- it is further divided into a fixed number of time slots.
+	- On connection, the network dedicates one time slot for that device on every frame.
+	- $$ TransmissionRate = frameRate * numberOfBits $$
+	- ![[Pasted image 20230604190943.png]]
+
+```ad-note
+Circuit-swtiched networks can have **silent periods** where there is no traffic during periods of idle. Some say that it is wasteful when it comes to resources
+```
+
+```ad-important
+The transimission time is **indepednet** of the number of links.
+- A transmission would take the same amount of time regardless if it pases through one link or one hundred links.
+```
