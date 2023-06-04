@@ -505,6 +505,13 @@ Due to Store-and-Forward Transmission, for each packet switch between the end sy
 
 ```ad-important
 title: Queuing Delays
-If a packet that has completely arrived cannot go into the link it must go into, it will expereince a **queuing delay**  
+If a packet that has completely arrived cannot go into the link it must go into, it will expereince a **queuing delay** and wait within an output buffer.
+- This can lead to **packet loss** if all the output buffers are full
+- Packet loss leads to one of the relady-queued packets or the arriving packet to be dropped
 ```
+
+
+![[Pasted image 20230604181455.png]]
+
+### Forwarding Tables and Routing Protocols
 
