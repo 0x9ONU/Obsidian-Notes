@@ -515,3 +515,19 @@ If a packet that has completely arrived cannot go into the link it must go into,
 
 ### Forwarding Tables and Routing Protocols
 
+There are many ways that a packet switch determines which communication to send the packet.
+
+On the Internet, **IP addresses** are used.
+- Every end system has an IP address
+- The destination's IP address is added to each packet header and sent off to the packet switch.
+
+IP addresses have a hierarchical structure and part of the packet's address can be examined to determine which communication line the packet switch chooses.
+
+```ad-important
+Each router ahs a **fowarding table** that maps out the destination addressed to the router's outbound links.
+- Determines which line the packet is sent down
+```
+
+```ad-note
+Special **routing protocols** are used to automatically set the fowarding tables. 
+```
