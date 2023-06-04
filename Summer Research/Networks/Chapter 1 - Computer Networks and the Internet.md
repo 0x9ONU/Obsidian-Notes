@@ -500,4 +500,11 @@ Due to Store-and-Forward Transmission, for each packet switch between the end sy
 
 ### Queuing Delays and Packet Loss
 
+**Output Buffer/Queue** - Stores packets that the router is about to send into a link
+- There is one output buffer for *every attached link* within a packet switch
+
+```ad-important
+title: Queuing Delays
+If a packet that has completely arrived cannot go into the link it must go into, it will expereince a **queuing delay**  
+```
 
