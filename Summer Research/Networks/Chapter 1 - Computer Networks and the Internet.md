@@ -529,5 +529,26 @@ Each router ahs a **fowarding table** that maps out the destination addressed to
 ```
 
 ```ad-note
-Special **routing protocols** are used to automatically set the fowarding tables. 
+Special **routing protocols** are used to automatically set the fowarding tables. They set the shortest possible path from each router to teach destination.
 ```
+
+## 1.3.2 Circuit Switching
+
+The other fundament approach to moving data through a network.
+
+Unlike a packet-switched network, a circuit switch network is *reserved* and **does not have any queue** to access a communication link.
+
+```ad-example
+An example of a circuit-swtiched network is the traditional telephone networks
+- A *bona fide* connection must be made between the sender adn the receive before any data can be passed.
+- This connection will remain constant until the connection is broken
+```
+
+When it comes to circuit switched networks, for each host, there must be another switch, so it can support up all the connections between each end system simultaneously. 
+
+**End-to-end connections** - Created when a network establishes a *dedicated* link between two hosts. Prevents any possible buffering due to internet traffic congestion.
+
+![[Pasted image 20230604185233.png]]
+
+### Multiplexing in Circuit-Switched Networks
+
