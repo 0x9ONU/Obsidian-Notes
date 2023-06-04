@@ -440,7 +440,7 @@ Three broad groups of radio channels:
 - Links two or more ground stations
 	- microwave transmitters/receivers 
 - The satellite:
-	- recieves transmissions
+	- receives transmissions
 	- regenerates the signal using a repeater
 	- transmits the signal on another frequency
 
@@ -467,10 +467,37 @@ The Network Core is a group of packet switches that connects the rest of the int
 
 ## 1.3.1 - Packet Switching
 
+```ad-note
+title: Definintion
+**Messages**
+- What end systems exchange with each other
+- Can contain:
+	- Control Function
+	- Data
+```
+
+To send messages, the end system breaks up the message into **packets**
+
+To get to the destination, the packets go through communication links and **packet switches**.
+
+```ad-note
+Packets are transmitted at the *full* transmission rate of the link. Meaning it will take $L$ bits over $R$ trasnmission rate seconds ($\frac{L}{R}$)
+```
+
+### Store-and-Forward Transmission
+
+A protocol that makes sure that a packet switch must *receive the entirety of the packet* before it is able to transmit any data to the outward link
+- The most common protocol for packet switches
+- It buffers within the packet switch in order to account for the lag caused by the communication links
 
 
+```ad-important
+Due to Store-and-Forward Transmission, for each packet switch between the end systems, it will take $nL/R$, where $n$ is the number of communication links, to transmit a single packet from one end system to another.
+```
 
 
+![[Pasted image 20230604172324.png]]
 
+### Queuing Delays and Packet Loss
 
 
