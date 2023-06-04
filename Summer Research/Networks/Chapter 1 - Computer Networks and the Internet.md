@@ -461,6 +461,12 @@ Three broad groups of radio channels:
 
 # 1.3 - The Network Core
 
+The Network Core is a group of packet switches that connects the rest of the internet together
+
+![[Pasted image 20230604165857.png]]
+
+## 1.3.1 - Packet Switching
+
 
 
 
