@@ -572,3 +572,7 @@ Circuit-swtiched networks can have **silent periods** where there is no traffic 
 The transimission time is **indepednet** of the number of links.
 - A transmission would take the same amount of time regardless if it pases through one link or one hundred links.
 ```
+
+### Packet Switching Versus Circuit Switching
+
+
