@@ -769,5 +769,74 @@ The time required to **examine the packet's header** and *determine where to dir
 
 #### Queuing Delay
 
+The delay experienced when a packet waits to be transmitted onto the link.
+- Depends on the number of packets that arrived before the current packet
+- Can be as low as zero (no packets within the queue) or long (many packets in the queue)
+- From microseconds to milliseconds in practice
+
+#### Transmission Delay
+
+The delay caused by the fact that the packet can only be transmitted only after all the packets before it have arrived.
+- The amount of time required to push all of the packet's bits into the link
+- From microseconds to milliseconds of delay in practice
+
+```ad-important
+The delay of transmission can be donoted by $L/R$ where:
+- $L$ is the length of the packet in *bits*
+- $R$ is the rate of transmission between the two routers in *Bits per second*
+```
+
+#### Propagation Delay
+
+The time required to propagate from the beginning of the link to to the next destination.
+- The propagation time depends on the medium of the link
+- In the order of milliseconds
+
+```ad-example
+title: Reminder - Types of Physical Links
+- Fiber optics
+- Twisted-pair copper wire
+```
+
+```ad-note
+This propagation speed is in the range of $2*10^8$ meters/sec to $3*10^8$ meters/sec
+- This equal to or less than the speed of light
+```
+
+**Propagation Delay** is measured in $d/s$ where:
+- $d$ is the distance between routers (meters)
+- $s$ is the propagation speed of the link (meters/sec)
+
+### Comparing Transmission and Propagation Delay
+
+```ad-important
+color: 234, 100, 180
+- The transmission delay is a function of the packet's length and tranmission rate of the link, but has **NOTHING** to do with **distance between routers**
+- Propagation delay is a function of the distance between two routers, but has **nothing** to do with **the packet's length** and the **transmission rate** of the link
+```
+
+#### Total Delay Formula
+
+$$ d_{nodal} = d_{proc} + d_{queue} + d_{trans} + d_{prop} $$
+
+```ad-note
+Any of these variables can either be negligible to significant depending on the situation
+```
+
+## 1.4.2 Queuing Delay and Packet Loss
+
+$d_{queue}$ is the most complicated out of all the delays:
+- One of the most well-research subjects when it comes to computer networking
+- It can vary from packet to packet
+- Often characterizing using statistics
+	- Average queueing delay
+	- variance of queuing delay
+	- probability that the queuing delay exceeds some specific value.
+
+```ad-example
+If 10 packets arrive at an empty queuea t the same time, the first packet transmitted will suffer no queuing delay, while the last packet will suffer heavy delay
+```
+
+
 
 
