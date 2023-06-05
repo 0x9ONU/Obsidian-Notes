@@ -631,3 +631,143 @@ This network structure interconnects **all** of the access ISPs with a *single g
 This is, again, not practical as it would be very costly for each router per access ISP and the number of communciation links. It would make it so the global ISP would have to charge to stay in business
 ```
 
+**Provider** - The ISP who chargers customers, which can be residents or *other* ISPs, for traffic through their network
+
+**Customer** - The ISP or resident who pays another higher-level ISP for access to their network to forward their traffic to where it needs to go
+
+### *Network Structure 2*
+
+This network structure has *multiple* global ISPs that connect all the access ISPs with each other and themselves
+- Leads to a two-tier hierarchy
+	- Global transit providers at the top tier
+	- access ISPs at the bottom tier
+- This assumes that the global transit ISPs are able to get economically close with each access ISP
+
+### *Network Structure 3*
+
+```ad-note
+In reality, a single ISP does not have rpesence in each and every city in the world.
+```
+
+Thus, **Regional ISPs** are needed to be the middleman between access ISPs in the region and higher-tier ISPs.
+
+**tier-1 ISPs** - The highest tier ISPs that connect to every regional ISP and provides global access for the world
+- NOTE: tier-1 ISPs, despite being the highest tier, still do not have presence in every place in the world.
+
+```ad-example
+title: Examples of tier-1 ISPs
+Ther around around a dozen which includes:
+- Level 3 Communications
+- AT&T
+- Sprint
+- NTT
+```
+
+This hierarchy continues the customer-provider relationship at every level:
+- The access ISPs pay the regional ISP for their network access
+- The regional ISPs pay for the access on the tier-1 ISPs network
+
+```ad-note
+There may be another larger regional ISP that connects smaller regional ISPs to a tier-1 ISP, which leads to an even more levels of hierarchy
+```
+
+### *Network Structure 4*
+
+To make a network that is more like today's internet, a few different additions are needed:
+
+#### Points of Presence (PoPs)
+
+A group of one or more routers in the provider's network where customer ISPs can connect into the provider ISP
+- Exists at every level of the hierarchy except at the access ISP level
+- Allows a customer ISP to rent out a high=speed link from a third-party
+- It connects the customer to the provider at a faster rate than without a PoP
+
+#### Multi-home
+
+Where an ISP chooses to connect to two or more provider ISPs
+- Any level of ISP may multi-home with any ISP higher than itself
+
+```ad-example
+An access-level ISP may home with multiple Regional ISPs as well as multiple tier-1 ISPs if they want
+```
+
+```ad-important
+This allows an ISP to send and receive packets into the Internet even if **one of its providers has a failure**
+```
+
+#### Peering
+
+When two or more nearby ISPs at the same level choose to **directly connect their networks together**
+- The traffic then passes between them instead of upstream intermediaries
+
+```ad-note
+Peering is often settlement-free and **neither ISP pays the other**
+```
+
+```ad-important
+This is most prevalent with tier-1 ISPs who all peer with each other to provide global Internet access
+```
+
+#### Internet Exchange Point (IXP)
+
+A meeting point where multiple ISPs can peer together
+- Created by a third-party
+- Typically stand-alone with their own switches
+
+### *Network Structure 5*
+
+Most closely describes today's Internet by adding **content-provider networks**
+
+#### Content-Provider Networks
+
+Large tech companies that have many of their own servers that make up a large part of the Internet, but are still private in nature
+- Connects to lower-tier ISPs through peering 
+- Connects to higher-tier ISPs through IXPs
+- ==Reduces the payments to upper-tier ISPs==
+- ==Greater control of how its services are ultimately delivered to the end users==
+
+![[Pasted image 20230605125937.png]]
+
+# 1.4 - Delay, Loss, and Throughput in Packet-Switched Networks
+
+Even though it is ideal to move as much data as fast as possible between two end systems without any loss of data, it is impossible. Thus:
+- **Throughput** (the amount of data per second that can be transferred) is constrained
+- Delay between end systems is introduced
+- Packets will be lost
+
+## 1.4.1 Overview of Delay in Packet-Switched Networks
+
+At each node along the path from the source to the destination of a packet, there is a delay.
+
+```ad-example
+The most important of these delays include:
+- **Nodal processing delay**
+- **Queuing delay**
+- **Transmission delay**
+- **Propagation delay**
+```
+
+The combination of all the delay from all the nodes is called the **total nodal delay**
+
+### Types of Delay
+
+![[Pasted image 20230605131034.png]]
+
+```ad-summary
+title: Reminder
+Router A is connecting multiple end systems to router B
+- A packet can be transmistted on a link only after it:
+	- has been processed
+	- there is no packet being transmitted on the link
+	- there are not toehr packets preceding it in the queue
+```
+
+#### Processing Delay
+
+The time required to **examine the packet's header** and *determine where to direct the packet*.
+- Typically within microseconds or less
+
+#### Queuing Delay
+
+
+
