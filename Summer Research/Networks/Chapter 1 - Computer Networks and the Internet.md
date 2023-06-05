@@ -837,6 +837,32 @@ $d_{queue}$ is the most complicated out of all the delays:
 If 10 packets arrive at an empty queuea t the same time, the first packet transmitted will suffer no queuing delay, while the last packet will suffer heavy delay
 ```
 
+**Traffic Intensity** can be measured using the ratio $La/R$ where:
+- $L$ is the assumed amount of bits in each packet
+- $a$ is the average rate at which the packets arrive at the queue
+- $R$ is the transmission rate of how fast the packets are pushed out of the queue
+
+```ad-note
+If this ratio $La/R > 1$, then the average rate of how fast the bits arrive in the queue exceeds the rate at which the bits can be transmitted from the queue
+- This will cause the queueing delay to aproach infinity the longer the system runs
+```
+
+```ad-important
+To design a working network system, the traffic intensity should be **no greater than 1**
+```
+
+When $La/R \le 1$, the arriving traffic impacts how long the queuing delay is:
+- If there is packets arriving to an empty queue, the delay will be 0
+- If packets arrive in bursts, there will be a significant average queuing delay.
+
+```ad-summary
+In general, the $n$th packet of a sequence of packets will have a queueing delay of $(n-1)L/R$ seconds
+```
+
+```ad-note
+color: 180, 90, 170
+```
+
 
 
 
