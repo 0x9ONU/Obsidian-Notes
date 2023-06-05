@@ -837,6 +837,8 @@ $d_{queue}$ is the most complicated out of all the delays:
 If 10 packets arrive at an empty queuea t the same time, the first packet transmitted will suffer no queuing delay, while the last packet will suffer heavy delay
 ```
 
+### Traffic Intensity
+
 **Traffic Intensity** can be measured using the ratio $La/R$ where:
 - $L$ is the assumed amount of bits in each packet
 - $a$ is the average rate at which the packets arrive at the queue
@@ -861,7 +863,24 @@ In general, the $n$th packet of a sequence of packets will have a queueing delay
 
 ```ad-note
 color: 180, 90, 170
+These definitions are more academic as packets arrive *randomly* between either periodically and in batches. However, it can be used to estimate how the packets are arriving:
+- If the traffic intensity is close to zero, the packets are arriving fewer and farther between
+- If the traffic intensity is closer to one, the packets are arriving more frequently and are more liikkely to **exceed the transmission capacity**
 ```
+
+As the traffic intensity approaches 1, the average queuing delay increases **rapidly**. 
+- This means small increases in intensity lead to massive increases in delay.
+
+![[Pasted image 20230605150818.png]]
+
+### Packet Loss
+
+```ad-note
+Due to the queue capacity being finite, the packet delay caused by queuing does not approach infinity as the traffic intensity approaches 1
+```
+
+If a packet arrives at a router that has a full queue, the router is forced to drop that packet, which causes **packet loss.**
+
 
 
 
