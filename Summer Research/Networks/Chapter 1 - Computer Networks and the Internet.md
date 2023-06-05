@@ -896,6 +896,90 @@ title: Reminder
 $$d_{trans} = L/R$$
 ```
 
+### Traceroute
+
+It is a simple program that can run in any Internet host that is able to help visualize end-to-end delay.
+- It sends multiple, special packets that then send back short messages that contains the name and address of the routers along the the way to the destination.
+- It will send $3*N$ special packets for every $N - 1$ routers.
+	- The $n$th packet will be delivered to the other end system and send back one final message
+	- It does the route 3 times due to there being $3*N$ packets
+- It also records the total time between when a packet is sent out and when the router returns it
+
+```ad-note
+color: 234, 255, 0
+- The first column is the packet number
+- The second column is the name of the router
+- The third column is the address of the router
+- Column four-six are the round-trip delays for the three routes taken
+```
+
+![[Pasted image 20230605155435.png]]
+
+```ad-important
+Sometimes, the routers later on the network has *less* delay even though they are farther away. This is due to the transatlantic fiber-otpic link between routers, which has a large propagation delay.
+```
+
+### End System, Application, and Other Delays
+
+End systems that transmit packets into a shared medium can also introduce delays *on purpose* in order to provide a medium for more than one end system:
+- WiFi and cable modem
+
+Voice-over-IP (VoIP) applications might add media packetization delay by having to encode the speech into a digital format before sending it out.
+
+## 1.4.4 - Throughput in Computer Networks
+
+End-to-end throughput is crucial in measuring the performance of a computer network.
+
+### Instantaneous Throughput
+
+The rate (in bit/sec) at any *instant of time* to which the host is receiving the file
+- This is what speedtest websites show when testing a network
+
+### Average Throughput
+
+Measured by the formula $F/T$ bits/sec where:
+- $F$ is the number of bits
+- $T$ the time in seconds for the host to receive all $F$ bits
+
+```ad-note
+color: 234, 150, 234
+Some applications care more about throughput than others
+- Internet telephony needs to have low delay and instantaneous throughput *consistency*
+- On the other hand, file transfers, delay is not necessary and the throughput must be **maximize**
+```
+
+### Bottleneck link
+
+For a simple setup with a server, a router, and a client, there are two communication links that have rates of $R_s$ and $R_c$:
+
+![[Pasted image 20230605162306.png]]
+
+```ad-important
+**The slowest link** will determine the end-to-end throughput of the entire transmission. This link is known as ==**the bottleneck link**==.
+```
+
+```ad-note
+This is just an approximation and does not account of store-and-forward, processing delays and protocol delays
+```
+
+```ad-warning
+Due to the slowest link being the limiting factor in a network, the **access network** is often the blame for throughput on the Internet due to the core of the Internet have fast rates on their communciation links.
+```
+
+```ad-summary
+- Throughput depends on the transmission rates of the links over which the data flows
+- With no intervening traffic, a throughput can be an approximated by the mimimum transmissionr ate along the path.
+- However, intervening traffic may cause the bottleneck to be placed on the high transmission rate link
+```
+
+
+
+
+
+
+
+
+
 
 
 
