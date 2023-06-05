@@ -881,6 +881,20 @@ Due to the queue capacity being finite, the packet delay caused by queuing does 
 
 If a packet arrives at a router that has a full queue, the router is forced to drop that packet, which causes **packet loss.**
 
+From the end systems side, a lost packet will:
+- look like a packet was put into the network core, but never emerged
+- increase the number of lost packets as network intensity increases
+
+## 1.4.3 End-to-End Delay
+
+Assuming that there are $N - 1$ routers between hosts and the queuing delays are negligible, the **end-to-end delay** is given by the following equation:
+
+$$ d_{end-end} = N(d_{proc} + d_{trans} + d_{prop}) $$
+
+```ad-note
+title: Reminder
+$$d_{trans} = L/R$$
+```
 
 
 
