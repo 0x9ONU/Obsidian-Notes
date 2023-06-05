@@ -575,4 +575,59 @@ The transimission time is **indepednet** of the number of links.
 
 ### Packet Switching Versus Circuit Switching
 
+#### Packet-Switching
+
+```ad-check
+title: Packet-Switching Pros
+- Offers better sharing of transmission capacity
+- Simpler
+- More efficient
+	- The chance that there are too many simultaneous users that overflow a link is very slim
+	- Thus, packet swtiching provides essentially the same speed as circuit switching, while providing up to **3 times** as many users
+	- Can continuously send packets regardless of time or frequency
+- Less costly
+- Alllocates link use on demand
+```
+
+```ad-warning
+title: Packet-Switching Cons
+- Unpredictable end-to-end delays
+```
+
+#### Circuit-Switching
+
+```ad-check
+title: Circuit-Switching Pros
+color: 154, 205, 50
+- Pre-allocates use of the transmission link regardless of demand
+
+```
+
+```ad-warning
+title: Packet-Switching Cons
+color: 249, 108, 98
+- Can support less users per link
+- Struggles with large amounts of packets
+- Unneeded link time goes unused
+```
+
+## 1.3.3 A Network of Networks
+
+In order for the Internet to be connect with each other, each ISP must be interconnected with each other
+- This creates a *network of networks*
+
+```ad-warning
+title: Note
+Each access ISP *directly* connecting to each other would be too expensive and a waste with how many communication links needed
+```
+
+To understand it better, a few hypothetical scenarios were created:
+
+### *Network Structure 1*
+
+This network structure interconnects **all** of the access ISPs with a *single global transit ISP*
+
+```ad-warning
+This is, again, not practical as it would be very costly for each router per access ISP and the number of communciation links. It would make it so the global ISP would have to charge to stay in business
+```
 
