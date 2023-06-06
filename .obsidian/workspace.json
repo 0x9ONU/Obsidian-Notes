@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +185,11 @@
   },
   "active": "ef9f3412ebc580ce",
   "lastOpenFiles": [
+    "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
+    "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
+    "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
+    "Foundations of Design 2/Miscellaneous/Keyboard Values.md",
+    "Pasted image 20230606101934.png",
     "Pasted image 20230606093241.png",
     "Pasted image 20230606092440.png",
     "Pasted image 20230605162306.png",
@@ -195,11 +199,8 @@
     "Pasted image 20230605131034.png",
     "Pasted image 20230605125937.png",
     "Pasted image 20230604190943.png",
-    "Pasted image 20230604190935.png",
-    "Pasted image 20230604185233.png",
     "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
     "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
-    "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
     "Summer Research/Networks/Images",
     "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
     "Templates/Networks/Networks Template.md",
@@ -215,10 +216,8 @@
     "Digital Logic/Lab 13/Lab 13 Notes.md",
     "conflict-files-obsidian-git.md",
     "Interactive Fiction/Programming - Final's Study Guide.md",
-    "Foundations of Design 2/Miscellaneous/Keyboard Values.md",
     "Foundations of Design 2/Miscellaneous",
     "Digital Logic/Evan's Fellowship Small Essay.md",
-    "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
     "Foundations of Design 2/Week 14",

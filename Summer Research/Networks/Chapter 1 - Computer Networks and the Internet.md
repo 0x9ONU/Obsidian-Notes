@@ -1000,8 +1000,156 @@ Each column has a set of functionalities called **services**:
 - The level above will end up at the next above level
 ```
 
-Each al
+Each layer provides its service by:
+- Performing certain actions within that layer
+- Using the services of the layer directly below it
 
+```ad-important
+By using layered architecture, a specific part of a large and complex system is able to be defined and discussed
+- Provides modularity
+	- As long as the layer provides the same service to the layer above it, and uses the same services from the laeyr below it
+```
+
+### Protocol Layering
+
+Much like the above example, network protocols are organized into **layers**. 
+- Each protocol belongs to a layer
+- Each layer provides a **service** for the layer above by:
+	- performing certain actions within that layer
+	- using the services of the layer directly below it.
+
+```ad-note
+These protocols can be implemented at both the hardware, software, or both!
+```
+
+Network interface cards are responsible for handling communications over a specific link and are found in Ethernet or WiFi interface cards 
+
+```ad-important
+Each layer of the network architecture is *distributed* across different software and hardware:
+- end systems
+- packet swtiches
+- other network components
+```
+
+```ad-danger
+title: Drawbacks of Layering
+- One layer may **duplicate** a lower-layer's functionality
+- Functionality at one layer may need information that is present in another layer that it should not be able to access, **violating the separation of layers**
+```
+
+### Protocol Stack
+
+The protocols of various layers combined and contains the following layers:
+- Application
+- Transport
+- Network
+- Link
+- Physical
+
+```ad-note
+It can be taken both from a top-down to bottom-up approach
+- This book teaches the top-down appraoch
+```
+
+![[Pasted image 20230606101934.png]]
+
+#### Application Layer
+
+Where network applications and their application-layer protocols reside.
+
+```ad-example
+title: Application-layer Protocols
+These include:
+- ##### HTTP
+	- Provides Web document request and transfer
+- ##### SMTP
+	- Provides for the transfer of e-mail messages
+- ##### FTP
+	- provides the transfer of files between two end systems
+- ##### DNS (Domain Name System)
+	- Translates human-friendly anems for the Internet end systems toa  32-bit network address
+```
+
+These protocols are distributed over **multiple end systems**. The end systems exchange packets called **messages** with each other
+
+#### Transport Layer
+
+Responsible for transporting application-layer messages between application endpoints
+
+```ad-example
+color: 234, 180, 234
+title: Transport-layer Protocols
+- ##### TCP
+	- Provides a connection-oriented service to its applications
+	- guarnteed delivery of applciation-layer messages to the destination
+	- flow control
+		- send/receiver speed matching
+	- breaks long messages into shorter segments
+	- provicees a congestion-control mechanism
+		- the sender automaticall throttles its transmission rate whent eh network is congested
+- ##### UDP
+	- A connectionless service
+	- Does **NOT** provide the following:
+		- reliability
+		- flow control
+		- congestion control
+```
+
+```ad-note
+color: 255, 255, 0
+Transport-layer packerts are also called **segments**
+```
+
+#### Network Layer
+
+Responsible for moving network-layer packets known as **datagrams** from one host to another
+- Provides the service of delivering the segments from the transport-layer to **the transport layer in the destination host**
+
+```ad-important
+The Network Layer runs off of the **IP protocol**
+- Defines the fields in the datagram
+- Defines how the end systems and routers act on these feilds
+- The only protocol that **all** components on the network layer must run
+```
+
+```ad-note
+color: 0, 255, 255
+The Internet also uses multiple different routing protocols
+- Determines the routes that the datagrams take betweens sources and destinations
+- Each network admin may choose to use a different routing protocol
+```
+
+#### Link Layer
+
+**Moves a packet from one node to the next node** on the route designated by the network layer
+- Once the network layer hits a node, the network layer passed their datagram to the link layer to deliver it to the next node
+- Dependent on the specific link-layer protocol that is employed over the link
+
+```ad-example
+title: Link-Layer Protocols
+color: 70, 234, 100
+- Ethernet
+- WiFi
+- DOCSIS
+	- cable
+```
+
+Link-layer packets are known as **frames**
+
+#### Physical Layer
+
+Moves *individual bits* from within the link-layer's frame from one node to the next.
+- Link dependent once again
+
+```ad-example
+title: Physical Layer Protocols
+- Twisted-pair copper wire
+- single-mode fiber optics
+- Coaxial Cable
+- Radio
+```
+
+## 1.5.2 - Encapsulation
 
 
 
