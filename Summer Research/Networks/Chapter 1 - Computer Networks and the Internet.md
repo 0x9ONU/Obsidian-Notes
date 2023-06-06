@@ -55,7 +55,7 @@ title: Term
 ### Packets
 
 - A batch of data that is sent from one end system to another
-- Is segemented down from the entire file being sent 
+- Is segmented down from the entire file being sent 
 - Each packet has a set of header bytes
 
 ```ad-important
@@ -64,7 +64,7 @@ Even though the packets are sent separately, they can be reassebmled into the or
 
 ### Packet Switches
 
-Takes an incoming packet on its communciation links and forwards it to its destination thorugh its outgoing communciation links.
+Takes an incoming packet on its communication links and forwards it to its destination through its outgoing communication links.
 
 ```ad-note
 The two most common types of packet switches:
@@ -969,8 +969,33 @@ Due to the slowest link being the limiting factor in a network, the **access net
 ```ad-summary
 - Throughput depends on the transmission rates of the links over which the data flows
 - With no intervening traffic, a throughput can be an approximated by the mimimum transmissionr ate along the path.
-- However, intervening traffic may cause the bottleneck to be placed on the high transmission rate link
+- However, *intervening traffic* may cause the bottleneck to be placed on the **high transmission rate link**
 ```
+
+# 1.5 - Protocol Layers and their Service Models
+
+```ad-check
+title: Good News
+Organizign a network architecture in both the real world and in the small-scale internet created **is possible** despite its complexity
+```
+
+## 1.5.1 - Layered Architecture
+
+When descripting a complex issue such as airline travel, often **a series of actions that are taken** are described.
+
+![[Pasted image 20230606092440.png]]
+
+However, this direct approach is not perfect for describing the Internet. These steps need some sort of *structure* to be completed. 
+
+```ad-example
+There is two ticket functions, two baggage functions, two gate functions, two runway functions, and three airplane routing functions
+```ad-note
+Each of these functions can be further broken down into 3 *horizontal* groups that represent each stage of air travel
+```
+
+![[Pasted image 20230606093241.png]]
+
+
 
 
 
