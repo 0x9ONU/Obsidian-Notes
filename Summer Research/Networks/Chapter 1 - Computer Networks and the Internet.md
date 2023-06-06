@@ -1155,6 +1155,17 @@ title: Physical Layer Protocols
 
 The Figure shows the physical path that the data takes down to sending a packet from one host, to a router, to the other host
 
+Similar to end systems, both types of packet switches organize their hardware and software into layers.
+- They only implement all the layers below on the protocol stack
+- Routers implement layers 1-3
+- Link-layer switches implement layers 1 and 2
+
+```ad-note
+This means that routers can use the IP protocol, while link-layer switches cannot
+- Link-layer switches regognize Ethernet addresses but not IP addresses
+```
+
+
 
 
 
