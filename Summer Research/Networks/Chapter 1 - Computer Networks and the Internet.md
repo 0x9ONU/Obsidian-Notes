@@ -1151,7 +1151,9 @@ title: Physical Layer Protocols
 
 ## 1.5.2 - Encapsulation
 
+![[Pasted image 20230606110323.png]]
 
+The Figure shows the physical path that the data takes down to sending a packet from one host, to a router, to the other host
 
 
 
