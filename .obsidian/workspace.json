@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
+                "file": "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
+                "file": "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
+                "file": "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md"
+                "file": "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md"
               }
             }
           },
@@ -185,6 +185,9 @@
   },
   "active": "ef9f3412ebc580ce",
   "lastOpenFiles": [
+    "Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
+    "Pasted image 20230606144027.png",
+    "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
     "Summer Research/Networks/Images/Pasted image 20230606110323.png",
     "Summer Research/Networks/Images/Pasted image 20230606101934.png",
     "Summer Research/Networks/Images/Pasted image 20230606093241.png",
@@ -194,14 +197,11 @@
     "Summer Research/Networks/Images/Pasted image 20230605155435.png",
     "Summer Research/Networks/Images/Pasted image 20230605150818.png",
     "Summer Research/Networks/Images/Pasted image 20230605131034.png",
-    "Summer Research/Networks/Images/Pasted image 20230605125937.png",
-    "Summer Research/Networks/Images/Pasted image 20230604190943.png",
     "Summer Research/Machine Learning/Images",
     "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
     "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
     "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
     "Foundations of Design 2/Miscellaneous/Keyboard Values.md",
-    "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
     "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
     "Summer Research/Networks/Images",
     "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
@@ -229,7 +229,6 @@
     "Programming 2/Week 11/Programming 2 Week 11 - Day 3.md",
     "Interactive Fiction/Week 11/Interactive Fiction Week 11 - Day 3.md",
     "Foundations of Design 2/Week 11/FOD 2 Week 11 - Day 3.md",
-    "Digital Logic/Lab 11 Tables and Diagrams.md",
-    "Calculus 2/7.2 - Trigonometric Integrals/7.2.md"
+    "Digital Logic/Lab 11 Tables and Diagrams.md"
   ]
 }
