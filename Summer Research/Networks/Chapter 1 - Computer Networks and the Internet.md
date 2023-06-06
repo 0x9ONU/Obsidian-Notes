@@ -995,6 +995,13 @@ Each of these functions can be further broken down into 3 *horizontal* groups th
 
 ![[Pasted image 20230606093241.png]]
 
+```ad-note
+Each column has a set of functionalities called **services**:
+- The level above will end up at the next above level
+```
+
+Each al
+
 
 
 
