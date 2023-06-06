@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
+                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
+                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
+                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md"
+                "file": "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md"
               }
             }
           },
@@ -185,21 +185,22 @@
   },
   "active": "ef9f3412ebc580ce",
   "lastOpenFiles": [
-    "Pasted image 20230606110323.png",
-    "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
+    "Summer Research/Networks/Images/Pasted image 20230606110323.png",
+    "Summer Research/Networks/Images/Pasted image 20230606101934.png",
+    "Summer Research/Networks/Images/Pasted image 20230606093241.png",
+    "Summer Research/Networks/Images/Pasted image 20230606092440.png",
+    "Summer Research/Networks/Images/Pasted image 20230605162306.png",
+    "Summer Research/Networks/Images/Pasted image 20230605162300.png",
+    "Summer Research/Networks/Images/Pasted image 20230605155435.png",
+    "Summer Research/Networks/Images/Pasted image 20230605150818.png",
+    "Summer Research/Networks/Images/Pasted image 20230605131034.png",
+    "Summer Research/Networks/Images/Pasted image 20230605125937.png",
+    "Summer Research/Networks/Images/Pasted image 20230604190943.png",
+    "Summer Research/Machine Learning/Images",
     "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
+    "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
     "Calculus 2/11 - Sequences, Series/Series Toolbox.md",
     "Foundations of Design 2/Miscellaneous/Keyboard Values.md",
-    "Pasted image 20230606101934.png",
-    "Pasted image 20230606093241.png",
-    "Pasted image 20230606092440.png",
-    "Pasted image 20230605162306.png",
-    "Pasted image 20230605162300.png",
-    "Pasted image 20230605155435.png",
-    "Pasted image 20230605150818.png",
-    "Pasted image 20230605131034.png",
-    "Pasted image 20230605125937.png",
-    "Pasted image 20230604190943.png",
     "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
     "Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
     "Summer Research/Networks/Images",
@@ -221,7 +222,6 @@
     "Digital Logic/Evan's Fellowship Small Essay.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
-    "Foundations of Design 2/Week 14",
     "Excalidraw/Drawing 2023-05-02 12.48.11.excalidraw.md",
     "Digital Logic/Lab 11/Lab 11 Tables and Diagrams.md",
     "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 2.md",

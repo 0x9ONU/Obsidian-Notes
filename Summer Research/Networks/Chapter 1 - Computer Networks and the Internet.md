@@ -1165,13 +1165,87 @@ This means that routers can use the IP protocol, while link-layer switches canno
 - Link-layer switches regognize Ethernet addresses but not IP addresses
 ```
 
+```ad-summary
+### Encapsulation in terms of networking:
+- At each layer of the process, the data is further appended with more and more information which further encapsulates the data into a new form 
+	- **Application-layer message** is passed to the transport layer
+	- The transport-layer appends header information to the **message**, creating a **transport-layer segment**
+		- The **segment** is encapsulating the **message**
+	- Then, the **transport-layer segment** is moved to the network-layer and inofrmation about the soruce and destination, which creates a **network-layer datagram**
+		- The datagram encapsulates the segement, which encapsulates the message
+	- The **network-layer datagram** is then passed to the link layer where the link-layer header information is added to create a **link-layer frame**
+```ad-important
+At each layer, a packet has two fields: **the header field** and **a payload field**
+- The payload field contains *a packet from the layer above*
+```
 
+# 1.6 - Networks Under Attack
 
+How can a bad third-party attack networks and steal data?
 
+## The Bad Guys Can Put Malware into Your Host Via the Internet
 
+Sometimes when downloading files from the Internet, a host device can accidentally download **malware**, which enters and infects devices and does one of or more of the following:
+- Deleting files
+- Installing spyware
+- Adding a host to a botnet
+	- Controls a number of infected hosts to distribute spam e-mails or make a DDoS attack
+- self-replicates to try and infect more hosts and spread fast.
 
+## The Bad Guys Can Attack Servers and network Infrastructure
 
+**denial-of-service (DoS) attack** - renders a network, host, or other infrastructure unusable by legitimate users. 
 
+```ad-example
+DoS attacks fall into one of three categories:
+- *Vulnerability attack*
+	- Sending a few well-crafted messages to a vulnerable application or operating system running on a targeted host
+	- If the right packets are sent, the service can stop or the host can crash
+- *bandwidth flooding*
+	- A deluge of packets are sent to the targeted host
+	- The target's access link can become clogged, leading to legitimate packets being lost
+	- To cause damage, the host must send enough traffic at the rate of **at least the server's access rate**
+- *Connection flooding*
+	- Estabilishes a large number of half-open or fully open TCP connections
+	- It can bog the host down with bogus connections and prevent real connections from joining
+```
 
+### DDoS Attacks
 
+Often, when a single host tries to take down a server, it will not work as the host can either not cause enough traffic, or it will get shut down by an upstream router that can detect the large amount of packets
+
+To solve this problem, a malicious person will use a **distributed DoS (DDoS)** attack. 
+- The attack controls multiple sources
+- Each source blasts traffic at the Victim at the same time
+- Can have upwards of thousands of compromised hosts to overcome the server's access rate
+- They are much harder to detect than a DoS attack due to there being multiple hosts
+
+## The Bad Guys Can Sniff Packets
+
+Using WiFi technology can lead to a major security vulnerability:
+- Placing a passive receiver in the vicinity of the wireless transmitter allows a person to copy every packet that is transmitted.
+- These receivers are called **packet sniffers**
+
+```ad-note
+Sniifers can also be employed on:
+- Wired Ethernet LANs
+- cable broadcast packets
+- instittuion routers and access links
+```
+
+```ad-important
+Due to packet sniffers being passive, they are very difficult to detect.
+```
+
+```ad-warning
+However, cryptography is able to defend against packet sniffing
+```
+
+## The Bad Guys Can Masquerade as Someone You Trust
+
+**IP spoofing** - when someone creates a false packet and sends it to a host out of the hope that the host will accept it as legitimate and do the commands within the packet
+
+```ad-note
+**end-point authentication** can counter IP spoofing by determining that the message originates from the proper host.
+```
 
