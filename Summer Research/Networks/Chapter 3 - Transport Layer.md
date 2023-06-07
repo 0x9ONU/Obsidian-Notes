@@ -72,4 +72,20 @@ The application developer while making network applications can choose between t
 
 The **IP protocol** provides logical communication between *hosts* using a **best-effort delivery service**
 - Makes *no guarantees that every segment is delivered* between communicating hosts
-- 
+- Makes it an **unreliable service** as some segments can be either corrupted or lost
+
+On top of this, every host has an *IP Address* that is used by the network to deliver the datagram between hosts
+
+### Fundamentals of UDP and TCP
+
+They are both created to extend IP's delivery service between two end systems to a *delivery service between two processes* running on the end system
+
+This process is known as **transport-layer multiplexing** and **demultiplexing**
+
+```ad-important
+Both protocols also provide integrity checking through error-detection fields in the segments' headers
+```
+
+```ad-warning
+Due to UDP providing only process-to-process data delivery and error delivery, 
+```

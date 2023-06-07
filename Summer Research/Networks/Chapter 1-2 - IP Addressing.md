@@ -45,7 +45,7 @@ Interfaces are connected to hosts through either:
 
 IP Address is a combination of host and network/subnet addresses
 
-**Subnet Mask** - A 32-bit number that masks and IP address:
+**Subnet Mask** - A 32-bit number that masks an IP address:
 - Divides the IP address into the network and host addresses
 - Sets **all the network bits to 1s** and **the host bits to all 0s**
 - Performing an AND operation between the IP address and he Subnet mask returns the Network address
