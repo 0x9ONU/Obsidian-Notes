@@ -87,5 +87,14 @@ Both protocols also provide integrity checking through error-detection fields in
 ```
 
 ```ad-warning
-Due to UDP providing only process-to-process data delivery and error delivery, 
+Due to UDP providing only process-to-process data delivery and error delivery, it provides an **unreliable service**
+- It does not guarantee that the data sent to one process will arrive at all
+```
+
+```ad-check
+TCP provides **reliable data transfer** through:
+- Flow Control
+- Sequence Numbers
+- Achknowledgments
+- Timers
 ```
