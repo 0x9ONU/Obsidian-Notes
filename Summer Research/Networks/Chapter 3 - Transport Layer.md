@@ -176,5 +176,98 @@ clientSocket.bind(('', 19157)) # Assigning a Socket a specific port
 Typically, client-sided applications automatically assgin the port number, where sever side applications assign a specific port number (this is done on purpose)
 ```
 
+#### Overview of UDP Multiplexing/Demultiplexing
+- Host A creates a transport-layer segment that includes the following:
+	- Application data
+	- Source port number
+	- the destination port number
+	- two *other* values
+- The segment is passed to the network layer
+- The segment becomes encapsulated in an IP datagram and *tries* to make it to Host B
+- Host B then receives the segment that was from the IP datagram
+- The transport layer at Host B then uses the destination port number in the segment and delivers it to its socket identified by the number
+
+```ad-note
+color: 255, 255, 0
+Host B could be running multiple processes that have their own UDP socket and port number.
+- Host B demultiplexes each segment to the appropriate socket by examining the segment's destiantion port number.
+```
+
+```ad-important
+A UDP socket is fully identified by a *two-tuple* consisting of a destination IP address and a destination port number. 
+- The destination IP and Port determine where the segments goes to
+```
+
+##### Why the Source Port Number?
+
+Allows for a host to **return** a segment back to its original destination.
+
+```ad-note
+In terms of the UDP server created in python, the ``recvfrom()`` method was used to return the client side port number so it is able to send a new segment back
+```
+
+![[Pasted image 20230607175636.png]]
+
+### Connection-Oriented Multiplexing and Demultiplexing
+
+Unlike a UDP socket, a TCP socket is identified by a *four-tuple* and uses all four values to demultiplex the segment to the right socket:
+- Source IP address
+- Source port number
+- Destination IP address
+- Destination port number
+
+```ad-warning
+title: Difference
+
+Two arriving TCP segmetns with different source IP addresses or soruce port numbers will be directed to two *different* sockets instead of the *same* socket
+```
+
+#### TCP Client-Sever Overview
+
+##### Step 1: Welcoming Socket
+- The server has an open welcoming socket that waits for connection from a TCP client on **port number 12000**
+
+##### Step 2: Creating the Connection-Establishment Request
+- The TCP client creates a socket and sends a connection establishment request with the following lines:
+```python
+clientSocket = socket(AF_INET, SOCK_STREAM)
+clientSocket.connect((severName, 12000))
+```
+- A  connection establishment request is a special TCP segment with:
+	- the destination port number of 12000 
+	- A connection establishment bit that is set HIGH
+	- A source port number that was chosen by the client
+
+##### Step 3: Server Receiving the Request 
+- The segment is received and is moved to port 12000 and finds the server process that is waiting to accept the connection
+- A new socket is then created using:
+```python
+connectionSocket, addr = serverSocket.accept()
+```
+
+```ad-note
+All segments that arrive from the client side must have all of the following to be accepted through this new socket:
+- The source prot number
+- the IP address of the client
+- The destination port number
+- Its own IP address as the destination
+```
+
+By doing these steps, a server host may support many TCP connection sockets with their own process and its own four-tuple socket identifiers.
+
+![[Pasted image 20230607180857.png]]
+
+### Web Servers and TCP
+
+When a host is running a Web server on a specific port, *all* the segments will have the **same destination port**:
+- Initial connection-establishment segments
+- Segments carrying HTTP request messages
+
+```ad-note
+A server may either open a new connection socket for each connection it receives. However, with the current web, there is usually *only single process that has multiple threads and multiple sockets*
+- Additionally, if a client has a non-persistent HTTP requests, then a new TCP connection is created and closed to free up space on the server's ports 
+```
+
+
 
 
