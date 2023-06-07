@@ -115,6 +115,66 @@ title: Definition
 color: 234, 180, 234
 
 **Sockets** - Doors through which data passes from the network to the *process* and through which data pases from the *process* to the network
+- The receving host's transport layer brings the segment to the socket before sending it to the process
+- Each socket has their own ID with different formats depending on if they are a UDP or a TCP socket
 ```
+
+**Demultiplexing** - The job of delivering the data in a transport-layer segment *to* the correct socket
+- Uses a set of fields in the segment to get it there
+
+**Multiplexing** - Has the job of:
+- gathering data chunks at the source host from sockets
+- Encapsulating each data chunk with header information
+- Create segments
+- Passing the segments to the network layer
+
+![[Pasted image 20230607170408.png]]
+
+As shown above, the middle host *demultiplexes* the incoming traffic to either socket $P_1$ or $P_2$. 
+
+It may then have to gather the outgoing data from these sockets, create segments, and pass these segments down to the network layer
+
+```ad-important
+Transport-layer multiplexing requires *two primary things*:
+- **Source port number field**
+	- Unique fields for each socket
+- **Destination port number field**
+	- The special fields in each segmetn that indicate the socket to which the segment is to be dlivered to
+```
+
+**Source port number fields** are 16-bit integers (ranging from 0-65535)
+
+```ad-note
+color: 0, 255, 255
+**Well-known Port Numbers**
+- The port numbers ranging from 0 to 1023
+- Restricted and reserved for well-known application protocols
+- Further outlined in the RFC 1700
+
+```ad-example
+These protocols can include:
+- Port 80: HTTP
+- Port 21: FTP
+```
+
+***This process described above is essentially how UDP transfers data***
+
+![[Pasted image 20230607171634.png]]
+
+### Connectionless Multiplexing and Demultiplexing
+
+When a UDP socket is created in the standard manner shown below:
+- The transport layer automatically assigned a port number from 1024 to 65535
+- Addtionally, using the ``bind()`` method, it can be assigned a specific port
+
+```python
+clientSocket = socket(AF_INET, SOCK_DGRAM) # Creating a default socket
+clientSocket.bind(('', 19157)) # Assigning a Socket a specific port
+```
+
+```ad-note
+Typically, client-sided applications automatically assgin the port number, where sever side applications assign a specific port number (this is done on purpose)
+```
+
 
 
