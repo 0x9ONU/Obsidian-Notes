@@ -109,6 +109,12 @@ This turns IP's unreliable service iunto a reliable data transport service
 
 Extending the host-to-host delivery service provided by the network layer to a process-to-process
 - Necessary for ALL computer networks
-- 
+
+```ad-note
+title: Definition
+color: 234, 180, 234
+
+**Sockets** - Doors through which data passes from the network to the *process* and through which data pases from the *process* to the network
+```
 
 
