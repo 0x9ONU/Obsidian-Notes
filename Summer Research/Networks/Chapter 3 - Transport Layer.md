@@ -108,5 +108,7 @@ This turns IP's unreliable service iunto a reliable data transport service
 # 3.2 - Multiplexing and Demultiplexing
 
 Extending the host-to-host delivery service provided by the network layer to a process-to-process
+- Necessary for ALL computer networks
+- 
 
 
