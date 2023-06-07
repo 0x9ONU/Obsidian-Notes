@@ -97,4 +97,16 @@ TCP provides **reliable data transfer** through:
 - Sequence Numbers
 - Achknowledgments
 - Timers
+- **Congestion Control**
+	- Prevents any one any oen TCP connection from swamping the links and routers between communciating hosts with extra traffic
+	- Regulates the rate at which the TCP connections send traffic into the network
+
+```ad-note
+This turns IP's unreliable service iunto a reliable data transport service
 ```
+
+# 3.2 - Multiplexing and Demultiplexing
+
+Extending the host-to-host delivery service provided by the network layer to a process-to-process
+
+
