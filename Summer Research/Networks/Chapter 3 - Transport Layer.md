@@ -455,7 +455,7 @@ The sending side of ``rdt`` simply accepts data from the upper layer via the ``r
 - Sends the packet into the channel (using the ``udt_send(packet)`` command)
 	- Would result from a procedure call (like ``rdt_send()``) by an **upper level application**
 
-##### Receiving Side
+#### Receiving Side
 ``rdt`` receives the packet from the underlying channel via ``rdt_rcv(packet)`` event and then does the following:
 - Removes the data from the packet (via ``extract(packet, data)``)
 - Passes the data up to the upper layer (via ``deliver_data(data)``)
@@ -600,6 +600,10 @@ The receiver must now include the sequence number of the packet being acknowledg
 The sender must now check the sequence number of the packet being acknowledged by a received ACK message
 - Done by including the `0` or `1` in the `isACK()` in the sender's FSM
 
+![[Pasted image 20230608141921.png]]
+
+![[Pasted image 20230608141936.png]]
+
 ### Reliable Data Transfer over a Lossy Channel with Bit Errors: `rdt3.0`
 
 Now we assume that the underlying channel can *lose* packets as well, which can be pretty common today.
@@ -611,6 +615,64 @@ To solve this, two addtional concerns must now be addressed by the protocol:
 - **What to do when packet loss occurs?**
 	- Can be solved by using check-summing, sequence nubmers, ACK packets, and retransmissions used in `rtd2.2`
 ```
+
+#### Detecting Packet Loss
+
+Many different ways to, but in this rdt, the burden of detecting and recovering from lost packets on the sender.
+
+In the case of the actual packet or the ACK packet being lost, the sender realizes that there is no reply on the packet that was sent.
+- The sender judiciously chooses a time value for when packet loss may have happened and retransmits the packet
+
+```ad-note
+Because of this, the sender may send another packet based on particularly large delays, even when the packet has not been lost and introduces **duplicate data packets**, which is already solved!
+```
+
+Regardless if the packet was lost, the ACK was lost, or either are experiencing a large delay, a **countdown timer** is implemented in order to interrupt the sender after a given amount of time
+
+```ad-important
+Thus, the sender must be able to do the following:
+- Start the tiemr each time a packet is sent
+- Respond to a timer interrupt
+- Stop the timer
+```
+
+#### Describing the FSM for `rdt3.0`
+
+![[Pasted image 20230608142315.png]]
+
+This protocol reliably transfer data over a channel that can corrupt or lose packets
+- The protocol operates with no lost or delayed packets and how it handles lost data packets
+
+![[Pasted image 20230608142933.png]]
+
+This `rdt3.0` protocol is also sometimes known as the **alternating-bit protocol** due to the sequence numbers alternating between 0 and 1.
+
+## 3.4.2 Pipelined Reliable Data Transfer Protocols
+
+Even though a stop-and-wait protocol can function correctly, the performance can be lack-luster
+
+![[Pasted image 20230608143757.png]]
+
+```ad-example
+Assuming that:
+- there are two hosts with one being on the West Coast and the otehr on the East Coast.
+- the round-trip progatation delay, $RTT$, is around 30 miliseconds
+- The channel is connected with a transmission rate, $R$, of 1 Gbps
+- The packet size, $L$ is 1,000 bytes
+- The for the sender to transmit the packet into the link is:
+
+$$ d_trans = \frac{L}{R} = \frac{8000 bits}{10^9 bits/sec} = 8 microseconds$$
+```
+
+The packet will then make a 15-msec journey with the last bit of the packet emerging at the receiver at $t = RTT/2 + L/R = 15.008 msec$ . 
+
+Assuming that the ACK does not provide any additional delay, the sender receives the ACK at $t = RTT + L/R = 30.008 msec$.
+
+The formula below shows that there was very poor **utilization** of the sender as the sender was only actively sending data for 
+
+
+
+
 
 
 
