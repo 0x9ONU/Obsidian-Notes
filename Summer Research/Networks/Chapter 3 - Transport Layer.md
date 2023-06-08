@@ -668,8 +668,52 @@ The packet will then make a 15-msec journey with the last bit of the packet emer
 
 Assuming that the ACK does not provide any additional delay, the sender receives the ACK at $t = RTT + L/R = 30.008 msec$.
 
-The formula below shows that there was very poor **utilization** of the sender as the sender was only actively sending data for 
+The formula below shows that there was very poor **utilization** of the sender as the sender was only actively sending data for a small fraction of the time:
 
+$$ U_sender = \frac{\frac{L}{R}}{RTT + \frac{L}{R}} = \frac{.008}{30.008} = 0.00027$$
+This means that the sender had an effective throughput of only 267 kbps on a 1 Gbps link!
+
+```ad-check
+title: Solution
+To solve this, the sender should be allowed to send multiple packets without wating for acknowledgements
+- Can triple the utilization of the sender!
+
+![[Pasted image 20230608145746.png]]
+
+```ad-important
+This process is know as *pipelining* 
+- A reliable data transfer protocol is able to send multiple packets at once and packet the connection link as much as it can
+```
+
+### Consequences of Pipelining
+
+```ad-warning
+title: Consequence 1
+The range of sequence numbers must be increased as each packet needs a unique sequence number
+```
+
+```ad-warning
+title: Consequence 2
+color: 255, 255, 0
+The sender and receiver sides of the protocols may have to buffer more than one packet
+- Might have to be done by only the sender or **both**
+```
+
+```ad-warning
+title: Consequence 3
+color: 255 , 160, 100
+The range of seqeucne numbers needed and buffering required willd epend on how the data transfer protocol responds to **lost, corrupted, or overly delayed packets.**
+```ad-check
+title: Solution
+Two basic approaches exist for pipelined error recovery:
+- **Go-Back-N**
+- **Selective Repeat**
+```
+
+## 3.4.3 Go-Back-N (GBN)
+
+The sender is allowed to transmit multiple packets without waiting for an acknowledgement
+- **Constrained** to have no more than *some maximum allowed number* $N$ of unacknowledged packets in the pipeline
 
 
 
