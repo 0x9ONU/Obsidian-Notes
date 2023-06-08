@@ -714,6 +714,98 @@ Two basic approaches exist for pipelined error recovery:
 
 The sender is allowed to transmit multiple packets without waiting for an acknowledgement
 - **Constrained** to have no more than *some maximum allowed number* $N$ of unacknowledged packets in the pipeline
+- Also know as the **sliding-window protocol**
+
+![[Pasted image 20230608161416.png]]
+
+**Base** - The sequence number of the oldest unacknowledged packet
+
+**Nextseqnum** - The smallest unused sequence number
+
+**Window Size $N$** - A range of sequence numbers whose packets have been transmitted, but not yet acknowledged
+
+With these two values, **four internals** can be created:
+- [0, base-1] represents the packets that have already *been transmitted and acknowledged*
+- [base, nextseqnum-1] corresponds to packets that have been sent but **not yet acknowledged**
+- [nextseqnum, base+N-1] can be used for packets that can be sent immediately with data from the upper layer
+- **base+N** and greater **cannot** be used until an unacknowledged packet currently in the pipeline has been acknowledged
+
+```ad-note
+A packet's sequence number is a fixed-length field int he packet header and various based on *k* bits:
+$$[0,2^k -1]$$
+```
+
+```ad-important
+Because there is a finite range of sequence numbers, all arithmetic involving sequence numbers **must** be done using **module $2^k$ arithmetic**
+- Meaning that adding $1$ to $2^k-1$ would make it roll over to $0$
+
+```
+
+### Extended FSM of a GBN protocol
+
+```ad-note
+This is an *extended* FSM because there are variables for both `base` and `nextseqnum`
+```
+
+#### Sender
+
+***The GVN sender must respond to three types of events:***
+
+```ad-summary
+title: Event One: Invocation from above
+color: 254, 52, 126
+- A packet will only go through if:
+	- `rdt_send()` is called from the application-layer
+	- The window is not full
+- If the window happens to be full, the transport-layer will return the packet back to the upper layer to try again after the window has an empty space
+```
+
+```ad-summary
+title: Event Two: Receipt of an ACK
+color: 150, 50, 170
+A packet with the sequence number $n$ will be taken as a **cumulative acknowledgment**
+- All the packets with a sequence number up to $n$ have been received correctly
+```
+
+```ad-summary
+title: Event Three: A Timeout Event
+color: 100, 100, 255
+A timer, like the stop-and-wait protocol, is used to recover from lost data or acknowledgment packets.
+- On timeout, the sender resends **all** packet that have been sent and *NOT* acknowledged
+- When an ACK is received but there are still unacknowledged packet, the timer is restarted
+- The timer stops when there are no outstanding, unacknowledged packets
+```
+
+![[Pasted image 20230608164917.png]]
+
+#### Receiver
+
+If a packet with the correct sequence number $n$ is received correctly and is in order (with the last approved packet being $n-1$):
+- The receiver sends an ACK for packet $n$
+- Delivers the data portion of the packet to the upper layer
+
+*otherwise*:
+- Discards the packet
+- Sends an ACK for the most recently received in-order packet
+
+```ad-note
+If a packet $k$ has been received and delivered to the upper layer, then all packets with a sequence number lower than $k$ have also been delivered
+```
+
+```ad-important
+Because the sender will always resend a packet that was sent out-of-order in the case of a packet loss, The receiver does not need to buffer **ANY** out-of-order packets
+```
+
+The receiver only has to maintain the sequence of the next in-order packet (with the variable `expectedseqnum`)
+
+![[Pasted image 20230608165717.png]]
+
+
+
+
+
+
+
 
 
 
