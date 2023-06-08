@@ -407,7 +407,126 @@ Because UDP cannot rely on link-layer or in-memory error detection, it must prov
 
 # 3.4 - Principles of Reliable Data Transfer
 
+```ad-note
+Reliable Data Transfer occurs at many different layers along the network:
+-  Transport layer
+-  Link layer
+- Application Layer
+```
 
+![[Pasted image 20230608113752.png]]
+
+In the service framework above, it promises that no transferred data bits are corrupted or lost, and are delivered in the order in which they were sent.
+
+**A reliable data transfer protocol** is meant to implement this service abstraction.
+- Difficult as the layer below it (the network layer) may be unreliable
+	- Could include anything from a single physical link (link-layer is needed) all the way up to a global internetwork (transport-level is needed )
+
+```ad-summary
+title: The interfaces of the data transfer protocol
+- The sending side will be invoked by calling ``rdt_send()``
+	- It passes the data to be delivered to the upper layer at the receiving side
+- The receiving side will call ``rdt_rcv()`` when a pakcet arrives fromteh receiving side
+- Will then call ``deliver_data()`` when it is ready to deliver the data to the upper layer
+```
+
+```ad-note
+This section only considers **unidirectional data transfer**
+- Data transfer from the sending to the receiving side
+```ad-warning
+**Bidirectional data transfer** is not much mroe difficult conceptually, but is much more complex to specific explain
+```
+
+## 3.4.1 - Building a Reliable Data Transfer Protocol
+
+A series of protocols will be explained that are added onto each other until a flawless and reliable data transfer protocol is created
+
+### Reliable Data Transfer over a Perfectly Reliable Channel: ``rdt1.0``
+
+This version assumes that nothing bad could ever happen when transferring data
+
+``rdt1.0`` has a **finite-state machine (FSM)** for both the sender ***and*** the receiver:
+
+![[Pasted image 20230608115537.png]]
+
+#### Sending Side
+The sending side of ``rdt`` simply accepts data from the upper layer via the ``rdt_send(data)`` event and then does the following:
+- Creates a packet containing data (using the ``make_pkt(data)`` command)
+- Sends the packet into the channel (using the ``udt_send(packet)`` command)
+	- Would result from a procedure call (like ``rdt_send()``) by an **upper level application**
+
+##### Receiving Side
+``rdt`` receives the packet from the underlying channel via ``rdt_rcv(packet)`` event and then does the following:
+- Removes the data from the packet (via ``extract(packet, data)``)
+- Passes the data up to the upper layer (via ``deliver_data(data)``)
+	- Would result from a procedure call (such as ``rdt_rcv()``) from the **lower-layer protocol**
+
+### Reliable Data Transfer over a Channel with Bit Errors: ``rdt2.0``
+
+Assumes that on top of what happens in ``rdt1.0``, the underlying channels may cause a packet to be corrupted due to physical components of the network
+
+By using both **positive acknowledgments** and **negative acknowledgements** allow the receiver to let the sender know:
+- What has been received correctly (positive)
+- What as been received in error and thus requires repeating (negative)
+
+These reliable data transfer protocols that are based on retransmission are known as **ARQ (Automatic Repeat reQuest) protocols**
+
+#### What Must An ARQ Protocol Accomplish?
+
+```ad-summary
+title: Goal 1: Error Detection
+Allow the receiver to detect when bit errors have occurred.
+- Require extras bits to be sent from the sender to the receiver
+- These bits will be gathered into the packet checksum field of the ``rdt2.0`` packet
+```
+
+```ad-summary
+title: Goal 2: Receiver Feedback
+color: 234, 190, 234
+Due to being on different end systems, the only way for the sender to learn of the receiver's view of the world is for the receiver to provide explicit feedback to the sender
+- Sends positive (ACK) and negative (NAK) acknowledgement packets back from the receiver to the sender
+- Can be as little as 1 bit long
+
+```
+
+```ad-summary
+title: Goal 3: Retransmission
+color: 255, 255, 255
+A pakcet that is received in error will be retansmitted by the sender
+```
+
+#### ``rdt2.0`` Description
+
+This FSM representation of ``rdt2.0`` utilizes a data transfer protocol that is able to use error detection with positive and negative acknowledgments
+
+![[Pasted image 20230608122205.png]]
+
+##### Sending side
+
+Unlike the previous example, this FSM has two states:
+- The leftmost state
+	- waiting for data to be passed down from the upper layer
+	- When ``rdt_send(data)`` event occurs:
+		- the sender will create a packet (``sndpkt``) containing:
+			- The data to be sent
+			- the packet checksum
+		- Send the packet via ``udt_send(sndpkt)`` operation
+- The rightmost state
+	- Awaits for an ACK or a NAK packet form the receiver:
+		- If ACK is received:
+			- The sender knows that the most recently transmitted packet has been received correctly (``rdt_rcv(rcvpkt)`` AND ``isACK(rcvpkt)``)
+			- returns to the state of waiting for data from the upper layer.
+		- If NAK is received:
+			- The protocol retransmits the last packet
+			- Await for another ACK or NAK to be returned by the receiver in response
+
+```ad-important
+While in the wait-for-ACK-or-NAK state, the protocol cannot get mroe data form the upper layer as the ``rdt_send()``event cannot occur
+- Will only happen have the sender reives an ACK packet to go back to the previous state
+- Makes this protocol known as the **stop-and-wait** protocols
+```
+
+##### Receiving Side
 
 
 
