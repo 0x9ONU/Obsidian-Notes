@@ -815,12 +815,101 @@ Even though GBN is much more efficient than stop-and-wait protocols, a single er
 ```
 
 These protocols avoid unnecessary retransmissions by having the sender retransmit only those packets that it suspects were received in error
-- This means that the receiver will have to *individually *
+- This means that the receiver will have to *individually* correct received packets
+
+The window is reused from GBN, but unlike GBN, some of the sender's packets within the window will already be acknowledged
+
+```ad-important
+The SR receiver will acknowledge a correctly received packet *whether or not it is in order*
+- The out-of-order packets are buffered until any missing packets are received
+```
 
 
 
+![[Pasted image 20230608172812.png]]
+
+#### SR Sender Events
+
+```ad-summary
+title: Event One: Data Received From Above
+The SR sender checks the next available sequence number for the packet.
+- If it is within the window, the data is packeted and sent
+- Otherwise, it is either buffered or sent back
+```
+
+```ad-summary
+title: Event Two: Timeout
+color: 234, 234, 234
+The timers are used to protect against lost packets
+- Each packet *must* have their **own logical timer**
+- Can be replicated by a single hardware timer
+```
+
+```ad-summary
+title: Event Three: ACK Received
+color: 255, 255, 0
+The SR sender marks that packet as have been received if it is in the window
+- If the packet's sequence number is equal to `send_base`, thne the widnow base is moved foward to the closest unacknowledged packet
+- Untrqansmitted packets that were in the buffer are now transmitted
+```
+
+#### SR Receiver Events
 
 
+```ad-summary
+title: Event One: Packet with Sequence number in [`rcv_base`, `rcv_base` + $N -1$] is correctly received
+Recevied packets that fall within the receiver's window and a selective ACK packet is returend to the sender
+- Buffered if out-of-order
+- If the packet missing packet arrives with the base `rcv_base`, every packet is consecutively delivered to the upper layer
+- The receive window is moved  byt eh number of packets delivered to the upper layer
+```
+
+
+```ad-summary
+title: Event Two: Packets with Sequence Number in [`rcv_base-$N$`, `rcv_base`-1] is correctly delivered
+color: 234, 234, 234
+An ACK must be genreated, even though this is a packet that the receiver has previously acknowledged
+
+```
+
+```ad-summary
+title: Event Three: Otherwise
+color: 255, 255, 0
+**Ignore the Packet**
+```
+
+![[Pasted image 20230608175125.png]]
+
+#### Importance of Re-Acknowledging Previously Received Packets
+
+By acknowledging packets outside of the receiver window, it makes sure that **the sender window moves along with the receiver window**:
+- These windows do not always coincide, but the sender window could get stuck behind the receiver window without retransmission
+#### Problems with Lack of Synchronization
+
+```ad-warning
+The lack of synchronization between both windows can have consequences
+- Can lead to retransmission of an already received packet like GBN
+- ![[Pasted image 20230608175028.png]]
+- The finite amount of numbers can roll over and cause a considerably older packet a new one!
+- ![[Pasted image 20230608175041.png]]
+```
+
+```ad-important
+There is no way for the sender and the receiver to distinguish the retransmission of the first packet from an original transmission or the $N+1$ packet
+- Because of this, the window size often has to be less than or euqal to **half** the size of the sequence nubmer space for SR Protocols
+```
+
+## Summary
+
+| Term                    | Definition                                                                                                                                                                                                                                                                                                                                                 |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mechanism               | Use, Comments                                                                                                                                                                                                                                                                                                                                              |
+| Checksum                | Used to detect bit errors in a transmitted packet                                                                                                                                                                                                                                                                                                          |
+| Timer                   | Used to timeout/retransmit a packet, possibly because the packet (or its ACK) was lost within the channel. Because timeout can occur when a packet is delayed but not lost (premature timeout), or when a packet has been received by the receiver but the receiver-to-sender ACK has been lost duplicate copies of a packet may be received by a receiver |
+| Sequence Number         | Use for sequential numbering of packets of data flowing from sender to receiver. Gaps in the sequence numbers of received packets allow the receiver to detect a lost packet. Packets with duplicate sequence numbers allow the receiver to detect duplicate copies of a packet.                                                                           |
+| Acknowledgment          | Used by the receiver to tell the sender that a packet or set of packets has been received correctly. Acknowledgments will typically carry the sequence number of the packet or packets being acknowledged. Acknowledgments may be individual or cumulative, depending on the protocol.                                                                     |
+| Negative Acknowledgment | Used by the receiver to tell the sender that a packet has not been received correctly. negative acknowledgments will typically carry the sequence number of the packet that was not received correctly                                                                                                                                                     |
+| Window, Pipelining      | The sender may be restricted to sending only packets within sequence numbers that fall within a given range. by allowing multiple packets to be transmitted but not yet acknowledged, sender utilization can be increased over a stop-and-water mode of operation. We'll see shortly that the window size may be set on the basis the receiver's ability to receive and buffer messages, or the level of congestion in the netowrk, or both                                                                                                                                                                                                                                                                                                                                                           |
 
 
 
