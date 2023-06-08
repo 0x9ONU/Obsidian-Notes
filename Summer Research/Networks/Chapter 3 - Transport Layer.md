@@ -800,10 +800,22 @@ The receiver only has to maintain the sequence of the next in-order packet (with
 
 ![[Pasted image 20230608165717.png]]
 
+#### Overview and Implementation
 
+![[Pasted image 20230608170705.png]]
 
+The extended FSM is very close to the actual implementation
 
+**Event-based programming** - The various procedures are called either by other procedures in the protocol stack, or as the result of an interrupt.
 
+## 3.4.4 - Selective Repeat (SR)
+
+```ad-warning
+Even though GBN is much more efficient than stop-and-wait protocols, a single error can lead to a lot of unnecessary retransmissions as the probability of error increases with each error
+```
+
+These protocols avoid unnecessary retransmissions by having the sender retransmit only those packets that it suspects were received in error
+- This means that the receiver will have to *individually *
 
 
 
