@@ -268,6 +268,153 @@ A server may either open a new connection socket for each connection it receives
 - Additionally, if a client has a non-persistent HTTP requests, then a new TCP connection is created and closed to free up space on the server's ports 
 ```
 
+# 3.3 - Connectionless Transport: UDP
+
+UDP typical does the barebones that a transport protocol can do.
+- Multiplexing/Demultiplexing
+- Light error checking
+- Has **NOTHING** to do with IP
+- Take messages from the process, attaches source and destination port numbers, and hopes IP brings them to the correct place
+
+```ad-note
+Because there is **no handshaking** between the sending and receiving transport-layer entities *before sending a segment*, UDP is said to be **connectionless** 
+```
+
+```ad-example
+UDP is typically used by **DNS**:
+- DNS application on a host creates a DNS query message using UDP and sends it off
+- It does not perform a handshake and it is sent off to the network-layer after adding the proper header messages
+- The IP datagram then tries to find the host 
+- The DNS application waits for a reply from the query
+- If there is no reply:
+	- try resending the query
+	- sending the query to another name server
+	- infrom that the other application that it cannot get a reply
+```
+
+### Reasons to use UDP over TCP
+
+```ad-summary 
+title: Reason 1: Finer application-level cotnrol over what data is sent, and when
+- UDP will automatically pass a created segmetn tot he network layer
+- TCP, on the other hand, has a built-in congrestion-control mechanism that throttles the transport-layer sender when a link between the soruce and sitination has become congested
+- UDP does not have to wait for a connection-establishment request
+```
+
+```ad-summary
+color: 255, 255, 0
+title: Reason 2: No connection establishment
+- TCP will *always* use a 3-way handshake before it starts to transfer data
+- UDP does not and does not introduce any delay to establish a connection
+- Addtionally, through protocols such as QUIC (Quick UDP Internet Connection), use application-layer programs that add reliability on top of UDP to prevent the downside of losing data
+```
+
+```ad-summary
+title: Reason 3: No connection state
+color: 234, 180, 243
+- TCP will maintain a connection state in the end systems
+	- receive and send buffers
+	- congestion-control parameters
+	- sequence and acknowledgment number parameters
+- UDP does not maintain a connection state or track these parameters
+	- Thus, a server devoted to a certain application can support many more active clients with UDP over TCP
+```
+
+```ad-summary
+title: Reason 4: Small packet header overhead
+color: 150, 250, 100
+
+The TCP segment has 20 bytes of header overhead data, while **UDP only uses 8 bytes of overhead**
+```
+
+### Which Applications Use TCP or UDP?
+
+| Application                   | Application-Layer Protocol | Underlying Transport Protocol    |
+| ----------------------------- | -------------------------- | -------------------------------- |
+| Email                         | SMTP                       | TCP                              |
+| Remote terminal access        | Telnet                     | TCP                              |
+| Secure remote terminal access | SSH                        | TCP                              |
+| Web                           | HTTP, HTTP/3               | TCP (for HTTP), ==UDP (for HTTP/3)== |
+| File transfer                 | FTP                        | TCP                              |
+| Remote file server            | NFS                        | Usually ==UDP==                      |
+| Streaming multimedia          | DASH                       | TCP                              |
+| Internet telephony            | Typical Proprietary        | ==UDP== or TCP                       |
+| Network management            | SNMP                       | Typically ==UDP==                    |
+| Name translation              | DNS                        | Typically ==UDP==                                 |
+
+```ad-note
+TCP is used by applications when they need reliable data transfer services, while UDP is used when data is needed to be sent immediately
+```
+
+```ad-note
+color: 255, 255, 0
+UDP is usually ran by mutlimedia applications, but must be done with care:
+- If UDP is let wild with streaming platforms, the routers will become clogged with traffic and a lot of UDP packets will be lost
+- TCP will also suffer due to its congestion control pulling the sending and receiving rate to a halt
+```
+
+## 3.3.1 - UDP Segment Structure
+
+![[Pasted image 20230608105945.png]]
+
+**Application data occupies the data field**
+
+```ad-example
+With DNS, the data feidl contains either a query message or a response message
+```
+
+The UDP header has *only four fields*, each consisting of **two bytes**
+- Source port number
+- Destination port number
+- Length field
+	- specifies the number of bytes in the UDP segment (Header plus Data)
+- Checksum
+	- Used by the receiving host to check whether errors have been introduced into the segment
+	- Calculated over a few of the fields in the IP header as well
+
+## 3.3.2 - UDP Checksum
+
+Is used to determine whether bits within the UDP segment have been altered as it moved from source to destination.
+
+```ad-important
+UDP at the sender side performs the **1s complement of the sum of all the 16-bit words** in the segment, with *any overflow being wrapped around*
+
+```ad-example
+
+![[Pasted image 20230608110955.png]]
+
+Then the 1s complement of the sum 0100101011000010 is **1011010100111101**
+```ad-note
+The carry from the MSB of the addition is carried into the next 16-bit addition
+```
+
+At the receivers end, all four 16-bit words are added with the checksum. 
+- If there **were no errors introduced**  into he packet, the sum at the receiver's end will be ``1111111111111111``
+
+### Reason Why UDP Introduces Checksums
+
+Since there is no guarantee that all the links between the source and the destination provide error checking
+- One of the links may use a link-layer protocol that does not provide error checking
+
+Additionally, when a packet is stored in a router, it may scramble a bit when it is in its memory
+
+```ad-important
+color: 234, 180, 254
+Because UDP cannot rely on link-layer or in-memory error detection, it must provide error detection at the transport layer *on an end-to-end basis*
+- **end-end principle** - certain functionality must be implemented on an end-end basis as functions placed at tghe lower levels may be redundant or of little value when compared to the cost of providing them at the higher level.
+
+```
+
+# 3.4 - Principles of Reliable Data Transfer
+
+
+
+
+
+
+
+
+
 
 
 
