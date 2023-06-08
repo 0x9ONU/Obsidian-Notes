@@ -528,6 +528,90 @@ While in the wait-for-ACK-or-NAK state, the protocol cannot get mroe data form t
 
 ##### Receiving Side
 
+Still has a single state like before.
+
+On packet arrival:
+- The receiver replies with either an ACK or a NAK depending on whether or not the received packet is corrupted (``rdt_rcv(rcvpkt)`` and ``corrupt(rcvpkt)``)
+
+```ad-danger
+``rdt2.0`` has the one fatal flaw that the ACK or NAK packet could be corrupted!
+```ad-check
+title: Solution
+ACK/NAK packets need to have their own checksum bits in order to detect such errors.
+```
+
+To solve the problem with how the protocol should recover from ACK or NAK packet errors can be done in three possible ways:
+
+```ad-note
+title: Possible Solution 1
+color: 254, 52, 126
+Utilzing a new type of sender-toreceiver packet to the protocol
+- Sends a packet to ask for the retransmission of the ACK or NAK packet
+```ad-warning
+Could run into a infinite pass back and forth as the receiver could also receive this packet corrupted as well
+```
+
+```ad-note
+title: Possible Solution 2
+color: 255, 255, 0
+To add enough checksum bits to allow the sender not only to detect, but recover from, but errors.
+- Solves the problem for a channel taht can corrupt packets but not lose them
+```
+
+```ad-note
+color: 0, 255, 255
+title: Possible Solution 3
+The sender simply to resend the current data packet when it receives a garbled ACk or NAK 
+- Can lead to issues with **duplicate packets** that the receiver does not know is a new packet or is a repeat packet
+```
+
+#### Fixing ``rdt2.0`` with ``rdt2.1``
+
+The solution with fixing the problem described above is to add a new field to the data packet:
+- The sender will number its data packets with a **sequence number** into the field
+- The receiver will then only have to check the sequence number to determine it is a new packet or a retransmission
+
+```ad-note
+This new fixed version still assumes the following:
+- Only a 1-bit sequence number will be needed because of the stop-and-wait protocol
+- ACK and NAK packets do not need sequence numbers as we are assuming that a channel does **not** lose packets
+```
+
+``rdt2.1`` has twice as many states in their FSM in both for the sender and the receiver:
+- Due to how the state must reflect whether the packet is currently being sent or expected can *also* have a sequence number of 0 or 1
+
+![[Pasted image 20230608134356.png]]
+
+![[Pasted image 20230608134220.png]]
+
+It also uses both positive and negative acknowledgements form the receiver and the sender:
+- When an out-of-order packet is received, the receiver sends an ACK for the packet it has received.
+- When a corrupted packet is received, the receiver sends a NAK
+
+```ad-important
+When the sender receives back a **duplicate ACK** for the same packet, the sender knows that the receiver did not correctly receive the packet that was ACKed twice.
+```
+
+### ``rdt2.2`` going NAK-free from ``rdt2.1``
+
+The receiver must now include the sequence number of the packet being acknowledged by an ACK message
+- Done by including the ``ACK, 0`` or ``ACK, 1`` during the ``make_pack()`` command in the receiver FSM
+
+The sender must now check the sequence number of the packet being acknowledged by a received ACK message
+- Done by including the `0` or `1` in the `isACK()` in the sender's FSM
+
+### Reliable Data Transfer over a Lossy Channel with Bit Errors: `rdt3.0`
+
+Now we assume that the underlying channel can *lose* packets as well, which can be pretty common today.
+
+```ad-warning
+To solve this, two addtional concerns must now be addressed by the protocol:
+- **How to detect packet loss?**
+	- A new protocol mechanism must be used
+- **What to do when packet loss occurs?**
+	- Can be solved by using check-summing, sequence nubmers, ACK packets, and retransmissions used in `rtd2.2`
+```
+
 
 
 
