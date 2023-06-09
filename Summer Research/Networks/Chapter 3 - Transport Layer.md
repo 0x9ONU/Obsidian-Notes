@@ -1040,7 +1040,22 @@ Contains 8 bits that all have a special function:
 ```ad-summary
 title: Urgent Data Pointer Field
 color: 
+16-bit field used for informing the receiving-side upper-layer entity when urgent data exists and pass it a pointer to the end of the rugent data.
+```ad-warning
+Both this field and PSH and URG are **NOT** used in practice
 ```
+
+![[Pasted image 20230609104655.png]]
+
+### Sequence Numbers and Acknowledgment Numbers
+
+```ad-note
+These fields are a critical part of TCP's reliable data transfer service
+```
+
+
+
+
 
 
 
