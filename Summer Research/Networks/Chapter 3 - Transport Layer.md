@@ -994,7 +994,19 @@ TCP segments contain:
 
 Each header contains a **source and destination port number** and a **Checksum field** like UDP. It also has the following things:
 
-```ad-
+```ad-summary
+title: Sequence Number Field and Acknowledgment Number Field
+32-bit fields that are used by the TCP sender and receiver in implementing a reliable data transfer service
+```
+
+```ad-summary
+title: Receive Window
+color: 255, 255, 0
+16-bit field usd for flow control. Indicates the number of bytes that **a recever is willing to accept.**
+```
+
+```ad-summary
+title: Options Field
 ```
 
 
