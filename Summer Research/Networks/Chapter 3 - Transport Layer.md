@@ -1055,6 +1055,32 @@ These fields are a critical part of TCP's reliable data transfer service
 
 #### Why Does TCP Use These Fields?
 
+```ad-note
+TCP views data as an unstructured, but ordered, steam of bytes.
+- This is why Seqeunce numbers are over the stream of transmitted bytes and **not** over the sereis of transmitted segments
+```
+
+**Sequence number for a segment** is based on the byte-steam number of the first byte in the segment:
+- If a file containing 500,000 bytes is divided based on a MSS of 1000 bytes, the TCP will construct 500 segments.
+- Each one of these segments will be numbered with $MSS(n-1)$
+	- The first sequence number is 0
+	- The second sequence number is 1000
+	- The third sequence number is 2000
+
+**The acknowledgment number** is based on the sequence number of the next byte one host is expecting from the other host
+- If a host got all the bytes numbered 0-535 from the other host, it puts 536 in the acknowledgment number field
+
+**Cumulative acknowledgments** is a service provided by TCP where it only acknowledges bytes up tot he first missing byte in the steam
+- If host got all the bytes numbered 0-535 and 900-1000, it puts 536 in the acknowledgment field to to attempt to re-create the other host's data stream
+
+```ad-note
+What happens when bytes are received out of order?:
+- The choice is up to the programmers implementing TCP to decide. They have two options:
+1. The receiver immediately discards out-of-order segments
+2. The receiver keeps the out-of-order bytes and waits fort the missing bytes to fill in the gaps (==most common==)
+```
+
+
 
 
 
