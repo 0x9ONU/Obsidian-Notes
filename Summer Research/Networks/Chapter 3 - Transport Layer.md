@@ -983,7 +983,19 @@ When a segment is received, it is placed within a **receive buffer**
 
 ## 3.5.2 - TCP Segment Structure
 
+TCP segments contain:
+- Header fields
+- Data field
+	- A chunk of application data
+	- Can contain data that is close to the MSS limit (image sending)
+	- Can contain as little as one byte (Telnet and ssh)
 
+### Header Field Layout
+
+Each header contains a **source and destination port number** and a **Checksum field** like UDP. It also has the following things:
+
+```ad-
+```
 
 
 
