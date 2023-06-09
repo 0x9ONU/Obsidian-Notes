@@ -911,6 +911,81 @@ There is no way for the sender and the receiver to distinguish the retransmissio
 | Negative Acknowledgment | Used by the receiver to tell the sender that a packet has not been received correctly. negative acknowledgments will typically carry the sequence number of the packet that was not received correctly                                                                                                                                                     |
 | Window, Pipelining      | The sender may be restricted to sending only packets within sequence numbers that fall within a given range. by allowing multiple packets to be transmitted but not yet acknowledged, sender utilization can be increased over a stop-and-water mode of operation. We'll see shortly that the window size may be set on the basis the receiver's ability to receive and buffer messages, or the level of congestion in the netowrk, or both                                                                                                                                                                                                                                                                                                                                                           |
 
+# 3.5 - Connection-Oriented Transport: TCP
+
+The Internet's transport-layer, connection-oriented, reliable transport protocol. Relies on:
+- Error detection
+- Retransmission
+- Cumulative acknowledgments
+- Timers
+- Header fields for sequence and acknowledgment numbers
+
+## 3.5.1 - The TCP Connection
+
+TCP is **connection-oriented** as one application process must "handshake" with each other before data can be sent
+- They must send some preliminary segments to each other to establish the parameters of the ensuing data transfer
+
+```ad-note
+TCP is not an end-to-end TDm or FDM circuit as like a circuit-switched network.
+- It is a *logical* connection rather than a *physical* one
+- The routers and link-layer switches are completely oblvious to TCP connections
+```
+
+TCP allows for a **full-duplex service**:
+- A connection between two processes can send application-layer data in **both directions at the same time**
+
+TCP is also always **point-to-point** meaning it only has one sender and one receiver
+- Multicasting is not possible with TCP!
+
+### TCP Connection Establishment Introduction
+
+A client application first informs the client it wants to establish a connection with a process by doing `clientScoket.connect((serverName,serverPort))`
+- `serverName` is the name of the server
+- `severPort` identifies the process on the server
+
+```ad-summary
+title: TCP Connection Summary (**three-way handshake**)
+- The client sends a special TCP segment
+- The server responds with a second special TCP segment
+- The client then responds with a third TCP segment
+- Then, the TCP connection is established and the two application processes can send data to each other
+```ad-note
+The first two segments carry no payload, but **the third segment and beyond can have one**
+```
+
+### TCP Buffers Overview
+
+Data passed from the process through the socket to the TCP, it is placed into the connection's **send buffer**
+- TCP will grab chunks of data from time to time from the buffer and pass it to the network layer
+- This time is not specified by the TCP and can be done at the convenience of the protocol
+
+**Maximum segment size (MSS)** - The max amount of data that can be grabbed and placed in a segment
+- Regulated by the the **maximum transmission unit (MTU)** 
+	- The length of the largest link-layer frame that can be sent by the local sending host
+- Ensures that the TCP segment plus the TCP/IP header length will fit into a **single** link-layer frame
+- The maximum amount of *application-layer data in a segment*, **NOT** the max length of the segment
+
+```ad-note
+color: 255, 255, 0
+Both Ethernet and PPP link-layer protocols have an MTU of 1,500 bytes.
+- **MSS is typically 1460 bytes because of this**
+```
+
+**TCP segments** are a combination of a chunk of client data with a TCP header
+- Passed down tot he network layer
+- Encapsulated within a network-layer IP datagram separately
+
+When a segment is received, it is placed within a **receive buffer**
+- Applications reads the steam of data form this buffer
+- Each side of the connection has their own send and receive buffer
+
+![[Pasted image 20230609094546.png]]
+
+## 3.5.2 - TCP Segment Structure
+
+
+
+
 
 
 

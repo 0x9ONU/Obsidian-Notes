@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +185,10 @@
   },
   "active": "ef9f3412ebc580ce",
   "lastOpenFiles": [
+    "Pasted image 20230609094546.png",
+    "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
+    "Summer Research/Networks/Chapter 3 - Transport Layer.md",
+    "Untitled.md",
     "Pasted image 20230608175125.png",
     "Pasted image 20230608175041.png",
     "Pasted image 20230608175028.png",
@@ -196,10 +199,7 @@
     "Pasted image 20230608161416.png",
     "Pasted image 20230608145746.png",
     "Pasted image 20230608143757.png",
-    "Pasted image 20230608142933.png",
     "Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
-    "Summer Research/Networks/Chapter 3 - Transport Layer.md",
-    "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
     "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
     "Summer Research/Machine Learning/Images",
     "Calculus 2/6.7 - Hyberbolic Functions/USE LATER.md",
@@ -230,7 +230,6 @@
     "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 2.md",
     "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
     "Programming 2/Week 11/Programming 2 Week 11 - Day 3.md",
-    "Interactive Fiction/Week 11/Interactive Fiction Week 11 - Day 3.md",
-    "Foundations of Design 2/Week 11/FOD 2 Week 11 - Day 3.md"
+    "Interactive Fiction/Week 11/Interactive Fiction Week 11 - Day 3.md"
   ]
 }
