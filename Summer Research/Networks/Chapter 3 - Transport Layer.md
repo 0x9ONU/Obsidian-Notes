@@ -1070,6 +1070,8 @@ TCP views data as an unstructured, but ordered, steam of bytes.
 **The acknowledgment number** is based on the sequence number of the next byte one host is expecting from the other host
 - If a host got all the bytes numbered 0-535 from the other host, it puts 536 in the acknowledgment number field
 
+![[Pasted image 20230609115655.png]]
+
 **Cumulative acknowledgments** is a service provided by TCP where it only acknowledges bytes up tot he first missing byte in the steam
 - If host got all the bytes numbered 0-535 and 900-1000, it puts 536 in the acknowledgment field to to attempt to re-create the other host's data stream
 
@@ -1078,6 +1080,27 @@ What happens when bytes are received out of order?:
 - The choice is up to the programmers implementing TCP to decide. They have two options:
 1. The receiver immediately discards out-of-order segments
 2. The receiver keeps the out-of-order bytes and waits fort the missing bytes to fill in the gaps (==most common==)
+```
+
+```ad-important
+The intial sequence number is *randomly choosen* and will not always start with 0
+- to prevent confusion with a segment that is still present int he network from earlier
+```
+
+### Telnet: A Case Study for Sequence and Acknowledgment Numbers
+
+Telnet is a popular application-layer protocol used for remote login.
+- Runs over TCP
+- Designed to work between a pair of hosts
+- An interactive application that does not do bulk transfers of data
+
+```ad-example
+title: Telnet Overview
+- Host A initiates a Telnet session wtih Host B
+	- Host A is the client, Host B is the server
+- Each character typed by the client willb e sent to the remote host
+- The remote host will send back a copy of each character, which will be dispalyed on the user's screen
+- This means that for every character that shows up on the user's screen has already traversed the network twice 
 ```
 
 
