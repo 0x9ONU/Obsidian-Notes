@@ -1002,13 +1002,45 @@ title: Sequence Number Field and Acknowledgment Number Field
 ```ad-summary
 title: Receive Window
 color: 255, 255, 0
-16-bit field usd for flow control. Indicates the number of bytes that **a recever is willing to accept.**
+16-bit field userd for flow control. Indicates the number of bytes that **a recever is willing to accept.**
 ```
 
 ```ad-summary
 title: Options Field
+color: 234, 234, 200
+Optional and variable-length that is used when a sender and receiver negotiate: 
+- the MSS
+- The window scaling factor
+- Time-stamping option
+
 ```
 
+```ad-summary
+title: Flag Field
+color: 230, 100, 100
+Contains 8 bits that all have a special function:
+- ACK  
+	- Used to indicate that the value carried in the acknowledgment field is valid
+- RST
+	- Connection setup and teardown
+- SYN
+	- Connection setup and teardown
+- FIN
+	- Connection setup and teardown
+- CWR
+	- Congestion notification
+- ECE
+	- Explicit congestion notification
+- PSH
+	- Indicates that the receiver shoudl pass the data to the upper layer immediately
+- URG
+	- Used to indicate that there is data in this segment that the sendingpside upper-layer entity has marked as **"urgent"**
+```
+
+```ad-summary
+title: Urgent Data Pointer Field
+color: 
+```
 
 
 
