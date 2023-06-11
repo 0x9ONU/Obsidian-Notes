@@ -554,7 +554,7 @@ Could run into a infinite pass back and forth as the receiver could also receive
 ```ad-note
 title: Possible Solution 2
 color: 255, 255, 0
-To add enough checksum bits to allow the sender not only to detect, but recover from, but errors.
+To add enough checksum bits to allow the sender not only to detect, but recover from, bit errors.
 - Solves the problem for a channel taht can corrupt packets but not lose them
 ```
 
