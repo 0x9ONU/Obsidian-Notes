@@ -972,7 +972,7 @@ Both Ethernet and PPP link-layer protocols have an MTU of 1,500 bytes.
 ```
 
 **TCP segments** are a combination of a chunk of client data with a TCP header
-- Passed down tot he network layer
+- Passed down to the network layer
 - Encapsulated within a network-layer IP datagram separately
 
 When a segment is received, it is placed within a **receive buffer**
@@ -1072,14 +1072,14 @@ TCP views data as an unstructured, but ordered, steam of bytes.
 
 ![[Pasted image 20230609115655.png]]
 
-**Cumulative acknowledgments** is a service provided by TCP where it only acknowledges bytes up tot he first missing byte in the steam
+**Cumulative acknowledgments** is a service provided by TCP where it only acknowledges bytes up to the first missing byte in the stream
 - If host got all the bytes numbered 0-535 and 900-1000, it puts 536 in the acknowledgment field to to attempt to re-create the other host's data stream
 
 ```ad-note
 What happens when bytes are received out of order?:
 - The choice is up to the programmers implementing TCP to decide. They have two options:
 1. The receiver immediately discards out-of-order segments
-2. The receiver keeps the out-of-order bytes and waits fort the missing bytes to fill in the gaps (==most common==)
+2. The receiver keeps the out-of-order bytes and waits for the missing bytes to fill in the gaps (==most common==)
 ```
 
 ```ad-important
@@ -1103,11 +1103,94 @@ title: Telnet Overview
 - This means that for every character that shows up on the user's screen has already traversed the network twice 
 ```
 
+![[Pasted image 20230611112100.png]]
+
+The first segment:
+- Contains the 1-byte ASCII representation of the letter 'C' in its data field.
+- Has a 42 in its sequence number field and a 79 as it has not sent or received any data yet
+	- These two values were chosen at random
+
+The second segment:
+- Sent from the sever back to the client
+- It serves two purposes:
+	- provides an acknowledgment of the data the server has received
+		- Done by putting a 43 in the ACK field on returning to show that byte 42 **has been received**
+	- Echo back the letter 'C'
+- Still has the sequence number of 79 to show that this is the first time the server sent a byte back tot he client
+
+```ad-note
+The acknowledgment for client-to-server data is carreid in a segment carrying server-to-client data is known to be **piggybacked**
+```
+
+The third segment:
+- Sent from the client to the server to acknowledge the data it has received from the server
+- The segment has an empty data field
+	- the acknowledgment that it is not being piggybacked with any client-to-sever data
+- Has 80 in the acknowledgment number field
+	- The client has received the stream of bytes up through byte sequence number 79 and is now waiting for bytes 80 and onward
+
+## 3.5.3  - Round-Trip Time Estimation and Timeout
+
+TCP utilizes a timeout/retransmit mechanism to recover form lost segments
+
+```ad-warning
+This seems simple enough; however, when it is used in a real protocol, some questions arise:
+- How should the round-trip time (RTT) should be measured?
+- How much extra time should be added to the RTT?
+- Should a timer be associated withe ach and everyunacknowledged segment?
+```
+
+### Estimating the Round-Trip Time
+
+``SampleRTT`` for a segment is the amount of time between when the segment is sent and when an acknowledgment for the segment is received:
+- Most TCP implementations only take one ``SampleRTT`` measurement at a time.
+	- Is being estimated for only one of the transmitted but currently unacknowledged segments
+- ``SampleRTT`` changes approximately once every RTT
+- **NEVER** computes for a segment that has been retransmitted
+- Fluctuates based on congestion on the routers and loads on the end systems
+
+**EstimatedRTT**: A weighted combination of the previous value of **Estimated RTT** and the new value for **SampleRTT**
+
+$$ EstimatedRTT = (1 - α)EstiamtedRTT + αSampleRTT$$
+
+```ad-note
+α is typically chosen to be $α = 0.125 = \frac{1}{8}$
+```
+
+```ad-important
+Due to how the formula works, it puts **more weight** on the **recent samples**
+- Known as **exponential weighted moving average (EWMA)** in statistics
+```
+
+**DevRTT**: Used to estimated the variability of the RTT between ``SampleRTT`` and the ``EstimatedRTT``
+
+$$DevRTT = (1- β)DevRTT + β|SampleRTT - EstimatedRTT|$$
+
+```ad-note
+color: 0, 255,255
+β is typically set to 0.25
+```
+
+![[Pasted image 20230611115502.png]]
+
+### Setting and Managing the Retransmission Timeout Interval
 
 
+```ad-summary
+Due to the retransmission time should be greater than or equal to the ``EstimatedRTT`` while not being greater AND the variability of the ``SampleRTT`` values affecting the amount of margin given, thus `DevRTT` should be utilized
 
+```
 
+The formula for the timeout interval thus uses both values and is given below:
 
+$$TimeoutInterval = EstimatedRTT + 4DevRTT$$
+
+```ad-note
+- Typically, an inital ``timeout interval`` is set to a value of 1 second
+- Is doubled everytime a timeout does occur until a segment is received again
+```
+
+## 3.5.4 - Reliable Data Transfer
 
 
 
