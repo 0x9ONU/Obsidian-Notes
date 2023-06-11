@@ -1334,7 +1334,7 @@ The sender can detect packet loss before the timeout event by noting ***duplicat
 - An ACK that re-acknowledges a segment for which the sender has already received from an earlier acknowledgment
 - This can be used due to how a TCP receiver sends duplicate ACKs
 
-#### TCP ACk Generation Recommendation
+#### TCP ACK Generation Recommendation
 
 | Event                                                                                                                   | TCP Receiver Action                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1344,5 +1344,64 @@ The sender can detect packet loss before the timeout event by noting ***duplicat
 | Arrival of segment that partially or completely fills in gap in received data.                                          | Immediately send ACK, provided that segments starts at the lower end of gap.                                                                                                                                               |
 
 #### Fast Retransmit Continued
+
+When the TCP receives gets a sequence number that is larger than expected, it detects a gap in the data steam
+- It sends back the last in-order byte of the data it has received (Row 3 on the table)
+
+
+```ad-important
+The TCP sender will perform a **fast retransmit**, which sends the missing segmetn *before* theat segment's timer expieres **if:**
+- the sender receives **three** duplicate ACKs for the same data
+	- it realizes that the segment following the segment that has been ACKed three times has been lost
+- ![[Pasted image 20230611132111.png]]
+```
+
+
+
+Fast retransmit is implemented by replacing the following code snippet with with the ACK received event:
+
+```c
+event: //ACk rec3eived, wtih ACK field value of y
+	if (y > SendBase) {
+		SendBase = y 
+		if (//there are currently any not yet acknowledged segments) {
+			//start timer
+		}
+	}
+	else { 	//A duplicate ACK for already ACKed segment
+		//increment number of duplicate ACKs receive for y
+		if (//number of duplicate ACKs received for y == 3) {
+			//TCP fsat retransmit
+			//resend segmetn with sequence number y
+		}
+	}
+	break;
+
+```
+
+```ad-note
+This issue was found by implemtning the actual protocol and finding a solution to the problem caused
+```
+
+### Go-Back-N or Selective Repeat?
+
+Due to the following, TCP looks a lot like a GBN-style protocol:
+- TCP ACKS are cumulative
+- Correctly received but out-of-order segments are *not* individually ACKed by the receiver
+- TCP only has to keep track of the smallest sequence number of a transmitted but unacknowledged byte ``SendBase`` and the sequence number of the next byte to be sent (`NextSeqNum`)
+
+However, TCP also looks like a Selective Repeat as:
+- It will buffer correctly received but out-of-order segments
+- Only retransmits the gap in the ACKs and not all subsequent packets
+- Would not transmit a segment if a higher number ACK has already been received
+
+**Selective Acknowledgment** - Allows a TCP receiver to acknowledge out-of-order segments *selectively* rather than just acknowledging the last correctly received, in-order segment
+- This makes TCP look a lot like a generic SR protocol
+
+```ad-important
+Due to this, TCP's error-recovery mechanism is best categorized as a hybrid of GBN and SR protocols
+```
+
+## 3.5.5 - Flow Control
 
 
