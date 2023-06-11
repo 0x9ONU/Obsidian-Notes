@@ -1192,11 +1192,157 @@ $$TimeoutInterval = EstimatedRTT + 4DevRTT$$
 
 ## 3.5.4 - Reliable Data Transfer
 
+Due to IP services' unreliability as it does not guarantee datagram delivery in order or at all: transport-layer segments can suffer from these problems as well.
+
+TCP utilizes a **reliable data transfer service** on top of IP's unreliable best-effort service and ensures that the data steam:
+- Uncorrupted
+- Without gaps
+- Without duplication
+- In sequence
+	- The byte steam is exactly the same byte stream that was sent by the end system on the other side of the connection
+
+```ad-important
+Even though it would be better to run mutiple timers per transmitted and not yet acknoledged segment, it is commonly recommended that TCP runs off of a *single* retransmission timer due to timer management having large overhead
+```
+
+### Simplified description of a TCP sender
+
+- Uses timeouts to recover only from lost segments
+- Only sent in one direction
+	- From Host A to B and A is sending a *large* file
+
+```ad-note
+There are three major events related to dtata transmission and retransmission here:
+- Data received from appliaiton above
+- Timer timeout
+- ACK receipt
+```
+
+```c
+/*Assume sender is not constrainted by TCp flow or congestion control, that data from above is less than MSS in size, and that data transfer is in one direction only.*/
+
+NextSeqNum = Initial SeqNumber
+SendBase = IntiialSeqNumber
+
+loop (forever) {
+	switch(event) {
+		event: //data received from application above
+			//create TCP segmetn with sequence number NextSeqNum
+			if (//timer currently not running) {
+				//start timer
+			}
+			//pass segmetn to IP
+			NextSeqNum = NextSeqNum + length(data)
+			break;
+		event: //timer timeout
+			//retransmit not-yet-acknowledged segment with smallest sequence number
+			//start timer
+			break;
+		event: //ACK received, wth ACK field value of Y
+			if (y > SendBase) {
+				SendBase = y
+				if (//there are currenlty any not-yetacknowledged segments) {
+				//start timer
+				}
+			}
+			break;
+	}
+}
+```
+
+```ad-summary
+title: First Major event: Data received from application above
+- TCp receives data from applciation
+- ecnapsulates the data in a segment
+- passes the segment to IP
+```ad-note
+- Every segment includes a sequence number that is the byte-stream number of the first data byte int he segment
+- The timer is arleady not running for another segment, it starts the timer when the segment is passed to IP
+```
+
+```ad-summary
+color: 234, 180, 234
+title: Second Major Event: Timer Timeout
+TCP responds to the timeotu event by retransmitting the segmetn that caused the timeout and restarts the timer
+```
+
+```ad-summary
+color: 200, 200, 200
+title: Third Major Event: ACK Receipt
+The arrival of an ACK from the receiver
+- Handled by teh TCP sender
+- TCp compared the ACK value `y` with its variable `SendBase`
+	- if 'y' is greater than 'SendBase', the ACK is acknowledging one or more previosly unacknowledged segments
+	- Thus, the window moves to `y`
+	- It restarts the timer if there are any not-yet-acknowledged segments
+```
+
+### A Few Interesting Scenarios
+
+#### Scenario #1: Retransmission Due to Lost ACK
+
+Host B receives the data, but the ACK gets lost
+
+To solve this, the timeout event occurs, and Host A retransmits the same segment
+- Host B recognizes that it already received this sequence number and discards the segment
+- Host B retransmits the ACK back to Host A in hopes it reaches it
+
+![[Pasted image 20230611124735.png]]
+
+#### Scenario #2: Segment Not Retransmitted Due to ACK Arriving on Time
+
+When two segments are sent back to back at Host B, but the ACKs do not arrive to Host A by the timeout for Seq=92:
+- Host A resends the first segment and restarts the timer
+
+```ad-important
+As long as the ACk for the second segmetn arrives before the new timeout, the *second segment will not be retransmitted*
+```
 
 
+![[Pasted image 20230611125006.png]]
 
+#### Scenario #3: A Cumulative ACK Avoids Retransmission of the First Segment
 
+The same two segments are sent just as in Scenario #2, but The acknowledgment of the first segment is lost. However ACK number 120 arrives before the timeout
 
+```ad-important
+Because it received a later ACK, Host A knows that Host B has received *everything* up through byte 119, so Host A **DOES NOT** resend *either* of the two segments
+```
 
+![[Pasted image 20230611125412.png]]
+
+### Doubling the Timeout Interval
+
+```ad-important
+The length of the timeout interval after a timer expiration will always be **twice** the previous value rather than using the formula
+- Grows exponentially
+- Resets back to normal once data is received from the applciation above OR an ACk is received
+```
+
+This provides a limited form of congestion control:
+- Timer expiration may be caused by congestion in the network
+- TCP retransmits after longer and longer intervals to prevent the congestion from getting worse
+
+### Fast Retransmit
+
+```ad-warning
+Timeout-triggered retransmissions can become relatively long
+- Increases end-to-end delay
+```
+
+The sender can detect packet loss before the timeout event by noting ***duplicate ACKs***
+- An ACK that re-acknowledges a segment for which the sender has already received from an earlier acknowledgment
+- This can be used due to how a TCP receiver sends duplicate ACKs
+
+#### TCP ACk Generation Recommendation
+
+| Event                                                                                                                   | TCP Receiver Action                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arrival of in-order segment with expected sequence number. All data up to expected sequence number already acknowledged | Delay ACK. Wait up to 500 msec for arrival of another in-order segment. If next in-order segment does not arrive in this interval, send an ACK |
+| Arrival of in-order segment with expected sequence number. One other in-order segment waiting for ACK transmission      | Immediately send single cumulative ack, ACKing both in-order segments.                                                                         |
+| Arrival of out-of-order segment with higher-than-expected sequence number. Gap detected.                                | Immediately send duplicate ACK, indicating sequence number of next expected byte (which is lower end of the gap).                              |
+| Arrival of segment that partially or completely fills in gap in received data.                                          | Immediately send ACK, provided that segments starts at the lower end of gap.                                                                                                                                               |
+
+#### Fast Retransmit Continued
 
 
