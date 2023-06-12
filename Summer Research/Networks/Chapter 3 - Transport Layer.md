@@ -1404,4 +1404,12 @@ Due to this, TCP's error-recovery mechanism is best categorized as a hybrid of G
 
 ## 3.5.5 - Flow Control
 
+```ad-warning
+If an application is slow at reading incoming data, the sender can easily overflow the connection's receive buffer by sending too much data too quickly
+```
+
+**Flow-control service** - A speed-matching service that matches the rate at which the sender is sending against the rate at which the receiving application is reading.
+- *Not* to be confused with **congestion control**
+
+
 
