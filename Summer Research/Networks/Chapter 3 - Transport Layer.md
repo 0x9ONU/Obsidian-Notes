@@ -1411,5 +1411,56 @@ If an application is slow at reading incoming data, the sender can easily overfl
 **Flow-control service** - A speed-matching service that matches the rate at which the sender is sending against the rate at which the receiving application is reading.
 - *Not* to be confused with **congestion control**
 
+**Receive Window** - How TCP maintains flow control by giving the sender an idea of how much free buffer space is available at the receiver.
+- Because TCP is duplex, each side of the connection has their own sender with a receive window
+
+```ad-example
+title: Example: Receive Window with File Transfer (HOST B)
+Host A is sending a large file to Host B over TCP:
+- Host B allocate a receive buffer to the connection,denoting its size with `RcvBuffer`
+- The Application then defines two more variables:
+	- `LastByteRead` - the number of the last byte in the data stream *read from the buffer by the application process*
+	- 'LastByteRcvd' - the number of the last byte in the data stream that has *arrived form the network* and placed int he receive buffer 
+- ![[Pasted image 20230612111009.png]]
+```ad-note
+Because TCP is not permitted to overflow the allocated buffer:
+- `LastByteRcvd` $-$ `LastByteRead` $\le$ `RcvBuffer`
+```
+
+```ad-important
+The receive window **is set to the amount of spare room in the buffer**:
+- `rwnd` $=$ `RcvBuffer` $-$ [`LastByteRcvd` $-$ `LastByteRead`]
+- Thus, this spare room is dynamic and changes with time
+```
+
+Thus, Host B is able to tell Host A how much spare room it has in the connection buffer by placing the value of `rwnd` in the receive window field of every segment it sends to A.
+
+
+```ad-example
+title: Example: Receive Window with File Transfer (HOST A)
+Host A keeps track of `LastByteSent` and `LastByteAcked`
+- `LastByteSent` $-$ `LastByteAcked` is the amount of unacknowledged data that A has sent into the connection.
+
+```ad-important
+Keeping the maount of unacknowledged data less than the value of `rwnd` allows A to know it is ***not overflowing B's buffer***
+- `LastByteSent` $-$ `LastByteAcked` $\le$ `rwnd`
+```
+
+```ad-warning
+title: Problem
+When Host B's receive buffer is full (`rwnd` $= 0$) and B is not sending anything to A
+- B is not updating A with a new `rwnd` value as A is not sending any data for an ACK and B isn't sending any data
+- Host A will never be informed that some space has opened up and will stop transmitting data
+```ad-check
+title: Solution
+The TCP specification requires HOst A to contineu to send segmetns with one data byte:
+- B will acknowledge these and send back ACKs until eventually `rwnd` $\ne 0$
+```
+
+
+
+
+
+
 
 
