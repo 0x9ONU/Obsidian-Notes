@@ -1562,3 +1562,4 @@ The three outcomes of a SYN packet
 	- The SYN segmetnw as blocked by an intervening firewall and never reached the target host
 ```
 
+	
