@@ -1457,10 +1457,108 @@ The TCP specification requires HOst A to contineu to send segmetns with one data
 - B will acknowledge these and send back ACKs until eventually `rwnd` $\ne 0$
 ```
 
+## 3.5.6 - TCP Connection Management
 
+Important for the following reasons:
+- Can add to perceived delays
+- Most common network attacks exploit vulnerabilities in TCP connection management
 
+### Opening a Connection
 
+When a client wants to connect to a server, the following steps happen:
 
+```ad-summary
+title: Step 1: The Client-Side TCP Sends the **SYN Segment** to the Server-Side TCP
+- The special segment contians no applicaiton-layer data
+- One of the flag bits **SYN** is set to 1.
+- The client chooses a random intial sequence number (`client_isn`)
+	- This number is put into the seqeunce number field  of the intial TCP SYN segment
+```
 
+```ad-summary
+title: Step 2: The Server-Side TCP sends the SYNACK segment to the Client-Side TCP
+color: 234, 180, 234
+- The server receives the SYN segment
+- Allocates the TCP buffers and variables for the connection
+- Creates a connection-granted segment to be sent back to the client TCP
+- Contains the following:
+	- No Application Data
+	- SYN bit is set to 1
+	- The acknowledgment field is set to `client_isn` $+1$
+	- A random intial sequence number (`server-isn`) into the sequence nubmer field
+- This segment is going to tell the client "I received your SYN packet to start a conneciton with your intial sequence number, `client_isn`. I agree to establish this connection. My own intial sequence nubmer is `server_isn`."
+```
 
+```ad-summary
+title: Step 3: The Final Segment of the Three-Way Handshake
+color: 220, 220, 220
+After receiving the SYNACK segment:
+- The client allocates buffers and varaibles to the connection
+- Creates a new segment with an ACK number of `server_isn` $+1$ 
+- SYN bit is set to zero, symbolizing that the conneciton is established
+- This segment *may* have a segment payload unlike the previous two segments
+```
+
+![[Pasted image 20230612115910.png]]
+
+This procedure above is referred to as the **three-way handshake**
+
+### Closing a Connection
+
+When either of the two processes on either end system decide to close the connection:
+- The resources allocated by the hosts are deallocated back into the resources to be used by a different connection
+
+```ad-summary
+color: 255, 255, 0
+- One side of the connection sends a FIN segment (where the segmetn has the FIN bit set to 1) to the other host
+- The other host returns an ACk of the FIN segment in return
+- Then, the other host sends its own FIN segment to the client
+- The original host sends back an ACK to the other host
+- This closes both sides of the connection and all resources are reallocated
+```
+
+### TCP States
+
+The TCP protocol running on each host transitions through different states as it goes through its life
+
+#### Client TCP States
+
+- Starts in the CLOSED state
+- The application creates a new TCP connection and Socket to go with it
+- The client sends a SYN segment tot he TCP server (SYN_SENT)
+	- Waits for a segment from the server TCP that includes a SYNACK segment
+- After receiving the SYNACK segment, the client moves to the ESTABLISHED state
+	- It an send and receive TCP segments containing payload data
+- The Client TCP sends a FIN segment to the server and moves to FIN_WAIT_1
+	- It awaits the TCP FINACK segment from the server
+- It moves to the FIN_WAIT_2 state after receiving the ACK
+	- It awaits for a FIN segment from the server
+- It then moves to the TIME_WAIT state 
+	- Sends an ACK back to the server
+	- Waits 30 seconds for 2 minutes and then deallocates allt he resources
+
+![[Pasted image 20230612120537.png]]
+
+#### Server-Side TCP
+
+![[Pasted image 20230612121054.png]]
+
+#### Sever-Side TCP Receiving Wrong SYN Segment
+
+Happens when a host receives a SYN packet with an incorrect source IP address or port number
+
+```ad-important
+The host will then send a RST segment back to the source
+- It tells the host that "I do not have a socket for that segment. Please do not resend the segmetn"
+```
+
+```ad-example
+The three outcomes of a SYN packet
+- The source host receives a TCP SYNACK segment form the target host
+	- The two hosts are able to start communicating with each other
+- The source host receives a TCP RST segment fromt eh target host
+	- The segment reached the target host, but the target host is not running the process and tells the host to stop sending SYN packets to this address and port number
+- The soruce receives nothing
+	- The SYN segmetnw as blocked by an intervening firewall and never reached the target host
+```
 
