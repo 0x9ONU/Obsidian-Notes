@@ -679,5 +679,54 @@ In many cases, the detection of an adversary on your netowrk will be earlier in 
 
 ## Threat Intelligence
 
+A set of actions taken to properly utilize resources to target the actual threats an enterprise is facing
+- Done as not a single firm has the resources to protect everything against all threats
+- Actionable information about malicious actors and their tools, infrastructure, and methods
+
+```ad-example
+title: Examples of Threat Intelligence
+Evidence-based information where the following is known about a specific hard on the system:
+- contest
+- meachanisms
+- ndicators
+- implications associated
+```
+
+This information can be then acted upon when necessary
+
+Threat intelligence is the basis of understanding **tactics, techniques, and procedures (TTPs)**
+
+Can be broken down into three types:
+- **Strategic** - Broader trends typically meant for a nontechnical audience
+- **Tactical** - Outlines of the tactics, techniques, and procedures of threat actors for a more technical audience
+- **Operational** Technical details about specific attacks and campaigns
+
+Two of the largest types of threat intelligence agencies today are the **Information Sharing and Analysis Centers (ISACs)** and **Information Sharing and Analysis Organizations (ISAOs)**
+- They share crucial information across firms
+
+## Open Source Intelligence (OSINT)
+
+Describes the processes used in the collection of threat intelligence information from public sources. 
+
+Can include information from:
+- New articles
+- Blogs
+- Government reports
+
+# Ethics
+
+Commonly defined as a set of moral principles that guides an individual's or group's behavior. 
+
+This trust is built around the foundation of security organizations as revealing truths could be catastrophic.
+- This trust is also built of the code of ethics created
+
+It is often the most difficult as a single issue can be taken multiple ways
+
+```ad-example
+Is writing a worm that goes out and patches systems without the users' persmission right or wrong?
+- There is no correct answer as it changes based on the user's interpretation
+```
+
+
 
 
