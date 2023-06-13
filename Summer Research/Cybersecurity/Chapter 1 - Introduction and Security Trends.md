@@ -214,7 +214,7 @@ Over 30,000 computers were shut down due to a malware attack at an oil firm in S
 
 ### Data Breaches (2013-Present)
 
-
+Many different data breaches have been happening in the current 
 
 
 
