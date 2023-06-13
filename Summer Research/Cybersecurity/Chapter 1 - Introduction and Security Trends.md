@@ -410,8 +410,29 @@ Edward Snowden was charged with espionage in 2013
 
 ## Criminal Organizations
 
+Due to the amount of financial traffic that was moved to the Internet, criminal organizations have turned to doing their business online, which includes:
+- Fraud
+- Extortion
+- Theft
+- Embezzlement
+- Forgery
 
+Criminals utilize the following to their advantage over average hackers:
+- More money to spend on accomplishing their goals
+- Spend extra time accomplishing the task
+- The level of reward of a successful attack is much higher
 
+**Structured Threat** - Characterized by a greater amount of planning, a longer period of time to conduct the activity, more financial backing to accomplish it, and possible corruption of, or collusion with, insiders.
+- Criminal Organizations fall under this tier
+- 
+
+## Nation-States, Terrorists, and Information Warfare
+
+Essential elements of society have become targeted by other organizations or nations as computer systems are needed to run info structure today.
+
+**Information Warfare** - Warfare conducted against the information and information processing equipment used by an adversary.
+- Many nations have developed some capability to do so
+- The information gained from the target may also be used as a weapon against them
 
 
 
