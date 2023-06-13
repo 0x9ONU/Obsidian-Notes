@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +185,11 @@
   },
   "active": "ef9f3412ebc580ce",
   "lastOpenFiles": [
-    "Summer Research/Networks/Chapter 3 - Transport Layer.md",
+    "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
     "Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
+    "Summer Research/Cybersecurity/Images",
+    "Summer Research/Cybersecurity/Images/Pasted image 20230613113259.png",
+    "Summer Research/Networks/Chapter 3 - Transport Layer.md",
     "Summer Research/Networks/Images/Pasted image 20230607171634.png",
     "Summer Research/Networks/Images/Pasted image 20230607175636.png",
     "Summer Research/Networks/Images/Pasted image 20230612121054.png",
@@ -197,9 +199,7 @@
     "Summer Research/Networks/Images/Pasted image 20230612111009.png",
     "Summer Research/Networks/Images/Pasted image 20230611132111.png",
     "Summer Research/Networks/Images/Pasted image 20230611125412.png",
-    "Summer Research/Networks/Images/Pasted image 20230611125006.png",
     "Untitled.md",
-    "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
     "Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
     "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
     "Summer Research/Machine Learning/Images",
@@ -222,7 +222,6 @@
     "Digital Logic/Lab 13/Lab 13 Notes.md",
     "conflict-files-obsidian-git.md",
     "Interactive Fiction/Programming - Final's Study Guide.md",
-    "Foundations of Design 2/Miscellaneous",
     "Digital Logic/Evan's Fellowship Small Essay.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 3.md",
     "Foundations of Design 2/Week 14/FOD 2 Week 14 - Day 1.md",
@@ -230,7 +229,6 @@
     "Digital Logic/Lab 11/Lab 11 Tables and Diagrams.md",
     "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 2.md",
     "Calculus 2/6.6 - Inverse Trig Functions/6.6 - Day 1.md",
-    "Programming 2/Week 11/Programming 2 Week 11 - Day 3.md",
-    "Interactive Fiction/Week 11/Interactive Fiction Week 11 - Day 3.md"
+    "Programming 2/Week 11/Programming 2 Week 11 - Day 3.md"
   ]
 }

@@ -320,6 +320,98 @@ These threats can be broken down into multiple categories:
 
 ## Viruses and Worms
 
+An organization is often exposed to viruses and worms as a result of employees not following certain practices or procedures rather then them writing or releasing them.
+
+```ad-important
+*Writing* and *releasing* viruses are **different** ethically. Writing a virus is not considered criminal activity and only becomes illegal when released
+```
+
+```ad-note
+Viruses and Worms are just two types of threats that fall underneath the *malware* umbrella. 
+- Malware is software that has a nefarious nprupose that is designed to cause problems to a person or a system.
+```
+
+They are the most common problem faced by organizations because of the thousands that have been created and released.
+- A good antivirus software and consistent system patching can eliminate a large portion of these threats.
+
+Viruses and worms are *nondiscriminating threats*
+- Released on the Internet in a general fashion and aren't targeted at a specific organization
+- Highly visible when released, so they are not good for highly structured attacks
+
+## Intruders
+
+**Hacking** - The act of deliberately accessing computer systems and networks without authorization or exceeding one's authority in the system
+- A patient game as the process to gain access to a system takes persistence and dogged determination
+- Often does many pre-attack activities to determine enough information to know whether or not the attack will be successful or not.
+
+```ad-summary
+###### Unstructured Threats:
+- Attacks by a single individual or a small group of attackers
+- Conducted over a short period of time
+- Do not have large number of individuals
+- Have little financial backing
+- Accomplished by insiders or outsiders who do ont seek collusion with insiders
+```
+
+### Levels of Computer Intruders
+
+```ad-note
+title: The Low End: **Script Kiddies**
+Individuals who do not have the technical expertise to develop scripts or discover new vulnerabilites, but do have enough comptuer system understanding to utilized scripts that others have made
+- Not interested in attacking specific targets
+- Want to find any organization that may not have patched a newly discovered vulnerability and exploit it
+- The most common type of hacker
+```
+
+```ad-note
+color: 255, 255, 0
+title: The Middle: Script Writers
+The individuals who are capable of writing scripts to exploit known vulnerabilites
+- Much more technically competent that script kiddies
+- Directly cause around 8 to 12 percent of malcious Internet activity
+```
+
+```ad-note
+title: The top 1%: Elite Hackers
+Have the ability to wite scripts as well as **discovering new vulnerabilities**
+- Smallest of all the groups
+- Responsible for only 1 to 2 percent of intrusive activity
+```
+
+![[Pasted image 20230613113259.png]]
+
+## Insiders
+
+These people have the access and knowledge necessary to cause immediate damage to an organization
+- More dangerous than outside intruders
+- Most security is designed around to stop outside intruders and often cannot detect insiders
+- Often have enough access to commit fraud
+- Also know about the security systems in place and can avoid detection easier because of this
+- Can be done on purpose or on accident
+	- An employee might become angry at their employer and want to cause mayhem
+	- An employee unknowingly might delete a critical file without realizing their actions
+
+```ad-example
+U.S Army soldier Chelsea Manning funneled classifeid documents to WikiLeaks in 2010
+- Included over a quarter of a million diplomatic cables
+- Was arrested and convicted
+- This damage is still on going with international relations today
+```
+
+Custodial crews of have physical unescorted access to facilities when no one else is around and can often be insiders.
+
+Contractors and partners might have direct access to computer systems and networks.
+
+```ad-example
+Edward Snowden was charged with espionage in 2013
+- Released a wide range of data illustrating the technical capabilities of U.S. Intellgience surveillance systems.
+- One of the greatest insiders of all time
+```
+
+## Criminal Organizations
+
+
+
 
 
 
