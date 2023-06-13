@@ -433,8 +433,30 @@ Essential elements of society have become targeted by other organizations or nat
 **Information Warfare** - Warfare conducted against the information and information processing equipment used by an adversary.
 - Many nations have developed some capability to do so
 - The information gained from the target may also be used as a weapon against them
+- Often backed by nation-states
 
+```ad-summary
+##### Highly Structured Threat
+Characterized the following:
+- Much longer period of prepartion (up to many years)
+- Temendous financial backing
+- A large and organized group of attackers
+- May include attempts to subvert or plant individuals to create insiders
+- Information warfare falls into this category
+```
 
+```ad-note
+Unlike actual warfare, **critical infostructure** that is needed for daily life is also targeted:
+- Water
+- Electrcity
+- Oil and Gas refineries
+- Banking and finance
+- Telecommunications
+```
+
+## Brand-Name Attacks
+
+Numerous firms that sells exploits, kits, vulnerabilities, and other malicious items online
 
 
 
