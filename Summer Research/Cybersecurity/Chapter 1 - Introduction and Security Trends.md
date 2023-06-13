@@ -311,6 +311,17 @@ Utilized other hacking techniques other than malware to get into these hosts' co
 
 Organizations now how to face new network threats that they did not have to worry about 50 years ago
 
+These threats can be broken down into multiple categories:
+- Outside or Internal Threats
+- Level of Experience
+	- Script kiddies to elite hackers
+- Level of organization
+	- Unstructured threats to highly structured threats
+
+## Viruses and Worms
+
+
+
 
 
 
