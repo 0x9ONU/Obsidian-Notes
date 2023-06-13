@@ -214,7 +214,104 @@ Over 30,000 computers were shut down due to a malware attack at an oil firm in S
 
 ### Data Breaches (2013-Present)
 
-Many different data breaches have been happening in the current 
+Many different data breaches have been happening in the current security landscape:
+- Target had a breach in mid-December 2013 that captured names, addresses, and debit and credit card details of 70 million users
+- Home Depot had a breach of 50 million shortly afterwards
+- JPMorgan Chase had a breach of 77 million account holders' information
+	- Did not lose account numbers this time fortunately
+- Sony Pictures Entertainment got breached in 2014, loosing 100 terabytes of data 
+	- Assigned to North Korean's APT team called the Lazarus Group
+- Yahoo! lost 3 billion users accounts representing 500 million users which included many private details of the customers
+	- There evaluation dropped from $4.4 billion to only $400 million after the breach
+
+### Nation-State Hacking (2013-Present)
+
+The concern from large countries attacking each other has become real since firms such as CrowdStrike exposed hacking actors in China, Russia, and other countries
+
+```ad-note 
+Attribution for certain hacks is often diffciult and comes down to only small clues like the timelines of command-and-control servers
+- This is how Energetic Bear was attributed
+```
+
+The Regin platform has been known to be in operation for over a decade and has attacked many different government bodies
+- Strong as its stealth, complexity, and ability to hide its command-and-control networks
+
+Sandworm, a Russian hacking group, has been attributed to launching attacks against Ukrainian's electrical grid
+
+NotPetya, another Russian group, did the same to Europe, the US, and many other countries
+
+The US Office of Personal Management lost over 20 millions sensitive files in 2015
+- Supposedly to China
+- The data included complete background investigations on peoples who had submitted security clearances
+
+The Department of State, the Department of Defense, and the White House had their emails completely compromised by bad hackers
+- Included nuclear negotiations in Switzerland between the U.S, its allies, and Iran
+
+## Infrastructure Attacks
+
+In general, the issue of infrastructures controlled by computer systems is that they are vulnerable to attack 
+
+### Ukraine Electric Grid
+
+On December 23, 2015, Ukraine was the target of the first known successful cyberattack against an electric grid that caused:
+- Temporary disruption to customers of three energy distribution companies
+	- Manual operation of the grid helped the electricity get back faster
+- Damaged equipment and operations
+	- Took over a year to fully replace
+
+The attack took over 9 months from the initial phishing attack to the shut down
+- Attributed to Russia due to it using the BlackEnergy3 malware created by the Sandworm group
+
+### Safety Instrumentation System Attack (TRITON)
+
+A new form of malware that attacked a Saudi Arabian petrochemcial plant:
+- Targeted the plant's safety instrumentation systems, which did nothing until something goes wrong and lives and property may be at stake
+- Showed that certain groups of people are willing to break property and hurt people through cyberattacks
+
+## Ransomware
+
+```ad-note
+Ransomware has been in existence during the mid-to-late 1990s, but did not become relevant until recently
+```
+
+Today, it is one of the greatest threats in the cybersecurity world:
+- Steals around $1 billion a year in criminal enterprise
+
+Utilizes a hybrid encrypting scheme that locks a victim's computer files until a ransom is paid
+
+### WannaCry
+
+Was an encryption worm that hit Windows systems that had not been patched against a Server Message Block vulnerability in 2017:
+- Hit the British Nation Health Service
+	- more than 150 hospitals and 70,000 medical devices were affected for over 4 days
+- Cost nearly $4 billion in damages 
+
+### NotPetya
+
+Petya was a strain of WannaCry that utilizes some oft he same vulnerabilities that WannaCry:
+- Often used the same structures as WannaCry 
+
+NotPetya was *different* as there was **no recovery option** and the user could not pay to get their equipment back:
+- Deployed on Ukraine by Sandstorm
+- Hit other people in the wild due to it spreading like wildfire
+
+### SolarWinds Attack
+
+In late 2020, FireEye discovered that SolarWinds' product Orion had been completely compromised by an attack:
+- Passed to over 18,000 customers including those in departments of the federal government
+- Was meant to be a supply chain attack that gave backdoors to these systems
+
+```ad-note
+Utilizes AWS cloud hosting to disguise their intrusions as benign netowrk traffic.
+```
+
+Utilized other hacking techniques other than malware to get into these hosts' computers that are still being understood today.
+
+# Threats to Security
+
+Organizations now how to face new network threats that they did not have to worry about 50 years ago
+
+
 
 
 
