@@ -546,6 +546,101 @@ title: Skilled Threat Actor
 
 ```ad-example
 color: 234, 180, 234
-title
+title: APT Threat Actor
+1. The drive to maintain persistent access mechanism so that the threat actor has continued access
+2. The drive to remain undetected
+3. The network must have some very valuable to be stolen within
 ```
 
+# Security Trends
+
+In the last 30 years, computer security has been affected from the transition from large mainframes into a highly interconnected network of smaller systems.
+- This is known as the Internet and is often connected to virtually all systems
+- This has greatly complicated the jobs of security professionals
+
+```ad-important
+Electric crimes have become more focused and gained more notoriety due to there being larger and greater rewards because many financial firms are now online
+```
+
+A wide range of comptuer industry firms have begun issuing annual security reports
+
+```ad-example
+title: Verizon's Data Breach Investigations Report
+- Identifies comon detials taht reuslt in a data breach
+- Also confirms as the cybersecurity world has become more unsafe as in just 3 years, the amount of confirmed breaches increased by nearly 2000 (2017-2020)
+```
+
+# Targets and Attacks
+
+A particular system is attacked as it is either a specific target, or it is an opportunistic target
+
+## Specific Target
+
+When a target is not chosen for the hardware or software the organization is running on it, but for another reason such as a:
+- **Political Reason**
+
+```ad-example
+An individual in one country might attack a government system in another.
+```
+
+- **Hacktivist Attack**
+
+```ad-example
+color: 0, 255, 255
+
+An attacker may deface the website of a comapny that sells fur coats because the attacker feesl that using aniamls in this way is unethical
+``` 
+
+- **Electronic Fraud**
+
+```ad-important
+The software or hardware exploits that the organization might have are not choosen until one of these targets are chosen
+```
+
+
+## Opportunistic Target
+
+Choosing a target based on a site that has a software that is vulnerable to a specific exploit
+
+```ad-note
+An attacker may be given a specific sector that the exploit has to be used in
+
+```ad-example
+A hacker may want to get the credit card details, so they will use this exploit they found on different firms until one works
+```
+
+These attacks take less time as it relies on a widely distributed software that almost every computer system might have
+
+
+## Minimizing Possible Avenues of Attack
+
+Understading the steps an attacker will take helps an administrator know to limit the exposure of the systems and minimize the avenues an attack can take. Can be broken down into two main groups:
+- Patching
+- Hardening
+
+```ad-summary
+title: Patching
+color: 0, 255, 255
+
+Ensure that all patches for the operating systema nd applications are installed
+- Often, security exploits are based on known vulnerabilites for which patches exist
+- In the past, malware caused so much damage as administrators did not update their systems enough
+
+```
+
+```ad-summary
+title: Hardening
+color: 255, 255, 0
+
+Limtiing the services that are running on the system which allows a server to:
+- Limit the possible avenues of attack by reducing the number of services that may have vulnerabilities
+- It reduces the numbe rof services the administrator has to worry about patching
+```
+
+# Approaches to Computer Security
+
+There are three major considerations when securing a system:
+
+```
+title: 
+```
