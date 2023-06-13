@@ -641,6 +641,43 @@ Limtiing the services that are running on the system which allows a server to:
 
 There are three major considerations when securing a system:
 
+```ad-summary
+title: Consideration 1: Correctness
+color: 0, 234, 234
+Ensuring that a system is fully up to date, with all patches installed and proper security controls in place. 
+- Starts with a secure development lifecycle
+- Contineus through patching and hardening
+- Culminates in operations
 ```
-title: 
+
+```ad-summary
+title: Consideration 2: Isolation
+color: 240, 240, 240
+Protecting a system from unauthorized use, by means of access control and physical security.
+- Begins with infrastructure
+- Continues with access control
+- Includes use of cryptography
+
 ```
+
+```ad-summary
+title: Consideration 3: Obfuscation
+color: 234, 180, 234
+Making it difficult for an adversary to know when they have succeeded. It makes it more difficult for them to succeed in their attack
+```
+
+## Cybersecurity Kill Chain
+
+A step-by-step process that attacks follow to target and achieve results on victim systems.
+- Gives the typical steps an adversary must complete in order to achieve their objective
+
+![[Pasted image 20230613164357.png]]
+
+```ad-important
+In many cases, the detection of an adversary on your netowrk will be earlier in the kill chian process, giving a firm **an opporutnity to break the attack pattern before it is too late**
+```
+
+## Threat Intelligence
+
+
+
