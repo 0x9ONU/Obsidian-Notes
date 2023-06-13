@@ -503,8 +503,49 @@ Actors can be divided using more than just abilities as they can be divided base
 
 ## Internal/External
 
+Internal actors have direct access to the system that provides the threat actor the ability to pursue their attack
+- External actors have to establish the access to a system through an attack
 
+## Level of Sophistication
 
+Can be broken down into even smaller categories:
 
+```ad-summary
+title: Category 1: The individual Skills of Members
+A higher skilled individual is expected to lead and design attacks and move a larger number of less-skilled participants
+- As skill level goes up, they use more minimal methods
+- They save zero-days only when absolutely necessary
+- Often Relies on older attacks and vulnerabilities
+```
 
+## Resources/Funding
+
+Often, criminal organizations and nation-states have larger budgets, bigger teams, and the ability to pursue a single campaign for a longer period of time
+
+```ad-important
+The expenses associated with cybersecuirty is for the need of maintaining teams and tools used as threat actors against a system.
+```
+
+APTs are allowed to focus on a single attack for many years as they are backed by major organizations or governments who can fund these long-term resources
+
+## Intent/Motivation
+
+Intent and motivation are often connected to the level of ability and size of the organization.
+- This can change their motivation from being simple to complex
+
+```ad-example
+title: Script Kiddies
+1. Just trying to make a technique work
+```
+
+```ad-example
+color: 255, 255, 0
+title: Skilled Threat Actor
+1. Persuing a specific objective
+```
+
+```ad-example
+color: 234, 180, 234
+title
+```
 
