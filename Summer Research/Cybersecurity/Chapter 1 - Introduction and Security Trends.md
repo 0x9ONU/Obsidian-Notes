@@ -456,7 +456,54 @@ Unlike actual warfare, **critical infostructure** that is needed for daily life 
 
 ## Brand-Name Attacks
 
-Numerous firms that sells exploits, kits, vulnerabilities, and other malicious items online
+Numerous firms that sells exploits, kits, vulnerabilities, and other malicious items online.
+- They sell these smaller level exploits to make money and for branding just like making products.
+
+```ad-note
+Often, there are multiple names given to an exploit initially as multiple firms might give a single exploit the same name. This often settles in due time
+```
+
+```ad-example
+title: Names of Different Important Malware Brands
+- **Energetic Bear**
+	- A group of Russian ahckers who used Havex malware in critical infrastructures
+	- Also known as Dragonfly
+- **Sandworm**
+	- A gropu of Russian hackers who have brought major issues to Ukraine via numerous attacks
+	- Also known as Electrum
+- **Shadow Brokers**
+	- A team that leaked NSA hacking tools to the public domain
+	- Released the EternalBlue vulnerability
+- **Equation Group**
+	- A team of hackers allegedly linked ot the U.S. government
+- **Regin**
+	- A team of hackers allegedly associated with the UK's GCHQ
+- **Cozy Bear and Fancy Bear**
+	- Hacker groups tied to Russia and the hacking of the Democratic National Committee
+	- Fancy Bear is connected to Russia's GRU
+	- Cozy Bear is connected to the Federal Security Service of the Russian Federation (FSB)
+- **Vault 7**
+	- A group of hackers linked to North Korea
+	- Includes a $81 million bank robbery
+	- WannaCry randsomware attacks
+- **Comment Crew**
+	- A gorup of hackers associated with China
+	- Also known as APT1
+- **Anonymous**
+	- A group of hackers that use their skills to expose perceived injustices
+```
+
+# Attributes of Actors
+
+Actors can be divided using more than just abilities as they can be divided based on:
+- Location
+- Level of sophistication
+- Level of resources
+- Intent
+
+## Internal/External
+
+
 
 
 
