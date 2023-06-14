@@ -171,3 +171,51 @@ Built around the actions necessary to actively seek out attackers that make it p
 
 ## Security Tenets
 
+The three operation tenets found in secure deployments are:
+- Session Management
+- Exception Management
+- Configuration Management
+
+### Session Management
+
+The set of activities employed to establish a communication channel between two parties to authenticate once and have subsequent activities happen by the user 
+- Used to allow future activity without renewed authentication
+- Web applications use this to preserve the state and user information between different parts of the website
+
+```ad-note
+Sessions are typically idnetified by an ID that is known by both sides of the conversation and used ask  a token for future identification
+```
+
+Session management includes management at each step of the way:
+- Establishment
+- During use
+- Completion
+
+These sessions should offer the level of protection should match with the level of security initially established through the session ID
+
+### Exception Management
+
+The invocation of conditions that fall outside the normal sequence of operation
+- Exceptions happen when there are changes to normal processing and are needed to be managed
+- Can happen in error causes locally or in follow-on processes in a system
+
+```ad-note
+Exception management is **Different** from *exception handling* that is handled during software development
+```
+
+The system must handle exceptions regardless of their origin:
+- person
+- process
+- technology
+
+```ad-important
+Either the system must handle the condition and recover *OR* it must fail and be recovered by a separate action
+```
+
+Exception management in a system makes it more resilient as it can help them hop back from failure
+
+
+### Configuration Management
+
+
+
