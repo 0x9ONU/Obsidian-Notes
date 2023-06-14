@@ -133,4 +133,9 @@ Provides a common taxonomy and mechanism to assist in aligning management practi
 - Created the *Framework for Improving Critical Infrastructure Cybersecurity*
 - Adopted on a voluntary system
 
-
+Complements and enhances risk management efforts through:
+1. Determining the current cybersecurity posture
+2. Documenting the desired target state with respect to cybersecurity
+3. Determining and prioritizing improvement and corrective actions
+4. Measuring and monitoring progress toward goals
+5. Creating a communication mechanism for coordination among stakeholders
