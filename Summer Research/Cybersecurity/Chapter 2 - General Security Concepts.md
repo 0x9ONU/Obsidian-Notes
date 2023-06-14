@@ -573,3 +573,22 @@ Information flows are modeled to prevent information from flowing between subjec
 
 ## Integrity Models
 
+These models were created as some instances the integrity lost from the Bell-LaPadula model was insufficient in some environments
+
+### The Biba Security model
+
+Created by Kenneth Biba in the late 1970s
+
+Utilizes **integrity levels** instead of classifications. 
+- The data with a higher integrity level is believed to be more accurate or reliable than data with lower integrity levels
+- Indicates the amount of trust that can be placed in information at the different levels
+
+```ad-note
+Compared to security levels, they limit the modification of information as opposed to the flow of information.
+```
+
+**Low-Water-Mark policy**:
+1. It prevents subjects form writing to objects of a higher integrity level 
+2. The integrity level of a subject will be lowered if it reads an object of a lower integrity level. 
+3. 
+
