@@ -445,9 +445,62 @@ The multiple security mechanisms might include some or all of these protections:
 - traffic control
 ```
 
+```ad-note
+A firewall that encounters encrypted network traffic that uses Secure Sockets Layer (SSL) or Transport Layer Security (TLS), it may have a difficult time reading the payload information of each packet
+```
 
+![[Pasted image 20230614141639.png]]
 
+Layered Protection is often described from the top down, with more general types being at the top and more specialized and specific measures
+- Each layer digs deeper into the packet and looks for specific items
 
+![[Pasted image 20230614141912.png]]
+
+### Diversity of Defense
+
+Makes different layers of security dissimilar 
+- Even if the attackers know how to get through a system that comprises one layer, they may not know how to get through a different type of layer that employs a different security system
+
+```ad-example
+An environment may have two firewalls that has different purposes:
+- Internet Firewall
+	- Placed on the very outer part of the network
+	- May make sure that no FTP, SNMP, or Telnet traffic enters the network
+- Demilitarized Zone Firewall
+	- Placed between the outer part of the network and the inner part
+	- May not allow SSl or SSH through and may interrogate SMTP and HTTP traffic
+```
+
+### Encapsulation
+
+When a higher-level protocol is used to carry a lower protocol, the lower protocol is encapsulated in the data portion of the higher protocol.
+- Allows separate protocols to work with each other and without interference 
+
+### Isolation
+
+Separating items so that they cannot interfere with each other
+- Common on both the hardware and software level
+- Used to prevent interference between the separate processes
+
+```ad-example
+color: 255, 255, 0
+- Confinement of a program in a sandbox
+- Virtual Machines
+- System call interposition
+- Software fault isolation
+```
+
+### Trust Relationships
+
+**Trust** - An understanding of how a party will react to a given stimulus
+- If X happens, what will the party do in response.
+- Determines whether or not to share resources with another user
+- The amount of access or set of resources you grant another user
+
+**Trust boundaries** - Logical boundaries that surrounded specific levels of trust in a system
+- Is where changes in trust occur
+- Outside input into a program is considered crossing a trust boundary
+- 
 
 
 
