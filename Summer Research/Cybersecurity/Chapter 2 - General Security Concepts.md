@@ -364,6 +364,90 @@ Caching permiissions for subsequent use can increase performance, BUT it opens t
 
 ### Open Design
 
+The protection of an object should *not* rely upon secrecy of the protection mechanism itself
+- Hiding the protection measure often ultimately fails
+- This does not exclude the use of secrecy, **but the mechanism should be strong secret or not!** 
+
+**Security Through Obscurity** - security can be effective if the environment and protection mechanisms are confusing or thought to be not generally known
+- This idea goes around the fact that if it is out of sight, it is out of mind
+- HOWEVER, it does not provide **actual protection** to the object
+- It requires a little more effort to complete a task
+- Does **NOT** prevent anyone from eventually succeeding
+
+```ad-example
+- Move a service form its default port to a different port so that others will nto know how to access it as easily
+- Firewall might hide specific information about the internal network
+```
+
+```ad-important
+Security through obscurity is considered a bad approach if it is **the only approach taken for secruity**
+- Changing the default port of a service as well as using a firewall is way better than just changing the port number
+```
+
+### Least Common mechanism
+
+Mechanisms used to access resources should be dedicated and not shared. 
+- Shared mechanisms allows for potential crossover between channels
+- A separate modulo should be employed for each similar service regardless of how close they are in scope
+
+```ad-example
+ Common forms of least common mechanism
+- *Sandboxing*
+	- Separting the operations of an aplciaiton fromt eh rest of the operating systems
+- virtual machines
+- Instantiating shard libraries
+	separate instantiation of local classes for separate but equal coding
+```
+
+```ad-important
+This provides isolation between processes so information cannot flwo between separate users unless specifically designed to do so
+```
+
+### Psychological Acceptability
+
+The users' acceptance of security measures:
+- Also known as *least astonishment*
+- A security measure should not impede on the user
+	- The user may try to bypass the security measure in order to have better performance on their device
+
+```ad-note
+Because of this, security professionals should be aware of the concept of balancing technical issues and their professional responsiblities with how the security controls will be viewed by workers int he context of *their* work responsibilities
+```
+
+### Defense in Depth/Layered Security
+
+Use of multiple, different defense mechanisms with a goal of improving the defensive response to an attack:
+- Even if a single layer of security is not 100 percent effective, the use of two or more makes it more and more difficult for an attacker
+
+```ad-example
+A bank has mutliple layers of security for the money stored within:
+- Vault
+- Security Guards
+- Cameras
+- The vault being difficult to get to
+- **Access Control**
+	- ensres that the people entering the vault have to be given prior authorization
+- The systems are connected directly to the police station if one defense is broken
+```
+
+Every network should utilize multiple different protection mechanism, so one is not solely relied on, AND **MUST** work together and not step on each other's shoes.
+
+```ad-example
+color: 0, 255, 255
+The multiple security mechanisms might include some or all of these protections:
+- routers
+- firewalls
+- network segemtns
+- IDSs
+- encryption
+- authenticatio software
+- physical security
+- traffic control
+```
+
+
+
+
 
 
 
