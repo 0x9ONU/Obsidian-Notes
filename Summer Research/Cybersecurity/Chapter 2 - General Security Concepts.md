@@ -500,7 +500,9 @@ color: 255, 255, 0
 **Trust boundaries** - Logical boundaries that surrounded specific levels of trust in a system
 - Is where changes in trust occur
 - Outside input into a program is considered crossing a trust boundary
-- 
+
+**Attack Surface** - The boundary around a system where external inputs can interact with a system
+**- Important to limit these surfaces as much as possible by limiting the amount of trusting outside information**
 
 
 
