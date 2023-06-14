@@ -217,5 +217,95 @@ Exception management in a system makes it more resilient as it can help them hop
 
 ### Configuration Management
 
+The proper configuration and provisioning of all the components in a system
+- At the heart of the proper operation of IT systems
+	- Groups of elements that work together to achieve a desired resultant process
+
+## Security Approaches
+
+An organization can take multiple approaches to address the protection of a network:
+- Either ignore security issues
+- Provide host security
+- Provide network-level security
+- Provide a combination of the latter two.
+	- Both have prevention as well as detection and response components
+
+```ad-note
+If a host chooses to avoid security issues, it only uses the minimal amount of security that comes "out-of-the-box" witht heh servers and devices they have.
+- An actual protected network needs to configure these built-in measures as well as provide additional measures
+```
+
+### Host Security
+
+Takes a granular view of security by focusing on protecting each computer and device individually
+- Each computer relies on itself for protection
+- Each host system may run a different type or version of operating system that will need a different security configuration
+
+```ad-warning
+Use only host security can lead to a high probability of overlooking vulnerabilities
+```
+
+```ad-important
+Host security is important, but should not stop there and is complementary with network security
+- It helps further prevent any vulnerabilities within a host system even with host security
+```
+
+### Network Security
+
+An emphasis is applied on controlling access to internal computers form external entities
+
+```ad-example
+Can be accomplished thorugh hardware or software:
+- Routers
+- Firewalls
+- Authentication hardware and software
+- Encyption
+- Intrusion dectcion systems (IDSs)
+```
+
+```ad-note
+Not two networks' layouts will be the same, thus there are many different ways in which they can be protected and configured
+```
+
+## Security Principles
+
+Jerome Saltzer and Michael Schroeder published a paper on the design principles for a secure computer system called "The Protection of Information in Computer Systems":
+- Published in the mid-1970s
+- Has **eight design principles** that that are useful in secure system deign and operation
+- Combined with **five additional principles**, it outlines the field up to this day
+
+### Least Privilege
+
+A subject should have only the necessary rights and privileges to perform its task, **with no additional permissions**
+- This limits the amount of harm that can be caused and limits the organization's exposure to damage.
+- Helps an organization protect its most sensitive resources and helps ensure that whoever is interacting with these resources has a valid reason to do so.
+
+```ad-note
+Trust relationships should **never** be implemented in a way that everyone trusts each other because it is easier
+- A implementer should have full understanding of what the relationship does
+- Should question what exactly will be shared with each other
+```
+
+Also deals with what applications are allowed to run based on the user level
+
+```ad-example
+A standard user will have only access to surface level programs like Microsoft Word, but an administrator will **also** have access to diagnostic programs that ened accesst o mroe sensitive system files. 
+- However, a program that uses backup software should further be exculsive to a backup operator
+```
+
+```ad-important
+A program should only execute int eh security context that is needed for that program to perform its duties successfully
+```
+
+```ad-warning
+Providing a single admin account that has access to everything is easy, but is also dangerous if someone gets into it, causing more damage
+```
+
+### Separation Privilege
+
+
+
+
+
 
 
