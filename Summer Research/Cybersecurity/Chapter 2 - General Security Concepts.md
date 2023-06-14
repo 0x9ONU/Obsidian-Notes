@@ -303,6 +303,20 @@ Providing a single admin account that has access to everything is easy, but is a
 
 ### Separation Privilege
 
+The protection mechanism should be constructed so that it uses *more than one piece of information* to make access decisions
+
+This principle *on the people side* of the security function results in the **separation of duties**
+- For any given task, more than one individual needs to be involved
+- Each task is broken into different duties which needs to be accomplished by a different individual for each task
+
+```ad-warning
+The cost required to accomplish the task in both time and money increases as more individuals need to spend a longer combined total of time on a project
+- If one individual experiences a delay, another task can be halted
+```
+
+### Fail-Safe Defaults
+
+
 
 
 
