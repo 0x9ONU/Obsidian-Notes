@@ -555,13 +555,21 @@ Employs both mandatory and discretionary access control mechanisms when implemen
 - The "no-read-up" rule
 - Prevents those with a lower level of clearance from reading a too high level document
 
-**\*-property*** - A subject can write to an object only if the target's security classification is greater than or equal tot he object's security classification
+**\*-property*** - A subject can write to an object only if the target's security classification is greater than or equal tot he object's security classification. Also does not allow a person with a higher level security clearance edit a file with a lower level clearance
 - A user with a Secret clearance can write to a file with a Secret or Top Secret classification, but cannot write to a file with only an Unclassified classification
 
 ```ad-note
-Since this model is based around Confid
+Since this model is based around confidentiality rather than integrity, sometimes people at lower levels are able to delete documents at higher levels without being able to see them
 ```
 
+![[Pasted image 20230614153126.png]]
 
+### Brewer-Nash Security Model
 
+Information flows are modeled to prevent information from flowing between subjects and objects when a conflict of interest would occur.
+- Different groups within an organization will only need to access certain data based on what they are working on
+
+![[Pasted image 20230614153327.png]]
+
+## Integrity Models
 
