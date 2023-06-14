@@ -502,8 +502,65 @@ color: 255, 255, 0
 - Outside input into a program is considered crossing a trust boundary
 
 **Attack Surface** - The boundary around a system where external inputs can interact with a system
-**- Important to limit these surfaces as much as possible by limiting the amount of trusting outside information**
+- **Important to limit these surfaces as much as possible by limiting the amount of trusting outside information**
 
+```ad-note
+Social Engineering is a trust violation as the perpetrator is trying to take advantage of the trust given by people such as a customer service rep
+```
+
+Losing control over internal users by giving them too much access than they need can be a trust violation as well.
+
+```ad-warning
+Trust can be transitive and shared with other parties, making it even more difficult to track
+```
+
+```ad-important
+Due to thenature of trust and its high-risk opporutnity, it is often best to maintain a culture of *reluctance of trust*.
+```
+
+# Formal Security Models
+
+Choosing a security model will implement the chosen security policy and enforce those characteristics deemed most important by the system designers
+- In a model where confidentiality is paramount
+	- A model that allows unauthorized individuals to modify or delete data would violate the tenets outlined by the model
+
+```ad-note
+In other models, this may not be as important as it may focus more on enforcing the integrity of the data isntead of confidentiality
+```
+
+```ad-important
+Choosing the model to base teh design on is critical if you want to ensure that the resultant system accurately enforces the security policy desired
+```
+
+## Confidentiality Models
+
+**Bell-La-Padula Model**
+This model is useful for designing multilevel security systems that implement the hierarchical security scheme similar to the military with *classifications*:
+- Publicly Releasable
+- Proprietary
+- Company Confidential
+
+**Brewer-Nash Model**
+Defined by controlling read and write access based on conflict of interest rules
+- Known as the Chinese Wall model
+- Separates groups through he use of an "impenetrable" wall
+
+### Bell-LaPadula Model
+
+```ad-summary
+Employs both mandatory and discretionary access control mechanisms when implementing its two basic security principles
+```
+
+**Simple Security Rule** - No subject can read information from an object with a security classification higher than that possessed by the subject itself
+- The "no-read-up" rule
+- Prevents those with a lower level of clearance from reading a too high level document
+
+**\*-property*** - A subject can write to an object only if the target's security classification is greater than or equal tot he object's security classification
+- A user with a Secret clearance can write to a file with a Secret or Top Secret classification, but cannot write to a file with only an Unclassified classification
+
+```ad-note
+Since this model is based around Confid
+```
 
 
 
