@@ -616,5 +616,18 @@ The Biba Model utilizes **BOTH** parts of the Ring and Low-Water-Mark polices.
 Uses transactions as the basis for its rules and defines two levels of integrity:
 - Constrained Data Items (CDIs)
 	- subject to integrity controls
+	- Critical Information that should not be changed easily
 - Unconstrained Data Items (UDIs)
 	- *not* subject to integrity controls
+	- Information that is less relevant and can be changed easily
+
+Additionally, it utilized two different processes to affect the data:
+- Integrity Verification Processes (IVPs)
+	- Ensured that CDI data meets integrity constraints
+- Transformation Processes (TPs)
+	- Changed the state of data from one valid state to another
+
+```ad-important
+Users cannot change CDI data directly. Only trusted TPs have limited access to the data.
+```
+
