@@ -139,3 +139,18 @@ Complements and enhances risk management efforts through:
 3. Determining and prioritizing improvement and corrective actions
 4. Measuring and monitoring progress toward goals
 5. Creating a communication mechanism for coordination among stakeholders
+
+```ad-important
+The five core functions of the framework:
+1. Identify
+	1. Actions before the incident
+2. Protect
+	1. Actions before the incident
+3. Detect
+	1. Associated with intrusion detection
+	2. The beginning of an ncident response
+4. Respond
+	1. Actions taken place during the post-incident response
+5. Recover
+	1. Actions taken during the post-incident reponse
+```
