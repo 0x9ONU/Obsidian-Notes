@@ -590,5 +590,31 @@ Compared to security levels, they limit the modification of information as oppos
 **Low-Water-Mark policy**:
 1. It prevents subjects form writing to objects of a higher integrity level 
 2. The integrity level of a subject will be lowered if it reads an object of a lower integrity level. 
-3. 
+	1. Prevents contamination
+3. A subject can execute a program only if the program's integrity level is equal to or less than the integrity level of the subject
 
+```ad-warning
+This policy does prevent unauthorized modifiaction of data, but often pushes the integry levels of all subjects to the lowest level on the system as they view and edit different files
+```
+
+**Ring Policy** - Addresses the problem with Low-Water-Mark policy by allowing *any* subject to ready any object without regard to the object's level of integrity and without lowering the subject's integrity level.
+- It overrides the 2nd rule of the Low-Water-Mark policy
+
+```ad-note
+This can also lead to an issue where data created by a subject after reading data of a lower integrity level could end up havign a higher level of trust placed upon it than it should
+```
+
+```ad-important
+The Biba Model utilizes **BOTH** parts of the Ring and Low-Water-Mark polices.
+- ALSO implements an extra third rule that prevents subjects form executing programs of a higher level.
+```
+
+![[Pasted image 20230614155818.png]]
+
+### The Clark-Wilson Security Model
+
+Uses transactions as the basis for its rules and defines two levels of integrity:
+- Constrained Data Items (CDIs)
+	- subject to integrity controls
+- Unconstrained Data Items (UDIs)
+	- *not* subject to integrity controls
