@@ -316,7 +316,53 @@ The cost required to accomplish the task in both time and money increases as mor
 
 ### Fail-Safe Defaults
 
+When something fails, it should do so to a safe state.
+- Created as the Internet can be less friendly, so less than friendly methods are needed to protect itself for security
 
+**Default/Implicit Deny** - **Deny access by default** and only grant access when explicit permission exists
+
+```ad-note
+The network administrators make a set of rules to determine whether or not to allow access.
+- If a certain situation is not covered by the admin, it deny the access by defualt
+```
+
+On the other hand, an alternative allows access *unless a specific rule forbids it*
+
+```ad-example
+Two ways to make programs that monitor and block access to certian websites
+- Provide a list of specific sites that a user is ont allowed to access (alternative approach)
+- Block all access to sites that are not specifically identified as authorized (implicit deny approach)
+```
+
+### Economy of mechanism
+
+**Always** use simple solutions when possible!
+- A complex solution has many more places to fail
+- A simpler solution will be robust and less likely to fail in practice
+
+```ad-important
+Always eliminate or disable all nonessential services or protocols
+- the less services running, the less possible vulnerabilities will be on a system
+```
+
+The essential services are found based on what a computer system or network is being used for and only activate services and ports as needed.
+
+```ad-warning
+Finding the pervfect balance between functionality and security is difficult to get right
+```
+
+### Complete Mediation
+
+The concept that each and every request should be **verified** AND ensuring that *all operations* go through the protection mechanism:
+- Checks all requests for permission at any level
+- All processes, including exceptions and out-of-band requests, should be covered by the protection and checked regardless of what happens
+
+```ad-note
+Caching permiissions for subsequent use can increase performance, BUT it opens the door to permission errors
+- If a permission chagne is subsequent to the first use, the change would not be applied past the original check
+```
+
+### Open Design
 
 
 
