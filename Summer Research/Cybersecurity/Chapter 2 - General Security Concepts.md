@@ -154,3 +154,20 @@ The five core functions of the framework:
 5. Recover
 	1. Actions taken during the post-incident reponse
 ```
+
+![[Pasted image 20230614105320.png]]
+
+### Active Defense Model
+
+Hunters intruders inside the enterprise
+- Contrasts with "static" defenses that are enacted to act as barriers 
+- Capitalizes on the elements of the operation model and the time-based model
+- Static defenses are not sufficient and intruders will inevitably get into an enterprise
+
+Built around the actions necessary to actively seek out attackers that make it past defenses
+- Hunters use their knowledge of systems to find abnormal behavior 
+- Chase the start of these abnormalities to the where the intruder is
+- Actively closes the holes they used to gain entry
+
+## Security Tenets
+
