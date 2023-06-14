@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
+                "file": "Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
+                "file": "Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
+                "file": "Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md"
+                "file": "Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md"
               }
             }
           },
@@ -185,9 +185,10 @@
   },
   "active": "ef9f3412ebc580ce",
   "lastOpenFiles": [
+    "Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
+    "Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
     "Pasted image 20230613164357.png",
     "Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
-    "Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
     "Summer Research/Cybersecurity/Images",
     "Summer Research/Cybersecurity/Images/Pasted image 20230613113259.png",
     "Summer Research/Networks/Chapter 3 - Transport Layer.md",
@@ -199,7 +200,6 @@
     "Summer Research/Networks/Images/Pasted image 20230612113430.png",
     "Summer Research/Networks/Images/Pasted image 20230612111009.png",
     "Summer Research/Networks/Images/Pasted image 20230611132111.png",
-    "Summer Research/Networks/Images/Pasted image 20230611125412.png",
     "Untitled.md",
     "Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
     "Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
