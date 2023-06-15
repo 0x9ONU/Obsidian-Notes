@@ -294,5 +294,121 @@ The act of supplying information that another will act upon in an attempt to leg
 
 ## Identity Fraud
 
-Use of fake credentials to achieve an end. 
+Use of fake credentials to achieve an end, which can be both high or low risk:
+- Pretending to be an official representative of a government agency
+- Showing up as a person who waters plants
 
+```ad-example
+Showing up to pretend to deliver a server after the attacker knows that a company needed a replacement
+```
+
+Can be done online by using impersonation techniques to deceive the victim
+
+```ad-important
+To defend against identify fraud, use strong policies and procedures, without exception
+- Includes resetting passwords or giving third party access
+```
+
+## Invoice Scams
+
+A scam using a fake invoice in an attempt tog et a company to pay for things it has not ordered.
+- Involves getting someone outside of the accounting group to initiate the process to increase legitimacy
+- Despite its simplicity, the industry makes billions of dollars per year
+
+```ad-example
+Common items used in these scams include:
+- Office products
+- Cleaning products
+- Organizational memberships
+- Corporate services
+```
+
+```ad-warning
+Sometimes urgency is added by using a final notice warning and threatening a collection agency in order to make it less likely to be tossed
+```
+
+## Credential Harvesting
+
+The collection of credential information so that an attacker can have a series of passes to the systems.
+- Can include user IDs, passwords, and more
+- Often starts with phishing emails that goes into pharming to take the credentials put into a fake website
+
+```ad-note
+The fake website often redirects you to the correct website after the attack has been finished
+```
+
+These attacks have been highly successful as two factor has become a must for companies.
+
+## Reverse Social Engineering
+
+The attacker hopes to convince the target to initiate the contact.
+- Sometimes more successful as they do not need to convince the victim of their authenticity
+
+```ad-example
+Ways to get a victim to contact the attacker first:
+- Sending a spoofed email that claims to claims to be from a reputable soruce and provides another email address or phone number
+- Posting a notice or creating a bogus website for a legitimate company that also claims to provide a "tech support"
+```
+
+```ad-note
+This is most successful if:
+- timed to coincide with a company's deployment of a new software or hardware platform.
+- during a significant change in the organization, such as a merger
+```
+
+## Reconnaissance
+
+The actions of surveying a system it attends to attack, using a wide range of methods.
+
+Can obtain data thorugh:
+- Indirect means
+	- Google searches, public record searches, etc.
+	- Press releases that tells who the company's partners are
+- Direct means
+	- Obtaining and then surveying org charts
+	- calling and asking for contact information on people for a personal directory
+
+```ad-important
+All of these emthods provide information taht goes into a description of the system that will be under attack
+```
+
+## Hoax
+
+Even though they may seem small, hoaxes can be very damaging if it causes some sort of action that **weakens security**
+
+```ad-example
+A real hoax described a new, highly destructive piece of malware
+- To be safe agaisnt it, it instructed users to find a specific file and delete it to patch the vulnerability
+```ad-warning
+In reality, the file was an important file used by the operating system, and would cause the computer not to boot into the OS
+```
+
+```ad-note
+Can be countered by using training and awareness
+- Should contact an organization to double check strange emails and stories around computers
+- **be wary of emails that tell it to spread it around to your friends**
+```
+
+## Watering Hole Attack
+
+When a target website that users are likely to frequent is infected with malware.
+- Can be constraint to specific geographical areas or be more widespread
+- Not simple, but very effective at bringing malware to a specific group of end users
+
+```ad-note
+Only often achievible my nation-states or other high-resource attackers
+```
+
+## Typo Squatting
+
+Capitalizes on common typographical errors where an attacker will register a mistyped URL that redirects to the attacker's page. 
+
+
+Can be used in:
+- Phishing and credential harvesting 
+- Drive-by malware
+- Move traffic through an affiliate network and earning click-through revenue
+
+## Influence Campaigns
+
+The use of collected information and selective publication of material to key individuals in an attempt to alter perceptions and change people's minds on a topic.
