@@ -467,3 +467,49 @@ The password dilemma has gotten worse as the Internet has become more prolific:
 Choosing a good pin for an ATM card or security code is also significant
 ```
 
+```ad-important
+Password selection is up the individual, and can be helped through an entity's strong password policy by:
+- Making users aware of the issue and their personal role in securing accounts
+- Mandated password change events
+```
+
+## Shoulder Surfing
+
+The best defense against shoulder surfing is for a user to be aware of their surroundings and not allow individuals to get into a position from which they can observe what the user is entering. 
+- Additionally, using different PINs for everything is a good practice
+
+## Piggybacking
+
+Can be countered by using simple procedures to ensure that nobody follows you too closely or is in a position to observe your actions
+
+## Dumpster Diving
+
+Can be countered by not being lazy with paperwork that has any information on it. Shred the important information or burn it.
+
+## Installing Unauthorized Hardware and Software
+
+Organizations should always have a policy that restricts the ability of normal users to install software and new hardware on their systems.
+
+```ad-example
+- Installing an unauthorized communiation software with a modem to access their machine at work via a modem at home (*rouge modem*)
+- Installinga  wireless access point so that they can access the organization's network from many different areas (*rouge access point*)
+```
+
+**Backdoor** - An avenue that can be used to access a system while circumventing normal secruity mechanisms
+- Both examples above create backdoors
+- Can often be used to install additional executable files that can lead to more ways to access the compromised system.
+
+```ad-note
+Bad actors may put malware with backdoors in video games
+```
+
+```ad-important
+Organizations can combat this through:
+- Not allowing users to load software or new hardware withotut he knowledge and assitance of admins
+- Screen and intercept email messages with links or attachments that are sent to users
+	- Strips off executable attachments in general
+```
+
+## Data Handling
+
+Training is super important for proper data handling. Often, certain documents that  
