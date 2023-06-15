@@ -512,4 +512,55 @@ Organizations can combat this through:
 
 ## Data Handling
 
-Training is super important for proper data handling. Often, certain documents that  
+Training is super important for proper data handling. Often, certain documents require training before they are handle due to contracts, laws, and regulations around them
+
+## Physical Access by Non-Employees
+
+If an attacker can get physical access to a facility, they can often get enough information to penetrate computer systems and networks.
+
+```ad-note
+Company badges often do a good job as a deterance as well as a way to actively tell if someone is not part of the company. 
+```ad-warning
+Can be undone by the use of tailgaiting or using a delivery as a distraction
+```
+
+```ad-warning
+People who have legitimate access to a facility may also have the intent of stealing data as well
+- Cell phones make it easy to take photos of critical documents that are laid out
+- Custodial crew members and security guards get unrestricted access to rooms during the night
+- Contractors, consultants, and partners may have both physical AND network access
+```
+
+## Clean Desk Policies
+
+Firms used these policies to deter leaving sensitive information out and unsecured when the worker is not present.
+-  Includes leaving anything on unprotected desk drawers or other objects
+
+```ad-note
+Even a trip to the bathroom can be long enough for the information to be exposed and taken
+```
+
+
+# People as a Security Tool
+
+People are not only the biggest problem for security, they are also the **best weapon** at preventing a social engineering attack if properly trained by a company.
+
+## Security Awareness
+
+The single most effective method after establishing an organization's security goals and policies.
+- Training on social engineering when hired and periodically is important
+- The type of information that the organization considers sensitive as being a target should be stressed
+- Cautious bout revealing personal information
+- Security officers must cultivate an environment of trust in their office and an understanding of the importance of security
+
+### Social Networking and P2P
+
+Social media has led people into the habit of sharing too much information, which can reveal information to people who should not know it.
+- Do *not* cross business and personal information with each other and release important info to the wrong parties
+
+Avoid using torrent and other peer-to-peer communication programs at the workplace
+- Can have infection mechanisms and data-loss channels
+
+## Security Policy Training and Procedures
+
+People in an organization play a significant role in its security posture. As  such, training is important because it can provide the basis for awareness  of issues such as social engineering and desired employee security habits. 
