@@ -104,3 +104,60 @@ For impersonation, **always** make employees to ask to see a person's ID before 
 If this becomes standard process, no one becomes offended AND if they do, they come off suspicous
 ```
 
+**Create periodic training periods that are tailored to what is currently being expected** 
+
+# Attacks
+
+Social Engineers use many different psychological and technical means to get a user to perform actions on a machine that they would normally not do such as:
+- Clicking a link to a web page
+- Running a program
+- Saving information
+- Opening a file
+
+## Impersonation
+
+The attacker assumes a role that is recognized by the person being attacked, and in assuming that role, uses the victim's own biases against their better judgment to follow procedures
+
+Can occur in many different ways in many different places
+- in person
+- over a phone
+- online
+
+### Third-Party Authorization
+
+Uses previously obtained information about a project, deadline, or boss to:
+1. Arrive with something the victim is expecting or would seem normal
+2. Uses the guise of a project in trouble or some other situation where the attacker will be viewed as helpful or not upset
+3. Name drops "Mr. Big" who is unreachable at that moment to avoid a reference check
+
+```ad-note
+The attacker seldom asks for anything that would be unreasonable or unlikelyt o be shared based on the circumstances
+```
+
+### Contractors/Outside Parties
+
+Attackers take advantage of the fact that organizations hire outside workers to do various tasks around it. 
+- Could dress up in a uniform that matches the contractor
+- If challenged, they can use the sympathy card saying they are filing in for another person
+
+They are able to roam the halls unnoticed without suspicion and take as much information as they can
+
+### Help Desk/Tech Support
+
+A social engineer can pose as an employee and get:
+- a password reset
+- Details about some system
+
+Can also pose *as* the help desk employee to get:
+- System status
+
+### Online Attacks
+
+Technology plays an intermediary role in communication chains
+
+```ad-note
+Some older forms of online attacks have become less effective today because people have become wary of them
+![[Pasted image 20230615110716.png]]
+```
+
+Phishing attempts via e-mail and social media, however, are still very prevalent today.
