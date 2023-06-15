@@ -412,3 +412,15 @@ Can be used in:
 ## Influence Campaigns
 
 The use of collected information and selective publication of material to key individuals in an attempt to alter perceptions and change people's minds on a topic.
+- Can be used in conjunction with social media to spread influence via influencer propagation
+	- This can amplify single pieces of disinformation across the world fast
+
+**Hybrid Warfare** - Information that is used to sway people toward a position favored by those spreading it
+- Takes advantage of:
+	- Bandwagon effect
+	- Large funding from nation-states
+	- Influencers
+
+# Poor Security Practices
+
+
