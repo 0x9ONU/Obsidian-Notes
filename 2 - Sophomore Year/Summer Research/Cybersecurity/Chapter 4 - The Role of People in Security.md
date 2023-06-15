@@ -15,3 +15,4 @@ Humans are one of the biggest reasons why preventative technologies are not suff
 ## Social Engineering
 
 The process of an unauthorized individual convincing an authorized individual to provide them with a confidential information or access to something that they should not have.
+
