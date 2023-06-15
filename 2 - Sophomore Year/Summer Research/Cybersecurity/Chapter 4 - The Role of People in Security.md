@@ -423,4 +423,47 @@ The use of collected information and selective publication of material to key in
 
 # Poor Security Practices
 
+A large portion of human-created security problems result from poor security practices. 
+
+Can be caused by an individual: 
+- not following established security policies or processes
+- Having a lack of security polices, procedures, or training guiding them
+
+## Password Selection
+
+Attackers used to rely on users' poor selection of passwords heavily.
+- If they had a list of user IDs, they would eventually have access to the system due to weak passwords
+- Passwords used to be set to either the user ID again or something similar, which was very easy to bypass
+
+```ad-note
+Organizations have taken steps to make password selection stronger to hinder attackers
+- Require a user to reset their password frequently
+
+```ad-warning
+This does not always work, as the user may choose another similar or predictable password and get their account taken again
+```
+
+To combat this, password manager programs have been created to make passwords more complex. However, there is pros and cons to this approach
+
+```ad-check
+title: Pros
+- A manager requires a single password on the user's end system that then gives the user access to their website-specific password
+- Use encryption to secure their stored passwords
+```
+
+```ad-warning
+title: Cons
+color: 255, 100, 100
+
+- A scraping utility can take these passwords from the user anyways
+- If the master password is lost, you loose everything
+```
+
+The password dilemma has gotten worse as the Internet has become more prolific:
+- There are often dozens of accounts and passwords that a user has to remember
+- Users often use the same password for every account, which can lead all the accounts vulnerable if one password is found
+
+```ad-note
+Choosing a good pin for an ATM card or security code is also significant
+```
 
