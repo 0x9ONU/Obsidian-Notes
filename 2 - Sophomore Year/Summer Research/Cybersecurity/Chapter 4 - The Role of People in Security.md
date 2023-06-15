@@ -161,3 +161,137 @@ Some older forms of online attacks have become less effective today because peop
 ```
 
 Phishing attempts via e-mail and social media, however, are still very prevalent today.
+
+## Phishing
+
+A type of social engineering in which an attacker attempts to obtain sensitive information from users masquerading as a trusted entity in an e-mail or instant message sent to large group of often random users.
+
+Attempts to obtain:
+- usernames
+- passwords
+- credit card numbers
+- details about the users' bank accounts
+
+```ad-note
+Utilizes fake websites that appear to be their reputable counterparts, but actually takes the user's information when it is supplied
+```
+
+## Smishing
+
+A form of phishing that uses Short Message Service (SMS) on different victim's phones.
+- Sends a link that directs the user to a website where the attacker can do various attacks
+- Often done through urgency and intimidation
+	- "You have been subscribed to this service, please click this link to unsubscribe or billing will start"
+
+## Vishing
+A variation of phishing that utilizes voice communication technology to obtain the information the attacker is seeking.
+- Uses the trust people place on telephone networks
+	- They are unaware that phone calls can be *spoofed* from real entities using Voice over IP technology
+- Phone number may be placed in an email that could be compromised
+- Asked to respond quickly and provide sensitive information
+
+Attackers try to obtain information that can be used in identity theft
+
+```ad-important
+If a user receives a message that claism to be form a reputable entity and asks for sensitve information, the user should *not* provide the information and do research on the Interent to examine the legitamacy
+```
+
+## Spam
+
+Bulk unsolicited e-mail that can still causes security concerns:
+- It can be from a company advertising a product or service OR
+- It could be malicious and include attachments with malicious software or links to malicious websites
+
+```ad-note
+Always consider the soruce before clicking any links or directly responding for spam
+```
+
+## Spam over Internet Messaging (SPIM)
+
+Spam delivered via an instant messaging application
+
+## Spear Phishing
+
+Refers to a phishing attack that targets a specific group of people or businesses with something in common.
+- Due to it being more targeted and concentrated, the ratio of successful attacks is increased
+- Much more effective than randomly sending messages
+
+## Whaling
+
+Where the target is chosen to be a high-value person, such as a CEO or a CFO
+- Custom-built for a single target to increase odds of success
+- Utilizes properties of spear phishing by appear like normal business rather than a suspicious communication 
+- Relies on single targets rather than a random returns from a large population
+
+## Pharming
+
+Misdirecting users to fake websites that are made to look official
+- Uses standard phishing to get them to click on the link in the first place
+- The user will then be taken to the wrong website as the result of DNS poisoning or modification of local host files
+	- An attack that changes URLs in a server's domain name table
+	- Used to convert URLs to the appropriate IP address
+- The user then may provided personal information that is stolen by the fake site
+
+## Dumpster Diving
+
+The process of going through a target's trash in hopes of dining valuable information that might be used in a penetration attempt
+
+```ad-summary
+The target's trash is one of the primary targets
+- Could find small bits of information that can be used for the attack, or even user IDs and passwords
+- Even though dumpster diving may be illegal in places, it is rarely enforced as it is considered public property once it has been tossed
+```
+
+```ad-important
+To combat this, companies and individuals should have policies about discarding sensitive materials.
+- Shredding sensitive documents
+- Obtaining a secure trash receptacle
+```
+
+## Shoulder Surfing
+
+Involves the attacker directly observing the individual entering sensitive information on a form, keypad, or keyboard from any distance that is needed
+- Combatted today by privacy screens or filters as well as digit scramblers
+
+```ad-example
+The attacker can gain the following information:
+- PIN number for an ATM
+- An access control entry code for a gate or door
+- A calling card or credit card number
+```
+
+```ad-important
+color: 255, 30, 30
+The strongest defense for shoulder surfing is to be aware of the surroudnings and not allow individuals to get into a position from where they can observe what you are entering
+```
+
+```ad-note
+The attacker may start a conversation with the victim to get them distracted and get closer to the target
+```
+
+## Tailgating/Piggybacking
+
+The simple tactic of following closely behind a person who has just used their own access card or PIN to gain physical access to a room or building
+- Exploits the fact that some people may be in a hurry
+- Gains access to a building without having an access code or card
+- Success can be improved by sparking up a conversation with the victim
+
+```ad-note
+Both Tailgating and shoulder surfing rely on poor security practices of an authorized user to be successful
+- Can be countered through employee training and using a *mantrap*
+	- A facility that utilizes two doors that only allow for one individual to go through at a time
+```
+
+## Eliciting Information
+
+Calls to or from help desk and tech support units
+- Can pose as either the employee OR as an help desk worker
+
+## Prepending
+
+The act of supplying information that another will act upon in an attempt to legitimize the actual request
+- Uses the constructs of authority as the attacker can say that they are someone's boss as to why the victim should perform a specific action
+
+## Identity Fraud
+
+
