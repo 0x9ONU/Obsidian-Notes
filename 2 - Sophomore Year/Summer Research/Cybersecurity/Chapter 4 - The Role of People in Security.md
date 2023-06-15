@@ -294,4 +294,5 @@ The act of supplying information that another will act upon in an attempt to leg
 
 ## Identity Fraud
 
+Use of fake credentials to achieve an end. 
 
