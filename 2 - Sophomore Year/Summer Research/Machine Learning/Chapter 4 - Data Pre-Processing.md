@@ -50,7 +50,7 @@ Data of good quality that has been pre-processed is *more powerful than* the bes
 - Bad data trains bad models
 ```
 
-## Data Preprocessing Seteps
+## Data Preprocessing Steps
 - Getting Dataset
 - Import Libraries
 - Import Datasets
@@ -73,5 +73,44 @@ This is done to prevent **overfitting**:
 ```
 
 ## Example
+
+A classification problem where the *goal* is to predict whether an emails **is spam** or is ***not*** **spam**
+
+```ad-example
+- The training set may contain 6,000 emails, where 3,000 are spam and 3,000 are not
+```
+
+```ad-example
+color: 255, 255, 0
+The test set may consist of a **separate** dataset of 1,000 emails, where 500 are spam and 500 are not
+```
+
+```ad-important
+- **The mdoel is trained on the training set** and *then tested on the test set.* 
+- The accuracy of the model is then determiend **based on its performance on the test set.**
+```
+
+# Feature Scaling
+
+```ad-summary
+title: Normalization
+Transforms the values of numeric columns in a dataset to **a uniform scale**, preserving the differences in range, and retaining all the information
+
+```ad-important
+It is done using the following formula:
+$$X' = \frac{X-X_{min}}{X_{max}-X_{min}}
+```
+
+```ad-summary
+title: Standardization
+color: 234, 180, 234
+Adjusts data valeus to fit within a specific range by using the mean and standard deviation as reference points. 
+- Allows for calculating the **distance between data points**, facilitating the visualizaiton of similarities and differences
+
+```ad-note
+Formula for Standardization:
+$$X'=\frac{X - μ}{σ}
+```
+
 
 
