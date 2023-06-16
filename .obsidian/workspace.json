@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
+                "file": "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
+                "file": "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
+                "file": "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md"
+                "file": "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md"
               }
             }
           },
@@ -185,9 +185,14 @@
   },
   "active": "3889c5d749be2aec",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Summer Research/Networks/Chapter 3 - Transport Layer.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
+    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
+    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
+    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
+    "2 - Sophomore Year/Summer Research/Networks/Chapter 3 - Transport Layer.md",
+    "2 - Sophomore Year/Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
+    "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230615110716.png",
     "2 - Sophomore Year",
     "Summer Research/Cybersecurity/Drawing 2023-06-14 16.17.04.excalidraw.md",
@@ -195,7 +200,6 @@
     "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230614155818.png",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230614153327.png",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230614153126.png",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
     "1 - Freshman Year/Semester 2/Programming 2/Week 11/Programming 2 Week 11 - Day 3.md",
     "1 - Freshman Year/Semester 2",
     "1 - Freshman Year",
@@ -214,10 +218,6 @@
     "1 - Freshman Year/Semester 2/Programming 2/Week 5/Programming 2 Week 5 - Day 3.md",
     "1 - Freshman Year/Semester 2/Programming 2/Week 5/Programming 2 Week 5 - Day 2.md",
     "1 - Freshman Year/Semester 2/Programming 2/Week 5/Programming 2 Week 5 - Day 1.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 4/Programming 2 Week 4 - Day 3.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 4/Programming 2 Week 4 - Day 2.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 4/Programming 2 Week 4 - Day 1.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 3/Programming 2 Week 3 - Day 3.md",
     "Excalidraw/Drawing 2023-02-02 16.42.55.excalidraw.png",
     "1 - Freshman Year/Semester 2/Digital Logic/Lab 13/PXL_20230502_170640364~2.jpg",
     "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230605162300.png",
