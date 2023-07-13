@@ -126,4 +126,7 @@ Use different tools and strategies
 
 ```ad-summary
 title: Rule 3
+color: 234, 100, 234
+
 ```
+
