@@ -84,7 +84,17 @@ Another option over a sandbox that can be used to detect the same things and nee
 - clean snapshot to revert to
 
 ```ad-warning
-Malware can often detect if it is being ran in a VM or not
+Malware can often detect if it is being ran in a VM or not and terminate the program if that is the case to avoid detection through:
+- MAC addresses
+- Background processes
+- Registry keys
+- RAM strucutres
+- Hardware Parameters
+- CPU registers
 ```
+
+# Advanced Static Analysis
+
+
 
 
