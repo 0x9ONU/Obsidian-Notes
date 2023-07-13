@@ -153,4 +153,7 @@ Cyberseuciryt and malware alanysis is a cat-and-mouse game
 - URLs/FQDNs
 - IP addresses
 - Messages that may indicate malicious intent
+- Options that could indicate how a binary should be run
+- Words such as UPLOAD and DOWNLOAD which may be used for menus
+- variables such as %SYSTEMROOT%\System32 and %USERNAME%
 - 
