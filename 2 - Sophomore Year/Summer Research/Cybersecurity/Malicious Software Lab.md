@@ -102,5 +102,28 @@ Uses a disassembler to turns the binary into assembly language.
 
 Runs the malware through a debugger
 - Analyzes the RAM and CPU registers as the program executes
+- Always for analyzing single instructions one at a time
 
+```ad-warning
+When analyzing assembly code, it may be difficult to know what every single line does
+- Also, malware authors often put in bogus lines to make it more diffiuclt to decypher 
+```
 
+## Rules of Dynamic Analysis
+
+```ad-summary
+title: Rule 1
+Focus on certian specifics of the binary and look for interesting areas to focus on
+```
+
+```ad-summary
+color: 234, 234, 100
+title: Rule 2
+Use different tools and strategies
+- DONT spend too much time on one area with the same tool
+- Think outside of the box
+```
+
+```ad-summary
+title: Rule 3
+```
