@@ -134,19 +134,23 @@ Cyberseuciryt and malware alanysis is a cat-and-mouse game
 
 # Lab Exercise 15.01: Strings
 
-**Kernel32.dll** 
-- Memory management
-- input/output operations
-- Hardware interrupts
-- Look for:
-	- OpenProcess
-	- CreateFIleW
-	- WriteFile
-	- FindNextFileW
+## DLL Table
 
-**user32.dll**
-- Create and control elements in the Windows UI
-- Look for:
-	- SetWindowTesxtW
-	- ShowWindow
+| DLL Name                   | Usage                                                                                               | Functions/Files to Look For                                    |
+| -------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **kernel32.dll**           | Memory management, input/output operatrions, Hardware Interrupts                                    | OpenProcess, CreateFileW, WriteFile, FindNextFileW             |
+| **user32.dll**             | Creates and controls elements in Windows UI                                                         | SetWidnowTextW, ShowWindow                                     |
+| **advapi32.dll**           | Advanced Window 32 API. Supports security, service manager, the registry                            | RegSetValueExW, Software\Microsoft\Widnows\CurrentVersion\Run\ |
+| shell32.dll                | Windows shell functions                                                                             | ---                                                            |
+| gdi32.dll                  | Controls graphics device interface drawing and output sent to video displays and printers           | ---                                                            |
+| urlmon.dill                | Functions that incorporate hyperlinks and other objects into programs.                              | URLDownloadToFile                                              |
+| ntdll.dll                  | Functions related to the Windows kernel. Allows programs to hide functionality                      | ---                                                            |
+| wsock32.dll and ws2_32.dll | Functions that connect programs and endpoints over a network and allow for networking related tasks | ---                                                            |
+| wininet.dll                | Functions for implementing network protocols such as FTP, HTTP, and NTP                             | ---                                                            |
+
+## Strings of Interest
+
+- URLs/FQDNs
+- IP addresses
+- Messages that may indicate malicious intent
 - 
