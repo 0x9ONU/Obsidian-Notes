@@ -132,5 +132,21 @@ Cyberseuciryt and malware alanysis is a cat-and-mouse game
 - Anti-analysis is always an issue and makes it difficult to always find a way to analyize the files
 ```
 
+# Lab Exercise 15.01: Strings
 
+**Kernel32.dll** 
+- Memory management
+- input/output operations
+- Hardware interrupts
+- Look for:
+	- OpenProcess
+	- CreateFIleW
+	- WriteFile
+	- FindNextFileW
 
+**user32.dll**
+- Create and control elements in the Windows UI
+- Look for:
+	- SetWindowTesxtW
+	- ShowWindow
+- 
