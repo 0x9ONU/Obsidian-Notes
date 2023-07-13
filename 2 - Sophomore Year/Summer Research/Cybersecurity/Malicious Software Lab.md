@@ -128,5 +128,9 @@ Use different tools and strategies
 title: Rule 3
 color: 234, 100, 234
 
+Cyberseuciryt and malware alanysis is a cat-and-mouse game
+- Anti-analysis is always an issue and makes it difficult to always find a way to analyize the files
 ```
+
+
 
