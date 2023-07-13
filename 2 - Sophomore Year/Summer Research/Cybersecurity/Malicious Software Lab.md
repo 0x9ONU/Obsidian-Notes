@@ -76,5 +76,11 @@ Will **NOT** identify or cateogrize the malware
 - Can also miss some malware specimens depending on the register keys that they need
 ```
 
-## VM
+## Virtual Machine
+
+Another option over a sandbox that can be used to detect the same things and needs to have:
+- Host-only networking
+- disabled shared folders
+- clean snapshot to revert to
+- 
 
