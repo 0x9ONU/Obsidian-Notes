@@ -19,7 +19,7 @@ By using different techniques, the puzzle around what an executable does can be 
 Both of these forms of analysis can be further broken down into their *basic* and *advanced* variations
 ```
 
-## Basic Static Analysis
+# Basic Static Analysis
 
 Analyzes malware without looking at any instructions in the binary
 - Fast and Direct
@@ -44,7 +44,7 @@ Accomplished through:
 - Encryption
 ```
 
-## Basic Dynamic Analysis
+# Basic Dynamic Analysis
 
 Executes the malware and tracking the artifacts it made on system which include:
 - folders
@@ -60,7 +60,7 @@ The malware may not actually execute as it needs certain instructions
 This level of analysis STILL does niot analyze the insturctions in the binary
 ```
 
-### Sandboxing
+## Sandboxing
 
 An environment in which to run anything you don't trust
 - Commonly used by dynamic analysis in order to not put your system and network at risk.
@@ -68,5 +68,13 @@ An environment in which to run anything you don't trust
 
 ```ad-note
 WIll automate most of the basic adynamic analysis process
+- Provides the necessary logs automatically
 ```
+
+```ad-warning
+Will **NOT** identify or cateogrize the malware
+- Can also miss some malware specimens depending on the register keys that they need
+```
+
+## VM
 
