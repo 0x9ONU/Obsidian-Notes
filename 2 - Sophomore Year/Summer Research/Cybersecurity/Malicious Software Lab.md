@@ -82,5 +82,9 @@ Another option over a sandbox that can be used to detect the same things and nee
 - Host-only networking
 - disabled shared folders
 - clean snapshot to revert to
-- 
+
+```ad-warning
+Malware can often detect if it is being ran in a VM or not
+```
+
 
