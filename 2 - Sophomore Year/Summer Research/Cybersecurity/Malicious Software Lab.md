@@ -95,6 +95,12 @@ Malware can often detect if it is being ran in a VM or not and terminate the pro
 
 # Advanced Static Analysis
 
+Uses a disassembler to turns the binary into assembly language.
+- Analyzes the assembly code for malicious instructions
 
+# Advanced Dynamic Analysis
+
+Runs the malware through a debugger
+- Analyzes the RAM and CPU registers as the program executes
 
 
