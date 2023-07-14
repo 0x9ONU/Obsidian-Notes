@@ -132,7 +132,7 @@ Cyberseuciryt and malware alanysis is a cat-and-mouse game
 - Anti-analysis is always an issue and makes it difficult to always find a way to analyize the files
 ```
 
-# Lab Exercise 15.01: Strings
+# Lab Exercises
 
 ## DLL Table
 
@@ -156,4 +156,18 @@ Cyberseuciryt and malware alanysis is a cat-and-mouse game
 - Options that could indicate how a binary should be run
 - Words such as UPLOAD and DOWNLOAD which may be used for menus
 - variables such as %SYSTEMROOT%\System32 and %USERNAME%
-- 
+
+## PE (Portable Executable) Breakdown
+- Header FIle
+- .text 
+	- The actual code
+- .rdata
+	- Global read-only data
+	- Imported functions
+	- Exported Functions
+- .data
+	- global data
+- .rsrc
+	- Binary Needed resources
+- .reloc
+	- library file relocation information
