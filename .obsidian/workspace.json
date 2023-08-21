@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Circuits/Circuits Template.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Circuits/Circuits Template.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Circuits/Circuits Template.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Circuits/Circuits Template.md"
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "b69ae0ab84411763",
   "lastOpenFiles": [
-    "Templates/Discrete Math/Discrete Math Template.md",
     "Templates/Circuits/Circuits Template.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Physics I",
+    "Templates/Discrete Math/Discrete Math Template.md",
     "Templates/Circuits",
     "Templates/Digital Signal Processing/Digital Signal Processing Template.md",
     "Templates/Digital Structures and Algorithms 1/Digital Structures and Algorithms Template.md",
@@ -200,7 +202,6 @@
     "Templates/Machine Learning/Machine Learning Template.md",
     "Templates/Machine Learning",
     "Templates/Cybersecurity/Cybersecurity.md",
-    "Templates/Cybersecurity",
     "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
     "2 - Sophomore Year/Summer Research/Machine Learning/Images/Pasted image 20230603161918.png",
     "2 - Sophomore Year/Summer Research/Machine Learning/Images/Pasted image 20230603160602.png",
@@ -222,7 +223,6 @@
     "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
     "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 3.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 9/Programming 2 Week 9 - Day 1.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 2.md"
+    "1 - Freshman Year/Semester 2/Programming 2/Week 9/Programming 2 Week 9 - Day 1.md"
   ]
 }
