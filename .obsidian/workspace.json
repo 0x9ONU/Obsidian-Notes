@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/DSA Week 1 - Day 1.md",
+                "file": "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DigitalLogic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/DSA Week 1 - Day 1.md",
+                "file": "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/DSA Week 1 - Day 1.md",
+                "file": "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/DSA Week 1 - Day 1.md"
+                "file": "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md"
               }
             }
           },
@@ -176,11 +176,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b69ae0ab84411763",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
     "Templates/Digital Structures and Algorithms 1/Digital Structures and Algorithms Template.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/DSA Week 1 - Day 1.md",
+    "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md",
+    "Templates/Physics 1 template/Physics 1 Template.md",
+    "Templates/Digital Signal Processing",
     "Templates/Foundations of Design 2 Template/FOD 2 Template.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/DSA Week 1 - Day 1.md",
+    "Templates/Physics 1 template",
     "2 - Sophomore Year/Fall 2023",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One",
     "Templates/Digital Logic/Digital Logic Template.md",
@@ -212,17 +216,13 @@
     "2 - Sophomore Year/Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
     "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Malicious Software Lab.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Images",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
-    "2 - Sophomore Year/Summer Research/Machine Learning",
     "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 3.md",
     "1 - Freshman Year/Semester 2/Programming 2/Week 9/Programming 2 Week 9 - Day 1.md",
     "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 2.md",
     "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 1.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 7/Programming 2 Week 7 - Day 3.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 7/Programming 2 Week 7 - Day 2.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 7/Programming 2 Week 7 - Day 1.md"
+    "1 - Freshman Year/Semester 2/Programming 2/Week 7/Programming 2 Week 7 - Day 3.md"
   ]
 }
