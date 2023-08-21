@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87c82fb7d7ffddb0",
+        "id": "82f3b00efa240bcc",
         "type": "tabs",
         "children": [
           {
-            "id": "b69ae0ab84411763",
+            "id": "55c2b859a89dcff5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Circuits Week 1 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/DSP Week 1 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Circuits Week 1 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/DSP Week 1 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Circuits Week 1 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/DSP Week 1 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Circuits Week 1 - Day 1.md"
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/DSP Week 1 - Day 1.md"
               }
             }
           },
@@ -154,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20fa6d1f814f2ed8",
+  "active": "074ffa03b2132a38",
   "lastOpenFiles": [
-    "Templates/Circuits/Circuits Template.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Drawing 2023-08-21 12.03.18.excalidraw.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/DSP Week 1 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Circuits Week 1 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing",
+    "Templates/Circuits/Circuits Template.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits",
     "2 - Sophomore Year/Fall 2023/Physics I",
@@ -200,7 +202,6 @@
     "Templates/Digital Structures and Algorithms 1",
     "conflict-files-obsidian-git.md",
     "Templates/Networks/Networks Template.md",
-    "Templates/Networks",
     "Templates/Machine Learning/Machine Learning Template.md",
     "Templates/Cybersecurity/Cybersecurity.md",
     "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
@@ -221,8 +222,6 @@
     "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Malicious Software Lab.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 3.md"
+    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md"
   ]
 }
