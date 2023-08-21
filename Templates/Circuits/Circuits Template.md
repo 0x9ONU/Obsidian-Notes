@@ -13,4 +13,8 @@ collapse: open
 
 ```
 
+```ad-note
+title: Homework
+- [ ] test
+```
 
