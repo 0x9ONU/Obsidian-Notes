@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md",
+                "file": "Templates/Circuits/Circuits Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md",
+                "file": "Templates/Circuits/Circuits Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md",
+                "file": "Templates/Circuits/Circuits Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md"
+                "file": "Templates/Circuits/Circuits Template.md"
               }
             }
           },
@@ -176,10 +176,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20fa6d1f814f2ed8",
+  "active": "b69ae0ab84411763",
   "lastOpenFiles": [
+    "Templates/Discrete Math/Discrete Math Template.md",
+    "Templates/Circuits/Circuits Template.md",
+    "Templates/Circuits",
+    "Templates/Digital Signal Processing/Digital Signal Processing Template.md",
     "Templates/Digital Structures and Algorithms 1/Digital Structures and Algorithms Template.md",
-    "Templates/Digital Signal Processing/Digital Structures and Algorithms Template 1.md",
+    "Templates/Discrete Math",
     "Templates/Physics 1 template/Physics 1 Template.md",
     "Templates/Digital Signal Processing",
     "Templates/Foundations of Design 2 Template/FOD 2 Template.md",
@@ -208,10 +212,8 @@
     "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230612111009.png",
     "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230611132111.png",
     "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230611125412.png",
-    "2 - Sophomore Year/Summer Research/Machine Learning/Images",
     "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 4 - Data Pre-Processing.md",
     "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
-    "2 - Sophomore Year/Summer Research/Networks/Images",
     "2 - Sophomore Year/Summer Research/Networks/Chapter 3 - Transport Layer.md",
     "2 - Sophomore Year/Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
     "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
@@ -221,8 +223,6 @@
     "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
     "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 3.md",
     "1 - Freshman Year/Semester 2/Programming 2/Week 9/Programming 2 Week 9 - Day 1.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 2.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 1.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 7/Programming 2 Week 7 - Day 3.md"
+    "1 - Freshman Year/Semester 2/Programming 2/Week 8/Programming 2 Week 8 - Day 2.md"
   ]
 }
