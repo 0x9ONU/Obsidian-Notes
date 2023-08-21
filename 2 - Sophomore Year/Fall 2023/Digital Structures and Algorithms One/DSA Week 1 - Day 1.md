@@ -8,7 +8,6 @@ title: Today's Topics
 collapse: open
 
 - Syllabus
-- C++ Refresher
 
 ```
 
@@ -52,4 +51,8 @@ collapse: open
 	- Follow the tutorial
 	- Git vs. GitHub and GitHub Desktop
 	- Mobile App and 2FA
-- 
+- ## Attendance
+	- three unexcused
+- ## HW
+	- Due on time 
+	- Make sure to arrange ahead of time
