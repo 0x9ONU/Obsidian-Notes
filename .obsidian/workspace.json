@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "074ffa03b2132a38",
+  "active": "55c2b859a89dcff5",
   "lastOpenFiles": [
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Drawing 2023-08-21 12.03.18.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/DSP Week 1 - Day 1.md",
