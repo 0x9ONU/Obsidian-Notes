@@ -17,7 +17,7 @@ title: Homework
 - [ ] 
 ```
 
-# Debugging Excercises
+# Debugging Exercises
 
 ## Exercise 1: Welcome to DSA
 
@@ -96,5 +96,56 @@ title: Review: Curly Braces
 	- Can overwrite a variable identifier withint he scope of the curly braces. 
 	- Could reuse a variable identifier, but avoid when possible
 ```
+
+```ad-important
+title: Review: 'cout'
+- Output stream object cout
+	- **Insertion operator** (<<) transfers bytes tot he outpout stream object
+- Newline character "'\n'" causes cursor to move to the beginning of the next line
+- 'endl' is similar, but it also flushes the stream
+```
+
+### Variable Declaration in C++
+
+- C++ is a **strongly typed language**
+- ***Data Type*** of variables must be declared before being used
+- Compiler is used to convert to machine language that is directly executable on a target processor.
+	- Opposed ot an **interpreted language**
+		- Not complied, but is read and executed by another program.
+- Variable **datatype, identifier,** and **value**
+	- Given value using assignment operator (=)
+	- Variable **initialization** (not required, but the value would be unknown)
+
+## Exercise 2: Increment & Decrement
+
+**Increment**: means to increase the value by a discrete amount. In this case by 1.
+
+**Decreemnt means to decrease the value by a discrete amount. In this case by 1.
+
+**Pre-**: adjusts the value oft he variable ***BEFORE*** it is used int he current statement
+
+**Post-** adjusts the value of the variable ***AFTER*** it is sued in the current statement
+
+```ad-example
+```c++
+int testVal = 2;
+int testVal2 = 4;
+int result;
+result = (testVal2++) * (++testVal);
+
+//This comes out to 4 * (2+1) While testVal2 = 5 AFTER the result is printed
+```
+
+```ad-note
+color: 100, 250, 150
+title: Shorthand Assignmetn Operators
+- Combiens assignemtn oporator (=) with arithmetic oeprator
+```ad-example
+```c++
+int a=2, b=3, c=4;
+c *=b; //like c = c*b
+c /= a; // like c = c/a
+```
+
 
 
