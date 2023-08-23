@@ -64,13 +64,12 @@ y=sin(x)
 - Denoted by $X[n]$
 - Can be converted form continuous to discrete using processing
 
+![[images.png]]
 ### Digital Signal
 - Simply a single whose domain (time) and amplitude (voltage) are discrete valued set of numbers
-
-
 ## Analog to Digital Conversion
 
-- Converts an analog signal (continuous signal) uses sampling (continuous to discrete) then quantization (discrete to digital) to a digital signal
+- Converts an analog signal (continuous signal) using sampling (continuous to discrete) then quantization (discrete to digital) to a digital signal
 
 ```ad-important
 This is done because digital signals are easier to process than continous and discrete signals
@@ -108,7 +107,7 @@ The process of converting a continuous-time signal to a discrete-time signal by 
 - The number of samples per second
 - Denoted by:
 $$ fs = \frac{1}{Ts}$$
-```ad-note
+```ad-warning
 Becareful of oversampling (too complicated) and undersampling (not enough information)
 ```
 
