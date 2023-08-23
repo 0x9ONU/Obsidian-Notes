@@ -79,10 +79,10 @@ This is done because digital signals are easier to process than continous and di
 
 ```mermaid
 flowchart
-X--> ADC
+X_Analog_Input_Signal--> ADC
 ADC-->DSP  
 DSP-->DAC  
-DAC--> y
+DAC--> y_Analog_Output_Signal
 ```
 
 ```ad-note
