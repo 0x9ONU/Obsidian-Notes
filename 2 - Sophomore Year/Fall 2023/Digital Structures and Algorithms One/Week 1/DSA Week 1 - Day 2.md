@@ -138,7 +138,7 @@ result = (testVal2++) * (++testVal);
 
 ```ad-note
 color: 100, 250, 150
-title: Shorthand Assignmetn Operators
+title: Shorthand Assignment Operators
 - Combiens assignemtn oporator (=) with arithmetic oeprator
 ```ad-example
 ```c++
@@ -146,6 +146,3 @@ int a=2, b=3, c=4;
 c *=b; //like c = c*b
 c /= a; // like c = c/a
 ```
-
-
-
