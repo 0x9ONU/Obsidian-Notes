@@ -73,11 +73,3 @@ $4.352 * 10^3$
 All these systems utilize and are represented in electronic circuits
 ```
 
-# Basic Electric Quantities
-
-**Voltage (V)**: 
-- The energy per unit charge that is created by charge separation
--  Volts (V)
-- $V= \frac{dW}{dq}$
-	- $dW = Energy (j)$
-	- $dq = charge (C)$
