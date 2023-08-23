@@ -55,7 +55,6 @@ Attendance Policy
 - Motion of objects
 
 Broken into the following:
-
 ### Kinematics
 - Particles 
 	- Only has mass and moves
@@ -114,10 +113,14 @@ $$[force]_{si} = kg * \frac{m}{s^2} = N$$
 **Fundamental Units**: Units that cannot be further broken down into smaller units
 - Only seven fundamental units exist
 - Five are covered in this semester
-	- Length (mech)
-	- Time (mech)
-	- Mass (mech)
+	- Length ($m$)
+		- Mechanical
+	- Time ($s$)
+		- Mechanical
+	- Mass ($kg$)
+		- Mechanical
 	- Temperature ($K$)
+		- Thermal
 	- Quantity of substance ($mol$)
 	- Ampere ($A$)
 	- Candela ($cd$)
