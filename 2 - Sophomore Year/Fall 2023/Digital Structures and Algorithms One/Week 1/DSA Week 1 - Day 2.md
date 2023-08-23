@@ -120,7 +120,7 @@ title: Review: 'cout'
 
 **Increment**: means to increase the value by a discrete amount. In this case by 1.
 
-**Decreemnt means to decrease the value by a discrete amount. In this case by 1.
+**Decrement means to decrease the value by a discrete amount. In this case by 1.
 
 **Pre-**: adjusts the value oft he variable ***BEFORE*** it is used int he current statement
 
