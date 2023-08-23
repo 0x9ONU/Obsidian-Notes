@@ -8,6 +8,8 @@ title: Today's Topics
 collapse: open
 
 - Unit Conversion
+- Scalar Vs. Vectors
+- Vector Additon and Multiplication by Scalar
 
 ```
 
