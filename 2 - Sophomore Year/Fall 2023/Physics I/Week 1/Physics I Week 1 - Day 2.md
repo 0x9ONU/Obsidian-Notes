@@ -89,6 +89,10 @@ Dimensional Analysis will NOT be able to check for constants within a formula
 
 #comebacklater  insert vector drawings
 
+```ad-note
+title: Vectors with magnitude alone
+$$|a^{->}|=a$$
+```
 ## Vector Operations
 
 ### Addition
