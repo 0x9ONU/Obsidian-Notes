@@ -15,9 +15,9 @@ collapse: open
 
 ```ad-note
 title: Homework
-- [ ] pg. 17 problems 14, 15, 18, 31, 33
-- [ ] pg. ~18 problems 55, 56
-- [ ] pg. 76 problems 6, 7, 8
+- [x] pg. 17 problems 14, 15, 18, 31, 33
+- [x] pg. ~18 problems 55, 56
+- [x] pg. 76 problems 6, 7, 8
 ```
 
 # Unit Conversion
