@@ -7,13 +7,17 @@ File Folder: Week 1
 title: Today's Topics
 collapse: open
 
-- 
+- Vector "Subtraction"
+- Cartesian Coordinates
+- Vectors in Unit Vector Notation
+- Magnitude of a Vector
+- Direction of a Vector
 
 ```
 
 ```ad-note
 title: Homework
-- [ ] pg. 78: 3, 5, 6, 7, 8
+- [x] pg. 78: 3, 5, 6, 7, 8
 ```
 
 # Vector Addition Review
