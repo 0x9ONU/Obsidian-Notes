@@ -108,7 +108,7 @@ Suppose that the signal is sampled at rate $Fs = 200Hz$. What is the discrete ti
 title: Solution
 - Recall $X(n) = X_a(nT_s)$
 - Find $Ts$
-	- $Ts = \frac{1}{Fs} = \frac{1}{200}
+	- $Ts = \frac{1}{Fs} = \frac{1}{200}$
 - Replace $Ts$ with $t$
 	- $X(n) = 3\cos (100 \pi (\frac{1}{200}))$
 	- $X(n) = 3\cos (\frac{\pi}{2}n)$
