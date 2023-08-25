@@ -34,7 +34,8 @@ $$X(n) = X_a(nT) for -\infty<n<\infty$$ Where the following are true:
 - $T$ is the time interval (sampling period)
 - $Fs = \frac{1}{T}$ (Sampling Frequency)
 
-#comebacklater Insert Figure 1
+![[CamScanner 08-24-2023 20.15_1.jpg]]
+
 
 ```ad-important
 You must always have two sampels per cycle in order to capture all the necessary information from a continuous to a discrete signal
@@ -87,8 +88,7 @@ title: Solution
 | 3   | $-\frac{\sqrt{2}}{2}$ | $-7 \frac{\sqrt{2}}{4}$           |
 | 4   | -1                    | -7/2                              |
 
-
-#comebacklater Insert Figure 3
+![[CamScanner 08-24-2023 20.15_2 (1).jpg]]
 
 ```ad-example
 Determine the minimum sampling rate requried to avoid aliasing

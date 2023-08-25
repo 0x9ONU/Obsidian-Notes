@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 2.md"
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md"
               }
             }
           },
@@ -178,17 +178,26 @@
   },
   "active": "889a6aa703f96805",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 1.md",
+    "CamScanner 08-24-2023 20.15_2 (1).jpg",
+    "CamScanner 08-24-2023 20.15_1.jpg",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
+    "CamScanner 08-24-2023 20.15_7 (1).jpg",
+    "CamScanner 08-24-2023 20.15_6.jpg",
+    "CamScanner 08-24-2023 20.15_5.jpg",
+    "CamScanner 08-24-2023 20.15_3.jpg",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 2.md",
+    "CamScanner 08-24-2023 20.15_15.jpg",
+    "CamScanner 08-24-2023 20.15_14 1.jpg",
+    "CamScanner 08-24-2023 20.15_14.jpg",
+    "CamScanner 08-24-2023 20.15_13.jpg",
+    "CamScanner 08-24-2023 20.15_11.jpg",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 1/DSA Week 1 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Drawing 2023-08-23 10.55.23.excalidraw.md",
     "Excalidraw/Drawing 2023-08-23 10.23.39.excalidraw.md",
-    "Pasted image 20230823100328.png",
-    "images.png",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 1/DSA Week 1 - Day 1.md",
     "Templates/Digital Structures and Algorithms 1/Digital Structures and Algorithms Template.md",
     "Templates/Physics 1 template/Physics 1 Template.md",
@@ -214,15 +223,6 @@
     "Templates/Machine Learning/Machine Learning Template.md",
     "Templates/Cybersecurity/Cybersecurity.md",
     "Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
-    "2 - Sophomore Year/Summer Research/Machine Learning/Images/Pasted image 20230603161918.png",
-    "2 - Sophomore Year/Summer Research/Machine Learning/Images/Pasted image 20230603160602.png",
-    "2 - Sophomore Year/Summer Research/Machine Learning/Images/Pasted image 20230603155539.png",
-    "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230612121054.png",
-    "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230612120537.png",
-    "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230612115910.png",
-    "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230612113430.png",
-    "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230612111009.png",
-    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 4 - Data Pre-Processing.md",
-    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md"
+    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 4 - Data Pre-Processing.md"
   ]
 }

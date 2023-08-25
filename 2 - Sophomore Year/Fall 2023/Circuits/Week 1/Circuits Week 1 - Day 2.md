@@ -72,7 +72,7 @@ Elements that are **unable to** generate energy
 - Inductors (store magnetic energy)
 ```
 
-#comebacklater insert symbols
+![[CamScanner 08-24-2023 20.15_3.jpg]]
 # Types of Sources
 
 ## Independent Sources
@@ -115,7 +115,7 @@ $$\sum P_{supplied} + \sum P_{absorbed} = 0$$
 
 ```ad-example
 Determine if power is supplied or absorbed
-#comebacklater Insert example 1
+![[CamScanner 08-24-2023 20.15_5.jpg]]
 ```ad-check
 title: Solution
 - use $P=vi$
@@ -126,7 +126,7 @@ title: Solution
 
 ```ad-example
 color: 250, 100, 150
-Determine if power is supplied or absorbed: #comebacklater insert example 2
+Determine if power is supplied or absorbed: ![[CamScanner 08-24-2023 20.15_6.jpg]]
 ```ad-check
 title: Solution
 - $P=vi$
@@ -143,7 +143,7 @@ Current is dependent on the direction it is flowing towards
 
 ```ad-example
 color: 255, 255, 0
-Find the voltage $V_0$ in the circuit shown using power balance. #comebacklater insert example 3
+Find the voltage $V_0$ in the circuit shown using power balance. ![[CamScanner 08-24-2023 20.15_7 (1).jpg]]
 ```ad-check
 title: Solution
 - Find $P_1$

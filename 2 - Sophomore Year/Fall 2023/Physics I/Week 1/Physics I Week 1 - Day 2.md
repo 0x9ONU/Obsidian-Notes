@@ -32,7 +32,7 @@ Necessary to turn other units into units of SI
 ```ad-check
 title: Answer
 - $12 cm = 12*10^{-2}m$
-- $3 mg = 3*10^{-3}g = 3*10^{-3}*10^{-3}kg = 3*10^{-6}kg
+- $3 mg = 3*10^{-3}g = 3*10^{-3}*10^{-3}kg = 3*10^{-6}kg$
 ```
 
 ```ad-example
@@ -87,7 +87,7 @@ Dimensional Analysis will NOT be able to check for constants within a formula
 **Vector**: When magnitude and orientation is needed
 - Ex. Force is a vector that needs **both** magnitude and orientation
 
-#comebacklater  insert vector drawings
+![[CamScanner 08-24-2023 20.15_8 (1).jpg]]
 
 ```ad-note
 title: Vectors with magnitude alone
@@ -105,23 +105,27 @@ $$|a^{->}|=a$$
 ```ad-example
 Draw the following: $$c^{->} = a^{->} + b^{->}$$
 ```
-#comebacklater insert vector graph
+
+![[CamScanner 08-24-2023 20.15_9.jpg]]
 
 **Steps for the Polygon Rule**: 
 - Connect every vector with the same magnitude and orientation
 - Connect the origin of the first to the tip of the last vector
 
-#comebacklater  insert polygon graph
+![[CamScanner 08-24-2023 20.15_10 (1).jpg]]
 
 ```ad-important
 Use polygon rule when there are three or more vectors
 ```
 
 ```ad-example
-Draw the following: $$d^{->} = a^{->} + b^{->} + c^{->}
+Draw the following: $$d^{->} = a^{->} + b^{->} + c^{->}$$
+![[CamScanner 08-24-2023 20.15_11.jpg]]
 ```
 
-#comebacklater Insert Example 1, 2, and 3
+![[CamScanner 08-24-2023 20.15_13.jpg]]
+
+
 ### Multiplication by a Scalar
 
 ```ad-note
@@ -133,7 +137,11 @@ $$b^{->}=2*a^{->}$$
 $$c^{->}=-3*a^{->}$$
 $$d^{->}=-a^{->}$$
 ```
-#comebacklater insert example 4 and 5 and 6
+
+![[CamScanner 08-24-2023 20.15_14 1.jpg]]
+
+![[CamScanner 08-24-2023 20.15_15.jpg]]
+
 ```ad-important
 $$F^{->}=ma^{->}$$
 - The force is dependent on both the mass and the acceleration
