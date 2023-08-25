@@ -27,6 +27,14 @@ title: Homework
 - They **approximate** real numbers:
 	- Rational or irrational numbers
 
+```ad-note
+**PEMDAS** matters for operations
+- Parenthesis;
+- Exponenets
+- Multiplication and Division
+- Additiona and Subtraction
+- If same level, solve left-to-right
+```
 # Extraction operator (`>>`)
 - Transfers bytes from input stream object
 - Delimited by whitespace
