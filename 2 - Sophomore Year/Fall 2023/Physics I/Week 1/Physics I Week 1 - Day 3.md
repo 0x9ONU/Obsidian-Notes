@@ -38,35 +38,35 @@ color: 255, 255, 0
 $$d^{->}=a^{->}-b^{->}= a^{->}(-b^{->})$$
 ```
 
-#comebacklater insert Example 1
+![[CamScanner 08-25-2023 13.30_1.jpg]]
 
 ```ad-example
 title: Example #3
 $$s^{->}=g^{->}-p^{->}$$
 ```
 
-#comebacklater  insert Example 3
+![[CamScanner 08-25-2023 13.30_2.jpg]]
 
 ```ad-example
 title: Example #4
 color: 180, 100, 180
 $$r^{->}=a^{->}-b^{->}$$
-#comebacklater insert Example 3
+![[CamScanner 08-25-2023 13.30_3.jpg]]
 ```
 
 ```ad-example
 title: Example #5
-#comebacklater insert Example 5
 $$p^{->}=m^{->}-n^{->}$$
+![[CamScanner 08-25-2023 13.30_4.jpg]]
 ```
 
 # Representing Vectors in the Cartesian Coordinate System
 
 ```ad-note 
 It is a 3-dimensional system that consists of three quantities:
-- $i^{\^}$
-- $j^{\^}$
-- $k^{\^}$
+- $\hat{i}$
+- $\hat{j}$
+- $\hat{k}$
 ```
 
 **Unit Vectors**: Special vectors that have a magnitude of one 
@@ -74,34 +74,35 @@ It is a 3-dimensional system that consists of three quantities:
 - Determines the direction of a vector
 
 ```ad-example
-1. $$A^{->} =2i^{\^}$$
-2. $$B^{->} = -3i^{\^}$$
-3. $$C^{->} = -j^{\^}$$
+1. $$A^{->} =2\hat{i}$$
+2. $$B^{->} = -3\hat{i}$$
+3. $$C^{->} = -j\hat{j}$$
 ```
 
-#comebacklater insert CCS
+![[CamScanner 08-25-2023 13.30_5.jpg]]
 ## Vectors in Unit Vector Notation
 
 ```ad-example
 color: 255, 0, 255
 Express $A^{->}$ as a vector 
-#comebacklater insert off the origin
+
+![[CamScanner 08-25-2023 13.30_6.jpg]]
 ```ad-check
 title: Solution
-$$A^{->}= 3i^{\^} + 2j^{\^}$$
+$$A^{->}= 3\hat{i} + 2\hat{j}$$
 ```
 
 Use both i hat and j hat to express a vector going off the origin in the multiple magnitudes of ihat and jhat
 
 ```ad-summary
 title: Unit Vector Notation
-$$A^{->}= A_{x}i^{\^} + A_{y}j^{\^}$$
+$$A^{->}= A_{x}\hat{i} + A_{y}\hat{j}$$
 ```
 
 ```ad-example
 color: 255, 255, 0
-$$B^{->}= B_{x}i^{\^} + B_{y}j^{\^}$$
-$$B^{->}= -i^{\^} + -2j^{\^}$$
+$$B^{->}= B_{x}\hat{i} + B_{y}\hat{j}$$
+$$B^{->}= -\hat{i} + -2\hat{j}$$
 ```
 
 ## Calculate the Magnitude of the Vector
@@ -136,7 +137,7 @@ Vector degrees are quadrant dependent!!
 
 ### Another Case
 
-#comebacklater inset another case later
+![[CamScanner 08-25-2023 13.30_7.jpg]]
 
 Given the Vector $A^{->}$ with a magnitude of 7 and a angle of 30 degrees, find the unit vector notation
 

@@ -13,7 +13,7 @@ collapse: open
 
 ```ad-note
 title: Homework
-- [ ] 2.13, 2.14, 2.18
+- [x] 2.13, 2.14, 2.18
 ```
 
 # Ohm's Law
@@ -57,17 +57,14 @@ Further, using the Power formula ($P = vi$):
 
 When resistance = 0 or $v=0$, there is a short circuit.
 
-#comebacklater insert figure 1
-
 When resistance = $\infty$ or $i=0$, there is an open circuit
 
-#comebacklater  insert figure 2
-
+![[CamScanner 08-25-2023 13.30_8.jpg]]
 ## Examples
 
 ```ad-example
 Find the current $i$ flow and the power abosrbed by the resistor
-#comebacklater insert Example 1
+![[CamScanner 08-25-2023 13.30_9 (1).jpg]]
 ```ad-check
 title: Solution
 - Recall the current formula
