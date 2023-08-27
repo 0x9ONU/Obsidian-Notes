@@ -1,6 +1,6 @@
 Date: 21st August 2023
 Date Modified: 21st August 2023
-File Folder: Circuits
+File Folder: Week 1
 #Circuits
 
 ```ad-abstract
@@ -73,11 +73,3 @@ $4.352 * 10^3$
 All these systems utilize and are represented in electronic circuits
 ```
 
-# Basic Electric Quantities
-
-**Voltage (V)**: 
-- The energy per unit charge that is created by charge separation
--  Volts (V)
-- $V= \frac{dW}{dq}$
-	- $dW = Energy (j)$
-	- $dq = charge (C)$

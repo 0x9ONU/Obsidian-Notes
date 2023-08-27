@@ -11,15 +11,24 @@
             "id": "3889c5d749be2aec",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7bbbeadbb93ec7a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,10 +192,38 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3889c5d749be2aec",
+  "active": "d7bbbeadbb93ec7a",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
     "conflict-files-obsidian-git.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 1",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 1/DSA Week 1 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 1/DSA Week 1 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 1/DSA Week 1 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 1",
+    "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
+    "images.png",
+    "Pasted image 20230823100328.png",
+    "Excalidraw/Drawing 2023-08-23 10.23.39.excalidraw.md",
+    "CamScanner 08-25-2023 13.30_9 (1).jpg",
+    "CamScanner 08-25-2023 13.30_8.jpg",
+    "CamScanner 08-25-2023 13.30_7.jpg",
+    "CamScanner 08-25-2023 13.30_6.jpg",
+    "CamScanner 08-25-2023 13.30_5.jpg",
+    "CamScanner 08-25-2023 13.30_4.jpg",
+    "CamScanner 08-25-2023 13.30_3.jpg",
+    "CamScanner 08-25-2023 13.30_2.jpg",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 1",
+    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
     "Templates/Physics 1 template/Physics 1 Template.md",
     "Templates/Physics 1 template",
     "Templates/Discrete Math/Discrete Math Template.md",
@@ -197,39 +234,11 @@
     "Templates/Digital Signal Processing",
     "Templates/Circuits/Circuits Template.md",
     "Templates/Circuits",
-    "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/DSA Week 1 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Circuits Week 1 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Physics I",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One",
-    "2 - Sophomore Year/Fall 2023/Circuits",
-    "2 - Sophomore Year/Fall 2023",
     "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 2 - Datasets for Machine Learning.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
     "2 - Sophomore Year/Summer Research/Cybersecurity/Malicious Software Lab.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
-    "2 - Sophomore Year/Summer Research/Networks/Chapter 3 - Transport Layer.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Untitled.md",
-    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 4 - Data Pre-Processing.md",
-    "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
-    "2 - Sophomore Year/Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230615110716.png",
-    "2 - Sophomore Year",
-    "Summer Research/Cybersecurity/Drawing 2023-06-14 16.17.04.excalidraw.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 10/Programming 2 Week 10 - Day 1.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230614155818.png",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230614153327.png",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230614153126.png",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 11/Programming 2 Week 11 - Day 3.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 11/Programming 2 Week 11 - Day 1.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 11/Programming - Final's Study Guide.md",
-    "1 - Freshman Year/Semester 2/Programming 2/Week 10/Programming 2 Week 10 - Day 2.md",
-    "Excalidraw/Drawing 2023-02-02 16.42.55.excalidraw.png",
-    "1 - Freshman Year/Semester 2/Digital Logic/Lab 13/PXL_20230502_170640364~2.jpg",
-    "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230605162300.png",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230614141912.png",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230614141639.png",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Images/Pasted image 20230614105320.png"
+    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md"
   ]
 }

@@ -13,4 +13,7 @@ collapse: open
 
 ```
 
-
+```ad-note
+title: Homework
+- [ ] Add picture to canvas
+```
