@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "288aadfd2fca8ee7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md"
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Physics I Week 1 - Day 1.md"
               }
             }
           },
@@ -183,10 +194,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3889c5d749be2aec",
+  "active": "288aadfd2fca8ee7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+    "conflict-files-obsidian-git.md",
     "Templates/Physics 1 template/Physics 1 Template.md",
     "Templates/Physics 1 template",
     "Templates/Discrete Math/Discrete Math Template.md",
