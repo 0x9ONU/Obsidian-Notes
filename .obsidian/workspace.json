@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "288aadfd2fca8ee7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +183,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "288aadfd2fca8ee7",
+  "active": "3889c5d749be2aec",
   "lastOpenFiles": [
     "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
     "conflict-files-obsidian-git.md",
