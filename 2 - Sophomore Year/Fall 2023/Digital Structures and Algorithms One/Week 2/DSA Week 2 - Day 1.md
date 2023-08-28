@@ -77,6 +77,17 @@ To check whether two values are equal, use ``==``
 
 To assign a variable to another number, use '='
 
+## Nested Loops
 
+**Independent Nested Loop**: When both variables of the loops run independently of each other
+```c++
+for (int i=0; i<n;; i++) {
+//OuterLoop Body
+for(int j = 0; j<n; j++) {
+	
+}
+}
+```
+**
 
 
