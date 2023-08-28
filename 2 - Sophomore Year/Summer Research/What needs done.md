@@ -1,9 +1,9 @@
 
-- [ ] Paraphrase freature selection paragraph (4-5 lines)
+- [x] Paraphrase freature selection paragraph (4-5 lines) ✅ 2023-08-28
 
 - [ ] Summarizing the models created paragraph
 
-- [ ] Recreated Fig 1 (make small changes like color and shapes)
+- [x] Recreated Fig 1 (make small changes like color and shapes) ✅ 2023-08-28
 
 - [ ] Fix fonts in fig 2
 
