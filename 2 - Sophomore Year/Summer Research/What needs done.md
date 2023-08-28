@@ -7,7 +7,7 @@
 
 - [x] Fix fonts in fig 2 ✅ 2023-08-28
 
-- [ ] Change graph colors and presentation
+- [x] Change graph colors and presentation ✅ 2023-08-28
 
 - [ ] Remove results discussion and move it to other places as needed
 
