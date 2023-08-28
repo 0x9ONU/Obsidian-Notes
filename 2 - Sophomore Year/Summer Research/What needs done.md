@@ -9,11 +9,11 @@
 
 - [ ] Change graph colors and presentation
 
-- [x] Remove results discussion and move it to other places as needed ✅ 2023-08-28
+- [ ] Remove results discussion and move it to other places as needed
 
-- [ ] paraphrase botnet results (remove concern)
+- [x] paraphrase botnet results (remove concern) ✅ 2023-08-28
 
-- [ ] Remvoe Dos, DDoS, and Web Attack Graphs
+- [x] Remvoe Dos, DDoS, and Web Attack Graphs ✅ 2023-08-28
 
 - [ ] Summarize Dos and DDoS results into one paragraph
 
