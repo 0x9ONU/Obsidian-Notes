@@ -5,11 +5,11 @@
 
 - [x] Recreated Fig 1 (make small changes like color and shapes) ✅ 2023-08-28
 
-- [ ] Fix fonts in fig 2
+- [x] Fix fonts in fig 2 ✅ 2023-08-28
 
 - [ ] Change graph colors and presentation
 
-- [ ] Remove results discussion and move it to other places as needed
+- [x] Remove results discussion and move it to other places as needed ✅ 2023-08-28
 
 - [ ] paraphrase botnet results (remove concern)
 
