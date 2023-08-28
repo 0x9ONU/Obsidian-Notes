@@ -1,7 +1,7 @@
 
 - [x] Paraphrase freature selection paragraph (4-5 lines) ✅ 2023-08-28
 
-- [ ] Summarizing the models created paragraph
+- [x] Summarizing the models created paragraph ✅ 2023-08-28
 
 - [x] Recreated Fig 1 (make small changes like color and shapes) ✅ 2023-08-28
 
