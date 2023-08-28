@@ -16,3 +16,13 @@ title: Homework
 - [ ] HW 1 in Github 📅 2023-09-01 
 ```
 
+# Debugging Intro Day 3
+
+```ad-summary
+**Factorial** - The Product of the number and all positive integers less than it
+$$n! = n*(n-1)*...1$$
+$$0! = 1$$
+```
+
+
+

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "938c2d187b6d3d39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 1.md"
               }
             }
           },
@@ -189,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "938c2d187b6d3d39",
+  "active": "889a6aa703f96805",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 1.md",
     "conflict-files-obsidian-git.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 1.md",
     "2 - Sophomore Year/Summer Research/What needs done.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 2",
