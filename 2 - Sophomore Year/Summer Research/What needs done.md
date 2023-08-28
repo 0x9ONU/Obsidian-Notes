@@ -15,7 +15,7 @@
 
 - [x] Remvoe Dos, DDoS, and Web Attack Graphs ✅ 2023-08-28
 
-- [ ] Summarize Dos and DDoS results into one paragraph
+- [x] Summarize Dos and DDoS results into one paragraph ✅ 2023-08-28
 
 - [ ] make web attack and overall summary one paragraph
 
