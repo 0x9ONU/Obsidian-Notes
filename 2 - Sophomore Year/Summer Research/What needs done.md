@@ -9,7 +9,7 @@
 
 - [x] Change graph colors and presentation ✅ 2023-08-28
 
-- [ ] Remove results discussion and move it to other places as needed
+- [x] Remove results discussion and move it to other places as needed ✅ 2023-08-28
 
 - [x] paraphrase botnet results (remove concern) ✅ 2023-08-28
 
@@ -17,7 +17,7 @@
 
 - [x] Summarize Dos and DDoS results into one paragraph ✅ 2023-08-28
 
-- [ ] make web attack and overall summary one paragraph
+- [x] make web attack and overall summary one paragraph ✅ 2023-08-28
 
 - [ ] Reword traffic capture results
 
