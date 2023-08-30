@@ -152,6 +152,14 @@
               "type": "mermaid-toolbar-view",
               "state": {}
             }
+          },
+          {
+            "id": "b7736d472ad63520",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -176,7 +184,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce67d15dea56e792",
+  "active": "074ffa03b2132a38",
   "lastOpenFiles": [
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 2.md",
