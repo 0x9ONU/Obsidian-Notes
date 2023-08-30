@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 2/Physics I Week 2 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 2/Physics I Week 2 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 2/Physics I Week 2 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 2/Physics I Week 2 - Day 2.md"
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 2.md"
               }
             }
           },
@@ -184,13 +184,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd7bb76f6a1d1b91",
+  "active": "ce67d15dea56e792",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 2/Physics I Week 2 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 2/Physics I Week 2 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 2/Physics I Week 2 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 3.md",
@@ -230,7 +231,6 @@
     "2 - Sophomore Year/Fall 2023/Circuits/Week 1",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Drawing 2023-08-21 12.03.18.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing",
-    "Templates/Circuits/Circuits Template.md",
     "2 - Sophomore Year/Fall 2023/Circuits"
   ]
 }

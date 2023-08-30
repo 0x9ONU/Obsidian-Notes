@@ -14,7 +14,7 @@ collapse: open
 
 ```ad-note
 title: Homework
-- [ ] 3.4, 3.14, 3.18
+- [x] 3.4, 3.14, 3.18
 ```
 
 # Ohm's Law Extra
