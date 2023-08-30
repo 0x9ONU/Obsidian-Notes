@@ -34,7 +34,7 @@ $$\sum I_{in} = \sum I_{out}$$
 ```ad-summary
 title: Definition
 **Node**: A junction wehre two or more elements meet
-#comebacklater ex 1
+![[CamScanner 08-30-2023 13.41_1.jpg]]
 ```
 
 ```ad-important
@@ -42,7 +42,7 @@ If current out is assumed out to be *positive*, the current in would be **NEGATI
 ```
 
 ```ad-example
-#comebacklater ex 2
+![[CamScanner 08-30-2023 13.41_2.jpg]]
 $$-2A -2A + 4A = 0A$$
 $$ $$
 $$or$$
@@ -53,7 +53,7 @@ $$2A+2A=4A$$
 ```ad-example
 color: 255, 255, 0
 Find $I_1, I_2, I_3, I_4$
-#comebacklater ex 3
+![[CamScanner 08-30-2023 13.41_3.jpg]]
 ```ad-check
 title: Solution
 - Find $I_1$ with Node A
@@ -82,7 +82,7 @@ $$ or $$ $$\sum V_{rise} = \sum V_{drop}$$
 ```ad-summary
 title: Definition
 **Closed Loop**: Any closed contour that starts at a point, trace elements only once and return to the same point it started
-#comebacklater ex 4
+![[CamScanner 08-30-2023 13.41_4.jpg]]
 ```
 
 ```ad-note
@@ -91,7 +91,7 @@ The direction of the loop is up to your discression, but it must be the same dir
 
 ```ad-example
 Find $V_1, V_2, V_3$
-#comebacklater ex 5
+![[CamScanner 08-30-2023 13.41_5.jpg]]
 ```ad-check
 title: Solution
 - Use Loop 1 to find $V_1$
@@ -112,14 +112,14 @@ title: Solution
 
 Find the power absorbed or supplied by each element and show that $Power_{absorbed} = Power_{supplied}$
 
-#comebacklater ex 6
+![[CamScanner 08-30-2023 13.41_6.jpg]]
 
 ```ad-check
 title: Solution
 - Find unknown voltages
 	- Find $V_s$ using outer loop:
 		- $\sum V = 0$
-		- $ 24 + 6 - V_s - 8 - 4 = 0$
+		- $24 + 6 - V_s - 8 - 4=0$
 		- $V_s=18V$
 	- Find $V_x$ using inner loop:
 		- $\sum V = 0$
