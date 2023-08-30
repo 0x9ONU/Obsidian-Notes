@@ -38,7 +38,11 @@ If the circuit splits in a different direction, the branch that goes in a differ
 ![[CamScanner 08-30-2023 13.44_2.jpg]]
 
 $$\frac{1}{R_T} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + ... + \frac{1}{R_N}$$
-$$ R_T = \frac{R_1R_2R_3...R_N}{R_1+R_2+R_3 +...+R_N}$$
+$$ R_T = \frac{R_1R_2}{R_1+R_2}$$
+
+```ad-warning
+The above formula works ONLY when there are **two** resistances
+```
 
 ```ad-note
 Resistors are in parallel when two resistors are connected using four nodes that connect both ends of the resistor to each other.
