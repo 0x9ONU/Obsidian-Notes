@@ -69,7 +69,7 @@ gallops halfway back in 1.8 $s$. Calculate (a) its average
 speed and (b) its average velocity for the entire trip, using 
 “away from the trainer” as the positive direction. 
 
-#comebacklater ex. 1
+![[CamScanner 08-30-2023 16.13_1.jpg]]
 
 ```ad-check
 title: Solution
@@ -85,7 +85,7 @@ $$ v = \lim_{\Delta t \to 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt} $$
 
 ```ad-summary
 title: Geometric Interpretation of $\bar{v}$ and $v$
-#comebacklater ex. 2
+![[CamScanner 08-30-2023 16.13_2.jpg]]
 
 ```ad-important
 The tangent of the triangle created by the secant line, $\Delta x$ and $\Delta t$ is Average Velocity
@@ -108,20 +108,11 @@ $$ a = \lim_{\Delta t \to 0} \frac{\Delta v}{\Delta t} = \frac{dv}{dt} = \frac{d
 ```ad-summary
 color: 180, 90, 190
 title: Geometric Interpretation of $\bar{a}$ and $a$
-#comebacklater ex. 3
+![[CamScanner 08-30-2023 16.13_3.jpg]]
 
 ```ad-important
 The average acceleration ($\bar{a}) is the tangent of the triangle created by $\Delta v$, $\Delta t$, and the secant line created by connecting $t_i$ and $t_f$
 ```ad-note
 The instantaneous acceleration at a point is the slpe of the line tangent at the point to the graph $v(t) at the given point
 ```
-
-
-```
-```
-
-
-
-
-
 

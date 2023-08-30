@@ -107,5 +107,4 @@ title: Solution
 	- ![[CamScanner 08-30-2023 13.44_16.jpg]]
 - $R_{eq} = 1k + 2k = 3k \Omega$
 ```
-.
 

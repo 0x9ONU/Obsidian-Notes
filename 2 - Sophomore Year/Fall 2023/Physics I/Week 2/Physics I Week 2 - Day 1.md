@@ -22,7 +22,7 @@ title: Homework
 
 ## First/Second Quadrant
 
-#comebacklater insert ex 1
+![[CamScanner 08-30-2023 16.10_1.jpg]]
 
 ```ad-example
 Find Vector in unit vector form where $A=7$ and $A^{->}=A_x\hat{i}+A_y\hat{j}$
@@ -42,7 +42,7 @@ When a vector is in the second quadrant, $\hat{i}$ will have a negative magnitud
 ```ad-example
 color: 255, 255, 0
 Find Vector in Unit Vector from where $B=8$
-#comebacklater ex 2
+![[CamScanner 08-30-2023 16.10_2.jpg]]
 ```ad-check
 title:Solution
 - Finc $B_x$
@@ -66,7 +66,7 @@ title:Solution
 
 ```ad-example
 Find unit vector notation of C with a magntiude of $C=5$
-#comebacklater ex 3
+![[CamScanner 08-30-2023 16.10_3.jpg]]
 ```ad-check
 title: Solution
 - Find $C_x$
@@ -108,7 +108,7 @@ title: Solution
 	- $R^{->} = (37.1-16.6+0)\hat{i} + (19.7+24.62-31)hat{j}$
 	- $R^{->} =20.5\hat{i} + 13.3\hat{j}$ 
 		- THESE ARE THE COMPONENTS
-	- #comebacklater insert ex 4
+	- ![[CamScanner 08-30-2023 16.10_4.jpg]]
 - Find the magnitude of $R^{->}$
 	- $R=\sqrt{R_x^2+R_y^2}$
 	- $R = \sqrt{(20.5)^2+(13.3)^2} = 24.4
@@ -124,6 +124,6 @@ title: Solution
 
 ```ad-example
 title: Car Example
-#comebacklater ex. 5
+![[CamScanner 08-30-2023 16.10_5.jpg]]
 ```
 
