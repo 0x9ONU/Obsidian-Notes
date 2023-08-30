@@ -7,14 +7,14 @@ File Folder: Week 2
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Review Day #4
+	- Nested Loops
 
 ```
 
 ```ad-note
 title: Homework
-- [ ] Add picture to canvas
+- [ ] HW #1 hard submission + github 📅 2023-09-01 
 ```
+
 
