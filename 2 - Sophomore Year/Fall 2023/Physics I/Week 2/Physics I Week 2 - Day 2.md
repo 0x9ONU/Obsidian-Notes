@@ -8,6 +8,7 @@ title: Today's Topics
 collapse: open
 
 - Kinematics Introduction
+- Physical Quantities of Objects under Kinematic Forces
 
 ```
 
