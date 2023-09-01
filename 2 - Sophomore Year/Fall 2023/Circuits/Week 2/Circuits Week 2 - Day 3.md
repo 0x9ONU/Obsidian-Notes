@@ -11,15 +11,9 @@ collapse: open
 - Current Division
 
 ```
-
-```ad-note
-title: Homework
-- [ ] test
-```
-
 # Voltage Division 
+![[CamScanner 09-01-2023 13.13_1.jpg]]
 
-#comebacklater ex 1. 
 - Applies to resistors that are connected in **series**
 - Use ohm's Law to find voltage of a single resistor($V_1=IR_1$)
 - Use the following to find current
@@ -36,7 +30,7 @@ $$V_x = \frac{R_x}{R_T}V_s$$
 
 ```ad-example
 Find the voltage across each resistor in the circuit shown:
-#comebacklater ex. 2
+![[CamScanner 09-01-2023 13.13_2.jpg]]
 
 ```ad-check
 title: Solution
@@ -53,14 +47,14 @@ title: Solution
 
 ```ad-example
 color: 180, 100, 180
-Find V_x
-#comebacklater ex. 3
+Find $V_x$
+![CamScanner 09-01-2023 13.13_3.jpg](file:///C:%5CUsers%5Cjavva%5CDownloads%5CCamScanner%2009-01-2023%2013.13_3.jpg)
 ```ad-check
 title: Solution
 - Combine the parallel resistors to make them in series
 	- 16 // 16
 		- $\frac{16(16)}{16+16} = 8 \Omega$
-	- #comebacklater ex. 4
+	- ![[CamScanner 09-01-2023 13.13_4.jpg]]
 - Find $V_x$
 	- $V_x = \frac{8}{4+8}(12) = 8V$
 ```
@@ -71,7 +65,7 @@ Resistors that are in parallel **ALSO** have the same voltage
 # Current Division
 
 Applies to resistors that are connected in **parallel**:
-#comebacklater ex. 5
+![[CamScanner 09-01-2023 13.13_5.jpg]]
 
 - $I_1 = \frac{\frac{1}{R_1}}{\frac{1}{R_1}+ \frac{1}{R_2} + \frac{1}{R_3}}$
 - Replace with *conductance*:
@@ -87,7 +81,7 @@ $$ where G_x = \frac{1}{R_x}$$
 
 ```ad-note
 title: For two Resistors in parallel
-#comebacklater ex. 6
+![[CamScanner 09-01-2023 13.13_6.jpg]]
 $$I_1 = \frac{R_2}{R_1+R_2}I_s$$
 $$I_2 = \frac{R_1}{R_1+R_2}I_s$$
 ```ad-important
@@ -97,7 +91,7 @@ YOU TAKE THE OPPOSITE RESISTOR's RESISTANCE
 
 ```ad-example
 Find the current in each resistor in the circuit shown:
-#comebacklater ex. 7
+![[CamScanner 09-01-2023 13.13_7.jpg]]
 ```ad-check
 title: Solution
 - Find $I_1$
@@ -116,8 +110,12 @@ title: Solution
 title: Short Circuit
 color: 255, 255, 0
 The current will always take the path of least resistance. A short circuit will bypass any resistances in parallel!
-#comebacklater ex. 8
+- They would have $0 A$ going through them
+![[CamScanner 09-01-2023 13.13_8.jpg]]
 ```
+
+
+
 
 
 

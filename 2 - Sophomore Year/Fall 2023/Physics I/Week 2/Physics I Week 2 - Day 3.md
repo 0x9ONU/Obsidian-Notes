@@ -62,8 +62,8 @@ When the Instantaneous acceleration is constant for a given funciton,, it is cal
 ```
 
 ## Graph of Function
-#comebacklater ex. 1
 
+![[CamScanner 09-01-2023 13.18_1.jpg]]
 # Derivates of the Three Kinematic Equations for 1D Uniformly-Accelerated Motion
 
 **Acceleration to Velocity:**
