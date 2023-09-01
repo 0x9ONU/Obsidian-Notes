@@ -98,11 +98,63 @@ int main() {
 	
 	cout << "The value of the character using the variable is: " << character << endl;
 	cout << "The value of the character using the pointer is: " << *charPnt << endl;
-	cout << "The address of the character using the variable is: " << &character << endl;
-	cout << "The address of the character using the pointer is " << charPnt << endl;
+	cout << "The address of the character using the variable is: " << (void*)&character << endl;
+	cout << "The address of the character using the pointer is " << (void*)charPnt << endl;
 }
 ```
  
+## Address Operator `&`
+
+Returns the memory address of the variable it is placed in front of
+
+```ad-note
+`address = &variableName`
+```
+
+## Dereferencing Operator `*`
+
+We cna access the value store din the variable pointed to by using the dereferencing operator (`*`)
+
+### Assigning a value to a dereferenced pointer
+
+A pointer *must* have a value before you can dereference it (follow the pointer)
+
+```c++
+//NOT GOOD
+int *x;
+*x = 3;
+
+//GOOD
+int foo;
+int* x;
+x = &foo;
+*x = 3;
+```
+
+## Points of Confusion
+
+- Declaring a pointer means only that it is a pointer: `int* p`
+- Don't be confused with the dereferencing operator, which is also written with an asterisk `*`
+
+```ad-important
+They are simply tow different tasks represented with the same sign
+```
+
+```c++
+int a = 100, b = 88, c = 8;
+
+int *p1 = &a, *p2, *p3 = &c;
+
+p2 = &b;
+p2 = p1;
+b = *p3;
+*p2 = *p3;
+cout << a << b << c;
+
+//Result is 8, 8, 8
+```
+
+
 
 
 
