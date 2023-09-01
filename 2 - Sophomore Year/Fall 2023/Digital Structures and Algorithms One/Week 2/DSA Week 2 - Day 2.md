@@ -76,3 +76,8 @@ Memory is an addressable space and every byte has an address
 After successful compilation of a source code, it is loaded into the memory to be executed
 - Every program has its own separate space.
 - The memory space is divided into several parts
+
+```ad-important
+- The **Stack** containes all variables that are created during compile time. 
+- The **Heap** contains all variables that were created *dynamically*
+```
