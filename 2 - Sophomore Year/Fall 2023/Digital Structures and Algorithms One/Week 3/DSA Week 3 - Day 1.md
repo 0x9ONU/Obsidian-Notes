@@ -39,4 +39,10 @@ int main(int argc, const char* argv[])
 **Command Line Syntax**:
 `./my-program arg1 arg2 arg3 ...`
 
+```ad-note
+Use atoi to convert string to int and atod to convert string to double
+- Must have <cstdlib> and <string> to work
+```
+
+
 

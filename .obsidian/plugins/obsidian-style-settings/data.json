@@ -1,5 +1,5 @@
 {
-  "obsidian-prism-theme@@pt-fade-inactive-tabs": false,
-  "obsidian-prism-theme@@pt-pdf-dark-theme": true,
-  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-custom-dt"
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-accent-dt",
+  "obsidian-prism-theme@@pt-pdf-dark-theme": true
 }
