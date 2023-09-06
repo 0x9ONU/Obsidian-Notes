@@ -65,8 +65,12 @@ title: Solution
 	- $2v_2 - 2v_1 + 3v_2 =-24$ Equation $2$
 - Use matrix form
 	- #comebacklater ex. 2
-	- 
+- Find $v_0$
+	- $v_0 = v_1 - v_2$
+	- $v_0 = (1.608)-(-4.158) = 5.766 v$
 ```
+
+
 
 
 
