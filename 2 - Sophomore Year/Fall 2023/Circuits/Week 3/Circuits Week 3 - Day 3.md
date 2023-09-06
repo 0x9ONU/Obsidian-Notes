@@ -49,6 +49,10 @@ A current source is on top rather than on the bottom. Positive or negative depen
 ```ad-warning
 Ground counts as a node for number of equaitons = number of nodes - 1
 ```
+
+```ad-warning
+Ignore resistance for current sources
+```
 ## Examples
 ```ad-example
 Find the votlage $V_0$ using nodal analysis
@@ -70,6 +74,29 @@ title: Solution
 	- $v_0 = (1.608)-(-4.158) = 5.766 v$
 ```
 
+```ad-example
+Find $I_0$ using nodal analysis
+#comebacklater ex. 3
+```ad-check
+title: Solution
+- Assign nodes $V_2$ and $V_1$ and Ground
+- Node 1
+	- $v_1 6$
+	- First Part is a super node!
+		- When there is only a single voltage source between one node and another
+- Node 2
+	- $\frac{v_2-v_1}{8} + \frac{v_2-0}{16} + \frac{V_2}{24} = 0$
+	- $6v_2-6v_1+3v_2+2v_2 = 0$
+	- $-6v_1+11v_2=0$
+- Substitute node 1 into node 2
+	- $-6(6)+11v_2 = 0$
+	- $11v_2=36$
+	- $v_2=3.27v$
+- FInd Current $I_0$
+	- $\frac{v_2}{24}$
+	- $\frac{3.27}{24}$
+	- $I_0 = 0.136 A$
+```
 
 
 
