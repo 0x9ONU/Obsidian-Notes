@@ -47,7 +47,7 @@ Memory is an addressable space and every byte has an address
 - Addresses at a max of *$2^{64}$ bytes
 
 ```ad-note
-`0x` means Hexadecimal Representation
+`0x` means Hexadecimal Representation (ex. `0x2A38`)
 ```
 ### Hex vs. Decimal vs. Binary
 
