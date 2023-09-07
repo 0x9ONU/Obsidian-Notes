@@ -16,6 +16,11 @@ title: Homework
 - [ ] pg. 49-50 33, 35, 37, 41, 55, 57, 63
 ```
 
+# The Three Kinematic Equations
+
+1. $$x = x_i + v_i t + \frac{1}{2} at^2$$
+2. $$ v = v_i + at$$
+3. $$ v^2 = v_i^2 + 2a(x -x_i)$$
 # Kinematic Equations Examples
 
 ```ad-example
