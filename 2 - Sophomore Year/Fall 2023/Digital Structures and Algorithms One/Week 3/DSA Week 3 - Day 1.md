@@ -14,7 +14,7 @@ collapse: open
 
 ```ad-note
 title: Homework
-- [ ] Do practice HW
+- [x] Do practice HW
 - [ ] Take practice Exam
 - [ ] STUDY
 ```
@@ -42,7 +42,7 @@ int main(int argc, const char* argv[])
 ```ad-note
 color: 255, 255, 0
 Use atoi to convert string to int and atod to convert string to double
-- Must have <cstdlib> and <string> to work
+- Must have \<cstdlib\> and \<string\> to work
 ```
 # Pass-By-Pointer
 
@@ -63,6 +63,9 @@ int main() {
 Because it is passed an address and dereferenced and assigned, it is able to change the value at the address **without** returning any value
 ```
 
+```ad-warning
+Make sure to dereference the pointer within the Function!!
+```
 # Reference Variables
 
 A reference is an additional name to an existing memory location:
@@ -100,12 +103,11 @@ void IndirectSwap(char *Ptr1, char *Ptr2) {
 int main() {
 	char a = 'y';
 	char b = 'n';
-	IndirectSwap(&a, &b);
+	IndirectSwap(&a, &b); //The addresses of the pointers MUST be passed in rather than their actual values
 	cout << a << b << endl;
 	return 0;
 }
 ```
-
 ## Pass-By-Reference Example
 
 ```c++
@@ -118,7 +120,7 @@ void IndirectSwap(char& y, char& z) {
 int main() {
 	char a= 'y';
 	char b = 'n';
-	IndirectSwap(a, b);
+	IndirectSwap(a, b); //The pass-by-reference is able to take in the variables just like a pass-by-value function
 	cout << a << b << endl;
 	return 0;
 }
