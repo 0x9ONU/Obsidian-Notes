@@ -31,6 +31,26 @@ Can be avoided by setting the pointers back to nullptr
 ```
 
 ```ad-note
-Out-of-scope dangling pointers can be avoided by using 
+Out-of-scope dangling pointers can be avoided by using **pass-by-reference**
+```
+
+# `Cerr`
+
+Behaves just like `cout` that tries to catch errors within a program
+- Comes out **FASTER** than `cout` due to skipping the buffer that `cout` uses and sends it directly to the console.
+
+```c++
+cout << "enter a positive integer: ";
+int n;
+cin >> n;
+
+if (n < 1) {
+	cerr << "Program needs a positive integer!" << endl;
+	return 1;
+}
+```
+
+```ad-note
+For *code snippets*, you do not have a write a full program (i.e. showing it is using namespace std or what libraries were included.)
 ```
 
