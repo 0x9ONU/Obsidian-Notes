@@ -36,7 +36,7 @@ Displacement can be positive, negative, zero
 
 The distance the object went over the entire time period.
 
-$$d = $$
+$$d = \sum x$$
 
 ```ad-note
 Is ALWAYS a positve quantity. Zero ONLY IF the object is not moving.
