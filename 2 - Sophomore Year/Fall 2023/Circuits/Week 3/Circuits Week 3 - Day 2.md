@@ -13,7 +13,7 @@ collapse: open
 
 ```ad-example
 Find the current $I_0$ in the circuit using nodal analysis.
-#comebacklater ex. 1
+![[CamScanner 09-08-2023 12.50.jpg]]
 ```ad-check
 - Node 1:
 	- Super Node!
@@ -47,4 +47,8 @@ Find the current $I_0$ in the circuit using nodal analysis.
 ```ad-important
 title: New Case
 If there is a super node **between** two nodes, the subtraction of the positive voltage minus the negative voltage would equal the voltage source. Then, write the extra branches on one side and add them to the extra branches on the other side. That would create **TWO** equations.
+```
+
+```ad-summary
+For nodes that have a dependent current source, create *another* equation that could be used to solve for the missing value. 
 ```

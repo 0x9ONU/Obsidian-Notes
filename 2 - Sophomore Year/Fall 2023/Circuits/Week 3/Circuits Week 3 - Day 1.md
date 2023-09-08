@@ -56,7 +56,7 @@ Ignore resistance for current sources
 ## Examples
 ```ad-example
 Find the votlage $V_0$ using nodal analysis
-#comebacklater ex. 1
+![[CamScanner 09-08-2023 12.48_1.jpg]]
 ```ad-check
 title: Solution
 - Assign the proper nodes (See ex. 1)
@@ -68,7 +68,7 @@ title: Solution
 	- $\frac{v_2-v_1}{3} + \frac{v_2-0}{2} + 4 = 0$
 	- $2v_2 - 2v_1 + 3v_2 =-24$ Equation $2$
 - Use matrix form
-	- #comebacklater ex. 2
+	- ![[CamScanner 09-08-2023 12.48_2.jpg]]
 - Find $v_0$
 	- $v_0 = v_1 - v_2$
 	- $v_0 = (1.608)-(-4.158) = 5.766 v$
@@ -76,7 +76,7 @@ title: Solution
 
 ```ad-example
 Find $I_0$ using nodal analysis
-#comebacklater ex. 3
+![[CamScanner 09-08-2023 12.48_1 1.jpg]]
 ```ad-check
 title: Solution
 - Assign nodes $V_2$ and $V_1$ and Ground
