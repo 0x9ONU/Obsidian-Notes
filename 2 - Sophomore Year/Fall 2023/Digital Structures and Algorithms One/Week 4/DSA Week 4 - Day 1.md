@@ -86,3 +86,33 @@ stringVec.push_back("goat");
 SHould include both the `<vector>` and `<string>` library
 ```
 
+## Algorithms Talk
+
+A good algorithm has the following:
+- Incorporates time complexity
+- Maximizes efficiency
+- Organize the algorithm properly
+- Maximize correctness
+- Understanding memory/space complexity
+
+# Dynamic Sets as Data Structures
+
+Elements have attributes
+- *Manipulated* (called **modifying operations**) or
+- *Examined* (called **queries**)
+
+```ad-important
+title: Identifying attribute: **Key**
+
+- **Total order** (notion of >, =, <, etc.)
+	- Typcial >, =, < for integers or reals
+	- Alphabetical order for word strings
+- Unique (distinct) or not distinct (**multiset**)
+	- {"cat", "dog"} vs. {"dog", "cat", "dog
+- Sorting, min, max elements
+	- Easy to get based on the keys following the 
+```
+
+```ad-note
+**Satilite Data**
+```
