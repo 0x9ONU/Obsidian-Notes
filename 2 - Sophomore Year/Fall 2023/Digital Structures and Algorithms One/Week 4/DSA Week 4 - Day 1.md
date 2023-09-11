@@ -12,13 +12,6 @@ collapse: open
 	- Describe waht an algorithm is and what makes a good algorithm
 
 ```
-
-```ad-note
-title: Homework
-- [ ] Add picture to canvas
-```
-
-
 # Data Structure
 
 ```ad-summary
