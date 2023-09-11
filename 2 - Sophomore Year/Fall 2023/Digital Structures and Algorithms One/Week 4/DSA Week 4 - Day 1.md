@@ -114,5 +114,38 @@ title: Identifying attribute: **Key**
 ```
 
 ```ad-note
-**Satilite Data**
+**Satilite Data** - Data included witht he key
 ```
+
+## Initial Linked List
+
+**Head** is a pionter to the front of the list
+
+**Tail** is the pointer to the end of the list
+
+Using this, it creates a *circular linked list*, whose tail points to the head
+- **singly linked list**
+- Only has one linking member to the **next** student
+
+```ad-warning
+This is also **unsorted** due to the keys given out at random
+```
+
+## Operations on Dynamic Sets: 
+
+### Search
+
+```ad-note
+title: Important identifiers
+- $S$ = Dyanmic Set
+- $k$ = key
+- $x$ = element
+- $x.key$ = key of element $x$
+- $p_x$ = ptr to $x$
+- `NIL` = nullptr
+```
+
+```ad-important
+Query returns $p_x$ such that $x.key == k$, or NIL if no such $x$ exists in the set
+```
+
