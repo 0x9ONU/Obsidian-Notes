@@ -159,3 +159,20 @@ title: Solution
 $$z[n] = 4 + 1 + 9 + 4$$
 $$z[n] = 18$$
 ```
+
+## Shifting & Folding
+
+```ad-important
+Shift first, THEN fold second
+```
+
+```ad-example
+$$X[n] = \{ 7, 1, 2_o, 6, 3 \}$$
+$$y[n] = x[-n-1]$$
+```ad-check
+title: Solution
+- Shift
+	- $X[n-1] = { 7, 1_o, 2, 6, 3}$
+- Fold
+	- $X[-n-1] = \{ 3, 6, 2, 1_o, 7 \}$
+```
