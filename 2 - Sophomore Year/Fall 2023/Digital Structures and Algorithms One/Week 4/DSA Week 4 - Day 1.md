@@ -117,9 +117,28 @@ title: Identifying attribute: **Key**
 **Satilite Data** - Data included witht he key
 ```
 
+### Code Example of Circular Linked List
+
+```c++
+class StudentLL //Studnet Linked List class name, LL stands for Linked List
+{
+	private: //acess specifier for no user access outside of the class definition
+	struct node {
+		string keyItems; // key data member (used for sorting, searching, etc.)
+		int numItems; // satellite data member (number of keyItems)
+		float price; //satellite data member (price to sell keyItems)
+		node* next; // linking member (pointer to the next student node)
+	};
+	node* head; // points to first node of the linked list
+	node* tail; //points to the last node of the linked list
+	public: //acess specifier so users can access them directly
+	//member functions to come later
+}
+```
+
 ## Initial Linked List
 
-**Head** is a pionter to the front of the list
+**Head** is a pointer to the front of the list
 
 **Tail** is the pointer to the end of the list
 
