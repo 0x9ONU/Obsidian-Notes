@@ -149,3 +149,6 @@ title: Important identifiers
 Query returns $p_x$ such that $x.key == k$, or NIL if no such $x$ exists in the set
 ```
 
+#comebacklater ex. 1
+
+### Insert
