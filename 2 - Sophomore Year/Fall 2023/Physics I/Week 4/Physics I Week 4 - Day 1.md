@@ -8,22 +8,15 @@ title: Today's Topics
 collapse: open
 
 - 2 Dimensional Motion Introduction
-- 
 
 ```
-
-```ad-note
-title: Homework
-- [ ] Add picture to canvas
-```
-
 # 2-Dimensional Motion
 
 ```ad-summary
 Gives the trajectory of the Motion in $x$,$y$ coordiantes rather than $x$ in terms of $t$
 ```
 
-#comebacklater ex. 1
+![[CamScanner 09-12-2023 14.13_1.jpg]]
 
 ## Position Vectors
 
@@ -40,7 +33,8 @@ $\Delta r^{->}$ and $\bar{v^{->}}$ have the **SAME** orientation
 ```ad-note
 Instanteanuous velocity vectors are always tangent to trajectory at *every* given point for a 2-dimensional motion
 ```
-#comebacklater ex. 2
+
+![[CamScanner 09-12-2023 14.13_2.jpg]]
 ### Average Acceleration of 2D Vectors
 
 ```ad-important
@@ -49,7 +43,7 @@ The acceleration always points towards the concave part of a 2D trajectory
 
 $$ \bar{a^{->}} = \frac{\Delta v^{->}}{\Delta t} = \frac{V^{->}_B - V^{->}_A}{\Delta t}$$
  
- #comebacklater ex. 3
+![[CamScanner 09-12-2023 14.13_3.jpg]]
 
 # Projectile Motion
 
@@ -66,7 +60,8 @@ Make sure that the path the object takes is *tangent* to the initial velocity
 $$ V_{ix} = V_i\cos{\alpha}$$
 $$ V_{iy} = V_i \sin{\alpha}$$
 
-#comebacklater ex. 4
+![[CamScanner 09-12-2023 14.13_4.jpg]]
+
 
 ## Kinematic Equations Along Y-Axis
 
@@ -95,7 +90,7 @@ The $a_x$ for projectile motion is nothing!!!
 
 ![[Pasted image 20230911103707.png]]
 
-#comebacklater  ex. 5
+![[CamScanner 09-12-2023 14.13_5.jpg]]
 
 ```ad-check
 title: Solution

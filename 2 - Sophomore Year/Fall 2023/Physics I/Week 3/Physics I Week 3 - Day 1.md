@@ -26,7 +26,7 @@ title: Homework
 ```ad-example
 ![[Pasted image 20230906100442.png]]
 pt. 2: How far did the car travel in the $6.3 s$?
-#comebacklater ex. 1
+![[CamScanner 09-12-2023 14.10_1.jpg]]
 ```ad-check
 title: Solution
 - Use $v = v_i + at$ to find constant acceleration
@@ -41,7 +41,7 @@ title: Solution
 
 ```ad-example
 ![[Pasted image 20230906100859.png]]
-#comebacklater ex. 2
+![[CamScanner 09-12-2023 14.10_2.jpg]]
 ```ad-check
 - Find Acceleration
 	- $v^2 = v^2_i +2a(x-x_i)$
@@ -55,7 +55,7 @@ title: Solution
 
 # 1D Motion with Gravitational Fields 
 
-#comebacklater ex. 3
+![[CamScanner 09-12-2023 14.10_3.jpg]]
 
 ```ad-important
 title: The 3 Kinematic Equations for 1D Gravity
@@ -67,7 +67,7 @@ $$v^2=v_i^2+19.6(y-y_i)$$
 ```ad-example
 ![[Pasted image 20230906102755.png]]
 pt. 2: What is the velocity of the the stone just before it hits the ground
-#comebacklater ex. 4
+![[CamScanner 09-12-2023 14.10_4.jpg]]
 ```ad-check
 - Find $y_i$
 	- $y = y_i + v_it -4.9t^2$
@@ -82,7 +82,7 @@ pt. 2: What is the velocity of the the stone just before it hits the ground
 ```ad-example
 ![[Pasted image 20230906103511.png]]
 What is the maximum height the stone reaches?
-#comebacklater ex. 5
+![[CamScanner 09-12-2023 14.10_5.jpg]]
 ```ad-check
 - Find $y_max$
 	- To find the maximum y, the $v=0$

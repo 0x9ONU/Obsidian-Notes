@@ -18,9 +18,9 @@ A signal is *even* when:
 $$X[-n] = X[n]$$
 
 ```ad-example
-#comebacklater ex. 1
-#comebacklater ex. 2
-#comebacklater ex. 3
+![[CamScanner 09-12-2023 14.05_1.jpg]]
+![[CamScanner 09-12-2023 14.05_2.jpg]]
+![[CamScanner 09-12-2023 14.05_3.jpg]]
 ```ad-check
 Because $X[n] = X[-n]$ aka. the signal is the same after folding, the signal is even in all of these cases.
 ```
@@ -30,7 +30,7 @@ $$X[n] = -X[-n]$$
 $$-X[n] = X[-n]$$
 
 ```ad-example
-#comebacklater ex. 4
+![[CamScanner 09-12-2023 14.05_4.jpg]]
 ```ad-check
 title: Solution
 Because X[n] = -X[n] aka. the signal is folded and is on the opposite side of the axis, the signal is odd in all of these cases.
@@ -40,11 +40,12 @@ Because X[n] = -X[n] aka. the signal is folded and is on the opposite side of th
 
 Is the following signal even or odd?
 
-#comebacklater ex. 5
+![[CamScanner 09-12-2023 14.05_5.jpg]]
 
 **EVEN**
 
-#comebacklater ex. 6 
+![[CamScanner 09-12-2023 14.05_6.jpg]]
+
 **ODD**
 
 ## Composing Neither Even or Odd Functions
@@ -53,7 +54,7 @@ Is the following signal even or odd?
 All signals can be decomposed into a sum of even and odd components
 ```
 
-#comebacklater ex. 7
+![[CamScanner 09-12-2023 14.05_7.jpg]]
 
 Neither even or odd, but it will be composed of odd and even functions
 
@@ -93,20 +94,20 @@ The difference between the two equations for even and odd is the sign between $X
 
 Find $X_e[n]$ and $X_o[n]$
 
-#comebacklater ex. 8
+![[CamScanner 09-12-2023 14.05_8.jpg]]
 
 ```ad-check
 title: Solution
 - Find $X[-n]$
-	- #comebacklater ex. 9
+	-![[CamScanner 09-12-2023 14.05_9.jpg]]
 - Find even component:
 	- $X_e[n] = \frac{1}{2}(X[n]+X[-n])$
 	- $X_e[n] = \{ 1, 1, 1, 1, 1 \}$
-	- #comebacklater ex. 10
+	- ![[CamScanner 09-12-2023 14.05_10.jpg]]
 - Find odd component:
 	- $X_o[n] = \frac{1}{2}(X[n]-X[-n])$
 	- $X_o[n] = \{ 1, 0.5, 0, -0.5, -1 \}$
-	- #comebacklater ex. 11
+	- ![[CamScanner 09-12-2023 14.05_11.jpg]]
 ```
 
 # Periodic Signal
@@ -114,8 +115,7 @@ title: Solution
 Signals that repeats itself based on the interval $N$
 
 $$x[n] = X[n + N]$$
-
-#comebacklater ex. 12
+![[CamScanner 09-12-2023 14.05_12.jpg]]
 
 ```ad-note
 The $N$ will be set to the number of values it takes until the signal repeats from the origin

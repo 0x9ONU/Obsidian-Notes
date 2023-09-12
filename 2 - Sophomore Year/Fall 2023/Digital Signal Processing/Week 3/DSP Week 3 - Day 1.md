@@ -17,7 +17,7 @@ You can represent a discrete time signal as a sequence of numbers:
 
 $$X[n] = \{1, 5, -2, 0, 3 \}$$
 
-#comebacklater ex. 1
+![[CamScanner 09-12-2023 13.58_1.jpg]]
 
 OR as a function:
 
@@ -36,15 +36,13 @@ Time signals can be limited to certain values using:
 ### Unit Sample Sequence (Impulse Sequence)
 
 $$\delta [n] =\begin{bmatrix}1 & n=0\\0 & n \ne 0\end{bmatrix}$$
+![[CamScanner 09-12-2023 13.58_2.jpg]]
 
-#comebacklater ex. 2
 
 ### Unit Step Sequence
 
 $$ u[n] = \begin{bmatrix}1 & n \ge 0 \\0 & n < 0\end{bmatrix}$$
-
-#comebacklater ex. 3
-
+![[CamScanner 09-12-2023 13.58_3.jpg]]
 # Discrete Time Signal Operations
 
 ## Shifting
@@ -76,25 +74,29 @@ title: Solution
 - Drop $x[2]$ and add $x[3]$
 - Shift all values over one place to the right
 - $x[n-1] = \{2, 3, 2, 1, 3 \}$
-#comebacklater ex. 4
+![[CamScanner 09-12-2023 13.58_4.jpg]]
 ```
 
 ```ad-example
 $$y[n] = x[n+2]$$
+
 ```ad-check
 title: Solution
-#comebacklater ex. 5
+![[CamScanner 09-12-2023 13.58_5.jpg]]
+
 ```
 
 ### Exercise 1
 
-#comebacklater ex. 7
+![[CamScanner 09-12-2023 13.58_7.jpg]]
 
 Show the graphical representation of $x(n-3)$ and $x(n+2)$
 
 ```ad-check
 title:Solution
-#comebacklater ex. 8 + 9
+![[CamScanner 09-12-2023 13.58_8.jpg]]
+
+![[CamScanner 09-12-2023 13.58_9.jpg]]
 ```
 
 ```ad-note
@@ -116,7 +118,7 @@ Midpoint at $n = 1$
 ```ad-check
 title: Solution
 $$x[-n] = \{ 5, 4, 2, 1 \}$$
-#comebacklater ex. 6
+![[CamScanner 09-12-2023 13.58_6.jpg]]
 ```
 
 ## Scalar Multiplication
@@ -130,7 +132,7 @@ Each number of the sequence is multiplied by the scaler multiplier
 ```ad-example
 $$x[n] = \{ 1, 1, 1, 1, 1 \}$$
 $$y[n] = 3x[n]$$
-#comebacklater ex. 10
+![[CamScanner 09-12-2023 13.58_10.jpg]]
 ```
 
 ## Exponentiation 

@@ -23,8 +23,7 @@ collapse: open
 
 Find $I_o$ using loop analysis:
 
-#comebacklater ex. 1
-
+![[CamScanner 09-12-2023 13.57.jpg]]
 
 ```ad-check
 title: Solution
