@@ -14,8 +14,6 @@ collapse: open
 
 # Part 1 - Pipelined Parrallel Array Multiplier in Hardware
 
-#comebacklater Get graph here and recreate later
-
 ```ad-summary
 color: 45, 250, 28
 It takes in 8 bits from the mulitplier and 8 bits form the multiplicand and does the following:
@@ -34,8 +32,6 @@ It takes in 8 bits from the mulitplier and 8 bits form the multiplicand and does
 $$ 20 Display + 16 buffer = 36 flip flops$$
 
 # Part 2 - Serial Multiplier in Hardware
-
-#comebacklater Get graph here and recreate later
 
 ```ad-summary
 color: 190, 100, 150
