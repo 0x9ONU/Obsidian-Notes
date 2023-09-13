@@ -9,6 +9,7 @@ collapse: open
 
 - Even and Odd Signals
 - Periodic Signal
+- Energy and Power of a Signal
 
 ```
 
