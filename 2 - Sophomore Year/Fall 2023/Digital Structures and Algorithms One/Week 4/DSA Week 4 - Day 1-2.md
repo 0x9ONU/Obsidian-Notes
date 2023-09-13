@@ -186,3 +186,46 @@ title: Steps to Add a Tail
 - Have newNode point to nullptr
 - Update tail to point to the newNode
 ```
+
+### Delete
+
+Modifying operation that removes element $x$ form the dynamic set $S$ given $P_x$
+
+```ad-important
+title: Steps to delete in the middle
+1. $x$ copies its $x.next$ to the previous node
+2. $x$ copies its $x.prev$ to the next node
+3. $x$ sets both of its pointers to `nullptr`
+4. $x$ is deleted using the `delete` operator
+```
+
+# StudentLL Example Improved
+
+```c++
+class StudentLL //Studnet Linked List class name, LL stands for Linked List
+{
+	private: //acess specifier for no user access outside of the class definition
+		struct node {
+			string keyItems; // key data member (used for sorting, searching, etc.)
+			int numItems; // satellite data member (number of keyItems)
+			float price; //satellite data member (price to sell keyItems)
+			node* next = nullptr; // linking member (pointer to the next student node)
+		};
+		node* head; // points to first node of the linked list
+		node* tail; //points to the last node of the linked list
+	node* searchNodes(string key);	
+	public: // access specifier so users can access them directly
+		StudentLL(); //consturctor prototype
+		~StudentLL(); //destructor prototype
+		
+		void insertNode_head(string key);
+			// overloading the insertion function to specify all values
+		void insertNOde_head(stirng key, int num, float cost);
+		
+		void deleteNode(string key);
+		void setNumItems(string key, int num);
+		void setPrice(string key, float cost);
+		int getNumItems(string key);
+		float getPrice(string key);
+		
+}
