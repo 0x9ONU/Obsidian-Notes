@@ -110,7 +110,7 @@ title: Identifying attribute: **Key**
 **Satilite Data** - Data included witht he key
 ```
 
-### Code Example of Circular Linked List
+### Example of Circular Linked List
 
 ```c++
 class StudentLL //Studnet Linked List class name, LL stands for Linked List
@@ -129,6 +129,7 @@ class StudentLL //Studnet Linked List class name, LL stands for Linked List
 }
 ```
 
+#comebacklater ex. 1
 ## Initial Linked List
 
 **Head** is a pointer to the front of the list
@@ -161,9 +162,27 @@ title: Important identifiers
 Query returns $p_x$ such that $x.key == k$, or NIL if no such $x$ exists in the set
 ```
 
-#comebacklater ex. 1
+```ad-note
+- The worst case scenario of the search
+	- Returns NIL
+- Best case scenario
+	- Head has the key
+- Average-case
+	- Halway thorugh the linked list
+```
 ### Insert
 
+Modifying operation that adds $x$ to the dynamic set $S$ using $P_x$. It is assumed $x$ has been initialized appropriately for the rules of the data structure.
 
+```ad-note
+The easiest ways to insert the new node into the linked list would be:
+- Putting it as the head at the beginning
+- Putting it as the tail at the end
+```
 
-
+```ad-important
+title: Steps to Add a Tail
+- Remove nullptr from the oirignal tail and point to newNode
+- Have newNode point to nullptr
+- Update tail to point to the newNode
+```
