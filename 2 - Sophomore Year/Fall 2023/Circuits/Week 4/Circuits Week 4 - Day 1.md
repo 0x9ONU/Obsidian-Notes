@@ -38,14 +38,13 @@ title: Solution
 - Loop 3:
 	- $I_3 = 2$
 - Create Matrix
-	- $\begin{bmatrix} I_1 \\ I_2 \\ I_3 \end{bmatrix} = \begin{bmatrix} 8 & -4 & 0 \\ -4 & 8 & -2 \\ 0 & 0 & 1 \end{bmatrix}$^{-1} \begin{bmatrix} 6 \\ 0 \\ 2 \end{bmatrix}$
+	- $\begin{bmatrix} I_1 \\ I_2 \\ I_3 \end{bmatrix} = \begin{bmatrix} 8 & -4 & 0 \\ -4 & 8 & -2 \\ 0 & 0 & 1 \end{bmatrix}^{-1} \begin{bmatrix} 6 \\ 0 \\ 2 \end{bmatrix}$
 	- $\begin{bmatrix} I_1 \\ I_2 \\ I_3 \end{bmatrix} = \begin{bmatrix} 1.33 A \\ 1.167A \\ 2A \end{bmatrix}$
 - $I_0$ = I_2 = 1.167 A$
 ```
 
 ```ad-important
-If a current source is not shared by two or more loops, it will be 
+If a current source is not shared by two or more loops, the loop will the value of that current
 ```
-
 
 
