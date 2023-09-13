@@ -7,9 +7,7 @@ File Folder: Week 4
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Loop Analysis with Super Meshes
 
 ```
 
@@ -53,8 +51,22 @@ title: Super Mesh
 Happens when there is a current source between two loops
 - Create two equations where:
 - Equation one relates the loops in terms of the current ($I_a - I_b = I$)
-- Equation two that combines the rest fo the loops' components
+- Equation two that combines the rest fo the loops' components aroudn the larger loop it creates
 ```ad-note
 If there are any resistors on the branch with the current source, ignore it
+```
+
+# Loop Analysis Example 3
+
+Find $I_0$
+
+#comebacklater ex. 2
+
+```ad-check
+- Assign Loops
+- Loop 1:
+	- $I_1 = 15$ (current source at edge of curcuit)
+- Loop 2:
+	- $I_2 = -48 + 2I_2 + 3I_0 + 22(I_2-I_1) + 12I_2 + 25$
 ```
 
