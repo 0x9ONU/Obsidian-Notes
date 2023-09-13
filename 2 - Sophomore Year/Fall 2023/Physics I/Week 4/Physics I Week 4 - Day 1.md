@@ -111,8 +111,20 @@ title: Solution
 - How long does it take to hit the ground?
 	- Time to reach maximum height is equal to time to hits the ground
 	- $y = y_i +v_{iy} + \frac{1}{2}a_yt^2$
-	- $0 = 4.38 + 0 + \frac{1}{2}(-9.8)_t^2
+	- $0 = 4.38 + 0 + \frac{1}{2}(-9.8)t^2$
+	- $4.9t^2=4.38 = t^2 = \frac{4.38}{4.9}$
+	- $t^2 = 0.89$
+	- $t = +-\sqrt{0.89}$ TAKE THE POSITIVE BECAUSE $t$ MUST BE POSITIVE
+	- $t = 0.95s$.
+- Time spent in the air?
+	- It would be twice as long as it took to make it reach its maximum height
+	- $0.85 s * 2 = 1.9s$
+- Where does it land?
+	- $x = x_i + v_{ix}t$
+	- $x = (0) + (15.43)(1.9)$
+	- $x = 29.32 m$
 ```
+
 
 ```ad-important
 Time to go up is equal to time to go down!!!
