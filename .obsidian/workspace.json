@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 2.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b2bdd86ef658a24",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#comebacklater",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 1.md"
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 2.md"
               }
             }
           },
@@ -206,8 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b2bdd86ef658a24",
+  "active": "0b4e5c7c53a3a104",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/Drawing 2023-09-13 07.54.35.excalidraw.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 4/Circuits Week 4 - Day 1.md",
     "CamScanner 09-12-2023 13.57.jpg",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 4/Physics I Week 4 - Day 1.md",
@@ -224,7 +215,6 @@
     "1 - Freshman Year/Semester 2/Digital Logic/Lab 13/Lecture 29 - Signed Serial Multiplier.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3/DSP Week 3 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 3/Physics I Week 3 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 1.md",
     "1 - Freshman Year/Semester 2/Digital Logic/Lab 13/Lab 13 Notes.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 3/Circuits Week 3 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 3/Circuits Week 3 - Day 1.md",
@@ -246,7 +236,6 @@
     "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 3",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 3",
