@@ -51,7 +51,7 @@ color: 255, 255, 0
 The samping frequency must be stirctly **more than twice** the frequency of the signal
 - Makes sure that there is enough discrete information to reconstruct the signal
 - Given a continuous time signal $X(t)$, $X(t)$ can be perfectly reconstructed form its sample if the sampling rate $Fs$ using this theorem
-$$Fs > 2F_{B}$$
+$$Fs \ge 2F_{B}$$
 
 ```ad-note
 All real world, useful signals can be represented based on their frequency
