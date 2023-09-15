@@ -98,6 +98,7 @@ nodePtr->next;
 (*nodePtr).next;
 ```
 
+#comebacklater ex. 1
 ## Insert
 
 Inserts a new node in the beginning or in the list, building a sorted list with the `numItems` in ascending order
@@ -127,3 +128,4 @@ void StudentLL::insertNode(string obj, int num, float val)
 If the first case of an `||` operator is True OR the first case of the `&&` operator is False, it short circuits and either automatically skips or runs the body of the `while` loop or `if` statement.
 ```
 
+#comebacklater  ex. 2
