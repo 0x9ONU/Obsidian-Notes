@@ -123,3 +123,7 @@ void StudentLL::insertNode(string obj, int num, float val)
 }
 ```
 
+```ad-note
+If the first case of an `||` operator is True OR the first case of the `&&` operator is False, it short circuits and either automatically skips or runs the body of the `while` loop or `if` statement.
+```
+
