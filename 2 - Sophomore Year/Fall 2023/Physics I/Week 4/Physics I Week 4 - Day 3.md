@@ -121,7 +121,8 @@ Acceleration will always be in the **same** orientation as the force
 ```
 
 ```ad-important
-If multiple forces are acting upon an object, the sum of the vectors applied to it will be used in the equation
+- If multiple forces are acting upon an object, the sum of the vectors applied to it will be used in the equation
+- The acceleration will have the **same orientation** as the resultant vector
 #comebacklater ex. 3
 $$F^{->}_1 + F^{->}_2  F^{->}_3 = R^{->} = ma^{->}$$
 ```
