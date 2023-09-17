@@ -102,15 +102,15 @@ title: Solution
 	- Open current source
 	- #comebacklater ex. 7
 	- Use Votlage Division
-		- $V_{01} = \frac{4}{6+2+4}(12)
-		- $V_{01} = \frac{4}{12}(12)
+		- $V_{01} = \frac{4}{6+2+4}(12)$
+		- $V_{01} = \frac{4}{12}(12)$
 		- $V_{01} = 4V$
 - Find $V_{02}$
 	- Short voltage source
 	- #comebacklater ex. 8
 	- Use Current Division
 		- $V_02$ = 4I$
-		- $V02$ = 4(\frac{(4+2)}{6+4+2}(8))$
+		- $V02 = 4(\frac{(4+2)}{6+4+2}(8))$
 		- $V_02 = 16V$
 - Find Total Voltage
 	- $V_0 = V_{01} + V_{02}$
