@@ -130,3 +130,40 @@ If the first case of an `||` operator is True OR the first case of the `&&` oper
 
 #comebacklater  ex. 2
 
+## Delete
+
+```c++
+void StudentLL::deleteNode(string key) {
+	node* nodePtr, *prevNodePtr;
+	if (!head) // if empty list (note that NULL == 0) {
+		return;
+	}
+	
+	//If it is the first node to be deleted
+	if head->keyItems == key) {
+		nodePtr = head;
+		head = head->next;
+		delete nodePtr;
+	}
+	else {
+		nodePtr = head;
+		//Skip all nodes whose KeyItems is not euqal to key
+		while (nodePtr != NULL && nodePtr->keyItems != key)
+		{
+			prevNodePtr = nodePtr;
+			nodePtr = nodePtr->next;
+		}
+	}
+	//Link prev node to the ndoe after nodePtr, then delete nodePtr
+	if (nodePtr) // only delete if key is found 
+	{
+		prevNodePtr->next = nodePtr->;
+		delete nodePtr;
+	}
+}
+```
+
+#comebacklater ex. 4
+
+
+
