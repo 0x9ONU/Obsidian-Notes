@@ -164,6 +164,36 @@ void StudentLL::deleteNode(string key) {
 ```
 
 #comebacklater ex. 4
+#comebacklater ex. 5
 
+## Display
 
+```c++
+void StudentLL::displayList()
+{
+	node* nodePtr;
+	nodePtr = head;
+	while (nodePtr) 
+	{
+		cout << "Key Items: " << nodePtr->keyItems << endl;
+		cout << "NumtItems: " << nodePtr->numItems << endl;
+		cout << "Price: " << nodePtr->price << endl;
+		nodePtr = nodePtr->next;
+	}
+}
+```
+
+## Destroy
+
+```c++
+StudentLL::~StudentLL() {
+	node *nodePtr, *nextNodePtr;
+	nodePtr = head;
+	while (nodePtr != NULL) {
+		nextNOdePtr = nodePtr->next;
+		delete nodePtr;
+		nodePtr = nextNodePtr;
+	}
+}
+```
 
