@@ -8,6 +8,7 @@ title: Today's Topics
 collapse: open
 
 - Circular Motion Continued
+	- Tangental Acceleration
 - Dynamics Introduction
 
 ```
@@ -126,4 +127,26 @@ Acceleration will always be in the **same** orientation as the force
 #comebacklater ex. 3
 $$F^{->}_1 + F^{->}_2  F^{->}_3 = R^{->} = ma^{->}$$
 ```
+
+### Newton's Third Law: The Law of Action-Reaction
+#comebacklater ex. 2.1
+$$ m_1 = 70 kg \space \space m_2 = 50kg$$
+
+```ad-important
+$$F_{1, 2} = F_{2, 1}$$
+$$F_{1, 2}^{->} = -F_{2, 1}^{->}$$
+```
+
+```ad-warning
+Be aware of the point of application of where the forces are applied. Can determine if it is action-reaction or two forces that create equilibrium
+```
+
+```ad-note
+The object with less mass will travel **farther** towards the other object:
+$$F = ma$$
+$$100N = 50kg * a_2 = a_2 = 2 \frac{m}{s^2}$$
+$$100N = 70kg * a_1 = a_1 = 1.43 \frac{m}{s^2}$$
+```
+
+
 
