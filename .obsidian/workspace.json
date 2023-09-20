@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/DSP Week 5 - Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/DSP Week 5 - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/DSP Week 5 - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 2.md"
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/DSP Week 5 - Day 2.md"
               }
             }
           },
@@ -196,8 +196,10 @@
   },
   "active": "c088bd0a446684f5",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/DSP Week 5 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/Untitled",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 5/Physics I Week 5 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 5/Untitled.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 5/Physics I Week 5 - Day 1.md",
@@ -226,7 +228,6 @@
     "2 - Sophomore Year/Fall 2023/Circuits/Week 4/Drawing 2023-09-15 09.59.05.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 2/DSP Week 2 - Day 1.md",
     "Pasted image 20230913101008.png",
     "CamScanner 09-12-2023 13.57.jpg",
     "CamScanner 09-12-2023 14.13_5.jpg",
@@ -241,7 +242,6 @@
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 4",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 4",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 3",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3"
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 3"
   ]
 }
