@@ -7,9 +7,7 @@ File Folder: Week 5
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Quantization
 
 ```
 
