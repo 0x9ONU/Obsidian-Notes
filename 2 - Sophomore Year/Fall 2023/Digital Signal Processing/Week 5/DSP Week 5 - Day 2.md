@@ -13,8 +13,7 @@ collapse: open
 ```
 
 # Quantization Cont.
-
-#comebacklater ex. 1
+![[CamScanner 09-20-2023 21.04_1.jpg]]
 
 ```ad-note
 Quantization $L$ levels can be represented as:
@@ -34,16 +33,16 @@ title: Solution
 		- $x[n] = \cos(\pi \frac{n}{4})$
 	- Find Values of $x[n]$ (See table 1)
 	- Since Frequency is 1 second, there will be 8 samples in one second
-		- #comebacklater ex. 2
+		- ![[CamScanner 09-20-2023 21.04_2.jpg]]
 	- Sketch $x[n]$
-		- #comebacklater ex. 3
+		- ![[CamScanner 09-20-2023 21.04_3.jpg]]
 2. Quantization
     - Find $\Delta$
 	    - $b = 3 bits => L = 2^b = 2^3 = 8$
 	    - $alpha = 0 \space \beta = 1$
 	    - $\Delta = \frac{\beta - \alpha}{L} = \frac{1}{8}$
     - Mark out quantization levels and find quantized signal
-	    - #comebacklater ex. 5
+	    - ![[CamScanner 09-20-2023 21.04_5.jpg]]
 	    - $X_Q[n] = \{ 0, 0.75, 0.875_{<-}, 0.75, 1 \}$
 3. Maximum Quantization Error 
 	- $E_{round} = \frac{\Delta}{2} = 0.0625$

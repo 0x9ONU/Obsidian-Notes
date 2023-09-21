@@ -15,29 +15,29 @@ collapse: open
 
 Any linear circuit with two terminals can be represented by a voltage source called Thevenin's voltage ($V_{Th}$) connected *in series* with a resistance called Thevenin's resistance ($R_{Th}$)
 
-#comebacklater ex. 1
+![[CamScanner 09-20-2023 19.39_1.jpg]]
+
 
 ```ad-important
 A linear circuit can be reduced down to single loop that has a voltage source and a resistance
-#comebacklater ex. 2
+![[CamScanner 09-20-2023 19.39_2.jpg]]
 ```
 
 After the Thevenin's circuit is created, the original resistance that was removed is added back to the terminals.
 
 ```ad-note
-Sicne the circuit contains only independent sources:
+Since the circuit contains only independent sources:
 - Deactivate the soruces
 - Use the resistance reduction methods to find the total resistance (equivalent) across the terminals
 ```
 
-
-#comebacklater ex. 3
+![[CamScanner 09-20-2023 19.39_3.jpg]]
 
 ## Example - How to Find Thevenin Circuit
 
 Determine the Thevenin's Equivalent Circuit at the terminals $a-b$
 
-#comebacklater ex. 4
+![[CamScanner 09-20-2023 19.39_4.jpg]]
 
 ```ad-check
 title: Solution
@@ -54,25 +54,25 @@ title: Solution
 	- $V_{Th} = 4V$
 - Find $R_{Th}$ 
 	- Turn off voltage and current source
-		- #comebacklater ex. 5
+		- ![[CamScanner 09-20-2023 19.39_5.jpg]]
 	- Use resistance reduciton
 		- $6 // 6$
 			- $\frac{6*6}{6+6} = 3 \Omega$
 		- $R_{Th} = 3 + 1 = 4 \Omega$
 - Draw Thevenin equivalent circuit
-	- #comebacklater ex. 6
+	- ![[CamScanner 09-20-2023 19.39_6.jpg]]
 ```
 
 ## Example - How to Use Thevenin Circuit to Find Voltage
 
 Find the voltage $V_x$ in the circuit using Thevenin's theorem
 
-#comebacklater ex. 7
+![[CamScanner 09-20-2023 19.39_7.jpg]]
 
 ```ad-check
 title: Solution
 - Open the part of the circuit that has the unknown resistance to create a two terminal circuit
-	- #comebacklater ex. 8
+	- ![[CamScanner 09-20-2023 19.39_8.jpg]]
 - Create the Thevenin Circuit
 	- Find $V_{Th} Using Nodal Analysis
 		- Node 1:
@@ -93,12 +93,12 @@ title: Solution
 			- $V_{Th} = 12-(-17)$
 			- $V_{Th} = 29V$
 	- Reduce Circuit by Removing Independent Sources
-		- #comebacklater ex. 9
+		- ![[CamScanner 09-20-2023 19.39_9.jpg]]
 	- Find $R_{Th} Using Resistance Simplification
 		- $R_{Th} = (10+20) // 15$
 		- $R_{Th} = \frac{30(15)}{30+15} = 10 \Omega$
 	- Draw Circuit
-		- #comebacklater ex. 10
+		- ![[CamScanner 09-20-2023 19.39_10.jpg]]
 - Find $V_x$ using Voltage Division
 	- $V_x = \frac{5}{5+10}(29)$
 	- $V_x = 9.67V$

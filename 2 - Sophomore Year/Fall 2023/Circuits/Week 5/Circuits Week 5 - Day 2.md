@@ -12,11 +12,6 @@ collapse: open
 
 ```
 
-```ad-note
-title: Homework
-- [ ] test
-```
-
 # Thevenin's Theorem: Dependent Sources (SC)
 
 If a circuit has **both impendent and dependent sources**, then:
@@ -31,18 +26,18 @@ title: Steps:
 3. Find $R_{Th} = \frac{V_{Th}}{I_{sc}}$
 ```
 
-#comebacklater ex. 1
+![[CamScanner 09-20-2023 20.10_1.jpg]]
 
 ## Example 1
 
 Find $I_x$ using Thevenin's Theorem.
 
-#comebacklater ex. 2
+![[CamScanner 09-20-2023 20.10_2.jpg]]
 
 ```ad-check
 Title: Solution
 - Remove Resistor from circuit
-	- #comebacklater ex. 3
+	- ![[CamScanner 09-20-2023 20.10_3.jpg]]
 - Find $V_Th$
 	- Assign Nodes
 		- See yellow
@@ -64,7 +59,7 @@ Title: Solution
 	- $V_{Th} = 2V$
 - Find $R_{Th}$
 	- Redraw Circuit so it shorts
-		- #comebacklater ex. 4
+		- ![[CamScanner 09-20-2023 20.10_4.jpg]]
 	- Find $I_{sc}$ Using Loop Analysis
 		- Loop 1:
 			- $8I_1-12 + 4(I_1-I_2) = 0$
@@ -89,7 +84,7 @@ Title: Solution
 		- $R_{Th} = 4.34 \Omega$
 - Find $I_x$
 	- Draw Thevenin Circuit
-		- #comebacklater ex. 5
+		- ![[CamScanner 09-20-2023 20.10_5.jpg]]
 	- $I_x = \frac{2V}{4.34 + 2}$
 	- $I_x = 0.315 A$
 ```
@@ -98,6 +93,4 @@ Title: Solution
 
 **Alternative to Thevenin Circuit that turns the Voltage Source in Series with two Resistors into the Current Source in Parallel with both resistors**
 
-#comebacklater ex. 6
-
-#comebacklater ex. 7
+![[CamScanner 09-20-2023 20.10_6.jpg]]![[CamScanner 09-20-2023 20.10_7.jpg]]

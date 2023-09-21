@@ -21,7 +21,7 @@ title: Homework
 
 ![[Pasted image 20230913101008.png]]
 
-#comebacklater ex. 1
+![[CamScanner 09-20-2023 20.17_1.jpg]]
 
 ```ad-check
 title: Solution
@@ -46,7 +46,7 @@ The trajectory of the motion will *always* be a circle
 
 ## Uniform
 
-#comebacklater ex. 2
+![[CamScanner 09-20-2023 20.17_2.jpg]]
 
 The magnitude of the velocity of every point on the trajectory is the same. Thus, the magnitude of the  motion is constant
 
@@ -60,7 +60,7 @@ Due to the change of the **orientation** of the velocity vectors, the uniform ci
 
 ## Non-uniform
 
-#comebacklater ex. 3
+![[CamScanner 09-20-2023 20.17_3.jpg]]
 
 The magnitude of  the velocity *may* be different from point to point
 
@@ -70,11 +70,11 @@ There is a **tangental acceleration** that changes the trajectory of the vectors
 ```
 ## Centripetal OR Radial Acceleration
 
-#comebacklater ex. 4
+![[CamScanner 09-20-2023 20.17_4.jpg]]
 $$ a^{->} = \frac{\Delta v^{->}}{\Delta t}$$
 $$a_r = a_{cp}$$
 
-#comebacklater ex. 5
+![[CamScanner 09-20-2023 20.17_5.jpg]]
 
 ```ad-note
 $$\triangle AOB \triangle AMN$$

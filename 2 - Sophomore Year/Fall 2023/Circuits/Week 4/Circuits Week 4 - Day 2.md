@@ -20,7 +20,7 @@ title: Homework
 
 Find $V_a$ using loop analysis:
 
-#comebacklater ex. 1
+![[CamScanner 09-20-2023 19.32_1.jpg]]
 
 ```ad-check
 title: Solution
@@ -60,8 +60,7 @@ If there are any resistors on the branch with the current source, ignore it
 
 Find $I_0$
 
-#comebacklater ex. 2
-
+![[CamScanner 09-20-2023 19.32_2.jpg]]
 ```ad-check
 - Assign Loops
 - Loop 1:

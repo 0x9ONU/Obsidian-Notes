@@ -19,7 +19,7 @@ title: Homework
 # Forces Encountered in Mechanics
 ## Weight
 
-#comebacklater  ex. 2
+![[CamScanner 09-20-2023 20.29_2 1.jpg]]
 
 The force that is proportional to the gravity pulling against the mass of an object
 
@@ -46,20 +46,20 @@ $$N = mg$$
 Normal force **DOES NOT** apply to objects dangling in the air
 ```
 
-#comebacklater ex. 3
+![[CamScanner 09-20-2023 20.29_3.jpg]]
 
 ```ad-important
 The normal force vector will equal the weight vector ONLY when the hard surface is not tilted
 ```
 
-#comebacklater ex. 4
+![[CamScanner 09-20-2023 20.29_4.jpg]]
 
 ## Tension in The String
 
 The reaction to an object pulling on a string:
 - Pulls away from the object at where the string is attached to the object
 
-#comebacklater ex. 5
+![[CamScanner 09-20-2023 20.29_5.jpg]]
 
 ```ad-note
 In an ideal case where:
@@ -72,8 +72,7 @@ In an ideal case where:
 $$T_1^{->} = T_2^{->}$$
 ```
 
-#comebacklater ex. 6
+![[CamScanner 09-20-2023 20.29_6.jpg]]
 
-#comebacklater ex. 7
-
+![[CamScanner 09-20-2023 20.29_7.jpg]]
 

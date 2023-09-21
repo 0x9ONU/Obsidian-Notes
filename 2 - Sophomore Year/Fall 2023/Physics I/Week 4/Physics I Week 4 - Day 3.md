@@ -47,7 +47,7 @@ Given $V_A = 2 \frac{m}{s}$, $V_B = 5 \frac{m}{s}$, and $\Delta t = 1.5 s$:
 2. What is the overall acceleration in point A?
 3. What is the overall acceleration in point B?
 
-#comebacklater ex. 1
+![[CamScanner 09-20-2023 20.28_1.jpg]]
 ```ad-check
 title: Solution
 - Tangential Acceleration
@@ -118,18 +118,19 @@ $${F}_{si} = kg*\frac{m}{s^2} = N$$
 
 ```ad-note
 Acceleration will always be in the **same** orientation as the force
-#comebacklater ex. 2
+![[CamScanner 09-20-2023 20.28_2.jpg]]
 ```
 
 ```ad-important
 - If multiple forces are acting upon an object, the sum of the vectors applied to it will be used in the equation
 - The acceleration will have the **same orientation** as the resultant vector
-#comebacklater ex. 3
+![[CamScanner 09-20-2023 20.28_3.jpg]]
 $$F^{->}_1 + F^{->}_2  F^{->}_3 = R^{->} = ma^{->}$$
 ```
 
 ### Newton's Third Law: The Law of Action-Reaction
-#comebacklater ex. 2.1
+
+![[CamScanner 09-20-2023 20.29_1.jpg]]
 $$ m_1 = 70 kg \space \space m_2 = 50kg$$
 
 ```ad-important

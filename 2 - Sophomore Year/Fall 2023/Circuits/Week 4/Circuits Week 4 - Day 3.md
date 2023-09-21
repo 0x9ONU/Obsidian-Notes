@@ -15,7 +15,7 @@ collapse: open
 
 The voltage across  (or the current through) an element in a linear circuit is the algebraic sum of the voltages across (or the current through) that element due to each independent source acting alone.
 
-#comebacklater ex. 1
+![[CamScanner 09-20-2023 19.34_1.jpg]]
 
 ```ad-summary
 title: Steps to Apply Superposition
@@ -39,7 +39,7 @@ Make sure that the circuit is linear! (Anything done to the input will reflect t
 ```ad-example
 Find $V_0$ using superposition
 
-#comebacklater ex. 2
+![[CamScanner 09-20-2023 19.34_2.jpg]]
 ```ad-check
 title: Solution
 - Assign Sources Variables
@@ -48,13 +48,13 @@ title: Solution
 	- Let V_{03} due to 2A source (orange)
 - Solve for $V_{01}$
 	- Remove current sources
-	- #comebacklater ex. 3
+	- ![[CamScanner 09-20-2023 19.34_3.jpg]]
 	- Using voltage division
 		- $V_{01} = \frac{12}{12+12}(12)$
 		- $V_{01} = 6V$
 - Solve for $V_{02}$
 	- Remove voltage source and other current source
-	- #comebacklater ex. 4
+	- ![[CamScanner 09-20-2023 19.34_4.jpg]]
 	- Using Loop Analysis:
 		- Loop 1:
 			- $I_1 = -6$
@@ -70,7 +70,7 @@ title: Solution
 	- $V_{02} = -36V$
 - Solve for $V_{03}$
 	- Turn off voltage source and other current source with 2A remaining
-	- #comebacklater ex. 5
+	- ![[CamScanner 09-20-2023 19.34_5.jpg]]
 	- Using Loop Analysis:
 		- Loop 1:
 			- $12I_1+ 12(I_1-I_2) = 0$
@@ -91,7 +91,7 @@ title: Solution
 
 ```ad-example
 Find $V_0$ using superposition
-#comebacklater ex. 6
+![[CamScanner 09-20-2023 19.34_6.jpg]]
 
 ```ad-check
 title: Solution
@@ -100,14 +100,14 @@ title: Solution
 	- Let $V_{02} due to 8A source. (Orange)
 - Find $V_{01}$
 	- Open current source
-	- #comebacklater ex. 7
+	- ![[CamScanner 09-20-2023 19.34_7.jpg]]
 	- Use Votlage Division
 		- $V_{01} = \frac{4}{6+2+4}(12)$
 		- $V_{01} = \frac{4}{12}(12)$
 		- $V_{01} = 4V$
 - Find $V_{02}$
 	- Short voltage source
-	- #comebacklater ex. 8
+	- ![[CamScanner 09-20-2023 19.34_8.jpg]]
 	- Use Current Division
 		- $V_02$ = 4I$
 		- $V02 = 4(\frac{(4+2)}{6+4+2}(8))$

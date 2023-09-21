@@ -17,7 +17,7 @@ The process of constraining a signal's amplitude from a larger set of values to 
 
 ```ad-note 
 A continuous-time signal when quantized, forms a staircase-like signal.
-#comebacklater ex. 1
+![[CamScanner 09-20-2023 21.03_1.jpg]]
 ```
 
 ## Parts of quantization:
@@ -33,7 +33,7 @@ $\ceil{x}$ Denotes ceiling which *always* rounds up
 
 ## Quantization Step ($\Delta$)
 
-#comebacklater ex. 2
+![[CamScanner 09-20-2023 21.03_2.jpg]]
 
 $$ \Delta = \frac{\beta - \alpha}{L}$$
 
@@ -67,7 +67,7 @@ The maximum quantization error: $\frac{1}{2} \Delta$
 - $e_{round}$ => $x$ for $\frac{\Delta}{2} < x < \frac{\Delta}{2}$
 ```
 
-#comebacklater ex. 3
+![[CamScanner 09-20-2023 21.03_3.jpg]]
 
 #### The Mean Square Quantization Error due to Rounding
 

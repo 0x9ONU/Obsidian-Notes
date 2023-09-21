@@ -28,7 +28,7 @@ title: Steps
 
 Find $a$ and Normal Force $N$
 
-#comebacklater ex. 1
+![[CamScanner 09-20-2023 20.35_1.jpg]]
 
 $$m = 5kg$$
 $$F_{pull} = 20N$$
@@ -36,11 +36,11 @@ $$F_{pull} = 20N$$
 ```ad-check
 title: Solution
 - Draw Forces
-	- #comebacklater ex. 2
+	- ![[CamScanner 09-20-2023 20.35_2.jpg]]
 - Find acceleration by using sum of forces
 	- $N^{->} + F^{->}_{pull} + mg^{->} = ma^{->}$
 - Think of forces in terms of x and y
-	- #comebacklater ex. 3
+	- ![[CamScanner 09-20-2023 20.35_3.jpg]]
 - Components of the Vectors along x-axis
 	- $(0) + (F_{pull}) + 0 = ma_x$
 - Components of the Vectors ALong y-axis
@@ -59,7 +59,7 @@ title: Solution
 
 Find $a$ and Normal Force $N$
 
-#comebacklater ex. 4
+![[CamScanner 09-20-2023 20.35_4.jpg]]
 
 $$m = 5kg$$
 $$F_{pull} = 20N$$
@@ -96,7 +96,7 @@ $N = mg$ ONLY when there are not other y components of the sum of forces
 
 Find $a$ and $N$
 
-#comebacklater ex. 5
+![[CamScanner 09-20-2023 20.35_5.jpg]]
 
 $$m = 5kg$$
 $$\alpha = 20$$
@@ -104,11 +104,11 @@ $$\alpha = 20$$
 ```ad-check
 title: Solution
 - Draw Forces
-	- #comebacklater ex. 6
+	- ![[CamScanner 09-20-2023 20.35_6.jpg]]
 - Sum of All Forces
 	- $N^{->} + mg^{->} = ma^{->}$
 - Draw x and y axis
-	- #comebacklater ex. 7
+	- ![[CamScanner 09-20-2023 20.35_7.jpg]]
 - Find angle of force of gravity
 	- The angle perpendicular to the slope
 	- See pink above
@@ -135,7 +135,7 @@ X is ALWAYS the direction of motion
 
 Find $a$ and tension on the string $T$
 
-#comebacklater ex. 8
+![[CamScanner 09-20-2023 20.35_8.jpg]]
 
 $$m_11 = 3kg$$
 $$m_2 = 4kg$$
@@ -149,7 +149,7 @@ title: Solution
 - Create Sum of Forces for $m_2$
 	- $T^{->} + m_2g^{->} = m_2a^{->}$
 - Project along x and y
-	- #comebacklater ex. 9
+	- ![[CamScanner 09-20-2023 20.35_9.jpg]]
 - NO X Component
 - Y components
 	- $T - m_1g = m_1a$
@@ -168,3 +168,4 @@ title: Solution
 ```ad-important
 Chose one mass to be positve, choose the other to move negative
 ```
+
