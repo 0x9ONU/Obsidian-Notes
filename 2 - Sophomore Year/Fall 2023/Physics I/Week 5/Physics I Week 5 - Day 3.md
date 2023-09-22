@@ -139,6 +139,8 @@ title: Solution
 		- $F_k = M_k*N$
 		- $M_k = \frac{F_k}{mg}$
 		- $M_k = \frac{32.6}{4*9.8}$
-		- $M_k = 0.83
+		- $M_k = 0.83$
 ```
+
+
 
