@@ -121,5 +121,5 @@ title: Solution
 	- $P_{max} = \frac{5^2}{4(3)} = 2.08W$
 ```
 
-
+	
 
