@@ -77,7 +77,7 @@ $$F_k \~ N$$
 $$ \space $$
 $$F_k = M_k N$$
 - The mew is a coefficient of k\inetic friction
-- It has no unit
+- It has no unit`
 ```
 
 ## Static Friction
