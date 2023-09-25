@@ -45,6 +45,7 @@ title: Efficiency
 	- Even in asimple sorting algorithms, two nested loops can sort a list in worst-case
 	- Based on ***quadratic running time***:
 		- $$x^2, n^2 \space quadratic \space funcitons$
+		- Worst case for all common sorting algorithms
 - **Memory**:
 	- Many simple sorting algirthm can do it with only a few aditional variables (***constant memeory overhaed***), in addition to the memeory for the data to be sorted.
 ```
@@ -86,9 +87,34 @@ Names usually focus on how sorting functions work
 	- Select next element to add to sorted subsequence
 - Done with in-palce
 	- Memory efficienlty is used using swapping
-	- Swaps the first and smallest elements in the unsorted subsequence
+	- Swaps the **first index** and **smallest elements** in the unsorted subsequence
 	- Goes linearly from $[0]$ to $[n]$
 ```
+
+```ad-important
+Once it hits the last swap with only two elements remaining, it **does not** have to iterate over the last element as it is trivially sorted.
+```
+
+## Array Pseudocode
+
+```
+Alg: Seleciton-Sort(A)
+for fristIdx <- 1 to A.length-1
+	smallest Idx <- firstIdx
+	for j <- (firstIdx + 1) to A.length
+		if A[j] < A[smallestIdx]
+			then smallestIdx <- j
+	swap A[firstIdx] <-> A[smallestIdx]
+```
+
+```ad-note
+Swap can be implemented in 3 lines in c++:
+```c++
+int temp = A[firstIdx];
+A[firstIdx] = A[smallestIdx];
+A[smallestIdx] = temp;
+```
+
 
 
 
