@@ -120,4 +120,3 @@ A[smallestIdx] = temp;
 
 
 
-
