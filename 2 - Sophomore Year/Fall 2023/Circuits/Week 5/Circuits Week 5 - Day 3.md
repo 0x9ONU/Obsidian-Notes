@@ -38,8 +38,8 @@ Take the derivative of the function and set it to zero to find the max
 ```
 
 $$\frac{dP_L}{dR_L} = \frac{(R_{Th}+R_L)^2V^2{Th} - V^2{Th}R_L(2(R_{Th}+R_L))}{(R_{Th}+R_L)^4}$$
-$$= \frac{(R_{Th}+R_L)V^2{Th}-2V^2{Th}R_L}{(R_{Th}+R-L)^3}$$
-$$=\frac{V^2_{Th}(R_{Th}+R)L-2R_L}{(R_{Th}+R_L)^2}$$
+$$= \frac{(R_{Th}+R_L)V^2{Th}-2V^2{Th}R_L}{(R_{Th}+R_L)^3}$$
+$$=\frac{V^2_{Th}(R_{Th}+R_L-2R_L)}{(R_{Th}+R_L)^2}$$
 $$\frac{dP_L}{dR_L} = 0$$
 $$Set \space Top \space Equal \space to \space zero$$
 $$V^2_{Th}(R_{Th}-R_L) = 0$$
