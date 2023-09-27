@@ -154,4 +154,3 @@ title: Solution
 The coefficient is not constant, so time variant
 ```
 
-p
