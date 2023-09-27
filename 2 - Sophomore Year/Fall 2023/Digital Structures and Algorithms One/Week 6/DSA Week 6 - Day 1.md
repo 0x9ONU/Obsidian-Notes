@@ -12,11 +12,6 @@ collapse: open
 
 ```
 
-```ad-note
-title: Homework
-- [ ] Add picture to canvas
-```
-
 # Learning Objectives
 - Describe how the selection sort algorithm processes an array of integers to sort them.
 # Selection Sort
