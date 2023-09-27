@@ -50,7 +50,7 @@ for j=2 to n //rightward moving index j
 	A[i+1] = key // insert spot is i+1
 ```
 
-## Implementation
+## Implementation - Array of Integers
 
 ```c++
 #include <iostream>
@@ -81,6 +81,44 @@ void insertionSort(int A[], int n) {
 ```
 
 
+## Implementation - Linked List
+
+```ad-summary
+title: Special Case
+1. Empty List OR Single Node -> head=tail: Return
+```
+
+
+
+```c++
+class LinkedList {
+	struct Node {
+		int key;
+		Node* next=nullptr;
+		Node* prev=nullptr;
+	};
+	Node* head;
+	Node* tail;
+	
+	public:
+		LinkeList() {head=tail=nullpter;} //constructor
+		~LinkedList(); // destructor
+		void addNode(int keyVal); //adds a Node 
+		void insertionSort(); // use insertion sort to sort the nodes by key
+		void displayList9); // displays the list keys
+};
+
+//funciton definition
+
+void LinkedList::insertionSort() {
+	//Special Case
+	if (head == tail) {
+		return;
+	}
+	
+	
+}
+```
 
 
 
