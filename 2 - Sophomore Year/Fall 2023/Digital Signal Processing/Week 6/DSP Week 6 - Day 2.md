@@ -65,6 +65,20 @@ title: Solution
 - Because there is a point in the domain where the denominator is zero, there is a case where the signal would approach infinity
 ```
 
+Prove that $y[n] = x[n]n^2$ stable or unstable
+
+```ad-check
+title: Solution
+- $y[n] = finite * n^2$
+- UNSTABLE
+```
+
+Prove that $y[n] = 2^n*x[n]$ stable or unstable
+
+```ad-check
+title: Solution
+unstable
+```
 # Time-Invariance
 
 A system is time-invariant or "shift invariant" if a **shift** in the *input* signal produces a **corresponding shift** in the output.
@@ -76,6 +90,12 @@ A system is time-invariant or "shift invariant" if a **shift** in the *input* si
 If $x[n]$ is put through the system to get $y[n]$, THEN $x[n-k]$ is put thorugh the system to get $y[n, k]$. The signal is time-invariant WHEN $y[n] = y[n, k]$
 ```
 
+```ad-note
+For a system to be time invariant, it needs to satisfy the followng:
+1. No time scaling
+2. Coeff should be **constant**
+3. ANy added or subtracted terms int eh system should be cosntant or zero
+```
 ## Examples
 
 Find if $y[n] = x[2n]$ is time-invariant or time-variant
@@ -112,6 +132,25 @@ title: Solution
 	- $y[n] = x[n] + x[n-1]$
 - Find $y[n - n_0]$
 	- $y[n - n_0] = x[(n-n_0)] + x[(n-n_0)-1]$
-- Find $y[n, n_0] = 
+- Find $y[n, n_0] = x[n(-n_0)] + x[n(-n_0)-1]$
+- $y[n-n_0] = y[n, n_0]$ SO time-invariant
+```
+
+Find if the signal $y[n] = \cos(n) x[n-n_0]$ is time-invariant or time-variant
+
+```ad-check
+title: Solution
+- Find $y[n-n_0]$
+	- $y[n-n_0] = cos(n-n_0)xpn-n_0$
+- Find $y[n, n_0]$
+	- $y[n,n_0] = \cos(n) x[n-n_0]$
+- $y[n-n_0] \ne y[n, n_0]$ SO time-variant
+```
+
+Find if the signal $y[n] = n * x[n]$
+
+```ad-check
+title: Solution
+The coefficient is not constant, so time variant
 ```
 
