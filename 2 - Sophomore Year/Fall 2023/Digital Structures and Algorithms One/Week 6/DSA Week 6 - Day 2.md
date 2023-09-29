@@ -111,7 +111,7 @@ class LinkedList {
 //funciton definition
 
 void LinkedList::insertionSort() {
-	//Special Case
+	//Special Case 1: Either no members or one member. No sorting needs to happen
 	if (head == tail) {
 		return;
 	}
