@@ -116,7 +116,42 @@ void LinkedList::insertionSort() {
 		return;
 	}
 	
+	//Declare Pointers
+	Node* j = head->next;
+	Node* i = nullptr;
+	Node* keyNode = nullptr;
 	
+	while (j != nullptr) {
+		keyNode = j; //same idea as key = A[j]
+		i = j->prev; //same as i = j - 1
+		
+		//Disconnect keyNode from the list
+		j = j->next; //this could NOW point to nullptr
+		i->next = keyNode->next; //could be nullptr IF keyNode is tail\
+		keyNode->prev = nullptr;
+		keyNode->next = nullptr;
+		
+		if (keyNode == tail) {
+			tail = i;
+		}
+		else {
+			j->prev = i;
+		}
+		
+		//inner while loop to find where to place the node
+		while (i != nullptr && i->key > keyNode->key) {
+			i = i->prev;
+		}
+		
+		if (i == nullptr) { //place at head
+			keyNode->next = head;
+			head->prev = keyNode
+			keyNode = head;
+		}
+		else { //i not off the list so it points to a node
+			
+		}
+	}
 }
 ```
 
