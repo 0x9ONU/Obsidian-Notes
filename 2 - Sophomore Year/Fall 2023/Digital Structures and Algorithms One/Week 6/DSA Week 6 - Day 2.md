@@ -145,13 +145,25 @@ void LinkedList::insertionSort() {
 		
 		if (i == nullptr) { //place at head
 			keyNode->next = head;
-			head->prev = keyNode
-			keyNode = head;
+			head->prev = keyNode;
+			head = keyNode;
 		}
 		else { //i not off the list so it points to a node
+			//place keyNode afer i
+			kyeNode->prev = i;
+			//test to make sure if it is at the tail or not. Prevent dereferencing nullptr
+			if (i == tail) {
+				tail = keyNode;
+			}
+			else {
+				i->next->prev = keyNode;
+			}
 			
-		}
-	}
+			keyNode->next = i->next;
+			i->next = keyNode;
+			
+		} //finished inner while loop
+	} // finished with outer loop
 }
 ```
 
