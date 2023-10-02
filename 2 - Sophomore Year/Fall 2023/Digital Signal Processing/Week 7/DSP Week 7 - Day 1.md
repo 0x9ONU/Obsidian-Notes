@@ -95,3 +95,28 @@ title: Solution
 
 4. $$y[n] = Ax[n] + B$$
 #comebacklater ex. 4
+
+# Conclusion
+
+A system is linear or non-linear in the following cases where $k, A, B,$ are constants:
+
+## Time Scaling
+
+$$x[kn] => \space linear$$
+
+## Coefficient
+
+$$ Ax[n] => \space linear$$
+## Added/Subtracted Terms
+
+$$ x[n] \pm B => \space non-linear$$
+
+## Exp, Power, Roots, etc.
+
+**Non-Linear**
+
+## Odd-Even Component
+
+$$y[n] = oddx[n] \space OR \space evenx[n] => \space linear$$
+
+
