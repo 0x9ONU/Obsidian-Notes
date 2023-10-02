@@ -86,5 +86,3 @@ More efficient
 - Same swaps
 - **Less comparisons**
 ```
-
-\
