@@ -100,8 +100,8 @@ Find $W$ of each force AND the net work given the following values:
 
 ```ad-check
 title: Solution
-- Work done by F
-	- $W_F = (20) * 5 * \cos(0)
+- Work done by $F$
+	- $W_F = (20) * 5 * \cos(0)$
 	- $W_F = 100 J$
 - Work done by weight
 	- $W_{mg} = 19.6 * 5 * \cos(270)$
