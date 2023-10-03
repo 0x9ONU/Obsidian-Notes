@@ -154,7 +154,9 @@ title: Solution
 		- $=10\hat{i}\hat{i} + 14 \hat{i}\hat{j} - 15\hat{j}\hat{i} - 21 \hat{j} \hat{j} = 10 -21 = -11 J$
 - Find angle
 	- $W = Fd \cos(F^{->}, d^{->})$
-	- #comebacklater WRITE THE REST DOWN
+	- $-11 = \sqrt{(2)^2 + (-3)^2} * \sqrt{(5)^2+(7)^2} * \cos(F^{->}, d^{->})$
+	- $\cos(F^{->}, d^{->}) = \frac{-11}{3.61 * 8.6}$
+	- $\alpha = 111{\degree}$
 ```
 
 ```ad-important
