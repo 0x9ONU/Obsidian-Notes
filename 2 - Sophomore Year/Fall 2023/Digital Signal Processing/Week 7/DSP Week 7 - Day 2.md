@@ -12,7 +12,6 @@ collapse: open
 ```
 
 # Linear and Time Invariant Systems
-
 Systems that are both linear and time invariant
 - This means the systems can have either additivity *AND/OR* scale
 
@@ -24,7 +23,7 @@ Real worl systems are often modeled as LTI since
 
 #comebacklater ex. 1
 
-Will return the same signal minus delays or scaling
+Will return the same signal minus delays ***or*** scaling
 
 #comebacklater ex. 2 notes
 
@@ -54,4 +53,41 @@ title: Solution
 $$x[n] = 2\delta[n+1] - 4\delta[n] + \delta[n-1] - 2 \delta[n-2]$$
 #comebacklater ex. 3 notebook
 ```
+
+## Time Invariance and Convolution Sum
+
+Given a known response to some input, the response to a linear combination of time shifted versions of $x[n]$ is just the same time linear combinaiton of time shifted versions of $y[n]$
+
+```ad-important
+Additionall, LTI systems are uniquely characterized by impusle reponses, denoted by $h[n]$, which means taht $y[n] = h[n]$ is true when the input is $x[n] = \delta[n]$
+```
+
+Thus, the output of any LTI system should be:
+
+$$y[n] = \sum_{k=-\infty}^{\infty} x[n] \space \space h[n-k] \space OR \space y[n] = x[n] ** h[n]$$
+### Example
+
+```ad-question
+Determine the response of the system to the input signal given the impulse response:
+$$h[n] = \{ 1, 2_0, -1 \}$$
+$$x[n] = \{ 4_0, 1, 2, 5 \}$$
+```
+
+## Convolution Array Method
+
+```ad-warning
+Works on only between two FINITE sequences
+```
+
+| h / x | 4   | 1   | 2   | 5   |
+| ----- | --- | --- | --- | --- |
+| 1     | 4   | 1   | 2   | 5   |
+| 2     | 8   | 2   | 4   | 10  |
+| -1    | -4  | -1  | -2  | -5    |
+
+Given the table:
+
+#comebacklater ex. 4
+
+$$x[n] = \{ 4, 9_0, 0, 8, 8, -5 \}$$
 
