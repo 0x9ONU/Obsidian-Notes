@@ -55,6 +55,3 @@ $$x[n] = 2\delta[n+1] - 4\delta[n] + \delta[n-1] - 2 \delta[n-2]$$
 #comebacklater ex. 3 notebook
 ```
 
-
-
-
