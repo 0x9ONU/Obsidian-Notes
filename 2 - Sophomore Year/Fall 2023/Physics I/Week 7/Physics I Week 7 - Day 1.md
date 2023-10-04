@@ -88,6 +88,9 @@ Only the x/y component of the force will do work
 $$[W]_{si} = N*m = J (joules)$$
 ```
 
+```ad-warning
+Can ONLY be used for constant forces over the displacement
+```
 ## Example
 
 Find $W$ of each force AND the net work given the following values:
