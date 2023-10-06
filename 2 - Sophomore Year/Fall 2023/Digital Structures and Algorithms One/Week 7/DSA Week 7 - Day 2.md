@@ -79,9 +79,9 @@ Assumes single eprocessor and no memory hierarchy
 
 ### Total Running Time Calculation
 
-- **Execution cost** of line $i$ in pseudo code, dneoted by $C_i$
+- **Execution cost** of line $i$ in pseudocode, denoted by $C_i$
 - **Size of the input** denoted by `int` $n$, which is usually large
-- **NUmber of times** line $i$ is executed, denoted by $f_i(n)$
+- **Number of times** line $i$ is executed, denoted by $f_i(n)$
 	- Dependent on $n$, and could depend on the scenario (best/worst/etc)
 - **Run time spent executing line $i$** = $C_i * f_i(n)$
 - Total Running Time, $T(n)$
