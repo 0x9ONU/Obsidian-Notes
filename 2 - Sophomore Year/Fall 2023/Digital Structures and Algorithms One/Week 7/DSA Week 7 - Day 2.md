@@ -203,3 +203,53 @@ reutrn searchNode // will be NULL if keyVal not found
 | $C_3$ | 0                 | $n$                |
 | $C_4$ | 1                 | 1                   |
 
+```ad-check
+title: Solution
+- **Best Case**
+	- $T(n) = C_1 + C_2 + C_4$
+	- **Constant Run Time**
+- **Worst Case**
+	- $T(n) = C_1*1+ C_2(n+1) * C_3(n) + C_4*1$
+	- $T(n) = (C_2+C_3)n + (C_1+C_2+C_4)$
+	- **Linear Run Time**
+```
+
+## Nested Loops
+
+```ad-note
+The runtime will differ depending on if the nested loops are **independent** OR **dependent** 
+```
+
+### Example: Running Time of Independent Nested For-Loops
+
+```ad-question
+For this pseudocode, fill in the table below, and determine the running time, $T(n)$, of the nested for-loop snippet shown below. Then, write the C++ code to implement the pseudocode and verify your results
+```
+
+```
+outerCount = 0
+innerCount = 0
+for i <- 1 to n
+	outerCount++
+	for j <- 1 to n 
+		innerCount++
+print outerCount
+print innerCount
+```
+
+```ad-note
+Important question to ask for $C_6$, In each outer loop counter value, how many times will the inner loop body execute?: $n$ times. SO:
+$$ n + n + n + ... + n = n * n = n^2$$
+```
+
+| Execution Cost | # Times Executed |
+| -------------- | ---------------- |
+| $C_1$          | 1                |
+| $C_2$          | 1                |
+| $C_3$          | $n+1$            |
+| $C_4$          | $n$              |
+| $C_5$          | $n^2 +n$         |
+| $C_6$          | $n^2$            |
+| $C_7$          | 1                |
+| $C_8$          | 1                 |
+
