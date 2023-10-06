@@ -183,5 +183,23 @@ Best-case Scenario is NOT an empty list!
 - With algorithmic analysis, we assume $n$ is large, so not 0!
 ```
 
+### Running Time of a While-Loop (Search in a Linked List)
 
+```ad-question
+For the pseudocode below that searches for a key value, `keyVal`, in a linked list, fill in the table below, and determine the running time, $T(n)$, of the while-loop snippet shown below, in best and worst case.
+```
+
+```
+searchNode = head
+while (searchNode NOT NULL AND searchNode.key NOT keyval) 
+	searchNode = searchNode.next
+reutrn searchNode // will be NULL if keyVal not found
+```
+
+| Cost  | # Times Best Case | # Times Worst Case |
+| ----- | ----------------- | ------------------ |
+| $C_1$ | 1                 | 1                  |
+| $C_2$ | 1                 | $n+1$              |
+| $C_3$ | 0                 | $n$                |
+| $C_4$ | 1                 | 1                   |
 
