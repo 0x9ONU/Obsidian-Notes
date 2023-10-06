@@ -302,3 +302,4 @@ print innerCount
 | $C_6$          | $\frac{n(n+1)}{2}$            |
 | $C_7$          | 1                |
 | $C_8$          | 1                 |
+
