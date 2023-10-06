@@ -253,3 +253,52 @@ $$ n + n + n + ... + n = n * n = n^2$$
 | $C_7$          | 1                |
 | $C_8$          | 1                 |
 
+```ad-check
+title: Solution
+$$T(n) = C_1 + C_2 + C_3(n+1) + C_4n + C_5(N^2+n) + C_6n^2 + C_7 + C_8$$
+$$T(n) = An^2 + Bn + C$$
+- **Quadratic Funciton**
+```
+
+```c++
+int n = 10;
+int outerCount = 0;
+int innerCount = 0;
+for (int i = 1; i <= n; i++) {
+	outerCounter++;
+	for (int j = 1; i <= n; j++) {
+		innerCount++;
+	}
+}
+cout << "Inner Loop Executes:" << innerCount;
+cout << "Outer Loop Executes: " << couterCounter;
+```
+
+### Example: Running Time for Dependent Nested For-Loops
+
+```ad-question
+For this pseudocode, fill in the table below, and determine the running time, $T(n)$, of the nested for-loop snippet shown below. Then, write the C++ code to implement the pseudocode and verify your results
+```
+
+```
+outerCount = 0
+innerCount = 0
+for i <- 1 to n
+	outerCount++
+	for j <- 1 to i
+		innerCount++
+print outerCount
+print innerCount
+```
+
+
+| Execution Cost | # Times Executed |
+| -------------- | ---------------- |
+| $C_1$          | 1                |
+| $C_2$          | 1                |
+| $C_3$          | $n+1$            |
+| $C_4$          | $n$              |
+| $C_5$          | $a$         |
+| $C_6$          | $\frac{n(n+1)}{2}$            |
+| $C_7$          | 1                |
+| $C_8$          | 1                 |
