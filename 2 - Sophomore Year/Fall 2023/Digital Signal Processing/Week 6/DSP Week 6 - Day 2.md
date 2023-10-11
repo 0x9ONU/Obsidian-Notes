@@ -19,6 +19,12 @@ If and **only if** every bounded input produces a bounded output
 It is unstable if the bounded input produces *unbounded* output
 ```
 
+```ad-important
+title: Stability Conclusions
+1. 
+```
+
+
 #comebacklater ex. 1
 
 ## Examples

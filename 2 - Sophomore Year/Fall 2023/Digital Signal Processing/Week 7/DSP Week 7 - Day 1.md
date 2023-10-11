@@ -16,17 +16,23 @@ collapse: open
 A linear system needs to satisfies the **superposition** principle:
 - The response of the system to a weighted sum of signals is equal to the corresponding weighted sum of the responses (outputs) of the system to each of the individual input system
 
+
+
 $$\tau [a_1x_1[n] + a_2x_2[n]] = a_1\tau x_1[n] + a_2 \tau x_2[n]$$
 #comebacklater ex. 1
 
-```ad-important
+```ad-note
 If both of these systems are equal, then $\tau$ is **linear**
 ```
 
-```ad-important
+```ad-note
 To meet linearality, a system **must** folow the rules of Scalars and Additivity
 ```
 
+```ad-important
+title: Linear Conclusions:
+1. 
+```
 ## Property of Scaling
 
 When setting $a_2 = 0$
