@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 8/Physics I Week 8 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 8/Physics I Week 8 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 8/Physics I Week 8 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 8/Physics I Week 8 - Day 1.md"
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md"
               }
             }
           },
@@ -196,10 +196,14 @@
   },
   "active": "9461aad17f5d35fa",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 8/Physics I Week 8 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 8",
     "General Notes/Pasted image 20231011103009.png",
     "General Notes/Pasted image 20231011100435.png",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 6/DSP Week 6 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 8/Physics I Week 8 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 8",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 8",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 7/Untitled",
@@ -216,8 +220,6 @@
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 8",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 1.md",
     "General Notes/Pasted image 20231006110507.png",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 7/Physics I Week 7 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 7",
@@ -234,7 +236,6 @@
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7",
     "General Notes/Pasted image 20230925101942.png",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 6",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 6",
     "Pasted image 20230922103654.png",
     "Pasted image 20230922100227.png",
     "Pasted image 20230922100219.png",
@@ -242,7 +243,6 @@
     "Pasted image 20230922100120.png",
     "Untitled 1.canvas",
     "CamScanner 08-30-2023 16.10_4.jpg",
-    "CamScanner 09-20-2023 20.35_9.jpg",
     "Untitled.canvas"
   ]
 }
