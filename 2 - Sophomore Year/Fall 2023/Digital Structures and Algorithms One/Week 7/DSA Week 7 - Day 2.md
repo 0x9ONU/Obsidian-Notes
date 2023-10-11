@@ -7,9 +7,7 @@ File Folder: Week 7
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Algorithmic Analysis
 
 ```
 
@@ -298,8 +296,41 @@ print innerCount
 | $C_2$          | 1                |
 | $C_3$          | $n+1$            |
 | $C_4$          | $n$              |
-| $C_5$          | $a$         |
+| $C_5$          | $\frac{n^2+3n}{2}$         |
 | $C_6$          | $\frac{n(n+1)}{2}$            |
 | $C_7$          | 1                |
 | $C_8$          | 1                 |
 
+```ad-important
+Since it is dependent, the inner and outer loop are needed to be taken into cnsideration so:
+$$1 + 2 + ... + n = \sum_{i=1}^n i = \frac{n(n+1)}{2}$$
+```
+
+```ad-note
+For line 5: Run $1$ more time than the inner loop, for **each** value of the outer loop counter, so:
+$$\sum_{i=1}^ni + \sum_{i=1}^n 1 = \frac{n(n+1)}{2}+n = \frac{n^2+3n}{2}$$
+```
+
+```ad-check
+title: Soltuion
+Quadratic Run Time:
+#comebacklater 
+```
+
+```c++
+#include <iostream>
+using namespace std;
+int main() {
+	int n =1000;
+	int innerCounter = 0;
+	int outerCounter - 0;
+	for (int i = 1; i <-n; i++) {
+		outerCOunter++;
+		for (int j =1; j <=i; j++) {
+			innerCounter++;
+		}
+	}
+	cout << "Inner Loop COunter executes" << innerCounter << endl;
+	cout << "Outer Loop COunter executes" << outerCounter << endl;
+}
+```
