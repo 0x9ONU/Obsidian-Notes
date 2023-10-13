@@ -65,7 +65,7 @@ The sample that was at $n=0$ is now shifted at $n=n_0$
 ```
 
 ```ad-example
-$$x[n] = \{ 2, 3, 2, 1, 3 \}$$
+$$x[n] = \{ 2, 3, 2_0, 1, 3 \}$$
 $$y[n] = x[n-1]$$
 Middle-point at $n = 2$
 ```ad-check
@@ -73,7 +73,7 @@ title: Solution
 - Find $n_0$ is $1$ by looking at the second equation
 - Drop $x[2]$ and add $x[3]$
 - Shift all values over one place to the right
-- $x[n-1] = \{2, 3, 2, 1, 3 \}$
+- $x[n-1] = \{2, 3_0, 2, 1, 3 \}$
 ![[CamScanner 09-12-2023 13.58_4.jpg]]
 ```
 
@@ -112,12 +112,12 @@ Reversal operation that adjusts the direction of the signal by mirroring it acro
 $$ y[n] = x[-n]$$
 
 ```ad-example
-$$x[n] = \{1, 2, 4, 5 \}$$
+$$x[n] = \{1, 2_0, 4, 5 \}$$
 $$y[n] = x[-n]$$
 Midpoint at $n = 1$
 ```ad-check
 title: Solution
-$$x[-n] = \{ 5, 4, 2, 1 \}$$
+$$x[-n] = \{ 5, 4, 2_0, 1 \}$$
 ![[CamScanner 09-12-2023 13.58_6.jpg]]
 ```
 
