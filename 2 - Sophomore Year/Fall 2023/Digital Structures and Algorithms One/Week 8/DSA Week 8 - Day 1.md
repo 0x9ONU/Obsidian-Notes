@@ -95,6 +95,88 @@ $$=(C_1+C_2+C_3+c+4+C_7)n$$
 $$T(n) = An + B$$ Linear run time, which is the *best case* for **all sorting algorithms**
 ```
 
+- Focus on dominant term (fastest growing term)
+	- 0(n^3) pronounced *theta of n-cubed*
+	- **Big Theta Notation** (tight bound on growth rate)
+	- Notice that x^2, x or constant terms do not matter much
+	- Ignore constant multiplicative factors
+![[Pasted image 20231013084856.png]]
+
+## Insertion Sort Running Time Analysis
+~~~
+1. for j = 2 to n
+2.     key = A[j]
+3.     i = j-1
+4.     while i > 0 and A[i] > key
+5.          A[i+1] = A[i]
+6.          i = i-1
+7.     A[i+1] = key
+~~~
+
+| **Execution Cost** | **# of Times Executed** |
+| ------------------ | ----------------------- |
+| C1                 | n                       |
+| C2                 | n-1                     |
+| C3                 | n-1                     |
+| C4                 | Summation: t sub j      |
+| C5                 | Summation: tsubj - 1    |
+| C6                 | Summation: tsubj - 1    |
+| C7                 | n-1                     |
+
+The value tj or tsubj  is defined as the number of times the while header executes for each j. In other words this is a more generalized form.
+**1 <= tj <= j
+
+![[Pasted image 20231011085001.png]]
+
+Total # of times the while loop header executes
+t2 + t3 + t4 + ... + tn
+or summation n to j=2: tj
+
+Inner Loop Body
+(t2-1) + (t3-1) + (t4-1) + ... + (tn-1)
+or summation n to j=2: tj - (n-1)
+
+In the best case the array is already in ascending order
+![[Pasted image 20231011085023.png]]
+##### **In the best case tj is always equal to 1**
+![[Pasted image 20231013084016.png]]
+![[Pasted image 20231013084024.png]]
+![[Pasted image 20231013084034.png]]
+
+
+### Example T9-1: Running Time of a Function that Calls Another Function
+- Determine run times for function1 and test separately and then combine the two
+~~~
+function1(n) {
+1. for i = n down to 1
+2.     for j = 1 up to i
+3.        test(n)
+}
+
+test(n) {
+4. r = 1;
+5. for p = 1 to n, updating p as p*=2
+6.    r = r*n
+7. print r
+}
+~~~
+
+| Execution Cost | # of Times Executed    |
+| -------------- | ---------------------- |
+| C1             | n+1                    |
+| C2             | tj+n or (n(n+1))/2 + n |
+| C3             | tj or (n(n+1))/2       |
+
+| Execution Cost | # of Times Executed |
+| -------------- | ------------------- |
+| C4             | 1                   |
+| C5             | \[lg n] + 2         |
+| C6             | \[lg n] + 1         |
+| C7             | 1                   |
+(the brackets around log n is called a floor function that rounds down)
+![[Pasted image 20231013084052.png]]
+![[Pasted image 20231013084059.png]]
+
 
 ```c++
 #include <iostream>
