@@ -83,7 +83,7 @@ title: Solution
 - Plug in numbers to equation
 	- $\tau [ a_1 x_2[n] + a_2 x_2 [n]] = a_1 \tau x_1[n] + a_2 \tau x_2[n]$
 - Replace $\tau$ with system where $\tau = 1$ and $n = n^2$
-	- $ a_1 x_2[n^2] + a_2 x_2 [n^2] = a_1 x_1[n^2] + a_2 x_2[n^2]$
+	- $a_1 x_2[n^2] + a_2 x_2 [n^2] = a_1 x_1[n^2] + a_2 x_2[n^2]$
 - They are the same so they are **linear**
 ```
 
