@@ -54,7 +54,7 @@ title: Solution
 	- $v_3 = \sqrt{2g(h_1-h_3)}$
 	- $v_3 = \sqrt{2* 9.8(32-26)} = 10.84 \frac{m}{s}$
 - Find $V_4$ using $E_1=E_4$
-	- $mgh_1 = \\frac{1}{2}mv_4^2 + mgh_4$
+	- $mgh_1 = \frac{1}{2}mv_4^2 + mgh_4$
 	- $v_4 = \sqrt{2g(h_1-h_4)}$
 	- $v_4 = \sqrt{2*9.8(32-14)} = 18.78 \frac{m}{s}$
 ```
