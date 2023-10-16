@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 1.md"
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md"
               }
             }
           },
@@ -196,10 +196,11 @@
   },
   "active": "9461aad17f5d35fa",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
     "General Notes/Pasted image 20231016102238.png",
     "General Notes/Pasted image 20231016100623.png",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 5/DSA Week 5 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 3.md",
@@ -241,7 +242,6 @@
     "Pasted image 20230922100227.png",
     "Pasted image 20230922100219.png",
     "Pasted image 20230922100132.png",
-    "Pasted image 20230922100120.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
