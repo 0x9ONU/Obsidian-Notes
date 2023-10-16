@@ -178,10 +178,3 @@ test(n) {
 ![[Pasted image 20231013084059.png]]
 
 
-```c++
-#include <iostream>
-using namespace std;
-
-
-```
-
