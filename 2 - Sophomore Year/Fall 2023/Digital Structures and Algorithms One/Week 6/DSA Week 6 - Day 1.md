@@ -48,7 +48,7 @@ title: Efficiency
 ## Definitions
 
 **In-place sorting**
-- No extra space is needed beyond a cosntant amount
+- No extra space is needed beyond a constant amount
 - Constant number of variables
 - Swapping
 

@@ -14,7 +14,6 @@ collapse: open
 # Learning Objectives
 
 - Describe how the insertion sort algorithm processes an array of integers
-
 # Insertion Sort
 
 ```ad-note
@@ -71,7 +70,7 @@ void insertionSort(int A[], int n) {
 	for (j = 1; j<n; j++) {
 		key = A[j]; //store key value at j
 		i = j-1; // set i just to left of j
-		while (i > 0 && A[i] > key) { // if i become -1,, off the list/array
+		while (i >= 0 && A[i] > key) { // if i become -1,, off the list/array
 			A[i+1] = A[i]; //copy A[i] to the right
 			i--; //move i to the left
 		}
