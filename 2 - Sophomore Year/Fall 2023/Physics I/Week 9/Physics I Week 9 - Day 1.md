@@ -99,7 +99,7 @@ $$\Delta p^\rightarrow = F^\rightarrow \Delta t$$
 ```ad-check
 title: Solution
 - Use Impulse by Force
-	- $F^\rightarrow * \Delta t = P_f^\rightarrow - P_i^\rightarrow
+	- $F^\rightarrow * \Delta t = P_f^\rightarrow - P_i^\rightarrow$
 - Write in terms of $x$
 	- $F * \Delta t = P_f - (-P_i)$
 	- $F * \Delta t = P_f + P_i$
