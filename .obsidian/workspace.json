@@ -31,6 +31,23 @@
               }
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "27eb8fd71908ee51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bde8da5f3ae72f85",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-19 17.59.33.excalidraw.md"
+              }
+            }
+          }
         ]
       }
     ],
@@ -105,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
+                "file": "Excalidraw/Drawing 2023-10-19 17.59.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
+                "file": "Excalidraw/Drawing 2023-10-19 17.59.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md"
+                "file": "Excalidraw/Drawing 2023-10-19 17.59.33.excalidraw.md"
               }
             }
           },
@@ -206,10 +223,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9461aad17f5d35fa",
+  "active": "bde8da5f3ae72f85",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 2.md",
+    "Excalidraw/Drawing 2023-10-19 17.59.33.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 1.md",
     "Excalidraw/Drawing 2023-10-19 14.32.30.excalidraw.png",
     "Excalidraw/Drawing 2023-10-19 14.32.30.excalidraw.md",
@@ -237,7 +255,6 @@
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/DSP Week 5 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3/DSP Week 3 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 4/DSP Week 4 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 4/DSP Week 4 - Day 1.md",
     "General Notes/Pasted image 20231016102238.png",
     "General Notes/Pasted image 20231016100623.png",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9",
