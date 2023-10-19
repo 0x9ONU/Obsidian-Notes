@@ -431,6 +431,109 @@ test(n)
 	print r
 ```
 
+| Execution Cost | # Times Executed   |
+| -------------- | ------------------ |
+| $C_2$          | $n+1$              |
+| $C_3$          | $\frac{n^2+3n}{2}$ |
+| $C_4$          | $\frac{n(n+1)}{2}$ |
+
+```ad-check
+title: Solution
+$$T(n) - n^2(\frac{C_3+C_4}{2}) + n(C_2 + \frac{3C_3+C_4}{2}) + C_2$$
+**Quadratic**
+```
+
 | Execution Cost | # Times Executed |
 | -------------- | ---------------- |
-|                |                  |
+| $C_7$          | $1$              |
+| $C_8$          | $n+1$            |
+| $C_9$          | $n$              |
+| $C_10$         | $1$                 |
+
+```ad-check
+title: Solution
+$$ T(n)=n(C_8+C_9) + C_7 + C_8 + C_10$$
+**LINEAR**
+```
+
+### Bubble Sort Running Time
+
+```
+BUBBLE-SORT(A, n)
+for j <- 1 to n-1
+	for i <- 1 to n-1
+		if A[i] > A[i+1]
+			exchange A[i] <-> A[i+1]
+```
+
+| Execution Cost | # Times Executed       |
+| -------------- | ---------------------- |
+| $C_2$          | $n^2-n$                |
+| $C_3$          | $n^2-1$                |
+| $C_4$          | $\sum_{j=1}^{n-1} t_j$ |
+
+```ad-check
+title: Solution
+$$T(n) = (C_2+C_3)n^2+C_1n+C_4 \sum_{j=1}^{n-1}(t_j) + C_3$$
+```
+
+#### Best Case
+
+When the list is already sorted in ascending order. Thus, $C_3$ will always execute as it always has to check the condition. However $C_4$ will never execute as `A[i]` will always be less than `A[i+1]`.
+
+```ad-check
+title: Solution
+$$T(n) = n^2(C_2+C_3)+n(C_1-c_2-2C_3) - C_3$$
+
+**Quadratic**
+```
+
+#### Worst Case
+
+The list would have to be sorted in *descending* order with every single value being **unique**. If this happens, the if statement would run for the standard arithmetic series of $t_j = \frac{n(n+1)}{2}$
+
+```ad-check
+title: Solution
+$$T(n) = n^2(C_2+C_3+\frac{C_4}{2})+n(C_1-C_2-2C_3-\frac{C_4}{2})+C_3$$
+**Quadratic**
+```
+
+### Selection Sort Running Time
+
+```
+SELECTION-SORT(A,n)
+for j <- to n-1
+	smallest <- j
+	for i <- j+1 to n
+		if A[i] < A[smallest]
+			smallest <- i
+```
+
+| Cost  | # Times               |
+| ----- | --------------------- |
+| $C_1$ | $n$                   |
+| $C_2$ | $n-1$                 |
+| $C_3$ | $\frac{n^2+n-2}{2}$   |
+| $C_4$ | $\frac{n(n-1)}{2}$    |
+| $C_5$ | $\sum_{j=1}^{n-1}t_j$ |
+| $C_6$ | $n-1$                      |
+
+```ad-check
+title: Solution
+$$T(n) = n^2(\frac{C_3+C_4}{2}) + n(C_1 + C_2 + \frac{C_3-C_4}{2}+C_6) - C_2-C_3-C_6 + C_5 \sum_{j=1}^{n-1}t_j$$
+```
+
+#### Best Case
+
+An array that is already sorted in *ascending* order. Only the line $C_5$ would never execute as the current will never be smaller than the rest of the list. Thus:
+
+$$\sum_{j=1}^{n-1}t_j = 0$$
+
+```ad-check
+title: Solution
+$$T(n) = n^2(\frac{C_3+C_4}{2}) + n(C_1 + C_2 + \frac{C_3-C_4}{2}+C_6) - C_2-C_3-C_6 + C_5$$
+**Quadratic**
+```
+
+
+
