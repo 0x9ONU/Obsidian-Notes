@@ -391,3 +391,46 @@ test(n) {
 | C6             | $[\lg n] + 1$        |
 | C7             | $1$                 |
 (the brackets around log n is called a floor function that rounds down)
+
+### Running Time HW # 5 - 4
+
+```
+funcitonD(Array A, int n)
+	for i = 1 to n
+		for j = n down to 1
+			print A[j]
+```
+
+
+| Execution Cost | # of TImes Executed |
+| -------------- | ------------------- |
+| $C_2$          | $n+1$               |
+| $C_3$          | $n^2+n$             |
+| $C_4$          | $n^2$                    |
+
+```ad-warning
+$i = 1 \to^+ n$ and $i = n \to^- 1$ are both $n+1$
+```
+
+### Running Time HW # 5 - 5
+
+```ad-danger
+TAKE IT THE FUNCTION AS ITS OWN RUNNING TIME
+```
+
+```
+funcitonE(n)
+	for i = n down to 1
+		for j= 0 to i -1
+			test(n);
+
+test(n)
+	r = 1;
+	for p = 1 to n
+		r = r *n;
+	print r
+```
+
+| Execution Cost | # Times Executed |
+| -------------- | ---------------- |
+|                |                  |
