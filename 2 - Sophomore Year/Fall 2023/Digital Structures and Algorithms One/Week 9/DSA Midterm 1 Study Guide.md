@@ -660,3 +660,7 @@ void SelectionSort(A[n], n) {
 
 # Linked List
 
+## Inserting
+
+### Beginning of List
+
