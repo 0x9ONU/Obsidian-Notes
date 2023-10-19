@@ -345,5 +345,49 @@ Occurs when the inner while loop body runs until $i>0$ condition causes it to ex
 
 ```ad-important
 THus, the running time for the **worst case** will be:
-$$T(n) = C_1n+C_2(n-1)+C_3(n-1)
+$$T(n) = C_1n+C_2(n-1)+C_3(n-1)+C_4 \sum_{j=2}^n j + C_5 \sum_{j=2}^n (j-1) + C_6 \sum_{k=2}^n (j-1) + C_7(n-1)$$
+$$T(n) = C_1n+C_2(n-1)+C_3(n-1) + C_4(\frac{n^2+n-2}{2})+ C_5(\frac{n^2-n}{2}) + C_6(\frac{n^2-n}{2}) + C_7(n-1)$$
+$$T(n) = (\frac{C_4+C_5+C_6}{2})n^2 + (C_1 +C_2+C_3+C_7 + \frac{C_4-C_5-C_6}{2})n - (C_2+C_3+C_4+C_7)$$
+**QUADRATIC RUN TIME BITCHESSS**
 ```
+
+```ad-note
+The first arithmetic sum would be one less than usual such that:
+$$\sum_{j=2}^n j = 2 + 3 + ... + n = \frac{n(n+1)}{2} - 1 = \frac{n^2+n-2}{2}$$
+```
+
+```ad-note
+The second and third arithmetic sum would be subract 1 *from every value* of $j$ such that:
+$$\sum_{j=2}^n (j-1) = \frac{n^2+n-2}{2} - (n-1) = \frac{n(n-1)}{2}$$
+```
+
+### Running Time of a Function that Calls Another Function
+
+~~~
+function1(n) {
+1. for i = n down to 1
+2.     for j = 1 up to i
+3.        test(n)
+}
+
+test(n) {
+4. r = 1;
+5. for p = 1 to n, updating p as p*=2
+6.    r = r*n
+7. print r
+}
+~~~
+
+| Execution Cost | # of Times Executed    |
+| -------------- | ---------------------- |
+| C1             | $n+1$                    |
+| C2             | $tj+n$ or $\frac{(n(n+1))}{2} + n$ |
+| C3             | $tj$ or $\frac{(n(n+1))}{2}$       |
+
+| Execution Cost | # of Times Executed |
+| -------------- | ------------------- |
+| C4             | $1$                 |
+| C5             | $[\lg n] + 2$       |
+| C6             | $[\lg n] + 1$        |
+| C7             | $1$                 |
+(the brackets around log n is called a floor function that rounds down)
