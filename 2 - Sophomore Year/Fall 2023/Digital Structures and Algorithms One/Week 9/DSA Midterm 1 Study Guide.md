@@ -575,6 +575,7 @@ void bubbleSort(int A[], int n) {
 - Inserts next element from the unsorted subsequence into the correct spot of the sorted subsequence, shifting element rightward, as we move leftward
 - Increasing size of sorted subsequence while decreasing size of unsorted subsequence by 1.
 
+
 ```ad-note
 - In-place sorting
 - Need to  copy over elements with arrays
@@ -585,6 +586,13 @@ void bubbleSort(int A[], int n) {
 	- Don't need to copy over elements with leftward moving pointer. Simply insert the key node where appropriate.
 ```
 
+```ad-summary
+title: Steps For Insertion Sort
+Use shading to indicate comparisons done in the inner loop, vertical arrows to indicate the key stored for placement in the outer loop iteration, and single arcs to indicate shifts (above) and new placement of the key (below)
+```
+
+
+![[Pasted image 20231019181137.png]]
 
 
 ```c++
@@ -593,14 +601,6 @@ using namespace std;
 
 // funciton declaration (aka prototype):
 void insertionSort(int A[], int n); // A == array pointer, n == A.length
-
-int main() {
-	int n = 6;
-	int A[6] = {3, 4, 8, 7, 2, 1};
-	inseritonSort(A, n);
-	for (int i-0; i<n; i++) 
-		cout << A[i] << "\n";
-}
 
 void insertionSort(int A[], int n) {
 	for (j = 1; j<n; j++) {
@@ -616,5 +616,47 @@ void insertionSort(int A[], int n) {
 ```
 
 ## Selection Sort
+**Initialization**: Given input sequence:
+$$<a_1, a_2,...,a_n>$$
+- Sorted subsequence = $<>$
 
+```ad-note
+Names usually focus on how sorting functions work
+- Selection sort
+	- Select next element to add to sorted subsequence
+- Done with in-palce
+	- Memory efficienlty is used using swapping
+	- Swaps the **first index** and **smallest elements** in the unsorted subsequence
+	- Goes linearly from $[0]$ to $[n]$
+```
+
+```ad-important
+Once it hits the last swap with only two elements remaining, it **does not** have to iterate over the last element as it is trivially sorted.
+```
+
+```ad-summary
+title: Steps to Sorting Using Selection Sort
+Use a vertical arrow to indicate the index under consideration in the outer loop iteration, shading to indicate comparisons done in the inner loop, and double arcs to indicate swaps.
+```
+
+![[Pasted image 20231019181451.png]]
+![[Pasted image 20231019181503.png]]
+
+```c++
+void SelectionSort(A[n], n) {
+	for (int i = 0; , i < n; i++) {
+		smallest = i;
+		for(int j = i; i < n; j++) {
+			if (A[j] < A[smallest]) {
+				smallest = j;
+			}
+		}
+		int temp = A[i];
+		A[i] = A[smallest];
+		A[smallest] = temp;
+	}
+}
+```
+
+# Linked List
 
