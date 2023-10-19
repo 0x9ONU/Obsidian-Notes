@@ -535,5 +535,7 @@ $$T(n) = n^2(\frac{C_3+C_4}{2}) + n(C_1 + C_2 + \frac{C_3-C_4}{2}+C_6) - C_2-C_3
 **Quadratic**
 ```
 
+# Sorting 
+
 
 
