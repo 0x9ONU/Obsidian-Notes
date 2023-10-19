@@ -537,5 +537,82 @@ $$T(n) = n^2(\frac{C_3+C_4}{2}) + n(C_1 + C_2 + \frac{C_3-C_4}{2}+C_6) - C_2-C_3
 
 # Sorting 
 
+## Bubble Sort
+
+For every loop, the inner loop will compare the current position with the next position and **swap** if it is greater. It will continue to do this starting from the beginning of the loop every time one time for every element within the array.
+
+![[Drawing 2023-10-19 14.32.30.excalidraw.png]]
+
+```c++
+#include <iostream>
+using namespace std;
+// funciton delcaration (aka prototype)##
+void bubbleSort(int A[], int n)
+
+int main {
+// blah blah blah
+}
+
+void bubbleSort(int A[], int n) {
+	int temp;
+	for (int i = 0; i < n-1; i++) {
+		for(int j = 0; j < n-1; j++) {
+			if (A[j] > A[j+1]) {
+				temp = A[j];
+				A[j] = A[j+1];
+				A[j+1] = temp;
+			}
+		}
+	}
+}
+```
+
+## Insertion Sort
+
+**Initialization**: Given input sequence: $< a_1, a_2, ..., a_n>$
+- Sorted: $<a_1>$
+- Unsorted: $<a_2,...,a_n>$
+- Inserts next element from the unsorted subsequence into the correct spot of the sorted subsequence, shifting element rightward, as we move leftward
+- Increasing size of sorted subsequence while decreasing size of unsorted subsequence by 1.
+
+```ad-note
+- In-place sorting
+- Need to  copy over elements with arrays
+- Linked List Implementation
+	- Indices become node pointers
+	- **need** doubly linked list
+	- Remove entire key node and reinsert rather than copying it
+	- Don't need to copy over elements with leftward moving pointer. Simply insert the key node where appropriate.
+```
+
+```c++
+#include <iostream>
+using namespace std;
+
+// funciton declaration (aka prototype):
+void insertionSort(int A[], int n); // A == array pointer, n == A.length
+
+int main() {
+	int n = 6;
+	int A[6] = {3, 4, 8, 7, 2, 1};
+	inseritonSort(A, n);
+	for (int i-0; i<n; i++) 
+		cout << A[i] << "\n";
+}
+
+void insertionSort(int A[], int n) {
+	for (j = 1; j<n; j++) {
+		key = A[j]; //store key value at j
+		i = j-1; // set i just to left of j
+		while (i >= 0 && A[i] > key) { // if i become -1,, off the list/array
+			A[i+1] = A[i]; //copy A[i] to the right
+			i--; //move i to the left
+		}
+		A[i+1] = key; // i+1 is the spoit to insert the key and if i=-1, it is the front at 0
+	}
+}
+```
+
+## Selection Sort
 
 
