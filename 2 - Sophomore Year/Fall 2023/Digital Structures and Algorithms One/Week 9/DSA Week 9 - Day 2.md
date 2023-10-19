@@ -23,18 +23,13 @@ What if our landscaping business also builds brick walls?
 
 (**Tight** bound on growth rate)
 
+
 ```ad-summary
 **Precisely** specifies growth rate
 - Bubble Sort and Selection Sort have best-case and worst-case running times of the form:
 	- $T(n) = An^2+Bn+C$
 - Summarized as
 	- $T(n) = \Theta(n^2)$
-```
-
-```ad-note
-Insertion sort, on the other hand, has a different Big Theta Notation based on best and worst case:
-- Best case: $\Theta(n)$
-- Worst case: $\Theta(n^2)$
 ```
 
 ```ad-important
@@ -57,7 +52,7 @@ Notice that the asyptotic nature means that it is only true when larger than $n_
 
 # Big Omega Notation $\Omega (f(n))$
 
-- Provides (best-case) **lower bound** on grwoth rate 
+- Provides (best-case) **lower bound** on growth rate 
 	- Insertion sort is $\Omega(n)$ in asymptotic run-time complexity
 	- Captures its **best-case running time is** $\Theta(n)$
 
@@ -136,7 +131,7 @@ $$O(g(n)) = \{ f(n):\exists c \epsilon \mathbb{R}^+, n_0 \epsilon \mathbb{Z}^+ \
 Only has the lower bound
 ```
 
-# The set \Omega(g(n))$ used in Big Omega Notation
+# The set $\Omega(g(n))$ used in Big Omega Notation
 
 $$\Omega(g(n)) = \{ f(n):\exists c \epsilon \mathbb{R}^+, n_0 \epsilon \mathbb{Z}^+ \space s.t. \space  0 \le cg(n) \le f(n) \space\forall n \ge n_0\}$$
 

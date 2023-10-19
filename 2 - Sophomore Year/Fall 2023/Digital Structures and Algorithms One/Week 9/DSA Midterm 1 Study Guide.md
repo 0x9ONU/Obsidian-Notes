@@ -1,0 +1,349 @@
+Date: 18th October 2023
+Date Modified: 18th October 2023
+File Folder: Week 9
+#DSA1
+
+# Algorithms (General):
+
+## What is an Algorithm? What Makes a Good Algorithm?
+
+"An **algorithm** is is a sequence of instructions that accomplishes a task"
+
+A good algorithm should do the following:
+- **Correct**: Precisely and accurately accomplish the task, or solves the problem
+- **Efficient**: Requires *relatively* little time and memory to execute
+
+```ad-note
+Some aglorithms, in order to be efficient, need to sacrifise full correctness and need to create an **approximate solutions**. 
+```
+
+## Growth Rate of Different Functions and Asymptotic Notation
+
+### Incremental Sorting Algorithms
+
+**Running Time Complexity**
+
+| Algorithm      | Summary                             | Best-Case     | Worst-Case    |
+| -------------- | ----------------------------------- | ------------- | ------------- |
+| Insertion Sort | $\Omega(n) \space \& \space O(n^2)$ | $\Theta(n)$   | $\Theta(n^2)$ |
+| Selection Sort | $\Theta(n^2)$                       | $\Theta(n^2)$ | $\Theta(n^2)$ |
+| Bubble Sort    | $\Theta(n^2)$                       | $\Theta(n^2)$ | $\Theta(n^2)$ |
+
+**Memory Complexity**
+
+| Algorithm      | Summary     | Best-Case   | Worst-Case    |
+| -------------- | ----------- | ----------- | ------------- |
+| Insertion Sort | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$   |
+| Selection Sort | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$   |
+| Bubble Sort    | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
+
+### Linked List
+
+**Running Time**
+
+| Algorithm                | Summary                | Best-Case   | Worst-Case  |
+| ------------------------ | ---------------------- | ----------- | ----------- |
+| Traversal                | $\Theta(n)$            | $\Theta(n)$ | $\Theta(n)$ |
+| Search                   | $\Omega(1)$ and $O(n)$ | $\Theta(1)$ | $\Theta(n)$ |
+| Insertion at head/tail   | $\Theta(1)$            | $\Theta(1)$ | $\Theta(1)$ |
+| Insertion in Sorted List | $\Omega(1)$ and $O(n)$ | $\Theta(1)$ | $\Theta(n)$ |
+| Deletion at head/tail    | $\Theta(1)$            | $\Theta(1)$ | $\Theta(1)$ |
+| Deletion in Sorted List  | $\Omega(1)$ and $O(n)$ | $\Theta(1)$ | $\Theta(n)$            |
+
+**Memory Complexity**
+
+| Algorithm                | Summary     | Best-Case   | Worst-Case  |
+| ------------------------ | ----------- | ----------- | ----------- |
+| Traversal                | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
+| Search                   | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
+| Insertion at head/tail   | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
+| Insertion in Sorted List | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
+| Deletion at head/tail    | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
+| Deletion in Sorted List  | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
+
+
+## Run-Time Function Definitions
+### Big Theta Definition
+
+$$\Theta(f(n))$$
+
+```ad-summary
+**Precisely** specifies growth rate
+- Bubble Sort and Selection Sort have best-case and worst-case running times of the form:
+	- $T(n) = An^2+Bn+C$
+- Summarized as
+	- $T(n) = \Theta(n^2)$
+```
+
+```ad-warning
+When best case and worst case are **not** the same, a function can not be summarized by only one Big Theta Notation. It must be marked for both the best and worst case senario
+```
+
+$$\Theta(g(n)) = \{ f(n):\exists c_1, c_2 \epsilon \mathbb{R}^+, n_0 \epsilon \mathbb{Z}^+ \space s.t. \space  0 \le c_1g(n) \le f(n) \le c_2g(n) \space\forall n \ge n_0\}$$
+
+### Big O Notation
+
+$$O(f(n))$$
+```ad-summary
+- Provides (worst-case) **upper bound** on growth rate:
+	- Insertion sort is $0(n^2)$ in asymptotic run-time complexity
+	- Captures that its worst-case running time is $\Theta(n^2)$
+```
+
+$$O(g(n)) = \{ f(n):\exists c \epsilon \mathbb{R}^+, n_0 \epsilon \mathbb{Z}^+ \space s.t. \space  0 \le f(n) \le cg(n) \space\forall n \ge n_0\}$$
+
+### Big Omega Notation
+
+```ad-summary
+- Provides (best-case) **lower bound** on growth rate 
+	- Insertion sort is $\Omega(n)$ in asymptotic run-time complexity
+	- Captures its **best-case running time is** $\Theta(n)$
+```
+
+$$\Omega(g(n)) = \{ f(n):\exists c \epsilon \mathbb{R}^+, n_0 \epsilon \mathbb{Z}^+ \space s.t. \space  0 \le cg(n) \le f(n) \space\forall n \ge n_0\}$$
+
+### Examples
+
+1. **Algorithm 1:** $T_{best}(n) = 4n + 2$ & $T_{worst}(n) = 8n^2\lg(n) +4n+2$
+
+$$\Omega(n) \space \& \space O(n^2\lg n)$$
+	Alternatively: $\Theta(n)$ is the best case while $\Theta(n^2)$ is the worst case
+
+2. **Algorithm 2:** $T_{best}(n) = 5n^3 =3n +1$ & $T_{worst}(n) = 6n^3+4n^2-3n+1$
+$$\Omega(\lg n) \space \& \space O(n)$$
+3. **Algorithm 3:** $T_{best}(n) = 5$ & $T_{worst} = 2 \lg n + 5
+
+$$\Omega (1) \space \& \space O(\lg n)$$
+
+## Time-Complexity of Pseudocode Algorithms
+
+### Total Running Time Calculation
+
+- **Execution cost** of line $i$ in pseudocode, denoted by $C_i$
+- **Size of the input** denoted by `int` $n$, which is usually large
+- **Number of times** line $i$ is executed, denoted by $f_i(n)$
+	- Dependent on $n$, and could depend on the scenario (best/worst/etc)
+- **Run time spent executing line $i$** = $C_i * f_i(n)$
+- Total Running Time, $T(n)$
+
+$$T(n) = C)1 * f_1(n) + C_2 * f_2(n) + ... C_k * f_k(n) = \sum_{i=1}^{k} C_i * f_i(n)$$
+
+### Straight-Through 
+
+```
+x <- 1
+y <- 2
+print x*y
+```
+
+
+| Execution Cost | # Times Executed |
+| -------------- | ---------------- |
+| $C_1$          | $1$          |
+| $C_2$          | $1$            |
+| $C_3$          | $1$                 |
+
+**Constant**
+
+Running Time: $C_1+ C_2+C_3$
+### Single For-Loop
+
+```
+for i <- 1 to n-1
+	x <- x+2
+print x
+```
+
+| Execution Cost | # Times Executed |
+| -------------- | ---------------- |
+| $C_1$          | $n$            |
+| $C_2$          | $n-1$            |
+| $C_3$          | $1$                 |
+
+```ad-summary
+title: Running Time
+$T(n) = \sum_{i=1}^3 C_i * f_i(n) = C_1n + C_2(n-2) + C_3$
+	- $= (C_1+C+2)n + (C_3 - C_2)$
+	- $= An + B$
+```
+
+**Linear**
+
+### Running Time of a While-Loop (Search in a Linked List)
+
+```
+searchNode = head
+while (searchNode NOT NULL AND searchNode.key NOT keyval) 
+	searchNode = searchNode.next
+reutrn searchNode // will be NULL if keyVal not found
+```
+
+| Cost  | # Times Best Case | # Times Worst Case |
+| ----- | ----------------- | ------------------ |
+| $C_1$ | 1                 | 1                  |
+| $C_2$ | 1                 | $n+1$              |
+| $C_3$ | 0                 | $n$                |
+| $C_4$ | 1                 | 1                   |
+
+```ad-check
+title: Solution
+- **Best Case**
+	- $T(n) = C_1 + C_2 + C_4$
+	- **Constant Run Time**
+- **Worst Case**
+	- $T(n) = C_1*1+ C_2(n+1) * C_3(n) + C_4*1$
+	- $T(n) = (C_2+C_3)n + (C_1+C_2+C_4)$
+	- **Linear Run Time**
+```
+
+```ad-note
+Best case is when the searched node is at the head. Worst case is if it returns null
+```
+
+### Running Time for Independent Nested Loops
+
+```
+outerCount = 0
+innerCount = 0
+for i <- 1 to n
+	outerCount++
+	for j <- 1 to n 
+		innerCount++
+print outerCount
+print innerCount
+```
+
+| Execution Cost | # Times Executed |
+| -------------- | ---------------- |
+| $C_1$          | 1                |
+| $C_2$          | 1                |
+| $C_3$          | $n+1$            |
+| $C_4$          | $n$              |
+| $C_5$          | $n^2 +n$         |
+| $C_6$          | $n^2$            |
+| $C_7$          | 1                |
+| $C_8$          | 1                 |
+
+```ad-important
+For independent nested loops, it would run one time for every loop of the outer. That means it would run for $n$ times for $n$ times. 
+```
+
+```ad-check
+title: Solution
+$$T(n) = C_1 + C_2 + C_3(n+1) + C_4n + C_5(N^2+n) + C_6n^2 + C_7 + C_8$$
+$$T(n) = An^2 + Bn + C$$
+- **Quadratic Funciton**
+```
+
+### Running Time for Dependent Nested Loops
+
+```
+outerCount = 0
+innerCount = 0
+for i <- 1 to n
+	outerCount++
+	for j <- 1 to i
+		innerCount++
+print outerCount
+print innerCount
+```
+
+| Execution Cost | # Times Executed |
+| -------------- | ---------------- |
+| $C_1$          | 1                |
+| $C_2$          | 1                |
+| $C_3$          | $n+1$            |
+| $C_4$          | $n$              |
+| $C_5$          | $\frac{n^2+3n}{2}$         |
+| $C_6$          | $\frac{n(n+1)}{2}$            |
+| $C_7$          | 1                |
+| $C_8$          | 1                 |
+
+```ad-important
+Since it is dependent, the inner and outer loop are needed to be taken into cnsideration so:
+$$1 + 2 + ... + n = \sum_{i=1}^n i = \frac{n(n+1)}{2}$$
+```
+
+```ad-note
+For line 5: Run $1$ more time than the inner loop, for **each** value of the outer loop counter, so:
+$$\sum_{i=1}^ni + \sum_{i=1}^n 1 = \frac{n(n+1)}{2}+n = \frac{n^2+3n}{2}$$
+```
+
+ ```ad-check
+ $$T(n) = C_1 + C_2 C_3(n+1) + C_4(n) + C_5(\frac{n^2+3n}{2}) + C_6(\frac{n^2+n}{2}) + C_7 + C_8$$
+ $$T(n) = (\frac{C_5+C_6}{2})n^2+(C_3+C_4+\frac{C_5}{2}+\frac{C_6}{2})n + (C_1+C_2+C_3+C_7+C_8) = An^2+Bn+C$
+```
+
+```ad-summary
+***Dependent Nested For-Loops*** also ahve a *quadratic run time*
+```
+
+### Running Time for Insertion Sort Algorithm
+
+```
+Alg: INSERTION-SORT(A, n)
+for j = 2 to n
+	key = A[j]
+	i = j-1
+	while i > 0 and A[i] > key
+		A[i+1} = A[i]
+		i = i-1
+	A[i+1] = key
+```
+
+| Execution Cost | # Times Executed       |
+| -------------- | ---------------------- |
+| $C_1$          | $n$                    |
+| $C_2$          | $n-1$                  |
+| $C_3$          | $n-1$                  |
+| $C_4$          | $\sum_{j=2}^n t_j$     |
+| $C_5$          | $\sum_{j=2}^n (t_j-1)$ |
+| $C_6$          | $\sum_{j=2}^n (t_j-1)$ |
+| $C_7$          | $n-1$                       |
+
+```ad-important
+Since the state of the while loop conditon dpends on the **array's input**, ***DEFINE*** the number of times the while-llop executes to $t_j$. Since $j$ starts at 2 and incrmenets up to value $n$, the given summation, $\sum_{j=2}^n t_j$, represents how many times the line *may* execute.
+```
+
+```ad-check
+title: Solution
+- How many values does the outer loop counter $j$ take on?
+	- $n-1$
+- Let $t_j$ be defiend as the number of times the **while header executes** for each $j$
+	- $1 \le t_j \le j$
+	- Note: $i$ would take on $j$ values if the **worse case happens. It will take on 1 if the **best case** happens
+- Thus, the total number of times the while loop executes header executes **given** $t_j$ where:
+	- $t_2+ t_3 + t_4 + ... + t_n$
+	- $\sum_{j=2}^n t_j$
+- **AND**, the inner loop body:
+	- $(t_2-1) + (t_3-1) + ... + t(t_n-1) = \sum_{j=2}^n(t_j-1) = \sum_{j=2}^n t_j - (n-1)$
+- Find execution cost:
+	- $T(n) = C_1n + C_2(n-1) + C_3(n-1) + C_4 \sum_{j=2}^n t_j + C_5 \sum_{j=2}^n(t_j-1) + C_6 \sum_{j=2}^n (t_j-1) + C_7(n-1)$
+```
+
+#### Best-Case
+
+If the array is already sorted in ascending order, such that $t_j \equiv 1$
+
+Line 4:
+$$\sum_{j=2}^n t_j = \sum_{j=2}^n 1 = n-1$$
+
+Line 5:
+$$\sum_{j=2}^n (t_j-1) = \sum_{j=2}^n(1-1) = 0$$
+
+```ad-important
+Thus, the running time for the **best case** will be:
+$$T(n) = C_1n + C_2(n-1) + C_3(n-1) + C_4(n-1) + C_7(n-1)$$
+$$=(C_1+C_2+C_3+c+4+C_7)n$$
+$$T(n) = An + B$$ Linear run time, which is the *best case* for **all sorting algorithms**
+```
+
+#### Worst-Case
+
+Occurs when the inner while loop body runs until $i>0$ condition causes it to exit. This would occur every time, the next element to place is the smallest among the elements. **The array would be sorted in descending order with unique values**
+- $t_j = 1-1+1 = j$
+
+```ad-important
+THus, the running time for the **worst case** will be:
+$$T(n) = C_1n+C_2(n-1)+C_3(n-1)
+```
