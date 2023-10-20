@@ -32,7 +32,7 @@ collapse: open
 The amount of work done by an object at a certain time
 
 $$\bar{P} = \frac{W}{\Delta t}$$
-$$P = F^{->} \bullet v^{->} = F*v*\cos(F^{->}, v^{->})$$
+$$P = \frac{F^{->} \bullet d^{->}}{\Delta t} = \frac{F*d*\cos(F^{->}, v^{->})}{\Delta t}$$
 
 ## Example
 
