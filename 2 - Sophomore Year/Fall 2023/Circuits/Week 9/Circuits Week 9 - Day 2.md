@@ -8,7 +8,6 @@ title: Today's Topics
 collapse: open
 
 - Introduction to AC
-- Phase Shift Comparisions
 
 ```
 
@@ -104,23 +103,7 @@ Determine:
 4. $Peak = 1 [A]$ (there is no DC components so the peak is equal to the amplitude)
 5. $Peak-to-Peak = 2A = 2 [A]$ 
 
-# Phase Shift In Comparing Sinusoids
 
-```ad-summary
-title: The Three Requirements for Comparing Sinusoids
-1. Must have the same frequency
-2. They must all be the same sinusoid form (either $\cos$ or $\sin$)
-3. Both must all be positive OR negative
-```
-
-```ad-important
-Compare them with the reference signal, which would be the signal that **comes first** in time.
-- $v_1 \space leads \space v \equiv v \space lags \space v_1$
-- $v_1 \space leads \space v \space and \space v_2 \equiv v_2 \space and \space v_1 \space lags \space v_1$
-```
-## Example
-
-#comebacklater ex. 6
 
 
 

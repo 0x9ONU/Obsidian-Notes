@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9461aad17f5d35fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Exam 3 Equation Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e03f67ffbc7b4401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 7/Physics I Week 7 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Exam 3 Equation Sheet.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Exam 3 Equation Sheet.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Exam 3 Equation Sheet.md"
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md"
               }
             }
           },
@@ -206,9 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9461aad17f5d35fa",
+  "active": "e03f67ffbc7b4401",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 7/Physics I Week 7 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Drawing 2023-10-20 11.00.12.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Exam 3 Equation Sheet.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 7/Physics I Week 7 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 1.md",
@@ -236,12 +227,9 @@
     "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 2.md",
     "General Notes/Pasted image 20231018175626.png",
     "General Notes/Pasted image 20231018175622.png",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/DSP Week 5 - Day 2.md",
     "1 - Freshman Year/Semester 2/Programming 2/insertionsort.png",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 8/DSP Week 8 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 7/Physics I Week 7 - Day 1.md",
     "General Notes/Pasted image 20231016102238.png",
     "General Notes/Pasted image 20231016100623.png",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9",
