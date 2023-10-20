@@ -815,5 +815,6 @@ StudentLL::~StudentLL() {
 }
 ```
 
-### Beginning of List
+## Doubly Linked List
+
 

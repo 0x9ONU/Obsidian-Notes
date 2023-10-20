@@ -50,6 +50,7 @@ class StudentLL // Studnet Linked List Class Name, LL for LInked LIst
 				price = 0;
 				next = NULL;
 			}
+			//CONSTRUCTOR
 			node (string key, int num, float value, node *next1 = NULL) {
 				key Items = key;
 				numItems = num;
