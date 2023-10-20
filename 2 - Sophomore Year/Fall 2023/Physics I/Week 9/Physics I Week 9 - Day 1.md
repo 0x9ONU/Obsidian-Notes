@@ -34,7 +34,7 @@ The amount of work done by an object at a certain time
 $$\bar{P} = \frac{W}{\Delta t}$$
 $$P = \frac{F^{->} \bullet d^{->}}{\Delta t} = \frac{F*d*\cos(F^{->}, v^{->})}{\Delta t}$$
 
-## Example
+## Example6
 
 ![[Pasted image 20231016100623.png]]
 

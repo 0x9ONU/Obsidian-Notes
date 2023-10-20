@@ -72,12 +72,16 @@ $$E_i = E_f$$
 ## With Friction
 
 $$E_i = E_f + W_{fk}$$
-$$W_{fk} = \mu_kNd \cos(180)$$
+$$W_{fk} = \mu_kNd \cos(\alpha)$$
+
+```ad-note
+$\alpha = 180$ when the friction is acting on a **flat** surface
+```
 
 # Power
 
 $$\bar{P} = \frac{W}{\Delta t}$$
-$$P = F^\to \bullet v^\to \cos(F^\to, v^\to)$$
+$$P = \frac{F^\to \bullet d^\to \cos(F^\to, v^\to)}{\Delta t}$$
 
 # Linear Momentum
 
