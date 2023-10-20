@@ -817,4 +817,113 @@ StudentLL::~StudentLL() {
 
 ## Doubly Linked List
 
+### Insert
+
+#### Beginning of the List
+
+```c++
+void MusicPlayList::addSong(const string addedSongName) {
+	//Create New SongNode to add to the list with the given name
+	SongNode* addedSong = new SongNode();
+	addedSong->songName = addedSongName;
+	addedSong->songNum = 1;
+
+	//Special Case 1: No Songs Exist in the List Yet
+	if (head == nullptr) {
+		head = addedSong;
+		tail = addedSong;
+		numSongs++;
+		return;
+	}
+
+	//Add song to beginning of list
+	addedSong->next = head;
+	head->prev = addedSong;
+	head = addedSong;
+
+	//Create New Node to Increment through the List
+	SongNode* incrementerNode = head->next;
+
+	//Increment the songNum of the rest of the list to make room for the new song
+	while(incrementerNode != nullptr) {
+		incrementerNode->songNum++;
+		incrementerNode = incrementerNode->next;
+	}
+
+	//Increment the number of songs by 1
+	numSongs++;
+}
+```
+
+#### Middle/Tail of List
+
+```c++
+void MusicPlayList::addSong(const string addedSongName, const int songOrder) {
+	//Special Case 1: The song order is less than two OR empty, so place it at the head
+	if (head == nullptr || songOrder < 2) {
+		addSong(addedSongName);
+		return;
+	}
+
+	//Create New SongNode to add to the list with the given name and location
+	SongNode* addedSong = new SongNode();
+	addedSong->songName = addedSongName;
+	addedSong->songNum = songOrder;
+	//Special Case 2: There is only one node within the list. Add it after node 1:
+	if (head->next == nullptr) {
+		head->next = addedSong;
+		tail = addedSong;
+		addedSong->prev = head;
+		addedSong->songNum = 2;
+		numSongs++;
+		return;
+	}
+
+	//Special Case 3: The song is more than the number of songs in the list. Put it at the tail
+	if (songOrder > numSongs) {
+		addedSong->prev = tail;
+		addedSong->songNum = addedSong->prev->songNum + 1;
+		tail->next = addedSong;
+		tail = addedSong;
+		numSongs++;
+		return;
+	}
+
+	//Create two incrementor that starts two ahead of the head and at the tail
+	SongNode* incrementerNodeFront = head;
+	SongNode* incrementerNodeBack = tail;
+
+	//Create two const variables that represent one *before* and one *after* the songOrder
+	const int songOrderBehind = songOrder;
+	const int songOrderAhead = songOrder-1;
+
+	//Begin interating from both ends looking for the front and back node
+	while(incrementerNodeFront->songNum != songOrderAhead || incrementerNodeBack->songNum != songOrderBehind) {
+		if (incrementerNodeFront->songNum != songOrderAhead) {
+			incrementerNodeFront = incrementerNodeFront->next;
+			//Debug: cout << "front moved forward" << endl;
+		}
+		if (incrementerNodeBack->songNum != songOrderBehind) {
+			incrementerNodeBack = incrementerNodeBack->prev;
+			//Debug: cout << "back moved back" << endl;
+		}
+	}
+
+	//Sets the new song's previous and next to the two incrementor pointer's positions
+	addedSong->prev = incrementerNodeFront;
+	addedSong->next = incrementerNodeBack;
+
+	//Sets the incrmentor's front and backs to the new song that was added between them
+	incrementerNodeFront->next = addedSong;
+	incrementerNodeBack->prev = addedSong;
+
+	//Updates the numbers for every song after the added song
+	while (incrementerNodeBack != nullptr) {
+		incrementerNodeBack->songNum++;
+		incrementerNodeBack = incrementerNodeBack->next;
+	}
+
+	numSongs++;
+}
+```
 
