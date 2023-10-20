@@ -927,3 +927,192 @@ void MusicPlayList::addSong(const string addedSongName, const int songOrder) {
 }
 ```
 
+### Delete
+
+#### From Head
+
+```c++
+void MusicPlayList::deleteSong(const int songNumInList) {
+	if (head == nullptr) {
+		return;
+	}
+
+	//FROM HEAD
+	if (songNumInList < 2) {
+		SongNode* tempDeleteHead = head;
+		head = head->next;
+		tempDeleteHead->prev = nullptr;
+		tempDeleteHead->next = nullptr;
+		head->prev = nullptr;
+		delete tempDeleteHead;
+
+		//UPDATE NUMBERS
+		SongNode* iterator = head;
+
+		while(iterator != nullptr) {
+			iterator->songNum--;
+			iterator = iterator->next;
+		}
+
+		numSongs--;
+		return;
+	}
+
+	if (songNumInList > numSongs) {
+		deleteLastSong();
+		return;
+	}
+
+	SongNode* searchedNode = getSongNode(songNumInList);
+
+	// No Song was found in the list with that name
+	if (searchedNode == nullptr) {
+		return;
+	}
+
+	//The song was found, so deletion may begin
+	SongNode* prevNode = searchedNode->prev;
+	SongNode* nextNode = searchedNode->next;
+
+	//Set forward and backward pointers of the members over the deleted node
+	prevNode->next = nextNode;
+	nextNode->prev = prevNode;
+
+	//Removes pointers for the soon-to-be deleted member
+	searchedNode->next=nullptr;
+	searchedNode->prev=nullptr;
+
+	//Deletes the found member
+	delete searchedNode;
+
+	//Updates numbers in all the members *after* the deletion
+
+	while(nextNode != nullptr) {
+			nextNode->songNum--;
+			nextNode = nextNode->next;
+		}
+
+		numSongs--;
+}
+```
+
+#### From End
+
+```c++
+void MusicPlayList::deleteLastSong() {
+	//Fails if there is no node in the list
+	if (head == nullptr) {
+		return;
+	}
+	SongNode* tempNode = tail->prev;
+	tempNode->next = nullptr;
+	delete tail;
+	tail = tempNode;
+	numSongs--;
+}
+```
+
+### Search
+
+```c++
+MusicPlayList::SongNode* MusicPlayList::getSongNode(const string song) {
+	//Special Case 1: No Songs Exist in the List
+	if (head ==  nullptr && tail == nullptr) {
+		return nullptr;
+	}
+
+	//Create Pointer to Look through the LL
+	SongNode* searcherNode = head;
+
+	//Search Through list until it hits the 
+	while (searcherNode != nullptr) {
+		if (searcherNode->songName==song) return searcherNode;
+		searcherNode = searcherNode->next;
+	}
+
+	//Return null if no nodes with that song were found
+	return nullptr;
+}
+```
+
+### Sorting
+
+#### Insertion Sort
+
+```c++
+class LinkedList {
+	struct Node {
+		int key;
+		Node* next=nullptr;
+		Node* prev=nullptr;
+	};
+	Node* head;
+	Node* tail;
+	
+	public:
+		LinkeList() {head=tail=nullpter;} //constructor
+		~LinkedList(); // destructor
+		void addNode(int keyVal); //adds a Node 
+		void insertionSort(); // use insertion sort to sort the nodes by key
+		void displayList9); // displays the list keys
+};
+
+//funciton definition
+
+void LinkedList::insertionSort() {
+	//Special Case 1: Either no members or one member. No sorting needs to happen
+	if (head == tail) {
+		return;
+	}
+	
+	//Declare Pointers
+	Node* j = head->next;
+	Node* i = nullptr;
+	Node* keyNode = nullptr;
+	
+	while (j != nullptr) {
+		keyNode = j; //same idea as key = A[j]
+		i = j->prev; //same as i = j - 1
+		
+		//Disconnect keyNode from the list
+		j = j->next; //this could NOW point to nullptr
+		i->next = keyNode->next; //could be nullptr IF keyNode is tail\
+		keyNode->prev = nullptr;
+		keyNode->next = nullptr;
+		
+		if (keyNode == tail) {
+			tail = i;
+		}
+		else {
+			j->prev = i;
+		}
+		
+		//inner while loop to find where to place the node
+		while (i != nullptr && i->key > keyNode->key) {
+			i = i->prev;
+		}
+		
+		if (i == nullptr) { //place at head
+			keyNode->next = head;
+			head->prev = keyNode;
+			head = keyNode;
+		}
+		else { //i not off the list so it points to a node
+			//place keyNode afer i
+			kyeNode->prev = i;
+			//test to make sure if it is at the tail or not. Prevent dereferencing nullptr
+			if (i == tail) {
+				tail = keyNode;
+			}
+			else {
+				i->next->prev = keyNode;
+			}
+			
+			keyNode->next = i->next;
+			i->next = keyNode;
+			
+		} //finished inner while loop
+	} // finished with outer loop
+}
+```
+
