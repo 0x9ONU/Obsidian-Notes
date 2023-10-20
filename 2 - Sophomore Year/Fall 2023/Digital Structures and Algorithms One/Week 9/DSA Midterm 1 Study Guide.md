@@ -759,7 +759,7 @@ void StudentLL::deleteNode(string key) {
 	}
 	
 	//If it is the first node to be deleted
-	if head->keyItems == key) {
+	if (head->keyItems == key) {
 		nodePtr = head;
 		head = head->next;
 		delete nodePtr;
