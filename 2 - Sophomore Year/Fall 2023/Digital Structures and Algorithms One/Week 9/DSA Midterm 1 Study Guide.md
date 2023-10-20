@@ -110,8 +110,8 @@ $$\Omega(n) \space \& \space O(n^2\lg n)$$
 	Alternatively: $\Theta(n)$ is the best case while $\Theta(n^2)$ is the worst case
 
 2. **Algorithm 2:** $T_{best}(n) = 5n^3 =3n +1$ & $T_{worst}(n) = 6n^3+4n^2-3n+1$
-$$\Omega(\lg n) \space \& \space O(n)$$
-3. **Algorithm 3:** $T_{best}(n) = 5$ & $T_{worst} = 2 \lg n + 5
+$$\Theta(n^3)$$
+3. **Algorithm 3:** $T_{best}(n) = 5$ & $T_{worst} = 2 \lg n + 5$
 
 $$\Omega (1) \space \& \space O(\lg n)$$
 
