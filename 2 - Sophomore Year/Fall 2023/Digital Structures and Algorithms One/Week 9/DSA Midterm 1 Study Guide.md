@@ -1040,25 +1040,6 @@ MusicPlayList::SongNode* MusicPlayList::getSongNode(const string song) {
 #### Insertion Sort
 
 ```c++
-class LinkedList {
-	struct Node {
-		int key;
-		Node* next=nullptr;
-		Node* prev=nullptr;
-	};
-	Node* head;
-	Node* tail;
-	
-	public:
-		LinkeList() {head=tail=nullpter;} //constructor
-		~LinkedList(); // destructor
-		void addNode(int keyVal); //adds a Node 
-		void insertionSort(); // use insertion sort to sort the nodes by key
-		void displayList9); // displays the list keys
-};
-
-//funciton definition
-
 void LinkedList::insertionSort() {
 	//Special Case 1: Either no members or one member. No sorting needs to happen
 	if (head == tail) {
