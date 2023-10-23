@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3/DSP Week 3 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 10/Physics I Week 10 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3/DSP Week 3 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 10/Physics I Week 10 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3/DSP Week 3 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 10/Physics I Week 10 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3/DSP Week 3 - Day 1.md"
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 10/Physics I Week 10 - Day 1.md"
               }
             }
           },
@@ -208,9 +208,19 @@
   },
   "active": "e03f67ffbc7b4401",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 9/Midterm Exam Review.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 10/Physics I Week 10 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 8/DSP Week 8 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 7/DSP Week 7 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 7/DSP Week 7 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 6/DSP Week 6 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 6/DSP Week 6 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/DSP Week 5 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 5/DSP Week 5 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 4/DSP Week 4 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 4/DSP Week 4 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3/DSP Week 3 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 1.md",
@@ -228,21 +238,11 @@
     "2 - Sophomore Year/Fall 2023/Physics I/Week 8/Physics I Week 8 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 8/DSA Week 8 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 5/DSA Week 5 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 1-2.md",
     "General Notes/Pasted image 20231019181503.png",
     "General Notes/Pasted image 20231019181451.png",
     "General Notes/Pasted image 20231019181137.png",
     "General Notes/Pasted image 20231019181124.png",
-    "Excalidraw/Drawing 2023-10-19 17.59.33.excalidraw.md",
     "Excalidraw/Drawing 2023-10-19 14.32.30.excalidraw.png",
-    "Excalidraw/Drawing 2023-10-19 14.32.30.excalidraw.md",
     "General Notes/Pasted image 20231018175626.png",
     "General Notes/Pasted image 20231018175622.png",
     "1 - Freshman Year/Semester 2/Programming 2/insertionsort.png",
