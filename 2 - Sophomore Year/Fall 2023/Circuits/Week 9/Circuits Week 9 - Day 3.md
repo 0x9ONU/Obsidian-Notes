@@ -140,7 +140,7 @@ $$z = a+jb$$
 2. Polar
 $$Z = |Z| \angle \Theta$$
 $$|Z| = \sqrt(a^2+b^2)$$
-$$\Theta = \tan^{-1}(\frac{a}{b})$$
+$$\Theta = \tan^{-1}(\frac{b}{a})$$
 $$-180 \le \Theta \le 180$$
 #comebacklater ex. 3
 3. Exponential Form
