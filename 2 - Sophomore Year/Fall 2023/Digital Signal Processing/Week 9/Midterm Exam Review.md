@@ -5,7 +5,7 @@ File Folder: Week 9
 
 # 1. Sampling & Quantization
 
-## Finding Discrete TIme Signal
+## Finding Discrete Time Signal
 $$x(t) = 2\cos(2\pi t)$$
 $$x[n] = x(nT_s)\space where \space T_s = \frac{1}{8}$$
 $$x[n] = 2\cos(\pi \frac{n}{4})$$
