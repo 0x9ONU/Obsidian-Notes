@@ -139,3 +139,57 @@ $$\Omega(g(n)) = \{ f(n):\exists c \epsilon \mathbb{R}^+, n_0 \epsilon \mathbb{Z
 
 For any two functions, $f(n)$ and $g(n)$, we have $f(n) = \Theta(g(n))$ if and only if $f(n) = O(g(n)$ and $f(n) = \Omega(g(n))$
 
+## Example: Constructive Proof demonstrating Asymptotic Complexity Bound
+
+```ad-question
+Formally prove that $f(n) = \frac{1}{3} n^2-2n$ is $\Theta(n^2)$
+```
+
+```ad-example
+title: Steps
+1. Note: $g(n) = n^2$ here; need to show using the **set notation of big Theta**:
+$$c_1n^2 \le \frac{1}{3} n^2 - 2n \le c_2n^2 \space \space \forall n \ge n_0$$
+1. Divide each side by $n^2$
+$$c_1 \le \frac{1}{3} - \frac{2}{n} \le c_2$$
+2. See that $c_2 = \frac{1}{3}$ always provides an upper bound for all $n \ge 1$
+3. The $\frac{2}{n}$ term will get smaller as $n$ increases, so just choose a value of $n$ that results in a different of $\frac{1}{3} - \frac{2}{n} > 0 \leftrightarrow n > 6$
+4. Next largest value of $n$ is 7, $c_1 \le \frac{1}{3} -\frac{2}{n} |_{n=7} = \frac{1}{3} - \frac{2}{7} = \frac{1}{21}$
+5. Working set of values: $n_0 = 7, c_1 = \frac{1}{21}, c_2 = \frac{1}{3}$
+$$0 \le \frac{1}{21}n^2 \le \frac{1}{3}n^2-2n \le \frac{1}{3}n^2 \space \space \forall n \ge 7$$
+```
+
+```ad-important
+- Find the maximum value to find $c_2$
+- Find the smallest **postive** value to find $c_1$
+- $n_0$ is where $n$ creates the smallest positive value (aka where $c_1$ happens)
+	- Find where $n > c$ where $c$ is the constant
+	- Between both the upper bound and lower bound, always choos ehte larger $n_0$
+```
+
+## Proof By Contradiction
+
+```ad-summary
+1. Assume the proposition we want to prove is wrong and that the opposite is true
+2. Follow the argument until a contradiciton occurs
+- Someting like $a=b$ and $a \ne b$ or $a<b$ and $a>b$;
+- In either case, both cannot be true
+3. Since hte premise leads to a contradiction, the opposite must be true
+4. Hence, the original proposition is true
+```
+
+### Example: Proof by Contradiction to demonstrate a function is **NOT** $\Theta(g(n))$
+
+```ad-question
+Show that $f(n) = 6n^3 +1$ is NOT $\Theta(n^2)$
+```
+
+- Assume that it is $\Theta(n^2)$. Then, $\exists c_1, c_1 > 0$ and $n_0 > 0$ such that:
+$$c_1n^2 \le 6n^3 + 1 \le c_2 n^2 \space \space \forall n \ge n_0$$
+- Divide each side by $n^2$
+$$c_1 \le 6n + \frac{1}{n^2} \le c_2 \space \space \forall n \ge n_0$$
+- For $n > \max\{ \frac{c_2}{6}, n_0 \}$
+$$6n + \frac{1}{n^2} > 6n > 6(\frac{c_2}{6}) = c_2$$
+- **Contradiction**: 
+$$6n + \frac{1}{n^2} \le c_2 \space \& \space 6n+ \frac{1}{n^2} > c_2, \forall n > \max \{\frac{c_2}{6}, n_0 \} \ge n_0$$
+
+
