@@ -137,7 +137,7 @@ Based on this form:
 2. When $n$ is positive, exponent is negative
 3. At $n=0$, It is a constant denoted by $x(0)$
 
-## Exponential Rules$$
+## Exponential Rules
 
 $$e^x e^y = e^{x+y}$$
 $$(e^m)^n = e^{mn}$$
