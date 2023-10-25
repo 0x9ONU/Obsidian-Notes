@@ -26,7 +26,7 @@ title: Solution
 - Find every value of the convolution by replacing $x[n]$ with $\delta[n]$
 	- $h[0] = \delta[0] - 2\delta[1] + 3\delta[2] = 1 + 0 + 0 = 1$
 	- $h[1] = \delta[1] - 2\delta[0] + 3\delta[1] = 0 - 2 + 0 = -2$
-	- $h[2] = \delta[2] - 2\delta[1] 3\delta[0] = 0 + 0 + 3 - 3$
+	- $h[2] = \delta[2] - 2\delta[1] + 3\delta[0] = 0 + 0 + 3 - 3$
 	- $h[3] = \delta[3] - 2\delta[2] + 3\delta[1] = 0 + 0 + 0 = 0$
 - $y[n] = \{ 1_0, -1, 2, 1, 3 \}$
 ```

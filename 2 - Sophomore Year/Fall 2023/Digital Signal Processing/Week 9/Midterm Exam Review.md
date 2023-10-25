@@ -13,7 +13,7 @@ $$x[n] = 2\cos(\pi \frac{n}{4})$$
 | $n$ | $x[n]$             |
 | --- | ------------------ |
 | $0$ | $2$                |
-| $1$ | $\sqrt{2}=1.4$1    |
+| $1$ | $\sqrt{2}=1.41$    |
 | 2   | $0$                |
 | $3$ | $-\sqrt{2}= -1.41$ |
 | 4   | -2                   |
@@ -39,7 +39,7 @@ When not specified, either assume:
 - $[\alpha, \beta)$
 ```
 
-$$SNR = \frac{W}{mse}$$
+$$SNR = \frac{P_x}{mse}$$
 $$SNR_{round} = \frac{2}{0.02} = 100$$
 $$SNR_{trunc} = \frac{2}{0.08}$$
 
