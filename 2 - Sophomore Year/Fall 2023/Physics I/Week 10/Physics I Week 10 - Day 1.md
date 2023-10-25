@@ -146,6 +146,35 @@ Calcualte the speed of each object after the collsion
 We don't know the direction of the object until it after the collision. Try one and flip the vector if necessary
 ```
 
+- Create Vector Form of Equation:
 
+$$m_1v_1^\to + 0 = m_1v_1^{\to\prime}+m_2+v_2^{\to\prime}$$
+- Create scalar form
 
+$$m_1v_1 = m_1v_1^{\prime}+m_2+v_2^{\prime}$$
+
+$$3 * 4 = 3v_1^\prime + 2 v_2^\prime$$
+
+- Create kinetic energy equation
+
+$$\frac{1}{2}m_1v_1^2 = m_1(v_1^\prime)^2 + \frac{1}{2} m_2(v_2^\prime)^2$$
+
+- Create system of equations:
+
+$$\begin{bmatrix} 3 * (4)^2 = (v_1^\prime) ^2 +2(v_2^\prime)^2\\ 12 = 3v_1^\prime + 2v_2^\prime => v_1^\prime = \frac{12-2v_2^\prime}{3}\end{bmatrix}$$
+
+- Solve for $v_2^\prime$
+
+$$48 = 3(\frac{(12-2v_2^\prime)^2}{9}) + 2(v_2^\prime)^2$$
+$$144 = 144 - 48v_2^\prime + 4(v_2^\prime)^2 + 6 (v_2^\prime)^2$$
+$$0 = -48v_2^\prime + 10(v_2^\prime)^2$$
+$$0 = v_2^\prime(-48 + 10v_2^\prime) \to v_2^\prime = 0 \space OR \space -48+10v_2^\prime = 0 = 4.8$$
+- Go back and plug in **BOTH** solutions of $v_2^\prime$ to find $v_1^\prime$
+
+If $v_2^\prime = 0 \to v_1^\prime = 4$
+If $v_2^\prime = 4.8 \to v_1^\prime = 0.8$
+
+```ad-note
+The first solution is when the two objects never collided. That means you discard it. Take the other solution
+```
 
