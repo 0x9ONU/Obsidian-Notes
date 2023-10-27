@@ -98,7 +98,8 @@ for i <- 1 to n-1
 
 **Notation**:
 - $A[1..j]$ denotes the subarray of elements $A[1], A[2],...,A[j]$
-#comebacklater 
+- $A[k..j]$, with $k > j$, is considered an empty subarray
+- $A[j..j]$ is an array with a single value.
 
 #### Outer Loop Invariant
 
@@ -107,4 +108,44 @@ Before the start of each iteration of the outer for-loop:
 2. the elements in the subarray `a[i...n]` are greater or equal to the elements in `a[1..i-1]`
 3. The elements of the array remain unchanged (same array values, possibly in different order).
 
+**Initialization:** `i` starts at 1
+- First $1-1=0$ element are sorted (vacuously true)
+- `A[1..n]` are greater than elements in $A[1..0] = \emptyset$ (vacuously true)
+- Elements unchanged (nothing has been done - vacuously true)
 
+**Maintenance:** Assume `true` for `i=k`; demonstrate `k+1`
+- First $k-1$ elements are sorted
+- `A[k..n` are greater than elements in `A[1..k-1]`
+- Elements unchanged
+
+```ad-note
+Inner Loop + Line 6
+- Swaps so $A[k] = min\{A[k],...,A[n]\}$
+- Item 2 above means $A[k] \ge max\{A[1],...A[k-1]\}$
+- These facts result in loop invariant maintenance (try `i=k+1` now)
+```
+
+**Termination:** `i` ends at `n` when leaving the loop
+- First `n-1` elements are sorted
+- $A[n..n] = A[n]$ is greater than elements in $A[1..n-1]$
+- Elements unchanged
+
+```ad-important
+Together, these show that arrayis fully sorted in ascending order. Note that the for-loops halt - correctness achieved!
+```
+
+#### Inner Loop Invariant
+
+Before the start of each iteration of the inner for-loop:
+- `smallestIdx` references the smallest element of the subarray `A[i--j-1]`
+	- meaning `A[smallestIdx]` is the smallest element of subarray `A[i..j-1]`
+
+ **Initialization**: `j` starts at `i+1`
+- $A[i..j-1] = A[i..i+1-1] = A[i..i]=^{def}A[i] = A[smallestIdx]$, which is the smallest value (trivially so)
+
+**Maintenance:** Assume true for $j=k$ and show it is still true for $j=k+1$
+- Assume: $A[smallestIdx] = min\{A[i],...,A[k-1]\} (j=k)$
+- Line 5 updates `smallestIdx` as $j=k$ only if $a[k] < A[smallestIdx]$
+- At end. $A[smallestIdx] = min\{A[i]... A[k]\}(j=l+1)$
+
+**Termination:** $j=n+1$, so $A[smallestIdx] = min\{A[i],...,A[n+1-1]\}$
