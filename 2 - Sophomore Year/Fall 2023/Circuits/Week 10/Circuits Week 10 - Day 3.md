@@ -78,6 +78,10 @@ The circuit must be expressed in phasor domain to simplify
 
 **Begin Simplification**
 
+```ad-note
+$$|Z| \angle \Theta \to |Z|\cos\Theta + j|Z| \sin\Theta$$
+```
+
 - $(-j0.88) // (4+j0.754)$
 	- $\frac{(-j0.88)(4+j0.754)}{4-j0.754 - j0.88}$
 	- $\frac{0.664 - j3.52}{4-j0.126}$
