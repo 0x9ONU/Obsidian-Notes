@@ -144,7 +144,7 @@ For any two functions, $f(n)$ and $g(n)$, we have $f(n) = \Theta(g(n))$ if and o
 ```ad-question
 Formally prove that $f(n) = \frac{1}{3} n^2-2n$ is $\Theta(n^2)$
 ```
-
+	
 ```ad-example
 title: Steps
 1. Note: $g(n) = n^2$ here; need to show using the **set notation of big Theta**:
