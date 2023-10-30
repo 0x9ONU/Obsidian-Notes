@@ -78,8 +78,8 @@ Loop invariance is broken down into *three* parts:
 - **Initializaiton**
 	- Ensure loop invariant is true at start of the loop
 - **Maintenance**
-	- Ensure loop invariant is maintained withe ach iteration
-	- Can suume it is true for previous iterations, and show that the given iteration maintains the property
+	- Ensure loop invariant is maintained with each iteration
+	- Can assume it is true for previous iterations, and show that the given iteration maintains the property
 - **Termination**
 	- Analyzing the loop invariant upon loop termination should help demonstrate the algorithm is correct.
 ```

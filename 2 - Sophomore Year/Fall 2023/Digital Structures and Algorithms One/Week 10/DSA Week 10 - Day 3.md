@@ -7,7 +7,9 @@ File Folder: Week 10
 title: Today's Topics
 collapse: open
 
-- Linear Search Problem
+- Loop Invariant
+	- Linear Search Problem
+	- Max Value Problem
 
 ```
 
@@ -68,9 +70,24 @@ return maxVal
 Algorithm is correct if halts and $maxVal = max\{A[1], A[2],...,A[n]\}$
 ```
 
-**Initialization**: Before the first iteration:
-- `maxVal` is set to the first element of the array where $maxVal = A[1]$
-- If that is the case, $maxVal = max\{A[1]\}$ (vacuously true)
+**Before**: Before $i$
+- $maxVal = max \{A[1],... A[i-1]\}$
 
-**Maintenance**: Before `i` hits `n`
-- 
+**Initialization**: Before the first iteration ($i=2$):
+- `maxVal` is set to the first element of the array where $maxVal = A[1]$ (line 1)
+- If that is the case, $maxVal = max\{A[1]\} = max\{A[1],...,A[i-1]\}$  (vacuously true)
+
+**Maintenance**: Assume true for $i \le k$ (go into loop with $i=k$)
+- Therefore, $maxVal = max\{A[1], ..., A[k-1]\}$
+- **Need to show**: $maxVal = max \{A[1],...,A[k]\}$
+- Check if $A[k] >maxVal$ (Line 3)
+- Make $maxVal = max \{max\{ A[1]..., A[k-1] \}, A[k] \}$ (line 4)
+	- Note that the inner "max" is the original value for `maxVal`
+
+**Termination**: Upon exiting the loop, $i = n + 1$ 
+- The loop invariant with this value $in+1$ gives:
+- $maxVal = max \{ A[1],..., A[n+1-1]\}$
+- $maxVal = max\{A[1],...,A[n]\}  \space QED$
+- Halts because the for loop executes $n-1$ times and exits
+
+
