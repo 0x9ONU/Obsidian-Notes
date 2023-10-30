@@ -71,3 +71,26 @@ $$I_0 = I_{01} + I_{02}$$
 $$=(0.747-j0.199)+(0.623-j0.166)$$
 $$=1.369-j-0.365$$
 $$=1.417 \angle -14.93 \degree A$$
+
+# Loop Analysis
+
+```ad-question
+Use Loop Analysis to Find $V_0$
+```
+
+#comebacklater ex. 5
+
+**Loops 1 + 2**:
+
+$$I_2 - I_2 = 2I_x$$
+$$I_1-I_2 + 2I_x = 0$$
+
+$$(10 + j5)I_1 + (3-j2)I_2 + 8(I_2+I_3) = 0$$
+$$(10+j5)I_1 + (11-j2)I_2 - 8I_3 = 0$$
+
+**Loop 3:**:
+
+$$8(I_3-I_2) + (4+j2)I_3 + 6 \angle 0 \degree = 0$$
+$$-8I_2(12_j2)I_3 = -6 \angle 0 \degree$$
+
+$$V_0 = 8(I_2-I_3)$$
