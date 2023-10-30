@@ -110,9 +110,48 @@ This means that property 5 takes place, so the ROC belongs to the region outside
 #### Example 2:
 
 ```ad-question
-What is the region of convergence for $x_2[n]$
+What is the region of convergence for $x_1[n]$, $x_2[n]$, $x_3[n]$
 ```
 
-Because the signal is **finite** AND is right sided, the ROC is the entire z plane except $z=0$
+1. Because the signal is **finite** AND is right sided, the ROC is the entire z-plane except $z=0$
+2. Because the signal is **finite** and *double* sided, the ROC is the entire z-plane except $z=0$ and $z=\infty$
+3. Because the signal is only 1 at 0, the ROC is contained with the **entire** z-plane
 
+#### Example 3:
 
+```ad-question
+Find the z transform and ROC for the signal:
+$$x[n] = -b u[-n-1]$$
+```
+
+**Fold and shift the unit step sequence**
+
+$$u[n] =\begin{bmatrix} 1 & n \ge 0 \\ 0 & n < 0 \end{bmatrix} \Rightarrow u[-n-1] = \begin{bmatrix} 1 & n \le -1 \\ 0 & n > -1 \end{bmatrix}$$
+
+**Setup Equation**:
+
+$$x(z) = \sum_{n=-\infty}^\infty x[n] z^{-n}$$
+
+**Plug-in Discrete Time Signal**
+$$x(z) = \sum_{n=-\infty}^{-1} -b^nz^{-n} \Rightarrow x(z) = \sum_{1}^{\infty} -b^{-n}z^{n}$$
+
+```ad-note
+WHen chaging the limit to positve, we need to chagne the variable $n = -n$
+```
+
+**Take out negative and simplify powers**:
+
+$$-\sum_{n=1}^\infty (b^{-1}z)^n$$
+**Expand using the following rule**
+
+$$\sum_{n=m}^\infty k^n = \frac{k^m}{1-k}$$
+$$x(z) = -\frac{b^{-1}z}{1-b^{-1}z} \space if \space |b^{-1}z|<1$$
+**Find ROC using bounds**
+
+$$|b^{-1}z| < 1$$
+$$|\frac{z}{b}| < 1$$
+$$|z| < |b|$$
+
+```ad-note
+This means that property 5 takes place, so the ROC belongs to the region outside of a circle with a radius $b$
+```
