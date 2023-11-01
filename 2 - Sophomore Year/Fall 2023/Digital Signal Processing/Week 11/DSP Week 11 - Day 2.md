@@ -56,5 +56,4 @@ $$=\sum_{n=0}^\infty e^{-j\Omega n} = \frac{1}{1-e^{- j\Omega}}$$
 However, $|e^{-j\Omega}| = 1$, so the DTFT does not converge.
 ```
 
-
-
+## Poles and Zeros 
