@@ -57,3 +57,24 @@ However, $|e^{-j\Omega}| = 1$, so the DTFT does not converge.
 ```
 
 ## Poles and Zeros 
+
+```ad-important
+A Z-Transofrm can be described as Rational Functions such that:
+$$x(z) =\frac{p(z)}{q(z)}$$
+```
+
+**Zeros:** values of z for which $x(z) = 0$ , if $p(z) = 0$
+**Poles**: values of $z$ for which $x(z) = \infty$, if $q(z)=0$
+
+### Example
+
+```ad-question
+Find the poles and the roots of the given z-transofrm and ROC:
+$$x[n] \alpha^n u[n] \leftrightarrow x(z) = \frac{z}{z-\alpha}, |z| > |\alpha|$$
+```
+
+**The roots of the numerator polynomial occur**:
+$$at \space z = 0 \to zeros \space at \space z = 0$$
+**The roots of the denominator polynomial occur:**
+$$at \space z = \alpha \Rightarrow Poles \space at \space z = \alpha$$
+
