@@ -80,6 +80,13 @@ $$\tau = r*F * \sin(r^\to, F^\to)$$
 - The angle is between the force vector and a **moved** r vector
 ```
 
+```ad-note
+$$[\tau]_{si} = N * m$$
+```
+
+**Torque is ZERO when:**
+- The force is applied at the point of rotation (when the magnitude of $R$ is zero)
+- The force is applied parallel to $R^\to$ (when the direction of $F$  makes it so there is zero degrees between $R^\to$ and $F^\to$)
 ## Right Hand Rule / Cross Product
 
 **ALWAYS ROTATE R over F**
@@ -99,5 +106,5 @@ $$b^\to \times a^\to = -c^\to$$
 ```ad-note
 title: Distributive
 $$a^\to \times (b^\to + c^\to) = a^\to \times b^\to + a^\to \times c^\to$$
-$$a\to \times (c + b^\to)$$
+$$a^\to \times (c + b^\to)$$
 ```
