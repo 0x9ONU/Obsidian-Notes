@@ -15,7 +15,7 @@ collapse: open
 
 # Loop Invariant
 
-## Selection Sort Example
+## Insertion Sort Example
 
 ```
 Alg: INSERTION-SORT(A, n)

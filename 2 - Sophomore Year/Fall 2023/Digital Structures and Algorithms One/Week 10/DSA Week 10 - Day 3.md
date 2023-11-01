@@ -85,7 +85,7 @@ Algorithm is correct if halts and $maxVal = max\{A[1], A[2],...,A[n]\}$
 	- Note that the inner "max" is the original value for `maxVal`
 
 **Termination**: Upon exiting the loop, $i = n + 1$ 
-- The loop invariant with this value $in+1$ gives:
+- The loop invariant with this value $n+1$ gives:
 - $maxVal = max \{ A[1],..., A[n+1-1]\}$
 - $maxVal = max\{A[1],...,A[n]\}  \space QED$
 - Halts because the for loop executes $n-1$ times and exits
