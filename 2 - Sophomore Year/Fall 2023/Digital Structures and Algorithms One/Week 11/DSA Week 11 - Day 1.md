@@ -88,7 +88,7 @@ $$\sum_{i=1}^{k+1} = \frac{(k+1)(k+2)}{2}$$
 
 ## Recursion
 
-### Recursive Implementation
+### Recursive Implementation Unwinding
 
 ```ad-question
 Implement a C++ funcitonto recursively compute the arithmetic sum.
@@ -141,5 +141,12 @@ It has the same **run-time complexity** of $\Theta(n)$
 - It also has $\Theta(1)$ in space complexity
 ```
 
+### Arithmetic Sum Using Formula
+
+#comebacklater for code
+
+```ad-important
+Has a constant run-time of $\Theta(1)$
+```
 
 
