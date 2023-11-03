@@ -132,7 +132,7 @@ $$I_x(t) = \begin{bmatrix} I_x(0^-) & for \space t < 0 \\ I_x(\infty) + [I_x(0^+
 Do the following:
 - Switch is at the inital position
 - Capacitor acts as a **open circuit**
-- Solve for $V_c(0^-)
+- Solve for $V_c(0^-)$
 - Solve for $I_x(0^-)$
 - Set $V_C(0^-) = V_C(0^+)$
 ```
