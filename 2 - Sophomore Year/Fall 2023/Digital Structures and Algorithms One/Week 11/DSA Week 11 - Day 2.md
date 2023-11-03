@@ -9,6 +9,7 @@ collapse: open
 
 - Recursion Day 2
 - Divide-and-Conquer Algoirthms
+- Merge Sort
 
 ```
 
