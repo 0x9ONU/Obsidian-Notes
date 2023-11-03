@@ -184,3 +184,66 @@ int* R = new int[n2+1];
 delete[] L;
 delete[] R;
 ```
+
+### Correctness of Merge-Sort
+
+- Induction-style argument
+	- Base case to show get to singletons and combine them correctly
+	- Inductive step to show merge correctly to maintain sorted order
+- Focus on Merge
+	- Main Loop Invariant (Lines 12-17)
+	- Other loops left as exercise
+
+```
+i = 1 
+j = 1
+for k = p to r 
+	if L[i] =< R[j] 
+		A[k] = L[i] 
+		i = i+1 
+	else A[k] = R[j]
+		j = j+1 
+```
+
+#### Loop Invariant
+
+**Beginning of the Loop:**
+- At the start of each iteration for the loop counter `k` of the for-loop
+- $A[p..k-1]$ contains the smallest elements (k-p) elements of L and R is sorted in ascending order
+- $L[i]$ and $R[j]$ are the smallest elements left in $L[i]$ & $R[j]$ (not yet been copied over to A)
+
+**Initialization**:
+- $A[p..p-1]$ is empty (vacuous)
+- $p-p=0$ elements sorted (vacuous)
+- $L[1]$ and $R[1]$ are smallest elements of L and R not copied
+
+**Maintenance**:
+- Line 13 & either 14/16 ensure $A[k]$ is next smallest element and $A[p..k]$ is sorted
+- Whichever one picked has its index incremented, so $L[i]$ and $R[j]$ are still the smallest elements of resp. array not copied.
+
+**Termination ($k=r+1$):
+- $A[p..r]$ contains $r-p+1$, which are all, of the non-sentinel elements of $L$ and $R$ sorted in ascending order
+
+### Run-Time Complexity
+
+#### MERGE
+
+```ad-important
+The Merge Sort has a time complexity of $\Theta(n)$
+```
+
+![[Pasted image 20231103083216.png]]
+#### MERGE-SORT
+
+```ad-summary
+- Dividing is $\Theta(\lg n)$
+- COmbining (total steps) is also $\Theta(\lg n)$
+- Each merge layer is $\Theta (n)$
+- Total is product $\Theta(n \lg n)$
+```
+
+### Space-Complexity
+
+Each merge layer is $\Theta(n)$ due to it being statically allocated and released.
+
+
