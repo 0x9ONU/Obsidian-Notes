@@ -58,7 +58,7 @@ A frequency dependent element
 - Represented by upper case $X$
 ```
 
-$$X_L = wL = w\pi fL = \frac{V_m}{I_m}$$
+$$X_L = wL = 2\pi fL = \frac{V_m}{I_m}$$
 
 ```ad-warning
 For DC, $f = 0$
