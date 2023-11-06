@@ -115,7 +115,7 @@ Before the start of each iteration of the outer for-loop:
 
 **Maintenance:** Assume `true` for `i=k`; demonstrate `k+1`
 - First $k-1$ elements are sorted
-- `A[k..n` are greater than elements in `A[1..k-1]`
+- `A[k..n]` are greater than elements in `A[1..k-1]`
 - Elements unchanged
 
 ```ad-note
