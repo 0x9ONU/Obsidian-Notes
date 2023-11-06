@@ -38,7 +38,7 @@ $$|Z| \angle -\Theta$$
 ```ad-note
 Impedance is positive for inductance and **negative** for capacitance
 ```
-
+ 
 ## Impedances in Series
 
 #comebacklater ex. 1
