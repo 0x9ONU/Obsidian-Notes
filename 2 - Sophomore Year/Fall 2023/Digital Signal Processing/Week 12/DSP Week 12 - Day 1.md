@@ -48,5 +48,12 @@ A z-transform of convolution of two signals in time domain is equal to the **pro
 $$If z\{ x_1[n] \} = x_1(z) \space \& \space z\{ x_2[n] \} = x_2(z), \space then$$
 $$z\{ x_1[n] ** x_2[n]\} = x_1(z)*x_2(z)$$
 
+# Examples
+
+## Example 1:
 
 
+
+## Example 2:
+
+	 q
