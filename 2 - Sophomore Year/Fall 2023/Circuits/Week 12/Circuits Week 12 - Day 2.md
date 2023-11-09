@@ -42,7 +42,7 @@ $$\cos A\cos B = \frac{1}{2}[\cos(A-B)+\cos(A+B)]$$
 $$\Rightarrow P(t) = V_mI_m * \frac{1}{2}[\cos(wt + \Theta_v - wt - \Theta_i)+\cos(wt + \Theta_v + wt+\Theta_i)$$
 
 **FINALLY:**
-$$P(t)=\frac{1}{2} V_mI_m\cos(\Theta_v-\Theta_i) + \frac{1}{2}V_mI_m(2wt + \Theta_v + \Theta_i)$$
+$$P(t)=\frac{1}{2} V_mI_m\cos(\Theta_v-\Theta_i) + \frac{1}{2}V_mI_m\cos(2wt + \Theta_v + \Theta_i)$$
 
 ```ad-note
 This means that the instantaneous power is a constant plus a sinesoidal wave operating at **twice** the frquency of the voltage and current.
