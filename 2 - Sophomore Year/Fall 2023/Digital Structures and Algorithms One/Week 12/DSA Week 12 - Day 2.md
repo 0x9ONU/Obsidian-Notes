@@ -126,3 +126,6 @@ Because base case: $T(n) = 2^nT(0) + 2^n-1$$
 
 $$T(n) = 2^n-1$$
 $$T(n) = \Theta(2^n)$$
+```ad-note
+This is exponential growth
+```
