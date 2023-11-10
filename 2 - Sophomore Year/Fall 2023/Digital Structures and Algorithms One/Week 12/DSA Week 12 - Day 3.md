@@ -100,5 +100,13 @@ $$=2^i(2^{k-i})+2*4^k(1=1\frac{1}{2}^i)$$
 
 6. For base case, let $i=k$ (since $k-i=0$  when $i=k$)
 
-$$
-
+$$T(2^k) = 2^kT(2^0) +2*4^k(1-(\frac{1}{2})^k)$$
+```ad-note
+Use the following the simplify:
+$$\frac{1^k}{2^k} = \frac{1}{n}$$
+```
+$$=n(1) +2 *(2^{k})^2(1-\frac{1}{n})$$
+$$=n+2n^2(1-\frac{1}{n})$$
+$$=n+2n^2-2n$$
+$$=2n^2-n$$
+$$\therefore T(n) = \Theta(n^2)$$
