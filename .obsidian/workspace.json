@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 12/Circuits Week 12 - Day 3.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5040512084961
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 12/Circuits Week 12 - Day 3.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 12/Circuits Week 12 - Day 3.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 12/Circuits Week 12 - Day 3.md"
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 1.md"
               }
             }
           },
@@ -195,8 +196,21 @@
   },
   "active": "e03f67ffbc7b4401",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 12/Circuits Week 12 - Day 2.md",
+    "General Notes/Pasted image 20231113083802.png",
+    "General Notes/Pasted image 20231113083515.png",
+    "General Notes/Pasted image 20231113082841.png",
+    "General Notes/Pasted image 20231113082716.png",
+    "General Notes/Pasted image 20231113082531.png",
+    "General Notes/Pasted image 20231113082030.png",
+    "General Notes/Pasted image 20231113081951.png",
+    "General Notes/Pasted image 20231113081921.png",
+    "General Notes/Pasted image 20231113081847.png",
+    "General Notes/Pasted image 20231113081640.png",
+    "General Notes/Pasted image 20231113081506.png",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 12/Circuits Week 12 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 12/Circuits Week 12 - Day 2.md",
     "Excalidraw/Drawing 2023-11-10 11.37.24.excalidraw.md",
     "Excalidraw/Drawing 2023-11-10 11.26.37.excalidraw.md",
     "Excalidraw/Drawing 2023-11-10 11.13.13.excalidraw.md",
@@ -210,37 +224,24 @@
     "Excalidraw/Drawing 2023-11-08 11.18.10.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 12/Physics Midterm 4 In-Class Review.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 12",
-    "General Notes/Pasted image 20231108103115.png",
     "Excalidraw/Drawing 2023-11-08 10.25.09.excalidraw.md",
-    "General Notes/Pasted image 20231108102316.png",
-    "General Notes/Pasted image 20231108102314.png",
     "Excalidraw/Drawing 2023-11-08 10.14.59.excalidraw.md",
-    "General Notes/Pasted image 20231108101450.png",
     "Excalidraw/Drawing 2023-11-08 10.06.54.excalidraw.md",
-    "General Notes/Pasted image 20231108100647.png",
     "Excalidraw/Drawing 2023-11-08 10.02.14.excalidraw.md",
-    "General Notes/Pasted image 20231108100200.png",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 3.md",
-    "General Notes/Pasted image 20231108083935.png",
-    "General Notes/Pasted image 20231108082414.png",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 10/DSP Week 10 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 12",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 12",
-    "General Notes/Pasted image 20231106082719.png",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12",
-    "General Notes/Pasted image 20231103102417.png",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 11",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 11",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 11",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 10",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
