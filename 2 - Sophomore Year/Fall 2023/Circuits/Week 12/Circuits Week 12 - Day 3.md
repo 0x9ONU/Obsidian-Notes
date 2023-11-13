@@ -136,4 +136,3 @@ $$P = \frac{V_{rms}^2}{R} = \frac{10^2}{2} = 50W$$
 ```ad-important
 Utilizes either the voltage dropped or current flowing through the resistance
 ```
-''
