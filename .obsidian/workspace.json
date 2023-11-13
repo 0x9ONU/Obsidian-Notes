@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Week 11 - Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Week 11 - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Week 11 - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 1.md"
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Week 11 - Day 2.md"
               }
             }
           },
@@ -193,10 +193,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc2e931d3eead72b",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-13 11.46.06.excalidraw.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 13",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 1.md",
+    "Excalidraw/Drawing 2023-11-13 11.46.06.excalidraw.md",
     "Excalidraw/Drawing 2023-11-13 11.42.44.excalidraw.md",
     "Excalidraw/Drawing 2023-11-13 11.28.05.excalidraw.md",
     "Excalidraw/Drawing 2023-11-13 11.13.34.excalidraw.md",
@@ -231,16 +235,12 @@
     "Excalidraw/Drawing 2023-11-10 11.06.57.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 12/DSP Week 12 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 2.md",
-    "Excalidraw/Drawing 2023-11-08 12.19.02.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 12",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 12",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 12",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 11",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 11",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 11",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
