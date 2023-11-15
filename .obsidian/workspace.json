@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a42982fe855405d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High Res Obama.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.50469589233398
+    "width": 250.50469589233398
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 2.md",
+                "file": "High Res Obama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 2.md",
+                "file": "High Res Obama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 2.md"
+                "file": "High Res Obama.md"
               }
             }
           },
@@ -193,10 +206,12 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "cc2e931d3eead72b",
+  "active": "a42982fe855405d8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-15 11.49.14.excalidraw.md",
+    "General Notes/840741.jpg",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 2.md",
+    "High Res Obama.md",
+    "Excalidraw/Drawing 2023-11-15 11.49.14.excalidraw.md",
     "Excalidraw/Drawing 2023-11-15 11.47.45.excalidraw.md",
     "Excalidraw/Drawing 2023-11-15 11.42.47.excalidraw.md",
     "Excalidraw/Drawing 2023-11-15 11.26.57.excalidraw.md",
@@ -232,8 +247,6 @@
     "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Week 11 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 13",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 3.md",
-    "Excalidraw/Drawing 2023-11-13 11.46.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-13 11.42.44.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 13",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 13",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13",
