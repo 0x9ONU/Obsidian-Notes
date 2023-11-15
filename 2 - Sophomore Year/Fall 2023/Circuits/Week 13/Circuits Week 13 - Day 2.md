@@ -117,3 +117,4 @@ $$P = \frac{V^2_{rms\space 1}}{R}$$
 $$P = \frac{V^2_{rms\space 2}}{X}$$
 
 ![[Drawing 2023-11-15 11.49.14.excalidraw]]
+
