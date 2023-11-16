@@ -121,10 +121,151 @@ Therefore, the Big O condition holds for $n \ge n_0=1$ and $c_2 \ge 22$. Larger 
 
 Thus, choosing $c_1 =1, c_2 =22, n_0 =1, \forall n \ge n_0$ works. Hence, the inequality holds, and $T(n)$ is $\Theta(n^3)$
 
-### Example 3:
+### Example 3: Big O
 
+```ad-question
+Prove that running time $T(n) = n^3+20n+1$ is $O(n^4)$
+```
 
+To prove that $T(n)$ is $O(n^4)$, wed need to determine positive real constant $c \in \mathbb{R}^+$ and positive integer $n_0 \in \mathbb{Z}^+$ such that:
+
+$$n^3 +20n+1 \le cn^4; \space \space \space \forall n \ge n_0$$
+
+Divide out
+
+$$\frac{1}{n}+\frac{20}{n^3}+\frac{1}{n^4} \le c$$
+
+Notice that the left-hand side is always positive but progressively gets smaller as $n$ gets larger. So, let's check the above inequality for $n_0 = 1$, substituting the values gets us:
+
+$$\frac{1}{n}+\frac{20}{n^3}+\frac{1}{n^4} = \frac{1}{1}+\frac{20}{1^3}+\frac{1}{1^4} = 20 \le c$$
+Therefore, choosing $c=22$ and $n_0=1$ works. Hence, the inequality holds and $T(n)$ is $O(n^4)$
+
+### Example 4: Big Omega
+
+```ad-question
+Prove that running time $T(n)=n^3+20n$ is $\Omega(n^2)$
+```
+
+To prove that $T(n)$ is $\Omega(n^2)$, we need to determine positive real constant $c \in \mathbb{R}^+$ and positive integer $n_0 \in \mathbb{Z}^+$ such that:
+
+$$cn^2\le n^3 +20n; \space \space \space \forall n \ge n_0$$
+
+Divide:
+
+$$c \le n+\frac{20}{n}$$
+
+In this case, the second term on the right-hand side is always positive, so it will add to $n$ and make the sum more than $n$. Therefore a choice of $n_0=c=1$ will fork for all $n>0$. Hence $T(n)$ is $\Omega(n^2)$
+
+### Example 5: Harder Big Theta
+
+```ad-question
+Prove that running time $T(n) = 2n^2 + 4$ is $\Theta(n^2)$
+```
+
+To prove that $T(n)$ is $\Theta(n^2)$, we need to determine positive real constants $c_1, c_2 \in \mathbb{R}^+$ and positive integer $n_0 \in \mathbb{Z}^+$ such that:
+
+$$c_1n^2 \le 2n^2 + 4 \le c_2n^2; \space \space \space \forall n \ge n_0$$
+
+Divide
+
+$$c_1 \le 2 + \frac{4}{n^2} \le c_2$$
+
+For all positive $n$, the 2nd term in the sum of the middle function adds to the value of 2, so a lower bound of $c_1 = 2$ will work for all positive $n$. For the upper bound, we use the fact that the 2nd term goes to zero for large $n$. We can just pick any value of $n$ and solve for the result of the middle function, and choose $c_2$ equal or greater than this since the second term will be even smaller for all larger values of $n$. Let's go with $n=2$ since that will make an integer value for the function:
+
+$$c_2 \ge 2+ \frac{4}{(2)^2} = 3$$
+Thus, if we choose $c_1=2$ and $c_2=3$ then we nheed $n_0 \ge 2$ and can choose $n_0 =2$. Hence, we have found the constants and the positive integer such that the equality holds, so $T(n)$ is $\Theta(n^2)$
+
+### Example 6: Harder Big Omega
+
+```ad-question
+Prove that running time $T(n) = 4n^2 +2$ is $\Omega(n)$
+```
+
+To prove that $T(n)$ is $\Omega(n)$, we need to determine positive real constant $c \in \mathbb{R}^+$ and positive integer $n_0 \in \mathbb{Z}^+$ such that:
+
+$$cn \le 2n^2+2; \space \space \space \forall n \ge n_0$$
+
+Divide:
+
+$$c \le 2n+2$$
+For all positive $n$, the value $c=2$ will work, so we may choose $c=2$ and $n_0=1$ Hence, we have found the constants and integer such that the inequality holds, so $T(n)$ is $\Omega(n)$
 ## Proofs by Contradiction
+
+```ad-summary
+1. Assume the proposition we want to prove is wrong and that the opposite is true
+2. Follow the argument until a contradiciton occurs
+- Someting like $a=b$ and $a \ne b$ or $a<b$ and $a>b$;
+- In either case, both cannot be true
+3. Since the premise leads to a contradiction, the opposite must be true
+4. Hence, the original proposition is true
+```
+
+### Example 1: From Class
+
+
+```ad-question
+Show that $f(n) = \frac{1}{3}n^2 - 2n$ is NOT $\Theta(n^3)$
+```
+
+- Assume that it is $\Theta(n^3)$. Then, $\exists c_1, c_1 > 0$ and $n_0 > 0$ such that:
+$$c_1n^3 \le \frac{1}{3}n^2 -2n \le c_2 n^3 \space \space \forall n \ge n_0$$
+- Divide each side by $n^2$
+$$c_1n \le \frac{1}3 - \frac{2}{n} \le c_2n \space \space \forall n \ge n_0$$
+- For $\max\{ \frac{1}{3} - \frac{2}{n}, n_0 \}$
+$$\frac{1}{3} - \frac{2}{n} < \frac{1}{3} < 1 \space \space\forall n \ge 1$$
+- To get to the contradiction we want:
+$$c_1n > 1 \leftrightarrow n > \frac{1}{c_1}$$
+
+- If $n \ge max \{ \frac{1}{c_1}, n_0 \}$
+
+$$\frac{1}{3}-\frac{2}{n} < \frac{1}{3} < 1 \le c_1 (\frac{1}{c_1}) \le c_1n$$
+$$\therefore c_1n > \frac{1}{3} - \frac{2}{n} \space \space \forall n \ge max \{\frac{1}{c_1}, n_0 \} \ge n_0$$
+- By the assumption:
+$$c_1 \le \frac{1}{3} - \frac{2}{n} \space \space \forall n \ge max \{\frac{1}{c_1}, n_0 \} \ge n_0$$
+- **Contradiction**: 
+Therefore, assumption was wrong, so $f(n)$ is NOT $\Theta(n^3)$
+
+### Example 2: Big Theta Contradiction
+
+```ad-question
+Prove that running time $T(n)=n^3 + 20n+1$ is NOT $\Theta(n^2)$
+```
+
+```ad-note
+The key to this problem is realizing that the upper bound will fail to be true
+```
+
+In this case we use proof by contradiction. Suppose $T(n)$ is $O(n^2)$. Then, there exists a positive constant $c$ and positive integer $n_0$, such that:
+
+$$n^3+20n+1\le cn^2 \space \space \space \forall n \ge n_0$$
+
+From this inequality, we derive a contradiction, at which point we may conclude that $T(n)$ is not $O(n^2)$, and hence not $\Theta(n^2)$. Divide thorough:
+
+$$n+\frac{20}{n}+\frac{1}{n^2} \le c$$
+
+Let $n > \max \{ c, n_0 \}$. For these "larger" values of $n$, we will show that for $n > c$, the left side of the inequality above will be greater than $c$, so we arrive at a contradiction to the above inequality. Note that $\frac{20}{n}$ and $\frac{1}{n^2}$ are both greater than 0 for all $n$, so adding them to $c$ will be greater than $c$ by itself:
+
+$$n + \frac{20}{n}+\frac{1}{n^2} > c+ \frac{20}{n}+\frac{1}{n^2} > c$$
+
+This inequality contradicts the one above, and the proof is complete.
+
+### Example 3: Big O Contradiction
+
+```ad-question
+Prove that running time $T(n)=n^3$ is NOT $O(n^2)$
+```
+
+Let's assume to the contrary that $n^3$ is $O(n^2)$. Then there must exist a constant $c$ and $n_0$ such that:
+
+$$n^3 \le cn^2; \space \space \space \forall n \ge n_0$$
+
+In other words, we need to show that there are no constants $c$ and $n_0$ that satisfy this inequality for all values of $n$. Divide out:
+
+$$n \le c; \space \space \space \forall n \ge n_0$$
+
+But this is not possible, we can never choose a constant $c$ large enough that $n$ will never exceed it, since $n$ can grow without bound (in fact, $n > \max \{  c, n_0 \}$ will give $n >c$). Thus, the original assumption, that $n^3 = O(n^2)$, must be wrong, so $n^3$ is NOT $O(n^2)$ 
+
+### Example 4: 
 # Short Answers
 
 1. Describe what makes a good algorithm
