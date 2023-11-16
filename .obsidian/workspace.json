@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc2e931d3eead72b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.50469589233398,
-    "collapsed": true
+    "width": 250.50469589233398
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md"
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md"
               }
             }
           },
@@ -207,13 +194,65 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "bd7bb76f6a1d1b91",
+  "floating": {
+    "id": "7e6aeb8d9e3f3078",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b8589cc0a473d38e",
+        "type": "window",
+        "children": [
+          {
+            "id": "f3f051be837f82ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cc2e931d3eead72b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e98440733c241311",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 3.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 896,
+        "y": 0,
+        "width": 896,
+        "height": 1072,
+        "maximize": false,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "cc2e931d3eead72b",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 12/DSP Week 12 - Day 1.md",
@@ -234,9 +273,6 @@
     "Excalidraw/Drawing 2023-11-15 11.26.57.excalidraw.md",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 2.md",
     "General Notes/Untitled.png",
     "General Notes/Pasted image 20231115084103.png",
