@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ee4803165ac63e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 12/DSP Week 12 - Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "cc2e931d3eead72b",
+  "active": "6ee4803165ac63e9",
   "lastOpenFiles": [
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 11/DSP Week 11 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 11/DSP Week 11 - Day 2.md",
