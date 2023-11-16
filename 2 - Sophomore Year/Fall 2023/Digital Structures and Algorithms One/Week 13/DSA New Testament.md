@@ -1287,9 +1287,10 @@ int maxVal(int A[], int p, int r){
 ![[Pasted image 20231101082736.png]]
 
 ![[Pasted image 20231116103310.png]]
-
-test
 ## Quick Sort
+
+
+
 # Short Answers
 
 1. Describe what makes a good algorithm
