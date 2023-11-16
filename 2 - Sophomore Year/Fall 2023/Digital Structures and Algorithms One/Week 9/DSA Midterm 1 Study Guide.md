@@ -9,7 +9,7 @@ File Folder: Week 9
 
 "An **algorithm** is is a sequence of instructions that accomplishes a task"
 
-A good algorithm should do the following:
+- A good algorithm should do the following:
 - **Correct**: Precisely and accurately accomplish the task, or solves the problem
 - **Efficient**: Requires *relatively* little time and memory to execute
 
