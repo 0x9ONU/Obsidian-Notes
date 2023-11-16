@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "523a58d2296098b1",
+        "id": "52a6d19b80c6c95c",
         "type": "tabs",
         "children": [
           {
-            "id": "3889c5d749be2aec",
+            "id": "90889f8a6ea1171a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61f835512feee839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,11 +206,60 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3889c5d749be2aec",
+  "floating": {
+    "id": "d8bdb24e47e6aa2a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c82be29c8fe3bf33",
+        "type": "window",
+        "children": [
+          {
+            "id": "04e8f2d4ab03dc81",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e64db198ff6bc93b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2384,
+        "y": 200,
+        "width": 600,
+        "height": 825,
+        "maximize": true,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "e64db198ff6bc93b",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md",
     "conflict-files-obsidian-git.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 8/Physics I Week 8 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 8",
@@ -211,26 +273,14 @@
     "2 - Sophomore Year/Fall 2023/Physics I/Week 12/Physics Midterm 4 In-Class Review.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 12/Physics I Week 12 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 12",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 8/DSA Week 8 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 8",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md",
     "General Notes/Untitled.png",
     "General Notes/Pasted image 20231115084103.png",
     "General Notes/Pasted image 20231115083509.png",
