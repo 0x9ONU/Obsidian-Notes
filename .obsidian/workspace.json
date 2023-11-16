@@ -11,10 +11,12 @@
             "id": "3889c5d749be2aec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md"
+              }
             }
           },
           {
@@ -191,19 +197,8 @@
   "lastOpenFiles": [
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 6/Physics I Week 6 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 2/DSP Week 2 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 2",
-    "conflict-files-obsidian-git.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 1/Physics I Week 1 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 9/Physics I Exam 3 Equation Sheet.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 9",
+    "conflict-files-obsidian-git.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 8/Physics I Week 8 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 8",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 7/Physics I Week 7 - Day 3.md",
@@ -216,16 +211,26 @@
     "2 - Sophomore Year/Fall 2023/Physics I/Week 12/Physics Midterm 4 In-Class Review.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 12/Physics I Week 12 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 12",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 11/Physics I Week 11 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 11/Physics I Week 11 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 11/Physics I Week 11 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 11",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 10/Physics I Week 10 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 10/Physics I Week 10 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 10/Physics I Week 10 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 10",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 8/DSA Week 8 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 8",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11/DSA Week 11 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 11",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 10/DSA Week 10 - Day 2.md",
     "General Notes/Untitled.png",
     "General Notes/Pasted image 20231115084103.png",
     "General Notes/Pasted image 20231115083509.png",
@@ -235,6 +240,8 @@
     "General Notes/Pasted image 20231115083301.png",
     "General Notes/Pasted image 20231115083150.png",
     "General Notes/Pasted image 20231115082959.png",
-    "General Notes/Pasted image 20231115082956.png"
+    "General Notes/Pasted image 20231115082956.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
