@@ -229,8 +229,19 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "e35726ab7270895f",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.4.16"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -243,7 +254,7 @@
       }
     ]
   },
-  "active": "e64db198ff6bc93b",
+  "active": "e35726ab7270895f",
   "lastOpenFiles": [
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Week 9 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
