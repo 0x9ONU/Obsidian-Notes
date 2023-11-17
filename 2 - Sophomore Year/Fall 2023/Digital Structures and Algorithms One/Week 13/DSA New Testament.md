@@ -1289,6 +1289,72 @@ int maxVal(int A[], int p, int r){
 ![[Pasted image 20231116103310.png]]
 ## Quick Sort
 
+```ad-summary
+**Divide:**: Partition the subarray $A[p..r]$ into two subarrays $A[p..q-1]$ and $A[q+1..r]$ such that:
+- Each value in $A[p..q-1] \le A[q]$ (pivot)
+- Each value in $A[q+1..r] \ge A[q]$ (pivot)
+
+**Conquer**: Sort the two subarrays by recursive function calls to quicksort
+
+**Combine**: The subarrays are sorted in place, so no additional work is needed!
+
+```
+
+
+```ad-note
+- `i` is the loop counter that is keeping track of where to place the pivot
+- Swaps the pviot location's value with the value @ `i+1`
+```
+
+![[Pasted image 20231115082313.png]]
+
+
+![[Drawing 2023-11-15 08.17.48.excalidraw]]
+
+![[Pasted image 20231115082434.png]]
+
+
+### Example 1: Quicksort Average-Case Example
+
+```ad-question
+Demonstrate the steps of quicksort on the array given below
+- (Notice how the pivot is a value in the middle of the range of values in the array)
+![[Pasted image 20231115083301.png]]
+```
+
+![[Pasted image 20231115083312.png]]
+
+
+### Example 2: Worst-Case Example
+
+```ad-question
+Demonstrate the steps of quicksort on the array given below:
+![[Pasted image 20231115083431.png]]
+```
+
+![[Pasted image 20231115083509.png]]
+
+### Pseudocode
+
+```
+QUICKSORT(A, p, r)
+	if p < r //Base case is p=r
+		q = PARTITION(A, p, r) //get pivot lcoaiton and move elements about pivot
+		QUICKSORT(A, p, q-1) //Quicksort the left subarray
+		QUICKSORT(A, q+1, r) //Quicksort the right subarray
+```
+
+```
+PARTITION(A,p,r)
+	pivot = A[r] //using last element in the subarray as the pivot
+	i=p-1 //index to track whereto place the pivot
+	for j = p to r - 1 //do not need to check the pivot, so stop at r-1
+		if A[j] <= pivot
+			i++
+			swap A[i] <-> A[j]
+	swap[i+1] <-> A[r]
+	return i+1
+```
 
 
 # Short Answers
