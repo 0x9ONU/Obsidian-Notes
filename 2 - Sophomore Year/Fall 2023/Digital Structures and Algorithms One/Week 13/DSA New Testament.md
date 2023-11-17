@@ -1628,6 +1628,48 @@ $$=3^n+2.5*3^n-2.5$$
 $$T(n) = (3.5)3^n-2.5$$
 $$\therefore T(n) = \Theta(3^n)$$
 
+#### Example 2: Division Within the Problem
+
+$$T(n)=2T(\frac{n}{2})+n^2, \space \space \space T(1)=1$$
+```ad-important
+In general for divide-and-conquer such that $T(n) = aT(\frac{n}{b}) + f(n)$; Let $n=b^k$
+```
+
+1. Write out a few instances
+$$T(2^k) = 2T(2^{k-1}) + (2^k)^2$$
+$$T(2^{k-1}) = 2T(2^{k-2}) + (2^{k-1})^2$$
+$$T(2^{k-2}) = 2T(2^{k-3}) + (2^{k-2})^2$$
+2. Substitute
+$$T(2^k) = 2[2T(2^k{-2})+ (2^{k-1})^2]+(2^k)^2$$
+$$= 2[2[2T(2^{k-3})+(2^{k-2})^2]+(2^{k-1})^2] + (2^k)^2$$
+3. Pattern:
+$$T(2^k) = 2^3T(2^{k-3})+2^2(2^{k-2})^2+2^1(2^{k-1})^2+2^0(2^k)^2$$
+$$2^3T(2^{k-3})+\sum_{j=0}^{3-1}2^j(2^{k-j})^2$$
+4. In general for $i$
+$$T(2^k) = 2^iT(2^{k-i})+\sum_{j=0}^{i-1}2^j(2^{k-j})^2$$
+```ad-note
+Since it is not in terms of the geometric sum, rewrite it for a better sum
+```
+$$T(2^k) = 2^iT(2^{k-i})+\sum_{j=0}^{i-1}2^j*4^{k-j}$$
+$$=2^iT(2^{k-i})+\sum_{j=0}^{i-1}2^j+4^k(\frac{1}{4})^j *4^{k-j}$$
+$$T(2^k) = 2^iT(n^{k-1})+4^k\sum_{j=0}^{i-1} (\frac{1}{2})^j$$
+5. Geometric Sum
+$$=2^iT(2^{k-i})+4^k(\frac{1-\frac{1}{2}^i}{1-\frac{1}{2}})$$
+$$=2^i(2^{k-i})+2*4^k(1=1\frac{1}{2}^i)$$
+
+6. For base case, let $i=k$ (since $k-i=0$  when $i=k$)
+
+$$T(2^k) = 2^kT(2^0) +2*4^k(1-(\frac{1}{2})^k)$$
+```ad-note
+Use the following the simplify:
+$$\frac{1^k}{2^k} = \frac{1}{n}$$
+```
+$$=n(1) +2 *(2^{k})^2(1-\frac{1}{n})$$
+$$=n+2n^2(1-\frac{1}{n})$$
+$$=n+2n^2-2n$$
+$$=2n^2-n$$
+$$\therefore T(n) = \Theta(n^2)$$
+
 ### Master Method
 
 ON CHEAT SHEET :3
