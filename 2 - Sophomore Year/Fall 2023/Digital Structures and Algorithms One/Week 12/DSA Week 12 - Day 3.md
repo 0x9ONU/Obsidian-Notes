@@ -34,7 +34,7 @@ $$c(1+a+a^2+...+a^{n-1}+a^n+...) = \sum_{i=0}^\infty c(a^i)=c(\frac{1}{1-a})$$
 The top term $(-a^{n+1})$ converges if $|a| < 1$ as $n \to \infty$
 ```
 
-## Example 1: Geometric Progression Recurrence Equation via Substitution\
+## Example 1: Geometric Progression Recurrence Equation via Substitution
 
 ```ad-question
 SOlve the recurrence equation below via substituion method using the geometric sum:
@@ -48,7 +48,7 @@ $$T(n-2)=3T(n-3)+5$$
 $$T(n) = 3T(n-1)+5$$
 $$=3[3T(n-2)+5]+5$$
 $$=3[3[3T(n-3)+5]+5]+5$$
-3. Decern a pattern
+3. Discern a pattern
 $$T(n) = 3^3T(n-3)+3^2*5+3^1*5+3^0*5$$
 4. Write the pattern for general value $i$
 $$T(n) = 3^iT(n-i)+3^{i-1}*5+3^{i-2}...*3^0*5$$
