@@ -1287,6 +1287,69 @@ int maxVal(int A[], int p, int r){
 ![[Pasted image 20231101082736.png]]
 
 ![[Pasted image 20231116103310.png]]
+
+### Example: When Given an Array
+
+```ad-question
+Consider the array given below (showing the C++ indices underneath the array.) Apply binary search to check which index has value keyVal = 1
+```
+
+$$\begin{matrix} -2 & -1 & 0 & 1 & 5 & 7 \\ 0 & 1 & 2 & 3 & 4 & 5\end{matrix}$$
+
+**Step 1:**
+
+$$mid = \frac{(0)-(5)}{2} = 2$$
+$$\begin{matrix} -2 & -1 & 0_0 & 1 & 5 & 7 \\ 0 & 1 & 2 & 3 & 4 & 5\end{matrix}$$
+
+Chose right because $keyVal > 0$
+
+**Step 2:**
+
+$$mid = \frac{(3)+(5)}{2} = 4$$
+$$\begin{matrix}  1 & 5_0 & 7 \\ 3 & 4 & 5\end{matrix}$$
+
+Chose left because $keyVal < 5$
+
+**Step 3:**
+
+$$mid = \frac{3+3}{2} = 3$$
+$$\begin{matrix}  1_0 \\ 3\end{matrix}$$
+
+**TERMINATE**: `return mid(mid=3)`
+### Recurrence Equation
+
+Merge will overwrite all $n$ values of the array in the last step, so $f(n)=n$. There are two calls to merge sort, and merge-sort is called twice each with input as basically half the size. The base case is with singleton values ($n_b=1$) and no values are overwritten in this case, so $T(1)=0$. Overall, we have:
+
+$$T(n)=2T(\frac{n}{2})+n; \space \space \space T(1)=0$$
+#### Master Method
+
+Since we have $a=2, b=2$, so $\log_b a = \log_2 2 = 1$ and $n^{\log_b a} = n$. Thus, $f(n) = \Theta (n^{\log_b a})$, which is Case 2 of the Master Theorem, so $\Theta(T(n)) = \Theta(n \lg n)$
+
+#### Substitution Method
+
+Assume that $n=2^k$ and write a few values of the recurrence equation as:
+
+$$T(2^k) = 2T(2^{k-1})+2^k$$
+$$T(2^{k-1}) = 2T(2^{k-2})+2^{k-1}$$
+$$T(2^{k-2}) = 2T(2^{k-3})+2^{k-2}$$
+
+Substitute to find the pattern:
+
+$$T(2^k)= 2T(2^{k-1}) +2^k$$
+$$= 2[2T(2^{k-2}+2^{k-1}]+2^k$$
+$$=2[2[2T(2^{k-3}+2^{k-2}]+2^{k-1}]+2^k$$
+$$=2^3T(2^{k-3})+(3)2^k$$
+
+Find Pattern
+
+$$T(2^k)=2^iT(2^{k-i})+i*2^k$$
+For base case, $T(1) = 0$, we let $i=k$, to get (note that $n=2^k$)
+$$T(2^k) = 2^kT(1)+k*2^k=kn$$
+But, with $n-2^k$, take the $\lg$ of each side to get $k=\lg n$, so:
+$$T(n)=n\lg n$$
+so
+$$T(n) = \Theta(n \lg n)$$
+
 ## Quick Sort
 
 ```ad-summary
@@ -1354,6 +1417,214 @@ PARTITION(A,p,r)
 			swap A[i] <-> A[j]
 	swap[i+1] <-> A[r]
 	return i+1
+```
+
+### Real Code
+
+
+
+### Recurrence Equations
+
+#### Best Case
+
+```ad-important
+Pivot is always in the middle of the range of vlaues of the subarray
+- Splits the subarrays evenly into two equal sizes
+```
+
+$$T(n) = 2T(\frac{n}{2})+ \Theta(n)$$
+**Master Method (case 2) gives**:
+$$T(n) = \Theta(n \lg n)$$
+
+#### Worst Case
+
+```ad-important
+Pivot is always the largest/smallest value in the range of values
+- Only reduces size by one
+```
+
+$$T(n) = T(n-1) + \Theta(n)$$
+
+**Use substitution along with upper or lower bound for $f(n)$**
+
+$$T(n) \le T(n-n) + c_2(\sum_{i=1}^n i) = \Theta(1) + c_2(\frac{n^2+n}{2})$$
+**And**
+$$T(n) \ge \Theta(1) + c_1(\frac{n^2+n}{2})$$
+$$\therefore T(n)=\Theta(n^2)$$
+# Divide-and-Conquer
+
+## Recurrence Equations
+
+
+```ad-summary
+title: Definition
+Mathematical expressions that describe the relationship between the current value and previous values in a sequence of values.
+```
+
+**For incremental**
+$$T(n) = aT(n-1) + f(n); \space \space \space T(n_b) = f_b(n)$$
+```ad-note
+- $T(n)$ is the reqcurrence equation
+- $T(n_b) = f_b(n)$ is the base conditoin
+```
+
+- Common to ignore execution cost and focus on counting instructions
+- Constant multiples can be ignored for asymptotic complexity
+
+**For divide and conquer**
+$$T(n) = aT(\frac{n}{b}) + f(n); \space \space \space T(n_b) = f_b(n)$$
+
+### Substitution
+
+
+```ad-summary
+title: Steps
+1. Write out the recurrence equation for a few cases of smaller inputs, based on the trend of shrinking $n$
+2. Substitute the equations into the $T(n)$ recurrence equation
+3. Formulate the trend or the pattern we see with each equation
+4. Use the base case to bottom out the recursion and simplify for the closed form solution
+```
+
+#### Example: Incremental Recursion 1
+
+
+```ad-question
+Based on the C++ code implementing the $n$ factorial calcuation below, write the cecurrence equation (include the base condition) and sovle the recurrece equation to obtain an asymptotic complexity bound for the running time $T(n)$
+```
+
+```c++
+int factorial (int  n) {
+	if (n <= 0) return 1;
+	else reutrn n*factorial(n-1);
+}
+```
+
+Due to there being recursion, $T(n)$ can be broken down into the base step and the inductive step:
+
+$$T(n) = \begin{bmatrix} 1 & if \space n=0 \\ T(n-1)+2 & n \ge 1 \end{bmatrix}$$
+
+```ad-note
+The +2 is for the two extra instructions that are created by both lines being checked
+```
+
+**Recurrence Equation**:
+
+$$T(n) = T(n-1)+2 \space \space \space (recursive \space step)$$
+$$T(0) = 1 \space \space \space (base \space case)$$
+**Solve Recurrence Equation 
+
+1. Write out for shrinking values
+
+$$T(n-1) = T(n-2)+2$$
+$$T(n-2) = T(n-3)+2$$
+2. Substitute Equations
+$$T(n) = [T(n-2)+2]+2$$
+$$T(n) = [[T(n-3)+2]+2]+2$$
+$$T(n) = T(n-3) + 3(2)$$
+
+3. Formulate the pattern
+
+```ad-important
+In terms of genreal positive integer $i$, in terms of $T(n) = f(n-i)$
+```
+
+$$T(n-i) + 2i$$
+
+4. Utilized base case to bottom out and simplify
+
+Given $T(0) = 1$, determine $i$ to get $T(0)$ in the pattern:
+
+$$where \space i = n$$
+$$T(n) = T(n-n) + 2n = T(0)+2n$$
+$$T(n) = 2n+1$$
+
+**Asymptotic complexity bound**:
+
+$$T(n) = \Theta(n)$$
+
+#### Example: Incremental Recursion 2
+
+```ad-question
+Use the substitution method to solve the following recurrence. Show all steps in your answer!
+
+$$T(n)=T(n-2)+11; \space \space \space T(0)=1$$
+```
+
+We assume $n$ is even so that:
+
+**Write out shrinking values while substituting**
+
+$$T(n) = T(n-2)+1$$
+$$=T(n-4) + 1 + 1$$
+$$=T(n-6)+1+2 = T(n-6)+3$$
+$$=T(n-8)+1+3=T(n-8+4$$
+
+**Formulate Pattern**
+
+$$T(n)=T(n-i) + \frac{i}{2}$$
+
+**Replace with $i=n$ to get base case:
+
+$$=T(n-n) + \frac{n}{2} \Rightarrow T(n) = T(0)+ \frac{n}{2}$$
+$$T(n) = 1 + \frac{n}{2}$$
+$$\therefore T(n)=\Theta(n)$$
+
+
+### Geometric Sum
+### Master Method
+
+# Binary Search & Linear Search
+
+## Recurrence Equation for Binary Search
+
+#### Best Case N/A!
+
+#### Worst-Case
+
+$$T(2^k-1) = 1+ T(2^{k-1}-1)$$
+$$T(0) = 0$$
+**Write out for lower n**
+
+$$T(2^{k-1}-1) =  T(2^{k-2}-1)$$
+$$T(2^{k-2}-1) = 1+ T(2^{k-3}-1)$$
+
+**Substitute**
+
+$$1+[1+[1+T(2^{k-3}-1)]$$
+
+**Write in terms of `i`
+
+$$T(2^k-1) = i + T(2^{k-i}-1)$$
+
+**Bottom out when $i=k$**
+
+$$T(2^k-1) = k + T(2^0-1)$$
+$$T(2^k-1) = k$$
+Need to relate $k$ to $n$ using $n=2^k-1$
+
+$$n+1 = 2^k$$
+$$\lg(n+1) = \lg(2^k)=k$$
+$$\therefore T(n) = \lg(n+1)$$
+```ad-note
+$$\lg(n+1) = \Theta(\lg(n))$$
+```
+
+**Lower Bound**:
+
+$$n < n+1 \space \space \space \space \space \forall n \ge 1$$
+$$\lg n < \lg(n+1)$$
+**Upper Bound**:
+
+$$n+1 < n^2 \space \space \space \space \space \forall n \ge 2$$
+$$\lg(n+1) < \lg(n^2)$$
+$$\lg(n-1) < 2 \lg(n)$$
+**Combined Big Theta  Equation**:
+
+$$\therefore \lg n \le \lg(n+1) \le 2 \lg(n) \space \space \space \space \space \forall n \ge 2$$
+$$T(n) = \Theta(\lg(n))$$
+```ad-important
+Binary Search is $\Omega(1)$ AND $O(\lg(n))$ in run-time complexity.
+- $\Theta(1)$ in memory complexity
 ```
 
 

@@ -160,7 +160,7 @@ $$\frac{2^k-2}{2} = \frac{2^k}{2} - \frac{2}{2} = 2^{k-1}-1$$
 
 **Count comparisons with `keyVal` as $T(n)$** and $n= 2^k-1$
 
-$$T(2^k-1) = 1+ (T)2^{k-1}-1)$$
+$$T(2^k-1) = 1+ T(2^{k-1}-1)$$
 $$T(0) = 0$$
 
 **Write out for lower n**
