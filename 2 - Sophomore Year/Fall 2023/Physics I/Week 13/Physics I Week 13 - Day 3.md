@@ -1,0 +1,80 @@
+Date: 17th November 2023
+Date Modified: 17th November 2023
+File Folder: Week 13
+#Physics1
+
+```ad-abstract
+title: Today's Topics
+collapse: open
+
+- Thermal Expansion
+
+```
+
+# Thermal Expansion
+
+**Solids** have three different types of expansion:
+- Linear Expansion
+- Surface Expansion
+- Volume Expansion
+
+**Liquids** ***ONLY*** have volume expansino
+
+## Linear Expansion
+
+$$l_i \space at \space t_i(\degree C)$$
+$$l_f \space at \space t_f(\degree C)$$
+
+
+![[Drawing 2023-11-17 10.04.41.excalidraw]]
+
+```ad-important
+The change in length depends on:
+- Change in Temperature
+$$\Delta l \Rightarrow \Delta t, l_i$$
+- Material
+$$\Delta l = \alpha l_i \Delta t$$
+
+```ad-note
+$\alpha$ is the coefficient of linear expansion
+```
+
+**The following equation is true for**:
+- Non-dimensional length
+- Same units between $\alpha$ and temperature
+$$l_f = l_i(1+\alpha \Delta t)$$
+
+```ad-warning
+$$[\alpha]_{si} = \frac{1}{K} = \frac{1}{\degree C}$$
+```
+
+![[Pasted image 20231117101134.png]]
+
+```ad-note
+Due to often tiny coefficients, a change in length is often very small
+```
+
+## Surface Expansion
+
+$$A_i \space at \space t_i(\degree C)$$
+$$A_f \space at \space t_f(\degree C)$$
+
+![[Drawing 2023-11-17 10.12.52.excalidraw]]
+
+$$A_i = l_i L_i$$
+$$A_f=l_f*L_f = l_i(1 + \alpha \Delta t) * L_i(1 + \alpha \Delta t)$$
+$$A_f = A_i(1+ \alpha \Delta t)^2 =A_i(1+ 2\alpha \Delta t + \alpha^2 (\Delta t)^2)$$
+```ad-note
+The squared coefficient is sooo small that it is negleted
+```
+
+$$A_f = A_i(1+ 2 \alpha \Delta t)$$
+
+## Volume Expansion
+
+![[Drawing 2023-11-17 10.18.54.excalidraw]]
+
+$$v_i = l_i L_i h_i \space at \space t_i(C\degree)$$
+$$V_f = l_f L_f h_f = V_i(1=\alpha \Delta t)^3$$
+
+$$V_i(1 + 3 \alpha \Delta t + 3 \alpha^2(\Delta t)^2+ \alpha^3(\Delta t)^3)$$$$A_f = A_i(1 + 3 \alpha \Delta t)$$

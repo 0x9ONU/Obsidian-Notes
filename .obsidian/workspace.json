@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9826d1c61e84cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md"
               }
             }
           }
@@ -182,8 +169,48 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9826d1c61e84cc1",
+  "floating": {
+    "id": "111070885f5d78a7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8914839c91f420a2",
+        "type": "window",
+        "children": [
+          {
+            "id": "c1f294cc073d6f54",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "18c30767a1037cf5",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-11-17 10.12.52.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "0e508d1373c9d5aa",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-17 10.12.52.excalidraw.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
+    "General Notes/Pasted image 20231117101134.png",
+    "Excalidraw/Drawing 2023-11-17 10.04.41.excalidraw.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
     "conflict-files-obsidian-git.md"
   ]
