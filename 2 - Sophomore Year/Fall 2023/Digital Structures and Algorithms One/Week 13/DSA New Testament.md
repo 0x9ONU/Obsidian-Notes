@@ -1668,6 +1668,8 @@ $$\therefore T(n) = \Theta(3^n)$$
 
 #### Best Case N/A!
 
+If the value is in the middle, it returns it right away, thus $T(n)=\Omega(1)$
+
 #### Worst-Case
 
 $$T(2^k-1) = 1+ T(2^{k-1}-1)$$
