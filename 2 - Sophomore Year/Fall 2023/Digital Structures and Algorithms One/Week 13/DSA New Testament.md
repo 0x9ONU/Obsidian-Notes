@@ -1288,34 +1288,6 @@ int maxVal(int A[], int p, int r){
 
 ![[Pasted image 20231116103310.png]]
 
-### Example: When Given an Array
-
-```ad-question
-Consider the array given below (showing the C++ indices underneath the array.) Apply binary search to check which index has value keyVal = 1
-```
-
-$$\begin{matrix} -2 & -1 & 0 & 1 & 5 & 7 \\ 0 & 1 & 2 & 3 & 4 & 5\end{matrix}$$
-
-**Step 1:**
-
-$$mid = \frac{(0)-(5)}{2} = 2$$
-$$\begin{matrix} -2 & -1 & 0_0 & 1 & 5 & 7 \\ 0 & 1 & 2 & 3 & 4 & 5\end{matrix}$$
-
-Chose right because $keyVal > 0$
-
-**Step 2:**
-
-$$mid = \frac{(3)+(5)}{2} = 4$$
-$$\begin{matrix}  1 & 5_0 & 7 \\ 3 & 4 & 5\end{matrix}$$
-
-Chose left because $keyVal < 5$
-
-**Step 3:**
-
-$$mid = \frac{3+3}{2} = 3$$
-$$\begin{matrix}  1_0 \\ 3\end{matrix}$$
-
-**TERMINATE**: `return mid(mid=3)`
 ### Recurrence Equation
 
 Merge will overwrite all $n$ values of the array in the last step, so $f(n)=n$. There are two calls to merge sort, and merge-sort is called twice each with input as basically half the size. The base case is with singleton values ($n_b=1$) and no values are overwritten in this case, so $T(1)=0$. Overall, we have:
@@ -1418,10 +1390,6 @@ PARTITION(A,p,r)
 	swap[i+1] <-> A[r]
 	return i+1
 ```
-
-### Real Code
-
-
 
 ### Recurrence Equations
 
@@ -1662,7 +1630,100 @@ $$\therefore T(n) = \Theta(3^n)$$
 
 ### Master Method
 
+ON CHEAT SHEET :3
+### Example - Case 1
+
+```ad-question
+APply the Masster Theorem to determine the run-time complexity of the algorithm with recurrence equation:
+$$T(n) = 8T(\frac{n}{2}) + 1000n^2$$
+```
+
+$a = 8, b = 2$, so you can calculate # leaf nodes:
+
+$$\log_b a = log_2 8 = 3$$
+$$leaf \space nodes = n^{log_b a} = n^3$$
+
+$$f(n) = O(n^{log_b a-\epsilon}) = O(n^{3-1}), \space where \space  \epsilon =1$$
+
+Leaf node work dominates polynomial, so case 1 applies, and $T(n) = \Theta (n^3)$
+
+### Example - Case 2
+
+$$T(n) = 2T(\frac{n}{2}) + 10n$$Given $a =2, b=2$:
+
+$$log_b a = log_2 2 = 1$$
+$$leaf \space nodes = n^1$$
+
+$$f(n) = 10n = \Theta(n^1)$$
+
+**Because they are the same, case 2 applies:**
+
+$$T(n) = \Theta(n * \lg n)$$
+### Example - Case 3
+
+## Example
+
+```ad-question
+Apply the Masster Theorem to determine the run-time complexity of the algorithm with recurrence equation:
+$$T(n) = 2T(\frac{n}{2}) + n^2$$
+```
+
+**Solve # leaf nodes**
+
+$$leaf \space nodes = n^{\log_b a} = n^1$$
+
+**Since $f(n) = n^2$**
+
+$\epsilon = 1$  in $f(n) = \Omega(n^{\log_b (a+\epsilon)}) = \Omega(n^{1+1} \Omega(n^2)$
+
+**Lokis like case 3, but need to check regularity condition**
+
+$$Level \space 1 \space overhead \le fraction \space * \space Level \space 0 \space overhead$$
+
+$$af(\frac{n}{b}) = r f(n)$$
+$$2f(\frac{n}{2}) = 2(\frac{n}{2})^2 = 0.5 n^2$$
+$$r = 0.5 \epsilon(0, 1)$$
+```ad-note
+$r$ is an element of the interval from 0 to 1 (not inclusive)
+```
+
+**Thus:**
+$$T(n) = \Theta(f(n)) \Rightarrow T(n)=\Theta(n^2)$$
+
+
 # Binary Search & Linear Search
+
+## Solving for Binary Search Given Array
+
+![[Pasted image 20231106082719.png]]
+### Example
+
+```ad-question
+Consider the array given below (showing the C++ indices underneath the array.) Apply binary search to check which index has value keyVal = 1
+```
+
+$$\begin{matrix} -2 & -1 & 0 & 1 & 5 & 7 \\ 0 & 1 & 2 & 3 & 4 & 5\end{matrix}$$
+
+**Step 1:**
+
+$$mid = \frac{(0)-(5)}{2} = 2$$
+$$\begin{matrix} -2 & -1 & 0_0 & 1 & 5 & 7 \\ 0 & 1 & 2 & 3 & 4 & 5\end{matrix}$$
+
+Chose right because $keyVal > 0$
+
+**Step 2:**
+
+$$mid = \frac{(3)+(5)}{2} = 4$$
+$$\begin{matrix}  1 & 5_0 & 7 \\ 3 & 4 & 5\end{matrix}$$
+
+Chose left because $keyVal < 5$
+
+**Step 3:**
+
+$$mid = \frac{3+3}{2} = 3$$
+$$\begin{matrix}  1_0 \\ 3\end{matrix}$$
+
+**TERMINATE**: `return mid(mid=3)`
 
 ## Recurrence Equation for Binary Search
 
@@ -1718,7 +1779,74 @@ Binary Search is $\Omega(1)$ AND $O(\lg(n))$ in run-time complexity.
 - $\Theta(1)$ in memory complexity
 ```
 
+## Pseudocode
 
+### Linear
+
+```
+Alg: LINEAR-SEARCH-ARRAY(A, n, keyVal)
+	for i <- 1 to n 
+		if A[i] = keyVal
+			return i
+	return -1
+```
+
+### Binary
+
+
+```
+Alg: BINARY-SEARCH-ARRAY(A, start, end, keyVal) //start sand end are indices
+//A is assuemd to be in sorted order (ascending_
+	if start > end // base case: reached if keyVal not found)
+		return -1 //use  a-1 to indicate keyVal is not found
+	else
+		mid <- floor((start+end)/2) //consider middle idnex
+		if keyVal = A[mid]
+			reutrn mid // keyVal is found in the middle
+		else
+			if keyVal < A[mid] //keyVal is in the first half
+				return BINARY-SEARCH-ARRAY(A, start, mid-1, keyVal)
+			else 
+				return BINARY-SEARCH-ARRAY(A, mid+1, end, keyVal)
+```
+
+## C++ Code
+
+### Linear
+```c++
+int linearSearch(int A[], int b, int n, int key, int& comparisons) {
+    for (int i = b; i < n; i++) {
+        comparisons++;
+        if (A[i] == key) {
+            return i;
+        }
+    }
+    return -1;
+}
+```
+
+### Binary
+
+```c++
+int binarySearch(int A[], int b, int n, int key, int& comparisons) {
+    //base case: reached if keyval not found
+    if (b > n) {
+        return -1;
+    }
+    comparisons++; //Add another comparison as all other cases have comparisons
+    int q = floor((b+n)/2); //consider middle index
+     //if keyval is found in the middle
+    if (key == A[q]) {
+        return q;
+    }
+    //keyVal is in the first half
+    if (key < A[q]) {
+        return binarySearch(A, b, q-1, key, comparisons);
+    }
+    //else, keyval is is the last half
+    return binarySearch(A, q+1, n, key, comparisons);
+}
+```
 # Short Answers
 
 1. Describe what makes a good algorithm
