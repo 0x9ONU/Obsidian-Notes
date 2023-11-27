@@ -79,7 +79,7 @@ $$A_f = A_i(1+ 2 \alpha \Delta t)$$
 $$v_i = l_i L_i h_i \space at \space t_i(C\degree)$$
 $$V_f = l_f L_f h_f = V_i(1=\alpha \Delta t)^3$$
 
-$$V_i(1 + 3 \alpha \Delta t + 3 \alpha^2(\Delta t)^2+ \alpha^3(\Delta t)^3)$$$$A_f = A_i(1 + 3 \alpha \Delta t)$$
+$$V_i(1 + 3 \alpha \Delta t + 3 \alpha^2(\Delta t)^2+ \alpha^3(\Delta t)^3)$$$$V_f = V_i(1 + 3 \alpha \Delta t)$$
 
 ### For Liquids
 
