@@ -97,7 +97,11 @@ Remember:
 $$-\sin\Theta = \sin(-\Theta)$$
 ```
 
-
+$$\frac{\sin(n-\tau)}{\pi (n-\tau)} = \frac{\sin(M-1-n-\tau)}{\pi(M-1-n-\tau)}$$
+$$\frac{\sin(-(n-\tau))}{\pi(-(n-\tau))} = \frac{\sin(M-1-n-\tau)}{\pi(M-1-n-\tau)}$$
+$$-n + \tau = M-1-n-\tau$$
+$$2\tau=M-1$$
+$$\tau = \frac{M-1}{2}$$
 
 **Substitute Tau for M**
 
