@@ -51,15 +51,23 @@ $$h[n] = h_d[n] W[n]$$
 $$H(\Omega) = f.T(h_d[n] ** w[n]) \Rightarrow H(\Omega) = h_d[n] w[n]$$
 ```
 
+## Steps Using Windowing Technique
+
+1. Find the impulse response for a given desired frequency response $H_d(\Omega)$
+$$h_d[n] = \frac{1}{2 \pi} \int H_d(\Omega) \space e^{j\Omega n} \space d\Omega \space \space \space -\infty \le n \le \infty$$
+2. Choose a window sequence $w[n]$
+3. Find $h[n] = h_d[n]$. $w[n]$ to obtain the finite filter coefficient
 ### Example
 
 ```ad-question
 Design a Symmetric FIR low pass filter such that:
 
 $$H_d(\Omega) = \begin{matrix} e^{-j\Omega \tau} & |\Omega| \le \Omega_c \Rightarrow |\Omega| \le 1 \\ 0 & Otherwise \Rightarrow -1 \le \Omega \le 1\end{matrix}$$
-$$M=7 \& \Omega_c=1 \frac{rad}{s}$$
+$$M=7 \space \& \space \Omega_c=1 \frac{rad}{s}$$
 WITH **Rectangular Window**
 ```
+
+#### Step 1: Find Impulse Response from Frequency Response
 
 **Use Integral Equation** (Equation 1):
 
@@ -102,8 +110,35 @@ $$\frac{\sin(-(n-\tau))}{\pi(-(n-\tau))} = \frac{\sin(M-1-n-\tau)}{\pi(M-1-n-\ta
 $$-n + \tau = M-1-n-\tau$$
 $$2\tau=M-1$$
 $$\tau = \frac{M-1}{2}$$
+$$\tau = \frac{6}{2} =3$$
 
 **Substitute Tau for M**
 
-$$h_d[n] = \begin{matrix} \frac{\sin(n-\frac{M-1}{2})}{\pi(n-\frac{M-1}{2})} & n \ne \frac{M-1}{2} \\ \frac{1}{\pi} & n = \frac{M-1}{2}\end{matrix}$$
+$$h_d[n] = \begin{matrix} \frac{\sin(n-3)}{\pi(n-3)} & n \ne 3 \\ \frac{1}{\pi} & n = 3\end{matrix}$$
 
+#### Step 2: Use Rectangular Windowing Technique 
+
+```ad-note
+title: Remember
+$$w_R(n) = \begin{matrix}1 & 0 \le n \le M-1 \\ 0 & otherwise\end{matrix}$$
+```
+
+$$n=0 \Rightarrow h_d[0] - 0.01497 = h_d[6]$$
+$$n=1 \Rightarrow h_d[1]=0.14472 = h_d[5]$$
+$$n = 2 \Rightarrow h_d[2] = 0.20785 = h_d[4]$$
+$$n = 3 \Rightarrow h_d[3] = \frac{1}{\pi}$$
+
+```ad-warning
+We are allowed to have $h_d[4-6]$ due to the filter being symmetric
+```
+
+
+$$h[n] = h_d[n] * w[n]$$
+$$h[n] = \begin{matrix} h_d[n] & 0 \le n \le 6 \\ 0 & elsewhere \end{matrix}$$
+
+#### Step 3: Find Coefficients of FIR:
+
+$$h[0] - 0.01497 = h[6]$$
+$$h[1]=0.14472 = h[5]$$
+$$h[2] = 0.20785 = h[4]$$
+$$h[3] = \frac{1}{\pi}$$
