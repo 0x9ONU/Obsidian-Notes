@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2effa2cb31bc8990",
+        "id": "7f2300549bce4504",
         "type": "tabs",
         "children": [
+          {
+            "id": "2b2260d659c1be11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "0e508d1373c9d5aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md"
+                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md"
               }
             }
           }
@@ -169,44 +181,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "111070885f5d78a7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8914839c91f420a2",
-        "type": "window",
-        "children": [
-          {
-            "id": "c1f294cc073d6f54",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "18c30767a1037cf5",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-11-17 10.12.52.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
-  "active": "0e508d1373c9d5aa",
+  "active": "2b2260d659c1be11",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Week 15 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 3.md",
     "Excalidraw/Drawing 2023-11-17 10.12.52.excalidraw.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
     "General Notes/Pasted image 20231117101134.png",
     "Excalidraw/Drawing 2023-11-17 10.04.41.excalidraw.md",
