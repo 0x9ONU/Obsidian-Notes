@@ -106,3 +106,51 @@ else if z.key < y.key
 else y.right = z
 ```
 
+**Best-Case: If root has an open child (left or right) and the node's key should go there**
+$$\Theta(1)$$
+
+**Worst-Case: Have to place it at a leaf node whose depth = height**
+$$O(h)$$
+
+## Subtree Transplant
+
+```
+TRANSPLANT(T, u, v)
+if u.p = NIL
+	T.root <- v
+else if u = u.p.left
+	u.p.left <- v
+else u.p.right <- v
+if v NOT = NIL
+	v.p <- u.p
+```
+
+- Node $u$ and node $v$ are roots of subtrees
+- Node $u$'s parent will become node $v$'s parent (and becomes same child)
+- Helpful for Node Deletion
+
+## Deleting a Node
+
+**Case 1: Deleting a Leaf Node**
+- Handled by Lines 1 and 2
+**Case 2: Deleting node w/ 1 child**
+- ALSO Handled by Lines 1 and 2
+**Case 3: Deleting node w/ 2 children**
+- Uses the rest of the code
+- tree-minimum will ALWAYS find the successor since there will always be a right node
+
+```
+if z.left = NIL
+	TRANSPLANT(T, z, z.right)
+else if z.right = NIL
+	TRANSPLANT(T, z, z.left)
+else y <- TREE-MINIMUM(z.left)
+	if y.p NOT = z
+		TRANSPLANT(T, y, y.right)
+		y.right <- z.right
+		y.right.p <- y
+	TRANSPLANT(T, z, y)
+	y.left = z.left
+	y.left.p = y
+```
+
