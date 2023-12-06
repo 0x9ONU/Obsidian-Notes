@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics Week 15 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics Week 15 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics Week 15 - Day 2.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics Week 15 - Day 2.md"
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md"
               }
             }
           }
@@ -169,78 +169,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "7744ccb894780e20",
-    "type": "floating",
-    "children": [
-      {
-        "id": "76a5c8fe105d4044",
-        "type": "window",
-        "children": [
-          {
-            "id": "965e38ec0a0daed9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1f546aafefc1e908",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics Week 15 - Day 2 2023-12-06 10.09.39.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1.5
-      },
-      {
-        "id": "f44c09b6057ebc92",
-        "type": "window",
-        "children": [
-          {
-            "id": "f78950470f94928d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "50ccea0fff691fa0",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics Week 15 - Day 2 2023-12-06 10.23.15.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "2b2260d659c1be11",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Week 15 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Week 15 - Day 2.md",
     "General Notes/Pasted image 20231206103649.png",
     "General Notes/Pasted image 20231206103353.png",
     "General Notes/Pasted image 20231206102945.png",
     "General Notes/Physics Week 15 - Day 2 2023-12-06 10.23.15.excalidraw.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics Week 15 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Week 15 - Day 1.md",
     "General Notes/Physics Week 15 - Day 2 2023-12-06 10.09.39.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 2.md",
     "General Notes/Pasted image 20231206081831.png",
