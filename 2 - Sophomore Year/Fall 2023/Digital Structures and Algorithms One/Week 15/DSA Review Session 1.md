@@ -75,4 +75,3 @@ Linked Lists would be the best alternatives as it can easily add and delete node
 Using the Merge and Merge-Sort pseudocode below, develop a recurrence equation to express the atomic instruction run time $T(n)$ for Merge-Sort by doing the following:
 ```
 
-###
