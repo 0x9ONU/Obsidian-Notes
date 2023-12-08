@@ -57,11 +57,11 @@ Binary search tree as it is best at searching and can be sorted to be balanced
 
 	b. The data should be temporarily held between a microcontroller and tis transceiver as the data packets are being readied to be transmitted on the antenna. The order of the packets should be preserved.
 
-Queues would be the best as it keeps the order of the FILO approach and has $\Theta(1)$ complexity if implemented with a  circular queue.
+Queues would be the best as it keeps the order of the FIFO approach and has $\Theta(1)$ complexity if implemented with a  circular queue.
 
 	c. The data is the hsitory of websites visited in a web browser and the goal is to implement a back button
 
-Stack would be the best as it uses the FIFO principle and has low time complexity.
+Stack would be the best as it uses the LIFO principle and has low time complexity.
 
 	d. The dataset contains user records, the set is dynamic, and has many insertions and deletions, but order is not important.
 
