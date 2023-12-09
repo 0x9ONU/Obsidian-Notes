@@ -69,8 +69,56 @@ $$C = \frac{288(\tan(36.87 \degree)-\tan(0 \degree)}{377(120)^2}$$
 $$C = 39.79 \micro F$$
 # AC Max. Power Transfer
 
+```ad-question
+14.15 - Find the maximum power transfered over $Z_L$ in the circuit shown
+```
+
+![[Circuits Final Review 2023-12-08 11.44.12.excalidraw]]
+**Find $V^\sim_{Th}$
+$$V^\sim_{Th} = 2I_x$$
+*due to independent current source*
+$$I_x^\sim = -2A\angle 0 \degree$$
+
+$$V_{Th}^\sim = -4 V$$
+**Find $I_{sc}$
+
+![[Circuits Final Review 2023-12-08 11.49.04.excalidraw]]
+
+**Use Loop Analysis**
+
+*Loop 1*:
+
+$$I_1^\sim = -2 \angle 0 \degree$$
+
+*Loop 2:*
+$$-2I_x + 13I_{sc}^\sim = 0$$
+*substitute*
+$$4+13I_{sc}^\sim = 0$$
+$$I_{sc}^\sim = -0.31$$
+
+**Find $R_{Th}$
+
+$$R_{Th} = \frac{V_{Th}}{I_{sc}}$$
+$$R_{Th} = \frac{-4}{-0.31} = 12.9 \Omega$$
+**Solve for Max Power**
+
+$$P_{max} = \frac{V_{Th}^2}{4 R_{Th}}$$
+$$P_{max} = 0.31 W$$
 # Transformer
 
+```ad-question
+
+```
+
+![[Circuits Final Review 2023-12-08 11.08.20.excalidraw]]
+
+**Use Loop Analysis**
+
+*equation 4*
+$$\frac{V^\sim_2}{V^\sim_1} = n \Rightarrow \frac{V^\sim_2}{V^\sim_1}=4$$
+*equation 5*
+
+$$\frac{I_1^\sim}{I_2^\sim}=+n=4$$
 # Diode Circuit
 
 # Statured Transistor

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Final Review.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Final Review.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Final Review.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Final Review.md"
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md"
               }
             }
           }
@@ -184,8 +184,22 @@
   },
   "active": "e26827ff3ae85f7d",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
+    "General Notes/Circuits Final Review 2023-12-08 11.49.04.excalidraw.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
+    "General Notes/Circuits Final Review 2023-12-08 11.44.12.excalidraw.md",
+    "General Notes/Circuits Final Review 2023-12-08 11.08.20.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Final Review.md",
+    "General Notes/Physics I Final Review 2023-12-08 10.45.58.excalidraw.md",
+    "General Notes/Pasted image 20231208104201.png",
+    "General Notes/Pasted image 20231208103530.png",
+    "General Notes/Physics I Final Review 2023-12-08 10.26.15.excalidraw.md",
+    "General Notes/Pasted image 20231208102521.png",
+    "General Notes/Physics I Final Review 2023-12-08 10.19.12.excalidraw.md",
+    "General Notes/Pasted image 20231208101815.png",
+    "General Notes/Physics I Final Review 2023-12-08 10.14.52.excalidraw.md",
+    "General Notes/Physics I Final Review 2023-12-08 10.08.50.excalidraw.md",
+    "General Notes/Physics I Final Review 2023-12-08 10.03.20.excalidraw.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Review Session 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 3.md",
@@ -194,28 +208,17 @@
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA week 14 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Week 15 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Midterm 2 Study List.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Week 11 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3/DSP Week 3 - Day 1.md",
     "General Notes/Pasted image 20231206113432.png",
     "General Notes/Pasted image 20231206103649.png",
     "General Notes/Pasted image 20231206103353.png",
     "General Notes/Pasted image 20231206102945.png",
     "General Notes/Pasted image 20231206081831.png",
-    "General Notes/Pasted image 20231206081455.png",
-    "General Notes/Pasted image 20231117101134.png"
+    "General Notes/Pasted image 20231206081455.png"
   ]
 }
