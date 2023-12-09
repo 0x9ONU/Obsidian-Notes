@@ -3,6 +3,55 @@ Date Modified: 8th December 2023
 File Folder: Week 15
 #DSA1
 
+***Good luck soldiers. May the God of DSA be merciful on this fine day***
+
+```ad-important
+As the one and true God of DSA said in His holy words:
+- "No loop invariants or Formal Proofs on the Final"
+- ✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟
+```
+# Algorithms
+
+```ad-summary
+title: Goals
+- What is an algoithm? What makes a good algorithm?
+- Understand growth rates of different functions and asymptotic notations
+- Know, understand, and use $O, \Theta, \Omega$ definitions
+- Know how to analyze the compelxity of random pseudocode funcitons by explicitly counting the number of times instructions are executed (could be with nested loops that are independent or dependent) or focusing on specific types of operations such as comparisons or arithmetic operations (or both).
+- Given pseudocode, be able to describe what an algorithm is doing.
+- Be able to write pseudocode for straightforward algorithms
+```
+# Sorting
+
+```ad-summary
+Goals:
+- Understand how different soritng algorithms work.
+	- Given a list of nubmers, you should be able to show how soritng algorithms will sort this list step by step.
+- How to anlyze the time complexity for each algorithm; best case, average case, and worst case. Also know these time complexities for each sorting algorithm (best case, average case, worst case)
+- Know the best-case, worst-case, and average-case scenarios and asymptotic run-time coplexities for the sorting algorihts; aslo know whether each is in-place or not
+	- Quicksort, insertion sort, bubble sort, and selection sort are in-place, but merge sort is not
+- How to implement each algorithm; i.e. write C++ code for it.
+```
+
+# Divide-and-Conquer
+
+```ad-summary
+- Use the substitution method or master method to sovlve recurrences. If master method applies, you will be allowed to use it.
+- Given pseudocode or C++ code for a recursive funciton, you should be able to write a recurrence equaiton that describe this function.
+- Given a recurrence equation for a random divide-and-conquer algorihtm, you should be able to describe the behavior of theat divide-and-conquer algorithm.
+```
+
+# Binary Search and Linear Search
+
+
+
+# Linked Lists
+
+# Queues and Stacks
+
+# Binary Trees vs. Binary Search Trees (BSTs)
+
+# Cumulative Knowledge
 # Short Answers
 
 ## Binary Trees and Binary Search Trees (BSTs)
@@ -161,13 +210,29 @@ A dynamic set is a set that can change its elements over time. The key is an att
 
 33. Describe what makes a good algorithm
 
-A good algorithm should be correct (solves the problem accurately)
+A good algorithm should be correct (solves the problem accurately) and efficient (in terms of time and space complexity). Time complexity is captured by asymptotic runtime complexity and space complexity is captured by the amount of additional memory required to execute the algorithm.  Some algorithms for hard problems will tradeoff correctness (close enough by some metrics of distance in a vector space may be used) for efficiency. these are called approximation algorithms.
 
+## Pointers, Static Memory and Dynamic Memory
 
+34. Describe what a reference variable is in C++ accurately in your own words. 
 
+A reference variable in C++ is an alias of another variable, which must be initialized when declared, cannot be changed to refer to another variable, and has the same memory address as the original variable.
 
+35. Describe what a pointer is in C++ accurately in your own words.
 
+A pointer is a variable that contains the memory address of another object or variable, which may be reassigned to another object of the same type or be assigned to NULL.
 
+36. Describe the differences between static and dynamic memory in a C++ runtime environment.
+
+All static memory is allocated at compile time, assigned to the stack, is fixed, and is automatically deallocated when the object is out of scope. Dynamic memory is allocated at run time, assigned to the heap, is dynamic (can change in size), and persists beyond the scope in which the allocation is made. The new and delete operators are used to dynamically assign and deallocate dynamic memory. All normally declared variables are static. 
+
+37. Describe a dangling pointer in your own words accurately
+
+A dangling pointer is a pointer that once referenced a dynamic memory object that has since been deallocated using the delete operator or references an object that is out of scope.
+
+38. Describe how a memory leak can occur in a C++ Program.
+
+A memory leak can occur when a pointer referencing a dynamically allocated object is reassigned to reference another object.
 
 
 
