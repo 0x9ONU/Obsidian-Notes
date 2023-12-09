@@ -589,17 +589,82 @@ $$\therefore T(n) = O(n^2)$$
 
 ### Merge and Merge-Sort Pseudocode 
 
+```ad-question
+Using the Merge and Merge-Sort pseudocode below, develop a recurrence equaiton to express the atomic insturciton run time $T(n)$ for Merge-Sort by doing the following:
+1. Complete the tabe below with the number of times atomic are executed per line. It is ok to write #times of for-loops based on $n_1$ and $n_2$. Sume the isntructions in the table as a funciton of $n$ using $n_1+n_2 = n$. Threat an array delcaration as an atomic instruction.
+2. Use the Merge-Sort pseudocode to determine the number of atomic instructions that is executed in the base case ($n=1$). This is the value we use for $T(1)$
+3. Determine the overhead function $f(n)$ for the case $n > 1$ using your answer from part (a) and the pseudocode of Merge-Sort. That is, how many atomic instructions are executed outside of the recursive funciton calls when $n>1$? Note: The Merge funciton call can be counted as one additional atomic insturciton beyond the number attained from part (a).
+4. Write the recurrence equaiton describing $T(n)$ of Merge-SOrt for the case $n > 1$ Hint: Treat each recursive funciton call as halving the size of the problem, $n$.
+5. Sovle the recurrence equaiton using Master Method.
 ```
-Merge(A, p, q, r)
+
+```ad-note
+This is assuming that:
+- $n = r-p+1$
+- $n_1+n_2 = n$
+```
+
+```
+MERGE(A, p, q, r)
 n1 = q-p+1
 n2 = r-q
 let L[1..n1 + 1] and $[1.. n2 + 1] be new arrays
 for i = 1 to n2
 	L[i] = A[p+i-1]
 for j=1 to n2
+	R[j]=A[q + j]
+L[n1 + 1] = infinity
+R[n2 + 1] = infinity
+i = 1
+j = 1
+for k = p to r
+	if L[i] <= R[j]
+		A[k] = L[i]
+		i = i + 1
+	else A[k] = R[j]
+		j = j+1
 ```
 
+```
+MERGE-SORT(A, p, r)
+if p < r
+	q = [(p+r)/2]
+	MERGE-SORT(A, p, q)
+	MERGE-SORT(A, q+1, r)
+	MERGE(A, p, q, r)
+```
+
+**Part 1:**
+
+| Line # | # Times Atomic Instructions are Executed |
+| ------ | ---------------------------------------- |
+| 1      | $1$                                      |
+| 2      | $1$                                      |
+| 3      | $2$                                      |
+| 4      | $n_1+1$                                  |
+| 5      | $n_1$                                    |
+| 6      | $n_2+1$                                  |
+| 7      | $n_2$                                    |
+| 8      | $1$                                      |
+| 9      | $1$                                      |
+| 10     | $1$                                      |
+| 11     | $1$                                      |
+| 12     | $n+1$                                    |
+| 13     | $n$                                      |
+| 14     | $n_1$ (about $n/2$ times)                |
+| 15     | $n_1$ (about $n/2$ times)                |
+| 16     | $n_2$ (about $n/2$ times)                |
+| 17     | $n_2$ (about $n/2$ times)                                         |
+
+**Part 2:**
+
+$T(1) = 1$ (just the if statement of Line 1, since $p=r$ here)
+
+**Part 3:**
+
+
 # Sorting
+
 
 ```ad-summary
 title: Goals
