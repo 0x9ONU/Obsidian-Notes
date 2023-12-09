@@ -662,9 +662,17 @@ $T(1) = 1$ (just the if statement of Line 1, since $p=r$ here)
 
 **Part 3:**
 
+$f(n) = 3 + \space merge \space = 3 + 11 + 6n = 14 6n$
 
+**Part 4:**
+
+$$\begin{bmatrix} T(n) = 2T(\frac{n}{2})+6n+14 \\ T(1)=1\end{bmatrix}$$
+
+**Part 5:**
+$$a=2, b=2 \Rightarrow n^{\log_2 2}=n^1 = leaf \space nodes$$
+
+$f(n) = \Theta(n)$, so this is Case 2; so $T(n) = \Theta(n \lg n)$
 # Sorting
-
 
 ```ad-summary
 title: Goals
@@ -676,6 +684,392 @@ title: Goals
 - How to implement each algorithm; i.e. write C++ code for it.
 ```
 
+## Bubble Sort
+
+For every loop, the inner loop will compare the current position with the next position and **swap** if it is greater. It will continue to do this starting from the beginning of the loop every time one time for every element within the array.
+
+![[Drawing 2023-10-19 14.32.30.excalidraw.png]]
+
+```c++
+#include <iostream>
+using namespace std;
+// funciton delcaration (aka prototype)##
+void bubbleSort(int A[], int n)
+
+int main {
+// blah blah blah
+}
+
+void bubbleSort(int A[], int n) {
+	int temp;
+	for (int i = 0; i < n-1; i++) {
+		for(int j = 0; j < n-1; j++) {
+			if (A[j] > A[j+1]) {
+				temp = A[j];
+				A[j] = A[j+1];
+				A[j+1] = temp;
+			}
+		}
+	}
+}
+```
+
+## Insertion Sort
+
+**Initialization**: Given input sequence: $< a_1, a_2, ..., a_n>$
+- Sorted: $<a_1>$
+- Unsorted: $<a_2,...,a_n>$
+- Inserts next element from the unsorted subsequence into the correct spot of the sorted subsequence, shifting element rightward, as we move leftward
+- Increasing size of sorted subsequence while decreasing size of unsorted subsequence by 1.
+
+
+```ad-note
+- In-place sorting
+- Need to  copy over elements with arrays
+- Linked List Implementation
+	- Indices become node pointers
+	- **need** doubly linked list
+	- Remove entire key node and reinsert rather than copying it
+	- Don't need to copy over elements with leftward moving pointer. Simply insert the key node where appropriate.
+```
+
+```ad-summary
+title: Steps For Insertion Sort
+Use shading to indicate comparisons done in the inner loop, vertical arrows to indicate the key stored for placement in the outer loop iteration, and single arcs to indicate shifts (above) and new placement of the key (below)
+```
+
+
+![[Pasted image 20231019181137.png]]
+
+
+```c++
+#include <iostream>
+using namespace std;
+
+// funciton declaration (aka prototype):
+void insertionSort(int A[], int n); // A == array pointer, n == A.length
+
+void insertionSort(int A[], int n) {
+	for (j = 1; j<n; j++) {
+		key = A[j]; //store key value at j
+		i = j-1; // set i just to left of j
+		while (i >= 0 && A[i] > key) { // if i become -1,, off the list/array
+			A[i+1] = A[i]; //copy A[i] to the right
+			i--; //move i to the left
+		}
+		A[i+1] = key; // i+1 is the spoit to insert the key and if i=-1, it is the front at 0
+	}
+}
+```
+
+## Selection Sort
+**Initialization**: Given input sequence:
+$$<a_1, a_2,...,a_n>$$
+- Sorted subsequence = $<>$
+
+```ad-note
+Names usually focus on how sorting functions work
+- Selection sort
+	- Select next element to add to sorted subsequence
+- Done with in-palce
+	- Memory efficienlty is used using swapping
+	- Swaps the **first index** and **smallest elements** in the unsorted subsequence
+	- Goes linearly from $[0]$ to $[n]$
+```
+
+```ad-important
+Once it hits the last swap with only two elements remaining, it **does not** have to iterate over the last element as it is trivially sorted.
+```
+
+```ad-summary
+title: Steps to Sorting Using Selection Sort
+Use a vertical arrow to indicate the index under consideration in the outer loop iteration, shading to indicate comparisons done in the inner loop, and double arcs to indicate swaps.
+```
+
+![[Pasted image 20231019181451.png]]
+![[Pasted image 20231019181503.png]]
+
+```c++
+void SelectionSort(A[n], n) {
+	for (int i = 0; , i < n; i++) {
+		smallest = i;
+		for(int j = i; i < n; j++) {
+			if (A[j] < A[smallest]) {
+				smallest = j;
+			}
+		}
+		int temp = A[i];
+		A[i] = A[smallest];
+		A[smallest] = temp;
+	}
+}
+```
+
+## Merge Sort
+
+
+```ad-note
+- $p$ = first index of sub array
+- $r$ = last index of subarray
+- $q$ = "Middle" index
+$$q = \lfloor{\frac{p+r}{2}}\rfloor$$
+```
+
+### Pseudocode & Code for Merge Sort
+
+```
+MERGE-SORT(A, p, r)
+if p < r
+	q = floor((p+r)/2) // Base case is p = r
+	MERGE-SORT(A, p, q)
+	MERGE-SORT(A, q+1, r)
+	MERGE(A, p, q, r)
+```
+
+```c++
+void mergeSort(int A[], int p, int r){  
+	if (p<r){  
+		int q = (p+r)/2; // integer division rounds down as floor  
+		mergeSort(A, p, q);  
+		mergeSort(A, q+1, r);  
+		merge(A, p, q, r);  
+	}  
+}
+```
+
+Merge-Sort(A, p, r)
+- If array has more than 1 element
+	- Find "near midpoint"
+	- Divide the input array into two halves
+	- Sort each half separately
+	- Combine the two using another routine (merge)
+
+### Pseudocode & Code for Merge 
+
+
+```
+MERGE(A, p, q, r)
+n1 = q - p + 1 //number elemtns in left subarray from p to q
+n2 = r-q //nubmer of elemnts in right subarray from q+1 to r
+Let L [1..n1+1] and R[1..n2}1] be new arrays
+for i = 1 to n1
+	L[i] = A[p+i-1] //copies the vlaues of the left subarray in L[]
+for j = 1 to n2
+	R[j] = A[q+j] //copies the value of teh right subarray in R[]
+L[n1 + 1] = infinty //appends sentinel
+R[n2+1] = infinty //appends sentinel
+i = 1 // index for keepign track of values in left subarray
+j = 1 //index for keeping track of values in right subarray
+for k = p to r //k is an index for accessing vlaues of A[]
+	if L[i] =< R[j] //infinty used here! Get next smallest elemnt to add to A[]
+		A[k] = L[i] //Choose left subarray vlaue (if smaller)
+		i = i+1 //Increment left subarray's index (to get next one in L)
+	else A[k] = R[j] //Else, choose right subarray value
+		j = j+1 //Increment the right subarray's index ( to get next on in R)
+```
+
+```c++
+void merge(int A[], int p, int q, int r){  
+	int n1 = q-p+1;  
+	int n2 = r-q;  
+	int i, j;  
+	int* L = new int[n1+1];  
+	int* R = new int[n2+1];  
+	for (i=0; i<n1; i++)  
+		L[i]=A[p+i];  
+	for (j=0; j<n2; j++)  
+		R[j]=A[q+1+j];  
+	int maxAval = maxVal(A, p, r);  
+	L[n1]=maxAval+1;  
+	R[n2]=maxAval+1;  
+	i=j=0;  
+	for (int k=p; k<=r; k++){  
+		if (L[i] <= R[j])  
+			A[k]=L[i++];  
+		else A[k]=R[j++];  
+	}  
+	delete[] L;  
+	delete[] R;  
+}  
+int maxVal(int A[], int p, int r){  
+	int maxA = A[p];  
+	for (int i=p+1; i<=r; i++){  
+		if (A[i]>maxA)  
+			maxA = A[i];  
+		}  
+	return maxA;  
+}
+```
+
+![[Pasted image 20231101082736.png]]
+
+![[Pasted image 20231116103310.png]]
+
+### Recurrence Equation
+
+Merge will overwrite all $n$ values of the array in the last step, so $f(n)=n$. There are two calls to merge sort, and merge-sort is called twice each with input as basically half the size. The base case is with singleton values ($n_b=1$) and no values are overwritten in this case, so $T(1)=0$. Overall, we have:
+
+$$T(n)=2T(\frac{n}{2})+n; \space \space \space T(1)=0$$
+#### Master Method
+
+Since we have $a=2, b=2$, so $\log_b a = \log_2 2 = 1$ and $n^{\log_b a} = n$. Thus, $f(n) = \Theta (n^{\log_b a})$, which is Case 2 of the Master Theorem, so $\Theta(T(n)) = \Theta(n \lg n)$
+
+#### Substitution Method
+
+Assume that $n=2^k$ and write a few values of the recurrence equation as:
+
+$$T(2^k) = 2T(2^{k-1})+2^k$$
+$$T(2^{k-1}) = 2T(2^{k-2})+2^{k-1}$$
+$$T(2^{k-2}) = 2T(2^{k-3})+2^{k-2}$$
+
+Substitute to find the pattern:
+
+$$T(2^k)= 2T(2^{k-1}) +2^k$$
+$$= 2[2T(2^{k-2}+2^{k-1}]+2^k$$
+$$=2[2[2T(2^{k-3}+2^{k-2}]+2^{k-1}]+2^k$$
+$$=2^3T(2^{k-3})+(3)2^k$$
+
+Find Pattern
+
+$$T(2^k)=2^iT(2^{k-i})+i*2^k$$
+For base case, $T(1) = 0$, we let $i=k$, to get (note that $n=2^k$)
+$$T(2^k) = 2^kT(1)+k*2^k=kn$$
+But, with $n-2^k$, take the $\lg$ of each side to get $k=\lg n$, so:
+$$T(n)=n\lg n$$
+so
+$$T(n) = \Theta(n \lg n)$$
+
+## Quick Sort
+
+```ad-summary
+**Divide:**: Partition the subarray $A[p..r]$ into two subarrays $A[p..q-1]$ and $A[q+1..r]$ such that:
+- Each value in $A[p..q-1] \le A[q]$ (pivot)
+- Each value in $A[q+1..r] \ge A[q]$ (pivot)
+
+**Conquer**: Sort the two subarrays by recursive function calls to quicksort
+
+**Combine**: The subarrays are sorted in place, so no additional work is needed!
+
+```
+
+
+```ad-note
+- `i` is the loop counter that is keeping track of where to place the pivot
+- Swaps the pviot location's value with the value @ `i+1`
+```
+
+![[Pasted image 20231115082313.png]]
+
+
+![[Drawing 2023-11-15 08.17.48.excalidraw]]
+
+![[Pasted image 20231115082434.png]]
+
+
+### Example 1: Quicksort Average-Case Example
+
+```ad-question
+Demonstrate the steps of quicksort on the array given below
+- (Notice how the pivot is a value in the middle of the range of values in the array)
+![[Pasted image 20231115083301.png]]
+```
+
+![[Pasted image 20231115083312.png]]
+
+
+### Example 2: Worst-Case Example
+
+```ad-question
+Demonstrate the steps of quicksort on the array given below:
+![[Pasted image 20231115083431.png]]
+```
+
+![[Pasted image 20231115083509.png]]
+
+### Pseudocode
+
+```
+QUICKSORT(A, p, r)
+	if p < r //Base case is p=r
+		q = PARTITION(A, p, r) //get pivot lcoaiton and move elements about pivot
+		QUICKSORT(A, p, q-1) //Quicksort the left subarray
+		QUICKSORT(A, q+1, r) //Quicksort the right subarray
+```
+
+```
+PARTITION(A,p,r)
+	pivot = A[r] //using last element in the subarray as the pivot
+	i=p-1 //index to track whereto place the pivot
+	for j = p to r - 1 //do not need to check the pivot, so stop at r-1
+		if A[j] <= pivot
+			i++
+			swap A[i] <-> A[j]
+	swap[i+1] <-> A[r]
+	return i+1
+```
+
+### Code
+
+```c++
+void quickSort(int arr[], int p, int r) {
+	if (p < r)
+		//Partition the array and get the pivot index
+		int q = partition(arr, p, r);
+		
+		//Recursively sort the subarrays on both sides of the pivot
+		quickSort(arr, p, q - 1);
+		quickSort(arr, q + 1, r);
+}
+```
+
+```c++
+int partition(int arr[], int p, int r) {
+	int pivot = arr[r]; //Choose the rightmost element as the pivot
+	int i = p - 1; //Index of the smallest element
+	int tmp;
+	for (int j = p; j < r; j++) {
+		//If the current element is smaller than or equal to the pivot
+		if (arr[j] <= pivot) {
+			i++;
+			tmp = arr[i];
+			arr[i] = arr[j];
+			arr[j] = tmp;
+		}
+	}
+	tmp = arr[i+1] //Swap the pivot element witht he element at (i+1)
+	arr[i+1] = arr[r];
+	arr[r] = tmp;
+	return i+1; // return the pivot index
+}
+```
+### Recurrence Equations
+
+#### Best Case
+
+```ad-important
+Pivot is always in the middle of the range of vlaues of the subarray
+- Splits the subarrays evenly into two equal sizes
+```
+
+$$T(n) = 2T(\frac{n}{2})+ \Theta(n)$$
+**Master Method (case 2) gives**:
+$$T(n) = \Theta(n \lg n)$$
+
+#### Worst Case
+
+```ad-important
+Pivot is always the largest/smallest value in the range of values
+- Only reduces size by one
+```
+
+$$T(n) = T(n-1) + \Theta(n)$$
+
+**Use substitution along with upper or lower bound for $f(n)$**
+
+$$T(n) \le T(n-n) + c_2(\sum_{i=1}^n i) = \Theta(1) + c_2(\frac{n^2+n}{2})$$
+**And**
+$$T(n) \ge \Theta(1) + c_1(\frac{n^2+n}{2})$$
+$$\therefore T(n)=\Theta(n^2)$$
 # Divide-and-Conquer
 
 ```ad-summary
