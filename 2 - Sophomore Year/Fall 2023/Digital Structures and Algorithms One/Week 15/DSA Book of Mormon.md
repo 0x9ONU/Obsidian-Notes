@@ -586,6 +586,19 @@ int mystery1 (int A[], int n) {
 
 $$T(n) = c_1+c_2+C_3(n+1)+(\frac{c_4}{2})(n^2+n)+(\frac{c_5}{2})(n^2-n) + (\frac{c_6}{2})(n^2-n)+c_7$$
 $$\therefore T(n) = O(n^2)$$
+
+### Merge and Merge-Sort Pseudocode 
+
+```
+Merge(A, p, q, r)
+n1 = q-p+1
+n2 = r-q
+let L[1..n1 + 1] and $[1.. n2 + 1] be new arrays
+for i = 1 to n2
+	L[i] = A[p+i-1]
+for j=1 to n2
+```
+
 # Sorting
 
 ```ad-summary
