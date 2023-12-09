@@ -1870,14 +1870,155 @@ If implemented on a static array or linked list, what would the asymptotic run-t
 
 ### C++ Code
 
-#### Linear
+#### Static Linear
 
-#### Circular
+```ad-question
+Write the C++ code to implement a single integer linear queue class with 5 elements, and using -1 for the rear index to indciate an empty queue. Implement the public member funcitons given below.
+```
+
+```c++
+class Queue {
+private:
+	int front = 0; //to mark the front element of the Queue (always 0)
+	int rear; //to mark the rear element of the Queue (-1 indicates empty)
+	int arr[5]; //5-int static array as teh Queue container
+
+public:
+	Queue(); //Initalize with front = 0 and rear = -1
+	//destructor not needed since no dynamic memory
+	void enqueue(int x); //use isFull() in your implementation
+	int dequeue(); //use isEmpty() and a for-loop to move elements
+	int peek();
+	bool isEmpty();
+	bool isFull();
+};
+
+Queue::Queue() {
+	rear = -1;
+}
+
+bool Queue::isEmpty() {
+	if (rear < 0)
+		return true;
+	else
+		return false;
+}
+
+bool Queue::enqueue(int x) {
+	if(isFull()) {
+		cerr << "Full Queue! \n";
+		exit(1);
+	} else {
+		rear++;
+		arr[rear]=x;
+	}
+}
+
+int Queue::dequeue() {
+	if (isEmpty()) {
+		cerr << "Qeueue should not be empty" << endl;
+		exit(1);
+	} else {
+		int return Val = arr[front] // save 1st val
+		for (int j = 0; j < rear; j++) //for-loop to shift
+			arr[j] = arr[j+1]; //copy next one
+		rear--; //update rear
+		return returnVal; //return saved front
+	}
+}
+
+int Queue::peek() {
+	if(isEmpty()) {
+		cerr << "Queue should not be empty" << endl;
+		exit(1);
+	} else
+		return arr[front];
+}
+
+```
+
+#### Dynamic Circular
 
 ```ad-question
 Write a C++ code to implement a single integer ciruclar queue class with 5 elements, and using `front == rear` to indicate an empty queue. Implement the public member functions given below.
 ```
 
+```c++
+class Queue {
+private:
+	int front; //to mark the front element of the Queue
+	int rear; //to mark the rear element of the Queue
+	int *arr; //dynamic array as the Queue container
+	int capacity; //capacity is the max number of elements the Queue holds
+
+public:
+	Queue(int c=5);      //default capacity is 5 if not given 
+	~Queue();            //deconstructor is needed sinc ethere is dynamic memeory
+	bool enqueue(int x); //use isFUll() in your implementation
+	bool dequeue()       //use isEmpty() in your implementation
+	int peek();
+	bool isEmpty();
+	bool isFull()
+};
+
+Queue::Queue(itn c = 5) {
+	capacity = c;
+	arr = new int[c];
+	front = 0;
+	rear = 0;
+}
+
+bool Queue::~Queue() {
+	delete[] arr;
+}
+
+bool Queue::isEmpty() {
+	if (front == rear) {
+		return true;
+	} else {
+		return false;
+	}
+}
+
+bool Queue::isFull() {
+	if(front == (rear+1) % capacity) {
+		return true;
+	} else {
+		return false;
+	}
+}
+
+bool Queue::enqueue(int x) {
+	if (isFull()) {
+		cout << "Queue should not be full" << endl;
+		return false;
+	} else {
+		arr[rear] = x;
+		rear = (rear + 1) % capacity;
+		return true;
+	}
+}
+
+int Queue::dequeue() {
+	if (isEmpty()) {
+		cerr << "Queue should not be empty" << endl;
+		exit(1);
+	}
+	
+	int result = arr[front];
+	front = (front+1) % capacity;
+	return result;
+}
+
+int Queue::peak() {
+	if(isEmpty()) {
+		cerr << "Queue should not be empty" << endl;
+		exit(1);
+	} else {
+		return arr[front];
+	}
+}
+```
 
 # Binary Trees vs. Binary Search Trees (BSTs)
 
@@ -1889,12 +2030,12 @@ title: Goal
 - Know the time complexity for binary search tree (BST) operations, wrost-case and best-case. ALso distinguish search in a BST vs. binary tree.
 ```
 
+
 # Cumulative Knowledge
 
 ```ad-summary
 title: Goals
-- Given a specific application of data, be able to reason about the best data structure for that applicaiton based on your knowledge of what the advantages and disadvantages of each data structure are for a specific algorithm (ex. inseriton, deletion, search, finding min/max etc.)
-- or principle features of the data structures (LIFO, FIFO, binary search, etc.)
+- Given a specific application of data, be able to reason about the best data structure for that applicaiton based on your knowledge of what the advantages and disadvantages of each data structure are for a specific algorithm (ex. inseriton, deletion, search, finding min/max etc.) or principle features of the data structures (LIFO, FIFO, binary search, etc.)
 ```
 # Short Answers
 
