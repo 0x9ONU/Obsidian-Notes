@@ -1578,6 +1578,9 @@ title: Goals
 
 ## Stacks
 
+A linear data structure that operates base don the Last-In-First-Out (LIFO) principle
+
+
 
 # Binary Trees vs. Binary Search Trees (BSTs)
 
