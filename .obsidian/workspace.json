@@ -195,100 +195,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "507924f6cc2607b2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c85f5bc13fead0af",
-        "type": "window",
-        "children": [
-          {
-            "id": "11dcc3027fecee80",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "032f2fac72f35da3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA week 14 - Day 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "adfcd758882539b5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c93a71cc4eb77d1f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 3.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1fb99dfc1ffa1f7a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e4f424fd4c00f3d9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 896,
-        "height": 1072,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
   "active": "2b2260d659c1be11",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA week 14 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 1.md",
+    "General Notes/Pasted image 20231209172332.png",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
+    "General Notes/Pasted image 20231209171820.png",
+    "General Notes/Pasted image 20231209171808.png",
+    "General Notes/Pasted image 20231209171728.png",
+    "General Notes/Pasted image 20231209171719.png",
+    "General Notes/Pasted image 20231209171705.png",
+    "General Notes/Pasted image 20231209171645.png",
+    "General Notes/Pasted image 20231209171629.png",
+    "General Notes/Pasted image 20231209171533.png",
+    "General Notes/Pasted image 20231209171132.png",
+    "General Notes/Pasted image 20231209170552.png",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA week 14 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 2.md",
@@ -302,22 +227,11 @@
     "General Notes/Circuits Final Review 2023-12-08 11.08.20.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Final Review.md",
     "General Notes/Physics I Final Review 2023-12-08 10.45.58.excalidraw.md",
-    "General Notes/Pasted image 20231208104201.png",
-    "General Notes/Pasted image 20231208103530.png",
     "General Notes/Physics I Final Review 2023-12-08 10.26.15.excalidraw.md",
-    "General Notes/Pasted image 20231208102521.png",
     "General Notes/Physics I Final Review 2023-12-08 10.19.12.excalidraw.md",
-    "General Notes/Pasted image 20231208101815.png",
     "General Notes/Physics I Final Review 2023-12-08 10.14.52.excalidraw.md",
     "General Notes/Physics I Final Review 2023-12-08 10.08.50.excalidraw.md",
     "General Notes/Physics I Final Review 2023-12-08 10.03.20.excalidraw.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Review Session 1.md",
-    "General Notes/Pasted image 20231206113432.png",
-    "General Notes/Pasted image 20231206103649.png",
-    "General Notes/Pasted image 20231206103353.png",
-    "General Notes/Pasted image 20231206102945.png",
-    "General Notes/Pasted image 20231206081831.png",
-    "General Notes/Pasted image 20231206081455.png"
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 3.md"
   ]
 }

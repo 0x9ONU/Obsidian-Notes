@@ -128,6 +128,6 @@ $$\Omega(1)$$
 **Worst-Case**: When it is at the bottom:
 
 $$O(h)$$
-## Successor Algorithm
+
 
    

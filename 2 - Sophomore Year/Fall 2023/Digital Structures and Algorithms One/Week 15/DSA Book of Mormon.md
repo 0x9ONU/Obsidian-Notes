@@ -9,6 +9,7 @@ File Folder: Week 15
 As the one and true God of DSA said in His holy words:
 - "No loop invariants or Formal Proofs on the Final"
 - ✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟✟
+- PRAISE THE LORD FOR HE HAS GRACED US WITH IS PRESENCE
 ```
 # Algorithms
 
@@ -2030,13 +2031,562 @@ title: Goal
 - Know the time complexity for binary search tree (BST) operations, wrost-case and best-case. ALso distinguish search in a BST vs. binary tree.
 ```
 
+## Main Properties
 
+- Each node has at most 2 children
+- Edges
+	- Denotes a relationship with pairs of nodes
+	- Uni-directional or bi-directional
+- Descendant/Children
+- Ancestor/Parent
+- Path
+	- Takes you from one node on the tree to another
+	- $A \rightarrow B \rightarrow E \rightarrow J$
+	- CANNOT repeat nodes when listing a path
+
+![[Pasted image 20231201081158.png]]
+
+- **Depth** (of a node) =  # edges from root to node
+- **Height** = maximal depth in the tree
+- **Full tree** = Each node has either 0 or 2 children
+- **Complete** = all levels filled with nodes except last
+- **Balanced** = height of the left and right subtree of any node differ by at most 1
+
+![[Pasted image 20231201081319.png]]
+
+```ad-example
+Balanced Binary Tree that is **not** complete
+![[Pasted image 20231201081742.png]]
+
+```
+
+### Benefits of Trees
+
+- Structural relationships in data
+- Hierarchies
+- Can move subtrees without much effort
+- Efficient searching and insertion:
+	- $O(h)$, where $h$ is the height of the tree
+
+```ad-note
+Worse case looks like a singly linked list where every child of the root node has only one child and you want to get the only leaf in the structure
+```
+
+### Binary Search Trees (BSTs)
+
+```ad-important
+title: Binary Search Tree Property
+For each node $j$ (where $j$ is a node pointer)
+- If $i$ is a node in $j$'s left subtree:
+$$i \rightarrow key \le j \rightarrow key$$
+- If $k$ is a node if $j$'s right subtree:
+$$k \rightarrow key \ge j \rightarrow key$$
+```
+
+```ad-example
+- $root\rightarrow key = 10$
+- Min value = 4
+- Max value = 21
+```
+
+![[Pasted image 20231201082439.png]]
+
+#### Tree Traversal
+
+- "Visiting" a node (or "processing" it)
+- Visit each node in the tree = tree traversal
+- Two major groupings:
+	- **Breadth-First Traversal**
+		- Visit each node at a given layer before moving to the next layer
+	- **Depth-First Traversal**
+		- Visit leftmost branch first going to leaf nodes early
+
+##### Breadth-First Traversal
+
+Goes in the following order:
+- 8, 5, 4, 9, 7, 11, 1, 12, 3, 2
+
+![[DSA Week 14 - Day 3 2023-12-01 08.28.30.excalidraw]]
+**
+##### Depth-First Traversal Approaches
+
+**Recusively Implemented**
+
+1. **Pre Order** traversal - visit the parent first and then left and right children ($p-l-r$)
+2. **In Order** traversal - Visit the left child, then the parent and the right hcild ($l-p-r$)
+3. **Post Order** traversal - visit left child, then the right child and then the parent ($l-r-p$)
+
+```ad-example
+![[Pasted image 20231201083202.png]]
+- **Preorder**
+	- 8, 5, 9, 7, 1, 12, 2, 4, 11, 3
+- **In Order**
+	- 9, 5, 1, 7 2, 12, 8, 4, 3, 11
+- **Post Order**
+	- 9, 1, 2, 12, 7, 5, 3, 11, 4, 8
+```
+
+#### BST Implementation with Array
+
+- **Breadth-First Representation**
+- Children of $i$ at indices $2i+1$ and $2i+2$
+- Parent (if any) at $\lfloor \frac{i-1}{2} \rfloor$
+
+![[Pasted image 20231201084626.png]]
+
+```ad-example
+If the array was larger:
+- Index for left child of 9? **19**
+- Right child? **20**
+```
+
+#### BST Implementation as Nodes Using Pointers
+
+- More efficient insertion and deletion
+	- $O(h)$ where $h$ is the height of the tree
+- Uses a divide-and-conquer solution
+	- Subproblem = subtree
+
+## BST Operations
+**Search**: Given a BST and a key, check if the given BST contains the key or not.
+
+**Insert**: Given a BST and a key, insert the key at the proper location while maintaining the BST property.
+
+**Delete**: Given a BST and a key, delete the key from the BST (if found) while maintaining BST properties.
+
+### Adding (insert) Nodes to a BST
+
+- Compare the data value to each node, and:
+	- Move to left child (if <)
+	- Move to right child (if >)
+	- Place the node once nullptr is reached
+
+#### Example
+
+```ad-question
+Add the following key values to the tree:
+- 2
+- 16
+- 15
+
+![[Pasted image 20231204082329.png]]
+```
+
+![[Pasted image 20231204082338.png]]
+### Deleting a Node
+
+3 Cases: Need node pointers to node and its parent
+
+#### Case 1: Deleting a leaf 
+
+![[Pasted image 20231204082442.png]]
+
+![[Pasted image 20231204082451.png]]
+
+#### Case 2: Deleting a Node with one child
+
+When deleting 10, replace node 10 with its child (and its subtree)
+
+![[Pasted image 20231204082532.png]]
+
+![[Pasted image 20231204082543.png]]
+
+#### Case 3: Deleting a Node with 2 children
+
+##### Case 3a: Successor (next largest key value) is right child
+
+When deleting 14, it takes the next largest key (15) and replaces it
+
+```ad-important
+To be the successor, the to-be-successor node CANNOT have a left child
+```
+
+![[Pasted image 20231204082715.png]]
+
+##### Case 3a: Successor is NOT right child
+
+- Successor is 4
+- Replace 4 with right child's subtree (4 -  no left child)
+- Then, replace 3 with successor 4
+
+![[Pasted image 20231204083122.png]]
+
+![[Pasted image 20231204083130.png]]
+
+## BST Algorithms
+
+### BST Class Data Members
+
+```c++
+class BSTree {
+	struct Node {
+		int key; //key data
+		Node* left; //pointer to left subtree
+		Node* right; //pointer to right subtree
+		Node* p; //pointer to parent node
+	};
+	Node* root;
+};
+```
+
+### Min/Max Algorithms
+
+```
+Alg: BST-MIN(x)
+while x NOT = NIL
+	if x.left = NIL
+		return x
+	else
+		x <-x.left
+return x
+```
+
+```
+Alg: BST-MAX(x)
+while x NOT NIL
+	if x.right = NIL
+		return x
+	else
+		x <- x.right
+```
+
+```ad-note
+If done without a parameter, it typically starts at the root. So, x would initally be set to the root before searching for the min/max
+```
+
+#### Run-Time Complexity
+
+**Best-Case**: When the minimum/max is the root:
+
+$$\Omega(1)$$
+**Worst-Case**: When it is at the bottom:
+
+$$O(h)$$
+
+### Successor
+
+```
+if x.right NOT = NIL
+	return TREE-MINIMUM(x.right)
+y = x.p
+while y NOT = NIL and x = y.right
+	x - y
+	y = y.p
+return y
+```
+
+![[Pasted image 20231206081455.png]]
+
+Successor is the next largest key:
+- Successor of 3 is 4
+- Successor of 13 is 14
+- Successor of 7 is 8
+- Successor of 14 is NIL
+
+### Search
+
+#### Recursion
+
+```
+TREE-SEARCH(x, k)
+if x = NIL or k = x.key
+	return x
+if k < x.key
+	return TREE-SEARCH(x.left, k)
+else reutrn TREE-SEARCH(x.right,k)
+```
+
+![[Pasted image 20231206081831.png]]
+
+##### Balanced Recurrence Equations
+**If balanced, the recurrence equation for worst case:**
+
+$$T(n)\approx T(\frac{n}{2}) +1$$
+
+**Using Master Theorem**
+
+$$a=1, b = 2$$
+$$\# \space children = n^{\log_ba} = n^{\log_21} = n^0 = 1$$
+**case 2**:
+$$f(n)=\Theta(1)$$
+
+Multiply by one log to find worst case:
+
+$$T(n) = \Theta(\lg n)$$
+
+**Best case**:
+$$\Theta(1)$$
+*Stop after find root has the key*
+
+##### In General...
+
+**Worst-Case** for search is $O(h)$, which can be $O(n)$ if the tree is linear
+
+#### Iterative Tree Search
+
+```
+ITERATIVE-TREE-SEARCH(x, k)
+while x NOT = NIL and k NOT = x.key
+	if k < x.key
+		x = x.left
+	else x = x.right
+return x
+```
+
+```ad-note
+The time complexity DOES NOT change
+```
+
+### Insertion
+
+```
+TREE-INSERT(T, z)
+y <- NIL
+x <- T.root
+while x NOT = NIL
+	y = x
+	if z.key < x.key
+		x = x.left
+	else x = x.right
+z.p = y
+if y = NIL
+	T.root = z //Tree T was empty
+else if z.key < y.key
+	y.left = z
+else y.right = z
+```
+
+**Best-Case: If root has an open child (left or right) and the node's key should go there**
+$$\Theta(1)$$
+
+**Worst-Case: Have to place it at a leaf node whose depth = height**
+$$O(h)$$
+
+### Subtree Transplant
+
+```
+TRANSPLANT(T, u, v)
+if u.p = NIL
+	T.root <- v
+else if u = u.p.left
+	u.p.left <- v
+else u.p.right <- v
+if v NOT = NIL
+	v.p <- u.p
+```
+
+- Node $u$ and node $v$ are roots of subtrees
+- Node $u$'s parent will become node $v$'s parent (and becomes same child)
+- Helpful for Node Deletion
+
+### Deleting a Node
+
+**Case 1: Deleting a Leaf Node**
+- Handled by Lines 1 and 2
+**Case 2: Deleting node w/ 1 child**
+- ALSO Handled by Lines 1 and 2
+**Case 3: Deleting node w/ 2 children**
+- Uses the rest of the code
+- tree-minimum will ALWAYS find the successor since there will always be a right node
+
+```
+if z.left = NIL
+	TRANSPLANT(T, z, z.right)
+else if z.right = NIL
+	TRANSPLANT(T, z, z.left)
+else y <- TREE-MINIMUM(z.left)
+	if y.p NOT = z
+		TRANSPLANT(T, y, y.right)
+		y.right <- z.right
+		y.right.p <- y
+	TRANSPLANT(T, z, y)
+	y.left = z.left
+	y.left.p = y
+```
+
+## More Examples
+
+### Example 1: HW 10-1
+
+```ad-question
+1. Draw the binary search tree that is created fi the following letters are inserted in the tree in the given order (Hint: Apply alphabetical ordering). Do not add any uplicate values to your tree.
+$$\space$$
+$$\space$$
+$$\space$$
+$$O, H, I, O, N, O, R, T, H, E, R, N$$
+$$\space$$
+2. Answer the following questions based on part 1
+```
+
+**Part 1:**
+
+![[Pasted image 20231209165911.png]]
+
+**Part 2:**
+
+- Which node(s) is(are) the roots of this tree? **O**
+- What are the leaf nodes of this tree? **E, N, T**
+- Which node(s) is(are) the parent of node H in this tree? **O**
+- Which pair(s) of node(s) is(are) the siblings in this tree? **H & R, E & I**
+- What is the depth of node T? **2**
+- What is the height of this tree? **3**
+- Is the tree full, or complete, balanced or none of these? **Balanced**
+- What keys are traversed when we search for I for Breadth-First Traversal? **O H R E I**
+- What keys are traversed when we search for I using In Order Traversal? **E H I**
+
+### Example 2: HW 10-2
+
+```ad-question
+1. Write the node sequences for pre-order, in-order, post-order and level-order traversal of the BST below:
+2. Is the above tree a complete tree, full tree, balanced tree, a combination or none? Define complete, full, and balanced tree.
+
+![[Pasted image 20231209170552.png]]
+```
+
+**Part 1:**
+
+*Pre-Order*: 7, 4, 2, 3, 6, 5, 12, 9, 8, 11, 19, 15, 20
+*In-Order*: 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 19, 20
+*Post-Order*: 3, 2, 5, 6, 4, 8, 11, 9, 15, 20, 19, 12, 7
+*Level-Order*: 7, 4, 12, 2, 6, 9, 19, 3, 5, 8, 11, 15, 20
+
+**Part 2:**
+
+It is a **Balanced** and **Complete** Tree
+
+**Complete Tree**: Complete tree all its levels filled except the last one and the last level is filled left to right.
+
+**Full Tree:** A full tree is one whose nodes either have 2 children or no children.
+
+**Balanced Binary Tree:** A balanced tree is one whose height of the left and right subtree of every node differ by at most one.
+
+### Example 3: HW 10 - 3 
+
+```ad-question
+1. Create a binary tree using the below string array which has the names of animals. Use the formulas `2i+1` and `2i+2` to find the children of any node at index `i`
+![[Pasted image 20231209171132.png]]
+2. Is the tree full, complete, balanced, a combination, or non of these? Would the tree be classified as a Binary Search Tree?
+3. Draw the additions to the tree that would result if nodes with the following key values were inserted in this order:
+	- Snake
+	- Zebra
+	- Duck
+4. Draw the modifications to the three that would result if nodes with the folowing key values were deleted (in this order)
+	- Monkey
+	- Snake
+	- Lion
+	- Tiger
+	- Horse
+	- Cow
+```
+
+**Part 1:**
+
+![[Pasted image 20231209171533.png]]
+
+**Part 2**
+
+It is not a full tree, but it is complete and balanced. And yes, it is a BST, as it satisfies the BST property that all nodes to the left are less and all nodes to the right are greater than their parent nodes.
+
+**Part 3**
+
+![[Pasted image 20231209171629.png]]
+
+**Part 4:
+
+- Monkey
+
+![[Pasted image 20231209171645.png]]
+
+- Snake
+
+![[Pasted image 20231209171705.png]]
+
+- Lion
+
+![[Pasted image 20231209171719.png]]
+
+- Tiger
+![[Pasted image 20231209171808.png]]
+
+- Horse
+
+![[Pasted image 20231209171820.png]]
+
+- Cow
+
+![[Pasted image 20231209171728.png]]
+
+### Example 4: Practice Final #2
+
+```ad-question
+1. Given the following Binary Search Tree (BST), determine the order of traversing the nodes in the following cases:
+- In-Order traversal
+- Pre-Order traversal
+- Post-Order traversal
+2. Suppose we have numbers between 1 and 100 in a BST and want to search for the number 45. Which (possibly multiple) of the following sequences could be the sequence of nodes visited in the search? Explain your answers. Note: The vlaues are the key values of each node
+3. Suppose we first insert a node with key $x$ into a BSt that does not already contain $x$. Suppose we then immediately delete $x$ from the tree. Will the new tree be identical to the orignal one? If yes, give an eplanation for your answer. If no, give a counter example. Draw pictures if necessary.
+![[Pasted image 20231209172332.png]]
+```
+
+**Part 1:**
+
+*In-Order*: 16, 25, 41,42, 36, 53, 55, 60, 62, 63, 64, 65, 70, 74
+
+```ad-note
+Always in order
+```
+
+*Pre-Order*: 60, 41, 16, 25, 53, 46, 42, 55, 74, 65, 63, 62, 64, 70
+
+```ad-note
+Root is always first
+```
+
+*Post-Order*: 25, 16, 42, 46, 55, 53, 41, 62, 64, 63, 70, 65, 74, 60
+
+```ad-note
+Root is always last
+```
+
+**Part 2:**
+
+- 5, 2, 1, 10, 39, 34, 77, 63
+Since 45 is the search key, after visiting the key value of 5 at the root, it would move right to a node with a larger value. But, 2 is smaller than 5, so this ***COULD NOT*** be a sequence of key values for a search in a BST
+
+- 1, 2, 3, 4, 5, 6, 7, 8
+Since the keys get larger, it is feasible that this would be the sequence of nodes visited in a BST search.
+
+- 8, 7, 6, 5, 4, 3, 2, 1
+Again, the value went down after the root with value 8. Since the search key is 45, it should not have gone up; hence, this **COULD NOT** be a sequence of key values for a search in BST.
+
+- 50, 25, 26, 27, 40, 44, 42
+This is nearly a viable sequence of nodes, but the last step does not match. Since 45 is greater than 44, we would expect the next key value to be greater, not less than 44. Hence, this **COULD NOT** be a sequence of key values for a search in a BST
+- 50, 25, 26, 27, 40, 44
+This is a viable sequence of nodes since 45 is to the right of 44 and no other violations occur.
+
+**Part 3:**
+
+When a node is inserted, it has no children, and hence is a leaf node. Deleting a leaf node does not change the rest of the tree. Hence, the BST will appear unchanged after inserting and then immediately deleting the node.
 # Cumulative Knowledge
 
 ```ad-summary
 title: Goals
 - Given a specific application of data, be able to reason about the best data structure for that applicaiton based on your knowledge of what the advantages and disadvantages of each data structure are for a specific algorithm (ex. inseriton, deletion, search, finding min/max etc.) or principle features of the data structures (LIFO, FIFO, binary search, etc.)
 ```
+
+```ad-question
+For each of the scenarios below indicate whether it would be better to use an array, linked list, queue, stack, or binary search tree to organize the data for the scenario. Provide brief justification.
+- A dataset with satellite data needs to be searched often and quickly, but the dataset does not change very often.
+- The data should be temporarily held between a microcontroller and its transceiver as the data packets are being readied to be transmitted on the antenna. The order of the packets should be preserved.
+- The data is the history of websites visited in a web browser and the goal is to implement a back button.
+- The dataset contains user records, the set is dynamic, and has many insertions and deletions, but order is not important.
+```
+
+1. Satellite data needed means a node-based data structure is a good option. Binary Search Tree (BST) is the best option, since search is fast with BSTs, and not having constant run-time for insertion/deletion (like a linked list can have) is not a big issue here since the dataset does not change often
+2. Since the order of the packets should be preserved this is a buffering type of application, which makes use of the FIFO principle of queues. Hence, a queue is the best choice.
+3. Since we want to undo an operation (this is what a back button does), which means the last operation would be the first to be undone, this uses the LIFO principle, which means a stack is the best option.
+4. Since records need to be dynamic with many insertions and deletions, and order is not important, a linked list is the best option. It has constant run-time insertion when order is not important (e.g., at the head). While deletion, which may require a search is then worst-case linear, the deletion itself is constant time.
+
 # Short Answers
 
 ## Binary Trees and Binary Search Trees (BSTs)
