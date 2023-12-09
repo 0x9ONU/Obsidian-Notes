@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e26827ff3ae85f7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md"
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md"
               }
             }
           }
@@ -182,10 +170,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e26827ff3ae85f7d",
+  "active": "c207b49f638b03f6",
   "lastOpenFiles": [
-    "General Notes/Circuits Final Review 2023-12-08 11.49.04.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
+    "General Notes/Circuits Final Review 2023-12-08 11.49.04.excalidraw.md",
     "General Notes/Circuits Final Review 2023-12-08 11.44.12.excalidraw.md",
     "General Notes/Circuits Final Review 2023-12-08 11.08.20.excalidraw.md",
     "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Final Review.md",

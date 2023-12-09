@@ -47,53 +47,69 @@ A queue data structure is a linear data structure that implements the First-In-F
 8. Describe how a (fixed size) circular queue may be implemented with constant run-time enqueue and dequeue operations on a static array of size $n$.
 
 A circular queue may be implemented on a static array of size $n$ by keeping track of the front and rear indexes. AN empty queue may be encoded by the condition that the front and rear indexes are equal, and a full queue may be encoded by the condition that the front is one more than then rear, modulo $n$ (meaning either `front = rear + 1` if `0 < front < n`, OR `front = 0` when `rear=n-1`). This allows a capacity of `n-1` for the queue. Enqueueing is done when the queue is not full by adding the data element at the rear and then incrementing the rear index modulo $n$ (meaning if `rear = n-1` prior to enqueueing, it will become 0 after the enqueue operation). Dequeuing may be done when the queue is not empty by returning the element at the front then incrementing the front index modulo $n$
+## Stacks
 
+9. Describe the stack data structure with its operations of push and pop in your own words accurately
 
+A stack data structure is a linear data structure that implements the Last-In-First-Out (LIFO) principle. A new data element may be put onto the stack using the push operation and the top data element may be taken off the stack using the pop operation. If multiple data elements are put on the stack using a push operation, the last element to be put on the stack will be the first to be popped off the stack for processing (hence the LIFO name).
 
+## Linked Lists
 
+10. Describe in your own words accurately a singly linked list. Distinguish a singly linked list from a doubly linked list.
 
+A singly linked list is a linear data structure comprised of nodes encapsulating one or more data members and chained together using node pointers as links connecting one node to the next in the linked list (with the last node's next link assigned to NULL). A linked list is referenced using a node pointer called head, pointing to the first node in the linked list, and usually also has a tail pointer referencing the last node in the list. A doubly linked list contains a second linking member for each node that points to the previous node in the linked list (with the head node's previous link pointing to NULL)
 
+11. Describe the process of adding a new node to the head of a singly linked list. Use this to state and justify its worst-case complexity.
 
+IN order to add a new node to the head of a singly linked list, the new node's next pointer should be assigned to the head of the linked list. Then the head pointer can be updated to be the new node. This constant number of operations leads to worst-case time complexity of $O(1)$.
 
+12. Describe the process of deleting a node from a singly linked list with a specific key value (assume all nodes have unique key values, there is no tail pointer, and the linked list is NOT empty). Use this to state and justify its best-case and worst-case time complexities.
 
+In order to delete a node from a singly linked list, two node pointer variables should be used: current and previous. In the special case that the head node matches the key value, only one of the temporary pointer variables is needed, say current. In this case, current is set to point to the head node and then the head pointer may be updated to point to the next node in a singly linked list. Now the current node may be deleted. This constant number of operations leads to a best-case time complexity of $\Theta(1)$. Otherwise, the current node pointer can be set to the node after the head and the previous node pointer can be set to the head. A while-loop may be used to iterate through the linked list checking the key value of the current node, as long as it is not pointing to NULL (this is the condition of the while-loop). The previous node pointer is updated so as to point to the current node of the previous iteration of the while-loop. If the current node ahs a matching key, then it is deleted by first setting the next link of the previous node to reference the node that current's next link references, which keeps the linked list chained as needed. Then, the current node may be deleted and the function may return. If the while loop terminates without finding the key (meaning the key is not in the linked list), the function may return without deleting any node. The worst-case scenario is when the key is not present, or it is the last node, and in either case, the complexity is $\Theta(n)$, where $n$ is the number of nodes in the linked list. Thus, node deletion is $\Omega(1)$ and $O(n)$
 
+13. Describe how to traverse a linked list to print the key of each node in the list. Describe its run-time complexity.
 
+To traverse a linked list, a single node pointer may be used, call it current. Starting at the head, and suing a while loop, progressively display the key and move to the next node until current points to NULL. Traversal is $\Theta(n)$, always linear running time. 
 
+14. Discuss the advantages and disadvantages of dynamic arrays and linked lists in terms of access, insertion, and deletion.
 
+From the perspective of access, arrays are better because they allow random access in constant time, whereas linked lists require sequential access, which is worst-case linear time. Form the perspective of insertion (data addition), linked lists are better (assuming the dynamic array is full) because insertion at the head (or tail) may be done in constant time for a linked list, whereas insertion for a full dynamic array requires creating a new, larger dynamic array and copying over all of the data, which has linear run time. Form the perspective of deletion, they are similar, as a dynamic array may simply increment its pointer to the first element and delete the previous first element similar to how the head may be moved to the second node in the linked list and delete the old head node.
 
+## Formal Arguments and Asymptotic Complexity
 
+15. Describe what a loop invariant is and how it is used to prove the correctness of an algorithm.
 
+A loop invariant is a formal statement about the state of program variables being operated on in a loop phrased in such a way that the statement is true upon initialization (initialization step), maintained in each iteration of the loop (maintenance step), and upon exiting the loop (termination step).If the loop invariant is demonstrated to hold upon initialization and maintenance, and the statement holds meaning upon termination toward achieving the goal of the algorithm, and the algorithm terminates, or halts, then correctness can be established via the loop invariant.
 
+16. Describe what a recurrence equation is and how it is useful in the analysis of algorithms. 
 
+Recurrence equations are mathematical expressions that represent the current value of a sequence of values as a function of previous values and other terms. Because they depend on previous values, to determine a closed-from solution (equation) that solves the recurrence equation requires the initial conditions (or base cases). Recurrence equations are useful for analyzing the run-time complexity of recursive functions, including divide-and-conquer algorithms.
 
+17. Define the big $O$ notation of $O(g(n))$ in your own words accurately.
 
+$O(g(n))$ is the set of functions that asymptotically grow slower than a constant multiple of growth rate function $g(n)$. As such, the functions in the set can be upper bound by a constant multiple of $g(n)$, asymptotically.
 
+18. Define the big Omega notation $\Omega(g(n))$ in your own words accurately.
 
+$\Omega g(n)$ is the set of functions that asymptotically grow faster than a constant multiple of growth rate function $g(n)$. As such, the functions in the set can be lower bound by a constant multiple of $g(n)$, asymptotically.
 
+19. Define the big Theta notation of $\Theta(g(n))$ in your own words accurately.
 
+$\Theta(g(n))$ is a set of functions that asymptotically grow within a constant multiple of growth rate function $g(n)$. As such, the functions in the set can be tightly bound within two constant multiples of $g(n)$, asymptotically.
 
+## Divide-and-Conquer and Incremental Recursive Algorithms
 
+20. Describe how incremental recursive algorithms (implemented as functions that call themselves only once within a function with an incrementally smaller input) solve a problem, using your own words, accurately. 
 
+Recursive algorithms incrementally  make the problem smaller until a base condition is reached that can be easily solved, at which point the base solutions are recursively combined to solve the overall problem.
 
+21. Describe how divide-and-conquer algorithms solve a problem, using your own words, accurately.
 
+Divide-and-conquer algorithms partition the problem into smaller subproblems of similar kind recursively, until the subproblems can be solved directly, and then combine the results to solve the larger problem.
 
+22. Describe the Towers of Hanoi problem and how it leads to exponential running time.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The Towers of Hanoi is a puzzle involving three "towers" and $n$ disks of different radius, stacked on top of each other from largest (at the bottom) to the smallest (at the top) on the first tower. The goal is to get all disks moved to the third tower (the destination), and stacked in the same manner as initialized, while following the rules. The rules of the puzzle require that only a single disk may be moved from the top of one tower  and placed on another tower, and only smaller disks may be placed on larger disks(no larger disk may be placed on a smaller disk)> A recursive solution to the puzzle involves moving $n-1$ of the disks to the middle tower, then moving the largest disk to the destination tower, and finally moving the $n-1$ disks form the middle tower to the destination tower. This recursive solution requires two instances of the problem of size $n-1$, along with one extra move, which is what leads to the exponential number of moves (or running item).
 
 
 
