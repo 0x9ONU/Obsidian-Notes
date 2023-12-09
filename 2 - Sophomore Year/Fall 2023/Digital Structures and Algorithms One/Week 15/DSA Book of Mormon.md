@@ -111,7 +111,57 @@ Divide-and-conquer algorithms partition the problem into smaller subproblems of 
 
 The Towers of Hanoi is a puzzle involving three "towers" and $n$ disks of different radius, stacked on top of each other from largest (at the bottom) to the smallest (at the top) on the first tower. The goal is to get all disks moved to the third tower (the destination), and stacked in the same manner as initialized, while following the rules. The rules of the puzzle require that only a single disk may be moved from the top of one tower  and placed on another tower, and only smaller disks may be placed on larger disks(no larger disk may be placed on a smaller disk)> A recursive solution to the puzzle involves moving $n-1$ of the disks to the middle tower, then moving the largest disk to the destination tower, and finally moving the $n-1$ disks form the middle tower to the destination tower. This recursive solution requires two instances of the problem of size $n-1$, along with one extra move, which is what leads to the exponential number of moves (or running item).
 
+## Linear and Binary Search
 
+23. Describe how the linear search algorithm processes an array of values given a key (you may assume the values are all integers). Indicate if there are any characteristics of the data in the array that are needed for the algorithm to preform as desired.
+
+Linear search goes through each element of the array and compares it with the key. Once a match if found, it returns the index where the key match is in the array. Otherwise, if not match is found, it returns `-1`  to indicate no match is found. For linear search, no characteristics of the data are used.
+
+24. Describe how the binary search algorithm processes an array of values given a key (you may assume the values are all integers). Indicate if there are any characteristics of the data in the array that are needed for the algorithm to perform as desired.
+
+Binary search requires the data to be sorted (this is the characteristics that is used). It is a divide-and-conquer algorithm that uses the fact that the values are sorted to skip to the (approximate) midpoint value and compares it with the key.  Otherwise, if the key is smaller than the midpoint value, the binary search function is called on the left side of the array. If the key is larger than the midpoint value, the binary search function is called on the right side of the array. Recursively halving the size of the array to search with a constant factor of work to do at each function call gives an $O(\log n)$ run time.
+
+## Quick Sort and Merge Sort (Divide-and-Conquer Comparison Algorithms)
+
+25. Describe how the merge sort algorithm processes an array of values to sort them (you may assume the values are integers).
+
+Merge sort is a divide-and-conquer algorithm that divides the array into roughly halves, recursively, until the resulting subarrays are singletons, which are trivially sorted. It then combines the sorted subarrays using a merge subroutine that creates copies of the two subarrays and, starting at the front of each subarray, iteratively goes thorough each element of each subarray and places the smaller of the two values as the next element in the merged array while incrementing the index of the subarray from which that element came. Once it adds the last element of either subarray, it can append the rest of the elements of the other subarray to complete the merged array. It continues merging subarrays in this manner until the entire array is merged and sorted.
+
+26. Describe how the quick sort algorithm covered in class processes and array of values to sort them (you may assume the values are integers).
+
+The quick sort algorithm covered in class is an in-place, divide-and-conquer algorithm that recursively partitions the array (and alter subarrays) using a subroutine called Partition, which takes the last element, called the pivot, and finds the location where that element (the pivot) should be within the subarray in sorted order, places the pivot there, and then returns the index where the pivot is (in its correct position with respect to sorting). It does so by using two indexes, one that progresses thorough the subarray element-by-element that compares the pivot with each element in the array using this index. The second index is sued to keep track of the location one to the left of where the pivot should go in the subarray, and starts one position to the left of the starting index of the subarray. The second index is only incremented in the case where the next element is less than or equal to the pivot, after which the element at the updated second index is swapped with the element at the first index. This ensures that the smaller (or equal) value that is encountered is swapped with one of the larger values that were passe dover while the first index iterates thorough the subarray. Once the first index goes thorough all the elements (except the last since that is the pivot), the pivot is swapped with the value at the position of one past the second index, which places the pivot in the correct location in the subarray. After Partition is called, the quick sort algorithm is called recursively on the left side of the subarray (no including the pivot), and the right side of the subarray(again, not including the pivot), until the subarrays are of size $1$ or empty.
+
+## Incremental Sorting Algorithms
+
+27. Describe how the selection sort algorithm processes an array of values to sort them (you may assume the values are integers).
+
+Selection sort treats the front of the array as the sorted portion (initially empty) and progressively builds up the sorted portion of the array by finding the next smallest element on the right side of the array to put at the end of the sorted portion. Once it gets to the end (right side0 of the array), it swaps the values at the smallest index to the right with the value at the next index to the right of the sorted portion of the array. It continues in this manner until the entire array is the sorted portion.
+
+28. Describe how the insertion sort algorithm processes an array of values to sort them (you may assume the values are integers).
+
+Insertion sort treats the front of the array as the sorted portion (initially just the first element) and progressively builds up the sorted portion of the array by finding where in the sorted portion of the array the next element on the unsorted portion of the array (right side), called the key, should go within the sorted portion. It does so by first storing the key and then comparing the key with the rightmost element in the sorted portion. It decrements the index and shifts to the right each value in the sorted portion until the key is no longer smaller than the element at the current index within the sorted portion of the array (or it gets to the front of the array). It then places the key at that location and moves on to the next value in the sorted portion of the array. It continues in this manner until the entire array is the sorted portion.
+
+29. Describe how the bubble sort algorithm processes an array of values to sort them (you may assume the values are integers).
+
+Bubble sort treats the back of the array as the sorted portion (initially empty) and progressively builds up the sorted portion of the array by starting at the first element and performing pairwise comparisons and swaps whenever the next element is smaller than the current element. The index is progressively incremented with pairwise comparisons and potentially swapped (if the next value is smaller) until the end of the array is reached. With each iteration through the array, doing these pairwise comparisons and swaps cause the next largest element to migrate to the right side of the array, like a bubble rising to the surface of a fluid. This progressively builds up the sorted portion of the array at the backside until only one element is left, which must be trivially sorted at the front of the array (the smallest value).
+
+# General Algorithms and Data Structures
+
+30. Define what an algorithm is accurately in your own words.
+
+An algorithm is a sequence of instructions that accomplishes a task.
+
+31. Define what a data structure is accurately in your words.
+
+A data structure is a way of organizing, managing and storing information usable by a computer.
+
+32. Describe what is a dynamics set, and attributes such as the key, satellite data and linking members
+
+A dynamic set is a set that can change its elements over time. The key is an attribute of each element in the dynamic set that is searchable and also often used for organizing elements of the dynamic set (via sorting). Satellite data include all other related data in the dynamic set that would be organized with the key in the element Linking members are used to connect the data elements in the dynamic set implementation, generally implemented as pointers.
+
+33. Describe what makes a good algorithm
+
+A good algorithm should be correct (solves the problem accurately)
 
 
 
