@@ -21,6 +21,60 @@ title: Goals
 - Given pseudocode, be able to describe what an algorithm is doing.
 - Be able to write pseudocode for straightforward algorithms
 ```
+
+## What Makes a Good Algorithm?
+
+**Define what an algorithm is accurately in your own words.:**
+
+An algorithm is a sequence of instructions that accomplishes a task.
+
+**Describe what makes a good algorithm:**
+
+A good algorithm should be correct (solves the problem accurately) and efficient (in terms of time and space complexity). Time complexity is captured by asymptotic runtime complexity and space complexity is captured by the amount of additional memory required to execute the algorithm.  Some algorithms for hard problems will tradeoff correctness (close enough by some metrics of distance in a vector space may be used) for efficiency. these are called approximation algorithms.
+
+## Growth Rate of Different Functions and Asymptotic Notation
+
+
+**Running Time Complexity**
+
+| Algorithm                                                                                             | Summary                                                                                         | Best-Case         | Worst-Case       |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------- | ---------------- |
+| Insertion Sort                                                                                        | $\Omega(n) \space \& \space O(n^2)$                                                             | $\Theta(n)$       | $\Theta(n^2)$    |
+| Selection Sort                                                                                        | $\Theta(n^2)$                                                                                   | $\Theta(n^2)$     | $\Theta(n^2)$    |
+| Bubble Sort                                                                                           | $\Theta(n^2)$                                                                                   | $\Theta(n^2)$     | $\Theta(n^2)$    |
+| Merge                                                                                                 | $\Theta(n)$                                                                                     | $\Theta(n)$       | $\Theta(n)$      |
+| Merge-Sort                                                                                            | $\Theta(n\lg n)$                                                                                | $\Theta(n\lg n)$  | $\Theta(n\lg n)$ |
+| Binary Search                                                                                         | $\Omega(1) \space \& \space O(\lg n)$                                                           | $\Theta(1)$       | $\Theta(\lg n)$  |
+| Linear Search                                                                                         | $\Omega(1) \space \& \space O(n)$                                                               | $\Theta(1)$       | $O(n)$           |
+| Towers of Hanoi                                                                                       | $\Theta(2^n)$                                                                                   | $\Theta(2^n)$     | $\Theta(2^n)$    |
+| Quick Sort                                                                                            | $\Omega(n \lg n) \space \& \space O(n^2)$                                                       | $\Theta(n \lg n)$ | $\Theta(n^2)$    |
+| Insertion in Order Array                                                                              | $\Omega(1) \space \& \space O(n)$                                                               | $\Theta(1)$       | $\Theta(n)$      |
+| Deleting a Node in a Balanced BST, given a node pointer to be deleted                                 | $\Omega(1)$ deleting a leaf node, & $O(\lg n)$ if deleting root and successor is farthest away  | $\Theta(1)$       | $\Theta(\lg n)   |
+| Find Max Number in Balanced BST                                                                       | $\Theta( \lg n)$                                                                                | $\Theta(\lg n)$   | $\Theta( \lg n)$ |
+| Find the max number in a full sorted array                                                            | $\Theta(1)$                                                                                     | $\Theta(1)$       | $\Theta(1)$      |
+| Find the max number in a random linked list                                                           | $\Theta(n)$                                                                                     | $\Theta(n)$       | $\Theta(n)$      |
+| Enqueue operation of the Queue built on a dynamic array (no size limit - can increase size if needed) | $\Omega(1)$ if the array did not fill up; $O(n)$ if the array needs to grow. Copies values over | $\Theta(1)$       | $\Theta(n)$      |
+| Searching for a number in a linked list                                                               | $\Omega(1)$ if get lucky on the 1st one; $O(n)$ - not in linked list or last element            | $\Theta(1)$       | $\Theta(n)$      |
+| Searching for a number in a balanced BST                                                              | $\Omega(1)$ get lucky at root; $O(\lg n)$ - not in BST                                          | $\Theta(1)$       | $\Theta( \lg n)$ |
+| Insertion in balanced BST                                                                             | $\Theta(\lg n)$ - because balanced, lower levels have 2 children                                | $\Theta(\lg n)$   | $\Theta(\lg n)$  |
+| Enqueue operation of Queue built on a linked list                                                     | $\Theta(1)$                                                                                     | $\Theta(1)$       |  $\Theta(1)$                |
+| Searching for a number in a balanced BST                                                              | $\Omega(1)$ - get lucky at root; $O(n)$ - not there & traverse whole tree                       | $\Omega(1)$       | $O(n)$           |
+| Push operation in Stack built on a linked list                                                        | $\Theta(1)$                                                                                     | $\Theta(1)$       | $\Theta(1)$      |                                                                                                      |                                                                                                 |                   |                  |
+
+**Memory Complexity**
+
+| Algorithm                | Summary                           | Best-Case   | Worst-Case  |
+| ------------------------ | --------------------------------- | ----------- | ----------- |
+| Insertion Sort           | $\Theta(1)$                       | $\Theta(1)$ | $\Theta(1)$ |
+| Selection Sort           | $\Theta(1)$                       | $\Theta(1)$ | $\Theta(1)$ |
+| Bubble Sort              | $\Theta(1)$                       | $\Theta(1)$ | $\Theta(1)$ |
+| Merge-Sort               | $\Theta(n)$                       | $\Theta(n)$ | $\Theta(n)$ |
+| Binary Search            | $\Theta(1)$                       | $\Theta(1)$ | $\Theta(1)$ |
+| Static Stack Operations  | $\Theta(1)$                       | $\Theta(1)$ | $\Theta(1)$ |
+| Dynamic Stack Push       | $\Omega(1) \space \& \space O(n)$ | $\Theta(1)$ | $\Theta(n)$ |
+| Dynamic Stack Pop & Peek | $\Theta(1)$                       | $\Theta(1)$ | $\Theta(1)$ |
+| FIFO Queues              | $\Theta(1)$                       | $\Theta(1)$ | $\Theta(1)$ |
+|                          |                                   |             |             |
 # Sorting
 
 ```ad-summary
@@ -78,10 +132,19 @@ title: Goals
 
 ```ad-summary
 title: Goal
-- Know the terms and properties of trees ( and in particular binary trees) and binary search trees (BSTs are binary trees that satisfy the BST property on the keys of the nodes)>
+- Know the terms and properties of trees ( and in particular binary trees) and binary search trees (BSTs are binary trees that satisfy the BST property on the keys of the nodes).
+- Know how binary search tree operations work (insert/delete/search/min/max/successor).
+- Know how to traverse a binary search tree (in-order/pre-order/post-order/level-by-level).
+- Know the time complexity for binary search tree (BST) operations, wrost-case and best-case. ALso distinguish search in a BST vs. binary tree.
 ```
 
 # Cumulative Knowledge
+
+```ad-summary
+title: Goals
+- Given a specific application of data, be able to reason about the best data structure for that applicaiton based on your knowledge of what the advantages and disadvantages of each data structure are for a specific algorithm (ex. inseriton, deletion, search, finding min/max etc.)
+- or principle features of the data structures (LIFO, FIFO, binary search, etc.)
+```
 # Short Answers
 
 ## Binary Trees and Binary Search Trees (BSTs)

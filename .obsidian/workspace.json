@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "784b8e9f198cb5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4c5d58033df5bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2b2260d659c1be11",
             "type": "leaf",
             "state": {
@@ -18,8 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "032f2fac72f35da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA week 14 - Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43d833806fc8a257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -170,8 +218,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c207b49f638b03f6",
+  "active": "2b2260d659c1be11",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA week 14 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 10/DSP Week 10 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
     "General Notes/Circuits Final Review 2023-12-08 11.49.04.excalidraw.md",
     "General Notes/Circuits Final Review 2023-12-08 11.44.12.excalidraw.md",
@@ -187,21 +245,11 @@
     "General Notes/Physics I Final Review 2023-12-08 10.14.52.excalidraw.md",
     "General Notes/Physics I Final Review 2023-12-08 10.08.50.excalidraw.md",
     "General Notes/Physics I Final Review 2023-12-08 10.03.20.excalidraw.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Review Session 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA week 14 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA Week 13 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Week 15 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Midterm 2 Study List.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 1.md",
     "General Notes/Pasted image 20231206113432.png",
     "General Notes/Pasted image 20231206103649.png",
     "General Notes/Pasted image 20231206103353.png",
