@@ -1389,7 +1389,6 @@ $r$ is an element of the interval from 0 to 1 (not inclusive)
 **Thus:**
 $$T(n) = \Theta(f(n)) \Rightarrow T(n)=\Theta(n^2)$$
 
-
 # Binary Search and Linear Search
 
 ```ad-summary
@@ -1400,6 +1399,160 @@ title: Goals
 - Know how to implement binary and linear seach algoirthms in C++
 ```
 
+
+## Solving for Binary Search Given Array
+
+![[Pasted image 20231106082719.png]]
+### Example
+
+```ad-question
+Consider the array given below (showing the C++ indices underneath the array.) Apply binary search to check which index has value keyVal = 1
+```
+
+$$\begin{matrix} -2 & -1 & 0 & 1 & 5 & 7 \\ 0 & 1 & 2 & 3 & 4 & 5\end{matrix}$$
+
+**Step 1:**
+
+$$mid = \frac{(0)-(5)}{2} = 2$$
+$$\begin{matrix} -2 & -1 & 0_0 & 1 & 5 & 7 \\ 0 & 1 & 2 & 3 & 4 & 5\end{matrix}$$
+
+Chose right because $keyVal > 0$
+
+**Step 2:**
+
+$$mid = \frac{(3)+(5)}{2} = 4$$
+$$\begin{matrix}  1 & 5_0 & 7 \\ 3 & 4 & 5\end{matrix}$$
+
+Chose left because $keyVal < 5$
+
+**Step 3:**
+
+$$mid = \frac{3+3}{2} = 3$$
+$$\begin{matrix}  1_0 \\ 3\end{matrix}$$
+
+**TERMINATE**: `return mid(mid=3)`
+
+## Recurrence Equation for Binary Search
+
+#### Best Case N/A!
+
+If the value is in the middle, it returns it right away, thus $T(n)=\Omega(1)$
+
+#### Worst-Case
+
+$$T(2^k-1) = 1+ T(2^{k-1}-1)$$
+$$T(0) = 0$$
+**Write out for lower n**
+
+$$T(2^{k-1}-1) =  T(2^{k-2}-1)$$
+$$T(2^{k-2}-1) = 1+ T(2^{k-3}-1)$$
+
+**Substitute**
+
+$$1+[1+[1+T(2^{k-3}-1)]$$
+
+**Write in terms of `i`
+
+$$T(2^k-1) = i + T(2^{k-i}-1)$$
+
+**Bottom out when $i=k$**
+
+$$T(2^k-1) = k + T(2^0-1)$$
+$$T(2^k-1) = k$$
+Need to relate $k$ to $n$ using $n=2^k-1$
+
+$$n+1 = 2^k$$
+$$\lg(n+1) = \lg(2^k)=k$$
+$$\therefore T(n) = \lg(n+1)$$
+```ad-note
+$$\lg(n+1) = \Theta(\lg(n))$$
+```
+
+**Lower Bound**:
+
+$$n < n+1 \space \space \space \space \space \forall n \ge 1$$
+$$\lg n < \lg(n+1)$$
+**Upper Bound**:
+
+$$n+1 < n^2 \space \space \space \space \space \forall n \ge 2$$
+$$\lg(n+1) < \lg(n^2)$$
+$$\lg(n-1) < 2 \lg(n)$$
+**Combined Big Theta  Equation**:
+
+$$\therefore \lg n \le \lg(n+1) \le 2 \lg(n) \space \space \space \space \space \forall n \ge 2$$
+$$T(n) = \Theta(\lg(n))$$
+```ad-important
+Binary Search is $\Omega(1)$ AND $O(\lg(n))$ in run-time complexity.
+- $\Theta(1)$ in memory complexity
+```
+
+## Pseudocode
+
+### Linear
+
+```
+Alg: LINEAR-SEARCH-ARRAY(A, n, keyVal)
+	for i <- 1 to n 
+		if A[i] = keyVal
+			return i
+	return -1
+```
+
+### Binary
+
+
+```
+Alg: BINARY-SEARCH-ARRAY(A, start, end, keyVal) //start sand end are indices
+//A is assuemd to be in sorted order (ascending_
+	if start > end // base case: reached if keyVal not found)
+		return -1 //use  a-1 to indicate keyVal is not found
+	else
+		mid <- floor((start+end)/2) //consider middle idnex
+		if keyVal = A[mid]
+			reutrn mid // keyVal is found in the middle
+		else
+			if keyVal < A[mid] //keyVal is in the first half
+				return BINARY-SEARCH-ARRAY(A, start, mid-1, keyVal)
+			else 
+				return BINARY-SEARCH-ARRAY(A, mid+1, end, keyVal)
+```
+
+## C++ Code
+
+### Linear
+```c++
+int linearSearch(int A[], int b, int n, int key, int& comparisons) {
+    for (int i = b; i < n; i++) {
+        comparisons++;
+        if (A[i] == key) {
+            return i;
+        }
+    }
+    return -1;
+}
+```
+
+### Binary
+
+```c++
+int binarySearch(int A[], int b, int n, int key, int& comparisons) {
+    //base case: reached if keyval not found
+    if (b > n) {
+        return -1;
+    }
+    comparisons++; //Add another comparison as all other cases have comparisons
+    int q = floor((b+n)/2); //consider middle index
+     //if keyval is found in the middle
+    if (key == A[q]) {
+        return q;
+    }
+    //keyVal is in the first half
+    if (key < A[q]) {
+        return binarySearch(A, b, q-1, key, comparisons);
+    }
+    //else, keyval is is the last half
+    return binarySearch(A, q+1, n, key, comparisons);
+}
 # Linked Lists
 
 ```ad-summary
@@ -1422,6 +1575,9 @@ title: Goals
 - Know how to implement queues and stacks using arrays and linked lists.
 - Know how to use queues and stacks to solve specific problems
 ```
+
+## Stacks
+
 
 # Binary Trees vs. Binary Search Trees (BSTs)
 
