@@ -1597,7 +1597,7 @@ title: Stack Terms
 ![[Pasted image 20231127081828.png]]
 ```
 
-## Different Ways of Accessing Data Members
+### Different Ways of Accessing Data Members
 
 - **Random Access**
 	- Accessed Directly (Constant Time)
@@ -1609,7 +1609,7 @@ title: Stack Terms
 	- Special ways of accessing sequentially
 	- Aka a special case of sequential access
 
-## Applications of a Stack
+### Applications of a Stack
 
 **Undo** operation in text editors
 
@@ -1623,7 +1623,7 @@ Browser **back** button
 
 ![[Pasted image 20231127081912.png]]
 
-## Stack Implementations
+### Stack Implementations
 
 In the standard library, stack is an **adaptor class**:
 - Built on another data structure
@@ -1634,7 +1634,7 @@ In the standard library, stack is an **adaptor class**:
 			- Extra overhead to allocate, link, unlink, deallocate, but not limited in size
 		- Other Collection Structures
 
-## Creating a Stack with Limited Access Using Arrays
+### Creating a Stack with Limited Access Using Arrays
 
 **Public Member Functions**:
 - `void push(int val)`
@@ -1664,7 +1664,7 @@ title: Other Considerations
 - Cannot rely on users to perform necessary checks
 ```
 
-### Algorithm for Push
+#### Algorithm for Push
 
 ```ad-summary
 title: Steps
@@ -1673,7 +1673,7 @@ title: Steps
 3. If the stack is not full, add it to the top and increment top
 ```
 
-### Algorithm for Pop
+#### Algorithm for Pop
 
 ```ad-summary
 title: Steps
@@ -1704,11 +1704,180 @@ title: Steps
 - The above assumes that it **does not** shrink
 ```
 
-## Implementation
+### Implementation
 
 ```c++
+class Stack {
+private:
+	int top; //to mark the top element of the stack (-1 indicates empty)
+	int arr[5]; //5-int static array as the stack container
+public:
+	Stack(); //Initalize with the top = -1
+	//deconstructor not needed sicne no dynamic memory
+	void push(int x); //use isFull() in your implementation
+	int pop(); //Use isEmpty() in your implementation
+	int peek();
+	bool isEmpty();
+	bool isFull();
+};
 
+Stack::Stack() {
+	top = -1;
+}
+
+bool Stack::isEmpty() {
+	if (top < 0)
+		return true;
+	else
+		return false;
+}
+
+bool Stack::isFull() {
+	if (top > 3)
+		return true;
+	else
+		return false;
+}
+
+void Stack::push(int x) {
+	if(isFull()) {
+		cerr << "stack should not be full" << endl;
+		exit(1);
+	} else {
+		top++;
+		arr[top] = x;
+	}
+}
+
+int Stack::pop() {
+	if (isEmpty()) {
+		cerr << "Stack should not be empty" << endl;
+		exit(1);
+	} else {
+		return arr[top--];
+	}
+}
+
+int Stack::peek() {
+	if (isEmpty()) {
+		cerr << "Stack should not be empty" << endl;
+		exit(1);
+	} else {
+		return arr[top];
+	}
+}
 ```
+
+## Queues
+
+A linear data structure that operates based on the First-In-First-Out (FIFO) principle
+
+**Main Operations**
+- Enqueue
+	- Add to Rear
+- Dequeue
+	- Remove from Front
+
+```ad-example
+title: Applications
+- Printing
+- Web servers handling incoming requests
+```
+
+### Implementation
+
+In `std` library, queue is an adaptor class:
+
+Uses the following members:
+- Public Members
+	- `Queue(int capacity=10)`
+	- `void/bool enqueue(int x)`
+	- `int dequeue()`
+	- `int peek()`
+	- `bool isFull()`
+	- `bool isEmpty()`
+	- IF DYNAMIC, A DESTRUCTOR IS NEEDED: `~Queue()`
+- Private Members
+	- STATIC: `int arr[capacity]`
+	- VARIABLE: `int* arr`
+	- `int front`
+	- `int rear`
+	- `int capacity`
+
+```ad-note
+For the constructor, the `10` is the defualt value of the capacity if nothing is given
+```
+### Linear vs. Circular
+
+```ad-important
+Values for front and rear could be different based on whether it is a:
+1. Linear Queue
+2. Circular Queue
+```
+
+**Linear**: Dequeuing Requires Shifting Values Leftward
+- Use `front = 0` (keep it) and `rear=-1` for empty queue (initalization)
+- Enqueue an element by first incrementing the rear and then inserting the new value at `arr[rear]`
+	- Deque the value at `arr[front]`; shift the values to fill the missing value
+
+```ad-warning
+$\Theta(n)$ run-time for dequeue because it needs to shift all the values over by one 
+```
+
+**Circular**: Move both the front and rear indices in the array, allowing  the queue to "wrap around"
+- Use `front = 0` and `rear = 0` for initialization, later `front==rear` means the queue is empty
+- In this case, rear references the first open spot rather than the last element. *Loses one spot* in the array for the queue
+- Enqueue an element by first inserting the new value at `arr[rear]` and then increment the rear (modulo `n`). The front points to the first element in the queue.
+- Dequeue the value at `arr[front]` and increment the front index (modulo `n`)
+	- $\Theta(1)$ because it does not need to shift, only change two indexes
+
+```ad-note
+title: Incrementing the Front and Rear of the Circular Queue
+1. Make sure **NOT** full/empty
+2. Increment as follows (wrapping around)
+- `front=(front + 1) % capacity`
+- `rear = (rear +1) % capacity`
+```
+
+```ad-important
+title: Indicating the "full" Condition
+`front == (rear + 1) % capacity`
+```
+### Algorithm for Enqueue
+
+1. Check if the queue is full or not.
+2. If the queue is full, print queue is full and can either exit the program or return false.
+3. If the queue is not full, add the element (increment rear when appropriate) and return true (if applicable).
+
+### Algorithm for Dequeue
+1. Check if the queue is empty or not
+2. If so, print queue is empty and exit
+3. Otherwise, return the element (increment front when appropriate)
+
+```ad-question
+If implemented on a static array or linked list, what would the asymptotic run-time and space complexity be for eqnquee, dequeue, and peek?
+```
+
+| ***Circular & Linked List*** | Enqueue     | Dequeue     | Peek        |
+| -------------- | ----------- | ----------- | ----------- |
+| **Run-Time**   | $\Theta(1)$  | $\Theta(1)$ | $\Theta(1)$            |
+| **Space**      | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
+
+| ***Linear*** | Enqueue     | Dequeue     | Peek        |
+| ------------ | ----------- | ----------- | ----------- |
+| **Run-Time** | $\Theta(1)$ | $\Theta(n)$ | $\Theta(1)$ |
+| **Space**    | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
+
+### C++ Code
+
+#### Linear
+
+#### Circular
+
+```ad-question
+Write a C++ code to implement a single integer ciruclar queue class with 5 elements, and using `front == rear` to indicate an empty queue. Implement the public member functions given below.
+```
+
 
 # Binary Trees vs. Binary Search Trees (BSTs)
 

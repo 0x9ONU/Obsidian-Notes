@@ -267,7 +267,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -282,10 +283,10 @@
   },
   "active": "2b2260d659c1be11",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA week 14 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA week 14 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 14/DSA Week 14 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
