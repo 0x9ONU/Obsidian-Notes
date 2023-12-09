@@ -24,7 +24,7 @@ title: Goals
 # Sorting
 
 ```ad-summary
-Goals:
+title: Goals
 - Understand how different soritng algorithms work.
 	- Given a list of nubmers, you should be able to show how soritng algorithms will sort this list step by step.
 - How to anlyze the time complexity for each algorithm; best case, average case, and worst case. Also know these time complexities for each sorting algorithm (best case, average case, worst case)
@@ -43,13 +43,43 @@ Goals:
 
 # Binary Search and Linear Search
 
-
+```ad-summary
+title: Goals
+- Know how binary search & linear search algorithms work.
+- Know the itme coplexity for binary search and lienar search algoirthms (best-case vs. worst-case)
+- Know how to write and solve recurrence equations to describe the behavior of binary search algorithm.
+- Know how to implement binary and linear seach algoirthms in C++
+```
 
 # Linked Lists
 
+```ad-summary
+title: Goals
+- Know the differences between arrays and linked lists (advantages and disadvantages, for example random access with arrays vs. sequential access, how memeory is organized for each, search limitations, etc.).
+- Know how different types of linked lists work (singly and doubly linked lists)
+- Know how to insert an element in a linked list at the beginning/middle/end.
+- Know how to delete an element from a linked list at the beginning/middle/end.
+- Know how to implement linked lists in C++
+- Understand how pointers work in C++
+- Know the time complexity for linked lists operations (insert/delete/search) whether it is intended tob e a sorted linked list or not, and know best/worst case conditions.
+```
 # Queues and Stacks
 
+```ad-summary
+title: Goals
+- Understand how queues and stacks work.
+- Know the time complexity for queues and stacks operations.
+- Know how to implement queues and stacks operations.
+- Know how to implement queues and stacks using arrays and linked lists.
+- Know how to use queues and stacks to solve specific problems
+```
+
 # Binary Trees vs. Binary Search Trees (BSTs)
+
+```ad-summary
+title: Goal
+- Know the terms and properties of trees ( and in particular binary trees) and binary search trees (BSTs are binary trees that satisfy the BST property on the keys of the nodes)>
+```
 
 # Cumulative Knowledge
 # Short Answers
