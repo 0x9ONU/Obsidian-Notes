@@ -1554,6 +1554,9 @@ int binarySearch(int A[], int b, int n, int key, int& comparisons) {
     //else, keyval is is the last half
     return binarySearch(A, q+1, n, key, comparisons);
 }
+```
+
+
 # Linked Lists
 
 ```ad-summary
