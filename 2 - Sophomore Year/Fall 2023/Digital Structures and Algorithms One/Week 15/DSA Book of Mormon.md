@@ -1376,12 +1376,12 @@ $$leaf \space nodes = n^{\log_b a} = n^1$$
 
 $\epsilon = 1$  in $f(n) = \Omega(n^{\log_b (a+\epsilon)}) = \Omega(n^{1+1} \Omega(n^2)$
 
-**Lokis like case 3, but need to check regularity condition**
+**Looks like case 3, but need to check regularity condition**
 
 $$Level \space 1 \space overhead \le fraction \space * \space Level \space 0 \space overhead$$
 
 $$af(\frac{n}{b}) = r f(n)$$
-$$2f(\frac{n}{2}) = 2(\frac{n}{2})^2 = 0.5 n^2$$
+$$2f(\frac{n}{2}) = 2(\frac{n}{2})^2 = 0.25 n^2$$
 $$r = 0.5 \epsilon(0, 1)$$
 ```ad-note
 $r$ is an element of the interval from 0 to 1 (not inclusive)

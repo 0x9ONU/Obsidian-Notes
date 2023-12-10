@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4c5d58033df5bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b2260d659c1be11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7714eea44c378f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +147,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,17 +170,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d7714eea44c378f3",
+  "active": "784b8e9f198cb5cc",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Review Session 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Week 11 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 15/Circuits Final Review.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Review Session 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
     "General Notes/Pasted image 20231209172332.png",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Week 15 - Day 2.md",
     "General Notes/Pasted image 20231209171820.png",
@@ -240,9 +207,6 @@
     "General Notes/Circuits Final Review 2023-12-08 11.49.04.excalidraw.md",
     "General Notes/Circuits Final Review 2023-12-08 11.44.12.excalidraw.md",
     "General Notes/Circuits Final Review 2023-12-08 11.08.20.excalidraw.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Final Review.md",
-    "General Notes/Physics I Final Review 2023-12-08 10.45.58.excalidraw.md",
-    "General Notes/Physics I Final Review 2023-12-08 10.26.15.excalidraw.md",
-    "General Notes/Physics I Final Review 2023-12-08 10.19.12.excalidraw.md"
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 15/Physics I Final Review.md"
   ]
 }
