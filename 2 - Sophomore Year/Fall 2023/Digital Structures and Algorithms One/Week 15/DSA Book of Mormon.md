@@ -663,7 +663,7 @@ $T(1) = 1$ (just the if statement of Line 1, since $p=r$ here)
 
 **Part 3:**
 
-$f(n) = 3 + \space merge \space = 3 + 11 + 6n = 14 6n$
+$f(n) = 3 + \space merge \space = 3 + 11 + 6n = 14 + 6n$
 
 **Part 4:**
 
