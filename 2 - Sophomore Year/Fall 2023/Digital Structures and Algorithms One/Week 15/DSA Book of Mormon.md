@@ -1869,7 +1869,7 @@ If implemented on a static array or linked list, what would the asymptotic run-t
 
 | ***Linear*** | Enqueue     | Dequeue     | Peek        |
 | ------------ | ----------- | ----------- | ----------- |
-| **Run-Time** | $\Theta(1)$ | $\Theta(n)$ | $\Theta(1)$ |
+| **Run-Time** | $\Theta(1)$ | $\Omega(1) \space \& \space O(n)$ | $\Theta(1)$ |
 | **Space**    | $\Theta(1)$ | $\Theta(1)$ | $\Theta(1)$ |
 
 ### C++ Code
@@ -1904,6 +1904,13 @@ Queue::Queue() {
 bool Queue::isEmpty() {
 	if (rear < 0)
 		return true;
+	else
+		return false;
+}
+
+bool Queue::isFull() {
+	if (rear > 3) 
+		reutnr true;
 	else
 		return false;
 }
