@@ -95,7 +95,7 @@ $M$ is the molar mass
 Calcualte the root-mean-square speed of an oxygen molecule, considering that the gas is kept at $200\degree C$ 
 ```
 
-$$v_{rms} = \sqrt{\frac{3*8.314 \frac{\dot{J}}{mol *K}(200_273.15)K}{32 \frac{g}{mol}}}$$
+$$v_{rms} = \sqrt{\frac{3*8.314 \frac{\dot{J}}{mol *K}(200+273.15)K}{32 \frac{g}{mol}}}$$
 
 ```ad-danger
 The $\frac{g}{mol}$ MUST BE CHANGED to $\frac{kg}{mol}$

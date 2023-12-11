@@ -102,6 +102,6 @@ $$n = \frac{N}{N_A}$$
 $$N \rightarrow Number \space of \space atoms \space \space \space N_A \rightarrow Avogadro's \space number$$
 ```ad-example
 Peice of Cu containing $10^24$ atoms of Cu. How many moles?
-$$n = \frac{10^24 atoms}{6.022 * 10^23 \frac{atoms}{mol}} = 1.661 mol$$
+$$n = \frac{10^{24} atoms}{6.022 * 10^{23} \frac{atoms}{mol}} = 1.661 mol$$
 ```
 
