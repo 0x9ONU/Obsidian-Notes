@@ -5,7 +5,7 @@ File Folder: Week 15
 
 # BJT (Saturated Mode)
 
-	![[Circuits Final Review Part 2 2023-12-12 14.06.12.excalidraw]]
+		![[Circuits Final Review Part 2 2023-12-12 14.06.12.excalidraw]]
 
 ```ad-important
 - Two currents in means **N**P**N**
