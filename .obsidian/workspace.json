@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 3.md",
+                "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -193,44 +194,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "floating": {
-    "id": "d8bdb24e47e6aa2a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "73276b0650b282ee",
-        "type": "window",
-        "children": [
-          {
-            "id": "d833c3ffe0cc63a7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2705940ef66af318",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 167,
-        "y": 488,
-        "width": 638,
-        "height": 999,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2705940ef66af318",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 12/DSA Week 12 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
