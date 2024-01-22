@@ -170,10 +170,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "86a13e18b65aa1dc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5417f00a927ad401",
+        "type": "window",
+        "children": [
+          {
+            "id": "5bd474633f346991",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e77451b3e0ef79c8",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 1 Day 1 2024-01-22 11.36.18.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
+      }
+    ]
+  },
   "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 1.md",
+    "General Notes/Physics 2 - Week 1 Day 1 2024-01-22 11.36.18.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 1.md",
+    "General Notes/Physics 2 - Week 1 Day 1 2024-01-22 11.33.47.excalidraw.md",
+    "General Notes/Untitled 2.png",
+    "General Notes/Untitled 1.png",
+    "General Notes/Bohr-model-nitrogen-atom.webp",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
     "CamScanner 09-20-2023 21.04_2.jpg",
     "Templates/Maker Engineering/Maker Engineering Template.md",
@@ -207,16 +247,11 @@
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 11/DSP Week 11 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 12/DSP Week 12 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 4/DSP Week 4 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 7/DSP Week 7 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 4/DSP Week 4 - Day 2.md",
     "General Notes/Pasted image 20231209172332.png",
     "General Notes/Pasted image 20231209171820.png",
     "General Notes/Pasted image 20231209171808.png",
     "General Notes/Pasted image 20231209171728.png",
     "General Notes/Pasted image 20231209171719.png",
-    "General Notes/Pasted image 20231209171705.png",
-    "General Notes/Pasted image 20231209171645.png",
-    "General Notes/Pasted image 20231209171629.png",
-    "General Notes/Pasted image 20231209171533.png"
+    "General Notes/Pasted image 20231209171705.png"
   ]
 }
