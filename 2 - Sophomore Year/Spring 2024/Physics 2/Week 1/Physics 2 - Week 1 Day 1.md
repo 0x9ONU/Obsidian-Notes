@@ -37,4 +37,4 @@ Homework will be collected every Friday before **2:00pm**, it will be handed int
 Four unexcused missed classes will result in a full 10% grade drop. Five classes would be two letter grades
 ```
 
-
+## 
