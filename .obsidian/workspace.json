@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c2528311ba92c807",
+        "id": "a0fe3196aa753faf",
         "type": "tabs",
         "children": [
           {
-            "id": "784b8e9f198cb5cc",
+            "id": "d39e3a93befa25ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 12/DSP Week 12 - Day 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab9b54cebf522572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 1.md"
               }
             }
           }
@@ -165,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,13 +170,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ab9b54cebf522572",
+  "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
+    "Templates/Number Theory/Number Theory Template.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 1",
+    "Templates/Physics 1 template/Physics 1 Template.md",
+    "Templates/Professional Ethics",
+    "Templates/Electronics",
+    "Templates/Physics 2",
+    "Templates/Number Theory",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics",
+    "2 - Sophomore Year/Spring 2024/Electronics",
+    "2 - Sophomore Year/Spring 2024/Physics 2",
+    "2 - Sophomore Year/Spring 2024/Number Theory",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 12/DSP Week 12 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
+    "2 - Sophomore Year/Spring 2024",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 14/DSP Week 14 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 12/DSP Week 12 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 13/DSP Week 13 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 15/DSP Week 15 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 14/DSP Week 14 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 10/DSP Week 10 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 10/DSP Week 10 - Day 1.md",
@@ -207,9 +208,6 @@
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 7/DSP Week 7 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 3/DSP Week 3 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Digital Signal Processing/Week 1/DSP Week 1 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 13/Circuits Week 13 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 1.md",
     "General Notes/Pasted image 20231209172332.png",
     "General Notes/Pasted image 20231209171820.png",
     "General Notes/Pasted image 20231209171808.png",
