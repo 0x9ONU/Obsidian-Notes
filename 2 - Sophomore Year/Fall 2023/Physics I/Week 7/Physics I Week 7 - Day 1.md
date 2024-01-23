@@ -127,7 +127,7 @@ The force of friciton will ALWAYS be negative as it opposes the motion
 
 # Dot/Scalar Product
 
-An operation between two vectors that outputs the **scalar** of the two vectors combined
+An operation between two vectors that outputs the **scalar** of thae two vectors combined
 
 $$ W = F^{->} \bullet d^{->} = Fd\cos(F^{->}, d^{->})$$
 $$a^{->} \bullet b^{->} = a * b \cos(a^{->}, b^{->})$$
