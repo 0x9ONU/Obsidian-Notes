@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c1f7b272f809931",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +144,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -170,7 +183,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d39e3a93befa25ba",
+  "active": "4c1f7b272f809931",
   "lastOpenFiles": [
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 1/Ethics - Week 1 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 1/Ethics Reading Response 1 - Challenger Incident.md",
