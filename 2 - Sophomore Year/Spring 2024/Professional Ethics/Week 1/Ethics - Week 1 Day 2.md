@@ -38,7 +38,7 @@ collapse: open
 
 | Technical | Ethical |
 | ---- | ---- |
-| How will the o-rings respond to the temperatures predicted for launch? | Does the issue with the -rings violated any safety standards? |
+| How will the o-rings respond to the temperatures predicted for launch? | Does the issue with the -rings violated any safety standards?  What is the acceptable risk versus the unacceptable risk? |
 | Was the data significant enough to determine whether to launch or not? |  |
 | What would be the cost and consequences of delaying the launch? What would NASA lose? |  |
 | Would Morton Thiokol lose the contract if they recommend against the launch? |  |
