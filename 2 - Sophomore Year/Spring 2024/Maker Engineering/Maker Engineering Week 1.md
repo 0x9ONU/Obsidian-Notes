@@ -65,7 +65,7 @@ Make sure the need is:
 
 # Guided Project
 
-A Double LED Blinker controlled by an arduino.
+A Double LED Blinker controlled by an Arduino.
 
 ## Steps
 
