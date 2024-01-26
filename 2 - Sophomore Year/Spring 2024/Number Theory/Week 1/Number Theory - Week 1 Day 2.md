@@ -49,10 +49,11 @@ Find the fraction of the following rational number: $2.3\bar{3}$
 **Step 1: Write Equation in terms of M**
 
 $$M = 2.3\bar{3}$$
-**Step 2: Multiply the Equation by the number of repeating decimals**
+**Step 2: Multiply the Equation by the 10 times the number of repeating decimals**
 
+Since there is 1 repeating decimal, multiply both sides by 10:
 $$10M = 23.3\bar{3}$$
-**Step 3: Subtract the Two Equaitons**
+**Step 3: Subtract the Two Equations**
 
 $$\begin{matrix} 10M = 23.3\bar{3} \\ M = 2.3\bar{3} \end{matrix}$$
 $$9M = 21$$
@@ -71,6 +72,12 @@ $$\mathbb{C} = \{a + bi:a, b \space \epsilon \space \mathbb{R} \}$$
 **For $a \space \epsilon \space \mathbb{Z}$**
 - **The set of all multiples of $a$**
 $$a \mathbb{Z} = \{m \space \epsilon \mathbb{Z}:m = aq, q \space \epsilon \space \mathbb{Z} \}$$
+
+```ad-example
+$$3\mathbb{Z} = \{ 3n : n \space \epsilon \space \mathbb{Z} \}$$
+```
+
+
 ```ad-important
 This set is closed under addition and subtraction
 $$ma \pm na$$
@@ -155,7 +162,7 @@ Set $r$ to the least positive element of $\mathbb{R}$
 Because $r \space \epsilon \space \mathbb{R}$: 
 $$r=a-bq$$
 $$a=bq+r$$
-Show that $r<b$:
+Show that $r<b$ (through contradiction proof):
 - Assume that $r \ge b$
 - Then $0\le r-b = a-bq-b = a-(q+1)b$
 - $a-(q+1)b \space \epsilon \space \mathbb{R}$
@@ -166,5 +173,6 @@ Show that $r<b$:
 ```ad-summary
 $q$ and $r$ unique 
 ```
+
 
 
