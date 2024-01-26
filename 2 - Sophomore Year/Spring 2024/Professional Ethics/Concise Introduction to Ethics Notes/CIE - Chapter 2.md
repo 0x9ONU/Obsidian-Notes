@@ -109,6 +109,9 @@ When a claim supplies both necessary and sufficient conditions
 
 ```ad-example
 - An unmarried male is boht sufficient and necessary for being a bachelor.
-- If someone is an unmarried male, then he's a bachelor,a dn he's a bachelor only if he's an unmarried male.
+- If someone is an unmarried male, then he's a bachelor, and he's a bachelor only if he's an unmarried male.
 ```
+
+### Valid Argument Forms
+
 
