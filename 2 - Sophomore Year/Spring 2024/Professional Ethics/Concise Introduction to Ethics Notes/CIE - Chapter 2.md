@@ -99,5 +99,16 @@ A requirement that ***for*** one statement to be true, the other **MUST** be tru
 ```
 
 ```ad-warning
-
+Do not speak in sufficient or necessary conditions
 ```
+
+### Biconditional
+
+When a claim supplies both necessary and sufficient conditions
+- "If and only if"
+
+```ad-example
+- An unmarried male is boht sufficient and necessary for being a bachelor.
+- If someone is an unmarried male, then he's a bachelor,a dn he's a bachelor only if he's an unmarried male.
+```
+
