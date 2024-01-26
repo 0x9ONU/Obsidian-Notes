@@ -1,0 +1,16 @@
+Date: 26th January 2024
+Date Modified: 26th January 2024
+File Folder: Week 1
+#Physics2
+
+```ad-abstract
+title: Today's Topics
+collapse: open
+
+- Topic1
+- Topic2
+- Topic3
+
+```
+
+
