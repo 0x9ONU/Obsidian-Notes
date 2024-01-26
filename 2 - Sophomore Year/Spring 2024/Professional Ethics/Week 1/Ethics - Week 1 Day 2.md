@@ -26,7 +26,7 @@ collapse: open
 
 | Technical | Ethical |
 | ---- | ---- |
-| Questions that can, at least potentially, be adequately or completely answered by empirical inquiry, data analysis, etc. |  |
+| Questions that can, at least potentially, be adequately or completely answered by empirical inquiry, data analysis, etc. | Questions that CANNOT be answered adequately or completely by empirical inquiry, data analysis, etc. Yet the facts of the matter may be relevant to deciding the right/wrong of the matter. |
 
 ## Challenger Case
 
