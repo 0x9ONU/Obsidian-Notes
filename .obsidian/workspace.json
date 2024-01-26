@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 3.md"
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 2.md"
               }
             }
           }
@@ -172,45 +173,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "df7c71980e70ffee",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5aff7e5dcefbe7d2",
-        "type": "window",
-        "children": [
-          {
-            "id": "fe817fb25c394afe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "575cad01d3ed6276",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 1 Day 3 2024-01-26 11.05.41.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      }
-    ]
-  },
-  "active": "d39e3a93befa25ba",
+  "active": "c207b49f638b03f6",
   "lastOpenFiles": [
-    "General Notes/Physics 2 - Week 1 Day 3 2024-01-26 11.08.31.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 3.md",
+    "General Notes/Physics 2 - Week 1 Day 3 2024-01-26 11.08.31.excalidraw.md",
     "General Notes/Physics 2 - Week 1 Day 3 2024-01-26 11.15.40.excalidraw.md",
     "General Notes/Physics 2 - Week 1 Day 3 2024-01-26 11.05.41.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 2.md",
