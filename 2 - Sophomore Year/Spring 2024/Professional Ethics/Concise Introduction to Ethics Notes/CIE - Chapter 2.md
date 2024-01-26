@@ -72,6 +72,32 @@ Because of this, arguments are **NOT** true or false, they can be:
 - Valid or invalid
 - Sound or unsound
 
-# Necessary and Sufficient Conditions
+## Necessary and Sufficient Conditions
 
+There are a few necessary ideas that are needed to construct a valid argument with good logical structure.
 
+### Sufficient Condition
+
+A guarantee if one statement is true, then another one is true.
+- If X is a sufficient condition of Y, then X guarantees Y.
+- When X is true, THEN Y is true.
+
+```ad-example
+- Being human is a sufficient condition of being a mammal
+- Having a child is a sufficient conditon of being a parent.
+```
+
+### Necessary Condition
+
+A requirement that ***for*** one statement to be true, the other **MUST** be true.
+- If X is a necessary condition of Y, then X is needed for Y; X is required for Y.
+- Y can be true ONLY IF X is true.
+
+```ad-example
+- Having some money is a necessary condition of being a millionaire
+- Having a brain is necessary condition of being a philosopher
+```
+
+```ad-warning
+
+```
