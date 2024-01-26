@@ -52,20 +52,36 @@ Cheating bad wow
 ## NSPE Example
 
 **Positive Obligations**
-- 
+- Shall hold Paramount safety, welfare of public
+	- Beneficence
+- Shall strive to serve public interest at all times
+	- Beneficence
+- Engineers shall act as **faithful** agents or trustees
+	- Virtue
 
 **Negative Obligations**
-- 
+- Shall **Not** attempt to injure maliciously or falsely the careers of other engineers
+	- Autonomy, Non-maleficence
+- Shall *not* reveal **information** without consent of client
+	- Autonomy/respect
+- Shall not permit use of name in dishonest ventures
+	- Autonomy, *integrity*
 
 ## APhA Example
 
 **Positive Obligations**
-- 
+- Maintain competence in field of medicine for others
+	- Beneficence, Utility
+- Pharmacist promotes self-determination and participation of patient's in health decisions
+	- Beneficence, virtue, autonomy
 
 **Negative Obligations**
-- 
+- Avoid disclosing patient information
+	- Autonomy
+- A pharmacist avoids discriminatory practices
+	- Respect/dignity
 # Obligations/Duties
 
 **General**: An obligation owed, to oneself or others, simply on account for being human or belonging to the moral universe.
-**Special**: An obligation owed to a certian person/ group, on account of one's particular relationship to that person
+**Special**: An obligation owed to a certain person/ group, on account of one's particular relationship to that person
 - A Parent to child, friend to friend, professional to client, etc.
