@@ -114,4 +114,9 @@ When a claim supplies both necessary and sufficient conditions
 
 ### Valid Argument Forms
 
+```ad-note
+This part of the chapter uses variables as placeholds for sentences.
+```
+
+#### 
 
