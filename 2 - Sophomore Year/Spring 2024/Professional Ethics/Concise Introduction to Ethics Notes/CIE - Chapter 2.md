@@ -231,6 +231,62 @@ $$\space$$ Therefore,
 #### Ad Hominem Fallacy
 
 When you try to undermine a position by attacking the person who is advancing it.
+- Primarily used by politicians
+
+```ad-example
+- "His views on immigration can't be trusted; after all, he's Latino"
+- "She's rich, so don't believe a word she says about how to improve the economy."
+- "He's a hypocrite; he didn't live up to his ideals, so his ideals must be bankrupt."
+```
+
+```ad-important
+The truth of a statement does not rely on a person's:
+- Motives
+- Status
+- Inherited Traits
+- Gorup Membership
+- Character
+```
+
+#### Appeals to Irrelevant Emotions
+
+When someone tries to convince you of a claim by playing on your **emotions**, rather than by offering facts and evidence that bear on the truth of the claim.
+- Playing on jealousy, envy, insecurity, fear, anger, etc.
+
+```ad-note
+Emotions play a strong role in moral thinking and can be illuminating as well.
+- Don't ban emotion, but recognize when someone is trying to convert them
+```
+
+#### Appeal to Authority
+
+Relying on authority figures to substantiate a position outside of their area of expertise.
+- A medical degree does not make someone a moral expert when it comes to a debate about pro-"life" versus pro-choice
+- A parent that tries to justify their political views over a child saying that they are more "grown-up" than them does not mean they are more in the moral right.
+
+#### Straw Man Fallacy
+
+Depicts and opponent's position in a way that makes it easy to refute, thereby diverting attention form the real position being advanced. 
+- Substitutes a good argument from the opposing side with a terrible argument.
+- An argument that can easily be demolished to make it look like you are on the winning side
+
+#### Appeal to Ignorance
+
+Appears as two forms:
+- When one thinks that a claim is true because it hasn't been proven false.
+- Thinking that a claim is false because it hasn't been proven true.
+
+```ad-example
+- Believing that there is an even number of stars in the universe, which cannot be proven right or wrong.
+- Scientists haven't proven that climate change is caused by fousil fuels, so consumption of fossil fuels should not stop.
+```
+
+#### Hasty Generalizations
+
+When someone illicitly draws a general lesson from only a small handful of cases.
+- ex. All Muslims are terrorists
+	- False as *some* may be, but it is not exclusive to Islam (Christians, Jews, Buddhists, Hindus, and  atheists can also sometimes be terrorists)
+
 
 
 
