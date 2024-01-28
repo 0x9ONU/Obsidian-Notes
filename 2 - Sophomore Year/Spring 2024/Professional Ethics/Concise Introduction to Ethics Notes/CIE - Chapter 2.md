@@ -182,6 +182,51 @@ Can have **three or more** as long as each additional one is a condition that ta
 
 ### Fallacies
 
+- A mistake in reasoning
+- Formal when a kind of argument all of whose instances are logically invalid.
+	- NEVER logically valid.
+- Informal when there are any other kinds of mistaken pattern in reasoning.
+
+#### Fallacy of Denying the Antecedent
+
+```ad-warning
+Avoid the following:
+1. If P, then Q
+2. P is flase.
+$$\space$$ Therefore,
+3. Q is false
+```
+
+```ad-example
+1. If you buy this item now, then you will get the item 50% off
+2. You don't buy the item now
+$$\space$$ Therefore,
+3. You will not get the item for 50% off
+$$\space$$
+1. If I'm a millionaire, then I have at least ten dollars.
+2. I'm not a millionaire.
+$$\space$$ Therefore,
+3. I don't have ten dollars (FALSE)
+```
+
+By denying the antecedent of a conditional, you do not give any basis for denying the consequent. There may be many antecedents that can be used to prove the consequent.
+
+#### Fallacy of Affirming the Consequent
+
+```ad-warning
+Avoid the following:
+1. If P, then Q
+2. Q is true
+$$\space$$ Therefore,
+3. P is true
+```
+
+```ad-example
+1. If life is meaningful, then God exists
+2. God *does* exist
+$$\space$$ Therefore,
+3. Life is meaningful
+```
 
 
 
