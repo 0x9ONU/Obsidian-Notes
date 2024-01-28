@@ -118,5 +118,72 @@ When a claim supplies both necessary and sufficient conditions
 This part of the chapter uses variables as placeholds for sentences.
 ```
 
-#### 
+#### Modus Ponens
+
+The most basic form of an argument.
+- Every way the argument can be made is **logically valid**
+
+```ad-important
+1. If P, then Q.
+2. P
+$$\space$$ Therefore,
+3. Q
+```
+
+```ad-example
+**Example 1:**
+1. If humans have rights, then you have rights.
+2. Humans have rights.
+Therefore,
+3. You have rights.
+
+$$\space$$
+**Example 2:**
+1. If you have rights, then pencils have rights.
+2. You have rights.
+Therefore,
+3. Pencils have rights.
+```
+
+In the first argument, the argument is both valid and sound as its logic is good and it comes o a true conclusion with true premises.
+
+The second argument has perfect logic, but the first premise is false, which makes the conclusion false as well.
+
+This style of argument works as:
+- It relies on a **conditional** aka an "if-then" sentence.
+- If = **antecedent**
+- Then = **consequent**
+
+Steps:
+1. The modus ponens argument makes sure that its antecedent is a sufficient condition of its consequent.
+2. If the conditional is true, then it guarantees the consequent is true.
+
+#### Modus Tollens
+
+```ad-important
+1. P only if Q
+2. Q is false
+$$\space$$ Therefore,
+3. P is false.
+```
+
+If P is true only when Q is true, and Q is false, then it concludes that P must be false.
+
+#### Hypothetical Syllogism
+
+```ad-important
+1. If P, then Q
+2. If Q, then R.
+$$\space$$ Therefore,
+3. If P, then R
+```
+
+Can have **three or more** as long as each additional one is a condition that takes the consequent of the previous conditional and makes it the antecedent of the next.
+
+### Fallacies
+
+
+
+
+
 
