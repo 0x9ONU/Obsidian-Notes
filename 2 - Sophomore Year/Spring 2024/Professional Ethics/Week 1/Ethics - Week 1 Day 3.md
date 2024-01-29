@@ -80,8 +80,3 @@ Cheating bad wow
 	- Autonomy
 - A pharmacist avoids discriminatory practices
 	- Respect/dignity
-# Obligations/Duties
-
-**General**: An obligation owed, to oneself or others, simply on account for being human or belonging to the moral universe.
-**Special**: An obligation owed to a certain person/ group, on account of one's particular relationship to that person
-- A Parent to child, friend to friend, professional to client, etc.
