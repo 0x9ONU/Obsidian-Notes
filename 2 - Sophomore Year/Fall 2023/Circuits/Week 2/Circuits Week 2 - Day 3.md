@@ -8,7 +8,8 @@ title: Today's Topics
 collapse: open
 
 - Voltage Division
-- Current Division
+- Current 
+- Division
 
 ```
 # Voltage Division 

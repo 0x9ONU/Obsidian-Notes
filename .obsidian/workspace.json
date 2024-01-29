@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 2/Number Theory - Week 2 Day 1.md",
-                "mode": "source",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 3.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dot product",
+                "query": "voltage division",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 2/Number Theory - Week 2 Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 2/Number Theory - Week 2 Day 1.md",
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 2/Number Theory - Week 2 Day 1.md"
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 3.md"
               }
             }
           }
@@ -174,8 +175,10 @@
   },
   "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 3/Circuits Week 3 - Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 2/Number Theory - Week 2 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 2",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 1/Ethics - Week 1 Day 3.md",
@@ -201,8 +204,6 @@
     "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.25.16.excalidraw.md",
     "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.23.57.excalidraw.md",
     "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.17.55.excalidraw.md",
-    "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.15.36.excalidraw.md",
-    "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.12.44.excalidraw.md",
     "General Notes/Untitled 2.png",
     "General Notes/Untitled 1.png",
     "General Notes/Bohr-model-nitrogen-atom.webp",
