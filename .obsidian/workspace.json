@@ -172,10 +172,142 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "1dedc67e83d6e1aa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9a16c5abfb428277",
+        "type": "window",
+        "children": [
+          {
+            "id": "f36b240470c9a9d6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40c90d508ef5da39",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.16.17.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
+      },
+      {
+        "id": "abb9740138140f4f",
+        "type": "window",
+        "children": [
+          {
+            "id": "edb1bbeae515497d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ae3e344b778c75d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.19.28.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
+      },
+      {
+        "id": "1701c16d8180f0d2",
+        "type": "window",
+        "children": [
+          {
+            "id": "8af80f8b42ecd27a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "610ddff5fa616ac6",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.26.37.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
+      },
+      {
+        "id": "7ef04b704067833f",
+        "type": "window",
+        "children": [
+          {
+            "id": "ef7809e55a011e39",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8cebaefcacae4032",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.33.02.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
+      }
+    ]
+  },
   "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 3.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.33.02.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2  Day 1.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.26.37.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.19.28.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.16.17.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.12.12.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.10.49.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.09.28.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.07.19.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.05.18.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.01.51.excalidraw.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 3.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 2",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Untitled",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 2/Circuits Week 2 - Day 1.md",
@@ -194,17 +326,7 @@
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 1.md",
     "Templates/Number Theory/Number Theory Template.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Maker Engineering/Maker Engineering Week 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 1/RR/Ethics Reading Response 1 - Challenger Incident.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 1/RR",
-    "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.45.16.excalidraw.md",
-    "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.36.04.excalidraw.md",
-    "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.28.23.excalidraw.md",
-    "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.25.16.excalidraw.md",
     "General Notes/Untitled 2.png",
     "General Notes/Untitled 1.png",
     "General Notes/Bohr-model-nitrogen-atom.webp",
