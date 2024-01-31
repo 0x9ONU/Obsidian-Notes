@@ -55,7 +55,7 @@ $\hat{r}$ is the unit vector - It represents how the electron will always move t
 Find the force on an $e^-$ in an atom:
 - $q_1 = 1.6 * 10^{-19} c$
 - $q_2 = 1.6*10^{-19} c$
-- $r = 5.3 * 10^{-11} m*
+- $r = 5.3 * 10^{-11} m$
 ```
 
 ![[Physics 2 - Week 1 Day 2 2024-01-24 11.17.55.excalidraw]]
@@ -94,14 +94,14 @@ $$F^\to = F_x\hat{i} + F_y\hat{j} + F_z \hat{k}$$
 The j hat and k hat become zero, so they cancel out
 ```
 
-$$F^\to_T = \frac{-kQ_1Q_2}{r_{1 \to 2}^2} + \frac{k Q_1 Q_3}{r_{1 \to 3}^2}$$
-$$= \frac{-k4q q}{r^2} + \frac{k6q q}{r^2}$$
-$$= \frac{2kq^2}{r^2}$$
+$$F^\to_T = [\frac{-kQ_1Q_2}{r_{1 \to 2}^2} + \frac{k Q_1 Q_3}{r_{1 \to 3}^2}] \hat{i}$$
+$$= [\frac{-k4q q}{r^2} + \frac{k6q q}{r^2}] \hat{i}$$
+$$= \frac{2kq^2}{r^2} \hat{i}$$
 
 ### Example 5 - Force Diagram in X&Y-dimensions
 
 ```ad-question
-- Sketch FOrce Diagram on $q_1$
+- Sketch Force Diagram on $q_1$
 - Find Total Force on $q_1$
 ```
 
@@ -139,6 +139,12 @@ $$F_T = F_x \hat{i} + F_y \hat{j}$$
 | X-Dimension | Y-Dimension |
 | ---- | ---- |
 | $F_x = F_1 - F_3 \cos{\Theta}$ | $F_y = F_3 \sin{\Theta}$ |
-| $F_x = \frac{kq_1q_2}{r_{1 \to 2}^2} - \frac{kq_2q_3}{r_{2\to 3}^2}$ | $F_y = \frac{kq_2q_3 \sin{\Theta}}{r_{2\to 3}^2}$ |
+| $F_x = \frac{kq_1q_2}{r_{1 \to 2}^2} - \frac{kq_2q_3 \cos\Theta}{r_{2\to 3}^2}$ | $F_y = \frac{kq_2q_3 \sin{\Theta}}{r_{2\to 3}^2}$ |
 $$F_T = 4.2*10^{-9} \hat{i} + 4.8 * 10^{-9} \hat{j} (N)$$
+
+```ad-note
+$\Theta = 30 \degree$ because it is a 30-30-90 triangle
+```
+
+
 

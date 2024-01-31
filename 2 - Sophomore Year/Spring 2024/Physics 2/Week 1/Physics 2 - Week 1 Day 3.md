@@ -50,9 +50,9 @@ $$F_y = T_y -F_g$$
 $$0 = T\cos\Theta - F_y$$
 $$T = \frac{F_g}{\cos\Theta}$$
 
-**Combine the Equations Since they Both Equal Zero**
+**Combine the Equations Since they Both Equal $T$**
 
-$$\frac{F_e}{\sin\Theta} = \frac{F_y}{\cos\Theta}$$
+$$\frac{F_e}{\sin\Theta} = \frac{F_g}{\cos\Theta}$$
 $$F_e = mg \frac{\sin\Theta}{\cos\Theta}$$
 $$\frac{kq^2}{(2x)^2} = mg \tan\Theta$$
 $$q^2 = mg\tan\Theta (2x)^2 / k$$
