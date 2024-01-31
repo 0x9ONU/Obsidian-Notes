@@ -139,6 +139,7 @@ If $a, b$ have a common divisor $c$, THEN $r$ must be able to be divided by it a
 Let $a, b, n_1, r_1$ be integers with $a$ and $b$ not both zero. If $a=n_1b + r_1$, then $gcd(a,b) = gcd (b, r_1)$
 ```
 
+## Euclidean Algorithm Termination
 $$r_0 = a$$
 $$r_1 = b$$
 $$r_0 = r_1 q_1+r_2, \space r_0 \ge r_1 > r_2$$
@@ -161,3 +162,38 @@ Even though this may seem complicated by hand, a computer is able to do it relat
 $$O(n) = \log(N)$$
 ```
 
+## Code for Euclidean Algorithm
+
+```
+euclid(int a, int b, int gcd)
+begin
+	int r
+	a = |a|
+	b = |b|
+	while(b != 0)
+		r = a % b
+		a = b
+		b = r
+	end while loop
+	gcd = a
+end
+```
+
+```ad-important
+Will be an assignment
+- Print out the run of the program
+- Add comments ON EACH LINE
+```
+
+## Euclidean Algorithm Examples
+
+```ad-question
+Use the Euclidean algorith to find the GCD of the following pairs of numbers $n$ and $m$
+- $m = 96$ and $n = 112$
+```
+
+$$r_0 = 112$$
+$$r_1 = 96$$
+$$112 = 96*1 + 16$$
+$$96 = 16 *6 +0$$
+$$gcd(112, 96) = 16$$
