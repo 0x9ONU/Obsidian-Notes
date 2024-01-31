@@ -185,15 +185,18 @@ Will be an assignment
 - Add comments ON EACH LINE
 ```
 
-## Euclidean Algorithm Examples
+## Example
 
 ```ad-question
-Use the Euclidean algorith to find the GCD of the following pairs of numbers $n$ and $m$
-- $m = 96$ and $n = 112$
+Find the $gcd(24, 15)$ using the Euclidean Algorithm
 ```
 
-$$r_0 = 112$$
-$$r_1 = 96$$
-$$112 = 96*1 + 16$$
-$$96 = 16 *6 +0$$
-$$gcd(112, 96) = 16$$
+$$24 = 15 * 1 + 9$$
+$$15 = 9 * 1 + 6$$
+$$9 = 6 *1 + 3_{GCD}$$
+$$6 = 3 * 2 + 0$$
+**Working Backwards**
+
+$$3 = 9(1) + (-1)6$$
+$$3= (1)9 + (-1)[15-9] = (-1)15 + 9(2)$$
+$$3 = (-1)15 + 2[24-15] = (2)(24) + (-3)15 \space \space \space \space \space \square$$
