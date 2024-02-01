@@ -7,9 +7,9 @@ File Folder: Week 2
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Obligations
+- Argument Strucutre
+- Consequences/Precedent/Principle/Ideal
 
 ```
 
