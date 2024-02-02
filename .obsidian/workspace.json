@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -172,7 +173,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d39e3a93befa25ba",
+  "active": "c207b49f638b03f6",
   "lastOpenFiles": [
     "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 2 - Friday/AFLV Side Session 2 - But We have Always Done it This Way... A Guide to Officer Transitions.md",
     "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 2 - Friday/AFLV Side Session 2 - Changing the Narrative of the Alumni ATM.md",
