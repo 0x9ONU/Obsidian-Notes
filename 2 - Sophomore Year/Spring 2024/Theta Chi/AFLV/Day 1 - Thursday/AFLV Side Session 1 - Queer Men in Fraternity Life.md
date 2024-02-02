@@ -45,6 +45,23 @@ Out of 40 people recruited, 26 people came out of the closet **after** they grad
 3. Post-2000 era for queer members (Rankin et al.) aka. it is getting better
 4. The "Gay fraternity" (Yeung et al.)
 
+## Lessons Learned
 
+1. It's getting better...
+2. Administrators (including IHQ staff), **volunteers**, and peers play a role in supporting queer identities.
+3. Living a closeted life in fraternity impacts overall identity development.
+	1. A lot happens between coming out and provides a lot of development in your life.
+4. More attention is needed on the impact of single-sex organizations on queer identities.
+
+```ad-important
+Lambda 10
+```
+## Implications
+
+1. Affinity Spaces
+	1. Provide a space for them to come when they cannot go anywhere else
+2. Centering the queer experience - what does this mean?
+3. Prepare students to be allies and avoid undue harm.
+4. Investigate the digital and social wellness of queer men in fraternities.
 
 
