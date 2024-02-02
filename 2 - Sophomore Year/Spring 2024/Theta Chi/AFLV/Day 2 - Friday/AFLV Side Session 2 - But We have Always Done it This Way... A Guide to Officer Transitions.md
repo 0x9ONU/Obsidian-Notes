@@ -18,3 +18,5 @@ Speaker: Salam Awwad
 3. Identify the Resources Available
 4. Develop a Plan for Officer Transition
 
+# Transition (Process) Buy In
+
