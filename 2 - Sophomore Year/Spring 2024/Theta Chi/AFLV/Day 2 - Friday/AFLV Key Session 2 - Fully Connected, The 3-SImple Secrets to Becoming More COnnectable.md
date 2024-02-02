@@ -50,9 +50,7 @@ People who were put through an experience of exclusion. Their brain lit up. It w
 ```ad-warning
 Being lonely for 15 years is like smoking 15 cigarettes a day over that time.
 ```
-
 ## Loneliness & Mental Health
-
 Can lead to:
 - Depression
 - Anxiety
@@ -96,4 +94,53 @@ Communication ***IS NOT*** Connection
 
 ### The Seven Things Oprah Does
 
-1. 
+1. No Physical Barriers (*She Can Get Physically Close*)
+2. Deep Eye Contact (*Looks Right At You*)
+3. Leverages Personal Knowledge (*Says Kids Names*)
+4. Leans In (*Non-verbal Cue She Is Interested*)
+5. Subtly Repeats Back (*"I Withhold My Power"*)
+6. Abundant Touch (*Hand ON Shoulder*)
+7. Full Focus (*Provides Undivided Attention*)
+
+## Strategy #2: Be More Interruptible
+
+### Social Experiment
+
+Were asked to give a speech across campus and along the way they would encounter a person who was in need. They were told that they were either & x percentage helped:
+- "Plenty of Time" to get over 63%
+- "On-Time" 45%
+- "Late" 10%
+
+### Becoming More Interruptible
+
+- Build a social regimen
+	- When creating a schedule, find time where you can connect with people.
+- Establish Phone Free Zones
+	- ex. when you are in line, try not to use your phone
+- Be Mindful Of Connection Cues
+	- Looking at a device, having headphones in, or being face down in work makes it seem like you are not interested in conversation
+
+## Strategy #3: Build Significance
+
+```ad-important
+Be an illluminator. Shine a psecial spotlight on the people around you.
+```
+
+1. Display Gratitude
+2. Listen "Loud"
+3. They ask thoughtful questions.
+	1. AVOID: How are you? How was your weekend? 
+	2. Make more personal questions: Where are you from? How long have you lived here? 
+4. Validate their worth. (The best way to get someone out of a slump is to use *I need you* statements)
+
+# Connection Kit
+https://campaign.ryan-jenkins.com/en/the-connection-vault-1-0
+
+
+
+
+
+
+
+
+
