@@ -3,3 +3,24 @@ Date Modified: 1st February 2024
 File Folder: Day 1 - Thursday
 #ThetaChi #AFLV2024
 
+# Learning Objectives
+
+1. Gain new perspectvies regarding queer emn in fraternity and overall fraternity culture
+2. Identify signs of hypermasculine culture in fraternity and recognize the effects it can have on queer members
+3. Learn skills to address problematic cultures and behaviors found in fraternity and other student organizations
+4. Prepare plans to support for queer students in fraternity.
+
+# Perspective and Positionality of Talk
+
+Hunter information:
+- Grew up in a small Texas town near Houston
+	- Catholic and conservative house
+- Wanted to join Greek life as both parents were in it.
+- Went to LSU which was more conservative and catholic 
+- Went to Austin to get married with his high school girlfriend
+- Had a sexual awakened during grade school during a diversity class
+- Led to divorce and move to Ohio State for work
+- Married to his husband in Columbus
+
+
+
