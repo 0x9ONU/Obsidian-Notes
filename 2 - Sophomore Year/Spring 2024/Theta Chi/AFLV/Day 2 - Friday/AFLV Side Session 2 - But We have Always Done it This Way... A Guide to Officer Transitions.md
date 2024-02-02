@@ -10,6 +10,7 @@ Speaker: Salam Awwad
 - Delta Sigma Phi
 - Illinois State University as grad
 - University of Alabama of Birmingham
+- swawwad@gmail.com
   
   # Objectives
 
@@ -115,4 +116,62 @@ title: Important Dates
 	- Advisor
 - **Resources**
 
+# Creating The Process
 
+## Knowing Your Calendar and Election Timeline
+
+- **Opening Applications**
+	- Aug 26: Election Apps are Live!
+		- Open for 1 Month
+		- 5 Weeks prior to Elections
+- **Week 1 Prior**
+	- Sept. 23: Reminders
+	- Sept. 26: Close Applications
+	- Sept. 27: Review of Applicants
+- **Officer Elections Week**
+	- Sept. 30: Elections!
+- **Director Interviews**
+	- Oct. 7-14: Director Interviews (Done by bot incoming/outgoing officers)
+- **Confirmation and Overview**
+	- October 21: Confirmation of officers by Full Council
+	- November: Overview of Positions
+- **Last Council Meeting** 
+	- Dec. 9: Transition of Power
+
+```ad-important
+You can't transition anymore in only 30 minutes
+```
+
+- Officer Elections (9/25)
+- Director Interveiws (10/2)
+- IFC Overview (10/16)
+- IFC Positional Overview and Goals (11/4)
+- Strategic Planning (11/11)
+- Policies, Processes & Programs (11/18)
+- Planning for the Spring (12/2)
+- Official IFC Transition (12/9)
+
+# Continuing the Process
+
+**Access the Current Process**
+
+**Updating**
+- Did we discuss the process?
+- Was it useful?
+- Did we have any gaps?
+- What do we wish you would have known at the start?
+- Did we actually use our resources?
+- What can we do better?
+
+# Wrap Up
+
+- Start with the end in mind
+- Find, create and use your resources
+- Create your foundation and timeline
+- Build your process
+- Trust the process
+- Take it one moment at a time
+
+```ad-important
+Look over documents that he shared
+```
