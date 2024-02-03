@@ -62,3 +62,21 @@ These boundaries should never move regardless of what people say
 - Prefer not to answer text or calls after 6pm, but if it is important, take the call or respond.
 ```
 
+## Looking Forward
+
+**Review Your Boundaries**
+- These can change, make them what *you need*
+
+**Utilize the 4 tools for balancing**
+- These are tools for you to really learn to balance leadership with life.
+
+**Take it back to your chapter/councils**
+- Share it with your chapter members. Make sure they know your life balance and boundaries.
+
+```ad-important
+Remember to take care of yourself.
+- Do not pushaway other parts of your life to try and focus on one part of your life
+```
+
+
+
