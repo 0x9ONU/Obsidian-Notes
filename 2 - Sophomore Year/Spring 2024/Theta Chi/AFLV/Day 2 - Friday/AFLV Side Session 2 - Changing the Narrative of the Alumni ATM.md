@@ -46,3 +46,83 @@ Omega Chapter recently celebrated their centennial anniversary at University Y. 
 # Root Causes
 
 True reason that issues occur. When addressed, it can alleviate multiple causes and symptoms with one action.
+
+```ad-example
+Root Cause Scenario #2:
+- The executive board has not set boundaries or expectations with tehir advisory board. This has led them to become "over-involved".
+```
+
+## Addressing Root Causes
+
+```ad-note
+For the discussion purposes, our collective root cause has been determined to be a lack of alumni involvement.
+```
+
+## Combating Root Causes
+
+### Professional Development
+
+- Field of study mentorship program
+- Hosting mini career fairs
+- Various workshops:
+	- job applications
+	- resume and cover letter
+	- interview
+
+### Organizational Operations
+
+- Advisors are **THE** consistency of chapters, utilize them.
+- Include them in retreats and goal setting opportunities
+- Invite them to observe member education sessions & celebrations
+- Invite them to host recruitment events at their business
+- Invite your advisor to chapter meetings and executive meetings
+
+### Social Interactions & Relationships
+
+- Create a "Big Brother" program with alumni
+- Homecoming events**
+- Host monthly events for both alumni and actives to come together
+
+### Philanthropic & Service Events
+
+- Invite alumni to your evetns
+- Choose causes that are meaningful to alumni
+- Find orgs/companies owned and operated by alumni
+- Ask alumni and their orgs/companies to sponsor your events
+
+### Financial Contributions
+
+- ALWAYS state the reason and benefits
+- Be specific and include the vision
+- Set up specific donation accounts
+- Be patient. Money will come as engagement grows.
+
+### Appreciation Efforts
+
+- Volunteer Appreciation Week '24
+- Create recognition/YT events
+- Handwritten TY cards
+- Invite them to meals
+- Send them gift-cards for a nice meal with their family 
+- chapter meeting recognition
+- Flowers/gifts when they are impacted by a serious issue.
+
+# Questions to Ask:
+
+1. How would you like alumni to be inovlved with your chapter?
+2. What do you need from alumni for the relationship described above?
+3. What are some new ways your chapter can reach out to alumni?
+
+# Best Practices
+
+- Understand your org's perimeters around volunteers/advisors
+- Set expectations annually
+- Contact alumni ASAP. (A month advanced minimum)
+- Create a comprehensive database
+- Utilize effective communication
+- Create a newsletter
+- ALWAYS respond
+- Utilize your IHQ
+- Simply reach out and ask
+
+
