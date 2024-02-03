@@ -15,4 +15,50 @@ Lily Keister
 - Leadership
 - Balancing Greek Life with Your Life
 
-# 
+# Balance
+
+**Lead by Example**
+- Change chapter culture
+- Do not stay up as late for your chapter operations.
+
+**It's not that deep**
+- Thank you for letting me know
+- Do not let small things affect you
+- "X did not show up to an event" 
+	- Who cares???
+
+**Delegate Tasks**
+- phone a brother/friend
+- Even if they do it slightly wrong, it is better than doing it alone.
+- Pull leaders from the community. You are not limited to Greek Life
+
+**Its okay to say *NO***
+- Start small, your calendar will thank you
+- Do not be the "yes" person
+- Do not accept an offer at the last second
+- Do *not* feel guilty to say no. It will become easier overtime
+
+## Balance and Boundaries are **NOT** the same
+
+**Hard Boundaries**
+- Not flexible
+- They are the oak trees of boundaries
+- Sturdy and tough
+
+```ad-important
+These boundaries should never move regardless of what people say
+```
+
+```ad-example
+- Do not answer emails after 6pm. It can make you carried away with what you are doing.
+```
+
+**Soft Boundaries**
+- Flexible, they can bend when necessary.
+- Willow trees of boundaries
+- Flexible and flowing
+
+```ad-example
+- Prefer not to answer text or calls after 6pm, but if it is important, take the call or respond.
+```
+
