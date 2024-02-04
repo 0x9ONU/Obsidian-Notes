@@ -63,4 +63,9 @@ Kant aimed to fix the two basic tests of inconsistency by making a single princi
 
 **Principle of Universalizability*
 - An act is morally acceptable if, and only if, its **maxim** is **universalizable**.
-- **Maxim** - 
+- **Maxim** - A principle or action you give yourself when you are about to do something.
+	- States what you are about to do, and why you are about to do it.
+	- Kant believes that every action we take could have a maxim
+	- If we don't have a maxim, we are not acting
+	- Two people doing the same thing might have their own maxim
+- Has everything to do with the intension of the action rather than the consequence of that action.
