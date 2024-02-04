@@ -69,3 +69,7 @@ Kant aimed to fix the two basic tests of inconsistency by making a single princi
 	- If we don't have a maxim, we are not acting
 	- Two people doing the same thing might have their own maxim
 - Has everything to do with the intension of the action rather than the consequence of that action.
+	- If someone is evil and does an negative action that ends up being a net positive, it should not be excusable regardless.
+
+**Testing for Universalizability**
+- 
