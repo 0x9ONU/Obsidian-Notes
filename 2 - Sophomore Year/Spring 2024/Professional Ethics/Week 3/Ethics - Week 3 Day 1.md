@@ -11,7 +11,7 @@ collapse: open
 
 ```
 
-# Consequentialsim
+# Consequentialism
 
 An action that is **morally required** just because it produces the best *overall* results.
 1. What is intrinsically good?
@@ -20,9 +20,22 @@ An action that is **morally required** just because it produces the best *overal
 4. For each option, determine *net balance* of value: $\Sigma$ good - $\Sigma$ bad
 5. Pick action with *greatest* net balance $\rightarrow$ "optimific" choice/moral duty
 
+```ad-warning
+- **Optimific Choice** Does not equal the maximal good or minimizing bad. You have to maximize the good minus the bad
+- Just choosing any action with *positive* netbalance/utility is *not* necessarily morally right.
+- Sometimes, choosing aciton with *negative* net balance/utility is morally *required*
+- Options - available + feasible to *you*
+	- Can include doing nothing or no change
+- Must consider options + outcomes *im*partially - cannot privilage oneself.
+```
 # Act Utilitarianism
 
-1. 
+1. Well-being/happiness
+2. Faring poorly/*un*happiness
+3. Options
+4. For each option, determine *not utility*: $\sum$ happiness - $\sum$ unhappiness
+	1. must considered **EVERYONE** affect + weigh everyone's happiness equally
+5. **Principle of Utility**: An action is **MORALLY REQUIRED** if and only if it does more to improve overall well-being than any other action you *could* have done in the circumstances.
 
 # George's Scenario
 
