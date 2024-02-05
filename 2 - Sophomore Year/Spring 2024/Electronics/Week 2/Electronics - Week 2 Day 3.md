@@ -108,13 +108,27 @@ Consider an amplifier operation from $\pm 10 V$ power supplies. It is fed with a
 $$A_v = \frac{V_o}{V_I} = \frac{9}{1} = 9$$
 **Current gain**
 
-$$A_i = \frac{I_o}{I_i} = \frac{9.5mA}{0.1mA} = 95$$
+$$A_i = \frac{I_o}{I_i} = \frac{9.0mA}{0.1mA} = 90$$
 
 **Power Gain**
 
-$$A_p = A_v * A_i = 855$$
+$$A_p = A_v * A_i = 810$$
 
 **Power Drawn from DC Supplies**
 
+
+$$P_{dc} = V_{cc}I_{cc} + V_{ee}I_{ee} = 190mW$$
+
+**Power dissipated**:
+
 $$P_I = v_i * i_i = 0.1 mW$$
-$$P_{dc} = V_{cc}I_{cc}$$
+$$P_L = 9mA * 9V = 81mW$$
+
+$$P_{dc} + P_I = P_L +P_D$$
+$$(0.19) +(0.0001) = (0.081) + P_D$$
+$$P_D = 109 mW$$
+
+**Power Efficiency**
+
+$$\mu = \frac{P_L}{P_{dc}} * 100$$
+$$\mu = 42.6\%$$
