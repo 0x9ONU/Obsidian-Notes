@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 3.md"
               }
             }
           }
@@ -172,345 +172,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "d10c747c03df1cbd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e58707c0ce6231a4",
-        "type": "window",
-        "children": [
-          {
-            "id": "60d9ade2aae8cf7d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9af5c3f7b902b369",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.12.49.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "e9669124e4055abc",
-        "type": "window",
-        "children": [
-          {
-            "id": "9285acccd68b5c34",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a341b5836dd12e2d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.13.28.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "0c2a4ef2aba73969",
-        "type": "window",
-        "children": [
-          {
-            "id": "02e22c4d5819ce7b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "00c770b5d406ea3a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.16.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 2.5
-      },
-      {
-        "id": "1090637a217dc4b6",
-        "type": "window",
-        "children": [
-          {
-            "id": "cd23aa250620fe77",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c590496e8cf326ca",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.23.22.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "6ab384c0aab9950b",
-        "type": "window",
-        "children": [
-          {
-            "id": "2c397eade28da2df",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "886cd0c30e67d1ee",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.25.08.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "11d8dba9284a0289",
-        "type": "window",
-        "children": [
-          {
-            "id": "17960c948fb933ae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "75c45d839373f471",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.26.51.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 2.5
-      },
-      {
-        "id": "fccf9a6f74f9a34d",
-        "type": "window",
-        "children": [
-          {
-            "id": "0a0caf3e98215873",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a44387897876e7a1",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.33.46.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "2041854c73a8f6a3",
-        "type": "window",
-        "children": [
-          {
-            "id": "2dfdfdb247fab297",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "68247846ec0ebb42",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.37.42.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "dfd939af0ccfe4f3",
-        "type": "window",
-        "children": [
-          {
-            "id": "654025df5b0d8333",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "36c8c3c60ff4dbe3",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.02.19.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "343d3c657e14d0b7",
-        "type": "window",
-        "children": [
-          {
-            "id": "09fff311c845a85c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5dfe48965abd3c89",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.13.09.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 2.5
-      },
-      {
-        "id": "08542dd97f529895",
-        "type": "window",
-        "children": [
-          {
-            "id": "88804cdc24fdc10e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "46af2b795efecbf2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.44.26.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      }
-    ]
-  },
   "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3",
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.45.39.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.47.09.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.44.26.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.13.09.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.02.19.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 1.md",
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.45.09.excalidraw.md",
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.37.42.excalidraw.md",
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.33.46.excalidraw.md",
