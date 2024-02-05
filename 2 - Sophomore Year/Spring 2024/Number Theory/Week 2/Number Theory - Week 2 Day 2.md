@@ -7,9 +7,7 @@ File Folder: Week 2
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- EEA
 
 ```
 
@@ -51,3 +49,36 @@ Use the Extended Euclidean alogirhm to find $x$ and $y$ such that $246x+194y = g
 | 0                  | 2                 | -                           | -                         |
 $$x = -41, y = 52$$
 $$gcd(246, 192) = 246(-41) + 194(52) = 2$$
+## Pseudocode
+
+```
+xeuclid(int a, int b, int gcd, int x, int y)
+	int q, r, xx, yy, sign
+	int xs[2], ys[2]
+	// The coefficients are initialized
+	xs[0] = 1 xs[1] = 0
+	ys[0] = 0 ys[1] = 1
+	sign = 1
+	// As long as b!=0, replace a by b and b by a % b
+	// We also update coefficients x and y
+	while (b!= 0 {
+		r = a % b  
+		q = a / b  
+		a = b  
+		b = r  
+		xx = xs[1]  
+		yy = ys[1]  
+		xs[1] = xs[0] - q * xs[1]  
+		xs[1] = ys[0] - q * ys[1]  
+		xs[0] = xx  
+		ys[0] = yy
+	}
+	Extended Euclidean Algorithm: Programming  
+	// Final computations of the coefficients  
+	x = xs[0]  
+	y = ys[0]  
+	// Final computation of gcd  
+	gcd = a
+		
+```
+
