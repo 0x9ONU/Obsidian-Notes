@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#aflv",
+                "query": "norton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,12 +174,18 @@
   },
   "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2  Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 3.md",
     "General Notes/PXL_20240205_221839284.jpg",
     "General Notes/PXL_20240205_220722231.jpg",
     "General Notes/Electronics - Week 2 Day 3 2024-02-05 16.57.23.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3",
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.45.39.excalidraw.md",
@@ -187,7 +193,6 @@
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.44.26.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.13.09.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.02.19.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3",
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.45.09.excalidraw.md",
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.37.42.excalidraw.md",
@@ -196,13 +201,9 @@
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.26.51.excalidraw.md",
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.25.08.excalidraw.md",
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.23.22.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2  Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 2.md",
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.16.32.excalidraw.md",
     "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.13.28.excalidraw.md",
-    "General Notes/Physics 2 - Week 3 Day 1 2024-02-05 11.12.49.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 3",
     "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 3 - Saturday",
@@ -218,7 +219,6 @@
     "General Notes/Pasted image 20231209172332.png",
     "General Notes/Pasted image 20231209171820.png",
     "General Notes/Pasted image 20231209171808.png",
-    "General Notes/Pasted image 20231209171728.png",
-    "General Notes/Pasted image 20231209171719.png"
+    "General Notes/Pasted image 20231209171728.png"
   ]
 }
