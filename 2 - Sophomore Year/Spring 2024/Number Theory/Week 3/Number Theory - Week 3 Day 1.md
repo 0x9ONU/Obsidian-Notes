@@ -9,6 +9,7 @@ collapse: open
 
 - Primes Continued
 - LCM Continued
+- Finding Prime Numbers
 
 ```
 
