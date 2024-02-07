@@ -106,6 +106,54 @@ It is requried to connect a transducer having an open-circut voltage of $1V$ and
 
 ![[Electronics - Week 3 Day 2 2024-02-07 13.33.02.excalidraw]]
 
+$$v_0 = \frac{1k}{1M+1k}(1V)$$
+$$v_o = 1mV$$
+
 **Unity Gain Voltage Follower**
 
 ![[Electronics - Week 3 Day 2 2024-02-07 13.35.52.excalidraw]]
+
+$$v^+ = 1V = v^-$$
+$$v_i = v_o$$
+$$v_o = 1V$$
+
+### Example 3:
+
+```ad-question
+Assuming ideal op-amps, find the votlage gain $v_o/v_i$ and input resistance $R_{in}$ fore ach of the circutis shown below
+```
+
+**Circuit 1**
+
+![[Electronics - Week 3 Day 2 2024-02-07 13.42.17.excalidraw]]
+
+```ad-important
+You can ignore the bottom $20k \Omega$ resistor since it is connected to the node where $v^+ = v^- = 0$
+```
+
+Inverting OP-Amp
+
+$$R_{in} = 20k \Omega$$
+$$A = \frac{-R_2}{R_1} = \frac{-100k}{20k} = -50 V/V$$
+
+
+**Second Circuit**
+
+![[Electronics - Week 3 Day 2 2024-02-07 13.45.41.excalidraw]]
+
+```ad-note
+Since there is no current going through the op-amp, there is no voltage drop over the bottom $20 k \Omega$ Resistor
+```
+$$R_{in} = 20k$$
+$$A = \frac{-R_2}{R_1}$$
+$$= \frac{-100k}{20k} = -5 \space V/V$$
+### Example 4:
+
+```ad-question
+Design an inverting op-amp circuit for which the gain is $-10 \space V/V$ and the total resistance used is $110 k \Omega$
+```
+
+$$A = \frac{-R_2}{R_1} = -10 \space V/V$$
+$$R_2 + R_1 = 110k \Omega$$
+
+$$A = \frac{-(100k \Omega)}{(10k \Omega)} = -10 \space V/V$$

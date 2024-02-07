@@ -357,13 +357,74 @@
         "height": 800,
         "maximize": true,
         "zoom": 2.5
+      },
+      {
+        "id": "8f2212feb5bc0707",
+        "type": "window",
+        "children": [
+          {
+            "id": "0dabd4353d7bf470",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a574ce8ccad5619b",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.42.17.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
+      },
+      {
+        "id": "7b3740924b820df8",
+        "type": "window",
+        "children": [
+          {
+            "id": "5445244552f24256",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0273729be2fc0753",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.45.41.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
       }
     ]
   },
   "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
-    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.13.42.excalidraw.md",
+    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.45.41.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
+    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.42.17.excalidraw.md",
+    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.35.52.excalidraw.md",
+    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.13.42.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.07.16.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.03.02.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
@@ -387,10 +448,7 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2  Day 1.md",
     "General Notes/PXL_20240205_221839284.jpg",
     "General Notes/PXL_20240205_220722231.jpg",
-    "General Notes/Electronics - Week 2 Day 3 2024-02-05 16.57.23.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3",
-    "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.45.39.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 3",
