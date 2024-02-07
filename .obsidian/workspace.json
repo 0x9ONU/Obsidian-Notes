@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "number theory template",
+                "query": "[\"excalidraw-plugin\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md"
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md"
               }
             }
           },
@@ -270,15 +270,106 @@
         "height": 800,
         "maximize": true,
         "zoom": 2.5
+      },
+      {
+        "id": "64a720aad04f341b",
+        "type": "window",
+        "children": [
+          {
+            "id": "f1bf1ec75f4a1376",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "28ba42111b448502",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.03.02.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 2.5
+      },
+      {
+        "id": "8a4ab4f904557845",
+        "type": "window",
+        "children": [
+          {
+            "id": "2c34542d849b2304",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e397bc48ce87106b",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.07.16.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 2.5
+      },
+      {
+        "id": "0fd1c31103562f61",
+        "type": "window",
+        "children": [
+          {
+            "id": "1967477e156815a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8982318afc6ff96c",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.13.42.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2.5
       }
     ]
   },
   "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
-    "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.15.13.excalidraw.md",
+    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.13.42.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
+    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.07.16.excalidraw.md",
+    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.03.02.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
-    "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.08.53.excalidraw.md",
     "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.42.57.excalidraw.md",
+    "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.15.13.excalidraw.md",
+    "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.08.53.excalidraw.md",
     "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.41.26.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 1.md",
@@ -300,10 +391,6 @@
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3",
     "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.45.39.excalidraw.md",
-    "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.47.09.excalidraw.md",
-    "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.44.26.excalidraw.md",
-    "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.13.09.excalidraw.md",
-    "General Notes/Electronics - Week 3 Day 1 2024-02-05 13.02.19.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 3",
