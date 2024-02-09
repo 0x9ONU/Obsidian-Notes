@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "062444f9813d492b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md"
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 3.md"
               }
             }
           },
@@ -180,10 +193,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d39e3a93befa25ba",
+  "active": "062444f9813d492b",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
     "General Notes/Ethics - Week 3 Day 2 2024-02-07 14.08.00.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
     "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.45.41.excalidraw.md",
@@ -201,13 +216,11 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 1.md",
     "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.31.17.excalidraw.md",
     "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.21.51.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 2.md",
     "Templates/Number Theory/Number Theory Template.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 3.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 2/Electronics - Week 2 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 1.md",
     "General Notes/PXL_20240205_221839284.jpg",
     "General Notes/PXL_20240205_220722231.jpg",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3",

@@ -70,7 +70,7 @@ $$k = 5 + 3k \Rightarrow k=2+3+3k \Rightarrow k =2+3k \prime$$
 title: Theorem
 Let $a$ and $n>0$ be itnergers.
 1. Then $a \equiv a$
-2. If $a \equiv b$ (\mod n)$, then $b \equiv a (\mod n)$
+2. If $a \equiv b (\mod n)$, then $b \equiv a (\mod n)$
 3. If $a \equiv b (\mod n)$ and $b \equiv c (\mod n)$, then $a \equiv c (\mod n)$.
 $$\space$$
 In other words, congruence modulo $n$ is **an equivalence relation**.
