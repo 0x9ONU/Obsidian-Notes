@@ -156,6 +156,25 @@ Starting from congruent class 0, add a one to the next row unitl you hit $n - 1$
 These class representative (ex. $0-3$) are the possible remainders when dividing by $n$
 ```
 
+#### Definition
+
+Suppose $m$ is a positive integer. Given an inter $a$ by division algorithm, we have $a =bm+r$ where $0 \le r \le m-1$
+
+**Then** $$a \equiv r \mod n$$
+```ad-important
+So, every integer is congruent modulo $m$ to one of the numbers $0 \le r \le m-1$
+```
+
+```ad-note
+Also known as the **complete set of residues mod m**
+```
+
+
+
+
+
+
+
 
 
 
