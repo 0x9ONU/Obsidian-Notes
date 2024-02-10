@@ -71,5 +71,10 @@ Kant aimed to fix the two basic tests of inconsistency by making a single princi
 - Has everything to do with the intension of the action rather than the consequence of that action.
 	- If someone is evil and does an negative action that ends up being a net positive, it should not be excusable regardless.
 
+```ad-note
+For Kant, the mroality of our actions has nothing to do with results, and EVERYTHING to do with our intentions and reasons for action.
+```
+
+
 **Testing for Universalizability**
 - 
