@@ -157,3 +157,4 @@ $$A = \frac{-R_2}{R_1} = -10 \space V/V$$
 $$R_2 + R_1 = 110k \Omega$$
 
 $$A = \frac{-(100k \Omega)}{(10k \Omega)} = -10 \space V/V$$
+
