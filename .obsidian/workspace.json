@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md"
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md"
               }
             }
           },
@@ -180,104 +180,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "98c158203f8e8d94",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f2046c8567bb73ef",
-        "type": "window",
-        "children": [
-          {
-            "id": "e90d9df7da0ab8cd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5d1738fa7db3c3b7",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 3 Day 3 2024-02-09 13.03.12.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "25b28e3459865a58",
-        "type": "window",
-        "children": [
-          {
-            "id": "7486f33cb34598d5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e6570c7c5e85508d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 3 Day 3 2024-02-09 13.06.21.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2.5
-      },
-      {
-        "id": "100c1a738fa6c3e3",
-        "type": "window",
-        "children": [
-          {
-            "id": "51dfbcfe7d419571",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a356dfd91dda23d4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 3 Day 3 2024-02-09 13.14.33.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
   "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md",
     "General Notes/Electronics - Week 3 Day 3 2024-02-09 13.14.33.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 3 2024-02-09 13.06.21.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md",
     "General Notes/Electronics - Week 3 Day 3 2024-02-09 13.03.12.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Drawing 2024-02-09 12.58.47.excalidraw.md",
@@ -300,7 +208,6 @@
     "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.35.52.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.13.42.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.07.16.excalidraw.md",
-    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.03.02.excalidraw.md",
     "General Notes/PXL_20240205_221839284.jpg",
     "General Notes/PXL_20240205_220722231.jpg",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3",

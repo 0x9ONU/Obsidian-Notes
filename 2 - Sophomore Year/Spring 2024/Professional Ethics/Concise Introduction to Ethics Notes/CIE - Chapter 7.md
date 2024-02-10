@@ -12,7 +12,7 @@ When someone does not choose to pay their taxes, they may argue that it can brin
 However, despite the outcome, an action can still be wrong as:
 - They have simple immorality
 - What they did was unfair
-- They took advantage of teh system
+- They took advantage of the  system
 - They broke the rule that work to everyone's benefit
 - They violated the rights of others
 
@@ -55,7 +55,7 @@ It could lead to untrue cases; however. Be careful how you use it and avoid usin
 If you do not want to be slandered or exploited, then do not do such things to others
 ```
 
-## The Principle of Univerzability
+## The Principle of Universability
 
 ```ad-note
 Kant aimed to fix the two basic tests of inconsistency by making a single principle that captures both questions while fixing their errors
