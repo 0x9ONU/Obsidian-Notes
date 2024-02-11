@@ -77,4 +77,87 @@ For Kant, the mroality of our actions has nothing to do with results, and EVERYT
 
 
 **Testing for Universalizability**
-- 
+1. Formulate your maxim clearly - state what you intend to do and why you intend to do it.
+2. Imagine a world in which **everyone** supports and acts on your maxim.
+3. Then ask: Can the goal of my action be achieved in such a world?
+
+## Hypothetical and Categorical Imperatives
+
+When we act on a maxim that is not universalized, then we are contradicting ourselves.
+- When someone acts on assumptions and bad reason, they are acting irrationally.
+
+**Hypothetical Imperatives**
+- Imperatives/commands of reason.
+- Command us to do whatever is needed in order to get what we care about.
+- Tell us how to achieve our goals.
+
+```ad-example
+If my goal is to lose twenty pounds, then reason requires me to forgo a pint of ice cream.
+```
+
+**Categorical Imperatives**
+- Commands of reason that are rational requirements that apply to a person regardless of what he or she cares about.
+- Applies to everyone who possesses reason.
+
+```ad-note
+Kant believed that *all moral duties* are contegorical imperatives.
+```
+
+### Argument for the Irrationality of Immorality
+
+If all moral duties are categorical imperatives, then we act rationally when we act immorally and vice-versa.
+
+**Kant's Argument**:
+1. If you are rational, then you are consistent.
+2. If you are consistent, then you obey the principle of universalizability.
+3. If you obey the principle of universalizability, then you act morally.
+4. Therefore, if you are rational, then you act morally.
+5. Therefore, if you act immorally, then you are irrational.
+
+## Assessing the Principle of Universalizability
+
+```ad-warning
+Fails as a general test for the morality of our actions.
+- A maxim's universalizability is **NOT** a guarantee of an action's rightness.
+```
+
+```ad-example
+If a robber chose to rob a bank in order to put a bank out of business, it would still pass the principle of universalizabililty.
+- If everyone acted that way, the goal *could* be achieved.
+```
+
+## Kant on Absolute Moral Duties
+
+```ad-note
+Kant **never** gave an arguemnt for the claim that moral rules prohibit things such as lying and killing are **absolute**
+```
+
+In a conflict between moral duty and other demands, such as law, self-interest, or tradition, morality wins.
+
+Kant failed to realize that his philosophy can justify lying to an inquiring murderer.
+
+```ad-important
+An action cannot be determiend to be right or wrong *until* we know its maxim.
+- This makes it very difficult to make an aciton universalizable.
+- It makes it much harder than Kant thought to defend the existence of absolute moral duties
+```
+
+## The Principle of Humanity
+
+```ad-summary
+title: Definition
+Always treat a human being (yourself included) as an end, and *never* as a mere means.
+```
+
+**Humanity** - All rational and autonomous beings regardless of species.
+
+**Treating someone as an end** - With the respect they deserve
+
+**Treating someone as a means** - Dealing with them so that they help you achieve one of your goals.
+
+
+
+
+
+
+
