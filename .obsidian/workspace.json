@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md"
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 2.md"
               }
             }
           },
@@ -181,8 +180,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c207b49f638b03f6",
+  "active": "d39e3a93befa25ba",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 2/Number Theory - Week 2 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md",
     "General Notes/Electronics - Week 3 Day 3 2024-02-09 13.14.33.excalidraw.md",
@@ -199,8 +201,6 @@
     "General Notes/Physics 2 - Week 3 Day 3 2024-02-09 11.05.47.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 2/Number Theory - Week 2 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
     "General Notes/Ethics - Week 3 Day 2 2024-02-07 14.08.00.excalidraw.md",
@@ -208,7 +208,6 @@
     "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.42.17.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.35.52.excalidraw.md",
     "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.13.42.excalidraw.md",
-    "General Notes/Electronics - Week 3 Day 2 2024-02-07 13.07.16.excalidraw.md",
     "General Notes/PXL_20240205_221839284.jpg",
     "General Notes/PXL_20240205_220722231.jpg",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3",
