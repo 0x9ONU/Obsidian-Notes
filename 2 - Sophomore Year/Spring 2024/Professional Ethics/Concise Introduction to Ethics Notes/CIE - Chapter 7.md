@@ -155,6 +155,47 @@ Always treat a human being (yourself included) as an end, and *never* as a mere 
 
 **Treating someone as a means** - Dealing with them so that they help you achieve one of your goals.
 
+**Threating someone as a *mere* means** - When someone fails to recognize any of his distinctively human features.
+
+```ad-warning
+No one can treat people both as an *end* and as a *mere* means
+```
+
+```ad-note
+Kant claims that since we are rational and autonomous, we gain a special moral status over other creatures.
+- Believed humans were literally priceless
+```
+
+Thus, Kant believed the following:
+1. Fanatic's actions are immoral
+2. Slavery and rape are always immoral
+3. **Paternalism** is bad
+4. Autonomy justifies the attitude of never abandoning the hope in people.
+5. Universal Human Right Exist
+6. Autonomy explains our practices of holding one another accountable.
+
+### Problems with the Principle of Humanity
+
+The principle can be difficult to apply as the treating someone as an end or as a means is hard to define.
+- No straightforward test
+
+Also suffers from determining the scope of the moral community.
+- Makes the lines very narrow as it is dependent on rationality and autonomy.
+- Some important groups, such as babies, are not included.
+
+```ad-example
+**Argument Against Animals**
+1. If the principle of humanity is ture, then animals ahve no rights.
+2. If animals have no rights, then it is morally acceptable to torture them.
+3. Therefore, if the principle of humanity is ture, then it is morally acceptable to torture animals.
+4. This is not the case.
+5. Therefore, the principle of humanity is false.
+```
+
+
+
+
+
 
 
 
