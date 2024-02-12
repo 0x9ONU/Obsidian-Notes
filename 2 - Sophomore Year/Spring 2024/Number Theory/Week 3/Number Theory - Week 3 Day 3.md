@@ -7,9 +7,9 @@ File Folder: Week 3
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Complete Set and Canonical Set
+- Congruent Modulo Distinct Solutions
+- Inverse Modulo
 
 ```
 
