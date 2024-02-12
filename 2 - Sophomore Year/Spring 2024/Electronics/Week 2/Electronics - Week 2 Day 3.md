@@ -60,9 +60,7 @@ $$A_p = A_v A_i$$
 - **Voltage**: $20\log{|A_v|}$
 - **Current**: $20\log{|A_i|}$
 - **Power**: $10 \log{A_p}$
-
 # Amplifier Power Supplies
-
 When amplifiers provide voltage, current, and power gain, the added power comes from the DC power supplies which are connected to the amplifier.
 
 ![[PXL_20240205_221839284.jpg]]
