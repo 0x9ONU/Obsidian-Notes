@@ -92,6 +92,7 @@ $$Z_{R_i} = R_i$$
 $$Z_c = \frac{1}{jwc}$$
 ```
 
+
 ### Bad Cases
 
 ```ad-important
@@ -101,6 +102,88 @@ At DC $\Rightarrow w=0 \Rightarrow Z_i = \frac{1}{jwc} = \infty$
 - $\Rightarrow$ WIth no feed back resistor, $v_o = \infty$ as the op-amp becomes saturated.
 ```
 
+```ad-important
+title: At a High Frequency
 At **HIGH** frequency $\Rightarrow w = \infty \Rightarrow Z_cf = \frac{1}{1(\infty)c} = 0$
 - $\Rightarrow$ Capacitor would act as a short circuit
 - $\Rightarrow$ All the current would flow through the capacitor, so $v_o = 0$
+```
+
+
+### Time Domain Analysis:
+
+- $v_+ = v_- = 0$
+
+**Node $v_-$**
+
+$$\frac{v_- - v_i}{R_i}+C \frac{d(v_- - v_o)}{dt} + i_i = 0$$
+
+```ad-note
+$v_-$ & $i_-$ are both zero
+```
+
+$$-\frac{v_i}{R_i} - C\frac{dv_o}{dt} = 0$$
+$$C \frac{d v_o}{dt} = -\frac{v_i}{R_i}$$
+$$\frac{dv_o}{dt} = -\frac{v_i}{R_i C}$$
+$$Integrate \Rightarrow v_o = \frac{-1}{R_i C} \int_0^t v_i(t) dt$$
+
+### Phasor/Frequency Domain
+
+```ad-note
+$$Z_{R_i} = R_i$$
+$$Z_C = \frac{1}{jwc} = \frac{1}{SC}$$
+```
+
+![[Electronics - Week 3 Day 3 2024-02-12 13.09.18.excalidraw]]
+
+$$v_o = - \frac{Z_f}{Z_i} v_i$$
+
+$$v_o = -\frac{\frac{1}{jwc}}{R_i}v_i$$
+$$H(s) = \frac{1}{jwcR_i} = \frac{1}{ScR_i}$$
+
+### Adding a Resistor to Fix Low Frequency
+
+```ad-important
+Solves the problem when $w = 0$ to avoid an open circuit
+```
+
+![[Electronics - Week 3 Day 3 2024-02-12 13.13.57.excalidraw]]
+
+Instead of acting as an open circuit at DC, the op-amp would then act as a standard inverting amplifier.
+
+**Change in Impedance**
+$$Z_f = R_f // \frac{1}{jwc}$$
+$$\Rightarrow v_o = - \frac{R_f // \frac{1}{jwc}}{R_i} v_i$$
+$$v_o = - \frac{\frac{R_f}{R_i}}{1+ jwR_f}$$
+$$When \space w = 0 \Rightarrow v_o = -\frac{R_f}{R_i}$$
+
+## Example
+
+```ad-question
+Use an ideal op-amp to design an ivering integrator with an input resistance of $10 k\Omega$ and an integration time cosntant of $10^{-3} s$
+```
+
+![[Electronics - Week 3 Day 3 2024-02-12 13.21.37.excalidraw]]
+
+$$\tau = RC$$
+$$(10^{-3}) = (10k \Omega)C$$
+$$C = 0.1 \micro F$$
+
+## Inverting Differentiator
+
+![[Electronics - Week 3 Day 3 2024-02-12 13.27.07.excalidraw]]
+
+### Analysis
+
+$$v^+ = v^- = 0$$
+**At $v^-$**
+
+$$c \frac{d(v-v_i)}{dt} + \frac{v^--v_o}{R_f}= 0$$
+$$-c \frac{dv_i}{dt} - \frac{v_o}{R_f} = 0$$
+$$V_o = -R_f C \frac{dv_i}{dt}$$
+
+```ad-warning
+$$w=0 \Rightarrow Z_c \frac{1}{jwc} \Rightarrow v_0 = 0 \space (Open)$$
+$$w = \infty \Rightarrow v_o = \infty \space (Saturate)$$
+```
+
