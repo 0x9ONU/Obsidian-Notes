@@ -168,9 +168,11 @@ $$(a+b)^p \equiv a^p + b^p \mod p$$
 ```ad-note
 title: Hint
 Utilize the following:
-$$(a+b)^n = (n \choose 0) a^n b^0 + (n \choose 1) a^{n-1}b^1+...+(n \choose n) a^0 b^n$$
-$$(n \choose k) = \frac{n!}{k!(n-k)!$$
+$$(a+b)^n = {n\choose0} a^n b^0 + {n\choose1} a^{n-1}b^1+...+{n\choose n} a^0 b^n$$
+$${n \choose k} = \frac{n!}{k!(n-k)!}$$
 ```
+
+
 
 
 
