@@ -58,7 +58,7 @@ $$A_p = A_v A_i$$
 ## Expressing Gain in Decibels
 
 - **Voltage**: $20\log{|A_v|}$
-- **Current**: $10\log{|A_i|}$
+- **Current**: $20\log{|A_i|}$
 - **Power**: $10 \log{A_p}$
 
 # Amplifier Power Supplies
