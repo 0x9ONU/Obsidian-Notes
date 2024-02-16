@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 2.md"
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md"
               }
             }
           },
@@ -180,16 +180,90 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "2ec2a0002475b53b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "272b6f1d97bf6bec",
+        "type": "window",
+        "children": [
+          {
+            "id": "bd99fbf6fb2394a4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d5857b5fd2ef11f",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.21.35.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 2
+      },
+      {
+        "id": "e62a2ce6528dab81",
+        "type": "window",
+        "children": [
+          {
+            "id": "e6e946a8a27c5afe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3c6a14e1ef8476b",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.45.35.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      }
+    ]
+  },
   "active": "b1b1d6cd51e97713",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 1.md",
+    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.45.35.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
+    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.21.35.excalidraw.md",
+    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.09.04.excalidraw.md",
+    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.13.34.excalidraw.md",
+    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.16.15.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
+    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.07.34.excalidraw.md",
+    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.03.26.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 3/Number Theory - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 2/Number Theory - Week 2 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
@@ -198,16 +272,6 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2  Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 2.md",
-    "General Notes/Electronics - Week 4 Day 2 2024-02-14 13.01.19.excalidraw.md",
-    "General Notes/Electronics - Week 4 Day 2 2024-02-14 13.34.36.excalidraw.md",
-    "General Notes/Electronics - Week 4 Day 2 2024-02-14 13.33.14.excalidraw.md",
-    "General Notes/Electronics - Week 4 Day 2 2024-02-14 13.31.11.excalidraw.md",
-    "General Notes/Electronics - Week 4 Day 2 2024-02-14 13.29.09.excalidraw.md",
-    "General Notes/Electronics - Week 4 Day 2 2024-02-14 13.26.41.excalidraw.md",
-    "General Notes/Electronics - Week 4 Day 2 2024-02-14 13.21.38.excalidraw.md",
-    "General Notes/Electronics - Week 4 Day 2 2024-02-14 13.15.32.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 4",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 4",
