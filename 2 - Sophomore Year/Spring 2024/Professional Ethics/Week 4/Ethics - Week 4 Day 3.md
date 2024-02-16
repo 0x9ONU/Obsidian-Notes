@@ -18,4 +18,8 @@ However, Kant also maintains that every person has a duty of beneficence, to hel
 Therefore, is it ever morally permissible to lie from a benevolent motive, to help others -say, to protect someone from danger?
 
 
+# Free-Loading
 
+Recall the lifeboat scenario. Suppose you are in the lifeboat. You are able - but unwilling - to contribute to the bailing effort to keep the lifeboat afloat.
+
+Are you morally in the wrong, violating your moral duty to the other passengers?
