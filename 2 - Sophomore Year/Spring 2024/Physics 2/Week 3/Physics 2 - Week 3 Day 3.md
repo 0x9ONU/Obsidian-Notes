@@ -70,7 +70,7 @@ $$Q_{enc} = \frac{r^3}{R^3}Q$$
 **Use Gauss's Law**
 $$\oint E^\to \cdot dA^\to = \frac{Q_{enc}}{\epsilon_o}$$
 $$\int E *dA = \frac{r^3}{R^3 \epsilon_o}Q$$$$E(4\pi r^2) = \frac{r^3}{R^3}Q$$
-$$E = \frac{Qr}{r\pi \epsilon_o R^3}$$
+$$E = \frac{Qr}{4\pi \epsilon_o R^3}$$
 
 ### Part B - Outside $(r>R)$
 

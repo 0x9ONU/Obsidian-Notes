@@ -7,9 +7,8 @@ File Folder: Week 4
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Fermat's Little Theorem
+- Euler's Phi Function
 
 ```
 
@@ -73,6 +72,7 @@ $$\phi(12) \Rightarrow 1, \cancel{2}, \cancel3, \cancel4, 5, \cancel6, 7, \cance
 
 $$\phi (12) = 4$$
 
+
 ```ad-question
 Write out the following:
 $$\phi(2)$$
@@ -129,7 +129,7 @@ Only the prime factors matter, *not* the powers
 #### Example
 
 ```ad-question
-Find $\phi(27)$ and $\phi(81)$
+Find $\phi(27)$$\phi(81), \space \& \space \phi(12)$
 ```
 
 **For 27**
@@ -144,6 +144,9 @@ $$81 = 3^4$$
 $$\phi(81) = 81(1- \frac{1}{3})$$
 $$\phi(81) = 54$$
 
+**For 12**
+
+$$\phi(12) = \phi(2^2 * 3) = 12(1-\frac{1}{2})(1-\frac{1}{3})$$
 ## Euler's Theorem
 
 ```ad-summary
@@ -171,8 +174,6 @@ Utilize the following:
 $$(a+b)^n = {n\choose0} a^n b^0 + {n\choose1} a^{n-1}b^1+...+{n\choose n} a^0 b^n$$
 $${n \choose k} = \frac{n!}{k!(n-k)!}$$
 ```
-
-
 
 
 

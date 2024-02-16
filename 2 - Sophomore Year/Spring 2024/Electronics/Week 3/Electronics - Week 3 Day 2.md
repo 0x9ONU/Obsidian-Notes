@@ -41,10 +41,10 @@ $R_o$ is a closed circuit $R_o = 0$
 
 $$i_1 = 0$$
 $$i_2 = 0$$
-$$U^+ = U^- = 0$$
-**Node $U^-$**
+$$V^+ = V^- = 0$$
+**Node $V^-$**
 
-$$\frac{U^- - V_i}{R_1} + \frac{U^--V_0}{R_2} = 0$$
+$$\frac{V^- - V_i}{R_1} + \frac{V^--V_0}{R_2} = 0$$
 $$\frac{V_o}{R_2} = \frac{-V_i}{R_1} \Rightarrow V_o = \frac{-R_2}{R_1} V_i$$
 $$A = \frac{-R_2}{R_1}$$
 

@@ -123,7 +123,7 @@ $$= E_1\cos\Theta + E_2 \cos\Theta$$
 $$=(E_1 + E_2) \cos\Theta$$
 $$= (\frac{kq}{r^2} + \frac{kq}{r^2})\cos \Theta$$
 $$E_x= \frac{2kq}{r^2} \cos \Theta$$
-$$E_x = \frac{2kq}{(a^2+y^2)} * \frac{1}{(a^2+y^2)^\frac{1}{2}}$$
+$$E_x = \frac{2kq}{(a^2+y^2)} * \frac{a}{(a^2+y^2)^\frac{1}{2}}$$
 $$E_x = \frac{2kqa}{(a^2+y^2)^\frac{3}{2}}$$
 #### Y-Axis
 
