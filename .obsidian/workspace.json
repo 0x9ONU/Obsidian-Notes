@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md"
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md"
               }
             }
           },
@@ -241,13 +241,76 @@
         "height": 800,
         "maximize": true,
         "zoom": 2
+      },
+      {
+        "id": "e7d7475407f314f7",
+        "type": "window",
+        "children": [
+          {
+            "id": "0693fe9c9ee77ace",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3fb9d3aec7318097",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.11.07.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "b6e59c3015103dd4",
+        "type": "window",
+        "children": [
+          {
+            "id": "34c9fbef8116cd52",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9d414a792d1707c",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.17.37.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
       }
     ]
   },
   "active": "b1b1d6cd51e97713",
   "lastOpenFiles": [
-    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.45.35.excalidraw.md",
+    "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.17.37.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md",
+    "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.11.07.excalidraw.md",
+    "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.02.58.excalidraw.md",
+    "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.07.58.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
+    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.45.35.excalidraw.md",
     "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.21.35.excalidraw.md",
     "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.09.04.excalidraw.md",
     "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.13.34.excalidraw.md",
@@ -267,11 +330,6 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2  Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 4",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 4",
