@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 1.md"
               }
             }
           },
@@ -180,11 +180,59 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "2ec2a0002475b53b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "222bb40876239918",
+        "type": "window",
+        "children": [
+          {
+            "id": "e7a17bb33bd01164",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "16bbccb60812be53",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.33.08.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      }
+    ]
+  },
   "active": "b1b1d6cd51e97713",
   "lastOpenFiles": [
+    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.33.08.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 1.md",
+    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.31.34.excalidraw.md",
+    "General Notes/Pasted Image 20240219113217_945.png",
+    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.26.10.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
+    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.25.23.excalidraw.md",
+    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.22.33.excalidraw.md",
+    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.19.29.excalidraw.md",
+    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.15.44.excalidraw.md",
+    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.05.36.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 1/Number Theory - Week 1 Day 1.md",
@@ -198,17 +246,6 @@
     "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.17.37.excalidraw.md",
     "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.11.07.excalidraw.md",
     "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.02.58.excalidraw.md",
-    "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.07.58.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
-    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.45.35.excalidraw.md",
-    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.21.35.excalidraw.md",
-    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.09.04.excalidraw.md",
-    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.13.34.excalidraw.md",
-    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.16.15.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
-    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.07.34.excalidraw.md",
-    "General Notes/Physics 2 - Week 4 Day 3 2024-02-16 11.03.26.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 4",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 4",
@@ -219,14 +256,12 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 3",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 3",
-    "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 3 - Saturday",
     "General Notes/Untitled 2.png",
     "General Notes/Untitled 1.png",
     "General Notes/Bohr-model-nitrogen-atom.webp",
     "CamScanner 09-20-2023 21.04_2.jpg",
     "General Notes/Pasted image 20231209172332.png",
     "General Notes/Pasted image 20231209171820.png",
-    "General Notes/Pasted image 20231209171808.png",
-    "General Notes/Pasted image 20231209171728.png"
+    "General Notes/Pasted image 20231209171808.png"
   ]
 }
