@@ -22,6 +22,9 @@ Actions are morally permissible just because they are permitted by rules that fr
 
 If an action is not permitted by rules that rational persons would agree to live by on the condition that..., then we are morally **required** to not do that action.
 
+```ad-important
+This theory can provide positive permissions and negative obligations
+```
 # Glaucon's Theory
 
 **Justice**- The midpoint between the extremes (between the best and the worst case)

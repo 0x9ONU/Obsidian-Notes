@@ -180,41 +180,6 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "2ec2a0002475b53b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "70fd52925969f6cb",
-        "type": "window",
-        "children": [
-          {
-            "id": "595a27df62c7ea88",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f5db9f09c5a22dfe",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 5 Day 1 2024-02-19 13.43.01.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 2
-      }
-    ]
-  },
   "active": "b1b1d6cd51e97713",
   "lastOpenFiles": [
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 1.md",
