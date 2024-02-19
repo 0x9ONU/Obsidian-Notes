@@ -27,7 +27,10 @@ This theory can provide positive permissions and negative obligations
 ```
 # Glaucon's Theory
 
-**Justice**- The midpoint between the extremes (between the best and the worst case)
+**Justice**- The midpoint between the extremes (between the best for me and the worst case for me)
+- *Best*: Do harm to others to benefit oneself and get away with it.
+- *Worst*: Others do harm to me and they benefit from it and get away from it.
+- *Midpoint*: Neither do harm to others nor they do harm to me.
 - Originates as an *agreement*, based on rational **self-interest**.
 
 ```ad-example
@@ -37,6 +40,8 @@ This theory can provide positive permissions and negative obligations
 ```
 
 ```ad-note
-But no one does justice (keeps the agreement) voluntarily/willingly
+But no one does justice (keeps the agreement) voluntarily/willingly, but because if you do not keep it, the situation would end up being worse overall.
 ```
+
+
 
