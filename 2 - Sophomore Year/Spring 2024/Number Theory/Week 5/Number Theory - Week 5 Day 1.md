@@ -142,6 +142,10 @@ title: Definition
 A gropu $G$ is called an abelian group or a commutative group if $ab=ba$ for any $a, b$ in $G$. If there is some pair $(a,b)$ for which $ab \ne ba$.
 ```
 
+## Examples
+
+### Example 1
+
 ```ad-example
 1. Show that the set:
 $$A = \{ f_{m,b} : \mathbb{R} \rightarrow \mathbb{R}: m, b \in \mathbb{R}, m \ne -, f_{m,b}(x) = mx+b \}$$
@@ -211,3 +215,70 @@ $$ab +b = -a$$
 $$b(a+1)=-a$$
 $$b = \frac{-a}{a+1}$$
 $$a^{-1} = \frac{-a}{a+1}$$
+
+### More Examples
+
+```ad-example
+- $\mathbb{Z}$ is nnot a gorup under subtraction because its not associative.
+- The colleciton of 2 x 2 matricies $M_{2 \times 2}$ is a gropu under componetwise addition. What about multiplication?
+- The set of all invertible 2 × 2 matrices over $\mathbb{R}$ is called the general  
+linear group of degree 2 and is denoted by $GL_2( \mathbb{R})$.
+- The set of all invertible $n \times n$ matrices over $\mathbb{R}$ is called the general  
+linear group of degree n and is denoted by $GL_n(\mathbb{R})$.
+```
+
+#### Matrices
+
+**Additive**
+
+*Associative*
+
+$$\begin{bmatrix} 2 & 1 \\ 0 & -3 \end{bmatrix} + \begin{bmatrix}1 & -2 \\ 3 & 5 \end{bmatrix} = \begin{bmatrix} 3 & -1 \\ 3 & 2 \end{bmatrix}$$
+
+*Additive Inverse*
+
+$$\begin{bmatrix} 1 & -2 \\ 3 & 5 \end{bmatrix} + \begin{bmatrix} -2 & 2 \\ -3 & 5 \end{bmatrix} = \begin{bmatrix} 0& 0 \\ 0 & 0 \end{bmatrix}$$
+
+```ad-note
+Is a group
+```
+
+**Multiplicative**
+
+*Associative?*
+
+$$\begin{bmatrix} 2 & 1 \\ 0 & -3 \end{bmatrix} \cdot \begin{bmatrix} 1 & -2 \\ 3 & 5 \end{bmatrix} = \begin{bmatrix} 5 & 1  \\ -9  & -15\end{bmatrix}$$
+
+```ad-important
+Associative is true, BUT not communative
+```
+
+*Identity*
+
+$$\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$$
+
+*Inverse*
+
+```ad-warning
+**NOT EVERY** 2x2 matrix has a multiplicative inverse.
+```
+
+```ad-important
+To make it a group, only include the matricies that are invertible, which is determined when the determinate is NOT equal to zero:
+$$\begin{bmatrix} a & b \\ c & d\end{bmatrix} = ad-bc$$
+```
+
+If matrix $A$ equals:
+
+$$\begin{bmatrix} a & b \\ c & d \end{bmatrix}$$
+
+Then matrix $A^{-1}$ is:
+
+$$\frac{1}{ad-bc} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
+
+When they are multiplied:
+
+$$\frac{1}{ad-bc} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}\begin{bmatrix} a & b \\ c & d \end{bmatrix} =  \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} $$
+
+$$A^{-1} \cdot A = Identity$$
+
