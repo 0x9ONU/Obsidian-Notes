@@ -7,9 +7,12 @@ File Folder: Week 5
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Identity Uniqueness
+- Cancellation
+- Inverse Uniqueness
+- Multiplcaiton Groups
+- Laws of Exponents
+- Subgroup
 
 ```
 
@@ -139,12 +142,9 @@ Associativity clearly holds for elements of $H$ since $H$ is a subset of $G$ whe
 
 $e \in H$ since $e^2 = e$. SO $H$ contains the identity
 
-If $x \in H$, then $(x^{-1})^2 = (x^{-2}) = (x^2)^{-1} and so $x^{-1} \in H. Thus, the inverse of any element $x$ of $H$ exists within $H$
+If $x \in H$, then $(x^{-1})^2 = (x^{-2}) = (x^2)^{-1}$ and so $x^{-1} \in H$. Thus, the inverse of any element $x$ of $H$ exists within $H$
 
 $\therefore$ $H$ is a subgroup of $G$
-
-
-
 
 
 
