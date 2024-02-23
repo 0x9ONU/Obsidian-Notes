@@ -99,7 +99,7 @@ $$R \le S \times S$$
 **Notation**: We will write $a \sim b$ to denote the fact that $(a, b) \in R$. The symbol $\sim$ is called "tilde".
 
 ```ad-example
-Let $B = \{1, 2, 3 \}. Thne $R = \{(1,1), (1,3), (2,2), (3,1), (3,3) \}$ is a relation on $B$
+Let $B = \{1, 2, 3 \}$. Th3n $R = \{(1,1), (1,3), (2,2), (3,1), (3,3) \}$ is a relation on $B$
 ```
 
 ```ad-example
