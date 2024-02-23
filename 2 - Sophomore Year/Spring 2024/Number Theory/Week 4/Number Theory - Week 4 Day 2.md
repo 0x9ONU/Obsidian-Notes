@@ -7,9 +7,11 @@ File Folder: Week 4
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Chinese Remainder Theorem
+- Cartesian Product
+- Relation
+	- Equivalence Relation
+- Equivalence Class
 
 ```
 

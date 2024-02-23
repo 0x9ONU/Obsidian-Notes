@@ -127,7 +127,7 @@ $\{ 0 \}$ is a trivial subgroup of $(\mathbb{Q}, +)$
 $\mathbb{C}^\star$ means the entire set NOT INCLUDING ZERO
 ```
 
-### Proof Example
+### Proof Examples
 
 ```ad-question
 Let $G$ be an Abelian group with identity $e$. Then prove that $H = \{x \in G | x^2 = e \}$ is a subgroup of $G$
@@ -145,6 +145,19 @@ $e \in H$ since $e^2 = e$. SO $H$ contains the identity
 If $x \in H$, then $(x^{-1})^2 = (x^{-2}) = (x^2)^{-1}$ and so $x^{-1} \in H$. Thus, the inverse of any element $x$ of $H$ exists within $H$
 
 $\therefore$ $H$ is a subgroup of $G$
+
+```ad-question
+If $K = \{ x \in \mathbb{R}^\star | x \ge 1 \}$, then K is not a subgroup of $(\mathbb{R}^\star, \cdot)$
+```
+
+It is closed under associativity, as it is multiplication, and the identity of $1$ is in the set $K$, BUT an inverse does not exist for every element $\frac{1}{2} \notin K$
+
+```ad-question
+Is $\mathbb{Z}_n$ a subgroup of $\mathbb{Z}$
+```
+
+The addition in $\mathbb{Z}_n$ is different from the standard addition in $\mathbb{Z}$ because it is in terms of $\mod n$. This means that it is NOT a subgroup of $\mathbb{Z}$
+
 
 
 

@@ -7,9 +7,9 @@ File Folder: Week 4
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Integers Modulo $n$
+- Addative/Multiplicative Inverse
+- 
 
 ```
 
