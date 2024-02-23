@@ -104,3 +104,4 @@ $$r_1^\to \otimes F_1^\to + r_2^\to \otimes F_2^\to$$
 $$\frac{1}{2} \otimes qE_1^\to + \frac{1}{2} \otimes qE^\to_2$$
 $$L^\to \otimes qE^\to$$
 $$\tau^\to = P^\to \otimes E^\to$$
+
