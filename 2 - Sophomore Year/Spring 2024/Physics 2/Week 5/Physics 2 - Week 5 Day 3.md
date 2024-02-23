@@ -62,4 +62,45 @@ $$V_T = V_1 + V_2 = 9V$$
 
 $$\frac{1}{C_T} = \frac{1}{5} + \frac{1}{(8+4)} + \frac{1}{6}$$
 
+### Example 4
 
+![[Physics 2 - Week 5 Day 3 2024-02-23 11.27.42.excalidraw]]
+
+**Find $C_T$**
+
+$$C_T = \frac{c_1*(c_2+c_3)}{c_1 + (c_2+c_3)} = 4.44 \micro F$$
+**Find Charge on $c_1$**
+
+$$Q_T = c_T V_T = 4.4*10^{-4} C$$
+$$Q_1 = Q_T = 4.4*10^{-4} C$$
+
+**Find Voltage on $c_1$**
+
+$$V_1 = \frac{Q_1}{c_1} = 55V$$
+
+**Find Voltage on $c_2$**
+
+*Due to the voltage drop*
+$$V_2 = V_T - V_1 = 45 V$$
+
+**Find Charge on $c_2$**
+
+$$Q = c_2V_2 = 1.8*10^{-4} C$$
+
+# Electric Dipole in an E-Field
+
+![[Physics 2 - Week 5 Day 3 2024-02-23 11.41.30.excalidraw]]
+
+$$F_T^\to = F_1^\to + F_2^\to$$
+$$=qE-qE$$$$=0$$
+**The Center of Mass is Stationary**
+
+```ad-important
+Even though the net force is zero, the **TORQUE** is not
+```
+
+$$\tau^\to = r^\to \otimes F^\to$$
+$$r_1^\to \otimes F_1^\to + r_2^\to \otimes F_2^\to$$
+$$\frac{1}{2} \otimes qE_1^\to + \frac{1}{2} \otimes qE^\to_2$$
+$$L^\to \otimes qE^\to$$
+$$\tau^\to = P^\to \otimes E^\to$$
