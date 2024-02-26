@@ -107,6 +107,8 @@ $$x \in \mathbb{Z}_{10}$$
 $$|<x>| = |x| \space is \space a \space factor \space of \space 10$$
 ```
 
+## Euler's Theorem
+
 ```ad-note
 title: Corollary
 Let $G$ be a finite group of order $n$.
@@ -129,4 +131,8 @@ $$6^6 = 6^5 * 6 = 5$$
 $$...$$
 $$6^{10}=1$$
 
+As a consquence of this corollary in the Euler's theorem:
 
+If $G = \mathbb{Z}_n^\star$, then the order of $G$ is $\phi(n)$ and so, 
+
+$$a^{\phi(n)}\equiv 1 \mod n$$

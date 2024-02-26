@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -182,8 +183,10 @@
   },
   "active": "b1b1d6cd51e97713",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 3.md",
+    "General Notes/Number Theory - Week 6 Day 1 2024-02-26 09.13.49.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Week 6 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6",
     "General Notes/Electronics - Week 5 Day 3 2024-02-23 13.29.36.excalidraw.md",
     "General Notes/Electronics - Week 5 Day 3 2024-02-23 13.44.18.excalidraw.md",
@@ -204,11 +207,9 @@
     "General Notes/Physics 2 - Week 5 Day 3 2024-02-23 11.12.23.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 2.md",
     "General Notes/Physics 2 - Week 5 Day 3 2024-02-23 11.08.27.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 1.md",
     "General Notes/gettyimages-1338075303.webp",
     "General Notes/Pasted image 20240221113126.png",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5",
