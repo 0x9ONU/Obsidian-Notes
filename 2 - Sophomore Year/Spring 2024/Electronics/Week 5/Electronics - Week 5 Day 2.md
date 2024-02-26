@@ -56,7 +56,7 @@ $$G = \frac{v_o}{v_i} = \frac{-\frac{R_2}{R_1}}{1 + \frac{(1+ \frac{R_2}{R_1})}{
 **Substitute**
 
 $$\frac{v_o}{v_i} = \frac{-\frac{R_2}{R_1}}{1 + \frac{1}{A_o}(1 + \frac{R_2}{R_1}) + (\frac{j \omega}{\frac{\omega_t}{1+R_2/R_1}})}$$
-**Since $A_o >> 1 + \frac{R_2}{R_1}, we can ignore it**
+**Since $A_o >> 1 + \frac{R_2}{R_1}$, we can ignore it**
 
 $$\frac{v_o}{v_i} = \frac{-\frac{R_2}{R_1}}{1+ \frac{j \omega}{\omega_t / (1+ R_2 / R_1)}}$$
 
