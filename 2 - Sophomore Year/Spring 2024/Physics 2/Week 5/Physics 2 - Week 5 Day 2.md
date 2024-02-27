@@ -31,7 +31,7 @@ $$where \space c = \frac{A \epsilon_o}{d}$$
 - Measured in Farads. 
 - Depends on the geometry (NOT $V, Q$)
 ```
-
+x
 ## Types of Capacitors
 
 **Parallel Plates**
