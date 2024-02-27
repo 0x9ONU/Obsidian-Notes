@@ -21,9 +21,9 @@
 | Cafe Theta Chi | Saturday, April 6th | 12-4pm  |
 | Alumni Raffle  | Sunday, April 7th   | TBA     |
 | Solar Eclipse  | Monday, April 8th   | 2pm     |
-3. *Fraternity Bond and Socialization*: Between their school work, their roles in Theta Chi, and their other organization's obligations, brothers have found it difficult to relax and decreased their moral towards events we put on. Therefore, improving the bonds between brothers through greater socialization and having more fun with each other is necessary to improve the overall happiness of the chapter
+3. *Fraternity Bond and Socialization*: Between their school work, their roles in Theta Chi, and their other organization's obligations, brothers have found it difficult to relax and decreased their moral towards events we put on. Therefore, improving the bonds between brothers through greater socialization and having more fun with each other is necessary to improve the overall happiness of the chapter.
 
-4. *Big Events in the Spring and Fall*: Spring-boarding off of the most successful philanthropy events in the  
+4. *Big Events in the Spring and Fall*: Spring-boarding off of the most successful philanthropy events in Theta Chi's history, we see the opportunity to take the forward motion into our other events. Not only are we doing events such as Rock the Tundra and Cafe Theta Chi, we plan to introduce new events throughout campus to expand our horizons.
 
 
 ## Threats
@@ -37,3 +37,7 @@
 - Working around campus schedule. (athletics, SPC)
 
 - IHQ dues increase(reduces recruitment)
+
+**Threats**
+
+1. *Greek Life Stereotypes*: The stereotypes around Greek Life that have been portrayed by media has injured the reputation of not only our organization, but every organization 
