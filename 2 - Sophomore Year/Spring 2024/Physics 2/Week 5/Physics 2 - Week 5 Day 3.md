@@ -81,7 +81,7 @@ $$V_1 = \frac{Q_1}{c_1} = 55V$$
 
 *Due to the voltage drop*
 $$V_2 = V_T - V_1 = 45 V$$
-
+	
 **Find Charge on $c_2$**
 
 $$Q = c_2V_2 = 1.8*10^{-4} C$$
