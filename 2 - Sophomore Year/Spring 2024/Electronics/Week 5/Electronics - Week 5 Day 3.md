@@ -97,7 +97,7 @@ $$R_L = 526 \Omega$$
 If this went any lower, the current would also saturate, which could break the circuit of the load
 ```
 
-# Slow Rate
+# Slew Rate
 
 ![[Electronics - Week 5 Day 3 2024-02-23 13.29.36.excalidraw]]
 
