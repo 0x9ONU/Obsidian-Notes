@@ -195,3 +195,108 @@ Trick Question. If $x=0$, then there is always a solution regardless of $a$.
 
 ## Problem 8
 
+```ad-question
+Prove that if $m$ and $n$ are odd integers, then $m^2-n^2\equiv 0 \mod 8$ 
+```
+
+### Method 1
+
+```ad-note
+If you take the mod of an odd number $\mod 8$, it will still be an odd number
+- $even \mod 8 \Rightarrow 2 + 8k$
+- $odd \mod 8 \Rightarrow 1 + 8k$
+```
+
+First observe that $m, n$ are congruent to $1, 3, 5, or 7 \mod 8$
+
+Then, if you square them, $m^2, n^2$ are congruent to $1, 9, 25, \space or \space 49 \mod 8$
+
+Any pair of the four numbers $1, 9, 25, 49$ has a difference that is $0 \mod 8$ (Multiple of $8$)
+
+### Method 2
+
+Let $m = 2a + 1$ and $n = 2b + 1, \space \space \space a, b \in \mathbb{Z}$
+
+$m^2 - n^2 = (2a+1)^2 - (2b+1)^2$
+
+$=(2a - 2b)(2a+2b + 2)$
+
+$=2(a-b) * 2(a+b+1)$
+
+$= 4(a-b)(a+b+1)$
+
+```ad-note
+Look at the different cases to make sure that it is still 
+```
+
+**Case 1: $a, b$ have the same parity (even or odd)**
+
+Then, $a-b$ is even, regardless if they are both odd or even.
+
+So, $m^2-n^2$ is a multiple of $8$
+
+**Case 2: $a, b$ have the opposite parity**
+
+Then, $a+b+1$ is even, as adding two even and odd numbers is odd, and then adding one is even.
+
+So, $m^2-n^2$ is a multiple of $8$
+
+
+## Question 10
+
+### Part 1
+
+Find $(123)^{456} = \mod 23$
+
+```ad-warning
+Always check for relatively prime, or else we can't apply it
+```
+$$\gcd (123, 23) = 1$$
+$$456 = 22(20) + 16$$
+$$123^{22}\equiv 1 \mod 23$$
+$$(123)^{456} = (123)^{22(20) + 16} = ((123)^{22})^{20} * (123)^{16}$$
+$$= 1^{20} * (123)^{16} \mod 23$$
+$$= 8^{16} \mod 23$$
+$$(8^4)^4 \mod 23$$
+$$(4096)^4 \mod 23$$
+$$(2)^4 \mod 23$$
+$$123^{456} \equiv 16 \mod 23$$
+
+## Question 11
+
+```ad-note
+Look at HW to check the other two parts. You got them right
+```
+
+### Part C
+
+$$\phi(1) = 1$$
+$$\phi(p) = p-1$$
+$$\phi(p^2) = p^2 -p$$
+$$\phi(p^3) = p^3 -p^2$$
+$$...$$
+$$\phi(p^{\alpha -1}) = p^{\alpha - 1} - p^{\alpha -2}$$
+$$\phi(p) = p^\alpha -p^{\alpha -1}$$
+```ad-important
+Everything cancels down
+```
+
+
+$$\phi(1) = \cancel1$$
+$$\phi(p) = \cancel p \cancel{-1}$$
+$$\phi(p^2) = \cancel p^2 \cancel{-p}$$
+$$\phi(p^3) = \cancel p^3 \cancel{-p^2}$$
+$$...$$
+$$\phi(p^{\alpha -1}) = \cancel{p^{\alpha - 1}} \cancel{- p^{\alpha -2}}$$
+$$\phi(p^\alpha) = p^\alpha - \cancel{p^{\alpha -1}}$$
+$$\therefore \phi(1) + \phi (p) + \phi(p^2) +...+ \phi(p^\alpha) = p^\alpha$$
+
+## Question 13
+
+Chinese remainder theorem:
+
+$$\begin{bmatrix}x \equiv 1 \mod 5 \\ x \equiv 4 \mod 7 \\ x \equiv 8 \mod 11 \end{bmatrix}$$
+$$x \equiv (7 * 11 * ((7*11^{-1}) \mod 5) * 1)+ (5*11 * ((5*11)^{-1} \mod 7)  * 1) + (5 * 7 * ((5*7)^{-1} \mod 11) * 8) \mod (5*7*11)$$
+$$x \equiv (7*11*3*1) + (5*11*6*4) + (5*7*6*8) \mod (385)$$
+$$x \equiv 151 \mod 385$$
+
