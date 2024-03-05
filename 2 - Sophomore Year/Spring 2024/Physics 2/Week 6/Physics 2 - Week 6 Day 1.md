@@ -54,6 +54,8 @@ The math is the same for both $I_-$ and $I_+$
 
 ## Resistance & Resistivity
 
+![[Pasted image 20240305094656.png]]a 
+
 ```ad-summary
 $$R = \frac{V}{I} \space \space \frac{Volts (V)}{Amp (A)} = Ohms (\Omega)$$
 ```
