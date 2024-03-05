@@ -180,7 +180,7 @@ $$24(9) = 3 - 213(-1)$$$$24(9) \equiv 3 \mod 213$$
 $$24(9)(41) = 3(41) \mod 213$$
 $$24(369) \equiv 123 \mod 213$$
 $$x = 369 \equiv 156 \mod 213$$
-$$x = 156 + \frac{n}{\gcd(a,b)}k, \space \space \space 0 \le k \le (n-1) \in \mathbb{Z}$$
+$$x = 156 + \frac{n}{\gcd(a,b)}k, \space \space \space 0 \le k \le (\gcd(a,b)-1) \in \mathbb{Z}$$
 $$x = 156 + \frac{213}{3} k, \space \space \space 0 \le k \le 2 \in \mathbb{Z}$$
 $$156 + 71 = 227 = 14$$
 $$156 + 71(2)=...$$
@@ -193,7 +193,7 @@ $$ax \equiv 0 \mod n$$
 
 Trick Question. If $x=0$, then there is always a solution regardless of $a$.
 
-## Problem 8
+## Problem 9
 
 ```ad-question
 Prove that if $m$ and $n$ are odd integers, then $m^2-n^2\equiv 0 \mod 8$ 
