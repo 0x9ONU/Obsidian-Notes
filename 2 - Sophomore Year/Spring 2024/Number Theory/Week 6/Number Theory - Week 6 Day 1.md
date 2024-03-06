@@ -69,7 +69,6 @@ $$f(n) = a^n$$
 
 **READ THROUGH PERMUTATION SLIDES IN YOUR OWN TIME**
 
-# HW 1 Comments
 
 
 

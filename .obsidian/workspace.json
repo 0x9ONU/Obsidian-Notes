@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "equivalence",
-                "matchingCase": false,
+                "query": "number theory ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md"
               }
             }
           },
@@ -182,8 +183,14 @@
   },
   "active": "b1b1d6cd51e97713",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
+    "Templates/Number Theory/Number Theory Template.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Week 6 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Exam 1 Review.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 1.md",
     "General Notes/Pasted image 20240305094656.png",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 3.md",
@@ -205,10 +212,6 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 3.md",
     "General Notes/Electronics - Week 5 Day 3 2024-02-23 13.29.36.excalidraw.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 6/Circuits Week 6 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 6/Circuits Week 6 - Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7",
     "General Notes/Untitled.jpg",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7",
@@ -222,7 +225,6 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 5",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 5",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 4",
     "General Notes/PXL_20240205_221839284.jpg",
     "General Notes/PXL_20240205_220722231.jpg",
     "General Notes/Untitled 2.png",
