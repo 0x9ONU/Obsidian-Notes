@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md"
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md"
               }
             }
           },
@@ -183,35 +182,35 @@
   },
   "active": "b1b1d6cd51e97713",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
     "Templates/Number Theory/Number Theory Template.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Week 6 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Exam 1 Review.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 7",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 1.md",
     "General Notes/Pasted image 20240305094656.png",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 3.md",
     "General Notes/Physics 2 - Week 6 Day 2 2024-02-28 11.33.07.excalidraw.md",
     "General Notes/Physics 2 - Week 6 Day 2 2024-02-28 11.12.42.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 2.md",
     "General Notes/Physics 2 - Week 5 Day 2 2024-02-21 11.40.27.excalidraw.md",
     "General Notes/Physics 2 - Week 5 Day 2 2024-02-21 11.36.51.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 1.md",
     "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.19.29.excalidraw.md",
     "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.19.29.excalidraw.png",
     "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.15.44.excalidraw.md",
     "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.05.36.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 3.md",
-    "General Notes/Electronics - Week 5 Day 3 2024-02-23 13.29.36.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7",
     "General Notes/Untitled.jpg",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7",
