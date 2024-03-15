@@ -42,7 +42,7 @@ $$P=n \space (pure)$$
 
 $$n_i = BT^{\frac{3}{2}}e^{-\frac{Eg}{2KT}}\approx 1.5 * 10^{10}/cm^3 \space at \space 300 K$$
 
-$$B=7.3*10^{-5}$$
+$$B=7.3*10^{15}$$
 $$T = Temperature \space (in \space K)$$
 $$E = 1.12$$
 $$K = 8.62*10^{-5}$$
