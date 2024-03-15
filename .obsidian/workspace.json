@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 3.md"
               }
             }
           },
@@ -180,39 +180,219 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "cd718b8addd2d29b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ea77acb977428ab9",
+        "type": "window",
+        "children": [
+          {
+            "id": "2604f1a7467facd6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7be7e4d9800ceee2",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.07.55.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "85bdcc5161bf953a",
+        "type": "window",
+        "children": [
+          {
+            "id": "1ebc93f4b89a294d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "827fba8f7b88d0aa",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.10.54.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "b942a01dfdeb6914",
+        "type": "window",
+        "children": [
+          {
+            "id": "baad22218461936a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aded2d2ab7a2303f",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.17.12.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "427476bb23781e22",
+        "type": "window",
+        "children": [
+          {
+            "id": "2557b17749a2e887",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d1c61adaf122ee4",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.20.23.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "bcd942f42949a134",
+        "type": "window",
+        "children": [
+          {
+            "id": "26265dc84bb89992",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c102b38a38df7f45",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.22.00.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "b9349473ac537bc8",
+        "type": "window",
+        "children": [
+          {
+            "id": "01c377f5c80c1414",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c52b2ca048b126e7",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.38.48.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      }
+    ]
+  },
   "active": "b1b1d6cd51e97713",
   "lastOpenFiles": [
-    "General Notes/Electronics - Week 7 Day 1 2024-03-06 13.24.44.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 1.md",
-    "General Notes/Electronics - Week 7 Day 1 2024-03-06 13.21.14.excalidraw.md",
-    "General Notes/Electronics - Week 7 Day 1 2024-03-06 13.05.44.excalidraw.md",
-    "General Notes/Electronics - Week 7 Day 1 2024-03-06 13.10.16.excalidraw.md",
+    "General Notes/why-is-sleep-important.jpg",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 3.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.38.48.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.29.37.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.22.00.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.26.43.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.20.23.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.17.12.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.10.54.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.07.55.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.03.44.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 3 2024-03-08 13.01.15.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md",
+    "General Notes/Electronics - Week 7 Day 1 2024-03-06 13.24.44.excalidraw.md",
+    "General Notes/Electronics - Week 7 Day 1 2024-03-06 13.21.14.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7",
-    "General Notes/Physics 2 - Week 7 Day 2 2024-03-06 11.35.10.excalidraw.md",
-    "General Notes/Physics 2 - Week 7 Day 2 2024-03-06 11.26.48.excalidraw.md",
-    "General Notes/Physics 2 - Week 7 Day 2 2024-03-06 11.24.38.excalidraw.md",
-    "General Notes/Physics 2 - Week 7 Day 2 2024-03-06 11.17.24.excalidraw.md",
     "General Notes/magnetic-fields_8a6a18c6-d8b9-485f-97ca-99ba5a6e06c5.webp",
     "General Notes/magneticFieldLines1.gif",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
-    "Templates/Number Theory/Number Theory Template.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Week 6 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Exam 1 Review.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 7",
     "General Notes/Pasted image 20240305094656.png",
-    "General Notes/Physics 2 - Week 6 Day 2 2024-02-28 11.33.07.excalidraw.md",
-    "General Notes/Physics 2 - Week 6 Day 2 2024-02-28 11.12.42.excalidraw.md",
     "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.19.29.excalidraw.png",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7",
     "General Notes/Untitled.jpg",

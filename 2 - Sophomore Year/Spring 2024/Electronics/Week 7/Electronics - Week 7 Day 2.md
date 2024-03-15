@@ -122,7 +122,7 @@ $$p_n \approxeq 2.25 * 10^3 /cm^3$$
 For a silicon crystal with phosphorus dopant concentration of $10^{17} / cm^3$. Find the electron and hole concentration at $T = 300 K$. is the result $n$ type or $p$ type silicon?
 ```
 
-Because the silicon crystal is doped with phosphorus, it is an **n-type** silicon.
+Because the silicon crystal is doped with *phosphorus*, it is an **n-type** silicon.
 
 **Electron Concentration**
 
@@ -134,6 +134,9 @@ $$n_n = 10^{17} / cm^3$$
 $$p \approxeq \frac{n_i}{n_D}$$
 $$\approxeq  \frac{(1.5*10^{10})^2}{(10^{17})}$$
 $$p_n \approxeq 2.25 * 10^3 / cm^3$$
+
+It is also an $n$ type since $n_n >> p_n$
+
 
 
 
