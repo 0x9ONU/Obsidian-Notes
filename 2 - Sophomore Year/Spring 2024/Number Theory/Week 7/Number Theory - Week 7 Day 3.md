@@ -67,6 +67,14 @@ $$Pr(B) = Pr(B |S) \ne 1$$
 # General Multiplication Rule
 
 $$Pr(A \cap B) = Pr(A)\times Pr(B|A)=Pr(B)\times Pr(A|B)$$
+
+```ad-note
+title: Definition of Independent Events
+In $Pr(B|A) = \frac{Pr(B \cap A)}{Pr(A)}$, $A, B$ are independent if $P(B|A) = Pr(B)$ st.
+$$Pr(A \cap B) = Pr(A)Pr(B)$$
+
+```
+
 ## Example
 
 ```ad-question
