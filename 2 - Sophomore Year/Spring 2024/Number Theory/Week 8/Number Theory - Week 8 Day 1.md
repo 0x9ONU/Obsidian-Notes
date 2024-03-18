@@ -75,3 +75,4 @@ $$Pr(A|B) = \frac{Pr(A\cap B)}{Pr(B)}$$
 $$Pr(A|B) = \frac{Pr(B|A)Pr(A)}{Pr(B)}$$
 $$Pr(A|B) = \frac{(\frac{1}{5})(\frac{1}{2})}{(\frac{3}{10})}$$
 $$Pr(A|B) = \frac{1}{3}$$
+
