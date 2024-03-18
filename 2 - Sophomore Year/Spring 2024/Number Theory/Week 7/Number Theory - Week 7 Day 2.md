@@ -51,9 +51,9 @@ $$\sum_{\omega \in \Omega} Pr(\omega)=1, Pr(\Omega)=1$$
 If all the probabilities are taken separately and are 1, then the overall probability is one.
 ```
 
-**Let $\phi$ denote the empty set. Then:**
+**Let $\emptyset$ denote the empty set. Then:**
 
-$$Pr(\phi) = 1$$
+$$Pr(\emptyset) = 1$$
 
 ## Event
 
