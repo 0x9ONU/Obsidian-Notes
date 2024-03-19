@@ -83,5 +83,5 @@ $$r = 2.5 * 10^{10} m$$
 | Single Charge - YES                                | Single Pole - NO                    |
 | Charges attract and repel                          | Poles attract and repel             |
 | Travels at the speed of light                      | Also travels at the speed of light  |
-|                                                    |                                     |
+
 
