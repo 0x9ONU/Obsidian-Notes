@@ -180,10 +180,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "cddbf0f299cc879f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5885ccf4ea15ffe5",
+        "type": "window",
+        "children": [
+          {
+            "id": "27403887e7970154",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cc7cedcddd226b8b",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.40.31.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      }
+    ]
+  },
   "active": "b1b1d6cd51e97713",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.40.31.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.34.35.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.31.34.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.27.08.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.23.24.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.19.30.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.21.08.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.08.28.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 3.md",
@@ -200,14 +243,6 @@
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Week 6 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Exam 1 Review.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 4/Number Theory - Week 4 Day 3.md",
-    "General Notes/Number Theory - Week 8 Day 1 2024-03-18 09.23.23.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8",
     "General Notes/why-is-sleep-important.jpg",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7",
