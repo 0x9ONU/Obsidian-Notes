@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 3.md",
+                "file": "1 - Freshman Year/Semester 2/Digital Logic/Evan's Fellowship Small Essay.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4016ae391bb5d874",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -93,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,10 +186,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9ea1db38469430f7",
+  "active": "c207b49f638b03f6",
   "lastOpenFiles": [
-    "General Notes/Electronics - Week 9 Day 1 2024-03-22 13.45.29.excalidraw.md",
+    "1 - Freshman Year/Semester 2/Digital Logic/Evan's Fellowship Small Essay.md",
+    "2 - Sophomore Year/Summer Research/Presentations.md",
+    "2 - Sophomore Year/Summer Research/What needs done.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 3.md",
+    "General Notes/Electronics - Week 9 Day 1 2024-03-22 13.45.29.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
     "General Notes/Electronics - Week 9 Day 1 2024-03-22 13.43.58.excalidraw.md",
     "General Notes/Electronics - Week 9 Day 1 2024-03-22 13.45.06.excalidraw.md",
@@ -210,9 +219,6 @@
     "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.37.33.excalidraw.md",
     "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.30.54.excalidraw.md",
     "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.16.25.excalidraw.md",
-    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.10.18.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8",
     "General Notes/why-is-sleep-important.jpg",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7",
