@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+                "file": "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.21.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+                "file": "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.21.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md"
+                "file": "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.21.22.excalidraw.md"
               }
             }
           },
@@ -217,34 +217,185 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2028deb89259af2a",
+  "floating": {
+    "id": "fa69d81460ad45db",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c355e0fea13c553e",
+        "type": "window",
+        "children": [
+          {
+            "id": "164524236abece68",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dc9f125da60263fa",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.11.34.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "46068d05c30ba104",
+        "type": "window",
+        "children": [
+          {
+            "id": "833e662ab99a1d6c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96d529be2460c20d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.13.58.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "cab87144cfdd777c",
+        "type": "window",
+        "children": [
+          {
+            "id": "2aecb8aea4c19728",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "650dcd3fc3d42924",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.15.21.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "14551bc419d9a41c",
+        "type": "window",
+        "children": [
+          {
+            "id": "5b8ac03f42be4719",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "edbaf8a3b043eb93",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.19.14.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      },
+      {
+        "id": "d915729b472aec7a",
+        "type": "window",
+        "children": [
+          {
+            "id": "e9005e0347f893ad",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2e0b4c95bda6b279",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.21.22.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "2e0b4c95bda6b279",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
+    "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.21.22.excalidraw.md",
+    "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.19.14.excalidraw.md",
+    "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.18.13.excalidraw.md",
+    "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.15.21.excalidraw.md",
+    "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.13.58.excalidraw.md",
+    "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.11.34.excalidraw.md",
+    "General Notes/Electronics - Week 8 Day 3 2024-03-20 13.47.12.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 3.md",
+    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.44.26.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.45.18.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.32.16.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.37.33.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.30.54.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.16.25.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.10.18.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Week 6 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Exam 1 Review.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Maker Engineering/Ethan Berei - Final Assembly Calculation.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 8.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
-    "General Notes/Physics 2 - Week 8 Day 1 2024-03-18 11.15.22.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
-    "General Notes/Electronics - Week 8 Day 3 2024-03-20 13.47.12.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8",
     "General Notes/why-is-sleep-important.jpg",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7",

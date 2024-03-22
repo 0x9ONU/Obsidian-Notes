@@ -136,7 +136,7 @@ $i_d: \mbox{Current through the diode}$
 $V_d: \mbox{Voltage Across the Diode}$
 ---
 $I_s : \mbox{The saturation or scale current}$
-$I_s \approxeq 1 f_A$
+$I_s \approxeq 1 fA$
 $I_s \propto P_N \mbox{ Junciton Area}$
 ---
 $V_T = \mbox{Thermal Voltage}$
