@@ -23,8 +23,12 @@
             "id": "4016ae391bb5d874",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Spring 2024/Evan's Fellowship Essay 2 - Electric Boogaloo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Sophomore Year/Spring 2024/Evan's Fellowship Essay 2 - Electric Boogaloo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Sophomore Year/Spring 2024/Evan's Fellowship Essay 2 - Electric Boogaloo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 - Sophomore Year/Spring 2024/Evan's Fellowship Essay 2 - Electric Boogaloo.md"
+              }
             }
           },
           {
@@ -186,9 +194,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c207b49f638b03f6",
+  "active": "4016ae391bb5d874",
   "lastOpenFiles": [
     "1 - Freshman Year/Semester 2/Digital Logic/Evan's Fellowship Small Essay.md",
+    "2 - Sophomore Year/Spring 2024/Evan's Fellowship Essay 2 - Electric Boogaloo.md",
+    "images.png",
+    "High Res Obama.md",
     "2 - Sophomore Year/Summer Research/Presentations.md",
     "2 - Sophomore Year/Summer Research/What needs done.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 3.md",
@@ -216,9 +227,6 @@
     "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.44.26.excalidraw.md",
     "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.45.18.excalidraw.md",
     "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.32.16.excalidraw.md",
-    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.37.33.excalidraw.md",
-    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.30.54.excalidraw.md",
-    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.16.25.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8",
     "General Notes/why-is-sleep-important.jpg",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7",
@@ -228,7 +236,6 @@
     "General Notes/Pasted image 20240305094656.png",
     "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.19.29.excalidraw.png",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7",
-    "General Notes/Untitled.jpg",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 6",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6",
