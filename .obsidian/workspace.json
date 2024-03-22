@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ea1db38469430f7",
+            "id": "76a493ba6ff8d48b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Freshman Year/Semester 2/Digital Logic/Evan's Fellowship Small Essay.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3fe0984d5b87ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4c07a2e550f604c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Freshman Year/Semester 2/Digital Logic/Evan's Fellowship Small Essay.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Freshman Year/Semester 2/Digital Logic/Evan's Fellowship Small Essay.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Freshman Year/Semester 2/Digital Logic/Evan's Fellowship Small Essay.md"
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md"
               }
             }
           },
@@ -181,10 +206,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9ea1db38469430f7",
+  "active": "b3fe0984d5b87ca3",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Evan's Fellowship Essay 2 - Electric Boogaloo.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 6.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 8.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 3.md",
     "1 - Freshman Year/Semester 2/Digital Logic/Evan's Fellowship Small Essay.md",
+    "2 - Sophomore Year/Spring 2024/Evan's Fellowship Essay 2 - Electric Boogaloo.md",
     "images.png",
     "High Res Obama.md",
     "2 - Sophomore Year/Summer Research/Presentations.md",
@@ -200,20 +235,11 @@
     "General Notes/PXL_20240322_173320249 2.jpg",
     "General Notes/PXL_20240322_173316956.MP.jpg",
     "General Notes/PXL_20240322_173320249 1.jpg",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 2.md",
     "General Notes/PXL_20240322_173320249.jpg",
     "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.21.22.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
     "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.19.14.excalidraw.md",
     "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.18.13.excalidraw.md",
     "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.13.58.excalidraw.md",
-    "General Notes/Electronics - Week 8 Day 3 2024-03-22 13.11.34.excalidraw.md",
-    "General Notes/Electronics - Week 8 Day 3 2024-03-20 13.47.12.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 3.md",
-    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.44.26.excalidraw.md",
-    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.45.18.excalidraw.md",
-    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.32.16.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8",
     "General Notes/why-is-sleep-important.jpg",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7",
