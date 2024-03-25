@@ -139,10 +139,9 @@ $$\mathbb{Z}_5: 2*3 = 0$$
 ```ad-summary
 title: Definition
 A commutative ring $R$ is called an integral domain if $1 \ne 0$ and for all $a, b \in R,$
-$$ab = 0 \mbox{ implies } a=0$$
+$$ab = 0 \mbox{ implies } a=0 \mbox{ or } b=0$$
+Putting differently, an integral domain is a commutative ring $R$, where $1 \ne 0$, and $R$ does not contian any divisors of zero.
 ```
-
-#comebacklater 
 
 # Field
 
