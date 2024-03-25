@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5bd00bc56f93f11",
+            "id": "fc2661de214b7a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c4a9a0fd64e7811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md"
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md"
               }
             }
           },
@@ -194,8 +180,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4c4a9a0fd64e7811",
+  "active": "fc2661de214b7a3f",
   "lastOpenFiles": [
+    "Templates/Number Theory/Number Theory Template.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 1.md",
@@ -214,15 +209,7 @@
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 6/Ethics - Week 6 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 7.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Concise Introduction to Ethics Notes/CIE - Chapter 8.md",
-    "1 - Freshman Year/Semester 2/Digital Logic/Evan's Fellowship Small Essay.md",
-    "2 - Sophomore Year/Spring 2024/Evan's Fellowship Essay 2 - Electric Boogaloo.md",
     "images.png",
-    "High Res Obama.md",
-    "2 - Sophomore Year/Summer Research/Presentations.md",
-    "2 - Sophomore Year/Summer Research/What needs done.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 3.md",
-    "General Notes/Electronics - Week 9 Day 1 2024-03-22 13.45.29.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9",
     "General Notes/PXL_20240322_173320249 2.jpg",
     "General Notes/PXL_20240322_173316956.MP.jpg",
@@ -240,7 +227,6 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 6",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 6",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 5"
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5"
   ]
 }
