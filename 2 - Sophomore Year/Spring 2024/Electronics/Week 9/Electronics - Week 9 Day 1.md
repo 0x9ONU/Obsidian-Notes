@@ -85,7 +85,7 @@ Use an OP-AMP!
 
 ![[Electronics - Week 9 Day 1 2024-03-25 13.24.21.excalidraw]]
 
-$$V_z = V_{zo}I_zr_z$$
+$$V_z = V_{zo}+I_zr_z$$
 
 ![[Electronics - Week 9 Day 1 2024-03-25 13.21.20.excalidraw]]
 
