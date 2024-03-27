@@ -59,6 +59,9 @@ In general:
 
 $$\frac{10-0.7}{10k}+ I_D + \frac{0.7}{100}=0$$
 $$I_D = -6.07mA$$
+```ad-warning
+This mean the didode is not regulating and is in reverse bias and turns OFF. The voltage regulator turns into a voltage divider.
+```
 $$V_o = \frac{100}{100+10k}10V = 99.01mV$$
 
 ### Smallest Resistor to Connect to this Circuit Before Diode Cuts Off
