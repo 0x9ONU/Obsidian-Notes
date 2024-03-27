@@ -174,6 +174,12 @@ A subfield $F_0$ of a field $F$ is a subset of $F$ which itself a field under th
 
 ```ad-important
 title: Theorem
-Let $F_0$ be a nonempty subset of the field $F$ having at least two elements. Then $F_0$ is a subfield of $F$ iff $F_0$ is clsoed underthe operations defined on $F$ and clsoe dunder inverses.
+Let $F_0$ be a nonempty subset of the field $F$ having at least two elements. Then $F_0$ is a subfield of $F$ iff $F_0$ is closed under the operations defined on $F$ and closed under inverses.
 ```
+
+```ad-example
+$\mathbb{Q}$ is a subfield of $\mathbb{R}$, and $\mathbb{R}$ is a subfield of $\mathbb{C}$
+```
+
+
 
