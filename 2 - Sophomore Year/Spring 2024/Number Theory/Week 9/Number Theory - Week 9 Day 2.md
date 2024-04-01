@@ -157,7 +157,7 @@ A polynomial $f(x)$ over a field $F$ is called an irreducible polynomial over$F$
 1. Add $x^4 +x^2+x+1$ and $x^3+1$ in $\mathbb{Z}_2[x]$
 2. Subtract $x^4+x^2+x+1$ and $x^3+1$ in $\mathbb{Z}_2[x]$
 3. Multiply $x^4+x^2+x+1$ and $x^3+1$ in $\mathbb{Z}_2[x]$
-4. Divide $x^4+x%2+x+1$ by $x^3+1$ in $\mathbb{Z}_2[x]$ 
+4. Divide $x^4+x^2+x+1$ by $x^3+1$ in $\mathbb{Z}_2[x]$ 
 ```
 
 **addition**
