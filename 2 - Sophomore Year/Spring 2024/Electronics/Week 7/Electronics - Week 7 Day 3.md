@@ -106,7 +106,7 @@ $$i_{D_1} = 0; \space check \space V_{D_1} < 0$$
 
 Since both diodes are off, $I_o = I_1 + I_2 = 0$
 
-$V_D = 0-(-10) = 10 V \space X$
+$V_{D_1} = 0-(-10) = 10 V \space X$
 
 *For Diode 2*
 
