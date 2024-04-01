@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10/Ethics - Week 10 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10/Ethics - Week 10 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10/Ethics - Week 10 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10/Ethics - Week 10 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 2.md"
               }
             }
           },
@@ -180,74 +181,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "d36c3cfbcc4f9879",
-    "type": "floating",
-    "children": [
-      {
-        "id": "719da7d5ed69f3ad",
-        "type": "window",
-        "children": [
-          {
-            "id": "d2503a0d4f53c223",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f37407133c62ae48",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 10 Day 1 2024-04-01 13.11.28.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "4b512700052ba417",
-        "type": "window",
-        "children": [
-          {
-            "id": "1ab1f8d1dcda9b00",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c5fb138aa3db34dd",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 10 Day 1 2024-04-01 13.25.52.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "fc2661de214b7a3f",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10/Ethics - Week 10 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10",
     "General Notes/Electronics - Week 10 Day 1 2024-04-01 13.25.52.excalidraw.md",
     "General Notes/Electronics - Week 10 Day 1 2024-04-01 13.11.28.excalidraw.md",
@@ -275,7 +213,6 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 9/Physics 2- Week 9 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 9/Physics 2 - Week 9 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 9",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 9",

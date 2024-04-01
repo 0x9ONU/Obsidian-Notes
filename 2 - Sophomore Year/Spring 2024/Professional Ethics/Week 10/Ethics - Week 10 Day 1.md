@@ -12,3 +12,8 @@ collapse: open
 - Topic3
 
 ```
+
+# Myths about Informed Consent
+
+*Myth 4: **Patients must be told everything about treatment***
+
