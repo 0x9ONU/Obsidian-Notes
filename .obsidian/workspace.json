@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md"
               }
             }
           },
@@ -185,20 +185,49 @@
     "type": "floating",
     "children": [
       {
-        "id": "d9c0ae22244faefd",
+        "id": "719da7d5ed69f3ad",
         "type": "window",
         "children": [
           {
-            "id": "33615a50f1b9d959",
+            "id": "d2503a0d4f53c223",
             "type": "tabs",
             "children": [
               {
-                "id": "c9eae9a731b7d6af",
+                "id": "f37407133c62ae48",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.14.32.excalidraw.md"
+                    "file": "General Notes/Electronics - Week 10 Day 1 2024-04-01 13.11.28.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      },
+      {
+        "id": "4b512700052ba417",
+        "type": "window",
+        "children": [
+          {
+            "id": "1ab1f8d1dcda9b00",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5fb138aa3db34dd",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 10 Day 1 2024-04-01 13.25.52.excalidraw.md"
                   }
                 }
               }
@@ -211,190 +240,22 @@
         "width": 1024,
         "height": 800,
         "maximize": true,
-        "zoom": 1.5
-      },
-      {
-        "id": "45e873e705c0c0eb",
-        "type": "window",
-        "children": [
-          {
-            "id": "f7f63b0397df1513",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e6c544ac95c8ba77",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.21.46.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "a2ce4eb521ca8320",
-        "type": "window",
-        "children": [
-          {
-            "id": "326782dd36c334cc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "53372c33eff41963",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.25.15.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "be31e8f3e0b23f85",
-        "type": "window",
-        "children": [
-          {
-            "id": "6a9ae94dbe9a7e67",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bf1cc4a320bdc75e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.32.05.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "eb44b3288fc11f16",
-        "type": "window",
-        "children": [
-          {
-            "id": "916fc23d763234cb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4d669a12acbc04a0",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.37.37.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1.5
-      },
-      {
-        "id": "15187dac57978cc5",
-        "type": "window",
-        "children": [
-          {
-            "id": "f73685eada3d3eb6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9ee1cabdfaf1a425",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.38.54.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "45e2e9172d7d5408",
-        "type": "window",
-        "children": [
-          {
-            "id": "24b6e74e092c9c96",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "45795595a9414e02",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.44.28.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
         "zoom": 1.5
       }
     ]
   },
   "active": "fc2661de214b7a3f",
   "lastOpenFiles": [
-    "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.44.28.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
-    "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.38.54.excalidraw.md",
+    "General Notes/Electronics - Week 10 Day 1 2024-04-01 13.25.52.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
+    "General Notes/Electronics - Week 10 Day 1 2024-04-01 13.11.28.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
     "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.37.37.excalidraw.md",
+    "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.38.54.excalidraw.md",
+    "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.44.28.excalidraw.md",
+    "General Notes/Electronics - Week 9 Day 2 2024-03-27 13.38.41.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10",
     "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.32.05.excalidraw.md",
     "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.25.15.excalidraw.md",
     "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.22.28.excalidraw.md",
@@ -406,7 +267,6 @@
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 10",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 1.md",
@@ -415,10 +275,6 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 9/Physics 2- Week 9 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 9/Physics 2 - Week 9 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 2.md",
-    "General Notes/Electronics - Week 9 Day 2 2024-03-27 13.38.41.excalidraw.md",
-    "General Notes/Electronics - Week 9 Day 2 2024-03-27 13.32.57.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 9",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 9",
@@ -435,7 +291,6 @@
     "General Notes/magneticFieldLines1.gif",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 7",
     "General Notes/Pasted image 20240305094656.png",
-    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.19.29.excalidraw.png",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7"
+    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.19.29.excalidraw.png"
   ]
 }
