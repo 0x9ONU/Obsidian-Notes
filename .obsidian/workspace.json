@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "98df13f1a59b8568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc2661de214b7a3f",
             "type": "leaf",
             "state": {
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Quiz 3 Study Guide.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Quiz 3 Study Guide.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Quiz 3 Study Guide.md"
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md"
               }
             }
           },
@@ -180,13 +192,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fc2661de214b7a3f",
+  "active": "98df13f1a59b8568",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Quiz 3 Study Guide.md",
-    "General Notes/Physics 2 - Experiment 9 2024-04-04 09.03.50.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
+    "General Notes/Physics 2 - Experiment 9 2024-04-04 09.03.50.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Experiment 9.md",
     "General Notes/Physics 2 - Experiment 9 2024-04-04 08.25.21.excalidraw.md",
     "General Notes/Physics 2 - Experiment 9 2024-04-04 09.51.47.excalidraw.md",
@@ -209,7 +222,6 @@
     "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.32.05.excalidraw.md",
     "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.25.15.excalidraw.md",
     "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.22.28.excalidraw.md",
-    "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.21.46.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 10",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 10",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9",
