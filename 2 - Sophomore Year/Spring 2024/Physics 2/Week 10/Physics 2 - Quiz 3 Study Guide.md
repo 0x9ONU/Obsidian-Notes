@@ -63,3 +63,19 @@ $$B = \frac{\mu_oI}{2 \pi r}$$
 
 $$\oint B^\to \cdot dl^\to = \mu_o I_{enc}$$
 
+**B-Field of Solenoid**
+
+$$B = \mu_o nI \Rightarrow n = \frac{N}{L}$$
+
+**Gauss' Law for Magnetism**
+
+$$\oint B^\to da^\to =0$$
+
+**Faraday's Laws**
+
+
+$$e_{inf} = \frac{-d \Phi_B}{dt}$$
+$$\int E^\to \cdot ds^\to = \frac{-d}{dt} \int B^to \cdot dA^\to$$
+$$e = \frac{-dB^\to \cdot A^\to}{dt}$$
+$$e = \frac{-d}{dt} BA \cos \Theta$$
+
