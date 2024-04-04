@@ -73,7 +73,7 @@ $$B = \frac{\mu_oI}{2 \pi a} \Rightarrow B = \frac{\mu_oI}{2 \pi r}$$
 
 $$F_2^\to = I_2 L_2^\to \otimes B_1^\to$$
 $$= I_2 L_2 B_1 \space (L_2^\to \perp B_1^\to)$$
-$$F-2 = I_2 L_2 \frac{\mu_oI}{2 \pi r}$$
+$$F_2 = I_2 L_2 \frac{\mu_oI}{2 \pi r}$$
 $$F_2 = \frac{\mu_o L_2 I_1 I_2}{2 \pi r_1}$$
 
 **Force on Wire 1**
