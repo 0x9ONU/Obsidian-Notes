@@ -59,3 +59,7 @@ $$B = \frac{\mu_o I}{4 \pi} \int \frac{dl^\to \otimes \hat r}{r^2}$$
 **B-Field on Point from Wire**
 
 $$B = \frac{\mu_oI}{2 \pi r}$$
+**Ampere's Law**
+
+$$\oint B^\to \cdot dl^\to = \mu_o I_{enc}$$
+
