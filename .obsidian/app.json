@@ -2,9 +2,9 @@
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
-    "landscape": true,
+    "landscape": false,
     "margin": "0",
-    "downscalePercent": 10
+    "downscalePercent": 100
   },
   "attachmentFolderPath": "General Notes",
   "spellcheck": true
