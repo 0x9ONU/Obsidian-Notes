@@ -111,7 +111,6 @@ $$K_N^\prime = (2 \rightarrow 4)K_P^\prime$$
 ```ad-important
 $\therefore$ NFET generates larger values of $I_D$ than PFETs
 ```
-
 ## PFET Equations
 
 **Cutoff:** $I_D = 0$
