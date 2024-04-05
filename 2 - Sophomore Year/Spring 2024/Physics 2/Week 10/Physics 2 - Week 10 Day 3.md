@@ -42,4 +42,4 @@ collapse: open
 
 ## Equations
 
-$$L = \def \frac{}$$
+$$L = $$

@@ -180,41 +180,6 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "ddfc17c91d51fbda",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c636f5ee1b259a36",
-        "type": "window",
-        "children": [
-          {
-            "id": "9d482b59cff62bea",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "985f574a31ca081f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 10 Day 3 2024-04-05 11.23.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "98df13f1a59b8568",
   "lastOpenFiles": [
     "General Notes/Physics 2 - Week 10 Day 3 2024-04-05 11.23.32.excalidraw.md",
