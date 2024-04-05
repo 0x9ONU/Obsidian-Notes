@@ -12,7 +12,6 @@ collapse: open
 - Topic3
 
 ```
-
 # Generators and Motors
 
 ## Generators
