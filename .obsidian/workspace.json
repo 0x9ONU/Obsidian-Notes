@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "number theory ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +179,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "98df13f1a59b8568",
+  "active": "c207b49f638b03f6",
   "lastOpenFiles": [
     "General Notes/Physics 2 - Week 10 Day 3 2024-04-05 11.23.32.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
