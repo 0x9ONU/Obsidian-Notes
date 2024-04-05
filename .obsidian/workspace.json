@@ -180,10 +180,77 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "ed619ae06badf341",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0f195bafc729bb9e",
+        "type": "window",
+        "children": [
+          {
+            "id": "bf6c62c5340a5933",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "90f4029d0be7c4f4",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 10 Day 3 2024-04-05 13.03.45.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1.5
+      },
+      {
+        "id": "635500e38a9f6b9b",
+        "type": "window",
+        "children": [
+          {
+            "id": "a41cdd90f7643060",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4dccc80013a3c8a5",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 10 Day 3 2024-04-05 13.26.30.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "98df13f1a59b8568",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
+    "General Notes/Electronics - Week 10 Day 3 2024-04-05 13.26.30.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
+    "General Notes/Electronics - Week 10 Day 3 2024-04-05 13.44.29.excalidraw.md",
+    "General Notes/Electronics - Week 10 Day 3 2024-04-05 13.03.45.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
     "General Notes/Physics 2 - Week 10 Day 3 2024-04-05 11.23.32.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
@@ -206,9 +273,6 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 2.md",
     "General Notes/Physics 2 - Week 10 Day 1 2024-04-01 11.32.05.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
-    "General Notes/Physics 2 - Experiment 9 2024-04-04 09.03.50.excalidraw.md",
-    "General Notes/Physics 2 - Experiment 9 2024-04-04 08.25.21.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 10",
