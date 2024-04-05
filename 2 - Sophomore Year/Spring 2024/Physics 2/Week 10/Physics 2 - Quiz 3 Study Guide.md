@@ -12,7 +12,9 @@ File Folder: Week 10
 	- Magnetic field curls around the current's thumb
 - Two wires having the same current attract
 	- Otherwise they repel
-- 
+- Lenz's Law
+	- Used to give a direction to the induced current.
+	- Gives why there is a negative sign in the induced voltage equation
 
 ## Constants
 

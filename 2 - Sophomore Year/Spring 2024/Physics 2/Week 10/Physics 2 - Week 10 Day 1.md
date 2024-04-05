@@ -87,7 +87,7 @@ $$e = \frac{\pi r^2}{\tau} B_oe^\frac{-t}{\tau}$$
 
 ```ad-question
 Find $\frac{dB}{dt}$ given:
-- $B^\to || A^\to
+- $B^\to || A^\to$
 - $\Theta = 0 \degree$
 - $r = 3.5 m$
 - $I = 2 A$
