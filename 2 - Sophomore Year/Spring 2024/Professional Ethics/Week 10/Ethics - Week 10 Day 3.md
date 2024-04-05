@@ -28,3 +28,39 @@ A **deception** is to mislead someone to believe what you do *not* believe
 
 ![[Ethics - Week 10 Day 3 2024-04-05 14.20.21.excalidraw]]
 
+## Lying and Choice
+
+- Lying breaks down trust in society.
+- Undermines Decision Making. Manipulates Choices
+- Form of Coercion akin to violence
+- Distributes power from the deceived to the liar.
+
+## Perspective of Deceived
+
+- People that have been lied to often feel cheated, robbed, or manipulated out of a choice
+- Rethink pervious choices 
+- Distrust $\rightarrow$ Wariness of Lies
+
+## Perspective of Liars
+
+- Want to be told the truth, but they want an exception for themselves.
+- Lying could create need for more lies
+- Liars often discount future negative consequences in favor of short-term gains.
+- Liars usually weight benefits for self more than harm to others.
+
+## Principle of Veracity
+
+- Lying is not morally neutral - it is inherently bad
+- Initial weight against lies and presumption in favor of truth-telling
+- The burden of proof is on the liar because of his special privilege
+
+## Excuses
+
+- Not a lie - it is just a joke
+- Unintentional - Never meant to mislead
+- Lie - but moral reasons to justify it
+
+## Justification
+
+- Moral reason to justify a lie must be capable of being made public
+- Test of publicity - Reasonable persons 
