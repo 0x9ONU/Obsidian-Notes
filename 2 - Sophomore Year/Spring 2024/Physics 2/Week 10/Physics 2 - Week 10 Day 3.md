@@ -42,4 +42,28 @@ collapse: open
 
 ## Equations
 
-$$L = $$
+$$L = \frac{N \Phi_B}{I} \space (\mbox{Self Inductance})$$
+$$L = N_o n^2 Al$$
+$$V_L(e)=-L\frac{dI}{dt} \space (\mbox{Inductor Voltage Drop})$$
+
+## Derivation - Inductance of a Solenoid $\star$
+
+### Sketch
+
+![[Physics 2 - Week 10 Day 3 2024-04-06 18.12.02.excalidraw]]
+
+$$n = \frac{N}{L}$$
+
+$$L = \frac{N \Phi_B}{I}$$
+$$= \frac{nl(BA)}{I}$$
+
+$$\mbox{B-Field of a Solenoid} \Rightarrow B = N_oI_n$$
+$$L = \frac{nl(N_oI_nA)}{I}$$
+$$L = N_on^2Al$$
+```ad-important
+This means that the inductance is idependent of the current or votlage
+```
+
+## Voltage Dropped over Inductor
+
+![[Physics 2 - Week 10 Day 3 2024-04-06 18.17.14.excalidraw]]
