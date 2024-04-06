@@ -1,4 +1,4 @@
-Date: 5th April 2024
+ Date: 5th April 2024
 Date Modified: 5th April 2024
 File Folder: Week 10
 #Electronics
@@ -103,7 +103,7 @@ $$(V_D-V_S) > (V_G-V_S) - V_t$$
 $$V_D > V_G -V_t \space \space \space \star$$
 
 $$(1) > (0) - (2)$$
-$$1 > 2 \space \checkmark$$
+$$1 > -2 \space \checkmark$$
 
 ```ad-important
 Using the alternative boundary conditon, we can see that the transitor must be in saturation
