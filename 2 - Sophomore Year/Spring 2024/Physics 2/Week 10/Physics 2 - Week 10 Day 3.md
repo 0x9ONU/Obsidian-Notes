@@ -67,3 +67,28 @@ This means that the inductance is idependent of the current or votlage
 ## Voltage Dropped over Inductor
 
 ![[Physics 2 - Week 10 Day 3 2024-04-06 18.17.14.excalidraw]]
+
+$V_R$ - Voltage Dropped over Resistor
+
+$V_L(e)$ - Voltage Dropped by Inductor
+
+## Derivation for $V_L(e)$
+
+$$L = \frac{N\Phi_B}{I}$$
+```ad-note
+Assume $N=1$
+```
+$$L = \frac{\Phi_B}{I}$$
+$$IL = \Phi_B$$
+$$L = \frac{dI}{dt} = \frac{d \Phi_B}{dt}$$
+$$L = \frac{dI}{dt} = -e$$
+$$e = -L\frac{dI}{dt}$$
+$$\boxed{V_L = -L\frac{dI}{dt}}$$
+
+# RL Circuits
+
+## Discharging
+
+### Sketch
+
+![[Physics 2 - Week 10 Day 3 2024-04-06 18.34.37.excalidraw]]
