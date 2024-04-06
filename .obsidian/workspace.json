@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.34.37.excalidraw.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.34.37.excalidraw.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.34.37.excalidraw.md"
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md"
               }
             }
           },
@@ -213,39 +212,10 @@
         "height": 1072,
         "maximize": false,
         "zoom": 1.5
-      },
-      {
-        "id": "a3b5038084c3bedb",
-        "type": "window",
-        "children": [
-          {
-            "id": "f4598312db6794cf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ca63047c604452f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.34.37.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
       }
     ]
   },
-  "active": "7ca63047c604452f",
+  "active": "98df13f1a59b8568",
   "lastOpenFiles": [
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
     "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.34.37.excalidraw.md",

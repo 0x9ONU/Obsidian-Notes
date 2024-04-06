@@ -87,8 +87,23 @@ $$\boxed{V_L = -L\frac{dI}{dt}}$$
 
 # RL Circuits
 
-## Discharging
+## Discharging + Derviation!
 
 ### Sketch
 
 ![[Physics 2 - Week 10 Day 3 2024-04-06 18.34.37.excalidraw]]
+### Equations
+
+$$V = V_R + V_L$$
+$$0 = IR + L \frac{dI}{dt}$$
+$$\boxed{I = I_o e^{-\frac{R}{L}t}}$$
+
+### Proof
+
+$$IR + L \frac{dI}{dt}=0$$
+$$IR + L \frac{d(I_oe^{-\frac{R}{L}}t)}{dt}=0$$
+$$IR + L(I_oe^{-\frac{R}{L}t})(\frac{d}{dt}\frac{-R}{L}t)=0$$
+$$IR + L(I)(\frac{-R}{L})=0$$
+$$IR -IR =0$$
+$$\boxed{0=0}$$
+
