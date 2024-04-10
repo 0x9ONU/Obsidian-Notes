@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98df13f1a59b8568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fb4c36e550490b6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md"
               }
             }
           },
@@ -198,20 +185,49 @@
     "type": "floating",
     "children": [
       {
-        "id": "55e894971d5c247a",
+        "id": "7e8298f9a3850057",
         "type": "window",
         "children": [
           {
-            "id": "857a6dc475220c58",
+            "id": "f820811ff892ebab",
             "type": "tabs",
             "children": [
               {
-                "id": "c6fd336bfb77672c",
+                "id": "a90c15b142c6a957",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "General Notes/Number Theory - Week 11 Day 1 2024-04-10 09.11.33.excalidraw.md"
+                    "file": "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.25.14.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      },
+      {
+        "id": "e3870636f43cac54",
+        "type": "window",
+        "children": [
+          {
+            "id": "bd2a47253dcff241",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49b05923260c4459",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.31.01.excalidraw.md"
                   }
                 }
               }
@@ -225,13 +241,80 @@
         "height": 800,
         "maximize": true,
         "zoom": 1.5
+      },
+      {
+        "id": "9b626b9a6b301e68",
+        "type": "window",
+        "children": [
+          {
+            "id": "f109c00a3e1c115a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1de85a7363cb851a",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.43.57.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      },
+      {
+        "id": "db2a84732e687572",
+        "type": "window",
+        "children": [
+          {
+            "id": "90a57dd70444f9e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c6839ce991802985",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.46.42.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
       }
     ]
   },
   "active": "fb4c36e550490b6d",
   "lastOpenFiles": [
-    "General Notes/Number Theory - Week 11 Day 1 2024-04-10 09.37.46.excalidraw.md",
+    "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.46.42.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
+    "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.43.57.excalidraw.md",
+    "General Notes/Pasted Image 20240410114413_207.png",
+    "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.31.01.excalidraw.md",
+    "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.25.14.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
+    "General Notes/Number Theory - Week 11 Day 1 2024-04-10 09.37.46.excalidraw.md",
     "General Notes/Number Theory - Week 11 Day 1 2024-04-10 09.11.33.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 11",
@@ -245,19 +328,11 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
     "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.34.37.excalidraw.md",
     "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.17.14.excalidraw.md",
     "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.12.02.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 2.md",
     "General Notes/Physics 2 - Week 10 Day 2 2024-04-06 18.04.57.excalidraw.md",
     "General Notes/Physics 2 - Week 10 Day 2 2024-04-06 17.58.32.excalidraw.md",
-    "General Notes/Physics 2 - Week 10 Day 2 2024-04-06 17.50.48.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
-    "General Notes/Physics 2 - Week 10 Day 2 2024-04-06 17.23.27.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10/Ethics - Week 10 Day 3.md",
-    "General Notes/Ethics - Week 10 Day 3 2024-04-05 14.21.41.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10",
@@ -274,7 +349,6 @@
     "General Notes/why-is-sleep-important.jpg",
     "General Notes/magnetic-fields_8a6a18c6-d8b9-485f-97ca-99ba5a6e06c5.webp",
     "General Notes/magneticFieldLines1.gif",
-    "General Notes/Pasted image 20240305094656.png",
-    "General Notes/Physics 2 - Week 5 Day 1 2024-02-19 11.19.29.excalidraw.png"
+    "General Notes/Pasted image 20240305094656.png"
   ]
 }
