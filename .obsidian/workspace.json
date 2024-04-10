@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md"
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md"
               }
             }
           },
@@ -193,10 +193,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "7e8d0abc5c00b3cc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "55e894971d5c247a",
+        "type": "window",
+        "children": [
+          {
+            "id": "857a6dc475220c58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c6fd336bfb77672c",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Number Theory - Week 11 Day 1 2024-04-10 09.11.33.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "fb4c36e550490b6d",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
+    "General Notes/Number Theory - Week 11 Day 1 2024-04-10 09.37.46.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
+    "General Notes/Number Theory - Week 11 Day 1 2024-04-10 09.11.33.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 11",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Untitled",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
@@ -218,9 +258,6 @@
     "General Notes/Physics 2 - Week 10 Day 2 2024-04-06 17.23.27.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10/Ethics - Week 10 Day 3.md",
     "General Notes/Ethics - Week 10 Day 3 2024-04-05 14.21.41.excalidraw.md",
-    "General Notes/Ethics - Week 10 Day 3 2024-04-05 14.20.21.excalidraw.md",
-    "General Notes/Electronics - Week 10 Day 3 2024-04-05 13.26.30.excalidraw.md",
-    "General Notes/Electronics - Week 10 Day 3 2024-04-05 13.44.29.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10",
@@ -230,12 +267,10 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 9",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 9",
     "images.png",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9",
     "General Notes/PXL_20240322_173320249 2.jpg",
     "General Notes/PXL_20240322_173316956.MP.jpg",
     "General Notes/PXL_20240322_173320249 1.jpg",
     "General Notes/PXL_20240322_173320249.jpg",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8",
     "General Notes/why-is-sleep-important.jpg",
     "General Notes/magnetic-fields_8a6a18c6-d8b9-485f-97ca-99ba5a6e06c5.webp",
     "General Notes/magneticFieldLines1.gif",
