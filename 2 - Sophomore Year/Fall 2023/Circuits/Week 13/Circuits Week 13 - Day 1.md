@@ -22,7 +22,7 @@ $$Z_L = Z_{Th}^\star$$
 **For Phasor**
 $$P_{max} = \frac{V_{th}^2}{8R_{th}}$$
 **For RMS:**
-$$P_{max} = \frac{V_{th}^2}{4R_{th}}$$
+$$P_{max} = \frac{V_{th}^2}{4Z_{th}}$$
 ```ad-note
 $V_{th}$ is the magnitude of the phasor $\textbf{V}_{th}$
 ```

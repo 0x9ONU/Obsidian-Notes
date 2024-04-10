@@ -144,8 +144,51 @@ Rejects all frequencies between $\Omega_1$ and $\Omega_2$ and allows remaining f
 - $\delta_2 \rightarrow$ stopband ripple
 - $\Omega p \rightarrow$ passband edge frequency
 - $\Omega_s \rightarrow$ stopband edge frequency 
-## Infinite Impulse Response (IIR) Filter
+## Symmetric and Anti-Symmetric Filters
 
+An FIR filter is symmetric only when:
+
+$$h(n)= +h[M-1-n] \space where \space M \rightarrow order \space of \space filter$$
+
+An FIR filter is *anti*symmetric only when:
+
+$$h(n)=-h[M-1-n]$$
+### Example 1
+
+If we let $M=even$:
+- ex. $M=8$
+
+$$h(n)=+h(M-1-n]; \space 0 \le n \le M-1$$
+
+**Solve for all values
+$$n=0 \Rightarrow h(0) = h(8-1-0) = h(7)$$
+$$n=1 \Rightarrow h(1) = h(8-1-1) = h(6)$$
+$$n=2 \Rightarrow h(2) = h(8-1-3) = h(5)$$
+$$n=3 \Rightarrow h(3) = h(8-1-3) = h(4)$$
+
+![[Drawing 2023-11-27 12.09.17.excalidraw]]
+
+If we let $M=odd$
+- ex. $M=9$
+
+![[Drawing 2023-11-27 12.11.33.excalidraw]]
+
+### Example 2
+
+$$h[n] = -h[M-1-n]; \space 0 \le n \le M-1$$
+
+$M=8$
+
+$$n=0 \Rightarrow h[0] = -h[8-1-0] = -h[7]$$
+$$n=1 \Rightarrow h[1] = -h[8-1-1] = -h[6]$$
+$$n=2 \Rightarrow h[2] = -h[8-1-2] = -h[5]$$
+$$n=3 \Rightarrow h[3] = -h[8-1-3] = -h[4]$$
+
+![[Drawing 2023-11-27 12.14.18.excalidraw]]
+
+$M=9$
+
+![[Drawing 2023-11-27 12.17.32.excalidraw]]
 
 
 

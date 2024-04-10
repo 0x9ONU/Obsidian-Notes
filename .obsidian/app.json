@@ -6,5 +6,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "General Notes"
+  "attachmentFolderPath": "General Notes",
+  "spellcheck": true
 }
