@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md"
               }
             }
           },
@@ -180,159 +180,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "7e8d0abc5c00b3cc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7e8298f9a3850057",
-        "type": "window",
-        "children": [
-          {
-            "id": "f820811ff892ebab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a90c15b142c6a957",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.25.14.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "e3870636f43cac54",
-        "type": "window",
-        "children": [
-          {
-            "id": "bd2a47253dcff241",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49b05923260c4459",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.31.01.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1.5
-      },
-      {
-        "id": "9b626b9a6b301e68",
-        "type": "window",
-        "children": [
-          {
-            "id": "f109c00a3e1c115a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1de85a7363cb851a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.43.57.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "db2a84732e687572",
-        "type": "window",
-        "children": [
-          {
-            "id": "90a57dd70444f9e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c6839ce991802985",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.46.42.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "fb4c36e550490b6d",
   "lastOpenFiles": [
-    "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.46.42.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10/Ethics - Week 10 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10/Ethics - Week 10 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 6/Ethics - Week 6 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 6/Ethics - Week 6 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 2/Ethics - Week 2 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 2/Ethics - Week 2 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
+    "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.25.14.excalidraw.md",
+    "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.31.01.excalidraw.md",
     "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.43.57.excalidraw.md",
     "General Notes/Pasted Image 20240410114413_207.png",
-    "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.31.01.excalidraw.md",
-    "General Notes/Physics 2 - Week 11 Day 1 2024-04-10 11.25.14.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
-    "General Notes/Number Theory - Week 11 Day 1 2024-04-10 09.37.46.excalidraw.md",
-    "General Notes/Number Theory - Week 11 Day 1 2024-04-10 09.11.33.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 11",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Untitled",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Week 6 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
-    "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.34.37.excalidraw.md",
-    "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.17.14.excalidraw.md",
-    "General Notes/Physics 2 - Week 10 Day 3 2024-04-06 18.12.02.excalidraw.md",
-    "General Notes/Physics 2 - Week 10 Day 2 2024-04-06 18.04.57.excalidraw.md",
-    "General Notes/Physics 2 - Week 10 Day 2 2024-04-06 17.58.32.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10",
