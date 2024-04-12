@@ -55,7 +55,7 @@ It could lead to untrue cases; however. Be careful how you use it and avoid usin
 If you do not want to be slandered or exploited, then do not do such things to others
 ```
 
-## The Principle of Universability
+## The Principle of Universality
 
 ```ad-note
 Kant aimed to fix the two basic tests of inconsistency by making a single principle that captures both questions while fixing their errors

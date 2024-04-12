@@ -12,5 +12,6 @@
   "templater-obsidian",
   "obsidian-functionplot",
   "mermaid-tools",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "execute-code"
 ]
