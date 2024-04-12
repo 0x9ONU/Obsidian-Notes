@@ -167,4 +167,13 @@ $$V_{D} = I_D(100k)$$
 
 **Plugging into Equation Solver**
 
-$$$$
+$$V_D = 6.16 V \space \& \space I_D = 61.6 \micro A$$
+$$OR$$
+$$\boxed{V_D = 9.74 V \space \& \space I_D = 97.4 \micro A}$$
+
+*Check Solutions*
+
+$$V_{D} >^? V_G - |V_t|$$
+
+$$(9.74) < (7) - |-1|)$$
+$$9.74 > 6 \space \checkmark$$
