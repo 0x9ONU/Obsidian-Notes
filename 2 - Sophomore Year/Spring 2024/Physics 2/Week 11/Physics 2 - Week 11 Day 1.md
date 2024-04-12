@@ -13,6 +13,7 @@ collapse: open
 
 ```
 
+$$\newcommand{\emf}{\mathcal{E}}$$
 # Review - Inductors ($L$)
 
 ```ad-note
@@ -31,6 +32,7 @@ $$V(\mathcal{E})=-L\frac{dI}{dt}$$
 ## Examples
 
 ### Example 1 - Current Changing in an Inductor
+
 
 $$4.0A \to 1.0A$$
 $$t = 0.75 s$$
