@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bec144dbbd645129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 2.md"
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md"
               }
             }
           },
@@ -192,11 +180,144 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "8cb33ec93329e726",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f4f28b3bcfc97e1e",
+        "type": "window",
+        "children": [
+          {
+            "id": "bc6575642aaf59a1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a3f83b9266ed23b",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.01.31.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      },
+      {
+        "id": "bb134da2582b965d",
+        "type": "window",
+        "children": [
+          {
+            "id": "985680a00a736739",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "48caa3dbb24f7a0c",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.02.24.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      },
+      {
+        "id": "b0796f14f218c8d6",
+        "type": "window",
+        "children": [
+          {
+            "id": "83f0d284edabfcd9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "70409a1c96f67085",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.04.19.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      },
+      {
+        "id": "85f94374f3e107d3",
+        "type": "window",
+        "children": [
+          {
+            "id": "4fd7d75aad9287ff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a904f89572cdd44",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.33.09.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "fb4c36e550490b6d",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
+    "General Notes/electromagnetic-spectrum.webp",
+    "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.33.09.excalidraw.md",
+    "General Notes/2.png",
+    "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.12.56.excalidraw.md",
+    "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.04.19.excalidraw.md",
+    "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.02.24.excalidraw.md",
+    "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.01.31.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 2.md",
@@ -210,16 +331,6 @@
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 6/Ethics - Week 6 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 3/Ethics - Week 3 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 6/Ethics - Week 6 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 4/Ethics - Week 4 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 2/Ethics - Week 2 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 2/Ethics - Week 2 Day 1.md",
     "General Notes/Pasted Image 20240410114413_207.png",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 11",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Untitled",
@@ -237,8 +348,6 @@
     "General Notes/PXL_20240322_173320249 1.jpg",
     "General Notes/PXL_20240322_173320249.jpg",
     "General Notes/why-is-sleep-important.jpg",
-    "General Notes/magnetic-fields_8a6a18c6-d8b9-485f-97ca-99ba5a6e06c5.webp",
-    "General Notes/magneticFieldLines1.gif",
-    "General Notes/Pasted image 20240305094656.png"
+    "General Notes/magnetic-fields_8a6a18c6-d8b9-485f-97ca-99ba5a6e06c5.webp"
   ]
 }
