@@ -180,10 +180,49 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "8cb33ec93329e726",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3dc6735baf667d84",
+        "type": "window",
+        "children": [
+          {
+            "id": "5a8e0dbb85b466e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "765858320beeee3c",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Electronics - Week 11 Day 2 2024-04-12 13.10.23.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "fb4c36e550490b6d",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
+    "General Notes/Electronics - Week 11 Day 2 2024-04-12 13.10.23.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 11/Electronics - Week 11 Day 2.md",
+    "General Notes/Electronics - Week 11 Day 2 2024-04-12 13.23.29.excalidraw.md",
+    "General Notes/Electronics - Week 11 Day 2 2024-04-12 13.33.20.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 11",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
     "General Notes/Physics 2 - Week 11 Day 2 2024-04-12 11.01.31.excalidraw.md",
@@ -207,10 +246,6 @@
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 8/Ethics - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 6/Ethics - Week 6 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 1.md",
     "General Notes/Pasted Image 20240410114413_207.png",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 11",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Untitled",
