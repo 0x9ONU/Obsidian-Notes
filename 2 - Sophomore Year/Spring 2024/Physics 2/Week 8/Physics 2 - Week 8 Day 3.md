@@ -81,7 +81,6 @@ $$F_2 = \frac{\mu_o L_2 I_1 I_2}{2 \pi r_1}$$
 Is the same as wire 
 
 $$F_1 = F_2$$
-
 $$F_1 = F_2 = \frac{\mu_o L_2 I_1 I_2}{2 \pi r}$$
 
 **ATTRACT**

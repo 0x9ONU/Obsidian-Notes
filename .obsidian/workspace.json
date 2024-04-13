@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea05a4a4b281b35c",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 3.md"
               }
             }
           },
@@ -182,9 +183,14 @@
   },
   "active": "fb4c36e550490b6d",
   "lastOpenFiles": [
-    "General Notes/Physics 2 - Week 8 Day 1 2024-03-18 11.24.16.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.23.24.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 2 2024-03-20 11.08.28.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
+    "General Notes/Physics 2 - Week 8 Day 1 2024-03-18 11.29.58.excalidraw.md",
+    "General Notes/Physics 2 - Week 8 Day 1 2024-03-18 11.29.58.excalidraw.png",
+    "General Notes/Physics 2 - Week 8 Day 1 2024-03-18 11.24.16.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 7/Physics 2 - Week 7 Day 1.md",
     "General Notes/Physics 2 - Week 8 Day 1 2024-03-18 11.08.59.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
@@ -202,14 +208,10 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 3.md",
     "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.16.25.excalidraw.md",
     "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.16.25.excalidraw.png",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 2.md",
     "General Notes/Physics 2 - Week 8 Day 1 2024-03-18 11.19.25.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 11/Electronics - Week 11 Day 2.md",
     "General Notes/Electronics - Week 11 Day 2 2024-04-12 13.10.23.excalidraw.md",
-    "General Notes/Electronics - Week 11 Day 2 2024-04-12 13.23.29.excalidraw.md",
-    "General Notes/Electronics - Week 11 Day 2 2024-04-12 13.33.20.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 11",
     "General Notes/electromagnetic-spectrum.webp",
     "General Notes/2.png",
@@ -226,7 +228,6 @@
     "images.png",
     "General Notes/PXL_20240322_173320249 2.jpg",
     "General Notes/PXL_20240322_173316956.MP.jpg",
-    "General Notes/PXL_20240322_173320249 1.jpg",
-    "General Notes/PXL_20240322_173320249.jpg"
+    "General Notes/PXL_20240322_173320249 1.jpg"
   ]
 }
