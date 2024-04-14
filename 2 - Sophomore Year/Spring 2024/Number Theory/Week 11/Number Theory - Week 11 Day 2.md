@@ -27,6 +27,15 @@ $\mathbb{Z}_p$ is **NOT** a group under multiplication
 
 $\mathbb{Z}_{10}^\star = \{1, 3, 7, 9\}$
 
+## Problem 3
+
+| x     | 1   | 3   | 7   | 9   |
+| ----- | --- | --- | --- | --- |
+| **1** | 1   | 3   | 7   | 9   |
+| **3** | 3   | 9   | 1   | 7   |
+| **7** | 7   | 1   | 9   | 3   |
+| **9** | 9   | 7   | 3   | 1   |
+
 ## Problem 4
 
 ```ad-question
