@@ -95,7 +95,7 @@ This implies that $e$ must be the least element of $\mathbb{Z}$, BUT $\mathbb{Z}
 ## Problem 8
 
 ```ad-question
-Let $G = \{x \in \mathbb{R} \mbox{ if } x > 0, x \ne 1 \}. Define operation $*$ on $G$ by $a * b = a^{\ln b}$ for all $a, b \in G$. Prove $G$ is an abelian group
+Let $G = \{x \in \mathbb{R} \mbox{ if } x > 0, x \ne 1 \}$. Define operation $*$ on $G$ by $a * b = a^{\ln b}$ for all $a, b \in G$. Prove $G$ is an abelian group
 ```
 
 **Associative?

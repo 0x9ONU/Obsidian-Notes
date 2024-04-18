@@ -16,8 +16,7 @@ collapse: open
 ```ad-important
 Slides Link:
 
-https://www.overleaf.com/read/mpbbxcrfxsgz#7ae27e
-https://www.overleaf.com/read/qhcrdntngpqz#0304bo
+https://www.overleaf.com/project/660f53b2c8602a04528bea98
 ```
 
 
