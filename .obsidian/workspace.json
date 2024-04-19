@@ -180,10 +180,88 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "8cb33ec93329e726",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2ce9065066976d1b",
+        "type": "window",
+        "children": [
+          {
+            "id": "9388e692733c0489",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c475eb6efba01caa",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.24.49.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1.5
+      },
+      {
+        "id": "b77791a9371b52c8",
+        "type": "window",
+        "children": [
+          {
+            "id": "64a44df092bb14a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "200a139abebfc8ba",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.27.15.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "06b8fd749ae95d47",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md",
+    "General Notes/2803764.png",
+    "General Notes/CNX_UPhysics_16_06_LabModes.jpg",
+    "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.27.15.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 2.md",
+    "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.24.49.excalidraw.md",
+    "General Notes/my717.png",
+    "General Notes/FEaoRjyRki7yvfKT1L8Q_3291740513_fdfca172bd 1.jpg",
+    "General Notes/FEaoRjyRki7yvfKT1L8Q_3291740513_fdfca172bd.jpg",
+    "General Notes/stringzero.jpg",
+    "General Notes/Wave Phase- 90Degree-1.png",
+    "General Notes/35b.gif",
+    "General Notes/35a.gif",
+    "General Notes/u10l3a7.gif",
+    "General Notes/image-79.png",
+    "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.11.03.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 12/Electronics - Week 12 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 11/Electronics - Week 11 Day 2.md",
@@ -202,31 +280,17 @@
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.28.01.excalidraw.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.25.52.excalidraw.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.23.51.excalidraw.md",
-    "General Notes/i-made-the-erm-actually-bot-v0-soik1fji2bnb1.webp",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.18.32.excalidraw.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.17.46.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 12",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12",
-    "General Notes/Physics 2 - Week 8 Day 1 2024-03-18 11.29.58.excalidraw.png",
-    "General Notes/Physics 2 - Week 9 Day 1 2024-03-25 11.39.47.excalidraw.png",
-    "General Notes/Physics 2 - Week 8 Day 3 2024-03-22 11.16.25.excalidraw.png",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 11",
-    "General Notes/electromagnetic-spectrum.webp",
-    "General Notes/2.png",
-    "General Notes/Pasted Image 20240410114413_207.png",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 11",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Untitled",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 10",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 10",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 10",
-    "images.png",
-    "General Notes/PXL_20240322_173320249 2.jpg",
-    "General Notes/PXL_20240322_173316956.MP.jpg"
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 10"
   ]
 }
