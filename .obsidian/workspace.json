@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md"
               }
             }
           },
@@ -180,191 +180,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "8cb33ec93329e726",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bc46f9112d5d0e87",
-        "type": "window",
-        "children": [
-          {
-            "id": "3f99f01d1e4078a1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7d37ea0ddc88a08b",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.17.46.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1.5
-      },
-      {
-        "id": "76caadf48a2b1ca8",
-        "type": "window",
-        "children": [
-          {
-            "id": "42541158050dec92",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "08f6b8c35cb461c4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.18.32.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1.5
-      },
-      {
-        "id": "7558f6229978e9e1",
-        "type": "window",
-        "children": [
-          {
-            "id": "857f5960bc9a41b2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3ec4a6a9038c0d1a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.23.51.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "b51f7155722724bd",
-        "type": "window",
-        "children": [
-          {
-            "id": "2ab9698d6acc2c95",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a143e0d91b27a917",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.25.52.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1.5
-      },
-      {
-        "id": "63b2e7f046a2f2ad",
-        "type": "window",
-        "children": [
-          {
-            "id": "1bfa2fcd0328ac5b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "94dd3c6911fa10ab",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.28.01.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      },
-      {
-        "id": "995d99390617c9a0",
-        "type": "window",
-        "children": [
-          {
-            "id": "5f92ef7081944607",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b2befc87a7eb3830",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.35.16.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "06b8fd749ae95d47",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 12/Electronics - Week 12 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 11/Electronics - Week 11 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.35.16.excalidraw.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.33.17.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.28.01.excalidraw.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.25.52.excalidraw.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.23.51.excalidraw.md",
@@ -377,19 +210,6 @@
     "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 10/Number Theory - Week 10 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 10/Number Theory - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 1.md",
-    "General Notes/Number Theory - Week 12 Day 1 2024-04-15 09.37.02.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12",
     "General Notes/Physics 2 - Week 8 Day 1 2024-03-18 11.29.58.excalidraw.png",
     "General Notes/Physics 2 - Week 9 Day 1 2024-03-25 11.39.47.excalidraw.png",
