@@ -68,5 +68,54 @@ Occurs when the frequency of the source matches the natural frequency of the obj
 - Bridges Collapsing Due to the Natural Frequency matching the wind
 ```
 
+## Doppler Effect
+
+```ad-summary
+title: Definition
+The apparent shift in freuqency due to a moving source. This is true **for all** waves
+```
+
+![[Screenshot_2023-09-22_at_11.21.55_AM.webp]]
+
+**Equation:**
+
+$$f^\prime = (\frac{v \pm v_o}{v \mp v_s})f_0$$
+
+```ad-note
+The signs depends on approaching or going away:
+- Approaching means positive on top and negative on bottom ($f^\prime = (\frac{v + v_o}{v - v_s})f_0$)
+- Going away means negative on top and positive on bottom ($f^\prime = (\frac{v - v_o}{v + v_s})f_0$)
+```
+### Example - Truck Approaches (Horn)
+
+![[Physics 2 - Week 13 Day 1 2024-04-22 11.38.22.excalidraw]]
+
+```ad-question
+Given:
+- $f_0 = 150Hz$
+- $V_w = 340 \frac{m}{s}$
+- $V_s = 45 \frac{m}{s}$
+$$\space$$
+Find the new apparent frequency
+```
+
+
+$$f^\prime = f_0(\frac{v_w+v_d}{v_w-v_s}) = 150(\frac{340+0}{340-45})=173 \space Hz$$
+### Doppler Effect Due to Light
+
+- Towards means **bluer light**
+- Away means **redder light**
+
+![[2 1.png]]
+
+**Astronomical Red Shift**:
+- Galaxies we see look slightly reddish
+- That measn the galaxies are moving away since they are reddish
+- That means at some point they were closer, which means the universe should be expanding
+- Is one of the main proofs behind the **big bang**
+
+![[Universe_History_2.webp]]
+
+
 
 
