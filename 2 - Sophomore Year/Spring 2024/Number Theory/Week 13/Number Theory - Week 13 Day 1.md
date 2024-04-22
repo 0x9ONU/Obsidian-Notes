@@ -67,3 +67,44 @@ An encryption sheme is called computationally secure if every probabiilistic alg
 
 # Rivest, Shamir, Adleman (RSA)
 
+## Public Key Cryptography
+
+![[Pasted image 20240422093032.png]]
+
+## Plain RSA
+
+A public-key cryptosystem, where the acronym is made of the first letters of the last names of Ron Rivest, Adi Shamir, and Leonard Adleman. It was created in 1977.
+
+Let's assume that Alice is the sender and Bob is the receiver. To generate keys, Bob will have to do the following:
+- Pick two large prime numbers which he will keep secret and compute the number $N = pq$
+- Compute $\varphi(N) = (p-1)(q-1)$ (where $\varphi(N)$ is the number of integers from $1 \to N$ that are relatively prime to $N$)
+- Pick an integer $e$ which is invertible modulo $\varphi(N)$ ($d  = e^{-1} \mod \varphi (N)$)
+- $N$ and $e$ constitute Bob's public key.
+- Calculate $d = e^{-1} \mod \varphi(N)$
+- $d$ constitute Bob's secret key.
+
+If Alice wants to send a message to Bob, she will do the following:
+- Represent her message $m$ as an element of $\mathbb{Z}_n$. If her message is too big, then she will break it into pieces with each piece belonging to $\mathbb{Z}_n$
+- Look up in the public directory to Bob's public key ($N, e$)
+- Encrypt his message $c  = m^e \mod N$
+- Send $c$ to Bob over a wire.
+
+To decipher Alice's message, Bob will do the following:
+- Use his secret key $d$ to compute $c^d \mod N$
+- Recovers the original message $m$ that is equal to $c^d \mod N$
+
+```ad-note
+This works because:
+$$c^d = (m^e)^d= m^{ed} = m^{1 \mod \varphi(N)}$$
+```
+
+![[Pasted image 20240422094645.png]]
+
+![[Pasted image 20240422094655.png]]
+
+```ad-important
+This works because there is no efficient way to calculate the prime factors of $N$ when $p$ and $q$ are sufficiently large
+```
+
+
+
