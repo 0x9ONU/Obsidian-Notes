@@ -180,10 +180,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "48bb9d2715d71375",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b27630bfd030f5ff",
+        "type": "window",
+        "children": [
+          {
+            "id": "66d73c26af22bab8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49e885ce1644b047",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 13 Day 1 2024-04-22 11.12.14.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "06b8fd749ae95d47",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
+    "General Notes/Physics 2 - Week 13 Day 1 2024-04-22 11.12.14.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 1.md",
+    "General Notes/Diffraction-of-sound-over-the-top-edge-of-a-barrier-Hendriks-1998.png",
+    "General Notes/diagram.png",
+    "General Notes/diffraction1.jpg",
+    "General Notes/buac20-img-wavecharacteristics.png__1920x1080_q85_crop_subsampling-2_upscale.png",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 2.md",
@@ -199,10 +239,6 @@
     "General Notes/CNX_UPhysics_16_06_LabModes.jpg",
     "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.27.15.excalidraw.md",
     "General Notes/my717.png",
-    "General Notes/FEaoRjyRki7yvfKT1L8Q_3291740513_fdfca172bd 1.jpg",
-    "General Notes/FEaoRjyRki7yvfKT1L8Q_3291740513_fdfca172bd.jpg",
-    "General Notes/stringzero.jpg",
-    "General Notes/Wave Phase- 90Degree-1.png",
     "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.11.03.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 12/Electronics - Week 12 Day 1.md",
@@ -219,7 +255,6 @@
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.35.16.excalidraw.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.33.17.excalidraw.md",
     "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.28.01.excalidraw.md",
-    "General Notes/Physics 2 - Week 12 Day 1 2024-04-15 11.25.52.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 12",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 11",
