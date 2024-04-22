@@ -149,7 +149,7 @@ $$= \frac{1}{36^3}$$
 $$\therefore Pr[\mathcal{E}_k(m_0)=c] \ne Pr[\mathcal{E}_k(m_1)=c]$$
 **It is NOT perfectly secret**
 
-
+### Exercise 3 - 
 
 
 
