@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 1.md",
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 1.md"
+                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md"
               }
             }
           },
@@ -180,47 +180,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "48bb9d2715d71375",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bf14c9931646e794",
-        "type": "window",
-        "children": [
-          {
-            "id": "581a3582533585e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eb39ac3f5585f5b2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 13 Day 1 2024-04-22 13.13.22.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1.5
-      }
-    ]
-  },
   "active": "06b8fd749ae95d47",
   "lastOpenFiles": [
-    "General Notes/Electronics - Week 13 Day 1 2024-04-22 13.13.22.excalidraw.md",
+    "General Notes/Pasted image 20240424093439.png",
+    "General Notes/Pasted image 20240424093137.png",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 1.md",
-    "General Notes/Electronics - Week 13 Day 1 2024-04-22 13.05.04.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 5/Number Theory - Week 5 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Week 6 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Exam 1 Review.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 1.md",
+    "General Notes/Electronics - Week 13 Day 1 2024-04-22 13.13.22.excalidraw.md",
+    "General Notes/Electronics - Week 13 Day 1 2024-04-22 13.05.04.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 13",
     "General Notes/Physics 2 - Week 13 Day 1 2024-04-22 11.12.14.excalidraw.md",
     "General Notes/Physics 2 - Week 13 Day 1 2024-04-22 11.38.22.excalidraw.md",
@@ -231,31 +216,11 @@
     "General Notes/diagram.png",
     "General Notes/diffraction1.jpg",
     "General Notes/buac20-img-wavecharacteristics.png__1920x1080_q85_crop_subsampling-2_upscale.png",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 13",
     "General Notes/Pasted image 20240422094655.png",
     "General Notes/Pasted image 20240422094645.png",
-    "General Notes/Pasted image 20240422093032.png",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13",
-    "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.24.49.excalidraw.md",
-    "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.27.15.excalidraw.md",
-    "General Notes/Physics 2 - Week 12 Day 2 2024-04-19 11.11.03.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 12/Electronics - Week 12 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 11/Electronics - Week 11 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 12",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 11",
