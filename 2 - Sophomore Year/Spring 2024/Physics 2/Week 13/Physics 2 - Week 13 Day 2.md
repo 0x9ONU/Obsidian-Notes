@@ -77,4 +77,64 @@ The compression and expansion of air creates sound
 
 ![[u11l1c2.gif]]
 
+## Sound in Space
+
+```ad-warning
+It does not work as there needs to be a medium for sound to move through it.
+```
+
+## Intensity and Decibels
+
+### Intensity
+
+$P$ Power of Source in Watts
+
+**Intensity**
+
+$$I = \frac{P}{4 \pi r^2}$$
+
+![[acoustical.png]]
+
+```ad-example
+Two poeple watching fireworks. Given the following, find the intensity the first person hears.
+- $r_1 = 160m$
+- $r_2 = 640m$
+- $I_2 = 0.1 W/m^2$
+- $P_1 = P_2$
+- $I_1 = ?$
+```
+
+$$I_1 = \frac{P_1}{4 \pi r_1^2}$$
+$$I_2 = \frac{P_2}{4 \pi r_2^2}$$
+$$\frac{I_1}{I_2} = \frac{\frac{P_1}{4 \pi r_1^2}}{\frac{P_2}{4 \pi r_2^2}}$$
+$$=\frac{r_2^2}{r_1^2} = 16 \frac{W}{m^2}$$
+### Decibels
+
+$$I(dB) = 10 \log_{10}[ \frac{I}{I_o}]$$
+- $I_o = 10^{-12} \frac{W}{m^2}$
+
+![[social-inset-decibelchart-noiselevels-700x310.png]]
+
+```ad-example
+Find the decibels of a whisper:
+$$I = 10^{-9} \frac{W}{m} \Rightarrow dB = 30$$
+Find the decibels of a motercycle:
+$$I= 10^{-3} \frac{W}{m} \Rightarrow dB = 90$$
+```
+
+## Hearing
+
+- Sound waves carry energy
+- Waves make eardrum vibrate
+- Ear bones vibrate
+- Fluid sloshes around
+- Eventually electrical signals sent to brain
+
+![[Blausen_0328_EarAnatomy 1.png]]
+
+### Frequencies
+
+- Humans: $20 - 20,000 Hz$
+- Dogs: up to $50,000 Hz$
+- Bats: up to $250, 000 Hz$
 
