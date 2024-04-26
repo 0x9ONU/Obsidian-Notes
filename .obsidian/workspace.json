@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 2.md"
+                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 3.md"
               }
             }
           },
@@ -180,45 +180,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "48bb9d2715d71375",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7079afb797dcf5c0",
-        "type": "window",
-        "children": [
-          {
-            "id": "4974459d83c3653f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ba00a88c3a0049ca",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Electronics - Week 13 Day 2 2024-04-24 13.03.31.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "ba00a88c3a0049ca",
+  "active": "298f0ce477d13959",
   "lastOpenFiles": [
-    "General Notes/Electronics - Week 13 Day 2 2024-04-24 13.03.31.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 3.md",
+    "General Notes/Electronics - Week 13 Day 2 2024-04-24 13.03.31.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Drawing 2024-04-24 12.56.46.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Drawing 2024-04-24 12.56.37.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 2.md",
@@ -251,7 +217,6 @@
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
-    "General Notes/Electronics - Week 13 Day 1 2024-04-22 13.13.22.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 13",
     "General Notes/Universe_History_2.webp",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 13",
