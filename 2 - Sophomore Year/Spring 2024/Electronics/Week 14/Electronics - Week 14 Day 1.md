@@ -135,6 +135,13 @@ Assumption is correct and the CBJ is in reverse bias.
 
 ### For $V_B = 6V$
 
+#### Check Cutoff
+
+If it is in cutoff$I_E=0$
+$\Rightarrow V_E = 0 \Rightarrow V_{BE} = 6V \not < 0$
+
+It must be on
+
 #### Assume Active
 
 
@@ -153,5 +160,42 @@ $$V_{BE} = 6-(2.53) = 3.47 \not < 0.4$$
 BCJ is in forward bias
 $\Rightarrow$ The BJT is in Saturation
 
+
+
 #### Assume Saturation
+
+$$V_{BC} \approxeq 0.6 \space \mbox{(By Specificaiton)}$$
+$$V_{BE}=0.7V$$
+$$V_{CE} = 0.1V \space (\mbox{By KVL and Specificaiton)}$$
+
+```ad-warning
+You CANNOT use the beta equations in saturation. They only work in active
+```
+
+**Find $V_{E}$
+
+$$V_{BE}=0.7 = (6)-V_E \Rightarrow V_E =5.3 V$$
+**Find $I_E$**
+
+$$I_E = \frac{5.3}{3300} = 1.61 mA$$
+**Find $V_C$**
+
+$$V_{CE} = V_C - V_E$$
+$$(0.1) = V_C -(5.3)$$
+$$V_C = 5.4V$$
+
+**Find $I_C$**
+
+$$I_C = \frac{10-5.4}{4700} = 979 \micro A$$
+
+**Find $I_B$**
+
+USE KCL
+
+$$I_E = I_C + I_B$$
+$$I_B = 631 \micro A$$
+
+**Find Beta Forced**
+
+$$\beta_{forced} = \frac{I_C}{I_B} = 1.55 << \beta_{active}$$
 

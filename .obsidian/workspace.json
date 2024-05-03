@@ -211,13 +211,7 @@
             ]
           }
         ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
+        "direction": "vertical"
       },
       {
         "id": "ea8df4d62614bce8",
@@ -246,35 +240,6 @@
         "width": 1024,
         "height": 800,
         "maximize": true,
-        "zoom": 1
-      },
-      {
-        "id": "d4f74a19d814579e",
-        "type": "window",
-        "children": [
-          {
-            "id": "da3f1077ed0055d6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bc1d3b2ec46029b2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics - Week 14 Day 1 2024-04-29 11.17.52.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
         "zoom": 1
       }
     ]
