@@ -11,11 +11,9 @@
             "id": "298f0ce477d13959",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 14/Physics - Week 14 Day 1.md",
-                "mode": "source",
-                "source": false
+                "file": "General Notes/Physics - Week 14 Day 1 2024-04-29 11.22.28.excalidraw.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 14/Physics - Week 14 Day 1.md",
+                "file": "General Notes/Physics - Week 14 Day 1 2024-04-29 11.22.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 14/Physics - Week 14 Day 1.md",
+                "file": "General Notes/Physics - Week 14 Day 1 2024-04-29 11.22.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 14/Physics - Week 14 Day 1.md"
+                "file": "General Notes/Physics - Week 14 Day 1 2024-04-29 11.22.28.excalidraw.md"
               }
             }
           },
@@ -188,10 +186,109 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "c2526fda7ccd731d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cf8d3c562a49c02b",
+        "type": "window",
+        "children": [
+          {
+            "id": "c28c710e41d51d9d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c4d0771819ca557",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics - Week 14 Day 1 2024-04-29 11.10.02.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      },
+      {
+        "id": "ea8df4d62614bce8",
+        "type": "window",
+        "children": [
+          {
+            "id": "b6eafdd30395804f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2713f820af2127ef",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics - Week 14 Day 1 2024-04-29 11.16.09.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1
+      },
+      {
+        "id": "d4f74a19d814579e",
+        "type": "window",
+        "children": [
+          {
+            "id": "da3f1077ed0055d6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bc1d3b2ec46029b2",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics - Week 14 Day 1 2024-04-29 11.17.52.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
   "active": "298f0ce477d13959",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 1.md",
+    "General Notes/Physics - Week 14 Day 1 2024-04-29 11.17.52.excalidraw.md",
+    "General Notes/Physics - Week 14 Day 1 2024-04-29 11.22.28.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 14/Physics - Week 14 Day 1.md",
+    "General Notes/Physics - Week 14 Day 1 2024-04-29 11.16.09.excalidraw.md",
+    "General Notes/Physics - Week 14 Day 1 2024-04-29 11.10.02.excalidraw.md",
+    "General Notes/Physics - Week 14 Day 1 2024-04-29 11.06.53.excalidraw.md",
+    "General Notes/Physics - Week 14 Day 1 2024-04-29 11.03.06.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 14",
     "General Notes/Number Theory - Week 14 Day 1 2024-04-29 09.41.03.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
@@ -214,13 +311,7 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 12/Electronics - Week 12 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 11/Electronics - Week 11 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 3.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.39.49.excalidraw.md",
     "General Notes/Pasted Image 20240426114035_945.jpg",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.34.35.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.32.51.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.31.56.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.30.31.excalidraw.md",
     "General Notes/Blausen_0328_EarAnatomy 1.png",
     "General Notes/Blausen_0328_EarAnatomy.png",
     "General Notes/social-inset-decibelchart-noiselevels-700x310.png",
