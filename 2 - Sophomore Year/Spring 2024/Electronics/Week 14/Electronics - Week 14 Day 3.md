@@ -126,7 +126,7 @@ $$\boxed{R_C = \frac{V_C-0}{I_C} = 4.9k \Omega}$$
 ## Question 4: Double Transistor Problem
 
 ```ad-question
-For the circuit shown below, find $V_B$ and $V_E$ for $V_i = 0, =+2V, =-5V$. The BJTs have $\beta 50$
+For the circuit shown below, find $V_B$ and $V_E$ for $V_i = 0, =+2V, =-5V$. The BJTs have $\beta = 50$
 ```
 
 ![[Electronics - Week 14 Day 3 2024-05-03 13.37.44.excalidraw]]
@@ -163,5 +163,75 @@ $$V_{EB}=0-2=-2 \rightarrow \mbox{OFF}$$
 ![[Electronics - Week 14 Day 3 2024-05-03 13.49.09.excalidraw]]
 
 
-
 $$V_{EB} = 0.7$$
+$$-2 + 10k I_B+ 0.7 + 1kI_E=0$$
+$$I_E = 51I_B$$
+*Plug in equation 2 into equation one to get one equation one unknown to solve*
+
+$$I_B = \frac{1.3}{61k} = 21 \micro A$$
+$$2- V_B = \frac{I_B}{10k}$$
+$$V_B = 1.79 V$$
+
+$$V_{BE}=V_B-V_E$$
+$$(0.7) = (1.79)-V_E$$
+$$V_E = 1.09 V$$
+$$I_E = 51I_B$$
+$$I_E = 1.09 m A$$**CHECK ASSUMPTION**
+
+$$V_{BC}=1.79-2.5 < 0.4 \space \checkmark$$
+
+The BCj is in reverse biased, and active is confirmed.
+
+### When $V_i = -5V$
+
+#### Check $Q_1$ for cutoff
+
+$$V_B = -5V, V_E = 0$$
+$$V_{BE} = -5 V \rightarrow \mbox{OFF!}$$
+#### Check $Q_2$ for cutoff
+
+$$V_B = -5V, V_E = 0$$
+$$V_{EB} = 5 \rightarrow \mbox{ON!}$$
+
+#### Assume $Q_2$ is Active
+
+![[Electronics - Week 14 Day 3 2024-05-06 13.32.57.excalidraw]]
+
+$$V_{EB} = 0.7V$$
+
+*KVL*
+$$0-1kI_E+0.7+10kI_B-5=0$$
+$$I_E = 51I_B$$
+*Plug Equations into each other and solve*
+
+$$I_B = \frac{4.3}{61k} = 70 \micro A$$
+$$V_B-(-5)= 10kI_B$$
+$$V_B = -4.3V$$
+
+$$V_{EB} = V_E -V_B$$
+$$V_E = -3.6V$$
+
+```ad-important
+$V_E$ is lower than $V_C$. That means our assumption is wrong. Then it MUST be in saturation.
+```
+
+**Double Check**
+
+$$V_{BC} = -2.5 - (-4.3) \not < 0.4V$$
+#### Assume $Q_2$ is in Saturation
+
+$$V_{EB}=0.7V, V_{BC}=0.5V, V_{EC}= 0.2V$$
+$$V_{EC}= V_E - V_C$$
+$$(0.2) = V_E -(-2.5)$$
+$$V_E = -2.3V$$
+
+$$V_{CB} = V_C - V_B$$
+$$(0.5)=-2.5-V_B$$
+$$V_B = -3V$$
+
+$$I_E = \frac{0-(-2.3)}{1k} = 2.3mA$$
+$$I_B = \frac{-3-(-5)}{10k} = 0.2mA$$
+
+$$I_C = 2.3-0.2 = 2.1mA$$
+
+$$\beta_{forced} = 10.5$$
