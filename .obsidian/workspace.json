@@ -188,8 +188,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "8ba7683dfccc14e2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b903aa2356f355e8",
+        "type": "window",
+        "children": [
+          {
+            "id": "8682b8c828cfdfdf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6e5123fc1f85e86f",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Physics 2 - Week 15 Day 2 2024-05-08 11.32.16.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "298f0ce477d13959",
   "lastOpenFiles": [
+    "General Notes/rayleigh-scattering-illustration.png",
+    "General Notes/the-rayleigh-scattering-and-why-the-sky-is-blue-2M6XW2K.jpg",
+    "General Notes/20170112_blog_cabecera.jpg",
+    "General Notes/Physics 2 - Week 15 Day 2 2024-05-08 11.35.38.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 15/Physics 2 - Week 15 Day 2.md",
+    "General Notes/Physics 2 - Week 15 Day 2 2024-05-08 11.34.16.excalidraw.md",
+    "General Notes/Physics 2 - Week 15 Day 2 2024-05-08 11.32.16.excalidraw.md",
     "General Notes/index.49478b6.jpg",
     "General Notes/Myopia.gif",
     "General Notes/7ubMO.jpg",
@@ -198,7 +240,6 @@
     "General Notes/Figure_27_05_01.jpg",
     "General Notes/Figure_27_05_02.jpg",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 15/Number Theory - Week 15 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 15/Physics 2 - Week 15 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 14/Ethics - Week 14 Day 3.md",
     "General Notes/Physics 2 - Week 15 Day 1 2024-05-06 11.14.41.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 15/Ethics - Week 15 Day 1.md",
@@ -219,10 +260,7 @@
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 14/Ethics - Week 14 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 13/Ethics - Week 13 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 13/Ethics - Week 13 Day 2.md",
-    "General Notes/Physics 2 - Week 15 Day 1 2024-05-06 11.17.53.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 14/Electronics - Week 14 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 15",
-    "General Notes/Electronics - Week 14 Day 3 2024-05-06 13.32.57.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 15",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 15",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 15",
@@ -230,9 +268,6 @@
     "2 - Sophomore Year/Spring 2024/Number Theory/Untitled",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 14",
     "General Notes/Pasted image 20240426143839.png",
-    "General Notes/Pasted Image 20240426114035_945.jpg",
-    "General Notes/Blausen_0328_EarAnatomy 1.png",
-    "General Notes/Blausen_0328_EarAnatomy.png",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 13",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 13",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13"
