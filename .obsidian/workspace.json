@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 14/Ethics - Week 14 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 14/Ethics - Week 14 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 2.md",
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 14/Ethics - Week 14 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 2.md"
+                "file": "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 14/Ethics - Week 14 Day 3.md"
               }
             }
           },
@@ -188,37 +188,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "c2526fda7ccd731d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "49a73a68761a8d17",
-        "type": "window",
-        "children": [
-          {
-            "id": "2601b1daa812a04c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "85fa733d972c9cdc",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Physics 2 - Week 15 Day 1 2024-05-06 11.14.41.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      }
-    ]
-  },
   "active": "298f0ce477d13959",
   "lastOpenFiles": [
+    "General Notes/Physics 2 - Week 15 Day 1 2024-05-06 11.14.41.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 14/Ethics - Week 14 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 15/Ethics - Week 15 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 6/Ethics - Week 6 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 7/Ethics - Week 7 Day 1.md",
@@ -236,8 +211,6 @@
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 13/Ethics - Week 13 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 13/Ethics - Week 13 Day 2.md",
     "General Notes/Physics 2 - Week 15 Day 1 2024-05-06 11.17.53.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 14/Ethics - Week 14 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 15/Ethics - Week 15 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 14/Electronics - Week 14 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 15",
     "General Notes/Electronics - Week 14 Day 3 2024-05-06 13.32.57.excalidraw.md",
@@ -245,8 +218,6 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 15/Electronics - Week 15 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 15/Physics 2 - Week 15 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 15",
-    "General Notes/Physics 2 - Week 15 Day 1 2024-05-06 11.43.20.excalidraw.md",
-    "General Notes/Physics 2 - Week 15 Day 1 2024-05-06 11.37.57.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 15",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 15",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 14",
