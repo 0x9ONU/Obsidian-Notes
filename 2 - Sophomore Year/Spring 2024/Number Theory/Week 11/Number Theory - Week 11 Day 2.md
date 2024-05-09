@@ -27,6 +27,15 @@ $\mathbb{Z}_p$ is **NOT** a group under multiplication
 
 $\mathbb{Z}_{10}^\star = \{1, 3, 7, 9\}$
 
+## Problem 3
+
+| x     | 1   | 3   | 7   | 9   |
+| ----- | --- | --- | --- | --- |
+| **1** | 1   | 3   | 7   | 9   |
+| **3** | 3   | 9   | 1   | 7   |
+| **7** | 7   | 1   | 9   | 3   |
+| **9** | 9   | 7   | 3   | 1   |
+
 ## Problem 4
 
 ```ad-question
@@ -86,7 +95,7 @@ This implies that $e$ must be the least element of $\mathbb{Z}$, BUT $\mathbb{Z}
 ## Problem 8
 
 ```ad-question
-Let $G = \{x \in \mathbb{R} \mbox{ if } x > 0, x \ne 1 \}. Define operation $*$ on $G$ by $a * b = a^{\ln b}$ for all $a, b \in G$. Prove $G$ is an abelian group
+Let $G = \{x \in \mathbb{R} \mbox{ if } x > 0, x \ne 1 \}$. Define operation $*$ on $G$ by $a * b = a^{\ln b}$ for all $a, b \in G$. Prove $G$ is an abelian group
 ```
 
 **Associative?

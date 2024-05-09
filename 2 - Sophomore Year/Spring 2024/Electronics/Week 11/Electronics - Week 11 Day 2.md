@@ -167,4 +167,66 @@ $$V_{D} = I_D(100k)$$
 
 **Plugging into Equation Solver**
 
-$$$$
+$$V_D = 6.16 V \space \& \space I_D = 61.6 \micro A$$
+$$OR$$
+$$\boxed{V_D = 9.74 V \space \& \space I_D = 97.4 \micro A}$$
+
+*Check Solutions*
+
+$$V_{D} >^? V_G - |V_t|$$
+
+$$(9.74) < (7) - |-1|)$$
+$$9.74 > 6 \space \checkmark$$
+### Example 4: PMOS Design Problem
+
+```ad-question
+Design the circuti show below so that the transistor operates in saturation with $I_D=0.5 mA$ and $V_D = +3V$. Let PMOS have $V_t = -1V$ and $K^\prime_p(\frac{W}{L}) = 1mA/V^2$. Assume $\lambda \approxeq 0$. What is the largest value of $R_D$ we can have while maintaining the PMOS in *saturation*
+```
+
+![[Pasted image 20240415131121.png]]
+
+#### Find $R_D$
+
+$$\boxed{R_D = \frac{3}{0.5mA} = 6 k\Omega}$$
+
+#### Find $V_G$
+
+$$I_D = 0.5mA = \frac{K^\prime_p}{2}\frac{W}{L}(V_{SG}-|V_t|)^2$$
+$$0.5mA = (0.5mA/v^2)[(5-V_G)-1)^2$$
+
+*Plug into equation solver*
+
+$$V_G = 5V \space OR \space V_G = 3V$$
+
+$$V_{SG} >^? |V_t|$$
+$$V_{SG} = (5)-(5) = 0 \not > 1$$
+
+$$V_{SG} = (5)-(3) = 2 > 1 \space \checkmark$$
+
+```ad-important
+Use second solution!
+```
+
+#### Find $R_{G1}$ and $R_{G2}$
+
+$$(3) = (\frac{R_{G2}}{R_{G1}+R_{G2}})(5V)$$
+**Find the solution to the ratio**
+$$\frac{3}{5} = \frac{R_{G2}}{R_{G1}+R_{G2}}=\frac{3k}{2k+3k}$$
+
+$$\boxed{R_{G1} = 2k, R_{G2}=3k}$$
+
+#### Check Saturation
+
+$$V_{SD} \ge V_{SG} - |V_t|$$
+$$(V_S-V_D) \ge (V_S-V_G)-|V_t|$$
+$$V_D \ge V_G - |V_t|$$
+$$(3) \ge (3) -(1)$$
+$$3 \ge 2 \space \checkmark$$
+
+#### Largest Value of $R_D$
+
+$$V_D = V_G+|V_t|$$
+$$V_D = 4 V$$
+
+$$R_{Dmax} = \frac{4}{0.5mA}=8k\Omega$$
+

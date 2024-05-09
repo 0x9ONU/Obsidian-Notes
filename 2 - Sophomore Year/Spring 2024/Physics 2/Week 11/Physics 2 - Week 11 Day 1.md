@@ -147,7 +147,7 @@ Can be used to step up or step down voltage
 
 ## Equation
 
-$$\frac{V_P}{N_P} = \frac{V_s}{N_p}$$
+$$\frac{V_P}{N_S} = \frac{V_s}{N_p}$$
 ## Example
 
 ```ad-question

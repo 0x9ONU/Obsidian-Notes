@@ -1,4 +1,4 @@
-Date: 12th April 2024
+fDate: 12th April 2024
 Date Modified: 12th April 2024
 File Folder: Week 11
 #Physics2
@@ -136,3 +136,21 @@ Einstein says that the speed of light is very special in terms of the universe.
 - X-rays
 - Gamma Waves
 
+```ad-note
+In visible light, red has a less energy than violet light
+```
+
+## Lasers
+
+Light Amplification Stimulated Emission Radiation (LASER):
+- One Color
+- One wavelength
+- Highly concentrated energy
+
+### Application
+
+- Industrial cutting
+- Surgery
+- Removing scars
+- Surveying
+- Military - weapons etc.
