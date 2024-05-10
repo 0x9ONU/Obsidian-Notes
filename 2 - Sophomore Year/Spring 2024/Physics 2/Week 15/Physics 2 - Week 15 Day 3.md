@@ -46,4 +46,24 @@ Light that has a high amount of energy sometimes behaves like a particle
 ## Light today
 
 - A wave with particle properties OR a particle with wave properties.
+# Science
+
+- What is science? The Scientific Method!
+
+**Scientific Method**
+1. Hypothesis
+2. Gather Data
+3. Analyze Data
+4. Repeat
+
+*Analyzing Data*
+- Create Graphs
+- Make Equations
+- Predict the Future
+
+```ad-warning
+Science is great, but is limited
+```
+
+# Review
 
