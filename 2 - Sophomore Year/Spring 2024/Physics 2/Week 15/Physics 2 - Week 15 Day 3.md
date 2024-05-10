@@ -65,5 +65,3 @@ Light that has a high amount of energy sometimes behaves like a particle
 Science is great, but is limited
 ```
 
-# Review
-
