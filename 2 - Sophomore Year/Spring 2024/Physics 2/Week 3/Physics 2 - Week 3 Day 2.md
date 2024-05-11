@@ -50,7 +50,7 @@ Find $E$ at some distance $r$
 ```
 
 **Sketch** 
-
+ 
 ![[Physics 2 - Week 3 Day 2 2024-02-07 11.15.13.excalidraw]]
 
 **Equations**
