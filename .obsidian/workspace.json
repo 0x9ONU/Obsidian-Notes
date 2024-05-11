@@ -11,11 +11,9 @@
             "id": "67b62917c75e88a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Quiz 3 Study Guide.md",
-                "mode": "source",
-                "source": false
+                "file": "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.08.53.excalidraw.md"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Quiz 3 Study Guide.md",
+                "file": "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.08.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Quiz 3 Study Guide.md",
+                "file": "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.08.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +144,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Quiz 3 Study Guide.md"
+                "file": "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.08.53.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "873010a5f11fd60e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -174,19 +182,32 @@
   "active": "67b62917c75e88a6",
   "lastOpenFiles": [
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
-    "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.21.51.excalidraw.md",
-    "General Notes/Physics 2 - Week 3 Day 2 2024-02-07 11.15.13.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2  Day 1.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.12.12.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.12.12.excalidraw.png",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.10.49.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.09.28.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.07.19.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.05.18.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
+    "General Notes/Physics 2 - Week 4 Day 1 2024-02-12 11.44.43.excalidraw.md",
+    "General Notes/Physics 2 - Week 4 Day 1 2024-02-12 11.34.38.excalidraw.md",
+    "General Notes/Physics 2 - Week 4 Day 1 2024-02-12 11.17.00.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 3.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.26.37.excalidraw.md",
+    "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.19.28.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 2.md",
+    "General Notes/Physics 2 - Week 1 Day 2 2024-01-24 11.36.04.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 1/Physics 2 - Week 1 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 8/Physics 2 - Week 8 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 9/Physics 2 - Week 9 Day 1.md",
+    "General Notes/Physics 2 - Week 9 Day 1 2024-03-25 11.46.19.excalidraw.md",
+    "General Notes/Physics 2 - Week 9 Day 1 2024-03-25 11.39.47.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 9/Physics 2- Week 9 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Experiment 9.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 15/Physics 2 - Week 15 Day 3.md",
     "General Notes/1693751801270.jpg",
     "General Notes/Poissonspot_setup_treisinger.jpg",
     "General Notes/1583453002833.jpeg"
