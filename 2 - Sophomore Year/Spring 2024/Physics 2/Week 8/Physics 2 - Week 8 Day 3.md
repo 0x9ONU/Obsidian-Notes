@@ -67,7 +67,7 @@ $$B = \frac{\mu_oI}{2 \pi a} \Rightarrow B = \frac{\mu_oI}{2 \pi r}$$
 
 ## B-Force Between 2 Wires
 
-![[Physics 2 - Week 8 Day 3 2024-03-22 11.32.16.excalidraw]]
+**![[Physics 2 - Week 8 Day 3 2024-03-22 11.32.16.excalidraw]]**
 
 **Force on Wire 2**
 
