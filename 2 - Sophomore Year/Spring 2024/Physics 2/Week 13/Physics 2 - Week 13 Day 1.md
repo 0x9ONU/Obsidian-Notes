@@ -116,6 +116,27 @@ $$f^\prime = f_0(\frac{v_w+v_d}{v_w-v_s}) = 150(\frac{340+0}{340-45})=173 \space
 
 ![[Universe_History_2.webp]]
 
+## Shock Waves
 
+![[main-qimg-0682b0a9d6e5e31b7fda78387a2e432e-pjlq.jpg]]
 
+## Wave Characteristics
+
+$$y = A \sin(kx - \omega t)$$
+- Has a wavelength $\lambda$
+- Frequency $f$ and period $T$
+- Speed: $v = \lambda f$
+- Amplitude = Energy
+- Transverse or Longitudinal
+
+## Wave Interactions Summary
+
+- Reflection
+- Interference: Collision of Waves
+- Generate Standing Waves
+- Beats
+- Diffraction
+- Resonance
+- Doppler Effect
+- (Refraction) *coming soon*
 
