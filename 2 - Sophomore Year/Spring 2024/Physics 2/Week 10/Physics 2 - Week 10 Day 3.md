@@ -87,7 +87,7 @@ $$\boxed{V_L = -L\frac{dI}{dt}}$$
 
 # RL Circuits
 
-## Discharging + Derviation!
+## Discharging + Derivation!
 
 ### Sketch
 

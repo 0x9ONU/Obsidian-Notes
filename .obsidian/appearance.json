@@ -1,6 +1,7 @@
 {
   "accentColor": "#ffffff",
   "baseFontSize": 10,
-  "theme": "obsidian",
-  "cssTheme": "Prism"
+  "theme": "moonstone",
+  "cssTheme": "Prism",
+  "baseFontSizeAction": true
 }

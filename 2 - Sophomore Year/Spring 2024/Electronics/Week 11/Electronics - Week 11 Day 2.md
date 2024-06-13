@@ -63,7 +63,7 @@ $$V_{GS} = V_G -V_S = 5 - 0$$
 $$V_{GS} <^? V_t$$
 $$5 \not < 1$$
 **Transistor is on**
-
+zz
 ##### Assume Saturation
 
 $$I_D = \frac{K_n}{2}(V_{GS}-V_t)^2$$
