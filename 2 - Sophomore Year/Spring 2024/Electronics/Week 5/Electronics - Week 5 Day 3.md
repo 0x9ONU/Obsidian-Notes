@@ -32,6 +32,7 @@ Consider the non-inverting amplifier circuit show below, the circuit is designed
 
 ![[Electronics - Week 5 Day 3 2024-02-23 13.06.28.excalidraw]]
 
+z
 ### Part A
 
 **Find the Voltage
