@@ -24,7 +24,7 @@
 | 6      | 80                                   |
 | 7      | 40                                   |
 | 8      | 1                                    |
-## For $T=5ms, C=0.1\micro F, V_{threshold}=0$
+## For $T=5\micro s, C=0.1\micro F, V_{threshold}=0$
 
 | Region | Approx Resistor Threshold ($\Omega$) |
 | ------ | ------------------------------------ |
