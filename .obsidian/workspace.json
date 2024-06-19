@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52a6d19b80c6c95c",
+        "id": "c274b4bddcbb3849",
         "type": "tabs",
         "children": [
           {
-            "id": "90889f8a6ea1171a",
+            "id": "87f284f165f1f0e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -31,6 +27,7 @@
       {
         "id": "4ba695eb961baa08",
         "type": "tabs",
+        "dimension": 72.64529058116233,
         "children": [
           {
             "id": "20fa6d1f814f2ed8",
@@ -48,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FOD2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,6 +79,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "46bba7dfd0a203a1",
+        "type": "tabs",
+        "dimension": 27.354709418837675,
+        "children": [
+          {
+            "id": "6b91591e90f07cde",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,32 +150,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md"
-              }
-            }
-          },
-          {
-            "id": "d18d2bb32522a08c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c19a4264e73d416",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "7df41ab4f9167936",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
               "state": {}
             }
           },
@@ -190,7 +174,25 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
+      },
+      {
+        "id": "adb078a9304d15fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5387c063eed36e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,15 +221,40 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "52fd4bc2e7ba6bd8",
+  "active": "87f284f165f1f0e2",
   "lastOpenFiles": [
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "Viewer.md",
+    "2024-06-19.md",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "General Notes/Pasted image 20231204104103.png",
+    "Daily Notes/2024-06-19.md",
+    "Daily Notes/2024-06-21.md",
+    "Daily Notes/2024-06-20.md",
+    "Daily Notes",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2024-06-19 11.53.44.excalidraw.md",
     "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
+    "2 - Sophomore Year/Summer Research/Presentations.md",
+    "2 - Sophomore Year/Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
+    "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
+    "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.11.07.excalidraw.md",
+    "General Notes/Circuits Final Review Part 2 2023-12-12 14.06.12.excalidraw.md",
+    "General Notes/Circuits Final Review 2023-12-08 11.08.20.excalidraw.md",
+    "General Notes/buac20-img-wavecharacteristics.png__1920x1080_q85_crop_subsampling-2_upscale.png",
+    "Untitled.canvas",
+    "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 2 - Friday/AFLV Side Session 3 - Changing the Narrative of the Alumni ATM.md",
+    "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 1 - Thursday/AFLV Key Session 1 - An Hour of Power.md",
+    "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 1 - Thursday/AFLV Side Session 1 - Queer Men in Fraternity Life.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 2.md",
+    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
+    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
+    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
+    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
+    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
     "3 - Junior Year/Summer Research/Reports/Untitled",
     "3 - Junior Year/Summer Research/Reports",
-    "conflict-files-obsidian-git.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 15/Physics 2 - Week 15 Day 1.md",
     "3 - Junior Year/Summer Research/Cybersecurity",
     "3 - Junior Year/Summer Research/APS",
     "3 - Junior Year/Summer Research",
@@ -237,37 +264,11 @@
     "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.12.12.excalidraw.png",
     "General Notes/1693751801270.jpg",
     "General Notes/1583453002833.jpeg",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 15/Physics 2 - Week 15 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 15/Physics 2 - Week 15 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 14/Electronics - Week 14 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 15/Electronics - Week 15 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 13/Electronics - Week 13 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 15/Number Theory - Week 15 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 15",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 14",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 15",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.42.55.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.39.49.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.34.35.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.32.51.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.31.56.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.30.31.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.22.03.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.13.45.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.09.01.excalidraw.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.08.08.excalidraw.md",
     "General Notes/Pasted image 20240424093137.png",
     "General Notes/Pasted Image 20240426114035_945.jpg",
     "General Notes/Myopia.gif",
-    "General Notes/Figure_27_05_02.jpg",
-    "General Notes/Figure_27_05_01.jpg",
-    "General Notes/Blausen_0328_EarAnatomy.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "General Notes/Figure_27_05_02.jpg"
   ]
 }

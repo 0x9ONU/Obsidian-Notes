@@ -1,7 +1,7 @@
 {
   "accentColor": "#ffffff",
-  "baseFontSize": 10,
+  "baseFontSize": 12,
   "theme": "obsidian",
-  "cssTheme": "Prism",
+  "cssTheme": "Blue Topaz",
   "baseFontSizeAction": true
 }

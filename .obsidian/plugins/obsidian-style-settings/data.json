@@ -8,5 +8,18 @@
   "obsidian-prism-theme@@pt-icon-folder-accent": true,
   "obsidian-prism-theme@@pt-icons-accent": true,
   "obsidian-prism-theme@@radius-m": 8,
-  "obsidian-prism-theme@@pt-titlebar-hide-text": false
+  "obsidian-prism-theme@@pt-titlebar-hide-text": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-waves2",
+  "blue-topaz-theme@@blur-depth": 10,
+  "blue-topaz-theme@@brightness-4-bg": 0.6,
+  "blue-topaz-theme@@toggle-calendar-shadow": true,
+  "blue-topaz-theme@@toggle-calendar-transparent": true,
+  "blue-topaz-theme@@rainbow-checklist": true,
+  "blue-topaz-theme@@background-waves-color@@dark": "#FFFFFF",
+  "blue-topaz-theme@@background-waves-color@@light": "#4A75DB8C",
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-in-the-note",
+  "blue-topaz-theme@@text-normal@@dark": "#FFFFFF",
+  "blue-topaz-theme@@text-normal@@light": "#000000"
 }
