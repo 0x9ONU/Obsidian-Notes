@@ -4,18 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "c274b4bddcbb3849",
+        "id": "19c5de00dbb88e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "87f284f165f1f0e2",
+            "id": "3e3d96e01506f6f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-06-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5fb87149a14bcd3",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
               "state": {}
             }
+          },
+          {
+            "id": "c67a07205b717abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ade77a66ed4db824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-07-03.md"
+              }
             }
           },
           {
@@ -221,38 +262,39 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "87f284f165f1f0e2",
+  "active": "d5fb87149a14bcd3",
   "lastOpenFiles": [
-    "Viewer.md",
-    "2024-06-19.md",
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-    "General Notes/Pasted image 20231204104103.png",
-    "Daily Notes/2024-06-19.md",
+    "2024-07-01.md",
+    "2024-07-03.md",
+    "2024-07-04.md",
+    "2024-07-05.md",
+    "2024-07-06.md",
+    "2024-07-07.md",
+    "2024-07-08.md",
+    "2024-07-02.md",
+    "2024-06-30.md",
+    "2024-06-29.md",
+    "2024-06-28.md",
+    "2024-06-27.md",
+    "2024-06-26.md",
+    "2024-06-25.md",
+    "2024-06-24.md",
+    "2024-06-23.md",
+    "2024-06-22.md",
     "Daily Notes/2024-06-21.md",
     "Daily Notes/2024-06-20.md",
+    "Daily Notes/2024-06-19.md",
+    "2024-06-18.md",
+    "2024-06-19.md",
+    "Viewer.md",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "General Notes/Pasted image 20231204104103.png",
     "Daily Notes",
     "Untitled 1.canvas",
     "Excalidraw/Drawing 2024-06-19 11.53.44.excalidraw.md",
     "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
-    "2 - Sophomore Year/Summer Research/Presentations.md",
-    "2 - Sophomore Year/Summer Research/Networks/Chapter 1-2 - IP Addressing.md",
-    "2 - Sophomore Year/Summer Research/Networks/Chapter 1 - Computer Networks and the Internet.md",
-    "General Notes/Electronics - Week 4 Day 3 2024-02-16 13.11.07.excalidraw.md",
-    "General Notes/Circuits Final Review Part 2 2023-12-12 14.06.12.excalidraw.md",
-    "General Notes/Circuits Final Review 2023-12-08 11.08.20.excalidraw.md",
     "General Notes/buac20-img-wavecharacteristics.png__1920x1080_q85_crop_subsampling-2_upscale.png",
     "Untitled.canvas",
-    "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 2 - Friday/AFLV Side Session 3 - Changing the Narrative of the Alumni ATM.md",
-    "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 1 - Thursday/AFLV Key Session 1 - An Hour of Power.md",
-    "2 - Sophomore Year/Spring 2024/Theta Chi/AFLV/Day 1 - Thursday/AFLV Side Session 1 - Queer Men in Fraternity Life.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Physics I/Week 13/Physics I Week 13 - Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 2.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 4 - The Role of People in Security.md",
-    "2 - Sophomore Year/Summer Research/Machine Learning/Chapter 1 - Basics of Machine Learning.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 2 - General Security Concepts.md",
-    "2 - Sophomore Year/Summer Research/Cybersecurity/Chapter 1 - Introduction and Security Trends.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 11/Physics 2 - Week 11 Day 2.md",
     "3 - Junior Year/Summer Research/Reports/Untitled",
     "3 - Junior Year/Summer Research/Reports",
     "3 - Junior Year/Summer Research/Cybersecurity",

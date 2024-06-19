@@ -21,5 +21,6 @@
   "blue-topaz-theme@@background-waves-color@@light": "#4A75DB8C",
   "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-in-the-note",
   "blue-topaz-theme@@text-normal@@dark": "#FFFFFF",
-  "blue-topaz-theme@@text-normal@@light": "#000000"
+  "blue-topaz-theme@@text-normal@@light": "#000000",
+  "daily-notes-opener@@dno-day-background@@dark": "#F2D796"
 }
