@@ -1,0 +1,28 @@
+/* src/styles.css */
+/* @settings
+
+_: '@preserve'
+name: Daily notes opener
+id: daily-notes-opener
+settings:
+    -
+        id: dno-day-background
+        title: Daily notes background
+        type: variable-themed-color
+        opacity: false
+        format: hex
+        default-light: '#fefaea'
+        default-dark: '#4A3606'
+    -
+        id: dno-week-background
+        title: Weekly notes background
+        type: variable-themed-color
+        opacity: false
+        format: hex
+        default-light: '#C6E8E4'
+        default-dark: '#0A3837'
+*/
+:root {
+  --dno-day-background: #fefaea;
+  --dno-week-background: #fefaea;
+}

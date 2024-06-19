@@ -72,6 +72,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "85d47fe020851118",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ]
       }
@@ -172,14 +180,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "52fd4bc2e7ba6bd8",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,13 +208,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-daily-notes-opener:Open today's daily note in new pane": false,
+      "obsidian-daily-notes-viewer:Open Viewer": false,
+      "obsidian-day-planner:Timeline": false,
+      "media-extended:Open media": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
+      "privacy-glasses:Reveal all": false
     }
   },
-  "active": "90889f8a6ea1171a",
+  "active": "52fd4bc2e7ba6bd8",
   "lastOpenFiles": [
-    "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "Viewer.md",
+    "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
     "3 - Junior Year/Summer Research/Reports/Untitled",
     "3 - Junior Year/Summer Research/Reports",
     "conflict-files-obsidian-git.md",
@@ -237,7 +261,6 @@
     "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.13.45.excalidraw.md",
     "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.09.01.excalidraw.md",
     "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.08.08.excalidraw.md",
-    "General Notes/Physics - Week 14 Day 1 2024-04-29 11.43.35.excalidraw.md",
     "General Notes/Pasted image 20240424093137.png",
     "General Notes/Pasted Image 20240426114035_945.jpg",
     "General Notes/Myopia.gif",
