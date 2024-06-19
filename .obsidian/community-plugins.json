@@ -1,7 +1,6 @@
 [
   "obsidian-admonition",
   "table-editor-obsidian",
-  "calendar",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
   "obsidian-mind-map",
@@ -36,5 +35,6 @@
   "obsidian-remember-file-state",
   "obsidian-scroll-offset",
   "obsidian-smart-typography",
-  "dataview"
+  "dataview",
+  "calendar"
 ]

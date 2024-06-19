@@ -8,23 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e3d96e01506f6f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-06-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d5fb87149a14bcd3",
             "type": "leaf",
             "state": {
               "type": "weekly",
               "state": {}
+            }
+          },
+          {
+            "id": "14368f960fca9eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-06-19.md",
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-06-19.md",
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-06-19.md"
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md"
               }
             }
           },
@@ -189,9 +189,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "88e79d2159b922ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "adb078a9304d15fe",
@@ -203,7 +211,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-19.md",
+                "file": "Daily Notes/2024-06-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +246,12 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "20fa6d1f814f2ed8",
+  "active": "14368f960fca9eec",
   "lastOpenFiles": [
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "CamScanner 08-24-2023 20.15_10 (1).jpg",
+    "Daily Notes/2024-06-19.md",
+    "Daily Notes/2024-06-20.md",
     "2024-06-19.md",
     "2024-06-23.md",
     "2024-07-03.md",
@@ -259,16 +271,12 @@
     "2024-06-24.md",
     "2024-06-22.md",
     "Daily Notes/2024-06-21.md",
-    "Daily Notes/2024-06-20.md",
-    "Daily Notes/2024-06-19.md",
     "2024-06-18.md",
     "Viewer.md",
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "General Notes/Pasted image 20231204104103.png",
     "Daily Notes",
     "Untitled 1.canvas",
     "Excalidraw/Drawing 2024-06-19 11.53.44.excalidraw.md",
-    "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
     "General Notes/buac20-img-wavecharacteristics.png__1920x1080_q85_crop_subsampling-2_upscale.png",
     "Untitled.canvas",
     "3 - Junior Year/Summer Research/Reports/Untitled",
@@ -286,7 +294,6 @@
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 14",
     "General Notes/Pasted image 20240424093137.png",
     "General Notes/Pasted Image 20240426114035_945.jpg",
-    "General Notes/Myopia.gif",
-    "General Notes/Figure_27_05_02.jpg"
+    "General Notes/Myopia.gif"
   ]
 }
