@@ -16,7 +16,7 @@ collapse: open
 **First Order Circuit**:
 - Response can be represented as a 1st-order differential equation
 
-It takes 5 $\tau$ (5 time constants) for the circuits to reach 99% of the final value of the voltage or current.
+It takes $5\tau$ (5 time constants) for the circuits to reach 99% of the final value of the voltage or current.
 
 ```ad-summary
 title: Definition: Time Constant
