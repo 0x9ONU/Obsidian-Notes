@@ -8,15 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5fb87149a14bcd3",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "14368f960fca9eec",
+            "id": "235e5967a1818ff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,9 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "325d561e3692aa9d",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,6 +118,7 @@
       {
         "id": "d510847d6e75478b",
         "type": "tabs",
+        "dimension": 33.75,
         "children": [
           {
             "id": "144d30a7692f7ccd",
@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,6 +200,7 @@
       {
         "id": "adb078a9304d15fe",
         "type": "tabs",
+        "dimension": 66.25,
         "children": [
           {
             "id": "5387c063eed36e70",
@@ -212,6 +209,18 @@
               "type": "markdown",
               "state": {
                 "file": "Daily Notes/2024-06-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ee521aab28a1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-06-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,16 +255,21 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "14368f960fca9eec",
+  "active": "6b91591e90f07cde",
   "lastOpenFiles": [
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-    "CamScanner 08-24-2023 20.15_10 (1).jpg",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 13/Ethics - Week 13 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 13/Ethics - Week 13 Day 2.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 1/Ethics - Week 1 Day 1.md",
     "Daily Notes/2024-06-19.md",
     "Daily Notes/2024-06-20.md",
+    "2024-07-01.md",
+    "CamScanner 08-24-2023 20.15_10 (1).jpg",
     "2024-06-19.md",
     "2024-06-23.md",
     "2024-07-03.md",
-    "2024-07-01.md",
     "2024-07-04.md",
     "2024-07-05.md",
     "2024-07-06.md",
@@ -270,13 +284,9 @@
     "2024-06-25.md",
     "2024-06-24.md",
     "2024-06-22.md",
-    "Daily Notes/2024-06-21.md",
-    "2024-06-18.md",
-    "Viewer.md",
     "General Notes/Pasted image 20231204104103.png",
     "Daily Notes",
     "Untitled 1.canvas",
-    "Excalidraw/Drawing 2024-06-19 11.53.44.excalidraw.md",
     "General Notes/buac20-img-wavecharacteristics.png__1920x1080_q85_crop_subsampling-2_upscale.png",
     "Untitled.canvas",
     "3 - Junior Year/Summer Research/Reports/Untitled",
