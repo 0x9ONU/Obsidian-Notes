@@ -12,9 +12,20 @@
 	- *Part 2*: Priority Encoder  
 - *Section V*: Eight-to-One MUX
 - *Section VI*: Microcontrollers & Code
+- *Section VII*: Conclusion & Future Work
 
 # Section I: Overview
 
+In order to improve the landscape when it comes to the 
+
 #  Section II: RC Parallel Circuit
 
-# Section III: 
+# Section III: Differential-OP Amps
+
+# Section IV: Three-Bit Flash ADC
+
+# Section V: Eight-to-One MUX
+
+# Section VI: Microcontrollers & Code
+
+# Section VII: Conclusion & Future Work

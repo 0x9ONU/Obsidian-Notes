@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md"
+              }
             }
           },
           {
@@ -255,8 +259,9 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "6b91591e90f07cde",
+  "active": "235e5967a1818ff1",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230604170706.png",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 13/Ethics - Week 13 Day 3.md",
@@ -283,7 +288,6 @@
     "2024-06-26.md",
     "2024-06-25.md",
     "2024-06-24.md",
-    "2024-06-22.md",
     "General Notes/Pasted image 20231204104103.png",
     "Daily Notes",
     "Untitled 1.canvas",
