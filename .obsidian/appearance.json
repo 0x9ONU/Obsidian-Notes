@@ -1,7 +1,10 @@
 {
-  "accentColor": "#ffffff",
-  "baseFontSize": 10,
-  "theme": "moonstone",
-  "cssTheme": "Prism",
-  "baseFontSizeAction": true
+  "accentColor": "#a1a1a1",
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "something"
+  ]
 }

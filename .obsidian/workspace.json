@@ -28,9 +28,21 @@
                 "currentVersion": "1.6.3"
               }
             }
+          },
+          {
+            "id": "a20e6b9ba4288ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -191,37 +203,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "10c67c3e9ca039a8",
+  "active": "a20e6b9ba4288ea7",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 15/Number Theory - Week 15 Day 1.md",
     "conflict-files-obsidian-git.md",
+    "Daily_Notes/2024-06-21.md",
+    "Daily_Notes/2024-06-20.md",
+    "Daily_Notes/2024-06-19.md",
+    "Daily_Notes",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "3 - Junior Year/Summer Research/Reports",
+    "2024-07-08.md",
+    "2024-07-07.md",
+    "2024-07-06.md",
+    "2024-07-05.md",
+    "2024-07-04.md",
+    "2024-07-03.md",
+    "2024-07-02.md",
+    "2024-07-01.md",
+    "2024-06-30.md",
+    "2024-06-29.md",
+    "2024-06-28.md",
+    "2024-06-27.md",
+    "2024-06-26.md",
+    "2024-06-25.md",
+    "2024-06-24.md",
+    "2024-06-23.md",
+    "2024-06-22.md",
+    "2024-06-20.md",
+    "2024-06-18.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 15/Number Theory - Week 15 Day 1.md",
     "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
     "3 - Junior Year/Summer Research/APS",
     "3 - Junior Year/Summer Research",
     "3 - Junior Year",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory Homework - Rings and Fields.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13  Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 14/Physics 2 - Week 14 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 14/Physics 2 - Week 14 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 10/Physics 2 - Week 10 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 5/Physics 2 - Week 5 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 4/Physics 2 - Week 4 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 6/Physics 2 - Week 6 Day 2.md",
-    "General Notes/Physics 2 - Week 13 Day 3 2024-04-26 11.22.03.excalidraw.md",
-    "2 - Sophomore Year/Spring 2024/Physics 2/Week 13/Physics 2 - Week 13 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 10/Number Theory - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 10/Number Theory - Week 10 Day 1.md",
     "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.12.12.excalidraw.png",
     "General Notes/1693751801270.jpg",
     "General Notes/Poissonspot_setup_treisinger.jpg",

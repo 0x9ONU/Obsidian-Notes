@@ -7,5 +7,15 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-living-graph:toggle": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

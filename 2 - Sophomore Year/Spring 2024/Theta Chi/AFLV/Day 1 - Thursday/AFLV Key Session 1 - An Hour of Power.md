@@ -44,4 +44,3 @@ Ask the question: What is getting in the way of good relationships at our chapte
 | GOal is to divide, devalue and leverage fear. | Goal is to leverage connection and empathy |
 | Being decent is a sign of weakness. | Decency is valued as seen as self-respect |
 | Use of language where we take humanity away from people |  |
-
