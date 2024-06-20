@@ -122,7 +122,7 @@ Typically, the CTRL signal would pulse on and off every time period $T$ to charg
 ![[Pasted image 20240620114522.png]]
 <center> <b>Figure 6</b>: Example CTRL Signal </center>
 
-
+As described earlier, this gradual decrease in voltage as a logarithmic step signal will prevent early desaturation in the case of lower resistances bottoming out before they reach the proper value. It is also important as it will allow the dynamic range to have different *regions*. The regions are labeled from 1 to 8 and represent where the the voltage does not saturate at. More information can be found under the next subheading when it comes to saturation and regions. The circuit for the 
 
 # Section III: Differential OP- Amps
 

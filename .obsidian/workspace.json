@@ -39,6 +39,7 @@
       {
         "id": "fa74925aabe0022f",
         "type": "tabs",
+        "dimension": 76.52582159624414,
         "children": [
           {
             "id": "111c18cc095349af",
@@ -78,6 +79,21 @@
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6d9e2a08a4a8504b",
+        "type": "tabs",
+        "dimension": 23.474178403755868,
+        "children": [
+          {
+            "id": "bb2e772f683282f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -245,13 +261,13 @@
   "active": "889e4625bbc232a6",
   "lastOpenFiles": [
     "2024-06-20.md",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "Daily_Notes/2024-06-21.md",
     "Daily_Notes/2024-06-20.md",
     "Daily_Notes/2024-06-19.md",
     "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
     "conflict-files-obsidian-git.md",
-    "Daily_Notes/2024-06-21.md",
     "Daily_Notes",
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "3 - Junior Year/Summer Research/Reports",
     "2024-07-08.md",
     "2024-07-07.md",
