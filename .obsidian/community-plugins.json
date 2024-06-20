@@ -17,7 +17,6 @@
   "cmenu-plugin",
   "obsidian-daily-notes-opener",
   "obsidian-daily-notes-viewer",
-  "obsidian-day-planner",
   "find-unlinked-files",
   "obsidian-folder-focus-mode",
   "obsidian-hider",
@@ -35,5 +34,6 @@
   "obsidian-scroll-offset",
   "obsidian-smart-typography",
   "dataview",
-  "calendar"
+  "calendar",
+  "obsidian-day-planner"
 ]

@@ -4,15 +4,27 @@
 
 | Region | Approx Resistor Threshold ($\Omega$) |
 | ------ | ------------------------------------ |
-| 1      |                                      |
-| 2      |                                      |
-| 3      |                                      |
-| 4      |                                      |
-| 5      | 2000                                 |
-| 6      | 1000                                 |
+| 1      | Never???                             |
+| 2      | Never???                             |
+| 3      | 300k                                 |
+| 4      | 14k                                  |
+| 5      | 2k                                   |
+| 6      | 800                                  |
 | 7      | 400                                  |
 | 8      | 1                                    |
 ## For $T=5ms, C=10\micro F, V_{threshold}=0$
+
+| Region | Approx Resistor Threshold ($\Omega$) |
+| ------ | ------------------------------------ |
+| 1      | 5.5k                                 |
+| 2      | 2.2k                                 |
+| 3      | 1k                                   |
+| 4      | 450                                  |
+| 5      | 200                                  |
+| 6      | 80                                   |
+| 7      | 40                                   |
+| 8      | 1                                    |
+## For $T=5ms, C=0.1\micro F, V_{threshold}=0$
 
 | Region | Approx Resistor Threshold ($\Omega$) |
 | ------ | ------------------------------------ |
@@ -23,20 +35,7 @@
 | 5      |                                      |
 | 6      |                                      |
 | 7      |                                      |
-| 8      |                                      |
-## For $T=5\micro s, C=0.1\micro F, V_{threshold}=0$
-
-| Region | Approx Resistor Threshold ($\Omega$) |
-| ------ | ------------------------------------ |
-| 1      | 6000                                 |
-| 2      | 410                                  |
-| 3      | 195                                  |
-| 4      | 90                                   |
-| 5      | 45                                   |
-| 6      | 20                                   |
-| 7      | 10                                   |
 | 8      | 1                                    |
-
 
 
 # Equation Table
