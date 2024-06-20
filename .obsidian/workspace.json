@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10c67c3e9ca039a8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +191,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "111c18cc095349af",
+  "active": "10c67c3e9ca039a8",
   "lastOpenFiles": [
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 15/Number Theory - Week 15 Day 1.md",
     "conflict-files-obsidian-git.md",
