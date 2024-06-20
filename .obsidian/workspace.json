@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "19c5de00dbb88e2d",
+        "id": "fbb0b6b59f56e7a6",
         "type": "tabs",
         "children": [
           {
-            "id": "235e5967a1818ff1",
+            "id": "8300d447b47edffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8d7735826500d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
       {
         "id": "d510847d6e75478b",
         "type": "tabs",
-        "dimension": 33.07692307692307,
+        "dimension": 33.75,
         "children": [
           {
             "id": "144d30a7692f7ccd",
@@ -118,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,6 +179,18 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "235e5967a1818ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-06-20.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -199,27 +219,15 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
-        "id": "adb078a9304d15fe",
+        "id": "5d87728bd50d6a93",
         "type": "tabs",
-        "dimension": 66.92307692307692,
+        "dimension": 66.25,
         "children": [
           {
-            "id": "5387c063eed36e70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-06-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3ee521aab28a1af",
+            "id": "6f7f18766849c937",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -259,19 +267,19 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "235e5967a1818ff1",
+  "active": "6b91591e90f07cde",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 1.md",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 1.md",
+    "Daily Notes/2024-06-20.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
     "General Notes/Pasted image 20240619163638.png",
     "General Notes/Pasted image 20240619163505.png",
     "Daily Notes/2024-06-19.md",
-    "Daily Notes/2024-06-20.md",
     "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory Homework - Rings and Fields.md",
