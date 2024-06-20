@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb0b6b59f56e7a6",
+        "id": "950d03821f37a8fb",
         "type": "tabs",
         "children": [
           {
-            "id": "8300d447b47edffd",
+            "id": "ceb784cf73b56af8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,7 +110,7 @@
       {
         "id": "d510847d6e75478b",
         "type": "tabs",
-        "dimension": 33.75,
+        "dimension": 33.65384615384615,
         "children": [
           {
             "id": "144d30a7692f7ccd",
@@ -180,7 +180,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-06-20.md",
+                "file": "Daily_Notes/2024-06-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,6 +203,18 @@
             }
           },
           {
+            "id": "8300d447b47edffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily_Notes/2024-06-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "35d312ee91e292cc",
             "type": "leaf",
             "state": {
@@ -211,20 +223,20 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
-        "id": "5d87728bd50d6a93",
+        "id": "72a47efd4a58d2de",
         "type": "tabs",
-        "dimension": 66.25,
+        "dimension": 66.34615384615384,
         "children": [
           {
-            "id": "6f7f18766849c937",
+            "id": "fa11ea322187b57f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-06-20.md",
+                "file": "Daily_Notes/2024-06-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,8 +294,33 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "65392a8e0319b044",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4799df3d15000ab1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -296,41 +333,41 @@
       }
     ]
   },
-  "active": "8300d447b47edffd",
+  "active": "ceb784cf73b56af8",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
+    "Daily_Notes/2024-06-20.md",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
+    "2024-06-20.md",
+    "Daily_Notes/2024-06-19.md",
+    "General Notes/Pasted image 20240620114522.png",
+    "2024-06-23.md",
+    "2024-06-22.md",
+    "2024-06-18.md",
+    "2024-06-24.md",
+    "2024-06-27.md",
+    "2024-07-05.md",
+    "2024-07-07.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
+    "General Notes/Electronics - Week 9 Day 2 2024-03-27 13.06.50.excalidraw.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
     "General Notes/Pasted image 20240620100546.png",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 1.md",
-    "Daily Notes/2024-06-20.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
     "General Notes/Pasted image 20240619163638.png",
     "General Notes/Pasted image 20240619163505.png",
-    "Daily Notes/2024-06-19.md",
     "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory Homework - Rings and Fields.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 1.md",
     "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230604170706.png",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 9/Ethics - Week 9 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 13/Ethics - Week 13 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 13/Ethics - Week 13 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 5/Ethics - Week 5 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Professional Ethics/Week 1/Ethics - Week 1 Day 1.md",
-    "2024-07-01.md",
     "CamScanner 08-24-2023 20.15_10 (1).jpg",
-    "2024-06-19.md",
-    "2024-06-23.md",
-    "2024-07-03.md",
     "General Notes/Pasted image 20231204104103.png",
-    "Daily Notes",
+    "Daily_Notes",
     "Untitled 1.canvas",
     "General Notes/buac20-img-wavecharacteristics.png__1920x1080_q85_crop_subsampling-2_upscale.png",
     "Untitled.canvas",
@@ -343,7 +380,6 @@
     "1 - Freshman Year/Untitled",
     "General Notes/Poissonspot_setup_treisinger.jpg",
     "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.12.12.excalidraw.png",
-    "General Notes/1693751801270.jpg",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 15",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 14"
   ]

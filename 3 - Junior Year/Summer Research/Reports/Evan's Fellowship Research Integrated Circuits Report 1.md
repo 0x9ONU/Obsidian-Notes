@@ -1,5 +1,5 @@
-#research
 
+#research 
 # Glossary
 - *Section I*: Overview
 - *Section II*: RC Parallel Circuit
@@ -53,6 +53,11 @@ F-->|LSBs| O
 
 For the other parts of the circuit to work, it is critical that there is an input that has a wide range of values to properly assess the viability of this new method of ADC. Therefore, the following circuit will utilize a new version of an *NMOS sensor* that will borrow many of the characteristics of the *MPRS technique* used to achieve high *dynamic range (HDR)* in some active pixel sensor (APS), while also contributing new insight on this technology by experimenting with RC discharging rather than a photodiode in parallel with a capacitor [2].
 
+```ad-note
+title: Author's Note
+This section is relatively long as this is one of the more important parts of the circuit and took the longest to accomplish compared to the different sections. Sit back and grab a snack as I detail everything.
+```
+
 ## Part 1: Theory
 
 ### RC Circuits
@@ -82,6 +87,41 @@ To overcome the limitations, a device that acts like a switch must be utilized t
 
 ### NMOS Transistors
 
+NMOS transistors are a silicon device that is critical for many applications in the electronics today. Specifically, they allow the flow of current from one end to another only when a sufficient amount of voltage is applied to the gate of the transistor [6]. A diagram of the internals of a typical NMOS can be seen below in **Figure 5**:
+
+![[Electronics - Week 9 Day 2 2024-03-27 13.06.50.excalidraw]]
+<center> <b>Figure 5</b>: Internals of a NMOS Transistor</center>
+
+Importantly, the NMOS acts in *three regions* that determine the current flow from the source to the drain. These regions are known as **cutoff**, **triode**, and **saturation**. A table of each of these regions and their dictating equations and characteristics can be seen below in **Table 1:**
+
+<center> <b>Table 1</b>: NMOS Transistor Characteristics </center>
+
+| Region        | Characteristics                                                                                                                                                                                                                    | Boundary                | Equation                                                                     |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------- |
+| Cutoff        | There is not enough voltage connected to the gate voltage. The source and drain are not connected by the depletion region.                                                                                                         | $V_{GS} < V_t$          | $I_D = 0$                                                                    |
+| Active/Triode | There is enough voltage at the gate and the source that the depletion area connects both the source and drain together. As more voltage is added, there is a linear increase in the amount of current as it approaches saturation. | $V_{DS} < V_{GS} - V_t$ | $I_D = K_N^\prime \frac{W}{L}[(V_{GS}-V_t)V_{DS}V_{DS}- \frac{V_{DS}^2}{2}]$ |
+| Saturation    | The voltage has increased to a point where the channel created between the source and the drain is completely pinched off. It leads to a constant $I_D$ that does not increase past this point.                                    | $V_{DS} > V_{GS} - V_t$ | $I_D = \frac{K_N^\prime}{2} \frac{W}{L}(V_{GS} - V_t)^2$                     |
+Due to the transistors property to act much like a switch with its cutoff and saturation regions, it is critical in controlling the charge and discharge of the parallel RC circuit and measuring its voltage at the end of this discharge period. To do so, a constant voltage source $V_{cc}$ will be applied to the source branch of the transistor and the parallel RC circuit will be connected to the drain. Then, another variable voltage source, called *CTRL*, is connected to the gate of the transistor to control the current.
+
+#### CTRL Signal
+
+Typically, the CTRL signal would pulse on and off every time period $T$ to charge the circuit and discharge the circuit on the clock. However, as described by Dr. Youssfi and Hassan, there is a chance that a provided value of resistance can cause full saturation, which can ruin the dynamic range [2]. Therefore, Dr. Hassan proposed an alternative CTRL signal that could prevent the oversaturation problem faced with this design [7]. This control signal is designed to drop a constant amount of voltage, which we call the threshold voltage ($V_{th}$), by a logarithmic time difference on the power of two. This means that it will drop in an exponentially shorter amount of time until it hits its eighth drop. At this point, the voltage will be dropped for a 128th of the period $T$ right before the gate opens back up to 5 volts and is charged again. **Table 2** illustrates this in detail, while **Figure 6** shows an example given that $V_{cc} =5V \space \& \space V_{th}=0.3V$:
+
+<center> <b>Table 2</b>: CTRL Signal </center>
+
+| Voltage           | Time Range                                    |     | Duration        |     |
+| ----------------- | --------------------------------------------- | --- | --------------- | --- |
+| $V_{cc}-V_{th}$   | $0 \Rightarrow \frac{T}{2}$                   |     | $\frac{T}{2}$   |     |
+| $V_{cc}-2V_{th}$  | $\frac{T}{2} \Rightarrow \frac{3T}{4}$        |     | $\frac{T}{4}$   |     |
+| $V_{cc} -3V_{th}$ | $\frac{3T}{4} \Rightarrow \frac{7T}{8}$       |     | $\frac{T}{8}$   |     |
+| $V_{cc} -4V_{th}$ | $\frac{7T}{8} \Rightarrow \frac{15T}{16}$     |     | $\frac{T}{16}$  |     |
+| $V_{cc} -5V_{th}$ | $\frac{15T}{16} \Rightarrow \frac{31T}{32}$   |     | $\frac{T}{32}$  |     |
+| $V_{cc} -6V_{th}$ | $\frac{31T}{32} \Rightarrow \frac{63T}{64}$   |     | $\frac{T}{64}$  |     |
+| $V_{cc} -7V_{th}$ | $\frac{63T}{64} \Rightarrow \frac{127T}{128}$ |     | $\frac{T}{128}$ |     |
+| $0$               | $\frac{127T}{128} \Rightarrow 2T$             |     | $\frac{T}{256}$ |     |
+![[Pasted image 20240620114522.png]]
+<center> <b>Figure 6</b>: Example CTRL Signal </center>
+
 
 
 # Section III: Differential OP- Amps
@@ -101,3 +141,5 @@ To overcome the limitations, a device that acts like a switch must be utilized t
 [3] OpenStax, “10.6: RC Circuits,” Physics LibreTexts, https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/10%3A_Direct-Current_Circuits/10.06%3A_RC_Circuits
 [4] K. S. Al-Olimat, _Electric Circuits Analysis_, 3rd ed. Ronkonkoma, NY: Linus Learning, 2020.
 [5] Electrical4U, “RC Circuit Analysis: Series, Parallel, Equations & Transfer Function,” Electrical4U, https://www.electrical4u.com/rc-circuit-analysis/
+[6] A. S. Sedra, K. C. Smith, T. C. Carusone, and V. Gaudet, _Microelectronic Circuits_. Oxford, England: OXFORD UNIV Press US, 2019.
+[7] F. Hassan, “Draft Idea”. https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
