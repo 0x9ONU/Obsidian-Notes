@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f8d7735826500d13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -130,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md"
+              }
             }
           },
           {
@@ -267,10 +259,51 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "6b91591e90f07cde",
+  "floating": {
+    "id": "7530c080a4edba99",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0727a412e33b60d3",
+        "type": "window",
+        "children": [
+          {
+            "id": "50290bec2669a27b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f8d7735826500d13",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1474,
+        "y": 524,
+        "width": 1314,
+        "height": 1000,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8300d447b47edffd",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
+    "General Notes/Pasted image 20240620100546.png",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 1.md",
     "Daily Notes/2024-06-20.md",
@@ -296,9 +329,6 @@
     "2024-06-19.md",
     "2024-06-23.md",
     "2024-07-03.md",
-    "2024-07-04.md",
-    "2024-07-05.md",
-    "2024-07-06.md",
     "General Notes/Pasted image 20231204104103.png",
     "Daily Notes",
     "Untitled 1.canvas",
@@ -314,7 +344,6 @@
     "General Notes/Poissonspot_setup_treisinger.jpg",
     "General Notes/Physics 2 - Week 2  Day 1 2024-01-29 11.12.12.excalidraw.png",
     "General Notes/1693751801270.jpg",
-    "General Notes/1583453002833.jpeg",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 15",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 14"
   ]

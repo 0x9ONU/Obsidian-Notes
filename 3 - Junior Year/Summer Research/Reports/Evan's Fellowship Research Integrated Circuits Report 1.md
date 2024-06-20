@@ -71,7 +71,16 @@ Out of the three equations, the most important one is the third equation and wil
 
 $$e^\frac{-t}{\tau} \tau \approxeq 0 \space \forall t \ge 5\tau \space \space \space \space \space  -\enclose{circle}{4}$$
 
-This equation demonstrates that for any $t$ greater than 5 time constants, the voltage over the capacitor will start to reach equilibrium as it approaches 0. This equation will be important for determining the dynamic range later in this report.
+This equation demonstrates that for any $t$ greater than 5 time constants, the voltage over the capacitor will start to reach equilibrium as it approaches 0. This equation will be important for determining the dynamic range later in this report. 
+
+By using a combination of these techniques, a constant period of discharge and call it $T$ and a set capacitor $C$ is set with a voltage value $V_{cc}$ that is used to charge and discharge the capacitor and resistor ($R$) that are in parallel to find the difference in the amount of discharge depending on the selected resistor. This works since the rate of discharge is directly connected to resistance through the time constant relation. However, according to plenty of literature, a parallel RC circuit is typically not ideal when measuring the amount of voltage and is instead better at monitoring the change of current. This is due to the typical setup having the input node being connected to the output node, which makes a current divider as shown in **Figure 4**: [5]
+
+![[Pasted image 20240620100546.png]]
+<center> <b>Figure 4</b>: Standard Parallel RC Circuit [5] </center>
+
+To overcome the limitations, a device that acts like a switch must be utilized to connect the $V_{cc}$ node to the capacitor node during charge and disconnect them during discharge, allowing the capacitor to create current through the resistor. Therefore, much like the ADS’s of the past, a transistor will be used [2]. Specifically an NFET MOSFET, which is also known as a NMOS, is critical in the switching the occurs.
+
+### NMOS Transistors
 
 
 
@@ -91,3 +100,4 @@ This equation demonstrates that for any $t$ greater than 5 time constants, the v
 [2] Z. Youssfi and F. Hassan, “Fast restoring of high dynamic range image appearance for multi-partial reset sensor,” _Electronic Imaging_, vol. 31, no. 4, Jan. 2019. doi:10.2352/issn.2470-1173.2019.4.pmii-589
 [3] OpenStax, “10.6: RC Circuits,” Physics LibreTexts, https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/10%3A_Direct-Current_Circuits/10.06%3A_RC_Circuits
 [4] K. S. Al-Olimat, _Electric Circuits Analysis_, 3rd ed. Ronkonkoma, NY: Linus Learning, 2020.
+[5] Electrical4U, “RC Circuit Analysis: Series, Parallel, Equations & Transfer Function,” Electrical4U, https://www.electrical4u.com/rc-circuit-analysis/
