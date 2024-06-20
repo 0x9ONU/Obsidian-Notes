@@ -122,8 +122,28 @@ Typically, the CTRL signal would pulse on and off every time period $T$ to charg
 ![[Pasted image 20240620114522.png]]
 <center> <b>Figure 6</b>: Example CTRL Signal </center>
 
-As described earlier, this gradual decrease in voltage as a logarithmic step signal will prevent early desaturation in the case of lower resistances bottoming out before they reach the proper value. It is also important as it will allow the dynamic range to have different *regions*. The regions are labeled from 1 to 8 and represent where the the voltage does not saturate at. More information can be found under the next subheading when it comes to saturation and regions. The circuit for the 
+As described earlier, this gradual decrease in voltage as a logarithmic step signal will prevent early desaturation in the case of lower resistances bottoming out before they reach the proper value. It is also important as it will allow the dynamic range to have different *regions*. The regions are labeled from 1 to 8 and represent where the the voltage does not saturate at. More information can be found under the next subheading when it comes to saturation and regions. The circuit diagram for the circuit can be seen below in **Figure 7:** 
 
+![[circuit(6).png]]
+<center> <b>Figure 7</b>: Circuit Diagram for NMOS Sensor</center>
+### Regions
+
+Depending on the different parameters set between the period of discharge and the chosen capacitor and NMOS, the resistor may saturate in one region and not saturate in another. To determine which region the resistor is in for a given setup, it is critical to look at a simulated version of the circuit to see where the resistor may fall under. For instance, a resistor my never saturate under one scenario, but might saturate earlier given another parameter. The resistances that fall between two regions are called threshold resistors ($R_{th}$) and are important as they determine which amplified $V_c$ is used in the fine ADC.
+
+```ad-warning
+The equation to find these threshold resistors is still a work in progress. As for now, only trial and error has been attempted through the step command in LTSpice.
+```
+
+In **Tables 3-5** below, the approximate threshold resistors are given for three combinations of capacitors and periods:
+
+<center> <b>Table 3</b>: Resistor Threshold for a Period of 5 miliseconds and a 1 Microfarad capacitor </center>
+
+| Region |
+| ------ |
+
+### Derived Equations
+
+Given the parameters specified above, a few different equations can be derived from the given information. Firstly, the third equation as describe in the RC Circuits subpart, does a great job at modeling the discharge of the capacitor when the circuit never saturates (aka. it is in the first region)
 # Section III: Differential OP- Amps
 
 # Section IV: Three-Bit Flash ADC
