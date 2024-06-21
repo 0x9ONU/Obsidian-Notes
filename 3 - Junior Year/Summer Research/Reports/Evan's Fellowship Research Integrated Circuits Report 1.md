@@ -10,7 +10,7 @@
 	- *Part 1*: Theory
 	- *Part 2*: Design
 - *Section IV*: Three-Bit Flash ADC
-	- *Part 1*: Voltage Division and the Regions
+	- *Part 1*: Comparators and the Regions
 	- *Part 2*: Priority Encoder  
 - *Section V*: Eight-to-One MUX
 - *Section VI*: Microcontrollers & Code
@@ -339,9 +339,15 @@ To create the correct equations, the different threshold regions will be taken i
 
 # Section IV: Three-Bit Flash ADC
 
-Much like the signal conditioning op-amps, the flash ADC 
+Much like the signal conditioning op-amps, the three-bit flash ADC reads right off of the parallel RC circuit. However, instead of amplifying the signals, its main job is vastly different. Its job is to determine which region the final voltage belongs to which does two important concepts. It provides the most significant bits of the un-inverted output and the switching bits for the multiplexer. The 3-bit ADC is right in the sweet-spot for Flash ADCs and will have a higher accuracy and will hopefully provide much use in determining the proper regions [1]. The Flash ADC can be broken down into two parts: the comparators and the priority encoder. An image of the typical Flash ADC can be seen below in **Figure 12:**
 
-## Part 1: Voltage Division and the Regions
+![[three-bit-flash-ADC-circuit_2.webp]]
+<center> <b>Figure 12</b>: Three-Bit Flash ADC Block Diagram [11]</center>
+
+## Part 1: Comparators and the Regions
+
+
+
 ## Part 2: Priority Encoder  
 
 # Section V: Eight-to-One MUX
@@ -361,4 +367,5 @@ Much like the signal conditioning op-amps, the flash ADC
 [7] F. Hassan, “Draft Idea,” Unpublished, https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
 [8] Analog Devices, “LTspice,” LTspice Information Center, https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
 [9] E. Berei, “Resistor and Voltage Relation,” Unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
-[10] [1] H. Holt, “A Deeper Look into Difference Amplifiers,” Analog Devices, https://www.analog.com/en/resources/analog-dialogue/articles/deeper-look-into-difference-amplifiers.html
+[10] H. Holt, “A Deeper Look into Difference Amplifiers,” Analog Devices, https://www.analog.com/en/resources/analog-dialogue/articles/deeper-look-into-difference-amplifiers.html
+[11] All About Circuits, “Flash ADC: Digital-Analog Conversion,” Digital Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-13/flash-adc/ (accessed Jun. 21, 2024).
