@@ -4,11 +4,13 @@
 - *Section I*: Overview
 - *Section II*: RC Parallel Circuit
 	- *Part 1*: Theory
-	- *Part 2*: Build
+	- *Part 2*: Simulation
 	- *Part 3*: Results
 - *Section III*: Differential-OP Amps
+	- *Part 1*: Theory
+	- *Part 2*: Design
 - *Section IV*: Three-Bit Flash ADC
-	- *Part 1*: Regions
+	- *Part 1*: Comparators and the Regions
 	- *Part 2*: Priority Encoder  
 - *Section V*: Eight-to-One MUX
 - *Section VI*: Microcontrollers & Code
@@ -109,16 +111,16 @@ Typically, the CTRL signal would pulse on and off every time period $T$ to charg
 
 <center> <b>Table 2</b>: CTRL Signal </center>
 
-| Voltage           | Time Range                                    |     | Duration        |     |
-| ----------------- | --------------------------------------------- | --- | --------------- | --- |
-| $V_{cc}-V_{th}$   | $0 \Rightarrow \frac{T}{2}$                   |     | $\frac{T}{2}$   |     |
-| $V_{cc}-2V_{th}$  | $\frac{T}{2} \Rightarrow \frac{3T}{4}$        |     | $\frac{T}{4}$   |     |
-| $V_{cc} -3V_{th}$ | $\frac{3T}{4} \Rightarrow \frac{7T}{8}$       |     | $\frac{T}{8}$   |     |
-| $V_{cc} -4V_{th}$ | $\frac{7T}{8} \Rightarrow \frac{15T}{16}$     |     | $\frac{T}{16}$  |     |
-| $V_{cc} -5V_{th}$ | $\frac{15T}{16} \Rightarrow \frac{31T}{32}$   |     | $\frac{T}{32}$  |     |
-| $V_{cc} -6V_{th}$ | $\frac{31T}{32} \Rightarrow \frac{63T}{64}$   |     | $\frac{T}{64}$  |     |
-| $V_{cc} -7V_{th}$ | $\frac{63T}{64} \Rightarrow \frac{127T}{128}$ |     | $\frac{T}{128}$ |     |
-| $0$               | $\frac{127T}{128} \Rightarrow 2T$             |     | $\frac{T}{256}$ |     |
+| Voltage ($V$)     | Time Range                                    | Duration        |
+| ----------------- | --------------------------------------------- | --------------- |
+| $V_{cc}-V_{th}$   | $0 \Rightarrow \frac{T}{2}$                   | $\frac{T}{2}$   |
+| $V_{cc}-2V_{th}$  | $\frac{T}{2} \Rightarrow \frac{3T}{4}$        | $\frac{T}{4}$   |
+| $V_{cc} -3V_{th}$ | $\frac{3T}{4} \Rightarrow \frac{7T}{8}$       | $\frac{T}{8}$   |
+| $V_{cc} -4V_{th}$ | $\frac{7T}{8} \Rightarrow \frac{15T}{16}$     | $\frac{T}{16}$  |
+| $V_{cc} -5V_{th}$ | $\frac{15T}{16} \Rightarrow \frac{31T}{32}$   | $\frac{T}{32}$  |
+| $V_{cc} -6V_{th}$ | $\frac{31T}{32} \Rightarrow \frac{63T}{64}$   | $\frac{T}{64}$  |
+| $V_{cc} -7V_{th}$ | $\frac{63T}{64} \Rightarrow \frac{127T}{128}$ | $\frac{T}{128}$ |
+| $0$               | $\frac{127T}{128} \Rightarrow 2T$             | $\frac{T}{256}$ |
 ![[Pasted image 20240620114522.png]]
 <center> <b>Figure 6</b>: Example CTRL Signal </center>
 
@@ -126,6 +128,7 @@ As described earlier, this gradual decrease in voltage as a logarithmic step sig
 
 ![[circuit(6).png]]
 <center> <b>Figure 7</b>: Circuit Diagram for NMOS Sensor</center>
+
 ### Regions
 
 Depending on the different parameters set between the period of discharge and the chosen capacitor and NMOS, the resistor may saturate in one region and not saturate in another. To determine which region the resistor is in for a given setup, it is critical to look at a simulated version of the circuit to see where the resistor may fall under. For instance, a resistor my never saturate under one scenario, but might saturate earlier given another parameter. The resistances that fall between two regions are called threshold resistors ($R_{th}$) and are important as they determine which amplified $V_c$ is used in the fine ADC.
@@ -134,19 +137,218 @@ Depending on the different parameters set between the period of discharge and th
 The equation to find these threshold resistors is still a work in progress. As for now, only trial and error has been attempted through the step command in LTSpice.
 ```
 
-In **Tables 3-5** below, the approximate threshold resistors are given for three combinations of capacitors and periods:
+In **Tables 3** below, the approximate threshold resistors are given for three combinations of capacitors and periods:
 
-<center> <b>Table 3</b>: Resistor Threshold for a Period of 5 miliseconds and a 1 Microfarad capacitor </center>
+<center> <b>Table 3</b>: Resistor Threshold for Three Different Capacitor and Period Combinations </center>
 
-| Region |
-| ------ |
+| $C=1\micro F$ | $T=5ms$                  | \|  | $C=10nF$ | $T=5 \micro s$           | \|  | $C=100nF$ | $5 \micro s$             |
+| ------------- | ------------------------ | --- | -------- | ------------------------ | --- | --------- | ------------------------ |
+| Region        | $R_{th} \space (\Omega)$ | \|  | Region   | $R_{th} \space (\Omega)$ | \|  | Region    | $R_{th} \space (\Omega)$ |
+| 8             | 10                       | \|  | 8        | 1                        | \|  | 8         | 0.1                      |
+| 7             | 370                      | \|  | 7        | 45                       | \|  | 7         | 5                        |
+| 6             | 835                      | \|  | 6        | 90                       | \|  | 6         | 10                       |
+| 5             | 1770                     | \|  | 5        | 200                      | \|  | 5         | 25                       |
+| 4             | 3575                     | \|  | 4        | 430                      | \|  | 4         | 45                       |
+| 3             | n/a                      | \|  | 3        | 960                      | \|  | 3         | 100                      |
+| 2             | n/a                      | \|  | 2        | 2305                     | \|  | 2         | 200                      |
+| 1             | n/a                      | \|  | 1        | 3370                     | \|  | 1         | 430                      |
+
+```ad-summary
+The dynamic range is changed greatly by the choice of the period of discharge and the capacitor that is discharged during that period.
+```
 
 ### Derived Equations
 
-Given the parameters specified above, a few different equations can be derived from the given information. Firstly, the third equation as describe in the RC Circuits subpart, does a great job at modeling the discharge of the capacitor when the circuit never saturates (aka. it is in the first region)
+Given the parameters specified above, a few different equations can be derived from the given information. Firstly, the third equation as describe in the RC Circuits subpart, does a great job at modeling the discharge of the capacitor when the circuit never saturates (aka. it is in the first region). However, it does not account for any drops to saturation in any of the other regions. It is important to understand that these regions determine where the voltage waveform will saturate on a level and when it will not saturate and decay exponentially as according to the time constant $\tau$. Therefore, the last region it saturated in would be where the decay begins. This means that the decay begins at some amount of $V_{th}$ less than the input voltage $V_{cc}$ and can be modeled as shown in **Table 2** earlier. However, even if we assume that there are different voltage drops at each region, it is critical to also note the changes in time. For example, if it saturates in the first region, it would already be half-way done with the period and the time of discharge would also be half. By taking both of these premises into account, the set of equations in **Table 4** models these changes in behavior based on the region they are found in:
+
+<center> <b>Table 4</b>: Region and Discharge Relation Equations </center>
+
+| Region | Initial Condition  | End Point          | Final Range                                   | Period            | Final Equation                                            |
+| ------ | ------------------ | ------------------ | --------------------------------------------- | ----------------- | --------------------------------------------------------- |
+| 1      | $$V_{cc}$$         | $$V_{cc}-V_{th}$$  | $$V_{cc} \rightarrow V_{cc}-2V_{th}$$         | $$T$$             | $$V_f = V_{cc}(e^\frac{-T}{\tau})$$                       |
+| 2      | $$V_{cc}-V_{th}$$  | $$V_{cc}-2V_{th}$$ | $$V_{cc}-2V_{th} \rightarrow V_{cc}-3V_{th}$$ | $$\frac{T}{2}$$   | $$V_f = (V_{cc}-V_{th})(e^\frac{\frac{-T}{2}}{\tau})$$    |
+| 3      | $$V_{cc}-2V_{th}$$ | $$V_{cc}-3V_{th}$$ | $$V_{cc}-3V_{th} \rightarrow V_{cc}-4V_{th}$$ | $$\frac{T}{4}$$   | $$V_f = (V_{cc}-2V_{th})(e^\frac{\frac{-T}{4}}{\tau})$$   |
+| 4      | $$V_{cc}-3V_{th}$$ | $$V_{cc}-4V_{th}$$ | $$V_{cc}-4V_{th} \rightarrow V_{cc}-5V_{th}$$ | $$\frac{T}{8}$$   | $$V_f = (V_{cc}-3V_{th})(e^\frac{\frac{-T}{8}}{\tau})$$   |
+| 5      | $$V_{cc}-4V_{th}$$ | $$V_{cc}-5V_{th}$$ | $$V_{cc}-5V_{th} \rightarrow V_{cc}-6V_{th}$$ | $$\frac{T}{16}$$  | $$V_f = (V_{cc}-4V_{th})(e^\frac{\frac{-T}{16}}{\tau})$$  |
+| 6      | $$V_{cc}-5V_{th}$$ | $$V_{cc}-6V_{th}$$ | $$V_{cc}-6V_{th} \rightarrow V_{cc}-7V_{th}$$ | $$\frac{T}{32}$$  | $$V_f = (V_{cc}-5V_{th})(e^\frac{\frac{-T}{32}}{\tau})$$  |
+| 7      | $$V_{cc}-6V_{th}$$ | $$V_{cc}-7V_{th}$$ | $$V_{cc}-7V_{th} \rightarrow V_{cc}-8V_{th}$$ | $$\frac{T}{64}$$  | $$V_f = (V_{cc}-6V_{th})(e^\frac{\frac{-T}{64}}{\tau})$$  |
+| 8      | $$V_{cc}-7V_{th}$$ | $$0$$              | $$V_{cc}-8V_{th} \rightarrow 0$$              | $$\frac{T}{128}$$ | $$V_f = (V_{cc}-7V_{th})(e^\frac{\frac{-T}{128}}{\tau})$$ |
+By examining the equations for each region, the region has an effect on both the change in the $V_{th}$ and the fraction of the period that is taken, with the former being linear and the latter being exponential. Therefore, they both can be replaced by their own equations in terms of $r$, where $r$ is equal to the region the voltage does not saturate in minus one. The generalized equation is below:
+
+$$V_{f}=(V_{cc}-r7V_{th})e^\frac{\frac{-T}{2^r}}{RC} \space \space \space \space \space -\enclose{circle}{\bigstar}$$
+#### Inverse Relation
+
+As stated earlier, understanding how to get the value of the resistance back after doing all the processing is critical for getting an accurate reading from this circuit. Therefore, by moving the variables around in *Equation Star* above, the inverse equation is created as shown below:
+
+$$R = \frac{-T}{2^rC \ln(\frac{V_f}{V_{cc}-rV_{th}})} \space \space \space \space \space -\enclose{circle}{\diamondsuit}$$
+#### Setting Lower Boundary
+
+Knowing that a capacitor would fully desaturate at around $5 \tau$, choosing both a capacitor value and a time period must be taken in *caution*. Therefore, to prevent inaccuracies at lower bounds of resistances, the period and capacitor must follow the equation below:
+
+$$\frac{T}{128} = 4R_{min}C \space \space \space \space \space -\enclose{circle}{\heartsuit}$$
+
+The left side of the equation is provided by the fact that it is the shortest time the capacitor can discharge (in Region 8). The right-hand side converts the time constant back into its product and acknowledges that this would be the minimum resistance value that could be measured given these parameter. The constant is to make sure that it will never go too low and is just one less than the expected $5 \tau$. 
+
+```ad-example
+**Applications for Equation Heart**
+- Given a capacitor and time period, find the minimum resistor that can be detected
+- Given a minimum resistor, choose a time period or capacitor to find the other.
+- Combining it with *Equation Star* to find the minimum voltage.
+```
+
+## Part 2: Simulation
+
+To simulate the circuit described, the program LTSpice was utilized. LTSpice is a free SPICE simulator that allows for the simulation of analog circuits and is able to capture the behaviors of many electrical components [8]. Importantly, LTSpice allows simulations during a specific time period through the transient simulation mode. Each part of the circuit will be explained throughout this part. The overview of the circuit can be seen below in **Figure 8**:
+
+![[Untitled 3.png]]
+<center> <b>Figure 8</b>: Circuit Diagram for NMOS Sensor</center>
+
+### CTRL Signal
+
+Natively, LTSpice supports various types of functions for its voltage sources for both AC and DC capabilities. The one that is most crucial for creating a control signal; however, is the *Piecewise-Linear function (PWL)*. It allows for multiple time-voltage combinations to be chosen such that it increases linearly to the next voltage amount. However, since a step signal is needed rather than a linear one, a little trick is employed. By setting two times a fraction of a nanosecond apart and dropping the voltage only afterwards. it makes it such that there is a sudden drop. By placing a timestamp of the same voltage beforehand, a step signal can be replicated. **Table 5** below shows the PWL table for two periods (charge and discharge) and **Figure 9** shows an example of the table in LTSpice given $V_{cc}=5V, V_{th}= 0.3 V, T=5ms$:
+
+<center> <b>Table 5</b>: Piecewise-Linear Function for Step Function </center>
+
+| Time ($s$)                  | Value ($V$)      |
+| --------------------------- | ---------------- |
+| $0$                         | $V_{cc}+V_t$     |
+| $T$                         | $V_{cc}+V_{t}$   |
+| $T+10^{-11}$                | $V_{cc}-V_{th}$  |
+| $\frac{3T}{2}$              | $V_{cc}-V_{th}$  |
+| $\frac{3T}{2}+10^{-11}$     | $V_{cc}-2V_{th}$ |
+| $\frac{7T}{4}$              | $V_{cc}-2V_{th}$ |
+| $\frac{7T}{4}+10^{-11}$     | $V_{cc}-3V_{th}$ |
+| $\frac{15T}{8}$             | $V_{cc}-3V_{th}$ |
+| $\frac{15T}{8}+10^{-11}$    | $V_{cc}-4V_{th}$ |
+| $\frac{31T}{16}$            | $V_{cc}-4V_{th}$ |
+| $\frac{31T}{16}+10^{-11}$   | $V_{cc}-5V_{th}$ |
+| $\frac{63T}{32}$            | $V_{cc}-5V_{th}$ |
+| $\frac{63T}{32}+10^{-11}$   | $V_{cc}-6V_{th}$ |
+| $\frac{127T}{64}$           | $V_{cc}-6V_{th}$ |
+| $\frac{127T}{64}+10^{-11}$  | $V_{cc}-7V_{th}$ |
+| $\frac{255T}{128}$          | $V_{cc}-7V_{th}$ |
+| $\frac{255T}{128}+10^{-11}$ | $0$              |
+| $2T-10^{-11}$               | $0$              |
+| $2T$                        | $V_{cc}+V_t$     |
+
+![[Pasted image 20240621115851.png]]
+<center> <b>Figure 9</b>: PWL Table in LTSpice Example</center>
+
+```ad-note
+title: Reminder
+$V_{t}$ is the threshold value for the transistor chosen. This is crucial as the capacitor will not fully charge if the CTRL signal during the charge period is not $V_{cc}+V_t$
+```
+
+### NMOS Customization
+
+For the sake of testing the ideal equations, a nearly perfect NMOS should be used. However, the default NMOS’s in LTSpice do not have a good $K^\prime_N$ value that will allow the right amount of current to flow through, which greatly hinders the circuit during charging and discharging. Therefore, a custom definition for the NMOS was used that follows the SPICE directive below:
+
+```
+.model POWERMOSFET NMOS vto=0 kp=1000
+```
+
+This prevented any unwanted voltage drops or current fluctuations that can be seen with a real NMOS.
+
+### Resistor and Capacitor Parameters
+
+To test the dynamic range of a particular combination, the capacitor is to be kept constant and the resistor is to be stepped linearly through a range of resistors so the equation’s accuracies can be measured. An example of a SPICE directives can be seen below:
+
+```
+.step param X 5 4k 5
+.param Y 1u
+```
+
+### Measurements
+
+To accurately measure the final voltage at the end of a period, using the graph alone was not accurate enough. Therefore, the measure directive was used to find the minimum value during the discharge cycle. The directive is described below:
+
+```
+.meas TRAN Vcmin MIN V(VC) FROM Ti TO Tf
+```
+- TRAN - Measuring a transient value
+- Vcmin - The name of the measured variable
+- MIN - Looking for the minimum value
+- FROM Ti TO Tf - Only over the discharge period
+
+## Part 3: Results
+
+To discover the dynamic range of resistors and accuracy of the equations, three different combinations of capacitors and time periods were swept with resistors ranging from 0.01 Ohms to 4k Ohms in steps of 5. By doing so, the behavior of the circuit can be put on full display. The embed to the Excel document can be seen below: [9]
+
+[Resistor and Voltage Relation.xlsx]
+```embed
+title: "Resistor and Voltage Relation.xlsx"
+image: "https://res-1.cdn.office.net/officeonline/x/s/h63BD80475830AA69__layouts/resources/FavIcon_Excel.ico"
+description: ""
+url: "https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11"
+```
+
+### Dynamic Range
+
+After looking at the dynamic ranges of the different combinations, the amount of resistors that could be measured was much less than expected. The researchers felt that it should be able to measure very small resistors up to around the $100k \Omega$ range. However, it was found that it works from around $0.01\sim 1k$ at the low end and $10 \sim 5k$ at the high end before it was clearly not keeping up with the equations. Further studying into the reason why the dynamic range is limited and *Equation Heart* should help elevate these values.
+
+### Accuracy
+
+Much like the dynamic range, the team was curious about the accuracy discrepancies. At low resistance values, the readings were nearly perfect with a percent error of no more than 1% for the resistors and voltage. However, as the resistors increased, the percent error sky-rocketed when it was not near a region. For example, at $5k \Omega$ when $T = 5ms \space \& \space C = 1\micro F$, the inverse equation predicted a resistor value of about $4.2k$ and a percent error of $15\%$. However, it is important to note that the percent error for the voltages increased by only $1\%$ and held constant while the resistor’s percent error increased linearly. This strange variation in the percent error of the voltage and resistances should be looked into further as it could solve the  alarming accuracy falter at higher resistances. This could also allow the dynamic range of to be pushed further for both resistances and final voltages.
+
 # Section III: Differential OP- Amps
 
+After getting the final voltage at the end of discharge, its is time to send part of the signal to both the small ADC and the set of differential op amps as seen in **Figures 1 & 2**. Even though this part of the process is one of the most simple, it is critical in making the fine ADC work,  each region larger, and allowing a large amount of quantization levels.
+
+## Part 1: Theory
+
+Much like other operational amplifier configurations, the differential op-amp is useful at scaling voltages to the correct value. Being a staple for more than 40 years, it still has many uses today [10]. However, unlike more standard configurations like the inverting and non-inverting op-amp, it is also able to subtract from positive voltage and add to negative voltage. The difference amplifier schematic can be seen below in **Figure 10**:
+
+![[deeper-look-into-difference-amplifiers-FIG01.jpg]]
+<center> <b>Figure 10</b>: Differential Operational Amplifier [10]</center>
+
+Importantly, this configuration excels at filtering and tolerance sensing applications, while also allowing higher amounts of gain. The behavior of the differential op-amp can be seen below in *Equation 4* (the general equation) and *Equation 5* (when $R_1=R_3$ and $R_2=R_4$)
+
+$$V_{out} = \frac{R_3(R_2+R_4)}{R_1(R_2+R_3)}V_2 - \frac{R_2}{R_1}V_1 \space \space \space \space \space -\enclose{circle}{4}$$
+$$V_{out} = (\frac{R_2}{R_1})(V_2-V_1) \space \space \space \space \space -\enclose{circle}{5}$$
+
+## Part 2: Design
+
+As shown in **Table 4** earlier, each of the eight regions have their own range of values between a higher and a lower value. To make it so the fine ADC does not need to be as complicated, scaling each region back to between $0$ and $V_{cc}$ would be ideal. To accomplish this goal, there needs to be a single differential op-amp for every region. The op-amps will zero out the lowest voltage of the region, make the highest voltage in the region scale to $V_{cc}$, and every value in-between would be scaled accordingly between those two extremes. According to the original documentation, the best way to condition these signals would be as follows in **Table 6**:
+
+<center> <b>Table 6</b>: Signal Conditioning of the Different Regions [7]</center>
+
+| Region | Signal Conditioning |
+| ------ | ------------------- |
+| 1      | $8x$                |
+| 2      | $16(x-0.6)$         |
+| 3      | $16(x-0.9)$         |
+| 4      | $16(x-1.2)$         |
+| 5      | $16(x-1.5)$         |
+| 6      | $16(x-1.8)$         |
+| 7      | $16(x-2.4)$         |
+| 8      | $1.875(x-2.4)$      |
+
+```ad-warning
+title: Mistake
+I incorrectly assumed that the values above were for voltages, but they are for the *slopes*. Signal conditioning for voltage would have different equations, but I wanted a good example of what the equations may look like.
+```
+
+By using *Equation Four* above and the basic non-inverting equation, I was able to convert this equations into the correct combination of resistors. Given that the voltage offset $V_{off} = 0.1V$, the following op-amps were created as shown in **Figure 11:**
+
+![[Untitled 4.png]]
+<center> <b>Figure 11</b>: Op-Amps for Signal Conditioning Every Region [10]</center>
+
+```ad-important
+To create the correct equations, the different threshold regions will be taken into account and scaled accordingly to the 0 to $V_{cc}$ boundaries. Then, new op-amps can be created to account for this change.
+```
+
 # Section IV: Three-Bit Flash ADC
+
+Much like the signal conditioning op-amps, the three-bit flash ADC reads right off of the parallel RC circuit. However, instead of amplifying the signals, its main job is vastly different. Its job is to determine which region the final voltage belongs to which does two important concepts. It provides the most significant bits of the un-inverted output and the switching bits for the multiplexer. The 3-bit ADC is right in the sweet-spot for Flash ADCs and will have a higher accuracy and will hopefully provide much use in determining the proper regions [1]. The Flash ADC can be broken down into two parts: the comparators and the priority encoder. An image of the typical Flash ADC can be seen below in **Figure 12:**
+
+![[three-bit-flash-ADC-circuit_2.webp]]
+<center> <b>Figure 12</b>: Three-Bit Flash ADC Block Diagram [11]</center>
+
+## Part 1: Comparators and the Regions
+
+
+
+## Part 2: Priority Encoder  
 
 # Section V: Eight-to-One MUX
 
@@ -162,4 +364,8 @@ Given the parameters specified above, a few different equations can be derived f
 [4] K. S. Al-Olimat, _Electric Circuits Analysis_, 3rd ed. Ronkonkoma, NY: Linus Learning, 2020.
 [5] Electrical4U, “RC Circuit Analysis: Series, Parallel, Equations & Transfer Function,” Electrical4U, https://www.electrical4u.com/rc-circuit-analysis/
 [6] A. S. Sedra, K. C. Smith, T. C. Carusone, and V. Gaudet, _Microelectronic Circuits_. Oxford, England: OXFORD UNIV Press US, 2019.
-[7] F. Hassan, “Draft Idea”. https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
+[7] F. Hassan, “Draft Idea,” Unpublished, https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
+[8] Analog Devices, “LTspice,” LTspice Information Center, https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
+[9] E. Berei, “Resistor and Voltage Relation,” Unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
+[10] H. Holt, “A Deeper Look into Difference Amplifiers,” Analog Devices, https://www.analog.com/en/resources/analog-dialogue/articles/deeper-look-into-difference-amplifiers.html
+[11] All About Circuits, “Flash ADC: Digital-Analog Conversion,” Digital Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-13/flash-adc/ (accessed Jun. 21, 2024).
