@@ -201,11 +201,11 @@ The left side of the equation is provided by the fact that it is the shortest ti
 To simulate the circuit described, the program LTSpice was utilized. LTSpice is a free SPICE simulator that allows for the simulation of analog circuits and is able to capture the behaviors of many electrical components [8]. Importantly, LTSpice allows simulations during a specific time period through the transient simulation mode. Each part of the circuit will be explained throughout this part. The overview of the circuit can be seen below in **Figure 8**:
 
 ![[Untitled 3.png]]
-<center> <b>Figure 7</b>: Circuit Diagram for NMOS Sensor</center>
+<center> <b>Figure 8</b>: Circuit Diagram for NMOS Sensor</center>
 
 ### CTRL Signal
 
-Natively, LTSpice supports various types of functions for its voltage sources for both AC and DC capabilities. The one that is most crucial for creating a control signal; however, is the *Piecewise-Linear function (PWL)*. It allows for multiple time-voltage combinations to be chosen such that it increases linearly to the next voltage amount. However, since a step signal is needed rather than a linear one, a little trick is employed. By setting two times a fraction of a nanosecond apart and dropping the voltage only afterwards. it makes it such that there is a sudden drop. By placing a timestamp of the same voltage beforehand, a step signal can be replicated. **Table 5** below shows the PWL table for two periods (charge and discharge) and **Figure 8** shows an example of the table in LTSpice given $V_{cc}=5V, V_{th}= 0.3 V, T=5ms$:
+Natively, LTSpice supports various types of functions for its voltage sources for both AC and DC capabilities. The one that is most crucial for creating a control signal; however, is the *Piecewise-Linear function (PWL)*. It allows for multiple time-voltage combinations to be chosen such that it increases linearly to the next voltage amount. However, since a step signal is needed rather than a linear one, a little trick is employed. By setting two times a fraction of a nanosecond apart and dropping the voltage only afterwards. it makes it such that there is a sudden drop. By placing a timestamp of the same voltage beforehand, a step signal can be replicated. **Table 5** below shows the PWL table for two periods (charge and discharge) and **Figure 9** shows an example of the table in LTSpice given $V_{cc}=5V, V_{th}= 0.3 V, T=5ms$:
 
 <center> <b>Table 5</b>: Piecewise-Linear Function for Step Function </center>
 
@@ -232,7 +232,7 @@ Natively, LTSpice supports various types of functions for its voltage sources fo
 | $2T$                        | $V_{cc}+V_t$     |
 
 ![[Pasted image 20240621115851.png]]
-<center> <b>Figure 7</b>: PWL Table in LTSpice Example</center>
+<center> <b>Figure 9</b>: PWL Table in LTSpice Example</center>
 
 ```ad-note
 title: Reminder
@@ -292,9 +292,15 @@ Much like the dynamic range, the team was curious about the accuracy discrepanci
 
 # Section III: Differential OP- Amps
 
-After getting the final voltage at the end of discharge, its is time to send part of the signal to both the small ADC and the set of differential op amps as seen in **Figures 1 & 2**. Even though this part of the process is one of the most simple, it is critical in making the fine ADC work and make each region larger and allowing a high amount of quantization levels.
+After getting the final voltage at the end of discharge, its is time to send part of the signal to both the small ADC and the set of differential op amps as seen in **Figures 1 & 2**. Even though this part of the process is one of the most simple, it is critical in making the fine ADC work,  each region larger, and allowing a large amount of quantization levels.
 
 ## Part 1: Theory
+
+Much like other operational amplifier configurations, the differential op-amp is useful at scaling voltages to the correct value. Being a staple for more than 40 years, it still has many uses today [10]. However, unlike more standard configurations like the inverting and non-inverting op-amp, it is also able to subtract from positive voltage and add to negative voltage. The difference amplifier schematic can be seen below in **Figure 10**:
+
+![[deeper-look-into-difference-amplifiers-FIG01.jpg]]
+<center> <b>Figure 10</b>: Differential Operational Amplifier [10]</center>
+
 
 
 
@@ -319,3 +325,4 @@ After getting the final voltage at the end of discharge, its is time to send par
 [7] F. Hassan, “Draft Idea,” Unpublished, https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
 [8] Analog Devices, “LTspice,” LTspice Information Center, https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
 [9] E. Berei, “Resistor and Voltage Relation,” Unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
+[10] [1] H. Holt, “A Deeper Look into Difference Amplifiers,” Analog Devices, https://www.analog.com/en/resources/analog-dialogue/articles/deeper-look-into-difference-amplifiers.html
