@@ -301,10 +301,14 @@ Much like other operational amplifier configurations, the differential op-amp is
 ![[deeper-look-into-difference-amplifiers-FIG01.jpg]]
 <center> <b>Figure 10</b>: Differential Operational Amplifier [10]</center>
 
+Importantly, this configuration excels at filtering and tolerance sensing applications, while also allowing higher amounts of gain. The behavior of the differential op-amp can be seen below in *Equation 4* (the general equation) and *Equation 5* (when $R_1=R_3$ and $R_2=R_4$)
 
-
+$$V_{out} = \frac{R_3(R_2+R_4)}{R_1(R_2+R_3)}V_2 - \frac{R_2}{R_1}V_1 \space \space \space \space \space -\enclose{circle}{4}$$
+$$V_{out} = (\frac{R_2}{R_1})(V_2-V_1) \space \space \space \space \space -\enclose{circle}{5}$$
 
 ## Part 2: Design
+
+
 
 # Section IV: Three-Bit Flash ADC
 
