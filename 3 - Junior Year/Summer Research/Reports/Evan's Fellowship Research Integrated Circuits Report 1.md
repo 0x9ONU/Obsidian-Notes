@@ -8,7 +8,7 @@
 	- *Part 3*: Results
 - *Section III*: Differential-OP Amps
 - *Section IV*: Three-Bit Flash ADC
-	- *Part 1*: Regions
+	- *Part 1*: Voltage Division and the Regions
 	- *Part 2*: Priority Encoder  
 - *Section V*: Eight-to-One MUX
 - *Section VI*: Microcontrollers & Code
@@ -289,6 +289,8 @@ After looking at the dynamic ranges of the different combinations, the amount of
 Much like the dynamic range, the team was curious about the accuracy discrepancies. At low resistance values, the readings were nearly perfect with a percent error of no more than 1% for the resistors and voltage. However, as the resistors increased, the percent error sky-rocketed when it was not near a region. For example, at $5k \Omega$ when $T = 5ms \space \& \space C = 1\micro F$, the inverse equation predicted a resistor value of about $4.2k$ and a percent error of $15\%$. However, it is important to note that the percent error for the voltages increased by only $1\%$ and held constant while the resistor’s percent error increased linearly. This strange variation in the percent error of the voltage and resistances should be looked into further as it could solve the  alarming accuracy falter at higher resistances. This could also allow the dynamic range of to be pushed further for both resistances and final voltages.
 
 # Section III: Differential OP- Amps
+
+After getting the final voltage at the end of discharge, its is time to send part of the signal to both the small ADC and the set of differential op amps as seen in **Figures 1 & 2**. Even though this part of the circuit 
 
 # Section IV: Three-Bit Flash ADC
 
