@@ -155,7 +155,21 @@ The dynamic range is changed greatly by the choice of the period of discharge an
 ```
 ### Derived Equations
 
-Given the parameters specified above, a few different equations can be derived from the given information. Firstly, the third equation as describe in the RC Circuits subpart, does a great job at modeling the discharge of the capacitor when the circuit never saturates (aka. it is in the first region). However, it does not account for any drops to saturation in any of the other regions. Therefore, a set of equations is necessary in order to reflect 
+Given the parameters specified above, a few different equations can be derived from the given information. Firstly, the third equation as describe in the RC Circuits subpart, does a great job at modeling the discharge of the capacitor when the circuit never saturates (aka. it is in the first region). However, it does not account for any drops to saturation in any of the other regions. It is important to understand that these regions determine where the voltage waveform will saturate on a level and when it will not saturate and decay exponentially as according to the time constant $\tau$. Therefore, the last region it saturated in would be where the decay begins. This means that the decay begins at some amount of $V_{th}$ less than the input voltage $V_{cc}$ and can be modeled as shown in **Table 2** earlier. However, even if we assume that there are different voltage drops at each region, it is critical to also note the changes in time. For example, if it saturates in the first region, it would already be half-way done with the period and the time of discharge would also be half. By taking both of these premises into account, the set of equations in **Table 4** models these changes in behavior based on the region they are found in:
+
+<center> <b>Table 4</b>: Region and Discharge Relation Equations </center>
+
+| Region | Initial Condition  | End Point          | Final Range                                   | Period            | Final Equation                                          |
+| ------ | ------------------ | ------------------ | --------------------------------------------- | ----------------- | ------------------------------------------------------- |
+| 1      | $$V_{cc}$$         | $$V_{cc}-V_{th}$$  | $$V_{cc} \rightarrow V_{cc}-2V_{th}$$         | $$T$$             | $$V_f = V_{cc}(e^\frac{-T}{\tau})$$                     |
+| 2      | $$V_{cc}-V_{th}$$  | $$V_{cc}-2V_{th}$$ | $$V_{cc}-2V_{th} \rightarrow V_{cc}-3V_{th}$$ | $$\frac{T}{2}$$   | $$V_f = (V_{cc}-V_{th})(e^\frac{\frac{-T}{2}}{\tau})$$  |
+| 3      | $$V_{cc}-2V_{th}$$ | $$V_{cc}-3V_{th}$$ | $$V_{cc}-3V_{th} \rightarrow V_{cc}-4V_{th}$$ | $$\frac{T}{4}$$   | $$V_f = (V_{cc}-2V_{th})(e^\frac{\frac{-T}{4}}{\tau})$$ |
+| 4      | $$V_{cc}-3V_{th}$$ | $$V_{cc}-4V_{th}$$ | $$V_{cc}-4V_{th} \rightarrow V_{cc}-5V_{th}$$ | $$\frac{T}{8}$$   | $$V_f = (V_T-3V_{th})(e^\frac{\frac{-T}{8}}{\tau})$$    |
+| 5      | $$V_{cc}-4V_{th}$$ | $$V_{cc}-5V_{th}$$ | $$V_{cc}-5V_{th} \rightarrow V_{cc}-6V_{th}$$ | $$\frac{T}{16}$$  | $$V_f = (V_T-4V_{th})(e^\frac{\frac{-T}{16}}{\tau})$$   |
+| 6      | $$V_{cc}-5V_{th}$$ | $$V_{cc}-6V_{th}$$ | $$V_{cc}-6V_{th} \rightarrow V_{cc}-7V_{th}$$ | $$\frac{T}{32}$$  | $$V_f = (V_T-5V_{th})(e^\frac{\frac{-T}{32}}{\tau})$$   |
+| 7      | $$V_{cc}-6V_{th}$$ | $$V_{cc}-7V_{th}$$ | $$V_{cc}-7V_{th} \rightarrow V_{cc}-8V_{th}$$ | $$\frac{T}{64}$$  | $$V_f = (V_T-6V_{th})(e^\frac{\frac{-T}{64}}{\tau})$$   |
+| 8      | $$V_{cc}-7V_{th}$$ | $$0$$              | $$V_{cc}-8V_{th} \rightarrow 0$$              | $$\frac{T}{128}$$ | $$V_f = (V_T-7V_{th})(e^\frac{\frac{-T}{128}}{\tau})$$  |
+
 # Section III: Differential OP- Amps
 
 # Section IV: Three-Bit Flash ADC
