@@ -7,6 +7,8 @@
 	- *Part 2*: Simulation
 	- *Part 3*: Results
 - *Section III*: Differential-OP Amps
+	- *Part 1*: Theory
+	- *Part 2*: Design
 - *Section IV*: Three-Bit Flash ADC
 	- *Part 1*: Voltage Division and the Regions
 	- *Part 2*: Priority Encoder  
@@ -290,7 +292,13 @@ Much like the dynamic range, the team was curious about the accuracy discrepanci
 
 # Section III: Differential OP- Amps
 
-After getting the final voltage at the end of discharge, its is time to send part of the signal to both the small ADC and the set of differential op amps as seen in **Figures 1 & 2**. Even though this part of the circuit 
+After getting the final voltage at the end of discharge, its is time to send part of the signal to both the small ADC and the set of differential op amps as seen in **Figures 1 & 2**. Even though this part of the process is one of the most simple, it is critical in making the fine ADC work and make each region larger and allowing a high amount of quantization levels.
+
+## Part 1: Theory
+
+
+
+## Part 2: Design
 
 # Section IV: Three-Bit Flash ADC
 
