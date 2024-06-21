@@ -258,7 +258,36 @@ To test the dynamic range of a particular combination, the capacitor is to be ke
 
 ### Measurements
 
-To accurately measure the 
+To accurately measure the final voltage at the end of a period, using the graph alone was not accurate enough. Therefore, the measure directive was used to find the minimum value during the discharge cycle. The directive is described below:
+
+```
+.meas TRAN Vcmin MIN V(VC) FROM Ti TO Tf
+```
+- TRAN - Measuring a transient value
+- Vcmin - The name of the measured variable
+- MIN - Looking for the minimum value
+- FROM Ti TO Tf - Only over the discharge period
+
+## Part 3: Results
+
+To discover the dynamic range of resistors and accuracy of the equations, three different combinations of capacitors and time periods were swept with resistors ranging from 0.01 Ohms to 4k Ohms in steps of 5. By doing so, the behavior of the circuit can be put on full display. The embed to the Excel document can be seen below: [9]
+
+[Resistor and Voltage Relation.xlsx]
+```embed
+title: "Resistor and Voltage Relation.xlsx"
+image: "https://res-1.cdn.office.net/officeonline/x/s/h63BD80475830AA69__layouts/resources/FavIcon_Excel.ico"
+description: ""
+url: "https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11"
+```
+
+### Dynamic Range
+
+After looking at the dynamic ranges of the different combinations, the amount of resistors that could be measured was much less than expected. The researchers felt that it should be able to measure very small resistors up to around the $100k \Omega$ range. However, it was found that it works from around $0.01\sim 1k$ at the low end and $10 \sim 5k$ at the high end before it was clearly not keeping up with the equations. Further studying into the reason why the dynamic range is limited and *Equation Heart* should help elevate these values.
+
+### Accuracy
+
+Much like the dynamic range, the team was curious about the accuracy discrepancies. At low resistance values, the readings were nearly perfect with a percent error of no more than 1% for the resistors and voltage. However, as the resistors increased, the percent error sky-rocketed when it was not near a region. For example, at $5k \Omega$ when $T = 5ms \space \& \space C = 1\micro F$, the inverse equation predicted a resistor value of about $4.2k$ and a percent error of $15\%$. However, it is important to note that the percent error for the voltages increased by only $1\%$ and held constant while the resistor’s percent error increased linearly. This strange variation in the percent error of the voltage and resistances should be looked into further as it could solve the  alarming accuracy falter at higher resistances. This could also allow the dynamic range of to be pushed further for both resistances and final voltages.
+
 # Section III: Differential OP- Amps
 
 # Section IV: Three-Bit Flash ADC
@@ -279,3 +308,4 @@ To accurately measure the
 [6] A. S. Sedra, K. C. Smith, T. C. Carusone, and V. Gaudet, _Microelectronic Circuits_. Oxford, England: OXFORD UNIV Press US, 2019.
 [7] F. Hassan, “Draft Idea,” Unpublished, https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
 [8] Analog Devices, “LTspice,” LTspice Information Center, https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
+[9] E. Berei, “Resistor and Voltage Relation,” Unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
