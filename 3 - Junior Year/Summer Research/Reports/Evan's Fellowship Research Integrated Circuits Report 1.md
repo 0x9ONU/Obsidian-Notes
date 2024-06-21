@@ -308,9 +308,41 @@ $$V_{out} = (\frac{R_2}{R_1})(V_2-V_1) \space \space \space \space \space -\encl
 
 ## Part 2: Design
 
+As shown in **Table 4** earlier, each of the eight regions have their own range of values between a higher and a lower value. To make it so the fine ADC does not need to be as complicated, scaling each region back to between $0$ and $V_{cc}$ would be ideal. To accomplish this goal, there needs to be a single differential op-amp for every region. The op-amps will zero out the lowest voltage of the region, make the highest voltage in the region scale to $V_{cc}$, and every value in-between would be scaled accordingly between those two extremes. According to the original documentation, the best way to condition these signals would be as follows in **Table 6**:
 
+<center> <b>Table 6</b>: Signal Conditioning of the Different Regions [7]</center>
+
+| Region | Signal Conditioning |
+| ------ | ------------------- |
+| 1      | $8x$                |
+| 2      | $16(x-0.6)$         |
+| 3      | $16(x-0.9)$         |
+| 4      | $16(x-1.2)$         |
+| 5      | $16(x-1.5)$         |
+| 6      | $16(x-1.8)$         |
+| 7      | $16(x-2.4)$         |
+| 8      | $1.875(x-2.4)$      |
+
+```ad-warning
+title: Mistake
+I incorrectly assumed that the values above were for voltages, but they are for the *slopes*. Signal conditioning for voltage would have different equations, but I wanted a good example of what the equations may look like.
+```
+
+By using *Equation Four* above and the basic non-inverting equation, I was able to convert this equations into the correct combination of resistors. Given that the voltage offset $V_{off} = 0.1V$, the following op-amps were created as shown in **Figure 11:**
+
+![[Untitled 4.png]]
+<center> <b>Figure 11</b>: Op-Amps for Signal Conditioning Every Region [10]</center>
+
+```ad-important
+To create the correct equations, the different threshold regions will be taken into account and scaled accordingly to the 0 to $V_{cc}$ boundaries. Then, new op-amps can be created to account for this change.
+```
 
 # Section IV: Three-Bit Flash ADC
+
+
+
+## Part 1: Voltage Division and the Regions
+## Part 2: Priority Encoder  
 
 # Section V: Eight-to-One MUX
 
