@@ -109,16 +109,16 @@ Typically, the CTRL signal would pulse on and off every time period $T$ to charg
 
 <center> <b>Table 2</b>: CTRL Signal </center>
 
-| Voltage           | Time Range                                    |     | Duration        |     |
-| ----------------- | --------------------------------------------- | --- | --------------- | --- |
-| $V_{cc}-V_{th}$   | $0 \Rightarrow \frac{T}{2}$                   |     | $\frac{T}{2}$   |     |
-| $V_{cc}-2V_{th}$  | $\frac{T}{2} \Rightarrow \frac{3T}{4}$        |     | $\frac{T}{4}$   |     |
-| $V_{cc} -3V_{th}$ | $\frac{3T}{4} \Rightarrow \frac{7T}{8}$       |     | $\frac{T}{8}$   |     |
-| $V_{cc} -4V_{th}$ | $\frac{7T}{8} \Rightarrow \frac{15T}{16}$     |     | $\frac{T}{16}$  |     |
-| $V_{cc} -5V_{th}$ | $\frac{15T}{16} \Rightarrow \frac{31T}{32}$   |     | $\frac{T}{32}$  |     |
-| $V_{cc} -6V_{th}$ | $\frac{31T}{32} \Rightarrow \frac{63T}{64}$   |     | $\frac{T}{64}$  |     |
-| $V_{cc} -7V_{th}$ | $\frac{63T}{64} \Rightarrow \frac{127T}{128}$ |     | $\frac{T}{128}$ |     |
-| $0$               | $\frac{127T}{128} \Rightarrow 2T$             |     | $\frac{T}{256}$ |     |
+| Voltage ($V$)     | Time Range                                    | Duration        |
+| ----------------- | --------------------------------------------- | --------------- |
+| $V_{cc}-V_{th}$   | $0 \Rightarrow \frac{T}{2}$                   | $\frac{T}{2}$   |
+| $V_{cc}-2V_{th}$  | $\frac{T}{2} \Rightarrow \frac{3T}{4}$        | $\frac{T}{4}$   |
+| $V_{cc} -3V_{th}$ | $\frac{3T}{4} \Rightarrow \frac{7T}{8}$       | $\frac{T}{8}$   |
+| $V_{cc} -4V_{th}$ | $\frac{7T}{8} \Rightarrow \frac{15T}{16}$     | $\frac{T}{16}$  |
+| $V_{cc} -5V_{th}$ | $\frac{15T}{16} \Rightarrow \frac{31T}{32}$   | $\frac{T}{32}$  |
+| $V_{cc} -6V_{th}$ | $\frac{31T}{32} \Rightarrow \frac{63T}{64}$   | $\frac{T}{64}$  |
+| $V_{cc} -7V_{th}$ | $\frac{63T}{64} \Rightarrow \frac{127T}{128}$ | $\frac{T}{128}$ |
+| $0$               | $\frac{127T}{128} \Rightarrow 2T$             | $\frac{T}{256}$ |
 ![[Pasted image 20240620114522.png]]
 <center> <b>Figure 6</b>: Example CTRL Signal </center>
 
@@ -134,16 +134,28 @@ Depending on the different parameters set between the period of discharge and th
 The equation to find these threshold resistors is still a work in progress. As for now, only trial and error has been attempted through the step command in LTSpice.
 ```
 
-In **Tables 3-5** below, the approximate threshold resistors are given for three combinations of capacitors and periods:
+In **Tables 3** below, the approximate threshold resistors are given for three combinations of capacitors and periods:
 
-<center> <b>Table 3</b>: Resistor Threshold for a Period of 5 miliseconds and a 1 Microfarad capacitor </center>
+<center> <b>Table 3</b>: Resistor Threshold for Three Different Capacitor and Period Combinations </center>
 
-| Region |
-| ------ |
+| $C=1\micro F$ | $T=5ms$                  | \|  | $C=10nF$ | $T=5 \micro s$           | \|  | $C=100nF$ | $5 \micro s$             |
+| ------------- | ------------------------ | --- | -------- | ------------------------ | --- | --------- | ------------------------ |
+| Region        | $R_{th} \space (\Omega)$ | \|  | Region   | $R_{th} \space (\Omega)$ | \|  | Region    | $R_{th} \space (\Omega)$ |
+| 8             | 10                       | \|  | 8        | 1                        | \|  | 8         | 0.1                      |
+| 7             | 370                      | \|  | 7        | 45                       | \|  | 7         | 5                        |
+| 6             | 835                      | \|  | 6        | 90                       | \|  | 6         | 10                       |
+| 5             | 1770                     | \|  | 5        | 200                      | \|  | 5         | 25                       |
+| 4             | 3575                     | \|  | 4        | 430                      | \|  | 4         | 45                       |
+| 3             | n/a                      | \|  | 3        | 960                      | \|  | 3         | 100                      |
+| 2             | n/a                      | \|  | 2        | 2305                     | \|  | 2         | 200                      |
+| 1             | n/a                      | \|  | 1        | 3370                     | \|  | 1         | 430                      |
 
+```ad-summary
+The dynamic range is changed greatly by the choice of the period of discharge and the capacitor that is discharged during that period.
+```
 ### Derived Equations
 
-Given the parameters specified above, a few different equations can be derived from the given information. Firstly, the third equation as describe in the RC Circuits subpart, does a great job at modeling the discharge of the capacitor when the circuit never saturates (aka. it is in the first region)
+Given the parameters specified above, a few different equations can be derived from the given information. Firstly, the third equation as describe in the RC Circuits subpart, does a great job at modeling the discharge of the capacitor when the circuit never saturates (aka. it is in the first region). However, it does not account for any drops to saturation in any of the other regions. Therefore, a set of equations is necessary in order to reflect 
 # Section III: Differential OP- Amps
 
 # Section IV: Three-Bit Flash ADC

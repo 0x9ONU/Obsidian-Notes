@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "950d03821f37a8fb",
+        "id": "c59260ed97b50960",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb784cf73b56af8",
+            "id": "1f31629d49f1b57c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,7 +110,7 @@
       {
         "id": "d510847d6e75478b",
         "type": "tabs",
-        "dimension": 33.65384615384615,
+        "dimension": 33.94230769230769,
         "children": [
           {
             "id": "144d30a7692f7ccd",
@@ -223,20 +223,20 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
-        "id": "72a47efd4a58d2de",
+        "id": "f0f934e6864aaa80",
         "type": "tabs",
-        "dimension": 66.34615384615384,
+        "dimension": 66.0576923076923,
         "children": [
           {
-            "id": "fa11ea322187b57f",
+            "id": "69b9b88f733ee16a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Notes/2024-06-20.md",
+                "file": "Daily_Notes/2024-06-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,75 +271,15 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "floating": {
-    "id": "7530c080a4edba99",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0727a412e33b60d3",
-        "type": "window",
-        "children": [
-          {
-            "id": "50290bec2669a27b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f8d7735826500d13",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "65392a8e0319b044",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4799df3d15000ab1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1474,
-        "y": 524,
-        "width": 1314,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ceb784cf73b56af8",
+  "active": "1f31629d49f1b57c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Daily_Notes/2024-06-21.md",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
+    "2024-06-20.md",
+    "conflict-files-obsidian-git.md",
     "General Notes/circuit(6).png",
     "Daily_Notes/2024-06-20.md",
-    "2024-06-20.md",
     "Daily_Notes/2024-06-19.md",
     "General Notes/Pasted image 20240620114522.png",
     "2024-06-23.md",
@@ -351,7 +291,6 @@
     "2024-07-07.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
     "General Notes/Electronics - Week 9 Day 2 2024-03-27 13.06.50.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
@@ -365,7 +304,6 @@
     "General Notes/Pasted image 20240619163505.png",
     "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory Homework - Rings and Fields.md",
     "2 - Sophomore Year/Summer Research/Networks/Images/Pasted image 20230604170706.png",
     "CamScanner 08-24-2023 20.15_10 (1).jpg",
     "General Notes/Pasted image 20231204104103.png",
