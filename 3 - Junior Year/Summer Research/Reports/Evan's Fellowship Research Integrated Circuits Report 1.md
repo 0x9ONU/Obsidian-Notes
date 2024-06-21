@@ -4,7 +4,7 @@
 - *Section I*: Overview
 - *Section II*: RC Parallel Circuit
 	- *Part 1*: Theory
-	- *Part 2*: Build
+	- *Part 2*: Simulation
 	- *Part 3*: Results
 - *Section III*: Differential-OP Amps
 - *Section IV*: Three-Bit Flash ADC
@@ -126,6 +126,7 @@ As described earlier, this gradual decrease in voltage as a logarithmic step sig
 
 ![[circuit(6).png]]
 <center> <b>Figure 7</b>: Circuit Diagram for NMOS Sensor</center>
+
 ### Regions
 
 Depending on the different parameters set between the period of discharge and the chosen capacitor and NMOS, the resistor may saturate in one region and not saturate in another. To determine which region the resistor is in for a given setup, it is critical to look at a simulated version of the circuit to see where the resistor may fall under. For instance, a resistor my never saturate under one scenario, but might saturate earlier given another parameter. The resistances that fall between two regions are called threshold resistors ($R_{th}$) and are important as they determine which amplified $V_c$ is used in the fine ADC.
@@ -153,27 +154,111 @@ In **Tables 3** below, the approximate threshold resistors are given for three c
 ```ad-summary
 The dynamic range is changed greatly by the choice of the period of discharge and the capacitor that is discharged during that period.
 ```
+
 ### Derived Equations
 
 Given the parameters specified above, a few different equations can be derived from the given information. Firstly, the third equation as describe in the RC Circuits subpart, does a great job at modeling the discharge of the capacitor when the circuit never saturates (aka. it is in the first region). However, it does not account for any drops to saturation in any of the other regions. It is important to understand that these regions determine where the voltage waveform will saturate on a level and when it will not saturate and decay exponentially as according to the time constant $\tau$. Therefore, the last region it saturated in would be where the decay begins. This means that the decay begins at some amount of $V_{th}$ less than the input voltage $V_{cc}$ and can be modeled as shown in **Table 2** earlier. However, even if we assume that there are different voltage drops at each region, it is critical to also note the changes in time. For example, if it saturates in the first region, it would already be half-way done with the period and the time of discharge would also be half. By taking both of these premises into account, the set of equations in **Table 4** models these changes in behavior based on the region they are found in:
 
 <center> <b>Table 4</b>: Region and Discharge Relation Equations </center>
 
-| Region | Initial Condition  | End Point          | Final Range                                   | Period            | Final Equation                                          |
-| ------ | ------------------ | ------------------ | --------------------------------------------- | ----------------- | ------------------------------------------------------- |
-| 1      | $$V_{cc}$$         | $$V_{cc}-V_{th}$$  | $$V_{cc} \rightarrow V_{cc}-2V_{th}$$         | $$T$$             | $$V_f = V_{cc}(e^\frac{-T}{\tau})$$                     |
-| 2      | $$V_{cc}-V_{th}$$  | $$V_{cc}-2V_{th}$$ | $$V_{cc}-2V_{th} \rightarrow V_{cc}-3V_{th}$$ | $$\frac{T}{2}$$   | $$V_f = (V_{cc}-V_{th})(e^\frac{\frac{-T}{2}}{\tau})$$  |
-| 3      | $$V_{cc}-2V_{th}$$ | $$V_{cc}-3V_{th}$$ | $$V_{cc}-3V_{th} \rightarrow V_{cc}-4V_{th}$$ | $$\frac{T}{4}$$   | $$V_f = (V_{cc}-2V_{th})(e^\frac{\frac{-T}{4}}{\tau})$$ |
-| 4      | $$V_{cc}-3V_{th}$$ | $$V_{cc}-4V_{th}$$ | $$V_{cc}-4V_{th} \rightarrow V_{cc}-5V_{th}$$ | $$\frac{T}{8}$$   | $$V_f = (V_T-3V_{th})(e^\frac{\frac{-T}{8}}{\tau})$$    |
-| 5      | $$V_{cc}-4V_{th}$$ | $$V_{cc}-5V_{th}$$ | $$V_{cc}-5V_{th} \rightarrow V_{cc}-6V_{th}$$ | $$\frac{T}{16}$$  | $$V_f = (V_T-4V_{th})(e^\frac{\frac{-T}{16}}{\tau})$$   |
-| 6      | $$V_{cc}-5V_{th}$$ | $$V_{cc}-6V_{th}$$ | $$V_{cc}-6V_{th} \rightarrow V_{cc}-7V_{th}$$ | $$\frac{T}{32}$$  | $$V_f = (V_T-5V_{th})(e^\frac{\frac{-T}{32}}{\tau})$$   |
-| 7      | $$V_{cc}-6V_{th}$$ | $$V_{cc}-7V_{th}$$ | $$V_{cc}-7V_{th} \rightarrow V_{cc}-8V_{th}$$ | $$\frac{T}{64}$$  | $$V_f = (V_T-6V_{th})(e^\frac{\frac{-T}{64}}{\tau})$$   |
-| 8      | $$V_{cc}-7V_{th}$$ | $$0$$              | $$V_{cc}-8V_{th} \rightarrow 0$$              | $$\frac{T}{128}$$ | $$V_f = (V_T-7V_{th})(e^\frac{\frac{-T}{128}}{\tau})$$  |
-By examining the equations for each region, the region has an effect on both the change in the $V_{th}$ and the fraction of the period that is taken, with the former being linear and the latter being exponential. Therefore, they both can be replaced by their own equations in terms of $r$, where $r$ is equal to the region the voltage does not saturate in minus one. The generalized equation is:
+| Region | Initial Condition  | End Point          | Final Range                                   | Period            | Final Equation                                            |
+| ------ | ------------------ | ------------------ | --------------------------------------------- | ----------------- | --------------------------------------------------------- |
+| 1      | $$V_{cc}$$         | $$V_{cc}-V_{th}$$  | $$V_{cc} \rightarrow V_{cc}-2V_{th}$$         | $$T$$             | $$V_f = V_{cc}(e^\frac{-T}{\tau})$$                       |
+| 2      | $$V_{cc}-V_{th}$$  | $$V_{cc}-2V_{th}$$ | $$V_{cc}-2V_{th} \rightarrow V_{cc}-3V_{th}$$ | $$\frac{T}{2}$$   | $$V_f = (V_{cc}-V_{th})(e^\frac{\frac{-T}{2}}{\tau})$$    |
+| 3      | $$V_{cc}-2V_{th}$$ | $$V_{cc}-3V_{th}$$ | $$V_{cc}-3V_{th} \rightarrow V_{cc}-4V_{th}$$ | $$\frac{T}{4}$$   | $$V_f = (V_{cc}-2V_{th})(e^\frac{\frac{-T}{4}}{\tau})$$   |
+| 4      | $$V_{cc}-3V_{th}$$ | $$V_{cc}-4V_{th}$$ | $$V_{cc}-4V_{th} \rightarrow V_{cc}-5V_{th}$$ | $$\frac{T}{8}$$   | $$V_f = (V_{cc}-3V_{th})(e^\frac{\frac{-T}{8}}{\tau})$$   |
+| 5      | $$V_{cc}-4V_{th}$$ | $$V_{cc}-5V_{th}$$ | $$V_{cc}-5V_{th} \rightarrow V_{cc}-6V_{th}$$ | $$\frac{T}{16}$$  | $$V_f = (V_{cc}-4V_{th})(e^\frac{\frac{-T}{16}}{\tau})$$  |
+| 6      | $$V_{cc}-5V_{th}$$ | $$V_{cc}-6V_{th}$$ | $$V_{cc}-6V_{th} \rightarrow V_{cc}-7V_{th}$$ | $$\frac{T}{32}$$  | $$V_f = (V_{cc}-5V_{th})(e^\frac{\frac{-T}{32}}{\tau})$$  |
+| 7      | $$V_{cc}-6V_{th}$$ | $$V_{cc}-7V_{th}$$ | $$V_{cc}-7V_{th} \rightarrow V_{cc}-8V_{th}$$ | $$\frac{T}{64}$$  | $$V_f = (V_{cc}-6V_{th})(e^\frac{\frac{-T}{64}}{\tau})$$  |
+| 8      | $$V_{cc}-7V_{th}$$ | $$0$$              | $$V_{cc}-8V_{th} \rightarrow 0$$              | $$\frac{T}{128}$$ | $$V_f = (V_{cc}-7V_{th})(e^\frac{\frac{-T}{128}}{\tau})$$ |
+By examining the equations for each region, the region has an effect on both the change in the $V_{th}$ and the fraction of the period that is taken, with the former being linear and the latter being exponential. Therefore, they both can be replaced by their own equations in terms of $r$, where $r$ is equal to the region the voltage does not saturate in minus one. The generalized equation is below:
 
-$$$$
+$$V_{f}=(V_{cc}-r7V_{th})e^\frac{\frac{-T}{2^r}}{RC} \space \space \space \space \space -\enclose{circle}{\bigstar}$$
+#### Inverse Relation
 
+As stated earlier, understanding how to get the value of the resistance back after doing all the processing is critical for getting an accurate reading from this circuit. Therefore, by moving the variables around in *Equation Star* above, the inverse equation is created as shown below:
 
+$$R = \frac{-T}{2^rC \ln(\frac{V_f}{V_{cc}-rV_{th}})} \space \space \space \space \space -\enclose{circle}{\diamondsuit}$$
+#### Setting Lower Boundary
+
+Knowing that a capacitor would fully desaturate at around $5 \tau$, choosing both a capacitor value and a time period must be taken in *caution*. Therefore, to prevent inaccuracies at lower bounds of resistances, the period and capacitor must follow the equation below:
+
+$$\frac{T}{128} = 4R_{min}C \space \space \space \space \space -\enclose{circle}{\heartsuit}$$
+
+The left side of the equation is provided by the fact that it is the shortest time the capacitor can discharge (in Region 8). The right-hand side converts the time constant back into its product and acknowledges that this would be the minimum resistance value that could be measured given these parameter. The constant is to make sure that it will never go too low and is just one less than the expected $5 \tau$. 
+
+```ad-example
+**Applications for Equation Heart**
+- Given a capacitor and time period, find the minimum resistor that can be detected
+- Given a minimum resistor, choose a time period or capacitor to find the other.
+- Combining it with *Equation Star* to find the minimum voltage.
+```
+
+## Part 2: Simulation
+
+To simulate the circuit described, the program LTSpice was utilized. LTSpice is a free SPICE simulator that allows for the simulation of analog circuits and is able to capture the behaviors of many electrical components [8]. Importantly, LTSpice allows simulations during a specific time period through the transient simulation mode. Each part of the circuit will be explained throughout this part. The overview of the circuit can be seen below in **Figure 8**:
+
+![[Untitled 3.png]]
+<center> <b>Figure 7</b>: Circuit Diagram for NMOS Sensor</center>
+
+### CTRL Signal
+
+Natively, LTSpice supports various types of functions for its voltage sources for both AC and DC capabilities. The one that is most crucial for creating a control signal; however, is the *Piecewise-Linear function (PWL)*. It allows for multiple time-voltage combinations to be chosen such that it increases linearly to the next voltage amount. However, since a step signal is needed rather than a linear one, a little trick is employed. By setting two times a fraction of a nanosecond apart and dropping the voltage only afterwards. it makes it such that there is a sudden drop. By placing a timestamp of the same voltage beforehand, a step signal can be replicated. **Table 5** below shows the PWL table for two periods (charge and discharge) and **Figure 8** shows an example of the table in LTSpice given $V_{cc}=5V, V_{th}= 0.3 V, T=5ms$:
+
+<center> <b>Table 5</b>: Piecewise-Linear Function for Step Function </center>
+
+| Time ($s$)                  | Value ($V$)      |
+| --------------------------- | ---------------- |
+| $0$                         | $V_{cc}+V_t$     |
+| $T$                         | $V_{cc}+V_{t}$   |
+| $T+10^{-11}$                | $V_{cc}-V_{th}$  |
+| $\frac{3T}{2}$              | $V_{cc}-V_{th}$  |
+| $\frac{3T}{2}+10^{-11}$     | $V_{cc}-2V_{th}$ |
+| $\frac{7T}{4}$              | $V_{cc}-2V_{th}$ |
+| $\frac{7T}{4}+10^{-11}$     | $V_{cc}-3V_{th}$ |
+| $\frac{15T}{8}$             | $V_{cc}-3V_{th}$ |
+| $\frac{15T}{8}+10^{-11}$    | $V_{cc}-4V_{th}$ |
+| $\frac{31T}{16}$            | $V_{cc}-4V_{th}$ |
+| $\frac{31T}{16}+10^{-11}$   | $V_{cc}-5V_{th}$ |
+| $\frac{63T}{32}$            | $V_{cc}-5V_{th}$ |
+| $\frac{63T}{32}+10^{-11}$   | $V_{cc}-6V_{th}$ |
+| $\frac{127T}{64}$           | $V_{cc}-6V_{th}$ |
+| $\frac{127T}{64}+10^{-11}$  | $V_{cc}-7V_{th}$ |
+| $\frac{255T}{128}$          | $V_{cc}-7V_{th}$ |
+| $\frac{255T}{128}+10^{-11}$ | $0$              |
+| $2T-10^{-11}$               | $0$              |
+| $2T$                        | $V_{cc}+V_t$     |
+
+![[Pasted image 20240621115851.png]]
+<center> <b>Figure 7</b>: PWL Table in LTSpice Example</center>
+
+```ad-note
+title: Reminder
+$V_{t}$ is the threshold value for the transistor chosen. This is crucial as the capacitor will not fully charge if the CTRL signal during the charge period is not $V_{cc}+V_t$
+```
+
+### NMOS Customization
+
+For the sake of testing the ideal equations, a nearly perfect NMOS should be used. However, the default NMOS’s in LTSpice do not have a good $K^\prime_N$ value that will allow the right amount of current to flow through, which greatly hinders the circuit during charging and discharging. Therefore, a custom definition for the NMOS was used that follows the SPICE directive below:
+
+```
+.model POWERMOSFET NMOS vto=0 kp=1000
+```
+
+This prevented any unwanted voltage drops or current fluctuations that can be seen with a real NMOS.
+
+### Resistor and Capacitor Parameters
+
+To test the dynamic range of a particular combination, the capacitor is to be kept constant and the resistor is to be stepped linearly through a range of resistors so the equation’s accuracies can be measured. An example of a SPICE directives can be seen below:
+
+```
+.step param X 5 4k 5
+.param Y 1u
+```
+
+### Measurements
+
+To accurately measure the 
 # Section III: Differential OP- Amps
 
 # Section IV: Three-Bit Flash ADC
@@ -192,4 +277,5 @@ $$$$
 [4] K. S. Al-Olimat, _Electric Circuits Analysis_, 3rd ed. Ronkonkoma, NY: Linus Learning, 2020.
 [5] Electrical4U, “RC Circuit Analysis: Series, Parallel, Equations & Transfer Function,” Electrical4U, https://www.electrical4u.com/rc-circuit-analysis/
 [6] A. S. Sedra, K. C. Smith, T. C. Carusone, and V. Gaudet, _Microelectronic Circuits_. Oxford, England: OXFORD UNIV Press US, 2019.
-[7] F. Hassan, “Draft Idea”. https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
+[7] F. Hassan, “Draft Idea,” Unpublished, https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
+[8] Analog Devices, “LTspice,” LTspice Information Center, https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
