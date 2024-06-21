@@ -339,7 +339,7 @@ To create the correct equations, the different threshold regions will be taken i
 
 # Section IV: Three-Bit Flash ADC
 
-
+Much like the signal conditioning op-amps, the flash ADC 
 
 ## Part 1: Voltage Division and the Regions
 ## Part 2: Priority Encoder  
