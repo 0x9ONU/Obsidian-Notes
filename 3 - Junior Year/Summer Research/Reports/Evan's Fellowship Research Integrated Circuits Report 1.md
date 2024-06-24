@@ -16,8 +16,7 @@
 - *Section V*: Eight-to-One MUX
 	- *Part 1*: Theory
 	- *Part 2*: Simulation
-- *Section VI*: Microcontrollers & Code
-- *Section VII*: Conclusion & Future Work
+- *Section VI*: Conclusion & Future Work
 - *References*
 
 # Section I: Overview
@@ -427,14 +426,55 @@ $$S_2=D_7 + \bar{D_6}(D_5+\bar{D_4}D_3+\bar{D_2}D_1)$$
 ![[Untitled 5.png]]
 <center> <b>Figure 15</b>: Select Bit Zero Logic Diagram</center>
 ### Implementation
-Now that the logic equations are created, there are three main ways of implementing them in real life
+Now that the logic equations are created, there are three main ways of implementing them in a real-life circuit. Firstly, a microcontroller that has 10 digital pins or more can be used to do the logic processing using an on-board program. The program would read the 7 comparator signals and then output on three digital pins for the select bits. If power is more of a concern, an FPGA can be programmed to simulate these logic gates using its look-up tables. This will be more power efficient and will result in a similar signal integrity. The final option is to convert the combination of logic gates into various transistor gates, making it the most low-level and difficult to implement with the upside of being the cheapest computationally.
+
+```ad-note
+For the sake of this project, we will most likely start off with using an microcontroller then switching over to an FPGA towards the tail-end.
+```
 ## Part 3: Simulation Results
+
+To test the validity of the logic equations and logic diagrams above, they were recreated in LTSpice. To do so, the built in logic modules were used in conjunction with ideal op-amps and resistors to simulate the behavior of the Flash ADC. The comparators were tested using the direct output from the RC circuit while the encoder used pulsing voltage sources.
+
+### Comparator Results
+
+By using an parallel RC circuit with $T = 5ms, R = 370 \Omega, C = 1\micro F, V_{th}=0.3V$, the comparators are fed with a $V_{ref}$ of $5V$ and every resistor was set to $100 \Omega$ for testing purposes. **Figure 16** shows the comparator circuit, **Figure 17** shows the waveform diagram for the reference voltages, and **Figure 18** shows the comparator outputs:
+
+![[Untitled 9.png]]
+<center> <b>Figure 16</b>: Comparator Circuit</center>
+
+![[reference voltages-1.png]]
+<center> <b>Figure 17</b>: Reference Voltages Waveform</center>
+
+![[comparator output-1.png]]
+<center> <b>Figure 18</b>: Comparator Output Waveform</center>
+
+As shown above, the comparators are nearly working as intended. The flash values are matching the fact that the input voltage is less than the 5th reference, but is just barely greater than the 4th reference. As expected, the resistor values are not close to what they need to be, but that was expected and will be fixed when the voltage and resistor threshold equations are found. The only concerning result is how the reference voltages are dropping in a similar manner to the input voltage. This could possibly be caused by some input bias currents with the OP07 model in LTspice [6]. Further solutions need to be tested and see if the results are reflected in real-life tests.
+
+### Encoder Results
+
+To ensure every region was working as expected, an increasing input voltage was simulated using 7 different voltage sources controlled by the PWL step method as described during the CTRL signal section. Each second of simulation time, the next voltage source is turned on to simulate the input voltage surpassing a reference voltage. The LTSpice schematic for this can be seen below in **Figure 19**:
+
+![[Untitled 10.png]]
+<center> <b>Figure 19</b>: PWL Encoder Testing Signals</center>
+
+From there, the inputs from each of the voltage signals is transferred into the logic gates as shown before in **Figures 13-15**. The resultant waveforms for each select bit is indicated below in **Figure 20:**
+
+![[select bits-1.png]]
+<center> <b>Figure 20</b>: Resultant Select Bits</center>
+
+```ad-note
+The waveform follows exactly what we are looking for, which means the encoder is working exactly as expected.
+```
 
 # Section V: Eight-to-One MUX
 
-# Section VI: Microcontrollers & Code
+## Part 1: Theory
 
-# Section VII: Conclusion & Future Work
+
+
+## Part 2: Simulation
+
+# Section VI: Conclusion & Future Work
 
 # References
 
@@ -444,10 +484,11 @@ Now that the logic equations are created, there are three main ways of implement
 [4] K. S. Al-Olimat, _Electric Circuits Analysis_, 3rd ed. Ronkonkoma, NY: Linus Learning, 2020.
 [5] Electrical4U, “RC Circuit Analysis: Series, Parallel, Equations & Transfer Function,” Electrical4U, https://www.electrical4u.com/rc-circuit-analysis/
 [6] A. S. Sedra, K. C. Smith, T. C. Carusone, and V. Gaudet, _Microelectronic Circuits_. Oxford, England: OXFORD UNIV Press US, 2019.
-[7] F. Hassan, “Draft Idea,” Unpublished, https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
+[7] F. Hassan, “Draft Idea,” unpublished, https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
 [8] Analog Devices, “LTspice,” LTspice Information Center, https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
-[9] E. Berei, “Resistor and Voltage Relation,” Unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
+[9] E. Berei, “Resistor and Voltage Relation,” unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
 [10] H. Holt, “A Deeper Look into Difference Amplifiers,” Analog Devices, https://www.analog.com/en/resources/analog-dialogue/articles/deeper-look-into-difference-amplifiers.html
 [11] All About Circuits, “Flash ADC: Digital-Analog Conversion,” Digital Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-13/flash-adc/ (accessed Jun. 21, 2024).
 [12] A. Gabriel, “DIY 3bit flash ADC,” Electronoobs, https://electronoobs.com/eng_circuitos_tut15_2.php
 [13] W. Storr, “Priority Encoder and Digital Encoder Tutorial,” Electronics Tutorials, https://www.electronics-tutorials.ws/combination/comb_4.html
+[14] S. Jaiswal, “Multiplexer in Digital Electronics,” Javatpoint, https://www.javatpoint.com/multiplexer-digital-electronics (accessed Jun. 24, 2024).
