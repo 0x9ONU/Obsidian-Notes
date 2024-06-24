@@ -22,14 +22,14 @@
 
 # Section I: Overview
 
-When it comes to the world of Analog-to-Digital Converts (ADCs), there are many options to choose from. The main type of ADCs are Successive Approximation (SAR), Delta-Sigma ($\Delta \Sigma$), Dual Slope, Pipelined, and Flash [1]. Out of the main types, Flash ADCs peaked the interest of the research team the most. When compared to the other three versions, Flash provides the best sample rate and bit resolution at low bit levels of all the types, which would allow for highly accurate readings and quantization levels without sacrificing time. However, unlike the other variations, Flash ADCs are particularly expensive to produce as they require an exponential amount of comparators per bit ($2^n -1$  comparators where $n$ is the number of bits). We found that, for the Flash ADC to be competitive, a new approach was necessary. 
+When it comes to the world of Analog-to-Digital Converts (ADCs), there are many options to choose from. The main type of ADCs are Successive Approximation (SAR), Delta-Sigma ($\Delta \Sigma$), Dual Slope, Pipelined, and Flash [1]. Out of the main types, Flash ADCs piqued the interest of the research team the most. When compared to the other three versions, Flash provides the best sample rate and bit resolution at low bit levels of all the types, which would allow for highly accurate readings and quantization levels without sacrificing time. However, unlike the other variations, Flash ADCs are particularly expensive to produce as they require an exponential amount of comparators per bit ($2^n -1$  comparators where $n$ is the number of bits). We found that, for the Flash ADC to be competitive, a new approach was necessary. 
 
 ```ad-important
 title: Opportunity Statement 
 To improve the current landscape for the use of flash ADCs in the electronics world, the project for Summer 2024 will focus on using a novel approach to measure the resistance of a RC circuit accurately using Flash ADCs, differential amplifiers, and multiplexers.
 ```
 
-In Section II, the RC circuit is covered. In brief, *a logarithmic staircase control (CTRL)* signal that is powered by a DAC will be placed at the gate of an *NMOS*. This controls the charge and discharge of a resistor and capacitor in parallel to get an accurate reading of the final voltage by allowing the voltage to saturate in certain regions before it discharges. These regions are critical and determine the range the resistor might be in. The relation on the charging was found to be a modified version of the standard discharging equation.
+In Section II, the RC circuit is covered. In brief, *a logarithmic staircase control (CTRL)* signal that is powered by a DAC will be placed at the gate of an *NMOS*. This controls the charge and discharge of a resistor and capacitor to get an accurate reading of the final voltage. These regions are critical and determine the range the resistor might be in. The relation on the charging was found to be a modified version of the standard discharging equation.
 
 In Section III, the amplification will be handled. Coming off of the capacitor node, it will be wired into *eight different differential op amps* that will scale the voltage thresholds from each region to zero to five volts. This will allow for more accurate readings for the ADCs later on.
 
@@ -43,16 +43,34 @@ flowchart TD
 A(DAC)-->|CTRL|B(RC Circuit)
 B-->|Voltage| C(Three-bit Coarse ADC) & D(Amplifiers)
 C-->|Select| E(Eight-to-One MUX)
-C-->|MSBs| O(Thirteen-Bit Output)
+C-->|MSBs| O(Thirteen-Bit Inverted Output)
 D-->|Input|E
 E-->|Fine Input|F(Ten-Bit Fine ADC)
 F-->|LSBs| O
+O-->J(Inverse Signal Conditioning)
+J-->I(Inverse DAC for RC Circuit)
+I-->Q(Measured Resistance)
 
 ```
 <center> <b>Figure 1</b>: Flow Chart Overview </center>
 
 ![[Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw]]
 <center> <b>Figure 2</b>: Block Chart Overview </center>
+
+The following report will focus on the work I have labored and presented over the past three weeks. I will cover the following subjects:
+- **RC Parallel Circuits and Photoresistor Data Collection Using a Switching MOSFET:**
+    - The design and implementation of RC parallel circuits to efficiently collect data from photoresistors.
+    - The role of a switching MOSFET in controlling the periods of charging and discharging.
+- **CTRL Signal and Over-Discharge Prevention:**
+    - Detailed explanation of the CTRL signal and its function in preventing the over-discharge of the circuit.
+- **Signal Conditioning Using Differential Op-Amps:**
+    - Techniques for signal conditioning in each region with the application of differential operational amplifiers for enhanced accuracy.
+- **Three-Bit Flash ADCs:**
+    - Construction of three-bit flash ADCs using comparators.
+    - Description of the special encoder utilized to determine the appropriate region.
+- **Eight-to-One Multiplexers (MUXs):**
+    - Utilization of Eight-to-One MUXs to switch the signal-conditioned outputs to the fine ADC.
+    - Explanation of how the MUXs operate based on the voltage region.
 
 #  Section II: RC Parallel Circuit
 
@@ -537,6 +555,7 @@ Several goals need to be achieved before the next report. With around half the e
 - Start creating the physical circuit based on the simulation results.
 - Find and review newer literature relating to ADCs and APSs.
 
+- - -
 # References
 
 [1] G. Smith, “Types of ADC converters,” Data Acquisition | Test and Measurement Solutions, https://dewesoft.com/blog/types-of-adc-converters
