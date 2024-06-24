@@ -512,9 +512,30 @@ As seen above, it is switching excellently with minimal switching lag only appea
 
 ### Physical Implementation
 
-Much like the coarse ADC, there are the three main ways of implementing the eight-to-one MUX. A microcontroller with 9 analog pins and 3 digital pins can be used. This would make it so there is no need for the op-amps or transistors towards the end of the circuit like the LTSpice version, but the large amount of pins needed could be troublesome based on the controller that is needed. For example, the Arduino Uno and Nano are out of the question since they only have 5 and 8 analog pins respectively.
+Much like the coarse ADC, there are the three main ways of implementing the eight-to-one MUX. A microcontroller with 9 analog pins and 3 digital pins can be used. This would make it so there is no need for the op-amps or transistors towards the end of the circuit like the LTSpice version, but the large amount of pins needed could be troublesome based on the controller that is needed. For example, the Arduino Uno and Nano are out of the question since they only have 5 and 8 analog pins respectively. Alternatively, both the FPGA method and the transistor method would not have to overcome that limitation due to the high amount of look-up tables and the nearly infinite transistor combinations. However, the op-amps and the extra transistors would be necessary for these cases as well.
 
-# Section VI: Conclusion & Future Work
+# Section VI: Conclusions & Future Work
+
+Overall, the progress achieved thus far is promising, suggesting that the project and paper will be completed by the end of the summer. But before covering the final thoughts, lets cover the topics discussed throughout the report:
+- The goal implementation in the form of a block diagram and flowchart.
+- RC Parallel Circuits and their use in collecting photoresistor data by using a switching MOSFET.
+- The CTRL signal and how it can prevent over discharging.
+- Signal conditioning for each region using differential op-amps.
+- Three-bit flash ADCs that are made out of comparators and a special encoder to dictate the region.
+- Eight-to-One MUXs that switch the signal conditioned outputs to the fine ADC depending on the region that the voltage is in.
+
+Almost every part of this process went smooth from the start except the RC parallel circuit. There are still severe dynamic range issues when it comes to how many resistances it is able to cover. However, once the equation for the voltage and resistance thresholds is determined, the process of identifying the dynamic range will be enhanced, potentially clarifying the unusual voltage drop-offs at higher resistances. The signal conditioning, three-bit flash ADC, and eight-to-one MUX designs are very promising; however, and will prove to be useful once the error in the RC circuit is found.
+
+Several goals need to be achieved before the next report. With around half the entire circuit complete, the next few weeks will be focused towards the following goals:
+- Revisit the RC simulation with a better choice of period using *Equation Heart*.
+- Discover the $V_{Region}$ and $R_{Region}$ threshold equations in terms of capacitance, period, and $V_{th}$.
+- Find the new configuration for the differential op-amps based on the discovered equations above.
+- Look into DAC solutions and microcontrollers for simulating the CTRL signal.
+- Choose the best microcontroller for the project.
+- Look into creating the 10-bit ADC with LTSpice and the microcontroller.
+- Find the proper component’s needed for making a breadboard circuit.
+- Start creating the physical circuit based on the simulation results.
+- Find and review newer literature relating to ADCs and APSs.
 
 # References
 
