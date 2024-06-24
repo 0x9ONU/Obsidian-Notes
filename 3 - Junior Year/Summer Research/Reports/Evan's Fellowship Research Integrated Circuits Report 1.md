@@ -11,8 +11,11 @@
 	- *Part 2*: Design
 - *Section IV*: Three-Bit Flash ADC
 	- *Part 1*: Comparators and the Regions
-	- *Part 2*: Priority Encoder  
+	- *Part 2*: Priority Encoder
+	- *Part 3*: Simulation
 - *Section V*: Eight-to-One MUX
+	- *Part 1*: Theory
+	- *Part 2*: Simulation
 - *Section VI*: Microcontrollers & Code
 - *Section VII*: Conclusion & Future Work
 - *References*
@@ -346,7 +349,7 @@ Much like the signal conditioning op-amps, the three-bit flash ADC reads right o
 
 ## Part 1: Comparators and the Regions
 
-
+To detect each region and send the proper signals over to the priority encoder, it is critical that the $V_{ref}$ and the resistors are chosen wisely based on the chosen time period and capacitance of the RC circuit. To determine the 
 
 ## Part 2: Priority Encoder  
 
