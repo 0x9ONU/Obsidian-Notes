@@ -349,7 +349,7 @@ Much like the signal conditioning op-amps, the three-bit flash ADC reads right o
 
 ## Part 1: Comparators and the Regions
 
-To detect each region and send the proper signals over to the priority encoder, it is critical that the $V_{ref}$ and the resistors are chosen wisely based on the chosen time period and capacitance of the RC circuit. To determine the 
+To detect each region and send the proper signals over to the priority encoder, it is critical that the $V_{ref}$ and the resistors are chosen wisely based on the chosen time period and capacitance of the RC circuit. To determine the proper bounds for the negative input to each comparator, the simple voltage divider formula is used. The voltage at each node is equal to 
 
 ## Part 2: Priority Encoder  
 
@@ -372,3 +372,4 @@ To detect each region and send the proper signals over to the priority encoder, 
 [9] E. Berei, “Resistor and Voltage Relation,” Unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
 [10] H. Holt, “A Deeper Look into Difference Amplifiers,” Analog Devices, https://www.analog.com/en/resources/analog-dialogue/articles/deeper-look-into-difference-amplifiers.html
 [11] All About Circuits, “Flash ADC: Digital-Analog Conversion,” Digital Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-13/flash-adc/ (accessed Jun. 21, 2024).
+[12] A. Gabriel, DIY 3bit flash ADC, https://electronoobs.com/eng_circuitos_tut15_2.php
