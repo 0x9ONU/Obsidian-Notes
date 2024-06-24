@@ -349,11 +349,86 @@ Much like the signal conditioning op-amps, the three-bit flash ADC reads right o
 
 ## Part 1: Comparators and the Regions
 
-To detect each region and send the proper signals over to the priority encoder, it is critical that the $V_{ref}$ and the resistors are chosen wisely based on the chosen time period and capacitance of the RC circuit. To determine the proper bounds for the negative input to each comparator, the simple voltage divider formula is used. The voltage at each node is equal to the following equation below [12] :
+To detect each region and send the proper signals over to the priority encoder, it is critical that the $V_{ref}$ and the resistors are chosen wisely based on the chosen time period and capacitance of the RC circuit. To determine the proper bounds for the negative input to each comparator, the voltage divider formula is utilized. To get each of these reference voltages, it is equivalent to the total reference voltage minus the voltage drop over each resistor above it. The voltage at each node is equal to the following equation below as well as a written-out version of the equations in **Table 7** [12] :
+$$V(x) =V_{ref}-(V_{ref}\frac{\sum_1^x R_x}{R_T}) \space \space \space \space \space -\enclose{circle}{6}$$
 
-$$$$
 
-## Part 2: Priority Encoder  
+<center> <b>Table 7</b>: Voltage Reference Values </center>
+
+| Region | Reference Voltage                                          |
+| ------ | ---------------------------------------------------------- |
+| 1      | $V_{ref}-(V_{ref}\frac{R_1}{V_T})$                         |
+| 2      | $V_{ref}-(V_{ref}\frac{R_1+R_2}{V_T})$                     |
+| 3      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3}{V_T})$                 |
+| 4      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3+R_4}{V_T})$             |
+| 5      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3+R_4+R_5}{V_T})$         |
+| 6      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3+R_4+R_5+R_6}{V_T})$     |
+| 7      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3+R_4+R_5+R_6+R_7}{V_T})$ |
+| 8      | 0                                                          |
+```ad-warning
+It is critical to find the resistance and voltage threshold values for a specific combination of components and time period before computing the reference voltages for the comparators
+```
+
+From there, the input voltage is taken into the positive terminal of each op-amp to compare the reference voltage that is going into the negative terminal. If the input voltage is higher than the reference voltage, the comparator will output high. Otherwise, it will output low. This means that the highest comparator that is on will determine the which region the incoming voltage is in. For example, if the voltage is in region 5, the bottom three comparators will be outputting high. Additionally, since it is assumed that the 8th region is always on as shown in **Figure 12**, it allows us to use one less comparator and assume the first comparator is for the 7th region.
+
+```ad-note
+The voltage references will be one of the next steps on the progress charts and hopefully an equation in terms of the capacitance, period, and other variables will be made once the reference voltages and resistances can be found consistently
+```
+
+## Part 2: Priority Encoder 
+
+### Theory
+
+To turn the readings from the comparators into binary, it is critical that an eight-to-three priority encoder is placed right afterwards. The priority encoder’s goal is to take the discrete signals from the comparators and turn it into 3 bits that represents the region with `000` representing region 8 (always saturates) and `111` representing region 1 (never saturates). These three bits are critical as they both control the multiplexer and are the most significant bits before the inverse circuits. **Table 8 and 9** below illustrates the typical truth table for a priority encoder and the resulting equations [13] :
+
+<center> <b>Table 8</b>:  Typical Priority Encoder Truth Table and Equations </center>
+
+| Inputs          |                 |                 |                 |                 |                 |                 | \|  | Outputs         |                 |                 |
+| --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --- | --------------- | --------------- | --------------- |
+| *D<sub>7</sub>* | *D<sub>6</sub>* | *D<sub>5</sub>* | *D<sub>4</sub>* | *D<sub>3</sub>* | *D<sub>2</sub>* | *D<sub>1</sub>* | \|  | *Q<sub>2</sub>* | *Q<sub>1</sub>* | *Q<sub>0</sub>* |
+| 0               | 0               | 0               | 0               | 0               | 0               | 0               | \|  | 0               | 0               | 0               |
+| 0               | 0               | 0               | 0               | 0               | 0               | 1               | \|  | 0               | 0               | 1               |
+| 0               | 0               | 0               | 0               | 0               | 1               | x               | \|  | 0               | 1               | 0               |
+| 0               | 0               | 0               | 0               | 1               | x               | x               | \|  | 0               | 1               | 1               |
+| 0               | 0               | 0               | 1               | x               | x               | x               | \|  | 1               | 0               | 0               |
+| 0               | 0               | 1               | x               | x               | x               | x               | \|  | 1               | 0               | 1               |
+| 0               | 1               | x               | x               | x               | x               | x               | \|  | 1               | 1               | 0               |
+| 1               | x               | x               | x               | x               | x               | x               | \|  | 1               | 1               | 1               |
+<center> <b>Table 9</b>: Resultant Equations</center>
+
+| Output          | Equation                                                |
+| --------------- | ------------------------------------------------------- |
+| *Q<sub>2</sub>* | $D_4+D_5+D_6+D_7$                                       |
+| *Q<sub>1</sub>* | $\bar{D_5} \bar{D_4}(D_2+D_3)+D_6+D_7$                  |
+| *Q<sub>0</sub>* | $\bar{D_6}(\bar{D_4}\bar{D_2}D_1+\bar{D_4}D_3+D_5)+D_7$ |
+According to the documentation, the author claims that due to the great amount of not-care inputs that are present, the zero inputs would be ignored [13]. When considering these do not cares, the encoder should be broken down into multiple OR gates as shown below in **Figure 13**:
+
+![[Pasted image 20240624115236.png]]
+<center> <b>Figure 12</b>: Priority Encoder Logic Diagram [13]</center>
+
+```ad-warning
+However, when this gate configuration was put into practice, it failed to replicate the proper behavior as the author assumes that there is only one digital pin on at a time. Since the op-amps cascade, the above logic does not work in our situation.
+```
+
+### Improved Encoder
+
+To combat the problems faced above, it is critical to replace most of the do-not cares with high inputs. By doing so, the resultant equations can be taken in and simplified down into a form that can handle the op-amp cascade. For example, a redundancies are removed in the middle bit output. $D_4$ reading low will also mean that $D_5$ is reading low, $D_2$ is independent of $D_3$ being on, and $D_6$ being on will also mean that $D_7$ could be on with no change to the bit. These reduced equations and their logic gate representation can be seen below in **Figures 13-15**:
+
+$$S_2 = D_4$$
+$$S_1=D_6 + \bar{D_4}D_2$$
+$$S_2=D_7 + \bar{D_6}(D_5+\bar{D_4}D_3+\bar{D_2}D_1)$$
+
+![[Untitled 7.png]]
+<center> <b>Figure 13</b>: Select Bit Two Logic Diagram</center>
+
+![[Untitled 6.png]]
+<center> <b>Figure 14</b>: Select Bit One Logic Diagram</center>
+
+![[Untitled 5.png]]
+<center> <b>Figure 15</b>: Select Bit Zero Logic Diagram</center>
+### Implementation
+Now that the logic equations are created, there are three main ways of implementing them in real life
+## Part 3: Simulation Results
 
 # Section V: Eight-to-One MUX
 
@@ -374,4 +449,5 @@ $$$$
 [9] E. Berei, “Resistor and Voltage Relation,” Unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
 [10] H. Holt, “A Deeper Look into Difference Amplifiers,” Analog Devices, https://www.analog.com/en/resources/analog-dialogue/articles/deeper-look-into-difference-amplifiers.html
 [11] All About Circuits, “Flash ADC: Digital-Analog Conversion,” Digital Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-13/flash-adc/ (accessed Jun. 21, 2024).
-[12] A. Gabriel, DIY 3bit flash ADC, https://electronoobs.com/eng_circuitos_tut15_2.php
+[12] A. Gabriel, “DIY 3bit flash ADC,” Electronoobs, https://electronoobs.com/eng_circuitos_tut15_2.php
+[13] W. Storr, “Priority Encoder and Digital Encoder Tutorial,” Electronics Tutorials, https://www.electronics-tutorials.ws/combination/comb_4.html
