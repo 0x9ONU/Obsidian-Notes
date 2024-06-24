@@ -470,7 +470,29 @@ The waveform follows exactly what we are looking for, which means the encoder is
 
 ## Part 1: Theory
 
-As previously articulated, the signal coming from the RC circuit will be conditioned by 8 differential op-amps to 
+As previously articulated, the signal coming from the RC circuit will be conditioned by 8 differential op-amps to change each region into a zero to five volt variation for the fine ADC. However, to switch them to the correct region, a multiplexer is necessary. A multiplexer (MUX) is a component that has $2^n$ inputs and a single output that is switched by using $n$ signal lines [14]. In this case, the inputs will be coming from the signal conditioning op-amps and the signal lines will be coming from the coarse ADC. This will allow each region to have its own signal that has a better analog range while also not compromising the input to the fine ADC. **Figures 21-22** and **Table 10** below present the block diagram, truth table, and logical circuit for the standard 8-to-1 multiplexer (MUX):
+
+![[multiplexer7 1.png]]
+<center> <b>Figure 21</b>: Eight-to-One MUX Block Diagram [14]</center>
+
+<center> <b>Table 10</b>: Eight-to-One MUX Truth Table [14]</center>
+
+| Inputs          |                 |                 | \|  | Output |        |
+| --------------- | --------------- | --------------- | --- | ------ | ------ |
+| *S<sub>2</sub>* | *S<sub>1</sub>* | *S<sub>0</sub>* | \|  | *Y*    | Region |
+| 0               | 0               | 0               | \|  | $A_0$  | 8      |
+| 0               | 0               | 1               | \|  | $A_1$  | 7      |
+| 0               | 1               | 0               | \|  | $A_2$  | 6      |
+| 0               | 1               | 1               | \|  | $A_3$  | 5      |
+| 1               | 0               | 0               | \|  | $A_4$  | 4      |
+| 1               | 0               | 1               | \|  | $A_5$  | 3      |
+| 1               | 1               | 0               | \|  | $A_6$  | 2      |
+| 1               | 1               | 1               | \|  | $A_7$  | 1      |
+
+![[multiplexer9.png]]
+<center> <b>Figure 22</b>: Eight-to-One MUX Logic Diagram [14]</center>
+
+
 
 ## Part 2: Simulation
 
