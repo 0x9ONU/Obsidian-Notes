@@ -349,7 +349,9 @@ Much like the signal conditioning op-amps, the three-bit flash ADC reads right o
 
 ## Part 1: Comparators and the Regions
 
-To detect each region and send the proper signals over to the priority encoder, it is critical that the $V_{ref}$ and the resistors are chosen wisely based on the chosen time period and capacitance of the RC circuit. To determine the proper bounds for the negative input to each comparator, the simple voltage divider formula is used. The voltage at each node is equal to 
+To detect each region and send the proper signals over to the priority encoder, it is critical that the $V_{ref}$ and the resistors are chosen wisely based on the chosen time period and capacitance of the RC circuit. To determine the proper bounds for the negative input to each comparator, the simple voltage divider formula is used. The voltage at each node is equal to the following equation below [12] :
+
+$$$$
 
 ## Part 2: Priority Encoder  
 
