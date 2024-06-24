@@ -16,6 +16,7 @@
 - *Section V*: Eight-to-One MUX
 	- *Part 1*: Theory
 	- *Part 2*: Simulation
+	- *Part 3*: Implementation
 - *Section VI*: Conclusion & Future Work
 - *References*
 
@@ -492,9 +493,26 @@ As previously articulated, the signal coming from the RC circuit will be conditi
 ![[multiplexer9.png]]
 <center> <b>Figure 22</b>: Eight-to-One MUX Logic Diagram [14]</center>
 
-
+By using this 8-to-1 MUX, the coarse ADC is able to switch which region is being fed into the fine ADC. Due to the simple nature of the MUX, it is able to switch fast enough to keep up with both the period of the CTRL signal and the processing done by the flash ADC. This hopefully will allow a user to  clock the device fast enough to be viable in the real world.
 
 ## Part 2: Simulation
+
+### LTSpice Implementation
+
+Much like the previous simulations, the brunt of the work was done through LTSpice once more utilizing the built-in logic functions, op-amps, and NPN transistors. Unlike many of the previous designs, this version was straight-forward and almost follows the ideal model perfectly. However, a few parts had to be addressed due to some limitations with logic gates in LTSpice. Most notably, LTSpice’s OR gates can only output zero for low and one for high. Therefore, a combination of op-amps and NPN transistors were used to switch the input that was controlled by the 8-to-1 MUX’s OR gates. The select bits are driven by the same PWL voltage sources and encoder described in the previous section. The input voltages $\mbox{Reg}_1 \Rightarrow \mbox{Reg}_8$ are chosen between 0 and 5 where the lowest starts at 0 and goes up to 4.5 volts. The op-amps are driven by a 6 volt $V_{cc}$ and are in the non-inverting configuration with a gain of $A = 5$ and are connected to one of each of the OR gate’s outputs. The output of each op-amp is connected to a NPN transistor’s base with the collector being  $\mbox{Reg}_1 \Rightarrow \mbox{Reg}_8$. From there, the emitters from each NPN transistor are shorted together into a single output node that would go towards the fine ADC. The circuit and its waveform output can be seen below in **Figure 23 & 24**:
+
+
+![[Untitled 11.png]]
+<center> <b>Figure 23</b>: Eight-to-One MUX Circuit Diagram </center>
+
+![[8-1 MUX-1.png]]
+<center> <b>Figure 24</b>: Eight-to-One MUX Waveform Diagram </center>
+
+As seen above, it is switching excellently with minimal switching lag only appearing towards the higher values. This is great news, but more testing needs to be done at lower periods values to ensure it is able to switch fast enough for the RC Circuit and the coarse ADC.
+
+### Physical Implementation
+
+Much like the coarse ADC, there are the three main ways of implementing the eight-to-one MUX. A microcontroller with 9 analog pins and 3 digital pins can be used. This would make it so there is no need for the op-amps or transistors towards the end of the circuit like the LTSpice version, but the large amount of pins needed could be troublesome based on the controller that is needed. For example, the Arduino Uno and Nano are out of the question since they only have 5 and 8 analog pins respectively.
 
 # Section VI: Conclusion & Future Work
 
