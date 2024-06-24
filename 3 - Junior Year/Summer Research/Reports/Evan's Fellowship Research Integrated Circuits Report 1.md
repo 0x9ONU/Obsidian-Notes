@@ -470,7 +470,7 @@ The waveform follows exactly what we are looking for, which means the encoder is
 
 ## Part 1: Theory
 
-
+As previously articulated, the signal coming from the RC circuit will be conditioned by 8 differential op-amps to 
 
 ## Part 2: Simulation
 
@@ -488,7 +488,7 @@ The waveform follows exactly what we are looking for, which means the encoder is
 [8] Analog Devices, “LTspice,” LTspice Information Center, https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
 [9] E. Berei, “Resistor and Voltage Relation,” unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
 [10] H. Holt, “A Deeper Look into Difference Amplifiers,” Analog Devices, https://www.analog.com/en/resources/analog-dialogue/articles/deeper-look-into-difference-amplifiers.html
-[11] All About Circuits, “Flash ADC: Digital-Analog Conversion,” Digital Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-13/flash-adc/ (accessed Jun. 21, 2024).
+[11] All About Circuits, “Flash ADC: Digital-Analog Conversion,” Digital Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-13/flash-adc/
 [12] A. Gabriel, “DIY 3bit flash ADC,” Electronoobs, https://electronoobs.com/eng_circuitos_tut15_2.php
 [13] W. Storr, “Priority Encoder and Digital Encoder Tutorial,” Electronics Tutorials, https://www.electronics-tutorials.ws/combination/comb_4.html
-[14] S. Jaiswal, “Multiplexer in Digital Electronics,” Javatpoint, https://www.javatpoint.com/multiplexer-digital-electronics (accessed Jun. 24, 2024).
+[14] S. Jaiswal, “Multiplexer in Digital Electronics,” Javatpoint, https://www.javatpoint.com/multiplexer-digital-electronics
