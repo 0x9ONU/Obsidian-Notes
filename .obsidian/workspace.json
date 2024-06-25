@@ -14,8 +14,17 @@
               "type": "weekly",
               "state": {}
             }
+          },
+          {
+            "id": "73f92711d1d4f7f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-06-25.md"
-              }
+              "state": {}
             }
           },
           {
@@ -246,10 +251,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "401c4c15d6870981",
+  "active": "73f92711d1d4f7f4",
   "lastOpenFiles": [
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "2024-06-25.md",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "2024-06-24.md",
     "2024-06-20.md",
     "conflict-files-obsidian-git.md",
