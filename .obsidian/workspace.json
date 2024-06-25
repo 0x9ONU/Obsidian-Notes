@@ -14,33 +14,8 @@
               "type": "weekly",
               "state": {}
             }
-          },
-          {
-            "id": "831dfded8098ec2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4be299c306537ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-20.md"
+                "file": "2024-06-25.md"
               }
             }
           },
@@ -231,31 +206,18 @@
         "dimension": 61.96868008948546,
         "children": [
           {
-            "id": "070205e1e3d0f957",
+            "id": "70a7679adec180f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb739a8f34816b98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily_Notes/2024-06-21.md",
+                "file": "2024-06-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,10 +246,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a4be299c306537ea",
+  "active": "401c4c15d6870981",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "2024-06-25.md",
+    "2024-06-24.md",
     "2024-06-20.md",
+    "conflict-files-obsidian-git.md",
     "[.md",
     "General Notes/select bits.pdf",
     "General Notes/select bits-1.png",
@@ -301,7 +266,6 @@
     "General Notes/Untitled 7.png",
     "General Notes/Untitled 6.png",
     "Daily_Notes/2024-06-21.md",
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "Daily_Notes/2024-06-20.md",
     "Daily_Notes/2024-06-19.md",
     "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
@@ -320,8 +284,6 @@
     "2024-06-28.md",
     "2024-06-27.md",
     "2024-06-26.md",
-    "2024-06-25.md",
-    "2024-06-24.md",
     "2024-06-23.md",
     "2024-06-22.md",
     "2024-06-18.md",
