@@ -1,9 +1,0 @@
-{
-  "blurOnStartup": "hide-all",
-  "blurLevel": 0.3,
-  "blurOnIdleTimeoutSeconds": -1,
-  "hoverToReveal": true,
-  "revealUnderCaret": false,
-  "privateDirs": "Daily_Notes",
-  "privateNoteMarker": "#private"
-}

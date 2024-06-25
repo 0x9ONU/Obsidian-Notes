@@ -11,22 +11,25 @@
 	- *Part 2*: Design
 - *Section IV*: Three-Bit Flash ADC
 	- *Part 1*: Comparators and the Regions
-	- *Part 2*: Priority Encoder  
+	- *Part 2*: Priority Encoder
+	- *Part 3*: Simulation
 - *Section V*: Eight-to-One MUX
-- *Section VI*: Microcontrollers & Code
-- *Section VII*: Conclusion & Future Work
+	- *Part 1*: Theory
+	- *Part 2*: Simulation
+	- *Part 3*: Implementation
+- *Section VI*: Conclusion & Future Work
 - *References*
 
 # Section I: Overview
 
-When it comes to the world of Analog-to-Digital Converts (ADCs), there are many options to choose from. The main type of ADCs are Successive Approximation (SAR), Delta-Sigma ($\Delta \Sigma$), Dual Slope, Pipelined, and Flash [1]. Out of the main types, Flash ADCs peaked the interest of the research team the most. When compared to the other three versions, Flash provides the best sample rate and bit resolution at low bit levels of all the types, which would allow for highly accurate readings and quantization levels without sacrificing time. However, unlike the other variations, Flash ADCs are particularly expensive to produce as they require an exponential amount of comparators per bit ($2^n -1$  comparators where $n$ is the number of bits). We found that, for the Flash ADC to be competitive, a new approach was necessary. 
+When it comes to the world of Analog-to-Digital Converts (ADCs), there are many options to choose from. The main type of ADCs are Successive Approximation (SAR), Delta-Sigma ($\Delta \Sigma$), Dual Slope, Pipelined, and Flash [1]. Out of the main types, Flash ADCs piqued the interest of the research team the most. When compared to the other three versions, Flash provides the best sample rate and bit resolution at low bit levels of all the types, which would allow for highly accurate readings and quantization levels without sacrificing time. However, unlike the other variations, Flash ADCs are particularly expensive to produce as they require an exponential amount of comparators per bit ($2^n -1$  comparators where $n$ is the number of bits). We found that, for the Flash ADC to be competitive, a new approach was necessary. 
 
 ```ad-important
 title: Opportunity Statement 
 To improve the current landscape for the use of flash ADCs in the electronics world, the project for Summer 2024 will focus on using a novel approach to measure the resistance of a RC circuit accurately using Flash ADCs, differential amplifiers, and multiplexers.
 ```
 
-In Section II, the RC circuit is covered. In brief, *a logarithmic staircase control (CTRL)* signal that is powered by a DAC will be placed at the gate of an *NMOS*. This controls the charge and discharge of a resistor and capacitor in parallel to get an accurate reading of the final voltage by allowing the voltage to saturate in certain regions before it discharges. These regions are critical and determine the range the resistor might be in. The relation on the charging was found to be a modified version of the standard discharging equation.
+In Section II, the RC circuit is covered. In brief, *a logarithmic staircase control (CTRL)* signal that is powered by a DAC will be placed at the gate of an *NMOS*. This controls the charge and discharge of a resistor and capacitor to get an accurate reading of the final voltage. These regions are critical and determine the range the resistor might be in. The relation on the charging was found to be a modified version of the standard discharging equation.
 
 In Section III, the amplification will be handled. Coming off of the capacitor node, it will be wired into *eight different differential op amps* that will scale the voltage thresholds from each region to zero to five volts. This will allow for more accurate readings for the ADCs later on.
 
@@ -40,16 +43,34 @@ flowchart TD
 A(DAC)-->|CTRL|B(RC Circuit)
 B-->|Voltage| C(Three-bit Coarse ADC) & D(Amplifiers)
 C-->|Select| E(Eight-to-One MUX)
-C-->|MSBs| O(Thirteen-Bit Output)
+C-->|MSBs| O(Thirteen-Bit Inverted Output)
 D-->|Input|E
 E-->|Fine Input|F(Ten-Bit Fine ADC)
 F-->|LSBs| O
+O-->J(Inverse Signal Conditioning)
+J-->I(Inverse DAC for RC Circuit)
+I-->Q(Measured Resistance)
 
 ```
 <center> <b>Figure 1</b>: Flow Chart Overview </center>
 
 ![[Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw]]
 <center> <b>Figure 2</b>: Block Chart Overview </center>
+
+The following report will focus on the work I have labored and presented over the past three weeks. I will cover the following subjects:
+- **RC Parallel Circuits and Photoresistor Data Collection Using a Switching MOSFET:**
+    - The design and implementation of RC parallel circuits to efficiently collect data from photoresistors.
+    - The role of a switching MOSFET in controlling the periods of charging and discharging.
+- **CTRL Signal and Over-Discharge Prevention:**
+    - Detailed explanation of the CTRL signal and its function in preventing the over-discharge of the circuit.
+- **Signal Conditioning Using Differential Op-Amps:**
+    - Techniques for signal conditioning in each region with the application of differential operational amplifiers for enhanced accuracy.
+- **Three-Bit Flash ADCs:**
+    - Construction of three-bit flash ADCs using comparators.
+    - Description of the special encoder utilized to determine the appropriate region.
+- **Eight-to-One Multiplexers (MUXs):**
+    - Utilization of Eight-to-One MUXs to switch the signal-conditioned outputs to the fine ADC.
+    - Explanation of how the MUXs operate based on the voltage region.
 
 #  Section II: RC Parallel Circuit
 
@@ -346,16 +367,195 @@ Much like the signal conditioning op-amps, the three-bit flash ADC reads right o
 
 ## Part 1: Comparators and the Regions
 
+To detect each region and send the proper signals over to the priority encoder, it is critical that the $V_{ref}$ and the resistors are chosen wisely based on the chosen time period and capacitance of the RC circuit. To determine the proper bounds for the negative input to each comparator, the voltage divider formula is utilized. To get each of these reference voltages, it is equivalent to the total reference voltage minus the voltage drop over each resistor above it. The voltage at each node is equal to the following equation below as well as a written-out version of the equations in **Table 7** [12] :
+$$V(x) =V_{ref}-(V_{ref}\frac{\sum_1^x R_x}{R_T}) \space \space \space \space \space -\enclose{circle}{6}$$
 
 
-## Part 2: Priority Encoder  
+<center> <b>Table 7</b>: Voltage Reference Values </center>
+
+| Region | Reference Voltage                                          |
+| ------ | ---------------------------------------------------------- |
+| 1      | $V_{ref}-(V_{ref}\frac{R_1}{V_T})$                         |
+| 2      | $V_{ref}-(V_{ref}\frac{R_1+R_2}{V_T})$                     |
+| 3      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3}{V_T})$                 |
+| 4      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3+R_4}{V_T})$             |
+| 5      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3+R_4+R_5}{V_T})$         |
+| 6      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3+R_4+R_5+R_6}{V_T})$     |
+| 7      | $V_{ref}-(V_{ref}\frac{R_1+R_2+R_3+R_4+R_5+R_6+R_7}{V_T})$ |
+| 8      | 0                                                          |
+```ad-warning
+It is critical to find the resistance and voltage threshold values for a specific combination of components and time period before computing the reference voltages for the comparators
+```
+
+From there, the input voltage is taken into the positive terminal of each op-amp to compare the reference voltage that is going into the negative terminal. If the input voltage is higher than the reference voltage, the comparator will output high. Otherwise, it will output low. This means that the highest comparator that is on will determine the which region the incoming voltage is in. For example, if the voltage is in region 5, the bottom three comparators will be outputting high. Additionally, since it is assumed that the 8th region is always on as shown in **Figure 12**, it allows us to use one less comparator and assume the first comparator is for the 7th region.
+
+```ad-note
+The voltage references will be one of the next steps on the progress charts and hopefully an equation in terms of the capacitance, period, and other variables will be made once the reference voltages and resistances can be found consistently
+```
+
+## Part 2: Priority Encoder 
+
+### Theory
+
+To turn the readings from the comparators into binary, it is critical that an eight-to-three priority encoder is placed right afterwards. The priority encoder’s goal is to take the discrete signals from the comparators and turn it into 3 bits that represents the region with `000` representing region 8 (always saturates) and `111` representing region 1 (never saturates). These three bits are critical as they both control the multiplexer and are the most significant bits before the inverse circuits. **Table 8 and 9** below illustrates the typical truth table for a priority encoder and the resulting equations [13] :
+
+<center> <b>Table 8</b>:  Typical Priority Encoder Truth Table and Equations </center>
+
+| Inputs          |                 |                 |                 |                 |                 |                 | \|  | Outputs         |                 |                 |
+| --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --- | --------------- | --------------- | --------------- |
+| *D<sub>7</sub>* | *D<sub>6</sub>* | *D<sub>5</sub>* | *D<sub>4</sub>* | *D<sub>3</sub>* | *D<sub>2</sub>* | *D<sub>1</sub>* | \|  | *Q<sub>2</sub>* | *Q<sub>1</sub>* | *Q<sub>0</sub>* |
+| 0               | 0               | 0               | 0               | 0               | 0               | 0               | \|  | 0               | 0               | 0               |
+| 0               | 0               | 0               | 0               | 0               | 0               | 1               | \|  | 0               | 0               | 1               |
+| 0               | 0               | 0               | 0               | 0               | 1               | x               | \|  | 0               | 1               | 0               |
+| 0               | 0               | 0               | 0               | 1               | x               | x               | \|  | 0               | 1               | 1               |
+| 0               | 0               | 0               | 1               | x               | x               | x               | \|  | 1               | 0               | 0               |
+| 0               | 0               | 1               | x               | x               | x               | x               | \|  | 1               | 0               | 1               |
+| 0               | 1               | x               | x               | x               | x               | x               | \|  | 1               | 1               | 0               |
+| 1               | x               | x               | x               | x               | x               | x               | \|  | 1               | 1               | 1               |
+<center> <b>Table 9</b>: Resultant Equations</center>
+
+| Output          | Equation                                                |
+| --------------- | ------------------------------------------------------- |
+| *Q<sub>2</sub>* | $D_4+D_5+D_6+D_7$                                       |
+| *Q<sub>1</sub>* | $\bar{D_5} \bar{D_4}(D_2+D_3)+D_6+D_7$                  |
+| *Q<sub>0</sub>* | $\bar{D_6}(\bar{D_4}\bar{D_2}D_1+\bar{D_4}D_3+D_5)+D_7$ |
+According to the documentation, the author claims that due to the great amount of not-care inputs that are present, the zero inputs would be ignored [13]. When considering these do not cares, the encoder should be broken down into multiple OR gates as shown below in **Figure 13**:
+
+![[Pasted image 20240624115236.png]]
+<center> <b>Figure 12</b>: Priority Encoder Logic Diagram [13]</center>
+
+```ad-warning
+However, when this gate configuration was put into practice, it failed to replicate the proper behavior as the author assumes that there is only one digital pin on at a time. Since the op-amps cascade, the above logic does not work in our situation.
+```
+
+### Improved Encoder
+
+To combat the problems faced above, it is critical to replace most of the do-not cares with high inputs. By doing so, the resultant equations can be taken in and simplified down into a form that can handle the op-amp cascade. For example, a redundancies are removed in the middle bit output. $D_4$ reading low will also mean that $D_5$ is reading low, $D_2$ is independent of $D_3$ being on, and $D_6$ being on will also mean that $D_7$ could be on with no change to the bit. These reduced equations and their logic gate representation can be seen below in **Figures 13-15**:
+
+$$S_2 = D_4$$
+$$S_1=D_6 + \bar{D_4}D_2$$
+$$S_2=D_7 + \bar{D_6}(D_5+\bar{D_4}D_3+\bar{D_2}D_1)$$
+
+![[Untitled 7.png]]
+<center> <b>Figure 13</b>: Select Bit Two Logic Diagram</center>
+
+![[Untitled 6.png]]
+<center> <b>Figure 14</b>: Select Bit One Logic Diagram</center>
+
+![[Untitled 5.png]]
+<center> <b>Figure 15</b>: Select Bit Zero Logic Diagram</center>
+### Implementation
+Now that the logic equations are created, there are three main ways of implementing them in a real-life circuit. Firstly, a microcontroller that has 10 digital pins or more can be used to do the logic processing using an on-board program. The program would read the 7 comparator signals and then output on three digital pins for the select bits. If power is more of a concern, an FPGA can be programmed to simulate these logic gates using its look-up tables. This will be more power efficient and will result in a similar signal integrity. The final option is to convert the combination of logic gates into various transistor gates, making it the most low-level and difficult to implement with the upside of being the cheapest computationally.
+
+```ad-note
+For the sake of this project, we will most likely start off with using an microcontroller then switching over to an FPGA towards the tail-end.
+```
+## Part 3: Simulation Results
+
+To test the validity of the logic equations and logic diagrams above, they were recreated in LTSpice. To do so, the built in logic modules were used in conjunction with ideal op-amps and resistors to simulate the behavior of the Flash ADC. The comparators were tested using the direct output from the RC circuit while the encoder used pulsing voltage sources.
+
+### Comparator Results
+
+By using an parallel RC circuit with $T = 5ms, R = 370 \Omega, C = 1\micro F, V_{th}=0.3V$, the comparators are fed with a $V_{ref}$ of $5V$ and every resistor was set to $100 \Omega$ for testing purposes. **Figure 16** shows the comparator circuit, **Figure 17** shows the waveform diagram for the reference voltages, and **Figure 18** shows the comparator outputs:
+
+![[Untitled 9.png]]
+<center> <b>Figure 16</b>: Comparator Circuit</center>
+
+![[reference voltages-1.png]]
+<center> <b>Figure 17</b>: Reference Voltages Waveform</center>
+
+![[comparator output-1.png]]
+<center> <b>Figure 18</b>: Comparator Output Waveform</center>
+
+As shown above, the comparators are nearly working as intended. The flash values are matching the fact that the input voltage is less than the 5th reference, but is just barely greater than the 4th reference. As expected, the resistor values are not close to what they need to be, but that was expected and will be fixed when the voltage and resistor threshold equations are found. The only concerning result is how the reference voltages are dropping in a similar manner to the input voltage. This could possibly be caused by some input bias currents with the OP07 model in LTspice [6]. Further solutions need to be tested and see if the results are reflected in real-life tests.
+
+### Encoder Results
+
+To ensure every region was working as expected, an increasing input voltage was simulated using 7 different voltage sources controlled by the PWL step method as described during the CTRL signal section. Each second of simulation time, the next voltage source is turned on to simulate the input voltage surpassing a reference voltage. The LTSpice schematic for this can be seen below in **Figure 19**:
+
+![[Untitled 10.png]]
+<center> <b>Figure 19</b>: PWL Encoder Testing Signals</center>
+
+From there, the inputs from each of the voltage signals is transferred into the logic gates as shown before in **Figures 13-15**. The resultant waveforms for each select bit is indicated below in **Figure 20:**
+
+![[select bits-1.png]]
+<center> <b>Figure 20</b>: Resultant Select Bits</center>
+
+```ad-note
+The waveform follows exactly what we are looking for, which means the encoder is working exactly as expected.
+```
 
 # Section V: Eight-to-One MUX
 
-# Section VI: Microcontrollers & Code
+## Part 1: Theory
 
-# Section VII: Conclusion & Future Work
+As previously articulated, the signal coming from the RC circuit will be conditioned by 8 differential op-amps to change each region into a zero to five volt variation for the fine ADC. However, to switch them to the correct region, a multiplexer is necessary. A multiplexer (MUX) is a component that has $2^n$ inputs and a single output that is switched by using $n$ signal lines [14]. In this case, the inputs will be coming from the signal conditioning op-amps and the signal lines will be coming from the coarse ADC. This will allow each region to have its own signal that has a better analog range while also not compromising the input to the fine ADC. **Figures 21-22** and **Table 10** below present the block diagram, truth table, and logical circuit for the standard 8-to-1 multiplexer (MUX):
 
+![[multiplexer7 1.png]]
+<center> <b>Figure 21</b>: Eight-to-One MUX Block Diagram [14]</center>
+
+<center> <b>Table 10</b>: Eight-to-One MUX Truth Table [14]</center>
+
+| Inputs          |                 |                 | \|  | Output |        |
+| --------------- | --------------- | --------------- | --- | ------ | ------ |
+| *S<sub>2</sub>* | *S<sub>1</sub>* | *S<sub>0</sub>* | \|  | *Y*    | Region |
+| 0               | 0               | 0               | \|  | $A_0$  | 8      |
+| 0               | 0               | 1               | \|  | $A_1$  | 7      |
+| 0               | 1               | 0               | \|  | $A_2$  | 6      |
+| 0               | 1               | 1               | \|  | $A_3$  | 5      |
+| 1               | 0               | 0               | \|  | $A_4$  | 4      |
+| 1               | 0               | 1               | \|  | $A_5$  | 3      |
+| 1               | 1               | 0               | \|  | $A_6$  | 2      |
+| 1               | 1               | 1               | \|  | $A_7$  | 1      |
+
+![[multiplexer9.png]]
+<center> <b>Figure 22</b>: Eight-to-One MUX Logic Diagram [14]</center>
+
+By using this 8-to-1 MUX, the coarse ADC is able to switch which region is being fed into the fine ADC. Due to the simple nature of the MUX, it is able to switch fast enough to keep up with both the period of the CTRL signal and the processing done by the flash ADC. This hopefully will allow a user to  clock the device fast enough to be viable in the real world.
+
+## Part 2: Simulation
+
+### LTSpice Implementation
+
+Much like the previous simulations, the brunt of the work was done through LTSpice once more utilizing the built-in logic functions, op-amps, and NPN transistors. Unlike many of the previous designs, this version was straight-forward and almost follows the ideal model perfectly. However, a few parts had to be addressed due to some limitations with logic gates in LTSpice. Most notably, LTSpice’s OR gates can only output zero for low and one for high. Therefore, a combination of op-amps and NPN transistors were used to switch the input that was controlled by the 8-to-1 MUX’s OR gates. The select bits are driven by the same PWL voltage sources and encoder described in the previous section. The input voltages $\mbox{Reg}_1 \Rightarrow \mbox{Reg}_8$ are chosen between 0 and 5 where the lowest starts at 0 and goes up to 4.5 volts. The op-amps are driven by a 6 volt $V_{cc}$ and are in the non-inverting configuration with a gain of $A = 5$ and are connected to one of each of the OR gate’s outputs. The output of each op-amp is connected to a NPN transistor’s base with the collector being  $\mbox{Reg}_1 \Rightarrow \mbox{Reg}_8$. From there, the emitters from each NPN transistor are shorted together into a single output node that would go towards the fine ADC. The circuit and its waveform output can be seen below in **Figure 23 & 24**:
+
+
+![[Untitled 11.png]]
+<center> <b>Figure 23</b>: Eight-to-One MUX Circuit Diagram </center>
+
+![[8-1 MUX-1.png]]
+<center> <b>Figure 24</b>: Eight-to-One MUX Waveform Diagram </center>
+
+As seen above, it is switching excellently with minimal switching lag only appearing towards the higher values. This is great news, but more testing needs to be done at lower periods values to ensure it is able to switch fast enough for the RC Circuit and the coarse ADC.
+
+### Physical Implementation
+
+Much like the coarse ADC, there are the three main ways of implementing the eight-to-one MUX. A microcontroller with 9 analog pins and 3 digital pins can be used. This would make it so there is no need for the op-amps or transistors towards the end of the circuit like the LTSpice version, but the large amount of pins needed could be troublesome based on the controller that is needed. For example, the Arduino Uno and Nano are out of the question since they only have 5 and 8 analog pins respectively. Alternatively, both the FPGA method and the transistor method would not have to overcome that limitation due to the high amount of look-up tables and the nearly infinite transistor combinations. However, the op-amps and the extra transistors would be necessary for these cases as well.
+
+# Section VI: Conclusions & Future Work
+
+Overall, the progress achieved thus far is promising, suggesting that the project and paper will be completed by the end of the summer. But before covering the final thoughts, lets cover the topics discussed throughout the report:
+- The goal implementation in the form of a block diagram and flowchart.
+- RC Parallel Circuits and their use in collecting photoresistor data by using a switching MOSFET.
+- The CTRL signal and how it can prevent over discharging.
+- Signal conditioning for each region using differential op-amps.
+- Three-bit flash ADCs that are made out of comparators and a special encoder to dictate the region.
+- Eight-to-One MUXs that switch the signal conditioned outputs to the fine ADC depending on the region that the voltage is in.
+
+Almost every part of this process went smooth from the start except the RC parallel circuit. There are still severe dynamic range issues when it comes to how many resistances it is able to cover. However, once the equation for the voltage and resistance thresholds is determined, the process of identifying the dynamic range will be enhanced, potentially clarifying the unusual voltage drop-offs at higher resistances. The signal conditioning, three-bit flash ADC, and eight-to-one MUX designs are very promising; however, and will prove to be useful once the error in the RC circuit is found.
+
+Several goals need to be achieved before the next report. With around half the entire circuit complete, the next few weeks will be focused towards the following goals:
+- Revisit the RC simulation with a better choice of period using *Equation Heart*.
+- Discover the $V_{Region}$ and $R_{Region}$ threshold equations in terms of capacitance, period, and $V_{th}$.
+- Find the new configuration for the differential op-amps based on the discovered equations above.
+- Look into DAC solutions and microcontrollers for simulating the CTRL signal.
+- Choose the best microcontroller for the project.
+- Look into creating the 10-bit ADC with LTSpice and the microcontroller.
+- Find the proper component’s needed for making a breadboard circuit.
+- Start creating the physical circuit based on the simulation results.
+- Find and review newer literature relating to ADCs and APSs.
+
+- - -
 # References
 
 [1] G. Smith, “Types of ADC converters,” Data Acquisition | Test and Measurement Solutions, https://dewesoft.com/blog/types-of-adc-converters
@@ -364,8 +564,11 @@ Much like the signal conditioning op-amps, the three-bit flash ADC reads right o
 [4] K. S. Al-Olimat, _Electric Circuits Analysis_, 3rd ed. Ronkonkoma, NY: Linus Learning, 2020.
 [5] Electrical4U, “RC Circuit Analysis: Series, Parallel, Equations & Transfer Function,” Electrical4U, https://www.electrical4u.com/rc-circuit-analysis/
 [6] A. S. Sedra, K. C. Smith, T. C. Carusone, and V. Gaudet, _Microelectronic Circuits_. Oxford, England: OXFORD UNIV Press US, 2019.
-[7] F. Hassan, “Draft Idea,” Unpublished, https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
+[7] F. Hassan, “Draft Idea,” unpublished, https://drive.google.com/file/d/1SL6p3nZAVlVUhMEyUxYd5MuWDnLYOq69/view
 [8] Analog Devices, “LTspice,” LTspice Information Center, https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
-[9] E. Berei, “Resistor and Voltage Relation,” Unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
+[9] E. Berei, “Resistor and Voltage Relation,” unpublished, https://onu0-my.sharepoint.com/:x:/g/personal/e-berei_onu_edu/EfO_lukxUuxNkC5Za-ohGUIBx1x0umVvIYBsmBBEIx1Zrg?e=aFZt11
 [10] H. Holt, “A Deeper Look into Difference Amplifiers,” Analog Devices, https://www.analog.com/en/resources/analog-dialogue/articles/deeper-look-into-difference-amplifiers.html
-[11] All About Circuits, “Flash ADC: Digital-Analog Conversion,” Digital Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-13/flash-adc/ (accessed Jun. 21, 2024).
+[11] All About Circuits, “Flash ADC: Digital-Analog Conversion,” Digital Circuits, https://www.allaboutcircuits.com/textbook/digital/chpt-13/flash-adc/
+[12] A. Gabriel, “DIY 3bit flash ADC,” Electronoobs, https://electronoobs.com/eng_circuitos_tut15_2.php
+[13] W. Storr, “Priority Encoder and Digital Encoder Tutorial,” Electronics Tutorials, https://www.electronics-tutorials.ws/combination/comb_4.html
+[14] S. Jaiswal, “Multiplexer in Digital Electronics,” Javatpoint, https://www.javatpoint.com/multiplexer-digital-electronics
