@@ -26,7 +26,7 @@ MUX ^H2ejQLJE
 
 10-Bit Fine ADC ^jvB5E81O
 
-Inverted Output ^vgFDLdRo
+Concat. ^vgFDLdRo
 
 3-Bit Coarse ADC ^2rmgwIPl
 
@@ -2325,8 +2325,8 @@ Output
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 1082073260,
+			"version": 173,
+			"versionNonce": 726874099,
 			"isDeleted": false,
 			"id": "vgFDLdRo",
 			"fillStyle": "hachure",
@@ -2335,28 +2335,28 @@ Output
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 345.67917244021726,
-			"y": 30.957914243684456,
+			"x": 365.17917244021726,
+			"y": 50.957914243684456,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 177,
-			"height": 80,
+			"width": 138,
+			"height": 40,
 			"seed": 864424752,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719242661137,
+			"updated": 1719677713605,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.49938370224501,
 			"fontFamily": 3,
-			"text": "Inverted \nOutput",
-			"rawText": "Inverted Output",
-			"baseline": 72,
+			"text": "Concat.",
+			"rawText": "Concat.",
+			"baseline": 32,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "4P2v_rjkih1iyvEPX5ZNK",
-			"originalText": "Inverted Output"
+			"originalText": "Concat."
 		},
 		{
 			"type": "rectangle",
@@ -2967,8 +2967,8 @@ Output
 		},
 		{
 			"type": "arrow",
-			"version": 203,
-			"versionNonce": 1124620701,
+			"version": 211,
+			"versionNonce": 1051574675,
 			"isDeleted": false,
 			"id": "9d1972HkPrtTFmXYilEXy",
 			"fillStyle": "hachure",
@@ -2977,19 +2977,19 @@ Output
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 434.69572973370623,
+			"x": 434.69513731480316,
 			"y": 138.09814139128704,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.2876567413599673,
-			"height": 127.6423234028189,
+			"width": 1.2833962862019348,
+			"height": 127.32687297886409,
 			"seed": 721096748,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1719677358543,
+			"updated": 1719677714354,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3011,8 +3011,8 @@ Output
 					0
 				],
 				[
-					1.2876567413599673,
-					127.6423234028189
+					1.2833962862019348,
+					127.32687297886409
 				]
 			]
 		},
@@ -3358,8 +3358,8 @@ Output
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 847.1255982928733,
-		"scrollY": 705.1187986319227,
+		"scrollX": 865.7922649595398,
+		"scrollY": 686.4521319652555,
 		"zoom": {
 			"value": 0.7500000000000001
 		},
