@@ -16,22 +16,22 @@
             }
           },
           {
-            "id": "929d916a82edbf7b",
+            "id": "a2b47a4c5a398ac6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md"
               }
             }
           },
           {
-            "id": "a2b47a4c5a398ac6",
+            "id": "3faea268bbfc8886",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+                "file": "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+                "file": "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+                "file": "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md"
+                "file": "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md"
               }
             }
           },
@@ -265,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,15 +287,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "929d916a82edbf7b",
+  "active": "a2b47a4c5a398ac6",
   "lastOpenFiles": [
-    "2024-06-29.md",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
+    "2024-06-29.md",
     "2024-06-28.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md",
     "conflict-files-obsidian-git.md",
     "2024-06-24.md",
-    "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
     "General Notes/Untitled 11.png",
     "General Notes/8-1 MUX-1.png",
     "General Notes/Pasted image 20240624154544.png",
