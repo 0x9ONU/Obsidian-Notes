@@ -141,3 +141,19 @@ Features:
 | 1   | 1   | 0   | 1   | 7         |
 | 1   | 1   | 1   | 1   | 8         |
 
+```embed
+title: "ADG1608_1609-1502983.pdf"
+image: "https://www.mouser.com/favicon.ico"
+description: "4.5 Ω RON, 4-/8-Channel"
+url: "https://www.mouser.com/datasheet/2/609/ADG1608_1609-1502983.pdf"
+```
+
+```embed
+title: "76920"
+image: "https://www.digikey.com/maintenance_pages/mobile-robot-2.png"
+description: "px-captcha"
+url: "https://www.digikey.com/en/products/base-product/analog-devices-inc/505/ADG1608/76920"
+```
+
+# Better NMOS
+
