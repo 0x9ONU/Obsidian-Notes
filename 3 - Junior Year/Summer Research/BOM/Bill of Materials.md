@@ -236,3 +236,17 @@ Features:
 
 # Staircase ADC
 
+## MCP4725
+
+Features:
+- 12-Bit Resolution
+- On-Board Nonvolitle Memory (EEPROM)
+- $\pm 0.2$ LSB DNL (typical)
+- External A0 Address PIn
+- Normal or Power-Down Mode
+- Fast Settling Time: $6 \micro s$
+- External Voltage Reference $V_{dd}$
+- Rail-to-Rial Output
+- Low Power Consumption
+- Single supply operation: $2.7V$ to $5.5V$
+- 
