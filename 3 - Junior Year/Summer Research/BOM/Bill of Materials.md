@@ -180,3 +180,9 @@ Features:
 | $I_D$      | Drain Current (DC)                 | $T_S = 80 \degree C$         | -   | 0.85    | A        |
 | $R_{DSon}$ | Drain-Source on-state Resistance   | $V_{GS}=2.5V; I_D = -.5A$    | -   | 0.5     | $\Omega$ |
 | $P_{tot}$  | Total Power Dissipation            | $T_S=80 \degree C$           | -   | 0.5     | W        |
+![[Pasted image 20240701111220.png]]
+
+![[Pasted image 20240701111233.png]]
+
+## Vishay Siliconix Si2328DS
+
