@@ -184,5 +184,55 @@ Features:
 
 ![[Pasted image 20240701111233.png]]
 
+```embed
+title: "1155054"
+image: "https://www.digikey.com/maintenance_pages/mobile-robot-2.png"
+description: "px-captcha"
+url: "https://www.digikey.com/en/products/detail/nexperia-usa-inc/BSH103-215/1155054"
+```
+
 ## Vishay Siliconix Si2328DS
+
+N-Channel 100 V (D-S) MOSFET
+
+Features:
+- 100% $R_G$ and UIS Tested
+- TrenchFET Power MOSFET
+- Compliant to RoHS Directive
+
+![[Pasted image 20240701112518.png]]
+
+![[Pasted image 20240701112526.png]]
+
+![[Pasted image 20240701112532.png]]
+
+![[Pasted image 20240701112606.png]]
+
+```embed
+title: "1656353"
+image: "https://www.digikey.com/maintenance_pages/mobile-robot-2.png"
+description: "px-captcha"
+url: "https://www.digikey.com/en/products/detail/vishay-siliconix/SI2328DS-T1-E3/1656353"
+```
+
+## Onsemi 2N7002
+
+N-Channel Enhancement Mode Field Effect Transistor
+
+![[Pasted image 20240701113332.png]]
+
+Features:
+- High density cell design for Low $R_{DS(on)}
+- Voltage Controlled Small Signal Switch
+- Rugged and Reliable
+- High Saturation Current Capability
+- ESD Protection Level: HBM > 100V, CDM > 2kV
+
+![[Pasted image 20240701113552.png]]
+
+![[Pasted image 20240701113651.png]]
+
+![[Pasted image 20240701113756.png]]
+
+# Staircase ADC
 
