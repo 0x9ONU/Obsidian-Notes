@@ -157,3 +157,26 @@ url: "https://www.digikey.com/en/products/base-product/analog-devices-inc/505/AD
 
 # Better NMOS
 
+## Philips BSH103
+
+N-channel enhancement mode MOS transistor 
+
+Features:
+- Very Low Threshold
+- High-Speed switching
+- No secondary breakdown
+- Direct interface C-MOS, TTL, etc.
+
+![[Pasted image 20240701110006.png]]
+
+**Quick Reference Data**
+
+| Symbol     | Parameters                         | Conditions                   | Min | Max     | Unit     |
+| ---------- | ---------------------------------- | ---------------------------- | --- | ------- | -------- |
+| $V_{DS}$   | Drain-source Voltage (DC)          |                              | -   | 30      | V        |
+| $V_{SD}$   | Source-Drain Diode Forward Voltage | $V_{GD} = 0$, $I_S=0.5A$     | -   | 1       | V        |
+| $V_{GS}$   | Gate-Source Voltage (DC)           |                              | -   | $\pm 8$ | V        |
+| $V_{GSth}$ | Gate-Source Threshold Voltage      | $V_{DS} = V_{GS}$, $I_D=1mA$ | 0.4 | -       | V        |
+| $I_D$      | Drain Current (DC)                 | $T_S = 80 \degree C$         | -   | 0.85    | A        |
+| $R_{DSon}$ | Drain-Source on-state Resistance   | $V_{GS}=2.5V; I_D = -.5A$    | -   | 0.5     | $\Omega$ |
+| $P_{tot}$  | Total Power Dissipation            | $T_S=80 \degree C$           | -   | 0.5     | W        |
