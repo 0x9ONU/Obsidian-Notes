@@ -1,8 +1,12 @@
 
 # Summary
-- Staircase DAC
 - 8-to-1 MUX
 - NMOS Transistor
+- Staircase DAC
+
+```ad-note
+The parts with the $\star$ next to it is what I believe is the best part of our needs. I included the other options just in case an alterative is needed.
+```
 
 # 8-to-1 MUX
 
@@ -233,6 +237,13 @@ Features:
 ![[Pasted image 20240701113651.png]]
 
 ![[Pasted image 20240701113756.png]]
+
+```embed
+title: "nds7002a-d.pdf"
+image: "data:image/jpeg;base64,/9j/7gAOQWRvYmUAZIAAAAAA/9sAQwAGBAQEBQQGBQUGCQYFBgkLCAYGCAsMCgoLCgoMEAwMDAwMDBAMDg8QDw4MExMUFBMTHBsbGxwfHx8fHx8fHx8f/8AACwgALgAtAQERAP/EANIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCxAAAgEDAwIEAgYHAwQCBgJzAQIDEQQABSESMUFRBhNhInGBFDKRoQcVsUIjwVLR4TMWYvAkcoLxJUM0U5KismNzwjVEJ5OjszYXVGR0w9LiCCaDCQoYGYSURUaktFbTVSga8uPzxNTk9GV1hZWltcXV5fVmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9zhIWGh4iJiouMjY6PgpOUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oACAEBAAA/APVORvV/OMNszRWMYuZV2aQmkYPtTdsi175380KxZJo4x/KI1I/4apyrH81NTt5AupWyXMP7Txfu5APGhJU/hnQNG1vTdZs1u9PmEsR2YdGRv5WXscHZF/OmtNbrHp0LcZJxymYdRHWlP9lhdpdjHc2j8FRVjA9WeVuCLXoOhqcJtb0a5tb2K1cpW5K+jIpqhDtxBrSuF155K1Ea/HopliE80RmSb4uHEAk9q/s4QeWvM1z5c1tLtGJtWYR3kXZ460Jp4r1Gd9+tW/1X61zH1fh6nqduFK1+7OWeb75j5qvQx2jKIo8AEH9cMrG6/wCdK1CWvS5QfgmO1+ak/lcfzxwn/hkyRyRJqHmG2v4F+LTHubO7qRUBogyn5VP455+vnHN/mf151f8AS1x/ypj1+R9X6p6PL2rw/wCI4WfmXavZeZ2nIpFexrIjduSjgw/AYK8scdV8o6lpFvPEmotMssccrcOSjj0P+xObzPf2ia75d09J0llsFgiunQ1RX5rty/2OHXlvXbdPOnmSwkmQRSss8LFgFJVQjUNadxnDLuRnlZUHJmYhQOpJOwzuP+HZf+VYnSafvfq3Gn+Xxr/xLD7zn5Xh8w6SbeojuojztZv5Xp0P+S3fOD6na3+l3bWl/E0M6Ho3QjxU9xgF7oUwJNcA7fcMnf5b+QLy9v4tU1CIxwxEPBC4oSezsO3sM7h9Xj+r+jT4KcaYpke82r5Qa0I194Ei7GUVNf8AJoK1+Wcvu9O/J5pSY9VkRa/ZWO7p/wAmzh15XtPyoS5X6nexSXI+z6qSiSvt6qj8M6fYiyEI+qlTH4jBGf/Z"
+description: "Your Feedback is Important to Us!"
+url: "https://www.onsemi.com/download/data-sheet/pdf/nds7002a-d.pdf"
+```
 
 # Staircase ADC
 
