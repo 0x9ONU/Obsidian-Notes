@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-01.md",
+                "file": "2024-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-01.md",
+                "file": "2024-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-01.md"
+                "file": "2024-07-03.md"
               }
             }
           },
@@ -275,7 +275,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -300,11 +301,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "53cc002b14fc4270",
+  "active": "c2399d9da120ec81",
   "lastOpenFiles": [
+    "2024-07-01.md",
     "2024-07-03.md",
     "3 - Junior Year/Summer Research/BOM/Bill of Materials.md",
-    "2024-07-01.md",
     "General Notes/Pasted image 20240701123210.png",
     "General Notes/Pasted image 20240701123150.png",
     "General Notes/Pasted image 20240701123142.png",
