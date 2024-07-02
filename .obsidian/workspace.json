@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Summer Research/BOM/Bill of Materials.md",
+                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Summer Research/BOM/Bill of Materials.md",
+                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Summer Research/BOM/Bill of Materials.md",
+                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Summer Research/BOM/Bill of Materials.md"
+                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md"
               }
             }
           },
@@ -303,9 +303,10 @@
   },
   "active": "a2b47a4c5a398ac6",
   "lastOpenFiles": [
+    "3 - Junior Year/Summer Research/BOM/Bill of Materials.md",
+    "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
     "2024-07-03.md",
     "2024-07-01.md",
-    "3 - Junior Year/Summer Research/BOM/Bill of Materials.md",
     "General Notes/Pasted image 20240701123210.png",
     "General Notes/Pasted image 20240701123150.png",
     "General Notes/Pasted image 20240701123142.png",
