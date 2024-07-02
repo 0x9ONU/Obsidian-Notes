@@ -54,3 +54,4 @@
 # Inverse Relation
 
 $$R=-\frac{T}{2^rC\ln(\frac{V_f}{V_{cc}-rV_{th}})}$$
+ee
