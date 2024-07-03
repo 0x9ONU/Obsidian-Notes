@@ -141,7 +141,7 @@ Typically, the CTRL signal would pulse on and off every time period $T$ to charg
 | $V_{cc} -5V_{th}$ | $\frac{15T}{16} \Rightarrow \frac{31T}{32}$   | $\frac{T}{32}$  |
 | $V_{cc} -6V_{th}$ | $\frac{31T}{32} \Rightarrow \frac{63T}{64}$   | $\frac{T}{64}$  |
 | $V_{cc} -7V_{th}$ | $\frac{63T}{64} \Rightarrow \frac{127T}{128}$ | $\frac{T}{128}$ |
-| $0$               | $\frac{127T}{128} \Rightarrow 2T$             | $\frac{T}{256}$ |
+| $0$               | $\frac{127T}{128} \Rightarrow T$              | $\frac{T}{128}$ |
 ![[Pasted image 20240620114522.png]]
 <center> <b>Figure 6</b>: Example CTRL Signal </center>
 
