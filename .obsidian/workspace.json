@@ -14,30 +14,6 @@
               "type": "weekly",
               "state": {}
             }
-          },
-          {
-            "id": "a2b47a4c5a398ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3faea268bbfc8886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -138,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
+                "file": "2024-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
+                "file": "2024-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md"
+                "file": "2024-07-03.md"
               }
             }
           },
@@ -289,11 +265,14 @@
   },
   "active": "dc72f97e326aacc8",
   "lastOpenFiles": [
-    "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
-    "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
-    "2024-07-03.md",
-    "2024-07-01.md",
     "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
+    "2024-07-07.md",
+    "2024-07-08.md",
+    "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
+    "2024-07-05.md",
+    "2024-07-03.md",
+    "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
+    "2024-07-01.md",
     "3 - Junior Year/Summer Research/BOM/Bill of Materials.md",
     "General Notes/Pasted image 20240701123210.png",
     "General Notes/Pasted image 20240701123150.png",
@@ -309,7 +288,6 @@
     "3 - Junior Year/Summer Research/BOM",
     "2024-06-28.md",
     "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
-    "2024-07-05.md",
     "2024-06-29.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md",
     "conflict-files-obsidian-git.md",
@@ -325,8 +303,6 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "[.md",
     "Daily_Notes/2024-06-21.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
-    "2024-06-20.md",
     "Daily_Notes",
     "Untitled 1.canvas",
     "Untitled.canvas",
