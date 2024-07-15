@@ -14,8 +14,21 @@
               "type": "weekly",
               "state": {}
             }
+          },
+          {
+            "id": "ae774028d070445c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-15.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -263,9 +276,14 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0de4232722e7c526",
+  "active": "ae774028d070445c",
   "lastOpenFiles": [
     "2024-07-15.md",
+    "conflict-files-obsidian-git.md",
+    "General Notes/unnamed.png",
+    "2024-07-19.md",
+    "2024-07-16.md",
+    "2024-07-11.md",
     "2024-07-04.md",
     "2024-07-03.md",
     "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
@@ -286,23 +304,17 @@
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "General Notes/Pasted image 20240701112606.png",
     "General Notes/Pasted image 20240701112532.png",
-    "General Notes/Pasted image 20240701112526.png",
     "3 - Junior Year/Summer Research/BOM",
     "2024-06-28.md",
     "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
     "2024-06-29.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md",
-    "conflict-files-obsidian-git.md",
     "2024-06-24.md",
     "General Notes/select bits.pdf",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "Daily_Notes",
     "Untitled 1.canvas",
     "Untitled.canvas",
