@@ -14,57 +14,8 @@
               "type": "weekly",
               "state": {}
             }
-          },
-          {
-            "id": "6715bef2bf80a00c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67c5e6532cbaf573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30277e4e5b285c17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04f8c127cd9019ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +98,7 @@
       {
         "id": "a7d611c3db60d145",
         "type": "tabs",
-        "dimension": 55.10534846029174,
+        "dimension": 39.37360178970917,
         "children": [
           {
             "id": "cdf31bd7ba117ea7",
@@ -163,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-17.md",
+                "file": "2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,12 +126,24 @@
             }
           },
           {
+            "id": "4c8da16beb0a641d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ca461ce959ef30b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-17.md",
+                "file": "2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-17.md"
+                "file": "2024-07-22.md"
               }
             }
           },
@@ -250,29 +213,17 @@
         ]
       },
       {
-        "id": "6e6e319fe79c6e54",
+        "id": "59818d4f7f252f3e",
         "type": "tabs",
-        "dimension": 44.89465153970826,
+        "dimension": 60.62639821029083,
         "children": [
           {
-            "id": "cd1bb76bba3c1a95",
+            "id": "ddfbdecd2ee695ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c628e45f1959693f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-08.md",
+                "file": "2024-07-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -303,14 +254,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "04f8c127cd9019ee",
+  "active": "ddfbdecd2ee695ce",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "2024-07-17.md",
-    "2024-07-03.md",
-    "2024-07-19.md",
-    "2024-07-16.md",
+    "2024-07-22.md",
     "2024-07-11.md",
+    "2024-07-16.md",
+    "2024-07-19.md",
+    "2024-07-17.md",
+    "conflict-files-obsidian-git.md",
+    "2024-07-03.md",
     "2024-07-15.md",
     "2024-07-08.md",
     "General Notes/unnamed.png",
@@ -332,7 +284,6 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md",
     "General Notes/select bits.pdf",
     "General Notes/select bits-1.png",
     "General Notes/reference voltages-1.png",
