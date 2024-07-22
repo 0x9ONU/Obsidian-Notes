@@ -50,8 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04f8c127cd9019ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-03.md",
+                "file": "2024-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-03.md",
+                "file": "2024-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-03.md"
+                "file": "2024-07-17.md"
               }
             }
           },
@@ -290,13 +303,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "cd1bb76bba3c1a95",
+  "active": "04f8c127cd9019ee",
   "lastOpenFiles": [
+    "2024-07-03.md",
+    "2024-07-17.md",
     "2024-07-19.md",
     "2024-07-16.md",
     "2024-07-11.md",
     "2024-07-15.md",
-    "2024-07-03.md",
     "2024-07-08.md",
     "General Notes/unnamed.png",
     "conflict-files-obsidian-git.md",
@@ -319,7 +333,6 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 5/Electronics - Week 5 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 4/Electronics - Week 4 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 2.md",
     "General Notes/select bits.pdf",
     "General Notes/select bits-1.png",
     "General Notes/reference voltages-1.png",
