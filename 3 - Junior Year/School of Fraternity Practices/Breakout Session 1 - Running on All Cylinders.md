@@ -28,3 +28,9 @@ Get the small things right at the micro level to have macro success
 	- Make the minority have a say
 - Over 600 pages of rules
 	- Based around situations that happened in really life
+
+```ad-note
+title: Good Idea
+Having a standardize booklet for every position with their duties, roles, etc.
+```
+
