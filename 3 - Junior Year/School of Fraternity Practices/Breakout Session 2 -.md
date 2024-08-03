@@ -9,6 +9,11 @@
 - Director of Growth
 - Assistant Director of Admissions at Southern Methodist University
 
+```ad-note
+title: Contacts
+- jermainem@smu.edu
+```
+
 ## Objectives
 
 - Understand the need toc create a positive, open and welcoming culture in your chapter, campus and beyond
@@ -45,4 +50,39 @@ Chapter image is tied greatly to this point. Regardless of how good your chapter
 A good thing to put into a Rush presentation and a good pitch
 ```
 
-## 
+## How Can We Advance Culture…?
+
+### On Campus
+
+- Fraternity Recruitment
+	- Not tokening, but
+- Chapter Dues Structure
+	- Try to talk people who are less fortunate into payment plans or ways to cover dues for  a semester
+- Cross-council Conversations
+	- Having connections to different cultural 
+	- Going to events, socialize, put in service hours through them
+- Important Programming
+- Social Engagement
+- Campus-wide Programming
+	- Go to diverse programming with your chapter 
+- Staff
+- Campus Resources
+- Student Community
+- Community Engagement
+
+### In the Workplace
+
+- Knowledge of Workplace Culture
+- Community
+- HR Practices
+- Knowledge, Data, Resources
+- Echo Chamber
+
+## Putting Theory to Practice
+
+- Examine your beliefs and habits
+- Check your biases
+- Seek out resources
+- Research, Read, Remember
+- Seek to find understanding
+- Lean on community
