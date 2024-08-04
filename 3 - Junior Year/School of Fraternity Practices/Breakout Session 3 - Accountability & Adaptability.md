@@ -23,4 +23,14 @@ title: Contact
 
 ## Accountability
 
+```ad-important
+Be proactive and everyone holds each other accountable
+```
 
+- Give their opinion value as value is acceptance
+- If they know you have value to you and express that, they will feel more accountable when they mess up.
+- If you foster a good culture, you do not want to let each other down.
+	- Tell them the truth and respect them as much as they respect you
+- Don’t let your fear of conflict getting in your way
+- You are going to meet people who have good and bad character
+	- If you want people to become better people and hold them accountable, you have to show them how much you care about them.
