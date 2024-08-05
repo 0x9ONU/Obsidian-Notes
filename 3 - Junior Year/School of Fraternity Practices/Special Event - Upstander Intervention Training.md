@@ -119,17 +119,3 @@ Came up with the fact that some things cannot be prevented, but can be helped
 - Learn from the situation to prevent it from happening again
 	- “Find the good in the bad”
 
-### Drugs & Alcohol
-
-```ad-summary
-title: Situation
-Over-intoxification
-```
-
-**Before**
-- Sober Monitors
-- 
-
-**During**
-
-**After**
