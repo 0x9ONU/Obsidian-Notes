@@ -119,3 +119,45 @@ Came up with the fact that some things cannot be prevented, but can be helped
 - Learn from the situation to prevent it from happening again
 	- “Find the good in the bad”
 
+### Hazing Prevention
+
+**Before**
+- Set expectations
+
+**During**
+- Speak-up and talk about repercussions
+- Get others to help
+
+### Someone who is Passed Out
+
+```ad-summary
+People being intoxicated at events and they blackout
+```
+
+**Before**
+- Prevent BYOB and stop “pre-gaming””
+	- Tell them about House policy, Fraternity policy, law, etc.
+
+**During**
+- Protect the person with people who are trusted
+- Assess the situation
+	- If they will be okay, get them home
+	- If not, call 911 (poisoning)
+- Prevent strangers from being in the same room as her
+
+**After**
+- Communication should always be streamlined 
+
+### Fire & Life Safety
+
+```ad-summary
+title: Scenario
+A fire breaks out
+```
+
+**Before**
+- Check fire alarms
+
+**During**
+- Call 911
+- 
