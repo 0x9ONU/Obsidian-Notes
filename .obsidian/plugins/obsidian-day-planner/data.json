@@ -31,6 +31,16 @@
       "name": "Theta Chi",
       "url": "https://calendar.google.com/calendar/ical/c_77daa0d703ae19233074fb28e5012de8bc1586f2d964ff1e0f3b0b4ea539af58%40group.calendar.google.com/private-336a95f3ea3dc73e79cd81ddf98306dd/basic.ics",
       "color": "#ff0000"
+    },
+    {
+      "name": "F",
+      "url": "https://calendar.google.com/calendar/ical/c_a11be318bcbd6b00b5bb7f3ca7142cf716aae350c5261987f7e8daf03cb31b34%40group.calendar.google.com/private-23647fe7630f79ecc92107d04ace4bd7/basic.ics",
+      "color": "#0091ff"
+    },
+    {
+      "name": "",
+      "url": "",
+      "color": "#ffffff"
     }
   ],
   "colorOverrides": [],
