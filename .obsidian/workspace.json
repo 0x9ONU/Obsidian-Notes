@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
+                "file": "2024-08-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
+                "file": "2024-08-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,12 +267,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f6c53abd00c9937c",
+  "active": "d93e0df971dbf562",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
     "General Notes/Pasted image 20240826094957.png",
     "General Notes/images.png",
     "2024-08-26.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
     "General Notes/Screen Shot 2017-06-18 at 4.19.22 PM.png",
     "General Notes/Networks - Week 1 Day 1 2024-08-26 09.41.28.excalidraw.md",
     "General Notes/Networks - Week 1 Day 1 2024-08-26 09.39.24.excalidraw.md",
@@ -313,7 +313,6 @@
     "General Notes/multiplexer9.png",
     "General Notes/multiplexer7.png",
     "General Notes/multiplexer7 1.png",
-    "General Notes/comparator output-1.png",
-    "General Notes/Untitled 9.png"
+    "General Notes/comparator output-1.png"
   ]
 }
