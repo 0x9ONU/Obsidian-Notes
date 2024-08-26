@@ -7,9 +7,18 @@ File Folder: Week 1
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Syllabus
 
 ```
+
+# Syllabus
+
+## Grading
+1. Homework - *15%*
+2. Midterm Exam - *15%*
+3. Final Exam - *20%*
+4. Research presentations - *20%*
+5. Research reports - *20%*
+6. Projects *10%*
+
 
