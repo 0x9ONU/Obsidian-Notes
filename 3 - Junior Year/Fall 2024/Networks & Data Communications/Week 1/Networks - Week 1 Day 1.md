@@ -99,3 +99,29 @@ The part of a network where packet collision can occur
 - When a host is sending and receiving a packet *at the same time*
 - When two devices send a packet at the same time on the shared network segment. The packets collide and both devices must send the packets again, which reduces network efficiency.
 
+## Network Components
+
+### Hub
+
+Connects two or more end systems together!
+- Network is called a *Local Area Network*
+- Typically used in Small Office HOme Office Network
+
+```ad-warning
+Only contains *ONE* collison domain and *ONE* broadcast domain
+```
+
+![[General Notes/images.png]]
+
+### Switch
+
+Switches take packets arriving on one of its incoming communication links and forwards that packet on one of its outgoing communication links.
+
+```ad-important
+Breaks up collison domains!
+```
+
+The network is still just one *broadcast domain*, each of the ports have a collision domain.
+
+![[Pasted image 20240826094957.png]]
+
