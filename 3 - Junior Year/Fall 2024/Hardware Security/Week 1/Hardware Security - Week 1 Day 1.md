@@ -21,6 +21,10 @@ collapse: open
 5. Research reports - *20%*
 6. Projects *10%*
 
+## Homework
+
+Due at the beginning of class on Monday physically
+
 ## Course Outline
 
 1. Introduction to Hardware Security (Chapter 1)
