@@ -121,7 +121,27 @@ Switches take packets arriving on one of its incoming communication links and fo
 Breaks up collison domains!
 ```
 
-The network is still just one *broadcast domain*, each of the ports have a collision domain.
+The network is still just one *broadcast domain*, each of the links (ports) have a collision domain.
 
 ![[Pasted image 20240826094957.png]]
+
+![[f03-01-9780123850591.png]]
+
+```ad-example
+In the image above, there are *seven* collision domains
+```
+
+## Hub & Switch Differences
+
+When you have multiple hosts connect to a *hub*, if one host sends data, it replicates the data to **ALL** outgoing ports.
+
+However, when there is multiple hosts connected to a *switch*, a host can **choose** which destination host it forwards the packets to.
+
+```ad-note
+If a *switch* recieves any broadcast packets, it will forward it to all devices. This makes it a *one broadcast domain*.
+```
+
+```ad-warning
+These questions are on the exam
+```
 
