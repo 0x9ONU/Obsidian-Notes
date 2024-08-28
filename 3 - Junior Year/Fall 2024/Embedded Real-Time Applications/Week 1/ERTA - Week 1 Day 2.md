@@ -88,3 +88,105 @@ Registers are the super fast storage in a CPU
 Typically placed on the CPU die
 ```
 
+### Registers for ARM ISA
+
+**General Purpose**: R0 through R12: 32-bit
+
+**Special Registers**:
+- R13: *Stack register (SP)* holds address of the top of the stack. This can be either:
+	- Main stack pointer (MSP)
+	- Process stack pointer (SPS)
+- R14: *Link Register* holds return address for subroutines (used for functions)
+- R15: *Program Counter* holds the address of the next instruction to execute 
+
+![[main-qimg-e4cb791cf3f72d20bf6d11d9b950ce4a.png]]
+
+![[ERTA - Week 1 Day 2 2024-08-28 13.29.32.excalidraw]]
+
+#### Program Status Register
+
+The PSR controls and reflects that state of the processor. It contains **three** registers:
+
+1. Application Program Status Register (APSR)
+2. The Interrupt Program Status Register (IPSR)
+3. The Execution Program Status Register (EPSR)
+
+![[3-s2.0-B9780128207352000044-f04-07-9780128207352.jpg]]
+
+##### APSR
+
+The `N`, `Z`, `V`, `C`, and `Q` bits give informaiton about the reuslt of a previous ALU operaiton.
+
+| Code | Bits     | Indicates          |
+| ---- | -------- | ------------------ |
+| N    | negative | Reuslt is negative |
+| Z    | zero     |                    |
+
+#comebacklater 
+
+##### IPSR
+
+Holds the number for which interrupt was being handled by the interrupt service routine. 
+
+##### EPSR
+
+```ad-note
+Out of the scope of this class
+```
+
+#### Other Special Registers
+
+**PRIMASK**: Allows or disallows interrupts
+- Contains other features as well
+
+**FAULTMASK**: Allows or disallows faults and interrupts
+
+**BASEPRI**: The priority of executing software
+- Lower the number: the higher the priority
+
+
+### Memory Mapping
+
+Every ISA has a different amounts of memory:
+- Amount of RAM
+- Amount of ROM
+- Amount of I/O
+
+To the programmer, this memory appears as a continuous block of memory to pull from.
+
+```ad-important
+Each ISA must map physical memory to this virtual memory
+```
+
+![[Pasted image 20240828134018.png]]
+
+#### Memory Array Architecture
+
+**Input**: an address $0$ through $n$
+
+**Output:** A number between $0$ and $2^m$
+
+![[Pasted image 20240828134257.png]]
+
+#### Big-endian versus Little-Endian
+
+```ad-question
+Let's say we have a number with 4 bytes. How do we physically arrang ethis number into memory?
+```
+
+`0x0A0B0C0D` $\rightarrow$ \[ \] \[\ ] \[ \] \[ \]
+
+**Option-One**: *Big endian*
+- We put he most significant digit (biggest) in first
+
+**Option-Two**: *Little endian*
+- WE put the least significant digit in first
+
+![[Pasted image 20240828134608.png]]
+
+```ad-note
+ARM Cortex uses *little* endian
+```
+
+
+
