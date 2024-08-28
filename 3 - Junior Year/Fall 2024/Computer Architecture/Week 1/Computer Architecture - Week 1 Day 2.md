@@ -38,25 +38,25 @@ Adopted by a lot of researchers, and has been started to be taken up by companie
 ```
 
 ```ad-important
-title: The Four Principle of Designing Architectures
+title: The Four Principle of Designing the RISC Architecture
 1. Simplicity favors regularity
 2. Make the common case fast
 3. Smaller is faster
 4. Good design demands good compromises
 ```
 
-### Design Principle 1 - 
+### Design Principle 1 - Simplicity Favors Regularity
 
 #comebacklater 
 
-### Design Principle 2
+### Design Principle 2 - Make the Common Case Fast
 - RISC-V includes only simple, commonly used instructions
 - Hardware to decoe and execute instructions can be simple, small, and fast
 - More complex instructions (that are less common) performed using multiple simple instructions
 - RISC-V has a small number of simple instructions
 - Other architectures, such as Intel’s x86, are complex instructions et computers (CISC)
 
-### Design Principle 3
+### Design Principle 3 - Smaller is Faster
 
 - RISC-V includes only a small number of registers
 

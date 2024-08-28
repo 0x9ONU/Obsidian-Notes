@@ -16,19 +16,31 @@
             }
           },
           {
+            "id": "3a761eb3f4d27e25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9e5bd2948e2f4264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 1/Computer Architecture - Week 1 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 1/Computer Architecture - Week 1 Day 2.md",
+                "file": "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.23.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 1/Computer Architecture - Week 1 Day 2.md",
+                "file": "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.23.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 1/Computer Architecture - Week 1 Day 2.md"
+                "file": "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.23.39.excalidraw.md"
               }
             }
           }
@@ -290,11 +302,59 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "9e5bd2948e2f4264",
+  "floating": {
+    "id": "1284680c32a0f891",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b4d84e846e7d419e",
+        "type": "window",
+        "children": [
+          {
+            "id": "824ab07d0d21f70d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9ee6cea6220bc80a",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.23.39.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9ee6cea6220bc80a",
   "lastOpenFiles": [
-    "General Notes/Computer Architecture - Week 1 Day 2 2024-08-28 11.17.16.excalidraw.md",
+    "General Notes/Pasted Image 20240828132359_823.png",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 2.md",
+    "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.23.39.excalidraw.md",
+    "General Notes/main-qimg-35bc81c7a3ceab77511e03125d56898e.webp",
+    "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.14.58.excalidraw.md",
+    "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.13.56.excalidraw.md",
+    "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.11.57.excalidraw.md",
+    "General Notes/Pasted Image 20240828131215_298.png",
+    "General Notes/Pasted image 20240828131140.png",
+    "General Notes/images 1.png",
+    "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.04.19.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 1/Computer Architecture - Week 1 Day 2.md",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "2024-08-28.md",
+    "General Notes/Computer Architecture - Week 1 Day 2 2024-08-28 11.17.16.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 1/Computer Architecture - Week 1 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2.md",
     "General Notes/Pasted image 20240828101247.png",
@@ -305,15 +365,10 @@
     "General Notes/Pasted Image 20240828092727_042.png",
     "General Notes/Pasted image 20240828092652.png",
     "General Notes/Pasted image 20240828092452.png",
-    "General Notes/pict--network-diagram-communication-network-diagram.png--diagram-flowchart-example.png",
     "2024-08-27.md",
     "2024-08-26.md",
-    "General Notes/f03-01-9780123850591.png",
-    "General Notes/2f45813cc9d5e1ed39863971b1bdc22769b06e17.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 1.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 1",
-    "General Notes/4-5.webp",
     "General Notes/ERTA - Week 1 Day 1 2024-08-26 13.28.56.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 1",
@@ -329,14 +384,6 @@
     "conflict-files-obsidian-git.md",
     "Templates/Hardware Security/Hardware Security Template.md",
     "Templates/Hardware Security",
-    "Templates/Embedded Real-Time Applications/Embedded Real-Time Applications Template.md",
-    "Templates/Computer Architecture/Computer Architecture Template.md",
-    "3 - Junior Year/School of Fraternity Practices/Special Event - Upstander Intervention Training.md",
-    "3 - Junior Year/School of Fraternity Practices/Breakout Session 1 - Running on All Cylinders.md",
-    "3 - Junior Year/School of Fraternity Practices/Breakout Session 2 -.md",
-    "3 - Junior Year/School of Fraternity Practices/Breakout Session 3 - Accountability & Adaptability.md",
-    "3 - Junior Year/School of Fraternity Practices/Breakout Session 4 - Leadership in 2024.md",
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 3/Electronics - Week 3 Day 3.md"
+    "Templates/Embedded Real-Time Applications/Embedded Real-Time Applications Template.md"
   ]
 }
