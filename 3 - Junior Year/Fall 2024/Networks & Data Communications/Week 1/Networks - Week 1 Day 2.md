@@ -5,9 +5,8 @@ File Folder: Week 1
 
 ```ad-summary
 title: Today's Topics
-- Topic 1
-- Topic 2
-- Topic 3
+- Internetwork Design
+- IP Addressing
 ```
 
 # Internetwork Design
@@ -131,6 +130,4 @@ How are interfaces actually connected?
 ```ad-note
 A subnet mask is used to conceal your IP
 ```
-
-
 
