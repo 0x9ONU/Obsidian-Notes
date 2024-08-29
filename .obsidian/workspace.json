@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "1a716caadcf42d07",
+            "id": "5e2fa96f2ca6009d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Chapter One Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Chapter One Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Chapter One Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 2.md"
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Chapter One Reading.md"
               }
             }
           }
@@ -283,7 +283,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,8 +340,10 @@
       }
     ]
   },
-  "active": "1a716caadcf42d07",
+  "active": "111c18cc095349af",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Chapter One Reading.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 2.md",
     "General Notes/Pasted image 20240828144634.png",
     "General Notes/Pasted image 20240828144601.png",
     "General Notes/Pasted image 20240828143514.png",
@@ -354,11 +357,9 @@
     "2024-08-27.md",
     "2024-08-26.md",
     "2024-09-04.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 2.md",
     "General Notes/Pasted image 20240828134608.png",
-    "General Notes/image-asset.png",
     "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.43.44.excalidraw.md",
     "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.29.32.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 1.md",
