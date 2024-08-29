@@ -13,6 +13,9 @@ collapse: open
 
 # Syllabus
 
+## Office Hours
+MWF 1pm
+
 ## Grading
 1. Homework - *15%*
 2. Midterm Exam - *15%*
