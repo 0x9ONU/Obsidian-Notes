@@ -30,5 +30,17 @@ It considers the following:
 ![[Pasted image 20240829183845.png]]
 
 ```ad-note
-Not to be confused with
+Not to be confused with *software security* that focuses on:
+- Exploitng different impolemantion bugs
+- Techniques to ensure reliable software operation in presence of potential secuirty risks
 ```
+
+This book will cover hardware and system security relating to:
+- Embedded systems
+- Cyber-physical systems (CPS)
+- Internet of Thing (IoT)
+- Biomedical systems
+
+## 1.1 - Overview of a Computing System
+
+Memory for information storage, processors for information processing, and I/O for interfacitg with human suers or other systems 
