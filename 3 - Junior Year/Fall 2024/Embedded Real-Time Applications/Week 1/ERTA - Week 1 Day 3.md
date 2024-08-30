@@ -68,3 +68,33 @@ done
 
 ## In-Class Exercise:
 
+Make a for loop in C++ *without* using the `for` command
+
+```c++
+#include <iostream>
+
+  
+
+using namespace std;
+
+  
+
+int main() {
+
+    int i = 0;
+
+start_of_loop:
+
+    cout << "microcontrollerz rule" << endl;
+
+    i++;
+
+    if (i <= 3) goto start_of_loop;
+
+}
+```
+
+```ad-note
+This is basically how to write it in assembly
+```
+
