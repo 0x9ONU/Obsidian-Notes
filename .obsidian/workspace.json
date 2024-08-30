@@ -21,24 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 3.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1c199383547eb9c2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "General Notes/ERTA - Week 1 Day 3 2024-08-30 13.15.41.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes/ERTA - Week 1 Day 3 2024-08-30 13.15.41.excalidraw.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes/ERTA - Week 1 Day 3 2024-08-30 13.15.41.excalidraw.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/ERTA - Week 1 Day 3 2024-08-30 13.15.41.excalidraw.md"
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 3.md"
               }
             }
           }
@@ -315,10 +305,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1c199383547eb9c2",
+  "active": "b805ee2987db1797",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 3.md",
     "General Notes/ERTA - Week 1 Day 3 2024-08-30 13.15.41.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 2.md",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 1/Computer Architecture - Week 1 Day 2.md",
