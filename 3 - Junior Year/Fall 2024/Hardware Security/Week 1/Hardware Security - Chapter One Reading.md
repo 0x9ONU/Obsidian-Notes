@@ -161,4 +161,9 @@ An IC will go through various steps in its life cycle:
 - Physical layout
 - Fabrication
 - Testing ICs
-	- Design-for-test (DFT) and Design-for-debug (DFD) is often used to help create 
+	- Design-for-test (DFT) and Design-for-debug (DFD) is often used to help create a pathway for fast debugging and testing
+	- However, this might allow direct access to read/write control on a processor through these interfaces
+- Distribution
+
+### 1.4.2 - What Security Issues Result from Untrusted Entities?
+
