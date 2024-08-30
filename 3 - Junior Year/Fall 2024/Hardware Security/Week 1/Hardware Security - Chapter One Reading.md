@@ -167,3 +167,9 @@ An IC will go through various steps in its life cycle:
 
 ### 1.4.2 - What Security Issues Result from Untrusted Entities?
 
+Since supply changes have happened to become more diverse both literally and physically, some concerns have been made that third-party IP vendors can insert malicious designs or components onto a board, or steal an IP.
+
+![[Pasted image 20240830151222.png]]
+
+## 1.5 - Attacks, Vulnerabilities, and Countermeasures
+
