@@ -155,3 +155,10 @@ An untrusted IP vendor can include malicious implants into a design, which can l
 
 ![[Pasted image 20240830141953.png]]
 
+An IC will go through various steps in its life cycle:
+- Design house (Specifications)
+- Design and verification steps (HDL)
+- Physical layout
+- Fabrication
+- Testing ICs
+- 
