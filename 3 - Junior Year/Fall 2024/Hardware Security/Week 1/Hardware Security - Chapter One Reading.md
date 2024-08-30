@@ -188,4 +188,99 @@ Since supply changes have happened to become more diverse both literally and phy
 
 ### 1.5.2 Attack Surface
 
+**Attack Surface**: The sum of all possible security risk exposures. It is an aggregate of:
+- Known, unknown, and potential vulnerabilities
+- Controls across all hardware, software, and network components.
+
+![[Pasted image 20240830153756.png]]
+
+#### Chip Level Attacks
+
+Chips can be targeted with the following attacks:
+- Reverse engineering
+- Cloning
+- Malicious insertion
+- Side-channel attacks
+- Piracy
+
+```ad-note
+Fake chips are often sold as original units and replicate the appearance and/or the functionality of the chip.
+```
+
+Trojan-infected chips can get into the supply chain, which can cause unauthorized access or malfunction.
+
+Side-channel attacks try to find secret information stored inside of a chip
+
+#### PCB-Level Attacks
+
+```ad-note
+A much more common target then ICs, since they are easier to tamper with and reverse engineer
+```
+
+Signal processing and optical inspection is often enough to get most the information off of modern PCBs.
+
+Attackers may also physically tamper with a PCB to either leak information or bypass DRM.
+
+#### System-Level Attacks
+
+Target the interaction between hardware and software mounted on the system. Directly target the most vulnerable part in a system, such as DFT infrastructure.
+
+### 1.5.3 - Security Model
+
+A security model should have *two* key components:
+1. *Threat Model*: describes the treats including the purpose and mechanism of the attack
+2. *Trust Model*: The trusted parties and components
+
+### 1.5.4 - Vulnerabilities
+
+```ad-summary
+title: Definition
+Weaknesses in hardware architecture, implementation, or design/test process, which can be exploited by an attacker to mount an attack.
+```
+
+**Functional Bug**: Most common vulnerability caused by bugs and poor design/testing practices
+- Weak cryptographic hardware implementation
+- inadequate protection of assets in an SoC
+
+**Side-Channel Bug**: Implementation-level issues that leak critical information stored inside a hardware component.
+- The strongest versions rely on statistical methods to analyze the measured traces of the parameters
+
+**Test/Debug Infrastructure**: Most hardware systems have debug modes that can also be misused by attackers to get sensitive information or unwanted control of a system
+
+**Access control or information-flow issues:** A system might misinterpret an authorized user to have permissions. This can lead to secret assets and functionality revealed to an attacker.
+
+### 1.5.5 - Countermeasures
+
+![[Pasted image 20240830162016.png]]
+
+## 1.6 - Conflict Between Security and Test/Debug
+
+Placing security on SoC’s test/debug areas may lead to it being more difficult to effectively debug a chip, which is a critical step in its life cycle.
+
+```ad-warning
+Current industrial practice makes it difficult to add any security to the debug pathways.
+```
+
+## 1.7 - Evolution of Hardware Security: A Brief Historical Perspective
+
+![[Pasted image 20240830162619.png]]
+
+**Timing Attacks- 1996:** An attack which aims to extract information from cryptographic hardware on the basis of systematic analysis.
+
+**Fault Injection - 1997**: Focuses on applying environmental stress to a system to force it to leak data.
+
+**Power Analysis Attacks - 1999**: Focused on analyzing the power dissipations at runtime to retrieve secrets from a cryptochip.
+
+**Hardware Tagging - 1998**: Every IC instance was assigned with a unique ID.
+
+**Early 2000s**: physical unclonable functions (PUFs) and true random number generators (TRNG) were introduced
+
+**Counterfeit ICs - 2005:** First reports of cloned and recycled chips
+
+**Trojans - 2007**: Possibility of inserting malicious circuits in a hardware design to disrupt/change normal behavior. 
+
+**DARPA ISIS Program - 2008**: Created by the US DoD to develop techniques for hardware integrity and reliability through destructive and nondestructive analysis
+
+**Counterfeits in the US Air Force - 2012**: Over 1 million counterfeit devices were found, which ended in an amendment that enforces counterfeit-avoidance practices.
+
 
