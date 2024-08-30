@@ -26,9 +26,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58505ce01c7ade59",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,15 +273,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-day-planner:Timeline": false,
-      "periodic-notes:Open today": false
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c22ff11f0b842655",
+  "active": "58505ce01c7ade59",
   "lastOpenFiles": [
-    "2024-08-30.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Chapter One Reading.md",
+    "2024-08-28.md",
     "2024-08-29.md",
+    "2024-08-30.md",
     "General Notes/Pasted image 20240830141953.png",
     "General Notes/Pasted image 20240830140934.png",
     "General Notes/Pasted image 20240830140931.png",
@@ -298,7 +307,6 @@
     "General Notes/Networks - Week 1 Day 2 2024-08-30 09.04.40.excalidraw.md",
     "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.23.39.excalidraw.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 2.md",
-    "2024-08-28.md",
     "2024-08-27.md",
     "2024-08-26.md",
     "2024-09-04.md",

@@ -161,4 +161,4 @@ An IC will go through various steps in its life cycle:
 - Physical layout
 - Fabrication
 - Testing ICs
-- 
+	- Design-for-test (DFT) and Design-for-debug (DFD) is often used to help create 
