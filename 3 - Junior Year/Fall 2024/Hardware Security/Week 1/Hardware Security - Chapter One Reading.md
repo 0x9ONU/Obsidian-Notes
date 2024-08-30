@@ -173,3 +173,19 @@ Since supply changes have happened to become more diverse both literally and phy
 
 ## 1.5 - Attacks, Vulnerabilities, and Countermeasures
 
+### 1.5.1 Attack Vectors
+
+**Attack Vectors**: The means or paths for bad actors (attackers) to get access to hardware components for malicious purposes.
+- Enable an attackers to exploit implementation level issues
+- Take advantage of lack of control on hardware production cycle
+
+```ad-example
+- Side-CHannel Attacks
+- Trojan attacks
+- IP piracy
+- PCB tampering
+```
+
+### 1.5.2 Attack Surface
+
+
