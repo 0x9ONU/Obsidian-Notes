@@ -111,6 +111,10 @@ These DNS names are assigned by a DHCP, often runs on a Router
 
 **IP Address:** 32 bits long, used to identify host, and router *interface*
 
+```ad-note
+Broken up into four 8-bit segments separated by a period per number. These numbers have a minimum of `0` and a maximum of `255`
+```
+
 **Interface:** Connection between host/router and physical link
 - Router’s typically have multiple interfaces
 - Host typically has one or two interfaces (wired Ethernet, or wireless 802.11)
@@ -119,7 +123,15 @@ These DNS names are assigned by a DHCP, often runs on a Router
 - There are 4 billion possible IP addresses
 - IP address is written in dotted-decimal notation
 
-![[Pasted image 20240828094235.png]]
+![[Networks - Week 1 Day 2 2024-08-30 09.04.40.excalidraw]]
+
+```ad-note
+There are two different networks that have different netowrk addresses
+```
+
+```ad-important
+There *MUST* be a router between two different networks to make them connected. Only a router, **NOT** a switch, has the capability to route traffic to multiple different networks.
+```
 
 ```ad-question
 How are interfaces actually connected?
@@ -130,4 +142,47 @@ How are interfaces actually connected?
 ```ad-note
 A subnet mask is used to conceal your IP
 ```
+
+## What Do You Need to Use the Internet Protocol?
+
+```ad-important
+Your IP consists of a netowrk address **AND** a host address 
+```
+
+**IP Address**: Explained before
+
+**Subnet Mask**: A 32-bit number that masks and IP address. It divides the IP address into network address and host address. Subnet Mask is made by setting network bits to all 1’s and setting host bits to all 0’s. When logical AND operation is performed between IP address and Subnet mask, it returns Network Address.
+
+**Default Gateway**: A default gateway serves as an access point or IP router that a networked computer uses to send information to a computer in another network or the Internet. Basically, it is the IP address of the router interface for the connected network.
+
+**Broadcast Address**: The address used by applications and hosts to send information to all nodes on a network is called the broadcast address. When all bits in host address are set to “1”, then it becomes Broadcast address for that particular network.
+
+### Subnet Mask Examples
+
+#### Example #1 
+
+IP = $223.1.1.1$
+Subnet = $255.255.255.0$
+
+IP<sub>B</sub> = $11011111.00000001.00000001.00000001.00000001$
+SM<sub>B</sub> = $11111111.11111111.11111111.00000000$
+
+```ad-important
+Take the logical AND of every bit
+```
+
+Network<sub>B</sub> =$11011111.00000001.00000001.00000000$
+Network = $223.1.1.0$
+
+#### Example #2
+
+IP = $192.168.16.27$
+Subnet = $255.255.248.0$
+
+IP<sub>B</sub> = $11000000.10101000.00010000.00011011$
+SM<sub>B</sub> = $11111111.11111111.11111000.00000000$
+
+Network<sub>B</sub> = $11000000.10101000.000100000.00000000$
+Network = $192.168.16.0$
+
 
