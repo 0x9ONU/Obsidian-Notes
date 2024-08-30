@@ -121,11 +121,37 @@ However, over the past three decades, many attacks have been reported to be caus
   
 ```ad-example
 - Hardware Trojan attacks
-- Kill switch on devie
+- Kill switch on device
 - Side-channel attacks
 ``` 
 
 **Side-Channel attacks**: Secret information about a chip can be extracted through measurement and analysis of side-channels
 - Can include power, signal propagation delay, and electromagnetic emission.
 - Can lead to IP piracy, counterfeiting, probe attacks on the ICs, physical tampering of traces, bus snooping, access to privileged resources.
+
+**Software Stack**:
+- Hardware must be designed, implemented, and validated properly to ensure that the software stack is secure and reliable
+- Deals with Trusted execution environments (TEEs) that protect code and data of an application from other untrusted applications using confidentiality, integrity, and availability.
+- Also deals with the protection of security-critical assets on an SoC through realization and security policies.
+
+![[Pasted image 20240830140934.png]]
+
+## 1.4 - Hardware Security vs. Hardware Trust
+
+Unlike hardware security issues, *hardware trust* issues arise from untrusted entities in the life cycle of the hardware.
+- Untrusted IP or CAD tool vendors
+- Design
+- Fabrication
+- Test
+- Distribution
+
+They are able to violate the trustworthiness of a hardware component or system.
+
+```ad-example
+An untrusted IP vendor can include malicious implants into a design, which can lead to DoS, or information leakage attacks during operation.
+```
+
+### 1.4.1 - What Causes Hardware Trust Issues?
+
+![[Pasted image 20240830141953.png]]
 
