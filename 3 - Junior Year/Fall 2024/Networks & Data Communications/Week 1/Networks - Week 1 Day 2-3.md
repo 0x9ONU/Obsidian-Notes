@@ -131,6 +131,7 @@ There are two different networks that have different netowrk addresses
 
 ```ad-important
 There *MUST* be a router between two different networks to make them connected. Only a router, **NOT** a switch, has the capability to route traffic to multiple different networks.
+- Always the default gateway of a network
 ```
 
 ```ad-question
@@ -153,9 +154,32 @@ Your IP consists of a netowrk address **AND** a host address
 
 **Subnet Mask**: A 32-bit number that masks and IP address. It divides the IP address into network address and host address. Subnet Mask is made by setting network bits to all 1’s and setting host bits to all 0’s. When logical AND operation is performed between IP address and Subnet mask, it returns Network Address.
 
+```ad-important
+A subnet mask **MUST** have consecutive ones in a row. If this pattern is not followed, then something must not be right.
+$$\space$$
+How many ones in a row determines how many bits are in the subnet mask. With this, you can simplify IP addresses.
+```
+
+$223.1.1.21$ + $255.255.255.0$ $\Rightarrow$ $223.1.1.1/24$
+$192.168.16.27$ + $255.255.248.0$ $\Rightarrow$ $192.168.16.27/21$
+
 **Default Gateway**: A default gateway serves as an access point or IP router that a networked computer uses to send information to a computer in another network or the Internet. Basically, it is the IP address of the router interface for the connected network.
 
 **Broadcast Address**: The address used by applications and hosts to send information to all nodes on a network is called the broadcast address. When all bits in host address are set to “1”, then it becomes Broadcast address for that particular network.
+
+```ad-example
+$223.1.1.1 \Rightarrow 223.1.1.255$
+$192.168.16.27$
+$[192.168.000][01000.00000000]$ <- Right side is the network side, and left side is the host side
+$192.168.00011111.11111111$
+$192.168.31.255$
+```
+
+```ad-note
+After considering the broadcast address and the network address, there are *TWO* less IPs that can be used on a network.
+- 254 hosts for a 24 bit subnet mask
+- 2048 hosts for a 21 bit subnet mask
+```
 
 ### Subnet Mask Examples
 
@@ -185,4 +209,9 @@ SM<sub>B</sub> = $11111111.11111111.11111000.00000000$
 Network<sub>B</sub> = $11000000.10101000.000100000.00000000$
 Network = $192.168.16.0$
 
+## Classful Addressing
+
+![[Networks - Week 1 Day 2-3 2024-08-30 09.47.07.excalidraw]]
+
+![[Pasted image 20240830094837.png]]
 
