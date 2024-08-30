@@ -72,29 +72,36 @@ Make a for loop in C++ *without* using the `for` command
 
 ```c++
 #include <iostream>
-
-  
-
 using namespace std;
-
-  
-
 int main() {
-
     int i = 0;
-
 start_of_loop:
-
     cout << "microcontrollerz rule" << endl;
-
     i++;
-
     if (i <= 3) goto start_of_loop;
-
 }
 ```
 
 ```ad-note
 This is basically how to write it in assembly
 ```
+
+## Example Cortex-M Assembly Commands
+
+Memory Access Instructions
+- `STR Rt, [Rn]`: Store `Rt` to memory at `[Rn]`
+- `LDR Rd, [Rn, #n]`: Load memory at `[Rn + n]` to `Rd`
+- `STR Rt, [Rn, #n]`: Store `Rt` to memory `[Rn+n]`
+- `MOV R1, R2`: Move data from `R2` to `R1`
+
+Arithmetic/Logical Instructions:
+- `ADD, SUB, MUL, DIV, ORR, AND`, etc.
+
+Branch or Control Instructions
+- `B`: branch (i.e., go to) to label
+- `BEQ` branch (i.e., go to) to label if two arguments are equal
+- `BNE` branch (i.e., go to) label if two arguments are *not* equal
+- `BX` branch (i.e., go to)
+
+## Assembly Documentation Notation
 
