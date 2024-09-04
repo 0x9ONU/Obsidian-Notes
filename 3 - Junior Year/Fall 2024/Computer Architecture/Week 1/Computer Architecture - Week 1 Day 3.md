@@ -225,3 +225,39 @@ addi s0, s0, 0xEAD
 *Num 2* $\Rightarrow$ `FFFFFEAD`
 *Final* $\Rightarrow\space \space$ `6D67B6AD` $\checkmark$
 
+#### Example - Another Third Hex Begins
+
+```ad-question
+Prove the following assembly does not work as intended. Fix the following assembly to make it correct:
+```
+
+```
+lui s1, 0xABC7F
+Addi S1, S1, 0xA43
+```
+*Num 1* $\Rightarrow$ `ABC7F000`
+*Num 2* $\Rightarrow$ `FFFFFA43`
+
+```ad-note
+The 7F would become `01111111`, which will carry through the 1s from the other hex and mess up the final number
+```
+
+```ad-check
+title: Solution
+```
+
+```
+lui s1, 0xABC80
+Addi s1, s1, 0xA43
+```
+*Num 1* $\Rightarrow$ `ABC78000`
+*Num 2* $\Rightarrow$ `FFFFFA43`
+
+```ad-note
+When `F` is added to `8` in the 4th bit, it creates an F with a carry forward 1, which cancels out the rest of the Fs coming from number 2
+```
+
+*Final Num* $\Rightarrow$ `ABC7FA43`
+
+
+
