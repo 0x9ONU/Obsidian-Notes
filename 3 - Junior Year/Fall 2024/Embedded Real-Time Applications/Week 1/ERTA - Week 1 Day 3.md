@@ -101,7 +101,57 @@ Branch or Control Instructions
 - `B`: branch (i.e., go to) to label
 - `BEQ` branch (i.e., go to) to label if two arguments are equal
 - `BNE` branch (i.e., go to) label if two arguments are *not* equal
-- `BX` branch (i.e., go to)
+- `BX` branch (i.e., go to) branch indirection (i.e., go to a memory location in a register)
 
-## Assembly Documentation Notation
+## Addressing Modes
 
+### Immediate Addressing
+
+Data is contained inside the instruction
+- `MOV R0, #100`
+
+### Index Addressing
+
+Uses a register point to access memory
+- `LDR R0, [R1]`
+
+### PC-relative Addressing
+
+Address of data in ROM/RAM is indexed based upon the Program Counter
+- The relative addresses are usually labelled (but relative to the PC in the background)
+- Used in branching and access data in RAM/IO
+
+```ad-example
+B Locaiton ; jump to Locaiton, using PC-relative addressing
+BL Subroutine ; call Subroutine, using PC-relative addressing
+```
+
+```ad-note
+Typically a named pointer that points to a specific part in RAM/IO
+```
+
+#### Example
+
+It takes two instructions to access data in RAM or I/O:
+
+```arm-asm
+LDR R1, =Count ; R1 point to variable Count, using PC-relative. '=' location of the variable
+LDR R0, [R1] ; R0 = vlaue pointed to by R1
+```
+
+**Instruction One**
+Uses PC-relative addressing to create a pointer to the object
+
+
+**Instruction Two**
+Sets the value of the register to the value of the loaded variable
+
+## Logical Instructions
+
+| Instruction  | Syntax                                     |     |
+| ------------ | ------------------------------------------ | --- |
+| AND          | AND{S} {Rd, } Rn, \<op2\>; Rd=Rn\&op2      |     |
+| OR           | ORR{S} {Rd, } Rn, \<op2\>; Rd = Rn \| op2  |     |
+| Exclusive or | EOR{S} {Rd, } Rn, \<op2\>; Rd = Rn^op2     |     |
+| And not      | BIC{S} {Rd, } Rn, \<op2\>; Rd = Rn &(~op2) |     |
+| Or not       | ORN{S} {Rd, } Rn, \<op2\>                  |     |
