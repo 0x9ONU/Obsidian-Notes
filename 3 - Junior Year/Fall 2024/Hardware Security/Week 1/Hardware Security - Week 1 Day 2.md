@@ -106,5 +106,33 @@ Long and globally distributed supply chain of hardware IPs makes SoC design incr
 
 ![[Pasted image 20240828144601.png]]
 
+```ad-warning
+Consumer trends suggest that more gadgets are used in much shorter time - more e-waste
+```ad-check
+title: Solution
+We can track the aging of electronics and only switch out broken components
+```
+
 ![[Pasted image 20240828144634.png]]
+
+## General Definitions
+
+**Vulnerability:** Weakness in the secure system
+
+**Threat** Set of circumstances that has the potential to cause loss or harm
+
+**Attack**: The act of a human exploiting the vulnerability in the system
+
+**Computer security aspects**
+- CIA
+
+### Hardware Vulnerability List
+
+- Physical Attacks
+- Trojan Horses
+- IP Piracy
+- Counterfeiting
+- Backdoors
+- Tampering
+- Reverse Engineering
 
