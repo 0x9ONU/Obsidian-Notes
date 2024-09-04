@@ -215,3 +215,52 @@ Network = $192.168.16.0$
 
 ![[Pasted image 20240830094837.png]]
 
+```ad-important
+**Default Subnet Masks**:
+- *Class A*: `255.0.0.0`
+- *Class B:* `255.255.0.0`
+- *Class C:* `255.255.255.0`
+```
+
+```ad-note
+Number of Hosts *Per* Network:
+- *Class A:* 24 bits $\Rightarrow$ $2^{24} -2$  $\Rightarrow$ 16,777,214
+- *Class B:* 16 bits $\Rightarrow$ $2^{16} - 2$ $\Rightarrow$ 65,534
+- *Class C:* 8 bits $\Rightarrow$ $2^8 -2$ $\Rightarrow$ 254
+
+```ad-important
+This leads to 4 billion devices
+```
+
+```ad-note
+Number of *Networks*:
+- *Class A:* 126 networks
+- *Class B:* 64 * 254 = 16,256
+- *Class C:* 32 \* 254 \* 254 = 2,064,512
+```
+
+```ad-warning
+`127.x.x.x` is *reserved* for local loop purposes. A packet with this IP address will *NEVER* leave the host 
+```
+
+## Private IP Address Range
+
+These IPs are reserved for private use and *cannot* be used on the Internet.
+- `10.x.x.x`
+- `172.16.x.x` through `172.31.x.x`
+- `192.168.x.x`
+
+![[Networks - Week 1 Day 2-3 2024-09-04 09.17.39.excalidraw]]
+
+This is called **Network Address Translation**
+
+```ad-note
+These IP addresses DO NOT need to be licensed and are free to use
+```
+
+This is why a private web server can only be accessed from internal devices *without* configuration (**Port Forwarding**)
+
+
+
+
+
