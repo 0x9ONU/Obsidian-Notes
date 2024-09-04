@@ -8,8 +8,8 @@
 ## Area II: Professional Development
 
 - [ ] Proof of attendance at a career or job fair
-- [ ] Proof of attendance at a fraternity recruitment educational seminar or program
-- [ ] Proof of your attendance at a professional association conference
+- [x] Proof of attendance at a fraternity recruitment educational seminar or program ✅ 2024-09-04
+- [x] Proof of your attendance at a professional association conference ✅ 2024-09-04
 - [ ] Proof of taking a public speaking course
 - [ ] Proof of internships/fellowships
 - [ ] Proof of LinkedIn Profile
