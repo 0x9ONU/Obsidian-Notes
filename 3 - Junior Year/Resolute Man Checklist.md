@@ -1,0 +1,25 @@
+
+## Area I: Leadership Development
+
+### Experiences
+
+- [ ] Get a letter form an executive board member as proof of your appointed office.
+
+## Area II: Professional Development
+
+- [ ] Proof of attendance at a career or job fair
+- [ ] Proof of attendance at a fraternity recruitment educational seminar or program
+- [ ] Proof of your attendance at a professional association conference
+- [ ] Proof of taking a public speaking course
+- [ ] Proof of internships/fellowships
+- [ ] Proof of LinkedIn Profile
+
+## Area III: The Assisting Hand
+
+- [ ] Proof of helping plan RTT or Cafe Theta Chi
+- [ ] Proof of going to the cookout
+- [ ] Provide proof of your presentation to non-members regarding benefits of fraternity membership
+- [ ] Proof of highway cleanup
+- [ ] Proof of registration to vote
+- [ ] Proof of being at the BOD Meeting
+
