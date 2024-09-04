@@ -15,7 +15,7 @@
 
 ## Area III: The Assisting Hand
 
-- [ ] Proof of helping plan RTT or Cafe Theta Chi
+- [x] Proof of helping plan RTT or Cafe Theta Chi ✅ 2024-09-04
 - [ ] Proof of going to the cookout
 - [ ] Provide proof of your presentation to non-members regarding benefits of fraternity membership
 - [ ] Proof of highway cleanup
