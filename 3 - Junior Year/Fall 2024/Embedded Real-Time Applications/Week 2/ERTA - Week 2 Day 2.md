@@ -3,19 +3,9 @@ Date Modified: 6th September 2024
 File Folder: Week 2
 #Electronics
 
-```ad-abstract
-title: Today's Topics
-collapse: open
+# Digital Logic Review
 
-- Topic1
-- Topic2
-- Topic3
-
-```
-
-# Digital Logic Review Questions
-
-## One’s Complement Practice
+## One’s Complement
 
 ```ad-summary
 title: Remember
@@ -26,7 +16,7 @@ title: Remember
 ```
 
 
-## Two’s Complement Practice
+## Two’s Complement
 
 ```ad-summary
 title: Remember
