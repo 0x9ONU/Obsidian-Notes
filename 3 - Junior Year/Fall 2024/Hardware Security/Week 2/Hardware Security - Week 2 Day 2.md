@@ -179,3 +179,69 @@ This is the easiest characteristic to detect as it can change the delay and powe
 
 ![[Pasted image 20240906142706.png]]
 
+# IP Trust & IP Security
+
+**IP Trust**: Detect ***malicious*** circuits inserted by IP designers
+- The **GOAL** is to *Verify Trust*: Protect IP buyers, e.g., SoC Integrators
+
+**IP Security**: Information leakage, side-channel leakage, backdoors, functional bugs, etc.
+
+
+## IP Trust Overview
+\
+IPs form untrusted vendors need to be verified for trust before use in a system design
+
+```ad-summary
+title: Problem Statement
+How can one establish that the IP does exactly as the specification, nothing less, nothing more?
+```
+
+IPs can be broken down into:
+- Soft
+- Firm
+- Hard
+
+**Challenges**:
+- No known golden model for the IP
+- Soft IP is just the core so we cannot read its implementation
+
+## Approaches
+
+**Formal Verification**
+- Property checking
+- Model checking
+- Equivalence checking
+
+**Coverage analysis**
+- Code coverage
+- Functional coverage
+
+### Formal Verification
+
+Ensuring IP core is exactly the same as its specification
+
+Three types of verification methods:
+- **Property**: Every *requirement* is defined as assertion in testbench and is checked
+
+```ad-note
+Often looks at common structures and see if there is any variation between what is expected and what was designed.
+```
+
+- **Equivalence**: Check the equivalence of RTL code, gate-level netlist and GDSII file
+- **Model**
+	- System is described in a formal model (C, HDL)
+	- The desired behavior is expressed as a set of properties
+	- The specification is checked against the model
+
+### Coverage Analysis
+
+- **Line Coverage**: Show which lines of the RTL have been executed
+- **Statement Coverage**: Spans multiple lines, more precise
+- **FSM Coverage**: Show which state can be reached
+- **Toggle**: Each signal in gate-level netlist
+
+### Suspicious Parts
+
+If one or more of the assertions fails, the IP is *untrusted*
+- If coverage is not 100%, uncovered parts of the code (RTL, netlist) are assumed suspicious.
+
