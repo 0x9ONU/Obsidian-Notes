@@ -17,7 +17,7 @@ collapse: open
 
 ![[Pasted image 20240904143353.png]]
 
-A malicious addition or modification to the exisitng circuit elements
+A malicious addition or modification to the existing circuit elements
 - Change the functionality
 - Reduce the reliability
 - Leak valuable information
@@ -64,11 +64,14 @@ However, in this case, it is counting up and will then activate the XOR gate to 
 
 ![[Pasted image 20240904143929.png]]
 
+*MOLES* will add some way to add a side-channel attack:
 
-
-
+```ad-example
+In the MOLE above, it writes the key with a PRNG and produces the "random" signal to a transmitter. Then, the signal can be taken from the transmitter and the inverse of the PRNG can be taken to get the hardware key
+```
 
 
 ```ad-note
 You are inserting some error into a system.
 ```
+
