@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
+            "id": "06e9c7c620d49438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "275eafb2a7a8b421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50cd686f6d1543ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 2/Networks - Week 2 Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2-3.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2-3.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2-3.md"
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md"
               }
             }
           }
@@ -272,8 +296,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "275eafb2a7a8b421",
+  "active": "06e9c7c620d49438",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2-3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 2/Networks - Week 2 Day 1.md",
     "3 - Junior Year/Resolute Man Checklist.md",
     "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Hardware Security - Week 2 Day 1.md",
@@ -298,12 +325,9 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 2/Computer Architecture - Week 2 Day 1.md",
     "2024-09-04.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 2",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2-3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 2/Networks - Week 2 Day 1.md",
     "General Notes/Networks - Week 1 Day 2-3 2024-09-04 09.17.39.excalidraw.md",
     "General Notes/Networks - Week 1 Day 2-3 2024-08-30 09.47.07.excalidraw.md",
     "2024-08-30.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 2",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Chapter One Reading.md",
