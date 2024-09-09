@@ -84,7 +84,8 @@ loop:
 done:
 ```
 
-## Strings
+
+# Strings
 
 ```ad-important
 Strings are just Arrays made of characters
@@ -98,4 +99,51 @@ Strings are just Arrays made of characters
 All strings are terminated by zero to determine the end of the string.
 ```
 
+## ASCII Code
 
+*American Standard Code for Information Interchange*
+- Each text character has a unique byte value
+
+![[Pasted image 20240909113631.png]]
+
+Berei = `0x006965736542` 
+
+## Accessing Arrays of Characters
+
+![[Pasted image 20240909113914.png]]
+
+```ad-important
+`s4` is pointing to byte ZERO
+```
+
+```ad-warning
+When using store byte, you only care about the least significant bit of the register. You must use a `slri` to store the rest of the bytes from the regsiter
+```
+
+![[Pasted image 20240909114001.png]]
+
+### Code
+
+**C-Code**
+```c
+char str[80] = "CAT";
+int len = 0;
+
+// Compute Length of String
+while (str[len]) len++;
+```
+
+**RISC-V Assembly Code**
+
+```
+# s0 = array base address, s1 = len
+
+	addi s1, zero, 0     # len = 0
+while:
+	add  t0, s0, s1      # address of str[len]
+	lbu  t1, 0(t0)       # load str [len]
+	beq  t1, zero, done  # are we at the end?
+	addi s1, s1, 1       # len++
+	j    while           # repeat while loop
+done:
+```
