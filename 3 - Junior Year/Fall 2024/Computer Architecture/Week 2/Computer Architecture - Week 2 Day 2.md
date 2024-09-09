@@ -308,7 +308,24 @@ for (i = 1; i < 101; i = i*2)
 	addi s0, zero, 1
 	addi t0, zero, 101
 loop:
-	slt t2, s0, t0
+	slt  t2, s0, t0     # important
+	beq  t2, zero, done # important
+	add  s1, s1, s0
+	slli s0, s0, 1
+	j    jump
+done:
+```
+
+```ad-summary
+`slt`: Set if less than instruction
+```ad-example
+`slt t2, s0, t0 # if s0 < t0, t2 = 1, otherwise t2 = 0`
+```
+
+This instruction subtracts the two numbers and takes the MSB (the signed bit) and is used to determine which register is less than the other.
+
+```ad-important
+The `slt` instruction allows use to use the `beq` instruction for less than comparisons
 ```
 
 
