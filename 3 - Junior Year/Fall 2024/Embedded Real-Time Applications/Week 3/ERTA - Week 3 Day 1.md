@@ -168,7 +168,6 @@ GPIO_PORTD_DIR_R |= 0x03; // PD1, DP0 outputs
 
 **Assembly**
 
-
 ```armasm
 LDR R0, =GPIO_PORTD_DIR_R
 LDR R1, [R0]              ; read previous value
