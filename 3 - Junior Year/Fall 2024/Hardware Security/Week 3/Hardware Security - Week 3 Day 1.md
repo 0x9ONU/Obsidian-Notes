@@ -101,7 +101,7 @@ Due to process variations, it is extremely challenging to detect the Trojan by c
 
 ```ad-note
 title: Remember
-$$T_{clk} > T_set} + T_{hold} + T_{comb$$
+$$T_{clk} > T_{set} + T_{hold} + T_{comb}$$
 ```
 
 
