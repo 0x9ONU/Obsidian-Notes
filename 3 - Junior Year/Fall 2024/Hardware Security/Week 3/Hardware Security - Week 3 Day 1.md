@@ -7,9 +7,8 @@ File Folder: Week 3
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- IC Trust
+- Trojan Detection Approaches
 
 ```
 
@@ -103,6 +102,44 @@ Due to process variations, it is extremely challenging to detect the Trojan by c
 title: Remember
 $$T_{clk} > T_{set} + T_{hold} + T_{comb}$$
 ```
+
+An attacker might throw a hardware trojan on the *critical path* (when the CLK is near $f_{max}$) to try to activate and fail such that:
+
+$$T_{clk} \not < T_{set} + T_{hold} + T_{max} + T_{HT}$$
+
+Trojans can also be inserted on the paths that are small as well.
+
+### How to Combat
+
+To succeed, we must check each delay on multiple frequencies to the gold standard to try to find:
+- Process differences (worse case)
+- Bad hardware
+- Hardware Trojans (best case)
+
+#### Shadow Registers
+
+Provides a possible solution for measuring internal path delay
+-  Contains a shadow register, one comparator to compare the delay, and one result register.
+- Compares and concatenates delay to test to see differences in delay from frequency to frequency
+
+**Limitations**:
+- Process variation
+- Overhead
+- S-Clock
+- Output
+
+### Detection through Power Consumption
+
+Hardware Trojans in a chip can cause a surge in power consumption.
+- However, this can be difficult to measure due to a change in *sensitivity*
+
+#### Sensitivity
+
+$$\mbox{Trojan Size} \downarrow \space  \Rightarrow \mbox{Sensitivity} \space \downarrow $$
+$$\mbox{Circuit Size} \space \downarrow \space \Rightarrow \mbox{Sensitivity} \space \downarrow$$
+
+$$\mbox{Sensitvity} = \frac{I_{temp}-I_{orig}}{I_{orig}}*100 \%$$
+
 
 
 
