@@ -138,8 +138,29 @@ Hardware Trojans in a chip can cause a surge in power consumption.
 $$\mbox{Trojan Size} \downarrow \space  \Rightarrow \mbox{Sensitivity} \space \downarrow $$
 $$\mbox{Circuit Size} \space \downarrow \space \Rightarrow \mbox{Sensitivity} \space \downarrow$$
 
-$$\mbox{Sensitvity} = \frac{I_{temp}-I_{orig}}{I_{orig}}*100 \%$$
+$$\mbox{Sensitvity} = \frac{I_{tamp}-I_{orig}}{I_{orig}}*100 \%$$
 
+#### Challenges
+
+**Pattern Generation**:
+- How to increase switching activity in Trojans?
+- How to reduce background noise?
+- Swithcing locality
+- Random Patterns
+
+**Measurement Device Accuracy**
+- Measurement noise
+
+**Process Variations**
+- Measurement Noise
+
+**On-Chip Measurement**
+- Vulnerable attack
+
+**Authentication Time**
+- Trojans can be inserted randomly
+
+![[Pasted image 20240909213203.png]]
 
 
 
