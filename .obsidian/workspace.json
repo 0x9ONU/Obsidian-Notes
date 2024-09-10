@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Lab 1.md",
+                "file": "General Notes/Computer Architecture - Lab 1 2024-09-10 10.27.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Lab 1.md",
+                "file": "General Notes/Computer Architecture - Lab 1 2024-09-10 10.27.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Lab 1.md"
+                "file": "General Notes/Computer Architecture - Lab 1 2024-09-10 10.27.49.excalidraw.md"
               }
             }
           }
@@ -239,10 +239,46 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d327d9bd79a43423",
+  "floating": {
+    "id": "6634cbac7c081366",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7a7f1195e4e889e6",
+        "type": "window",
+        "children": [
+          {
+            "id": "3c0a9ae5e997ae09",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fa1b4a1228dea599",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Computer Architecture - Lab 1 2024-09-10 10.27.49.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "fa1b4a1228dea599",
   "lastOpenFiles": [
-    "General Notes/Computer Architecture - Lab 1 2024-09-10 09.18.28.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Lab 1.md",
+    "General Notes/Computer Architecture - Lab 1 2024-09-10 10.27.49.excalidraw.md",
+    "General Notes/Computer Architecture - Lab 1 2024-09-10 09.18.28.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 1.md",
     "General Notes/Pasted image 20240909213203.png",
@@ -282,7 +318,6 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 2",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 1.md",
     "General Notes/Networks - Week 2 Day 1 2024-09-04 09.36.34.excalidraw.md",
-    "2024-09-04.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 2",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 2",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 1",

@@ -28,3 +28,7 @@ collapse: open
 ## Memory Overview
 
 ![[Computer Architecture - Lab 1 2024-09-10 09.18.28.excalidraw]]
+
+## Stack Example
+
+![[Computer Architecture - Lab 1 2024-09-10 10.27.49.excalidraw]]
