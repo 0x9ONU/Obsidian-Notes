@@ -172,10 +172,36 @@ GPIO_PORTD_DIR_R |= 0x03; // PD1, DP0 outputs
 LDR R0, =GPIO_PORTD_DIR_R
 LDR R1, [R0]              ; read previous value
 ORR R1, R1, #0x03         ; set bits 0 and 1
-STR R1, [R0]              ; Write it bacmk to update
+STR R1, [R0]              ; Write it back to update
 ```
 
 ![[Pasted image 20240909134327.png]]
+
+```ad-note
+The best practices is to just modify the bits that you know/need to be modified
+```
+
+## Toggling Bits Selectively
+
+```ad-important
+The *Exclusive Or* operation can be used to toggle bits.
+```
+
+**C Code**
+
+```c
+GPIO_PORTD_DATA_R ^= 0x80 ; /* Toggle PD7 */
+```
+
+**Assembly**
+
+```
+LDR R0, =GPIO+PORTD_DATA_R
+LDR R1, [R0]      ; read port D
+EOR R1, R1, #0x80 ; toggle bit 7
+STR R1, [R0]      ; Update
+```
+
 
 
 
