@@ -201,6 +201,17 @@ LDR R1, [R0]      ; read port D
 EOR R1, R1, #0x80 ; toggle bit 7
 STR R1, [R0]      ; Update
 ```
+## I/O Ports
 
+### Input Only Port
+
+An **Input only port** (read only) allows the software to read external digital signals
+- Tristate driver sends data to processor during read cycle
+- 2.0 to 5.0 volts = high voltage
+- Not found on MSP432
+
+```ad-note
+A Tristate driver bridges an input and an output when it receives a true input
+```
 
 
