@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "95d7854f021daecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3 Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d327d9bd79a43423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3 Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md"
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3 Day 1.md"
               }
             }
           }
@@ -239,13 +251,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d327d9bd79a43423",
+  "active": "95d7854f021daecb",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3 Day 2.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
     "General Notes/Pasted image 20240911114737.png",
     "General Notes/Pasted image 20240911113734.png",
     "General Notes/Pasted image 20240911113314.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 2&3.md",
     "General Notes/Pasted image 20240911095925.png",
     "General Notes/Pasted image 20240911095916.png",
@@ -260,10 +274,8 @@
     "General Notes/Pasted image 20240909213203.png",
     "General Notes/Pasted image 20240909140740.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Hardware Security - Week 2 Day 2.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3",
     "General Notes/Pasted image 20240909134327.png",
-    "General Notes/Pasted image 20240909133643.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 2/Computer Architecture - Week 2 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3",
