@@ -247,3 +247,8 @@ Circle/Highlight the incorrect cables. Note that all IP addresses belong to `195
 
 ![[Networks - Week 3 Day 1 2024-09-09 09.52.00.excalidraw]]
 
+| Device Name | IP Address |
+| ----------- | ---------- |
+| Host A      | 195.1.1.25 |
+| Host B      | 195.1.1.22 |
+| Host C      |            |
