@@ -159,7 +159,7 @@ Protocols are organized in layers, each protocol belongs to one of the layers
 Each laeyr provides its service by performing certain actions within that layer, and by using the services of the layer *directly below it*
 - Can use hardware and/or software to implement each layer
 
-This allows for an ease of maintance, updating of the system, etc.
+This allows for an ease of maintenance, updating of the system, change of implementation of a layer’s service transparent to rest of system etc.
 
 ```ad-warning
 **Drawbacks:** 
@@ -188,6 +188,17 @@ provide error recovery.
 - *Frame*
 
 **Physical**: Bits “on the wire”
+
+```ad-note
+Made by DOD to help create standardization.
+```
+
+```ad-important
+The Network Interface card will deal with the following layers:
+- Network
+- Link
+- Physical
+```
 
 ![[Pasted image 20240909093605.png]]
 
@@ -235,3 +246,4 @@ Circle/Highlight the incorrect cables. Note that all IP addresses belong to `195
 ```
 
 ![[Networks - Week 3 Day 1 2024-09-09 09.52.00.excalidraw]]
+
