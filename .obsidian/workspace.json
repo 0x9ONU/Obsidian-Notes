@@ -8,14 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f54dc81b68b58e9",
+            "id": "eb2046260760b1e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0f54dc81b68b58e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Notes/Computer Architecture - Week 3 Day 3 2024-09-13 11.13.24.excalidraw.md"
               }
             }
           }
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md"
               }
             }
           }
@@ -239,10 +249,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0f54dc81b68b58e9",
+  "active": "eb2046260760b1e8",
   "lastOpenFiles": [
-    "General Notes/Networks - Week 3 Day 3 2024-09-13 09.44.34.excalidraw.md",
+    "General Notes/Computer Architecture - Week 3 Day 3 2024-09-13 11.13.24.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
+    "General Notes/Pasted image 20240913111247.png",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
+    "General Notes/Networks - Week 3 Day 3 2024-09-13 09.44.34.excalidraw.md",
     "General Notes/Networks - Week 3 Day 3 2024-09-13 09.34.47.excalidraw.md",
     "General Notes/Pasted image 20240913093044.png",
     "General Notes/Pasted image 20240913091308.png",
@@ -264,7 +279,6 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 2/ERTA - Week 2 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 2/ERTA - Week 2 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3 Day 3.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 2.md",
     "General Notes/Pasted image 20240911142850.png",
     "General Notes/Pasted image 20240911142848.png",
     "General Notes/Pasted image 20240911142648.png",
@@ -272,12 +286,8 @@
     "General Notes/Pasted image 20240911140954.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Untitled",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
     "General Notes/Pasted image 20240911114737.png",
-    "General Notes/Pasted image 20240911113734.png",
     "General Notes/Networks - Week 3 Day 1 2024-09-09 09.52.00.excalidraw.md",
-    "General Notes/Computer Architecture - Lab 1 2024-09-10 10.27.49.excalidraw.md",
-    "General Notes/Computer Architecture - Lab 1 2024-09-10 09.18.28.excalidraw.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3",
