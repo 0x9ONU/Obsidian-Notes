@@ -214,4 +214,128 @@ An **Input only port** (read only) allows the software to read external digital 
 A Tristate driver bridges an input and an output when it receives a true input
 ```
 
+### Output Only Port
+
+Output-only port outputs data on data bus:
+- A write cycle to the port address will affect the values on the output pins
+	- Recorded in array of flip-flops, which is triggered with a write signal
+- You can technically *read* from this output-only port
+	- Triggered by the tri-state driver
+	- Returns the last written state on the flip-flops
+- Not found on MSP432
+
+### Bi-Directional I/O Ports
+
+```ad-note
+To make the microcontroller more marketable, most ports can be software-specified to be either inputs or outputs
+```
+
+Each digital port point has a direction bit. This means some pins on a port may be inputs while others are outputs.
+
+**Direction Registers** determine whether a pin is an input or an output
+- Direction initialized on start up
+
+| Direction Bit | Port Behavior       |
+| ------------- | ------------------- |
+| 0             | Behaves like input  |
+| 1             | Behaves like output |
+
+```ad-note
+It is like an output only port, but it also includes a another tri-state driver and another flip flop to swap between the modes
+```
+
+## MSP432 I/O
+
+### MSP432 GPIO Input Initialization
+
+```ad-note
+The following C++ code is used to initialize the second pin on port 1. We have an object P1 for Port2
+```
+
+**Example Code**
+```c++
+//Make P1.1 an input
+void SW1_Init(void) {
+	P1->SEL0 &- ~0x02; // Select bit one
+	P1->SEL1 &= ~0x02; // Select bit two
+	P1->DIR &= ~0x02;  // Direction Register
+}
+```
+$0\mbox{x}02 \equiv b00000010$
+~$0\mbox{x}02 = b11111101$
+Then, take the and to get…:
+$$C_7C_6C_5C_4C_3C_20C_0$$
+
+```ad-important
+All of these operations sets the second bit to zero
+```
+
+```ad-summary
+`Py->DIR` is `0` on input, `1` if output
+`Py->SEL0` and `Py->SEL1`
+```
+
+| PxSEL1 | PxSEL0 | I/O Function                          |
+| ------ | ------ | ------------------------------------- |
+| 0      | 0      | General Purpose I/O is selected       |
+| 0      | 1      | Primary modulo function is selected   |
+| 1      | 0      | Secondary module function is selected |
+| 1      | 1      | Tertiary module funciton is selected  |
+
+### MSP432 GPIO Input Reading
+
+```c++
+//Read form P1.1
+
+//Code the Long Way 
+unit8_t Sw1 (void) {
+	unit8_t data;
+	// Read from port
+	data = P1->IN;    // All 8 pins on the port
+	// Select bits
+	data = data&0x02;
+	return data;
+}
+
+//Code the nerd way
+unit8_t Sw1(void) {
+	//read and select
+	return P1->IN&0x02;
+}
+```
+```ad-example
+`data` = $d_7d_6d_5d_4d_3d_2d_1d_0$
+`0x02` = $00000010$
+\-\-\-\-\-\-
+`data` = $000000d_10$
+```
+
+```ad-important
+We use the `&0x02` to mask the unimportant bits
+```
+
+### MSP432 GPIO Output Initalization
+
+```c++
+//Make P1.0 an output
+void LED_Init(void) {
+	P1->SEL0 &= ~0x01;
+	P1->SEL1 &= ~0x01;
+	P1->DIR |= 0x01;   //Sets the first bit to high
+}
+```
+### MSP432 GPIO Pin Output
+
+```c++
+void LED(unint8_t new_bit) {
+	unit8_t old;
+	old = P1->OUT;
+	old = old&(~0x01);     //Sets ONLY the first bit to 0
+	new_bit = new_bit|old; //
+	P1->OUT = new_bit;
+}
+```
+`new` = $a_7a_6a_5a_4a_3a_2a_1a_0$
+`old` = $b_7b_6b_5b_4b_3b_2b_1b_0$
+
 
