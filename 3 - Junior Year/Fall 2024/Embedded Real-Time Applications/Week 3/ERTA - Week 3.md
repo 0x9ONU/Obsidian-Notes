@@ -338,4 +338,3 @@ void LED(unint8_t new_bit) {
 `new` = $a_7a_6a_5a_4a_3a_2a_1a_0$
 `old` = $b_7b_6b_5b_4b_3b_2b_1b_0$
 
-
