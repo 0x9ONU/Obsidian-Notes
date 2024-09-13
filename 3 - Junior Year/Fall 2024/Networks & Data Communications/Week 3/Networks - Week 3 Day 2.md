@@ -93,4 +93,22 @@ Switches *learn* which hosts can be reached thorugh which interfaces:
 
 ![[Pasted image 20240911095925.png]]
 
+## ARP: Address Resolution Protocol
+
+**ARP Table**: Each IP node (host, router) on LAN has a table
+- IP/MAC address mappings for some LAN nodes:
+	- `<IP address; MAC addresss; TTL>`
+
+```ad-note
+**TTL** (Time To Live): time after which address mapping will be forgotten (typically 20 mins)
+```
+
+```ad-important
+There is a Broadcast ARP/MAC address. It will *NOT* cross the router unless configured.
+
+`FF:FF:FF:FF:FF:FF`
+```
+
+A machine on a LAN can ask for if a machine has an IP address on the network using the broadcast MAC address.
+\
 
