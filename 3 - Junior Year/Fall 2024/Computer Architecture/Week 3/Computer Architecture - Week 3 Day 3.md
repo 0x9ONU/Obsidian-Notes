@@ -66,3 +66,43 @@ $n$ is restored from the stack into `t1` so it doesn't overwrite the reutrn valu
 ```
 
 ![[Computer Architecture - Week 3 Day 3 2024-09-13 11.13.24.excalidraw]]
+
+# More Jumps & Pseudoinstructions
+
+```ad-note
+title: Remember
+- Complier takes High Level Language and turns it into assembly
+- Assembler will take the assembly to machine language
+```
+
+**Pseudoinstructions** are not actual RISC-V instructions, but they are often more conveinent for the programmer
+- The *assembler* converts them into *real* RISC-V instructions
+## Jumps
+
+```ad-warning
+- `jal label` is a pseudoinstruction
+- `jr` is also one
+```
+
+RISC-V has two types of unconditional jumps
+- Jump and link (`jal rd, imm`)$_{20:0}$
+	- `rd` = PC + 4
+	- `PC` = PC + `imm`
+- Jump and link register (`jalr rd, rs, imm`)$_{11:0}$
+	- `rd` = PC +4
+	- `PC` = \[ *RS* \] + SignExt(`Imm`)
+	- Typically, the immediate in this number is typically zero if we are using it as `jr`
+
+```ad-important
+Labels DO NOT exist in machine language. Labels are turned into numbers
+```
+
+```ad-warning
+This means that there is a 21-bit number on how far a label can be called
+```
+
+```ad-example
+`jr ra` $\equiv$ `jalr zero, ra, 0x00`
+`j label` $\equiv$ `jal zero, imm`$_{\mbox{label}}$
+```
+
