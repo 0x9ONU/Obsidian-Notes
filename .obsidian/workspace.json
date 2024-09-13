@@ -11,9 +11,11 @@
             "id": "0f54dc81b68b58e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "General Notes/Networks - Week 3 Day 3 2024-09-13 09.34.47.excalidraw.md"
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes/Networks - Week 3 Day 3 2024-09-13 09.34.47.excalidraw.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes/Networks - Week 3 Day 3 2024-09-13 09.34.47.excalidraw.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Networks - Week 3 Day 3 2024-09-13 09.34.47.excalidraw.md"
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md"
               }
             }
           }
@@ -239,6 +241,7 @@
   },
   "active": "0f54dc81b68b58e9",
   "lastOpenFiles": [
+    "General Notes/Networks - Week 3 Day 3 2024-09-13 09.44.34.excalidraw.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
     "General Notes/Networks - Week 3 Day 3 2024-09-13 09.34.47.excalidraw.md",
     "General Notes/Pasted image 20240913093044.png",
@@ -275,7 +278,6 @@
     "General Notes/Networks - Week 3 Day 1 2024-09-09 09.52.00.excalidraw.md",
     "General Notes/Computer Architecture - Lab 1 2024-09-10 10.27.49.excalidraw.md",
     "General Notes/Computer Architecture - Lab 1 2024-09-10 09.18.28.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Hardware Security - Week 2 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3",

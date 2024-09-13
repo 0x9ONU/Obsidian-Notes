@@ -148,3 +148,39 @@ Network `192.168.6.0`:
 - R1, fa0/0
 
 ![[Networks - Week 3 Day 3 2024-09-13 09.34.47.excalidraw]]
+
+## Practice Problem #2
+
+```ad-question
+There are three hosts and three routers in a network. Find below the IP addresses of all the devices, the subnet mask is `255.255.255.224` throughout the network.
+
+Draw the network and label the ports of routers. Connect all devices with proper cables. Label and specify the correct types of cables. Write the default gateway of all three hosts.
+```
+
+```ad-note
+$224 \Rightarrow 1110000 \Rightarrow 2^5 = 32$
+- 0
+- 32
+- 64
+- 96
+- 128
+```
+
+| Device   | IP Addresses                                | Default Gateway |
+| -------- | ------------------------------------------- | --------------- |
+| Host A   | 10.10.10.10                                 | 10.10.10.30     |
+| Host B   | 10.1010.60                                  | 10.10.10.50     |
+| Host C   | 10.10.10.35                                 | 10.10.10.50     |
+| Router 1 | Fa 0/0: 10.10.10.90<br>Fa 0/1: 10.10.10.110 |                 |
+| Router 2 | Fa 0/0: 10.10.10.50<br>Fa 0/1: 10.10.10.65  |                 |
+| Router 3 | Fa 0/0: 10.10.10.100<br>Fa 0/1: 10.10.10.30 |                 |
+
+![[Networks - Week 3 Day 3 2024-09-13 09.44.34.excalidraw]]
+
+```ad-note
+Ethernet $\rightarrow$ `e`
+Fast Ethernet $\rightarrow$ `fa`
+Gigabit Ethernet $\rightarrow$ `gig`
+Serial $\rightarrow$ `s`
+```
+
