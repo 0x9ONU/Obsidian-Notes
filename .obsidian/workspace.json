@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5d10e5ce4a682e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,11 +252,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fe991f78e6b4c0fa",
+  "active": "e5d10e5ce4a682e3",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions.pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Hardware Security - Week 2 Day 2.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Hardware Security - Week 2 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 2.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 2.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions 1.docx",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions.docx",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials",
@@ -255,7 +272,6 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/PDFs",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
     "General Notes/Pasted image 20240913111247.png",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
     "General Notes/Networks - Week 3 Day 3 2024-09-13 09.44.34.excalidraw.md",
     "General Notes/Networks - Week 3 Day 3 2024-09-13 09.34.47.excalidraw.md",
@@ -274,8 +290,6 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Lab 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 3.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 1.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 2/ERTA - Week 2 Day 1.md",
     "General Notes/Pasted image 20240911142850.png",
     "General Notes/Pasted image 20240911142848.png",
     "General Notes/Pasted image 20240911142648.png",
