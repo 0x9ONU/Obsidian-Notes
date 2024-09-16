@@ -106,3 +106,59 @@ This means that there is a 21-bit number on how far a label can be called
 `j label` $\equiv$ `jal zero, imm`$_{\mbox{label}}$
 ```
 
+RISC-V has four jump pseudo instructions
+- `j imm` $\Rightarrow$ `jal x0, imm`
+- `jal imm` $\Rightarrow$ `jal ra, imm`
+- `jr rs` $\Rightarrow$ `jalr x0, rs, 0`
+- `ret` $\Rightarrow$ `jr ra`
+
+## Labels
+
+Labels indicate where to jump
+
+Represented in jump as immediate offset
+- **Imm** - # bytes past jump instruction
+- I.e., below, `imm` = (51c-300) = 0x21C
+- `jal simple` $\equiv$ `jal ra, 0x21C`
+
+```
+0x00000300 main:    jal simple      # Call
+0x00000304          add s0, s1, s1
+...
+0x0000051C simple:  jr  ra          # Return
+```
+
+### Long Jumps
+
+```ad-warning
+The immediate is limited in size
+- 20 bits for `jal` (1,048,576 jump distance)
+- 12 bits for `jalr`(4095 jumps distance)
+```
+
+Special instruction to help jumping further:
+- `auipc rd, imm`: Add upper immediate to PC
+- `rd = PC + {imm`_$_\mbox{31:12}$`, 12'b0}`
+
+Pseudoinstruciton: `call imm`
+- Behaves like `jal imm`, but allows 32-bit immediate offset
+
+```
+auipc ra, imm    # 31:12
+jalr ra, ra, imm # 11:0
+```
+
+### More RISC-V Pseudo instructions
+
+| Pseudoinstruction   | RISC-V Instruction                         |
+| ------------------- | ------------------------------------------ |
+| `j label`           | `jal zero, label`                          |
+| `jr ra`             | `jalr zero, ra, 0`                         |
+| `mv t5, s3`         | `addi t5, s3, 0`                           |
+| `not s7, t2`        | `xori s7, t2, -1`                          |
+| `nop`               | `addi zero, zero, 0`                       |
+| `li s8, 0x56789DEF` | `lui s8, 0x5678A`<br>`addi, s8, s8, 0xDEF` |
+| `bgt s1, t3, L3`    | `blt t3, s1, L3`                           |
+| `bgez t2, L7`       | `bge, t2, zero, L7`                        |
+| `call L1`           | `auipc ra, imm`<br>`jalr ra, ra, imm`      |
+| `ret`               | `jalr zero, ra, 0`                         |
