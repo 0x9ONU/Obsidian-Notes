@@ -86,7 +86,7 @@ yk yk.
 You will be *leading them* however
 
 ### Unsuspension
-- Done by emailing headquarters. 
+- Done by the unsuspend request via [mythetachi.org]() (under forms while president)
 - Majority chapter vote 
 
 ### Update Northern Network
@@ -195,6 +195,8 @@ Get it done early:
 #### Summer Retreat
 
 - Minutes PLUS Fall Written Plan
+
+### Fall
 
 
 
