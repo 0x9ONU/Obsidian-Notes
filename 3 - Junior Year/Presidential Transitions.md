@@ -16,6 +16,11 @@ ALWAYS check email
 - ETC.
 ```
 
+YOU will be responsible for chapter morale
+- You determine how informed the chapter is
+- Make things fun
+- Make chapter light
+
 ### Retreats
 
 You will plan *retreats*
@@ -38,7 +43,11 @@ title: What to do different
 - Make it something to actively work towards, not something to do when a paper comes around
 ```
 
+CHECK IN OFTEN!!!
+
 *Choose someone who is good at writing for SOE chair*
+
+Realistic goals that we can get consistently
 
 ### Greek President’s Meeting
 
@@ -119,6 +128,73 @@ KEEP THEM FUN!
 - Make other big chairs join the exec retreats anyways
 - Have old exec
 - Have CAB if possible
+
+### Spring Semester
+
+#### Chapter Awards
+
+Do them EARLY!!!
+- By Week 4ish
+- Due in March
+
+#### Housing Inspections
+
+- You will look together in the hut with Shelby, the housing chair, etc.
+
+#### Alumni Ceremony
+
+- *might* have to plan
+
+#### Emergency Plan Review
+
+- Make sure the VPHS gets on that
+- must go through Shelby AND Brit
+
+#### Chapter Assessment Checklist
+
+```ad-danger
+DO IT IN FEBURARY. You need to get it done ahead of time to start working on the Altar Award.
+```
+
+- Submit a checklist of everything the chapter should be doing
+- Done through [mythetachi.org]()
+- Around **April**
+
+```ad-important
+Make sure you have:
+- Budgets: Print off the excel budgett sheets. Current and previous semester
+- School grad ereport - Just the semesterly GPA, not every GPA
+- List of officiers/exec
+```
+
+```ad-warning
+Do not blindly checking everything
+```
+
+#### Ritual Review
+
+An extra event done before I-week
+
+#### Altar Award
+
+Get it done early:
+- Make it an exec wide/chapter wide effort
+- SOE committee for grammar
+
+#### Pre-Summer Retreat
+
+- Remember that it happens
+- VP SHOULD do it but if not you do it
+
+#### Alumni Ceremony
+
+- Make sure alumni are invited!
+
+### Summer
+
+#### Summer Retreat
+
+- Minutes PLUS Fall Written Plan
 
 
 
