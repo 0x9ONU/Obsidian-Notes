@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "33be52bf13ec266e",
+        "id": "2948cce49bd64328",
         "type": "tabs",
         "children": [
           {
@@ -13,18 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "2948cce49bd64328",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "3d0225df6162b378",
             "type": "leaf",
@@ -91,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md"
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md"
               }
             }
           },
@@ -321,46 +314,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "floating": {
-    "id": "d085a9118a554167",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c7c3e0968ea9a3a9",
-        "type": "window",
-        "children": [
-          {
-            "id": "ec08fbf43a73edb3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aa57a3267219450c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": -2
-      }
-    ]
-  },
   "active": "6ce374c520b4dc91",
   "lastOpenFiles": [
-    "General Notes/Pasted image 20240918113317.png",
+    "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.39.08.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
+    "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.22.12.excalidraw.md",
+    "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.24.12.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
+    "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.20.35.excalidraw.md",
+    "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.21.14.excalidraw.md",
+    "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.19.54.excalidraw.md",
+    "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.19.08.excalidraw.md",
+    "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.07.58.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
+    "General Notes/Pasted image 20240918113317.png",
     "General Notes/Pasted image 20240918112601.png",
     "General Notes/Pasted image 20240918112003.png",
     "General Notes/Pasted image 20240918111921.png",
@@ -389,20 +357,10 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
     "General Notes/Pasted image 20240918094745.png",
-    "General Notes/Pasted image 20240918094725.png",
     "General Notes/Networks - Week 4 Day 2 2024-09-18 09.41.49.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 13/Number Theory - Week 13 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 10/Number Theory - Week 10 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 10/Number Theory - Week 10 Day 3.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 11/Number Theory - Week 11 Day 2.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md"
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 14/Number Theory - Week 14 Day 3.md"
   ]
 }

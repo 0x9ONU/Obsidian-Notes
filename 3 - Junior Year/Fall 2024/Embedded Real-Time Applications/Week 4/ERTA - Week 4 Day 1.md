@@ -118,6 +118,96 @@ SType Fsm [2]= {
 	{1, 100, {Odd, Even}} // Odd State (output, wait, zero stay odd, 1 go to even)
 }
 ```
+
+## Example: Traffic Light Control 
+
+```ad-question
+Image we are at an intersection of two one-way roads
+
+![[ERTA - Week 4 Day 1 2024-09-18 13.07.58.excalidraw]]
+- Many traffic lights have simple sensors to see if cars are present at the intersection
+- They can then change the state of the light depending on who’s at the intersection
+```ad-important
+Let's make a FSM of this traffic system.
+```
+
+How to incorporate the sensors?
+
+**Pseudocode**
+```c++
+if (East_Sensor == true && North_Sesnor == true) {
+	Standard_Cycle()
+}
+else if (East_Sensor == true) {
+	West_Light_Green()
+	South_Light_Red()
+}
+else if (North_Sensor == true) {
+	South_Light_Green()
+	West_Light_Red()
+}
+else {
+	Standard_Cycle()
+}
+```
+### Traffic Signal States
+
+![[ERTA - Week 4 Day 1 2024-09-18 13.19.08.excalidraw]]
+
+![[ERTA - Week 4 Day 1 2024-09-18 13.19.54.excalidraw]]
+
+![[ERTA - Week 4 Day 1 2024-09-18 13.20.35.excalidraw]]
+
+![[ERTA - Week 4 Day 1 2024-09-18 13.21.14.excalidraw]]
+
+- NGO
+- NSlow
+- EGO
+- ESlow
+
+![[ERTA - Week 4 Day 1 2024-09-18 13.22.12.excalidraw]]
+
+**Timing**:
+- When changing form green to red, implement a yellow light of 5 seconds
+- Green last for 30 seconds.
+
+### How would we hook it up to a microcontroller?
+
+![[ERTA - Week 4 Day 1 2024-09-18 13.24.12.excalidraw]]
+
+### Controller Logic
+
+1. Initialize timer and direction registers
+2. Specify initial state (e.g. North is GREEN)
+3. Perform FSM Controller
+	- Ouput to traffic lights
+	- Delay
+	- Input form sensors
+	- Change states
+	- Repeat Last Sub-steps $\uparrow$
+
+### Input Table
+
+| P0.0 | P0.1 | Input Description            |
+| ---- | ---- | ---------------------------- |
+| 1    | 1    | A car on both sensors        |
+| 1    | 0    | A car on North, none on East |
+| 0    | 1    | A car on East, none on North |
+| 0    | 0    | No cars detected             |
+
+### Output Table
+
+| P1.0 | P1.1 | P1.2 | P1.3 | P1.4 | P1.5 | Description           |
+| ---- | ---- | ---- | ---- | ---- | ---- | --------------------- |
+| 1    | 0    | 0    | 0    | 0    | 1    | North Green, East Red |
+| 0    | 0    | 1    | 1    | 0    | 0    | North red, East green |
+| 1    | 0    | 0    | 0    | 1    | 0    | North slow, East red  |
+| 0    | 1    | 0    | 1    | 0    | 0    | East slow, North red  |
+
+### Final State Diagram
+
+![[ERTA - Week 4 Day 1 2024-09-18 13.39.08.excalidraw]]
+
 # Exercise Demo
 
 ```ad-question
