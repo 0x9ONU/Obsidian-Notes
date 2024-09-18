@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Homework/Ethan Berei - Hardware Security HW 2; Chapter 5 Discussion Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,28 @@
         ]
       },
       {
-        "id": "e30c719e5b3e0534",
+        "id": "2948cce49bd64328",
         "type": "tabs",
         "children": [
           {
-            "id": "f01086f8d0277284",
+            "id": "3d0225df6162b378",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-1 Routing Fundamentals and LS Algorithm.pdf"
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions.pdf"
+              }
+            }
+          },
+          {
+            "id": "420941e18a5945d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Homework/Ethan Berei - Hardware Security HW 2; Chapter 5 Discussion Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Homework/Ethan Berei - Hardware Security HW 2; Chapter 5 Discussion Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md"
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Homework/Ethan Berei - Hardware Security HW 2; Chapter 5 Discussion Questions.md"
               }
             }
           },
@@ -266,10 +278,14 @@
   },
   "active": "45c612736bf8d597",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions.pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Homework/Ethan Berei - Hardware Security HW 2; Chapter 5 Discussion Questions.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Homework",
     "General Notes/Pasted image 20240918094745.png",
     "General Notes/Pasted image 20240918094725.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-1 Routing Fundamentals and LS Algorithm.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
     "General Notes/Pasted image 20240918094319.png",
     "General Notes/Networks - Week 4 Day 2 2024-09-18 09.41.49.excalidraw.md",
     "General Notes/Pasted image 20240918090725.png",
@@ -297,8 +313,6 @@
     "3 - Junior Year/Presidential Transitions.md",
     "().md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/PDFs/Lecture 7.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 2/Computer Architecture - Week 2 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
     "General Notes/Pasted image 20240916144555.png",
     "General Notes/Pasted image 20240916143217.png",
@@ -307,10 +321,7 @@
     "General Notes/Pasted image 20240916142555.png",
     "General Notes/Pasted image 20240916142347.png",
     "General Notes/Pasted image 20240916142329.png",
-    "General Notes/Pasted image 20240916142105.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Materials",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 4",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8 1.pptx"
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 4"
   ]
 }
