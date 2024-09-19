@@ -208,6 +208,8 @@ else {
 
 ![[ERTA - Week 4 Day 1 2024-09-18 13.39.08.excalidraw]]
 
+## Software Abstraction with FSM
+
 # Exercise Demo
 
 ```ad-question
