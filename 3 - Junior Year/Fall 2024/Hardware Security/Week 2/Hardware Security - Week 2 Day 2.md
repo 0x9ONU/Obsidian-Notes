@@ -94,7 +94,7 @@ Physical can be further broken down into the four other parts as seen below
 
 ![[Pasted image 20240906141723.png]]
 
-**Parametric**: MOdifications of existing components
+**Parametric**: Modifications of existing components
 - Sabotage reliability or increase the likelihood of a functional or performance failure
 
 ```ad-example

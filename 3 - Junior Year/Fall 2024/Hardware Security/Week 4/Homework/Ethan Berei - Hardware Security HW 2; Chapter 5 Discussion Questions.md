@@ -13,8 +13,10 @@ A risk of hardware Trojans increases due to the horizontal business models for m
 ## Question 2: Potential Adversaries
 
 ```ad-question
-Who are the potential adversaries to implant a hardware Trojan? Provide a brief description on each of them. In your opinion, which is the most difficult to defned?
+Who are the potential adversaries to implant a hardware Trojan? Provide a brief description on each of them. In your opinion, which is the most difficult to defend?
 ```
+
+When a hardware Trojan is suspected to be planted, there are multiple different adversaries that might have caused the issue. Specifically, three main categories are to blame: the SoC Designer(s), the third party IPs (3PIP), and the foundry. As a designer, they have access to the IP itself, the cells that can be added, the models, and can even sometimes tweak the design specifications of the design. At the designer level, this is often the easiest to defend against as a company typically has someone experienced do this part. However, if a designer does choose to put a hardware Trojan in this part, it is the most difficult to stop as it trickles down into the other sections of the process and can *even* be written into the design specifications. On the other hand, 3PIPs are also a danger to exploiting hardware. Typically at any level of the process, a company may choose to hire another company to work on part of the chip as it goes through its development and manufacturing. Even though this practice has been normalized in the industry, it can be very dangerous. With only minimal effort, a 3PIP might try to either steal the IP or implant a Trojan for their benefit. Unlike the SoC designer, these 3PIP are harder to track and are more sneaky. However, since they do not have as much access to the design, the Trojan will typically appear later on. Another weak point along the process is the fabrication foundry. At this point, this is where the chips are physically cut out of silicon and put into their SoC package. If a designer was not keen, a malicious fab can use any extra space they left behind to put their own Trojan before it heads into the testing phase. Unlike the other phases, this phase has the least control over what the Trojan can do as it is relying on the layout given to them by the previous phases. However, since it is so late in the process, it can often slip if proper testing is not done during the authentication and package testing phases of the products lifespan. Out of the three, I believe that the SoC designer being malicious is the most dangerous since they can actively change anything in the design before it goes to the fabrication process without much repercussions. 
 
 ## Question 3: Generic Trojan Structure
 
@@ -22,6 +24,7 @@ Who are the potential adversaries to implant a hardware Trojan? Provide a brief 
 Provide a brief description of a generic Trojan structure.
 ```
 
+Nearly every hardware Trojan’s structure is based on three main characteristics: physical, activation, and action. A Trojan’s physical characteristics 
 
 ## Question 4: Combinational vs. Sequential
 
