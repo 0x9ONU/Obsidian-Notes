@@ -10,11 +10,6 @@ collapse: open
 - Machine Language
 ```
 
-```ad-note
-title: Homework
-- [ ] test
-```
-
 # Homework #2 Hints
 
 ## 6.4 and 6.6
@@ -84,7 +79,7 @@ Three operands:
 
 Other fields
 - `op`:                         *The operation code or opcode*
-- `funct7, funct3`: *The function (7 bits and 3-bits respectively) with opcode, tells computer what operation to perform*
+- `funct7, funct3`:  *The function (7 bits and 3-bits respectively) with opcode, tells computer what operation to perform*
 
 `funct3` tells exactly what operation is being performed.
 
