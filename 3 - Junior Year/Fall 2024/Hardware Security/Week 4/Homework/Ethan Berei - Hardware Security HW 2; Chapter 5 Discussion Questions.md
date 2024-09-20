@@ -40,7 +40,7 @@ When initially looking at both combinational and sequential Trojans, they both s
 Provide an example of hardware Trojan in a cryptomodule.
 ```
 
-The most prolific example of the hardware Trojan against a cryptomodule is the Malicious Off-Chip Leakage Enables by Side-channels attack (MOLES). In MOLES, the attack will add a side-channel onto a chip that will allow the attackers to gain a cryptographic key or other important information that can be used to crack the system. For instance, the key to a cryptomodule can be stolen and XORed with a PRNG to create a pseudo-random signal that can be collected from the outside. Then the inverse of the PRNG can be taken to get back the hardware key. 
+The most prolific example of the hardware Trojan against a cryptomodule is the Malicious Off-Chip Leakage Enables by Side-channels attack (MOLES). In MOLES, the attack will add a side-channel onto a chip that will allow the attackers to gain a cryptographic key or other important information that can be used to crack the system. For instance, the key to a cryptomodule can be stolen and XORed with a PRNG to create a pseudo-random signal that can be transmitted and collected from the outside. Then the inverse of the PRNG can be taken to get back the hardware key. This is not limited to just electromagnetic radiation and can include power differences and temperature. 
 
 ## Question 6: ASIC vs. FPGA Trojans
 
