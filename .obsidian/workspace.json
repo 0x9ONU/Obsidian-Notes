@@ -13,38 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ce374c520b4dc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "ebda047379fa76be",
+        "id": "8c0f4f463b4bd770",
         "type": "tabs",
         "children": [
           {
-            "id": "09e496aad320dbaa",
+            "id": "94116dba83a6108e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-2 DV Algorithm.pdf"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf"
               }
             }
           }
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md"
               }
             }
           },
@@ -277,19 +264,62 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6ce374c520b4dc91",
+  "floating": {
+    "id": "af81eb7ea267e989",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bdef94af2cc949c5",
+        "type": "window",
+        "children": [
+          {
+            "id": "6b777635dfbaaca3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fbe53c725fb0f631",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": -2
+      }
+    ]
+  },
+  "active": "d4294df2107d5039",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-2 DV Algorithm.pdf",
+    "General Notes/Pasted image 20240920113131.png",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
+    "General Notes/Pasted image 20240920112743.png",
+    "General Notes/Pasted image 20240920112454.png",
+    "General Notes/Pasted image 20240920112428.png",
+    "General Notes/Pasted image 20240920112229.png",
+    "General Notes/PXL_20240920_152047350.jpg",
+    "General Notes/Pasted image 20240920110806.png",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-2 DV Algorithm.pdf",
     "General Notes/Pasted image 20240920093235.png",
     "General Notes/Pasted image 20240920093020.png",
     "General Notes/Pasted image 20240920092941.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
     "General Notes/Networks - Week 4 Day 2 2024-09-20 09.21.16.excalidraw.md",
     "General Notes/Pasted image 20240920091519.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-1 Routing Fundamentals and LS Algorithm.pdf",
     "General Notes/Networks - Week 4 Day 2 2024-09-20 09.11.22.excalidraw.md",
-    "General Notes/Pasted image 20240920090602.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Homework/Ethan Berei - Hardware Security HW 2; Chapter 5 Discussion Questions.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Lecture/HS - Lecture 3.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Lecture/HS - Lecture 2.pdf",
@@ -299,25 +329,18 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Hardware Security - Week 2 Day 2.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Hardware Security - Week 4 Day 2.md",
-    "General Notes/AR924_pic-1.webp",
-    "General Notes/AP-900_01_1000px-1.jpg",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Materials/Lecture 6.pdf",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.39.08.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.22.12.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.24.12.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.20.35.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.21.14.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.19.54.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.19.08.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.07.58.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 2.md",
-    "General Notes/Pasted image 20240918113317.png",
-    "General Notes/Pasted image 20240918112601.png",
-    "General Notes/Pasted image 20240918112003.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 1.md",

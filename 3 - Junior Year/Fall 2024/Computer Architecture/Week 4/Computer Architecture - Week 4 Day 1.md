@@ -250,7 +250,117 @@ The 13-bit immediate encodes where to branch (*relative to the branch instructio
 
 #### B-Type Example
 
+**RISC-V Assembly**
+```
+0x70     beq  s0, t5, L1
+0x74     add  s1, s2, s3
+0x78     sub  s5, s6, s7
+0x7C     lw   t0, 0(s1)
+0x80 L1: addi s1, s1, -15
+```
+
+```ad-important
+L1 is 4 instructions (i.e. *16 bytes*) **past** `beq`
+```
+
+```ad-note
+We do not care about the LSB. (32 or 16 bit instructions)
+```
+
+$$\mbox{imm}_{12:0} = 000000001000\cancel0$$
+
+![[Pasted image 20240920110806.png]]
+
+```ad-warning
+Even though everything in the memory is accessed in bytes for the 32-bit systems, we cannot assume the first two hexes are going to be zero BECAUSE 16-bit instructions may be used for embedded systems.
+```
+
+#### Backwards Example
+
+**Hex**
+
+`01E40863`
+
+**Machine Code**
+
+| imm 12, 10:5 (7-bits) | rs2 (5-bits) | rs1(5 bits) | funct3 (3-bits) | imm 4:1, 11 (5 bits) | op      |
+| --------------------- | ------------ | ----------- | --------------- | -------------------- | ------- |
+| 0000000               | 11110        | 01000       | 000             | 10000                | 1100011 |
+
+**Immediate**
+
+![[PXL_20240920_152047350.jpg]]
+
+**Instruction
+
+`beq x8, x30, 16`
+
+## U/J - Type
+
+**Upper-Immediate-Type** AND **Jump-Type**
+
+Differs only in *immediate* encoding
+
+![[Pasted image 20240920112229.png]]
+
+### Upper-Immediate-Type (U-Type)
+
+```ad-summary
+Used to load upper immediate (`lui`)
+```
+
+**Two operands**:
+- `rd`: Destination Register
+- `imm`$_{31:12}$ Upper 20 bits of 32-bit immediate
+
+OP code: 
+- `lui` $\Rightarrow$ `55`
+- `auipc` $\Rightarrow$ `23`
+
+![[Pasted image 20240920112428.png]]
+
+#### Forward Example (U-Type)
+
+![[Pasted image 20240920112454.png]]
+
+#### Backward Example (U-Type)
 
 
+
+### Jump-Type (J-Type)
+
+```ad-summary
+Used for jump-and-link instruction (`jal`)
+```
+
+**Two Operands**:
+- `rd`: Destination Register (TYPICALLY `ra`)
+- `imm`$_{20, 10:1, 11, 19:12}$. 20 bits(20:1) of a 21-bit immediate
+
+**Op Code**: `111`
+
+![[Pasted image 20240920112743.png]]
+
+```ad-warning
+`jalr` is **I-TYPE**, not *j-type*, to specify `rs1`
+```
+
+#### Forward Example (J-Type)
+
+```
+# Address          RISC-V Assembly
+0x0000540C         jal ra, func1
+0x00005410         add s1, s2, s3
+...
+0x000ABC04 func1:  add, s4, s5, s8
+```
+
+$$0x0\mbox{ABC}04-0x540\mbox{C}=0x\mbox{A}67\mbox{F}8$$
+
+```ad-important
+`func1` is `0x0A67F8` bytes past `jal`
+```
+
+![[Pasted image 20240920113131.png]]
 
 
