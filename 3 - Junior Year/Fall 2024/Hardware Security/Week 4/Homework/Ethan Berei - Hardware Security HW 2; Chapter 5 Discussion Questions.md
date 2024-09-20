@@ -24,13 +24,15 @@ When a hardware Trojan is suspected to be planted, there are multiple different 
 Provide a brief description of a generic Trojan structure.
 ```
 
-Nearly every hardware Trojan’s structure is based on three main characteristics: physical, activation, and action. A Trojan’s physical characteristics 
+Nearly every hardware Trojan’s structure is based on three main characteristics: physical, activation, and action. A Trojan’s physical characteristics are anything that describes how the Trojan looks and how it was implemented on the chip. This category can be further broken down into type, size, distribution, and structure. The Trojan’s activation characteristic describes what conditions must be present for the Trojan to activate. This typically means that Trojans will either activate after a long period of time due to the chosen activation method being probabilistically unlikely, or when the Trojan detects a specific event, such as a high temperature or a remote-detonation. Linked to the activation, the action characteristic of the Trojan describes exactly what happens when the Trojan is activated. These effects can range from just killing the chip to leaking the cryptographic information from a chip. With these characteristics, countless Trojan variations can be made and tuned to the specs of the specific board used.
 
 ## Question 4: Combinational vs. Sequential
 
 ```ad-question
 Describe the difference between a combinational and a sequential Trojan.
 ```
+
+When initially looking at both combinational and sequential Trojans, 
 
 ## Question 5: Cryptomodule Trojan
 
