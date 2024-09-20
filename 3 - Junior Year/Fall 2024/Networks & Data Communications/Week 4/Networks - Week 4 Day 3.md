@@ -67,3 +67,23 @@ Compute the short-path from Node $A$ to all network nodes using Distance-Vector 
 | $B$              | $\infty$ | $\infty$ | $\infty$ | $\infty$ |
 | $C$              | $\infty$ | $\infty$ | $\infty$ | $\infty$ |
 | $D$              | $\infty$ | $\infty$ | $\infty$ | $\infty$ |
+
+**Step 2:** Node $A$ receives cost from all neighbors
+
+| Router-to-Router | $A$ | $B$      | $C$   | $D$      |
+| ---------------- | --- | -------- | ----- | -------- |
+| **$A$**          | 0   | 5        | ==6== | 9        |
+| $B$              | 5   | 0        | 1     | $\infty$ |
+| $C$              | 7   | 1        | 0     | 2        |
+| $D$              | 9   | $\infty$ | 2     | 0        |
+
+**Step 3:** Node $A$ calculates minimum cost from Node $A$ to all nodes
+
+| Router-to-Router | $A$   | $B$   | $C$ | $D$   |
+| ---------------- | ----- | ----- | --- | ----- |
+| **$A$**          | 0     | 5     | 6   | ==8== |
+| $B$              | 5     | 0     | 1   | ==3== |
+| $C$              | ==6== | 1     | 0   | 2     |
+| $D$              | 9     | ==3== | 2   | 0     |
+
+
