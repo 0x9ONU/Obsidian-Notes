@@ -363,4 +363,8 @@ $$0x0\mbox{ABC}04-0x540\mbox{C}=0x\mbox{A}67\mbox{F}8$$
 
 ![[Pasted image 20240920113131.png]]
 
+# REVIEW
+
+![[Pasted image 20240920113832.png]]
+
 
