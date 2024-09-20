@@ -367,4 +367,15 @@ $$0x0\mbox{ABC}04-0x540\mbox{C}=0x\mbox{A}67\mbox{F}8$$
 
 ![[Pasted image 20240920113832.png]]
 
+## Design Principle 4
+
+*Good Design Demands Good Compromises*
+\
+Multiple instructions formats allow flexibility
+- `add, sub`: Use three register operands
+- `lw, sw, addi`: Use two register operands and a constant
+
+Number of instructions formats kept small
+- TO adhere to design principles 1 and 3 (simplicity favors regularity and smaller is faster).
+
 
