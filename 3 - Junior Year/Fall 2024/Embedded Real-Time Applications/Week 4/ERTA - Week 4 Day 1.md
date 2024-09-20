@@ -220,5 +220,3 @@ Make a Moore FSM of your class schedule of a typical class day
 
 
 
-
-

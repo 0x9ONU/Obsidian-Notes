@@ -8,34 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "24d924c2c13c89a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d4294df2107d5039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "8c0f4f463b4bd770",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94116dba83a6108e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf"
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 3.md"
               }
             }
           },
@@ -269,20 +266,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "bdef94af2cc949c5",
+        "id": "f2c69d3e4b018ebc",
         "type": "window",
         "children": [
           {
-            "id": "6b777635dfbaaca3",
+            "id": "94a674685a1d8b25",
             "type": "tabs",
             "children": [
               {
-                "id": "fbe53c725fb0f631",
+                "id": "cd9d99d1061f5a68",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "excalidraw",
                   "state": {
-                    "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf"
+                    "file": "General Notes/ERTA - Week 4 Day 3 2024-09-20 13.16.12.excalidraw.md"
                   }
                 }
               }
@@ -290,17 +287,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 896,
+        "y": 0,
+        "width": 896,
+        "height": 1072,
+        "maximize": false,
         "zoom": -2
       }
     ]
   },
-  "active": "fbe53c725fb0f631",
+  "active": "d4294df2107d5039",
   "lastOpenFiles": [
+    "General Notes/ERTA - Week 4 Day 3 2024-09-20 13.16.12.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 3.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
+    "General Notes/PXL_20240920_171046707.jpg",
+    "General Notes/ERTA - Week 4 Day 3 2024-09-20 13.07.38.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
     "General Notes/Pasted image 20240920113832.png",
@@ -315,7 +317,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-2 DV Algorithm.pdf",
     "General Notes/Pasted image 20240920093235.png",
-    "General Notes/Pasted image 20240920093020.png",
     "General Notes/Networks - Week 4 Day 2 2024-09-20 09.21.16.excalidraw.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-1 Routing Fundamentals and LS Algorithm.pdf",
     "General Notes/Networks - Week 4 Day 2 2024-09-20 09.11.22.excalidraw.md",
@@ -329,7 +330,6 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Hardware Security - Week 2 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Hardware Security - Week 4 Day 2.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Materials/Lecture 6.pdf",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.39.08.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.22.12.excalidraw.md",
@@ -339,12 +339,10 @@
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.19.54.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.19.08.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 1 2024-09-18 13.07.58.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Hardware Security - Week 1 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Lecture/HS - Lecture 5.pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Lecture/HS - Lecture 4.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 1/Computer Architecture - Week 1 Day 2.md"
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Lecture/HS - Lecture 4.pdf"
   ]
 }
