@@ -32,13 +32,15 @@ Nearly every hardware Trojan’s structure is based on three main characteristic
 Describe the difference between a combinational and a sequential Trojan.
 ```
 
-When initially looking at both combinational and sequential Trojans, 
+When initially looking at both combinational and sequential Trojans, they both seem similar in how they activate. They both take advantage of highly unlikely events that will then cause a payload unexpectedly for the victim. However, the ways they cause these unlikely events differs from combinational and sequential Trojans. Combinational focuses on putting a trigger and a payload on a certain area and makes it so that it triggers only after an unlikely set of inputs becomes true. For instance, a Trojan creator might steal digital signals from different parts of the board and put them in a sequence of AND gates that cause a Trojan to trigger only when all the inputs are true. On the other hand, sequential uses either a counter or a small finite state machine (FSM) to keep track of a sequence of events that happens to trigger a Trojan. For instance, a finite state machine may be used to activate a Trojan if a user decides to get a certain message, open that message, and delete it. Otherwise, in the case of finite state machines, they will often just jump back to the base condition and wait for that combination of events to happen again.
 
 ## Question 5: Cryptomodule Trojan
 
 ```ad-question
 Provide an example of hardware Trojan in a cryptomodule.
 ```
+
+The most prolific example of the hardware Trojan against a cryptomodule is the Malicious Off-Chip Leakage Enables by Side-channels attack (MOLES). In MOLES, the attack will add a side-channel onto a chip that will allow the attackers to gain a cryptographic key or other important information that can be used to crack the system. 
 
 ## Question 6: ASIC vs. FPGA Trojans
 
