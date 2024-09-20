@@ -24,7 +24,7 @@ When a hardware Trojan is suspected to be planted, there are multiple different 
 Provide a brief description of a generic Trojan structure.
 ```
 
-Nearly every hardware Trojan’s structure is based on three main characteristics: physical, activation, and action. A Trojan’s physical characteristics are anything that describes how the Trojan looks and how it was implemented on the chip. This category can be further broken down into type, size, distribution, and structure. The Trojan’s activation characteristic describes what conditions must be present for the Trojan to activate. This typically means that Trojans will either activate after a long period of time due to the chosen activation method being probabilistically unlikely, or when the Trojan detects a specific event, such as a high temperature or a remote-detonation. Linked to the activation, the action characteristic of the Trojan describes exactly what happens when the Trojan is activated. These effects can range from just killing the chip to leaking the cryptographic information from a chip. With these characteristics, countless Trojan variations can be made and tuned to the specs of the specific board used.
+Hardware Trojans, much like software Trojans, are placed within an integrated circuit or a silicon-on-chip device and is originally hidden as normal hardware. However, as the user continuous to use it, they might realize that there is something wrong with the device. A Trojan will activate at some point on a tampered device and will cause an effect that will cause harm to the user. Typically, they are put into devices to cause them to fail or to steal cryptographic information from them.
 
 ## Question 4: Combinational vs. Sequential
 
@@ -48,7 +48,7 @@ The most prolific example of the hardware Trojan against a cryptomodule is the M
 Give a comparison of hardware Trojans in ASIC and FPGA designs.
 ```
 
-
+When comparing what hardware Trojans can go onto an ASIC versus an FPGA, it is important to note the differences between them. FPGAs consist of reconfigurable hardware while ASICs have to be fabricated and cannot be changed after being created. FPGA’s are more expensive but are faster to get to market. Additionally, ASICs are around 10x faster than FPGAs since it is specialized for a single purpose. In terms of how hardware Trojans are made for each, the differences begin at where the most effective insertion point is. FPGAs often do not have to worry about the Fabs inserting a Trojan, while ASIC is have to worry about the fabs as well. On the other hand, FPGAs are very suspectable to third party attackers much more than ASICs. FPGAs can also have specific attacks related to them instead of ASICs. For instance, there could be a state machine that causes a sequential Trojan after running a certain amount of instructions. Another thing to note is that FPGAs can be tested much easier compared to ASICs, meaning it is more difficult for Trojans to be placed if they are on the testing tracks.
 
 ## Question 7: Hardware Trojan Taxonomy
 
@@ -56,11 +56,13 @@ Give a comparison of hardware Trojans in ASIC and FPGA designs.
 Illustrate the hardware trojan taxonomy and classify them based on activation mode and payload.
 ```
 
+Nearly every hardware Trojan’s structure is based on three main characteristics: physical, activation, and action. A Trojan’s physical characteristics are anything that describes how the Trojan looks and how it was implemented on the chip. This category can be further broken down into type, size, distribution, and structure. The Trojan’s activation characteristic describes what conditions must be present for the Trojan to activate. This typically means that Trojans will either activate after a long period of time due to the chosen activation method being probabilistically unlikely, or when the Trojan detects a specific event, such as a high temperature or a remote-detonation. Linked to the activation, the action characteristic of the Trojan describes exactly what happens when the Trojan is activated. These effects can range from just killing the chip to leaking the cryptographic information from a chip. With these characteristics, countless Trojan variations can be made and tuned to the specs of the specific board used.
+
 ## Question 8: Trojan Countermeasures
 
 ```ad-question
 Illustrate the taxonomy of Trojan countermeasures
 ```
 
-
+When trying to counter Trojans, there are typically three well-known methods. These methods include: rare event removal, Trojan prevention-design obfuscation, and Built-In Self-Authentication (BISA). When using rare event removal, the designers will purposefully try to insert probing points or dummy scan flip-flops to try so the testers can try to sniff out rare events and see if a batch of ICs are infected. Typically done to counter combinational Trojans, a scan flip-flop may be turned on to reduce the odds of a specific rare event happening to increase the odds of the chip activating the hidden Trojan. Contrastingly, design obfuscation’s main objective is to deter attackers from inserting Trojans in the first place. Typically placed in devices that rely on finite state machines, another obfuscated state space is created in addition to the normal state space. In this case, there is an initialization space that must pass through a set of states to go to the original state machine. If an attacker places it within the obfuscation space, the Trojan is invalidated and will cause no problem to the system. Finally, Built-In Self-Authentication refers to using the empty cells in an SoC with hardware that can be used to authenticate that the chip is legitimate and no tampering happened on the hardware level. It allows a chip to be validated with the hardware on-board without much overhead.
 
