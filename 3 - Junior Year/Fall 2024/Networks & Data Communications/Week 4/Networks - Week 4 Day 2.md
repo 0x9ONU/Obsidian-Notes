@@ -111,6 +111,8 @@ $N^\prime$: Set of nodes whose least cost path is already known
 Compute the short-path from $u$ to all netowrk nodes using Dijkstra's algorithm
 ```
 
+![[Pasted image 20240918090725.png]]
+
 | Step | $N^\prime$     | $D(v), p(v)$ | $D(w), p(w)$ | $D(x), p(x)$ | $D(y), p(y)$ | $D(x), p(z)$ |
 | ---- | -------------- | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 0    | $u$            | $2, u$       | $5, u$       | ==$1, u$==   | $\infty$     | $\infty$     |
@@ -123,6 +125,8 @@ Compute the short-path from $u$ to all netowrk nodes using Dijkstra's algorithm
 **Shortest Path**
 
 ![[Pasted image 20240918094319.png]]
+
+**Routing Table for $u$**
 
 | Destination | Link     |
 | ----------- | -------- |
@@ -153,11 +157,49 @@ This complexity is very high. This means that the Distance-Vector algorithm is M
 
 ![[Pasted image 20240918094745.png]]
 
-### Distance-Vector Routing Algorithm (Bellman-Ford)
+### MORE Examples
 
-```ad-summary
-- Each router knows *direct neighbors* & link costs to neighbors
-- Calculate the shortest path to each destination through an *iterative* process *based on the neighbors distances* to each destination
+#### Example 1
+
+```ad-question
+Compute the shortest path from $z$ to all network nodes, using Dijkstra Algorithm
 ```
 
+![[Pasted image 20240920090602.png]]
+
+| step | Node         | $D(v), p(v)$ | $D(x)p(x)$ | $D(y)p(y)$ | $D(u)p(u)$ |
+| ---- | ------------ | ------------ | ---------- | ---------- | ---------- |
+| 0    | $z$          | $6, z$       | ==$2, z$== | $\infty$   | $\infty$   |
+| 1    | $z$==$x$==   | ==$5, x$==   |            | $5, x$     | $\infty$   |
+| 2    | $zx$==$v$==  |              |            | ==$5, x$== | $6, v$     |
+| 3    | $zxv$==$y$== |              |            |            | ==$6, v$== |
+
+![[Networks - Week 4 Day 2 2024-09-20 09.11.22.excalidraw]]
+
+**Routing Table for $z$**
+
+| Destination | Route    |
+| ----------- | -------- |
+| $v$         | $(z, x)$ |
+| $x$         | $(z, x)$ |
+| $y$         | $(z, x)$ |
+| $u$         | $(z, x)$ |
+
+#### Example 2
+
+```ad-question
+Consider the following network. WIth the indicated link costs, compute the shortest path from $A$ to all network nodes using Dijkstra Algorithm.
+```
+
+![[Pasted image 20240920091519.png]]
+
+| Step | Node    | $D(B), p(B)$ | $D(C),P(C)$ | $D(D), p(D)$ | $D(E), p(e)$ | $D(F), p(f)$ |     |
+| ---- | ------- | ------------ | ----------- | ------------ | ------------ | ------------ | --- |
+| 0    | $A$     | $9, A$       | $9, A$      | ==$2, A$==   | $\infty$     | $\infty$     |     |
+| 1    | $AD$    | $9, D$       | $8, D$      |              | ==$3, D$==   | $8, D$       |     |
+| 2    | $ADE$   | $9, D$       | $8, D$      |              |              | ==$4, E$==   |     |
+| 3    | $ADEF$  | $9, D$       | ==$6, F$==  |              |              |              |     |
+| 4    | $ADEFC$ | ==$7, F$==   |             |              |              |              |     |
+
+![[Networks - Week 4 Day 2 2024-09-20 09.21.16.excalidraw]]
 
