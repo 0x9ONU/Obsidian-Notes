@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf"
               }
             }
           },
@@ -299,10 +299,10 @@
       }
     ]
   },
-  "active": "d4294df2107d5039",
+  "active": "fbe53c725fb0f631",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
     "General Notes/Pasted image 20240920113832.png",
     "General Notes/Pasted image 20240920113131.png",
     "General Notes/Pasted image 20240920112743.png",
