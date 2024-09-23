@@ -7,5 +7,6 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "General Notes",
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }

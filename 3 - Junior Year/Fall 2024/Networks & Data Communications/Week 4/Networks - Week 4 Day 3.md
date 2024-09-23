@@ -86,4 +86,9 @@ Compute the short-path from Node $A$ to all network nodes using Distance-Vector 
 | $C$              | ==6== | 1     | 0   | 2     |
 | $D$              | 9     | ==3== | 2   | 0     |
 
+Continues to the next lecture…
+
+[[Networks - Week 5 Day 1]]
+
+
 
