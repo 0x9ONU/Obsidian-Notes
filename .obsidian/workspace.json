@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "5e6f8ed728fc88a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba29ddbad8578978",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/CA - Lecture 9.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,8 +253,15 @@
   },
   "active": "24d924c2c13c89a7",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
+    "General Notes/Pasted image 20240923112320.png",
+    "General Notes/Pasted image 20240923112246.png",
+    "General Notes/Pasted image 20240923111306.png",
+    "General Notes/Pasted image 20240923111305.png",
+    "General Notes/Pasted image 20240923110929.png",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/CA - Lecture 9.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5",
@@ -273,14 +296,8 @@
     "General Notes/Pasted image 20240920113832.png",
     "General Notes/Pasted image 20240920113131.png",
     "General Notes/Pasted image 20240920112743.png",
-    "General Notes/Pasted image 20240920112454.png",
-    "General Notes/Pasted image 20240920112428.png",
-    "General Notes/Pasted image 20240920112229.png",
-    "General Notes/PXL_20240920_152047350.jpg",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-1 Routing Fundamentals and LS Algorithm.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Lecture/HS - Lecture 3.pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Lecture/HS - Lecture 2.pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 1/Lecture/HS- Lecture 1.pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Materials/Review of chapter 5 and class discussion questions.pdf"
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 2/Lecture/HS - Lecture 2.pdf"
   ]
 }
