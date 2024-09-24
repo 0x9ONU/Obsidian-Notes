@@ -20,22 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f4e8f4855f1192e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4651240882c8db87",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/HS - Lecture 7.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
