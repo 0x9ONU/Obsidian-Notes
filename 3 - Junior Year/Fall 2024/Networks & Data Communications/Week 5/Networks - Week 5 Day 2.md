@@ -99,6 +99,8 @@ title: Command Syntax
 
 ### Default Routing
 
+![[Pasted image 20240925094824.png]]
+
 ```ad-summary
 We use defualt routing to send packets with a remote destination network not in the routing table to the next-hop router. You can only use defualt routing on stub networks, those with only one exit path out fo the network.
 ```
@@ -110,4 +112,11 @@ By using a default route, you can just create one static route entry instead. Th
 ```ad-important
 This is used for edge-routers that are connected to the internet or another larger network
 ```
+#### Default Routing for R2, R3, E4
+
+`Router2(conifg)# ip route 0.0.0.0 0.0.0.0 s0/2/0`
+
+`Router3(config)#ip route 0.0.0.0 0.0.0.0 s0/1/1`
+
+`Router4(config)# ip route 0.0.0.0 0.0.0.0 s0/1/1`
 
