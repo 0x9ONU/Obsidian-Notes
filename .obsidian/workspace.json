@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71cfb88b2e479795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "04340cc7f4a30f4b",
             "type": "leaf",
             "state": {
@@ -31,20 +19,19 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "391ac48d3fd6ca8f",
+        "id": "71d4a85193e0e71e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc7d4202c848a03f",
+            "id": "9f618a2cafbc5a7f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/HS - Lecture 7.pdf"
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/lecture 8(1).pdf"
               }
             }
           }
@@ -266,9 +253,19 @@
   },
   "active": "04340cc7f4a30f4b",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/HS - Lecture 7.pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/lecture 8(1).pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 2.md",
+    "General Notes/Pasted image 20240925144211.png",
+    "General Notes/Pasted image 20240925143746.png",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/HS - Lecture 7.pdf",
+    "General Notes/Pasted image 20240925142708.png",
+    "General Notes/Pasted image 20240925142612.png",
+    "General Notes/Pasted image 20240925142430.png",
+    "General Notes/Pasted image 20240925141716.png",
+    "General Notes/Pasted image 20240925141714.png",
+    "General Notes/Pasted image 20240925141503.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 4/Hardware Security - Week 4 Day 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 1.md",
@@ -279,8 +276,6 @@
     "General Notes/Pasted image 20240925094824.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-3 Static and Default Routing.pdf",
     "General Notes/Pasted image 20240925093314.png",
-    "General Notes/Pasted image 20240925090857.png",
-    "General Notes/Pasted image 20240925090401.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4.md",
@@ -291,25 +286,17 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
-    "General Notes/Systick-timer-configuration-and-control-register-TM4C123.webp",
-    "General Notes/Pasted image 20240923133617.png",
-    "General Notes/Pasted image 20240923133547.png",
-    "General Notes/Pasted image 20240923133530.png",
-    "General Notes/GUID-B331F1FD-8CAA-4CAF-9C33-8EF850DB004D-low.png",
     "General Notes/ERTA - Week 5 Day 1 2024-09-23 13.32.12.excalidraw.md",
     "General Notes/ERTA - Week 4 Day 3 2024-09-20 13.16.12.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/CA - Lecture 9.pdf",
-    "General Notes/Pasted image 20240923113907.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/PDF/Lecture 8.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
     "().md",
     "2024-07-22.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3.md"
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md"
   ]
 }
