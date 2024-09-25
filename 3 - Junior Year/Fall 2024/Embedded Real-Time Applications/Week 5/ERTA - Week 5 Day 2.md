@@ -43,10 +43,13 @@ All exercises must be redone, as they will most likely be on the EXAM
 6. Interrupts
 7. Harvard vs Von Neumann Architecture
 8. ISAs
-9. Program status register overview
-10. Memory mapping
-11. Big versus little endian
-12. Assembly
+9. Registers
+	- How they are used in assembly commands
+	- How they are used in architecture
+10. Program status register overview
+11. Memory mapping
+12. Big versus little endian
+13. Assembly
 	- Relationship between:
 		- High level languages
 		- Assembly
