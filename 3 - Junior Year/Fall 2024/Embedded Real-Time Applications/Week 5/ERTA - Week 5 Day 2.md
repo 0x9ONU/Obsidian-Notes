@@ -88,7 +88,7 @@ You will *not* need to know how to write assembly or C from scratch.
 	- https://developer.arm.com/documentation/100076/0100/A64-Instruction-Set-Reference/Condition-Codes/Condition-flags
 4. Logical Operations (AND, OR, XOR, NOT)
 5. Signed vs. Unsigned integer representation
-6. Manipulating and reading bitstreams with DL $\star$
+6. *Manipulating and reading bitstreams with DL $\star$*
 7. Bit Shifts
 	- Logical and Arithmetic
 
@@ -103,7 +103,7 @@ You will *not* need to know how to write assembly or C from scratch.
 3. I/O within the memory map
 4. Why are Pullup/Pulldown resistors are necessary?
 5. Ports vs. Pins
-6. Manipulating and reading bitstreams through I/O using DL
+6. *Manipulating and reading bitstreams through I/O using DL*
 	- Binary masks
 7. Port Types
 	- Input only ports
