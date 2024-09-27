@@ -76,6 +76,16 @@ Spectral density distribution of the chip surface, which is correlated to the fu
 - Arithmetic instructions
 - Control-flow instructions
 
+# Correlation Power Analysis
+
+Two *important* aspects of a practical CPA:
+- **The selection of the power model**: The power model is chosen so that it has a dependency on a part of the secret key. A good candidate is the output of the substitution step.
+- **The definition of the Attack Success Metric**: *Measurement to Disclosure (MTD)*; the more measurements that are required to successfully attack a cryptographic design with side-channel analysis, the more secure that design is.
+
+## Practical Hypothesis Tests
+
+![[Pasted image 20240927143922.png]]
+
 # Dual Logic
 
 ```ad-summary
@@ -88,7 +98,7 @@ All functionality at the gate level can be created using NAND or NOR gates:
 
 $$y = \bar{AB} = \bar{A} + \bar{B}$$
 
-## Dual Logic Principles
+## Dual Logic Principles (*Dual Rail Precharge (DRP)*)
 
 Unlike normal gates, it assumes that every gate will be made of two gates such that there will always be four inputs and two outputs such that:
 
@@ -109,6 +119,14 @@ That means there is *no major power variation*
 The power dissipation from the direct operation always has a complementary counterpart from the complementary operation. The sum of these two is a constant.
 
 ![[Pasted image 20240927142650.png]]
+
+# Review Flowchart
+
+```mermaid
+flowchart TB
+Introduction --> Hardware_Trojan
+Introduction --> SCA
+```
 
 
 

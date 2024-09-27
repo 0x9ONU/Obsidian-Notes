@@ -238,12 +238,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,8 +299,9 @@
       }
     ]
   },
-  "active": "1da590d59d40f468",
+  "active": "add95cf10497ff6a",
   "lastOpenFiles": [
+    "General Notes/Pasted image 20240927143922.png",
     "General Notes/Pasted image 20240927142930.png",
     "General Notes/Pasted image 20240927142912.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/lecture 9(1).pdf",
@@ -317,7 +318,6 @@
     "General Notes/Pasted image 20240927113703.png",
     "General Notes/Pasted image 20240927112138.png",
     "General Notes/Computer Architecture - Week 5 Day 3 2024-09-27 11.15.19.excalidraw.md",
-    "General Notes/Pasted Image 20240927111607_675.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/Lecture 11.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/CA - Lecture 9.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 2.md",
