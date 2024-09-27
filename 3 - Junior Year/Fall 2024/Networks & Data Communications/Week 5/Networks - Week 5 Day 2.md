@@ -24,6 +24,14 @@ There are two types of devices that can communicate over a serial interface: Dat
 
 ## Routing Table
 
+```ad-warning
+Downsides to Static Routing:
+- Needs to be setup manually
+- Needs to be changed if a cost changes in a link
+- Needs to be updated if a link goes down manually.
+- Is very time consuming to keep up
+```
+
 ```ad-summary
 title: Defintion
 A routing table is a set of rules, often viewed in table format, that is used to dtermine where data packets traveling over an Internet Protocol (IP) network will be directed.
