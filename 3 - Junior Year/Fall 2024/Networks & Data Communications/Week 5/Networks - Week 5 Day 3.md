@@ -104,6 +104,10 @@ Router1(config-router)# exit
 
 **Step 3**: List all passive interfaces connected on Router1:
 
+```ad-note
+Typically is the ethernet port AND any other connection that is not connected to another router
+```
+
 | Name of Passive-Interface               |
 | --------------------------------------- |
 | `192.168.1.0` $\rightarrow$ `gig 0/0/0` |
@@ -114,4 +118,26 @@ Router1(config-router)# exit
 // Add the following command right before exiting
 passive-interface gig 0/0/0
 ```
+```ad-warning
+If you do not do this, it is very easy for malicious hackers to gain the whole network layout by just having access to an access point
+```
+
+**Step 5**: Verify routing table
+
+```
+Router# show ip route
+```
+
+```ad-summary
+**Types of Codes**:
+- L: Locally directly connected
+- C: Connected
+- S: Connected with static routing
+- R: The routing path is learned via RIP
+- *And many more for different dyanmic routing protocols*
+```
+
+![[PXL_20240927_134459410.jpg]]
+
+
 
