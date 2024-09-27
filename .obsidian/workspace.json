@@ -33,22 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "be800364bdf636c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c804d80b8e444169",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/lecture 9(1).pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -243,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,7 +284,7 @@
       }
     ]
   },
-  "active": "add95cf10497ff6a",
+  "active": "1da590d59d40f468",
   "lastOpenFiles": [
     "General Notes/Pasted image 20240927143922.png",
     "General Notes/Pasted image 20240927142930.png",
