@@ -114,3 +114,42 @@ Supports *very* cool instructions (don’t care)
 
 ![[Lecture 11.pdf]]
 
+# Exceptions
+
+Unscheduled function call to *exception handler*
+
+Caused by:
+- Hardware *interrupts*
+- Software *traps* which are undefined instructions
+
+When exception occurs, the processor:
+- Records the cause of the exception
+- Jumps to exception handler
+- Returns to the program
+
+![[Pasted image 20240927113703.png]]
+
+## Privilege Levels
+
+RISC-V exceptions occur at various *privilege levels*
+
+```ad-summary
+- **Machine** mode (bare metal)
+- **System** mode (OS)
+- **User** mode (user program)
+- **Hypervisor** mode (to support virtual machines)
+```
+
+Goes from highest (machine) to lowest (hypervisor)
+
+## Exception Registers
+
+Each level has its own *control and status registers* (**CSRRs**)
+
+In machine mode, we have:
+- `mtvec, mcause, mepc, mscratch`
+
+```ad-warning
+NOT part of the register file
+```
+
