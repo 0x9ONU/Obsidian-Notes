@@ -13,37 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1058f8ad2af1d0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b88ea3ccf65962ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48331ddcc772eacb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-4 RIP Routing.pdf"
               }
             }
           }
@@ -59,7 +31,6 @@
       {
         "id": "fa74925aabe0022f",
         "type": "tabs",
-        "dimension": 76.52582159624413,
         "children": [
           {
             "id": "111c18cc095349af",
@@ -103,21 +74,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6d9e2a08a4a8504b",
-        "type": "tabs",
-        "dimension": 23.474178403755865,
-        "children": [
-          {
-            "id": "bb2e772f683282f7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md"
               }
             }
           },
@@ -264,45 +220,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "floating": {
-    "id": "9c0236b07403931d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fd8a52ed217807f0",
-        "type": "window",
-        "children": [
-          {
-            "id": "de267140659bffc5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bc7f6d90d6cced8c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-4 RIP Routing.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": -1.5
-      }
-    ]
-  },
   "active": "04340cc7f4a30f4b",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-4 RIP Routing.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 6",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-4 RIP Routing.pdf",
     "General Notes/Pasted image 20240930093243.png",
     "General Notes/Pasted image 20240930092827.png",
     "General Notes/Pasted image 20240930092655.png",
@@ -311,10 +238,7 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 3.md",
@@ -326,7 +250,6 @@
     "General Notes/Pasted image 20240927142044.png",
     "General Notes/Hardware Security - Week 5 Day 3 2024-09-27 14.18.58.excalidraw.md",
     "General Notes/Pasted image 20240927141015.png",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 3.md",
     "General Notes/Computer Architecture - Week 5 Day 3 2024-09-27 11.15.19.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/Lecture 11.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/CA - Lecture 9.pdf",
@@ -344,7 +267,6 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/HS - Lecture 7.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-3 Static and Default Routing.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials"
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials"
   ]
 }
