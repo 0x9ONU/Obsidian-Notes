@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md"
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md"
               }
             }
           },
@@ -247,13 +247,19 @@
   },
   "active": "9b5bced62b71411d",
   "lastOpenFiles": [
+    "General Notes/Hardware Security - Week 6 Day 1 2024-09-30 14.13.25.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/Review of chapter 8 and class discussion questions 1.pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/Review of chapter 8 and class discussion questions.pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 6",
     "General Notes/PXL_20240930_174005262~2.jpg",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "General Notes/ERTA - Week 5 Day 1 2024-09-30 13.22.26.excalidraw.md",
     "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
     "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
     "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6",
@@ -284,14 +290,8 @@
     "General Notes/Pasted image 20240927142650.png",
     "General Notes/Pasted image 20240927142044.png",
     "General Notes/Hardware Security - Week 5 Day 3 2024-09-27 14.18.58.excalidraw.md",
-    "General Notes/Pasted image 20240927141015.png",
     "General Notes/Computer Architecture - Week 5 Day 3 2024-09-27 11.15.19.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/Lecture 11.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/CA - Lecture 9.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/lecture 8(1).pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/HS - Lecture 7.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-3 Static and Default Routing.pdf"
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 2.md"
   ]
 }
