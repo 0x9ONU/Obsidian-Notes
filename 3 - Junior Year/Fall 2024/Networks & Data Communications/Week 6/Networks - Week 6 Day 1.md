@@ -125,9 +125,8 @@ RIP automatically summarizes along classful network boundaries.
 So, if your router sees that several subnets of the same network all use the same path, and there are no subnets of this network using a different path, it will automatically summarize this information. 
 
 ```ad-warning
-The routes to the individual subnets are *supressed*
+The routes to the individual subnets are *supressed*. This could lead to dropped packets if subnets are using *classless* ips
 ```
 
 ![[Pasted image 20240930093243.png]]
-
 
