@@ -116,24 +116,108 @@ SysTick_Init
 #define SysTick_LOAD (*((volatile unsigned long *)0xE000E014))
 #define SysTick_LOAD (*((volatile unsigned long *)0xE000E018))
 
-void 
+void SysTick_Init(void) {
+	SysTick_CTRL = 0;
+	SysTick_LOAD = 0x00FFFFFF;
+	SysTick_VAL = 0;
+	SysTick_CTRL = 0x00000005;
+}
+```
+## Functionalities
+
+### Measure Elapsed Time
+
+```c
+Start = SysTick->VAL;
+SystemUnderTest();
+Stop = SysTick->VAL;
+Delta = 0x00FFFFFF&(Start-Stop);
+```
+```ad-note
+title: Remember
+Masking with `0x00FFFFFF`, you are taking in *only* the least significant 24 bits
 ```
 
-#comebacklater 
+This is limited by the max clock cycle.
 
-### In Assembly
+**At 48 MHZ**:
+- 24-bit percision
+- 20.83ns resolution
+- 349ms range
 
+### SysTick Short Timer Wait
+
+```c
+void SysTick_Wait(uint32_t n) {
+	SysTick->LOAD = n-1;
+	SysTick->VAL = 0;    //clear count
+	while((SysTick->CTRL&0x00010000) == 0) {};
+}
 ```
-; disable SysTick during setup
-	LDR R1, =SysTick_CTRL
-	MOV R0, #0 ; Clear ENABLE bit (step 1)
-	STR R0, [R1]
-; set reload to maximum reload value
-	LDR R1, =SysTick_Load
-	LDR R0, =0x00FFFFFF  ; Specify Reload Value
-	STR R0, [R1]         ; Reload at max value
-; Writing any value to CURRENT clears it
-	LDR R1, =SysTick_VAL
+![[ERTA - Week 5 Day 1 2024-09-30 13.22.26.excalidraw]]
+
+### Long Timer Wait
+
+```c
+void SysTick_Wait10ms(uint32_t delay) {
+	for(uint32_t = 0; i < delay; i++) {
+		SysTick_Wait(480000);
+	}
+}
 ```
 
+- 48 cycles is 1us
+- 48,000 cycles 1ms
+- 480,000 cycles is 10ms
 
+## Pulse Width Modulation (PWM)
+
+```ad-summary
+A method of representing an analog symbol as a series of regular waves
+```
+
+**Application**:
+- Controlling motors, LEDs
+- Can be use for digital to analog conversion (DAC)
+
+```ad-note
+Use SysTick to generate a waveform to modulate power delivery
+```
+
+### Duty Cycle
+
+The ratio to high to low voltages in a PWM device:
+
+$$\mbox{Duty Cycle} = \frac{\mbox{High Period}}{\mbox{High Period} + \mbox{Low period}} = \frac{\mbox{High Period}}{\mbox{Cycle Period}}$$
+
+```ad-example
+A duty cycle of 60% would mean the signal is on for 60% of the time!
+```
+
+### Input and Output Voltage of a Duty Cycle
+
+Changes in the input ovltage *does not* translate into exact voltage output
+
+Depends on the following equaiton
+
+$$\mbox{Out}(t) = A + Be^{\frac{-t}{\tau}}$$
+
+Each load time has a $\tau$:
+- $\tau$ is the time to reach 63.2% of the final voltage
+- Example: HLMP-4700 LED: $\tau = 90ns$
+- Example: DC motor: $\tau = 100ms$
+
+### Using SysTick to code a PWM
+
+```c
+while(1) {
+	P1->OUT |= 0x01;  // Red LED on
+	SysTick_Wait(High);
+	#comebacklater
+}
+```
+### DAC with PWM
+
+#### Low pass filter
+
+![[PXL_20240930_174005262~2.jpg]]
