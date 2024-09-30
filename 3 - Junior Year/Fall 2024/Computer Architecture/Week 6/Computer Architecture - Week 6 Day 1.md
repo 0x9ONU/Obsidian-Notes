@@ -15,6 +15,11 @@ collapse: open
 
 # Exam 1
 
+Timings:
+- Problem 1: 30 minutes (do this one last)
+- Problem 2: 30-45 minutes
+- Problem 3: 30-45 minutes
+
 ## Problem 1
 
 Recursive Function that is either the factorial one OR the greet one. Draw the stack for either, then determine the outcome when *four* different instructions were changed.
@@ -44,4 +49,6 @@ Exactly LIKE exercise 6.26, but with less instructions.
 CHECK with assembly and show it is correct!
 ```
 
+## Question 3
 
+Writing assembly to do something. Will be *about* arithmetic
