@@ -24,7 +24,7 @@ collapse: open
 
 ```ad-note
 title: remember
-Interrupts are mechanism by which other modlules may interrupt the normal sequencing of the processor, which can mess witht he timing on a MCU.
+Interrupts are mechanism by which other modlules may interrupt the normal sequencing of the processor, which can mess with the timing on a MCU.
 ```
 
 ## Timer Fundamentals
@@ -118,6 +118,22 @@ SysTick_Init
 
 void 
 ```
+
 #comebacklater 
+
+### In Assembly
+
+```
+; disable SysTick during setup
+	LDR R1, =SysTick_CTRL
+	MOV R0, #0 ; Clear ENABLE bit (step 1)
+	STR R0, [R1]
+; set reload to maximum reload value
+	LDR R1, =SysTick_Load
+	LDR R0, =0x00FFFFFF  ; Specify Reload Value
+	STR R0, [R1]         ; Reload at max value
+; Writing any value to CURRENT clears it
+	LDR R1, =SysTick_VAL
+```
 
 

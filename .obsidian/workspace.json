@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b5bced62b71411d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md"
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md"
               }
             }
           },
@@ -220,10 +233,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "04340cc7f4a30f4b",
+  "active": "9b5bced62b71411d",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 1.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 1.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
@@ -262,11 +278,8 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 2/ERTA - Week 2 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 2/ERTA - Week 2 Day 1.md",
     "General Notes/ERTA - Week 1 Day 2 2024-08-28 13.23.39.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1/ERTA - Week 1 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/lecture 8(1).pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/HS - Lecture 7.pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-3 Static and Default Routing.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials"
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-3 Static and Default Routing.pdf"
   ]
 }
