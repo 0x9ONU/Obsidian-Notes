@@ -66,9 +66,9 @@ A group or system of interconnected things
 ![[Networks - Week 1 Day 1 2024-08-26 09.39.24.excalidraw]]
 
 
-## Some Pieces of the Inernet
+## Some Pieces of the Internet
 
-**HOsts or End Systems:**
+**Hosts or End Systems:**
 
 - Computing devices that are any client computer or server machine.
 - Connected together by a network of communication links and switches. Different links can transmit data at different rates, with the transmission rate of a link measured in bits/second.
