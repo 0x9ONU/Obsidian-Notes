@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md"
               }
             }
           },
@@ -247,8 +247,22 @@
   },
   "active": "9b5bced62b71411d",
   "lastOpenFiles": [
-    "General Notes/Hardware Security - Week 6 Day 1 2024-09-30 14.13.25.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 5/DSA Week 5 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 2/DSA Week 2 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 1/DSA Week 1 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 1/DSA Week 1 - Day 2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 3.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 1-2.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 3/DSA Week 3 - Day 1.md",
+    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 3/DSA PreReq Exam Review.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md",
+    "General Notes/Hardware Security - Week 6 Day 1 2024-09-30 14.13.25.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/Review of chapter 8 and class discussion questions 1.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/Review of chapter 8 and class discussion questions.pdf",
@@ -266,32 +280,18 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 3/Computer Architecture - Week 3 Day 2.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-4 RIP Routing.pdf",
     "General Notes/Pasted image 20240930093243.png",
     "General Notes/Pasted image 20240930092827.png",
     "General Notes/Pasted image 20240930092655.png",
     "General Notes/Pasted image 20240930092049.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 4/Computer Architecture - Week 4.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 2.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/lecture 9(1).pdf",
     "General Notes/Pasted image 20240927143922.png",
     "General Notes/Pasted image 20240927142930.png",
     "General Notes/Pasted image 20240927142912.png",
     "General Notes/Pasted image 20240927142650.png",
     "General Notes/Pasted image 20240927142044.png",
-    "General Notes/Hardware Security - Week 5 Day 3 2024-09-27 14.18.58.excalidraw.md",
-    "General Notes/Computer Architecture - Week 5 Day 3 2024-09-27 11.15.19.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/Lecture 11.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 2.md"
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/PDF/Lecture 11.pdf"
   ]
 }
