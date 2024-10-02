@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "34ffca0adf50b670",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1787ce20ec45979c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/lecture 10(1).pdf"
               }
             }
           }
@@ -117,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/lecture 10(1).pdf",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/lecture 10(1).pdf",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/lecture 10(1).pdf"
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md"
               }
             }
           },
@@ -249,12 +233,22 @@
             "type": "tabs",
             "children": [
               {
-                "id": "1a9af75282e0bc29",
+                "id": "585d3efff0dc8fc5",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/lecture 10(1).pdf"
+                    "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-4 RIP Routing.pdf"
+                  }
+                }
+              },
+              {
+                "id": "aae35553a985d377",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-3 Static and Default Routing.pdf"
                   }
                 }
               }
@@ -262,20 +256,25 @@
           }
         ],
         "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 0,
+        "y": 536,
+        "width": 896,
+        "height": 536,
+        "maximize": false,
         "zoom": -1.5
       }
     ]
   },
-  "active": "1a9af75282e0bc29",
+  "active": "b39d8416beb75a32",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-4 RIP Routing.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-3 Static and Default Routing.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 2.md",
-    "General Notes/Pasted image 20241002143945.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/lecture 10(1).pdf",
+    "General Notes/Pasted image 20241002143945.png",
     "General Notes/Pasted image 20241002141858.png",
     "General Notes/Pasted image 20241002141628.png",
     "General Notes/Pasted image 20241002141159.png",
@@ -288,13 +287,9 @@
     "General Notes/Pasted image 20241002112120.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials/Lecture 12.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-3 Static and Default Routing.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-2 DV Algorithm.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/Lab 03, Configuring a Router-1.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-1 Routing Fundamentals and LS Algorithm.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md",
@@ -307,7 +302,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 1.md",
     "General Notes/Networks - Week 3 Day 1 2024-09-09 09.52.00.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Lecture/1-4 Physical Media and TCP-IP Protocol.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 2/Networks - Week 2 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2-3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",

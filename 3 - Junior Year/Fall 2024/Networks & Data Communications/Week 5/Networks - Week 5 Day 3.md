@@ -26,9 +26,9 @@ Static routing fails to change when the network changes without manually configu
 ## Routing the Internet
 
 - Lecture focuses on Internet’s routing protocols. The main goal of internet routing protocol is to determine the path taken by a packet between source and destination
-	- Incorporates routing algorithms; link-state and distance-vector
-
-#comebacklater 
+	- Incorporates routing algorithms; link-state and distance-vector to find the shortest path
+- Each network system contains multiple subnets that requires routing protocol to select the best path to the destination.
+- One of the most commonly used routing protocols is Routing Information Protocol (RIP)
 
 # Router Information Protocol (RIP)
 
