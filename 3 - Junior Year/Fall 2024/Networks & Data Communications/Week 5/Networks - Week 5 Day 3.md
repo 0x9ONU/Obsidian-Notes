@@ -70,6 +70,12 @@ Routing table has three columns. First for destination subnet, second to identif
 
 ![[Pasted image 20240927092006.png]]
 
+### Link Cost
+
+```ad-important
+The RIP routing defaults every link to have a cost of *120*
+```
+
 ### Link Failure and Recovery
 
 ```ad-important
