@@ -4,38 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9bc5afd8bbb398",
+        "id": "72d33e4b0cbffda7",
         "type": "tabs",
         "children": [
           {
-            "id": "b39d8416beb75a32",
+            "id": "6fbc4eacae5b40f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03928f723814a21c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "6e3b399258669016",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a9f34587dfe649cc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials/Lecture 12.pdf"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials/Lecture 12.pdf",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials/Lecture 12.pdf",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials/Lecture 12.pdf"
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 3.md"
               }
             }
           },
@@ -236,8 +233,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a9f34587dfe649cc",
+  "active": "03928f723814a21c",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 2.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 3.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials/Lecture 12.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 1.md",
@@ -267,12 +267,10 @@
     "General Notes/Pasted image 20241002141159.png",
     "General Notes/Pasted image 20241002141032.png",
     "General Notes/Pasted image 20241002140648.png",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Untitled",
     "General Notes/Pasted image 20241002112906.png",
     "General Notes/Pasted image 20241002112120.png",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials/Lecture 12.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-2 DV Algorithm.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/Lab 03, Configuring a Router-1.pdf",
@@ -281,7 +279,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Networks - Week 4 Day 2.md",
     "General Notes/Networks - Week 6 Day 2 2024-10-02 09.34.12.excalidraw.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Lecture/1-5 Switches, Tables, Routers-1.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
     "General Notes/PXL_20240930_174005262~2.jpg",
     "General Notes/Pasted image 20240930093243.png"
   ]
