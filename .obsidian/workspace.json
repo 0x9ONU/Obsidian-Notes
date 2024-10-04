@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 2.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2def7382a74b64e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "361495ec70e68d50",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/lecture 10(1).pdf"
               }
             }
           }
@@ -101,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 3.md"
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 2.md"
               }
             }
           },
@@ -222,8 +238,11 @@
   },
   "active": "e12ad659f27d5522",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 2.md",
+    "General Notes/Pasted image 20241004141552.png",
+    "General Notes/Pasted image 20241004141537.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/lecture 10(1).pdf",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
@@ -250,8 +269,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-4 RIP Routing.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Materials/2-3 Static and Default Routing.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/lecture 10(1).pdf",
     "General Notes/Pasted image 20241002143945.png",
     "General Notes/Pasted image 20241002141858.png",
     "General Notes/Pasted image 20241002141628.png",
@@ -266,7 +283,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/Lab 03, Configuring a Router-1.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 4/Materials/2-1 Routing Fundamentals and LS Algorithm.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Lecture/1-5 Switches, Tables, Routers-1.pdf",
-    "General Notes/PXL_20240930_174005262~2.jpg",
-    "General Notes/Pasted image 20240930093243.png"
+    "General Notes/PXL_20240930_174005262~2.jpg"
   ]
 }

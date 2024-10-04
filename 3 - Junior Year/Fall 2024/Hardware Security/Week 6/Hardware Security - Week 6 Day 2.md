@@ -127,6 +127,49 @@ The structure relies on delay loops and counters instead of MUX and arbiters
 
 ![[Pasted image 20241002143945.png]]
 
+Easy to duplicate a ring oscillator and make sure the oscillators are identical
+
+```ad-question
+How many bits can we generate from the scheme in the previous page?
+```
+
+There are $n(n-1)/2$ distinct pairs, but the entropy is significantly smaller: $\log_2(N!)$
+
+```ad-summary
+Reduces the randomness fields of the counter
+```
+
+### Reliability of RO PUFs
+
+![[Pasted image 20241004141537.png]]
+
+```ad-warning
+**Aging**:
+- Negative Bias Temperature Instability
+- Hot Carrier INjection (HCI)
+- Temp Dependent Dielectric Breakdown
+- Interconnect Failure
+$$\space$$
+**Temperature**:
+- Slows down the device.
+```
+
+#### Enhancements
+
+```ad-summary
+Environmental changes have a large impact on the frequency. Keep frequencies far away
+```
+
+![[Pasted image 20241004141552.png]]
+
+### Other Notes
+
+ROs whose frequencies are far are more stable than the ones with closer frequencies.
+
+RO PUFs allows an easier implementation for both ASICs and FPGAs
+
+
+
 
 
 
