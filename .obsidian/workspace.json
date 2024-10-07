@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/Lecture 13.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/Lecture 13.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/Lecture 13.pdf"
               }
             }
           },
@@ -271,10 +271,10 @@
       }
     ]
   },
-  "active": "32a88fb691ea7471",
+  "active": "2947903d833ff869",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/Lecture 13.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/Lecture 13.pdf",
     "General Notes/Pasted image 20241007113418.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 1.md",
