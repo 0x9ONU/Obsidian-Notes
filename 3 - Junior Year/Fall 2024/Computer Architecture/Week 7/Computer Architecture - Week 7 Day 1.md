@@ -28,6 +28,13 @@ collapse: open
 
 ![[Pasted image 20241007111342.png]]
 
+```ad-note
+title: Remember: `slt`
+1. Subtract $A$ from $B$
+2. IF the MSB is 1 ($A < B$), then set it to the LSB in the output
+3. IF the MSB is 0 ($A \ge B$), then set it to the LSB in the output
+```
+
 ![[Pasted image 20241007111359.png]]
 
 ## ALU Decoder
