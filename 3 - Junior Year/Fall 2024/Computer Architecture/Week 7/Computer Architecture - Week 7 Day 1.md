@@ -42,3 +42,10 @@ title: Remember: `slt`
 ![[Pasted image 20241007111437.png]]
 
 ![[Pasted image 20241007111457.png]]
+
+## Example: `and`
+
+![[Pasted image 20241007113418.png]]
+
+
+
