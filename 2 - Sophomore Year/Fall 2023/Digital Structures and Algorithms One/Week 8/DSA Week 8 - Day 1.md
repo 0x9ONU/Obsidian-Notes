@@ -60,7 +60,7 @@ for j = 2 to n
 | $C_4$          | $\sum_{j=2}^n t_j$     |
 | $C_5$          | $\sum_{j=2}^n (t_j-1)$ |
 | $C_6$          | $\sum_{j=2}^n (t_j-1)$ |
-| $C_7$          | $n-1$                       |
+| $C_7$          | $n-1$                  |
 
 ```ad-check
 title: Solution
