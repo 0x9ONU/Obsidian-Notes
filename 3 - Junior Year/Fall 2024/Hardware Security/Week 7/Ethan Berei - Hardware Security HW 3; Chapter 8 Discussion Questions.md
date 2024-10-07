@@ -22,7 +22,7 @@ When successfully applying a side-channel attack, the attackers can gain secret 
 Explain what an invasive attack is and what a non-invasive is.
 ```
 
-When trying to gain potential side-channel access, there are two ways 
+When trying to gain potential side-channel access, there are two ways to get a chip’s readings: invasive and non-invasive. Non-invasive attacks use environmental conditions
 
 ## Question 4: SPA and DPA
 
