@@ -38,12 +38,14 @@
             }
           },
           {
-            "id": "b0355d86fac0b6fd",
+            "id": "873e80e7390024ec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/HS - Lecture 7.pdf"
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -57,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,8 +263,9 @@
   },
   "active": "d0ef130b03a6dfd4",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 2.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 7/Ethan Berei - Hardware Security HW 3; Chapter 8 Discussion Questions.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/HS - Lecture 7.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Materials/Review of chapter 8 and class discussion questions.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/lecture 8(1).pdf",
@@ -289,7 +293,6 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/Lecture 13.pdf",
     "General Notes/Pasted image 20241007113418.png",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 6/Hardware Security - Week 6 Day 1.md",
     "General Notes/Pasted image 20241007111517.png",
     "General Notes/Pasted image 20241007111457.png",
     "General Notes/Pasted image 20241007111437.png",

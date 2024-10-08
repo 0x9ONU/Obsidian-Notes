@@ -62,13 +62,15 @@ What is EM emanation and how is it used to apply EM analysis attacks?
 Describe the main idea of timing attack and what tools are required to perform it
 ```
 
-Timing attacks exploit the variable running times of a crypto processor that change based on what key is being or message is being encrypted. These attacks rely on 
+Timing attacks exploit the variable running times of a crypto processor that change based on what key is being or message is being encrypted. These attacks rely on principles such as the Kocher observation that determine how long a timing attack should take based on the algorithm they are running. For example, in RSA, it takes awhile based on the $k_{th}$ bit of the secret exponent because of finding the modulo takes much longer than the instantaneous setting $R_k = s_k$. Correlation can then be observed if the guess was close and continue until the correct private key is found. Unlike power analysis, only an oscilloscope, multimeter, or just a PC is needed to find when a process begins and when it ends for each decryption and encryption step.
 
 ## Question 9: Side-Channel Countermeasures
 
 ```ad-question
-How can side-channel attack counter meausres protect the device? How would these countermeasures affect the performance of the system?
+How can side-channel attack counter measures protect the device? How would these countermeasures affect the performance of the system?
 ```
+
+
 
 ## Question 10: FPGA vs. Microcontroller
 
@@ -76,14 +78,20 @@ How can side-channel attack counter meausres protect the device? How would these
 How can an attacker perform side-channel attacks on parallel based systems such as FPGAs? And how different is it compared to microcontrollers?
 ```
 
+When looking into the difference between how FPGAs have power analysis performed and how the attacks are performed, what can be found on each, and how difficult it can be to attack. On parallel FPGAs, it is typically impossible to perform more simple side-channel attacks such as SPA since it makes it difficult to keep track of multiple operations. Even though it helps obfuscate easier attacks, it can still be countered by DPA and EMA if properly done. Unlike an SOC or microcontroller, and FPGA has hardware that moves around based on how it was synthesized and implemented, which makes it especially weak to EMA, which can determine areas of high traffic and find specific processes via mapping. On the other hand, microcontrollers are typically much easier to attack and have more exploits, but are more immune to EMA attacks. For instance, microcontrollers are typically single-cycle devices, which means that they can easily 
+
 ## Question 11: EM Analysis in a Noisy Environment
 
 ```ad-question
 Applying EM analysis to capture critical information can be tricky, many factors can affect the quality of the signal. What measures should the attacker take to successfully perfrom the attack in a noisy environment? And what are the pros and cons of applying EM analysis over power analysis in this case?
 ```
 
+
+
 ## Question 12: Random Delay
 
 ```ad-question
 Analyzing the delay of the output of a device can be used to gain knowledge about the design, one countermeasure used is to randomize the delays every time an operation is performed. How can this random delay be implemented? What are the challenges that the designer may face when applying this countermeasure?
 ```
+
+
