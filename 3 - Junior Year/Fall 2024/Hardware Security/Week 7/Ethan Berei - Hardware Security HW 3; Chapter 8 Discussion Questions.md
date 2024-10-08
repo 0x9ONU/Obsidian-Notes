@@ -54,7 +54,7 @@ As stated in the lecture, there are three primary forms of protections against p
 What is EM emanation and how is it used to apply EM analysis attacks?
 ```
 
-
+EM emanation refers to any form of electromagnetic radiation that is left off a piece of hardware accidentally. Typically caused by poorly shielded devices, the more EM emanation there is, the more side-channels that open up. This is critical for EM analysis attacks because it allows more attack area on a chip to be exploited. A place with a higher spectral density, which is caused by a higher amount of emanation, leads to a more vulnerable area on a chip. A chip without proper emanation precautions can be much more vulnerable than one without any.
 
 ## Question 8: Timing Attacks
 
@@ -70,7 +70,7 @@ Timing attacks exploit the variable running times of a crypto processor that cha
 How can side-channel attack counter measures protect the device? How would these countermeasures affect the performance of the system?
 ```
 
-
+Side-channel attack countermeasures protect a device by limiting the attack surface that a malicious actor can used to exploit a device. Typically, the more computationally heavy the countermeasure is, the more secure it makes the system. For example, increasing the shielding around a high EM emanation area is not costly in terms of performance, but can be in terms of pricing and is not as effective as blurring and reducing the radiation via active emitting grids or shrinking the technology. At the most expensive level, dual logic comes to mind. Dual rail precharge (DRP) turns every NAND gate into two gates with four inputs instead of one gate with two inputs. Each gate has both its normal input and its inverse, which makes every gate data-independent and can completely cancel out radiation and make it nearly impossible to use EMA. However, it is computationally expensive if done at the software level and very costly to do it at the hardware level.
 
 ## Question 10: FPGA vs. Microcontroller
 
