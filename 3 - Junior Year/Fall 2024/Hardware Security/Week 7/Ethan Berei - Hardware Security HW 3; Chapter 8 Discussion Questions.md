@@ -46,7 +46,7 @@ Power analysis attacks, even though powerful, often do not need a lot of equipme
 Describe approaches of protecting a chip against power analysis attacks.
 ```
 
-As stated in the lecture, there are 
+As stated in the lecture, there are three primary forms of protections against power analysis attacks: hiding, masking/blinding, and design partitioning. Hiding allows a designer to add noise generators, balanced logic styles, or lower power traces to lower the SNR of the signal, making it hard to read. Masking and blinding helps remove the correlation between the inputs and the emissions from the side-channels. This defense typically is placed on the intermediate nodes in the function block to make it more difficult to read at multiple locations to gain a correlation. Finally, design partitioning moves the plaintext operations of a cryptomodule as far away as possible from the parts that work on the cipher text. This makes it more difficult to couple the signals together and gain a correlation.
 
 ## Question 7: EM Emanation
 
@@ -54,11 +54,15 @@ As stated in the lecture, there are
 What is EM emanation and how is it used to apply EM analysis attacks?
 ```
 
+
+
 ## Question 8: Timing Attacks
 
 ```ad-question
 Describe the main idea of timing attack and what tools are required to perform it
 ```
+
+Timing attacks exploit the variable running times of a crypto processor that change based on what key is being or message is being encrypted. These attacks rely on 
 
 ## Question 9: Side-Channel Countermeasures
 
