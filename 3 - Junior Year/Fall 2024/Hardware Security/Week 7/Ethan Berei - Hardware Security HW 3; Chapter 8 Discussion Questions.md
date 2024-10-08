@@ -30,19 +30,23 @@ When trying to gain potential side-channel access, there are two ways to get a c
 Explain what SPA is and what DPA is. What are the differences between them?
 ```
 
-Simple power attacks, also known as SPA, is a type of side-channel attack that focuses on reading a devices power to try and deduce information about the data and operation of the device. Being the strongest against all cryptographic algorithms that rely on conditional branching based on a key’s value, SPA can be used to deduce secret keys for DES, AES, and RSA by keeping track of the power trace that keeps track of the exponentiation step of the process. SPA can be used to crack smart cards like modern day credit and debit cards by targeting its variable instruction flow. However, differential power analysis is the next level of SPA and focuses on data-dependence instead. It tries to tie the operand to the power fluctuations using two devices that are the same and have the same cryptographic algorithms. One device is what you know everything, including the key, for and the other’s key is unknown. This allows you to coordinate the power draw with different keys until the correct key is found. When comparing both attacks, 
+Simple power attacks, also known as SPA, is a type of side-channel attack that focuses on reading a devices power to try and deduce information about the data and operation of the device. Being the strongest against all cryptographic algorithms that rely on conditional branching based on a key’s value, SPA can be used to deduce secret keys for DES, AES, and RSA by keeping track of the power trace that keeps track of the exponentiation step of the process. SPA can be used to crack smart cards like modern day credit and debit cards by targeting its variable instruction flow. However, differential power analysis is the next level of SPA and focuses on data-dependence instead. It tries to tie the operand to the power fluctuations using two devices that are the same and have the same cryptographic algorithms. One device is what you know everything, including the key, for and the other’s key is unknown. This allows you to coordinate the power draw with different keys until the correct key is found. When comparing both attacks, the best analogy is to compare brute force to plain text attacks. Brute force attacks take must longer because the relation between the cipher text and the message is unknown, while the plain text attack knows the relation between the two. SPA, even though requires less work, takes much longer to do and typically fails at cracking the keys for stronger algorithms. However, DPA, if used properly, can crack even AES-128 in only 4096 tries ($4096 << 2^{128}$)!
 
 ## Question 5: Tools and Equipment for Power Analysis
 
 ```ad-question
-Describe approaches of protecting a chip against power analysis attacks.
+Describe what tools and equipment are required to perform power analysis attacks.
 ```
+
+Power analysis attacks, even though powerful, often do not need a lot of equipment that can often be found in most simple electronics labs. A cryptographic device is needed so it can be tested on as well as a decoupling capacitor and resistor to get a good reading. From there, a reading will be taken off of the resistor using an oscilloscope to see how the power changes based on the message/cipher text used. Additionally, a PC is often used to provide both the control ciphertext and/or messages as well as taking in waveform data and providing the oscilloscope with control data. The PC can then be used to provide any further calculations and analysis on the data to see if you find a key that breaks the code.
 
 ## Question 6: Protections against Power Analysis
 
 ```ad-question
 Describe approaches of protecting a chip against power analysis attacks.
 ```
+
+As stated in the lecture, there are 
 
 ## Question 7: EM Emanation
 
