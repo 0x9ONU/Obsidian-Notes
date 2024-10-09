@@ -49,3 +49,44 @@ Enhance the single-cycle processor to handle `jal`
 ![[Pasted image 20241009110800.png]]
 
 ![[Pasted image 20241009110816.png]]
+
+## What are we missing?
+
+**ALU Extension**: XOR and shifiting.
+
+**Load Upper Immediate**: LUI and AUIPC
+
+**Jump and Link Register**
+
+**Branch it *not* Equal**: `bne`
+
+**Smaller Load and Store Operations**: `lb`, `lh`, `sb`, `sh`
+
+# Single-Cycle Performance
+
+```ad-note
+title: Remember
+**Program Execution Time**:
+$$(\mbox{\# instructions})(\mbox{cycles}/\mbox{instructions})(\mbox{seconds}/\mbox{cycle})$$
+```
+
+$$T_{clk} \ge t_{setup} + t_{hold} + t_{comb}$$
+
+```ad-important
+The processor performance $T_c$ is limited by the critical path (`lw`)
+```
+
+![[Pasted image 20241009112934.png]]
+
+**Single-Cycle Critical Path**:
+
+$$T_{c\_single} = t_{pcq\_PC}+t_{mem}+\max[t_{RFread} + t_{cntrl} + t_{ext} + t_{mux}]+t_{ALU} + t_{mem}+t_{mux} + t_{RFsetup}$$
+
+```ad-important
+This is the main limiting path, but memory, ALU, and the register file are always the slowest
+```
+
+$$T_{c\_single} = t_{pcq\_PC} + 2t_{mem} + t_{RF\mbox{read}} + t_{ALU} + t_{mux} + t_{RF\mbox{setup}}$$
+
+![[Pasted image 20241009113603.png]]
+
