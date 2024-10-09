@@ -99,3 +99,4 @@ $$\mbox{Execution Time} = (\mbox{\# instructions} x CPI x T_c)$$
 $$= 75 s$$
 ```
 
+
