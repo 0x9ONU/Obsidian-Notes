@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0ef130b03a6dfd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e880b54525de52e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Materials/2-5 OSPF Routing Protocol.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Materials/2-5 OSPF Routing Protocol.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md"
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Materials/2-5 OSPF Routing Protocol.pdf"
               }
             }
           },
@@ -248,12 +236,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d0ef130b03a6dfd4",
+  "active": "dce996c50e097582",
   "lastOpenFiles": [
-    "General Notes/Pasted image 20241009090617.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Materials/2-5 OSPF Routing Protocol.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
+    "General Notes/Networks - Week 7 Day 2 2024-10-09 09.42.20.excalidraw.md",
+    "General Notes/Pasted Image 20241009094344_709.png",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Materials/2-5 OSPF Routing Protocol.pdf",
+    "General Notes/Pasted Image 20241009094236_374.png",
+    "General Notes/Pasted image 20241009093427.png",
+    "General Notes/Pasted image 20241009093342.png",
+    "General Notes/Pasted image 20241009090617.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 7/Ethan Berei - Hardware Security HW 3; Chapter 8 Discussion Questions.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Materials/lecture 9(1).pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 3.md",
@@ -280,18 +273,12 @@
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/Lecture 13.pdf",
     "General Notes/Pasted image 20241007113418.png",
     "General Notes/Pasted image 20241007111517.png",
     "General Notes/Pasted image 20241007111457.png",
     "General Notes/Pasted image 20241007111437.png",
     "General Notes/Pasted image 20241007111435.png",
-    "General Notes/Pasted image 20241007111359.png",
-    "General Notes/Pasted image 20241007111342.png",
-    "General Notes/Pasted image 20241007111340.png",
-    "General Notes/Pasted image 20241007111212.png",
-    "General Notes/Pasted image 20241007110754.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Materials/Lecture 12.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7",
