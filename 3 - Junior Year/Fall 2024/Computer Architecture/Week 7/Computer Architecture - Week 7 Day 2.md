@@ -83,10 +83,19 @@ The processor performance $T_c$ is limited by the critical path (`lw`)
 $$T_{c\_single} = t_{pcq\_PC}+t_{mem}+\max[t_{RFread} + t_{cntrl} + t_{ext} + t_{mux}]+t_{ALU} + t_{mem}+t_{mux} + t_{RFsetup}$$
 
 ```ad-important
-This is the main limiting path, but memory, ALU, and the register file are always the slowest
+This is the general limiting path, but memory, ALU, and the register file are always the slowest. So it can be simplified such that:
 ```
 
 $$T_{c\_single} = t_{pcq\_PC} + 2t_{mem} + t_{RF\mbox{read}} + t_{ALU} + t_{mux} + t_{RF\mbox{setup}}$$
 
 ![[Pasted image 20241009113603.png]]
+
+$$T_{c\_single} \approx 750 ps$$
+
+```ad-example
+A program with 100 billion instructions:
+
+$$\mbox{Execution Time} = (\mbox{\# instructions} x CPI x T_c)$$
+$$= 75 s$$
+```
 
