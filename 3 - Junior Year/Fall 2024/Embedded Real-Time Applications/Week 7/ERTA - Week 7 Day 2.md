@@ -89,4 +89,82 @@ Try to be as negligible as possible to minimize intrusiveness
 - $\Delta t$: Average time between execution of the debugging tool
 - Try to *minimize*
 
+### Examples
+
+`GPIO_PORTF_DATA_R ^= 0x02` ← Toggles the 2nd bit on and off
+- *Heartbeat monitor* - often used to determine if your code crashed or not
+- Minimally intrusive! If it runs every 1ms, it has a ratio of 1/1000 for a 80Mhz clock
+
+#### Dumps
+
+Memory dumps dump strategic information into an array at run time.
+
+**Advantage**: The debugger allows you to visualize memory even when the program is running
+
+*Small Intrusiveness*
+- Similar usage as printf
+- Save into array
+- Observe later with debugger
+
+
+```c
+#define SIZE 100
+uint8_t P1Buf[SIZE];
+uint8_t P2Buf[Size];
+uint32_t I;
+void Dump(void) {
+	if (I < SIZE) {
+		P1Buf[I] = P1-> IN;
+		P2Buf[I] = P1-> OUT;
+		I++;
+	}
+}
+```
+**Disadvantages**: They can generate a tremendous amount of information
+- Has to often be *filtered* to the instrument to reduce this overhead
+- If we suspect the error occurs when another variable gets large, we could add a filter that saves in the array only when a condition is true.
+
+*Continuous*
+- Saves the last 32 values
+- Wrap index
+```c
+uint16_t Buf[32];
+uint32_t I=0;
+void Record(uint16_t x) {
+	Buf[I] = x;
+	I = (I + 1) % 32;
+}
+```
+
+*Filtered*
+- Save only on certain conditions
+- Reduces the volume of data to observe
+```c
+void Record2(uint16_t x) {
+	if(P1->IN&0x01) {
+		Buf[I] = x;
+		I = (I+1)%32
+	}
+}
+```
+
+## Test Case Selection
+
+When a system has a *small number* of inputs, test ALL of them
+
+However, when a system is large, you need to select a set of inputs. Select them based on:
+- Near the extremes and in the middle
+- Most typical of how our clients will properly use the system
+- Most typical of how our clients will improperly attempt to use the system
+- Using a random number generator (ex. Latin Hypercube)
+
+## Version Control
+
+Using tools like Git can help debug a system
+- You make commits whenever your code is working
+- Whena bug arises, youc an look back at your previous working commit to find out what went wrong
+- If unsure which commit caused the error, a tool like git bisect can help you search for the errant commit.
+
+
+
 
