@@ -149,3 +149,117 @@ RIP does not have wildcard subnets or areas. OSPF does!
 `o` means OSPF
 
 `o IA` means OSPF inter-area routing. It learned how to route these packets using the protocol for IP addresses OUTSIDE of its area.
+
+## Router ID $\star$
+
+The Router ID (RID) is an IP address that identifies the router.
+
+```ad-note
+CIsco chooses the router ID by using the highest IP addresss of *all* configured loopback interfaces
+- It will chose the highest IP out of ALLL active physical interfaces if *no loopback* has been configured
+```
+
+Loopback before applying OSPF, the lookback address will be the chosen Router ID.
+- If applied afterwards, restart the router to get the loopback as the Router ID
+
+### Commands
+
+#### Command 1: `show ip ospf`
+
+```ad-important
+The `show ip osf` command displays OSPF information for one or all OSPF processes running on the router.
+```
+
+**Includes the Following Information**:
+- Router ID
+- Area Information
+
+
+```
+Router1#show ip ospf
+Router Process "ospf 1" with ID 220.1.1.1
+
+Router2#show ip ospf
+Routing Process "ospf 1" with ID 220.1.1.2
+```
+#### Command 2: `show ip protocols`
+
+The `show ip protocols` command is highly useful, whether you’re running OSPF, EIGRP, RIP, BGP, IS-IS, or any other routing protocols that can be configured on your router. It provides an excellent overview of the actual operation of all currently running protocols.
+
+```ad-note
+For *OSPF*, it will show the OSPF process ID, OSPF router ID, type of OSPF area, networks and areas configured by OSPF, and the OSPF router IDs of the neighbors
+```
+```
+Router1#show ip protocols
+Router2#show ip protocols
+```
+```ad-important
+Showing `interface is up, line protocol is up (connected)` proves that the interface is powered on and the cable is setup correctly both physically and in terms of protocol (DTE vs. DCE)
+```
+
+#### Command 3: `show ip ospf database`
+
+OSPF, as a link-state protocol, uses several different packets to exchange the information about the network topology between routers. These packets are called *link-state advertisements (LSAs)*, and they describe the network topology in great detail.
+
+Each router stores the received LSA packets in the link-state database (LSDB). After LSDBs are synced between the routers, **OSPF uses the shortest path first (SPF) algorithm to calculate the best routes.**
+- The best intra-area routes are calculated *individually* by each OSPF router.
+
+```ad-note
+Gives information about the number of routers in the internetwork (AS) plus the neighboring router's ID -- the topology database.
+```
+
+The router output shows the link ID and the RID of the router on that link under the *ADV router, or advertising router*
+
+```
+Router1#show ip ospf database
+```
+##### How Does this Command Work? $\star$
+
+OSPF floods **LSAs every 30 minutes.** Each LSA includes:
+- *Link State Age Variable*: Counts the age of the LSA packet.
+- Updated network topology when a router finds out that a network change occurs.
+
+OSPF LSDB shows the value of the current link-state age timer for *all LSAs*. 
+
+```ad-warning
+Unless if a network is not operating normally, you will **NOT** see the age variable with values higher than *1800 seconds*
+```
+
+After 60 minutes, a LSA is removed from the LSDB, and the router performs a new SPF calcualtion
+
+
+#### Command 4: `show ip ospf interface`
+
+Displays OSPF information for one or all OSPF processes running on the router. Includes:
+- Router ID
+- Area Information
+
+```
+Router2#show ip ospf int s 0/1/1
+
+Serial0/1/1 is up, line protocol is up
+Internet address is 192.168.200.2/30, Area 0
+Process ID1, Router ID 220.1.1.2, Network Type POINT-TO-POINT, Cost: 64
+```
+## OSPF Cost Calculation $\star$
+
+$$\mbox{Cost} = 10^8/\mbox{interface bandwith in bps}$$
+
+```ad-example
+- $512 \space Kbps \Rightarrow \quad 10^8/(512000)\approxeq 195$
+- $1 \space Mpbs \Rightarrow \quad 10^8/(1000000)\approxeq 100$
+```
+
+```ad-important
+The cumulative cost of a route is a combination of each cost along each jump.
+```
+
+### Cumulative Cost Example
+
+R1 to R3 has a cost of $98$ and R3 to R4 cost is $98$, so the total cost from R1 to R4 is $98+98=196$
+
+
+
+
+
+
