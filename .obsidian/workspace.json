@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,22 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "bd11af9a5e18638a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "68f7a86678f8e061",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/extension of RISCV single cycle processor.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md"
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 3.md"
               }
             }
           },
@@ -251,9 +235,10 @@
   },
   "active": "77b4edcab2e4ca0b",
   "lastOpenFiles": [
-    "General Notes/Pasted image 20241011112317.png",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/extension of RISCV single cycle processor.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 3.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/extension of RISCV single cycle processor.pdf",
+    "General Notes/Pasted image 20241011112317.png",
     "General Notes/Pasted image 20241011112143.png",
     "General Notes/Pasted image 20241011112130.png",
     "General Notes/Pasted image 20241011112120.png",
@@ -263,7 +248,6 @@
     "General Notes/Pasted image 20241011111936.png",
     "General Notes/Pasted image 20241011111923.png",
     "General Notes/Pasted image 20241011111913.png",
-    "General Notes/Pasted image 20241011111800.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md",
