@@ -15,3 +15,9 @@ collapse: open
 
 # Inductive Device Control
 
+## Key Points
+
+1. Capacitors impede changes in voltage
+2. Inductors impede changes in current
+
+
