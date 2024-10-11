@@ -32,6 +32,19 @@ Faraday-Maxwell’s Law:
 
 $$F = ILB$$
 
+## Basics Model for a DC motor
+
+**Consider the following**:
+- Voltage (V)
+- Current (A)
+- Power (W)
+- Force (N)
+- Torque (N-m)
+- Inductance (H)
+- emf (V)
+- Friction (coefficient)
+- Speed (rps)
+
 
 
 
