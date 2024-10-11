@@ -20,4 +20,18 @@ collapse: open
 1. Capacitors impede changes in voltage
 2. Inductors impede changes in current
 
+## Electromagnetic Fields
+
+```ad-note
+title: Rmemeber
+Current induces a magnetic field
+```
+
+Came from Ampere’s Law: $$B = \mu \frac{NI}{L}$$
+Faraday-Maxwell’s Law:
+
+$$F = ILB$$
+
+
+
 
