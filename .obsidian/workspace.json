@@ -8,17 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1d9f0cc215cd8b6",
+            "id": "dbd889cc74210677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signal Conditioning Table"
+              "title": "Networks - Week 8 Day 2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3c8393b48c98b0e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1d9f0cc215cd8b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Materials/3-2 MAC Protocols, Networks.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-2 MAC Protocols, Networks"
             }
           }
         ]
@@ -250,8 +268,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c1d9f0cc215cd8b6",
+  "active": "dbd889cc74210677",
   "lastOpenFiles": [
+    "General Notes/csma1.gif",
+    "General Notes/unnamed.gif",
+    "General Notes/images 3.png",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Materials/3-2 MAC Protocols, Networks.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md",
+    "General Notes/Pasted image 20241018092520.png",
+    "General Notes/Pasted image 20241018091435.png",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 1.md",
+    "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
     "3 - Junior Year/Presidential Transitions.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
@@ -275,14 +302,8 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Materials/3-2 MAC Protocols, Networks.pdf",
     "General Notes/Pasted image 20241016095026.png",
     "General Notes/Pasted image 20241016095016.png",
-    "General Notes/Pasted image 20241016094948.png",
-    "General Notes/Pasted image 20241016094843.png",
-    "General Notes/Pasted image 20241016094841.png",
-    "General Notes/Pasted image 20241016093834.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Materials/3-1 Link-Layer, Networks.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Materials",
@@ -294,9 +315,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 7/Ethan Berei - Hardware Security HW 3; Chapter 8 Discussion Questions.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 3.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 5/Hardware Security - Week 5 Day 2.md"
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md"
   ]
 }
