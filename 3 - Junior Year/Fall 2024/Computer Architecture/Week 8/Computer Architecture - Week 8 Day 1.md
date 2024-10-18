@@ -97,5 +97,26 @@ Most dangerous part
 Regardless of what is chosen, ResultSrc will be set to 00
 ```
 
+### AND Instruction
+
+**IF (Step 1)**:
+- Read Instruction
+- PC=PC+4
+- oldPC
+
+**ID/RF (STEP 2)**:
+- ALUout = oldPC+imm
+- A = t4
+- B = t5
+
+**Ex (STEP 3):**
+- ALUout = A and B
+
+**Mem (*Skipped*)**
+
+**WB (STEP 4)**:
+- Take ALUout by making resultSrc = 00
+- Make registerWrite high and AdrSrc low
+- Writes back to t6 
 
 
