@@ -70,3 +70,4 @@ Replace separate Instruction and Data memories with a single unified memory
 ![[Pasted image 20241016113028.png]]
 
 
+
