@@ -211,11 +211,47 @@ Carrier sensing, deferral as in CSMA
 
 ### Taking-Turns MAC Protocols
 
-#comebacklater 
+```ad-note
+Takes both the efficiencies of sharing a channel effciency and fairly from channel partitioning while allowing single nodes to fully utilize a channel like random access MAC protocols
+```
+
+*Polling Protocol*:
+- Master node “invites” slave nodes to transmit in turn, typically used with “dumb” slave devices
+
+Concerns:
+- Polling overhead
+- latency
+- single point of failure (master)
+
+```ad-note
+Bluetooth protocol uses polling
+```
+
+#### Polling Protocol
+
+The polling protocol *requires*:
+- One of the nodes to be designated as master node. The mast node sends a message to node 1. After node 1 transmits some frames, the master node then tells node 2 it can transmit.
+
+The master node can determine:
+- Whena  node has finished sending its frames by observing the lack of a signal on the channel.
+- The procedure continues in this manner, with the master node polling each of the nodes in a cyclic manner
+
+![[Pasted image 20241018095232.png]]
+
+#### Token-Passing Protocol
+
+Controls *token* passed from one node to next sequentially
+
+Concerns:
+- Token overhead
+- Latency
+- Single point of failure (token)
+
+![[Pasted image 20241018095241.png]]
 
 ## Summary
 
-**Channel Partitioning**: By time, freuency or code
+**Channel Partitioning**: By time, frequency or code
 -  Time Diviison, Freuqnecy Division, Cod eDivision
 
 **Random Access** (dynamic):
@@ -227,3 +263,4 @@ Carrier sensing, deferral as in CSMA
 **Taking Turns**:
 - Polling from central site, token passing
 - Bluetooth, FDDI, token ring
+
