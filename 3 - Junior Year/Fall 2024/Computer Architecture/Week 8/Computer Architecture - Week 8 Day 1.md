@@ -71,6 +71,8 @@ Replace separate Instruction and Data memories with a single unified memory
 
 ### Branch Instruction
 
+`beq t4, t5, done`
+
 **IF (Step 1)**:
 - Read Instruction
 - PC=PC+4
@@ -97,7 +99,9 @@ Most dangerous part
 Regardless of what is chosen, ResultSrc will be set to 00
 ```
 
-### AND Instruction
+### AND Instruction (R-Type)
+
+`and t6, t4, t5`
 
 **IF (Step 1)**:
 - Read Instruction
@@ -119,4 +123,51 @@ Regardless of what is chosen, ResultSrc will be set to 00
 - Make registerWrite high and AdrSrc low
 - Writes back to t6 
 
+### J-type
+
+`jal x0, label`
+
+**IF (Step 1)**:
+- Read Instruction
+- PC=PC+4
+- oldPC
+
+**ID/RF (STEP 2)**:
+- ALUout = oldPC+imm
+
+```ad-warning
+DIFFERENT IMMEDIATE
+```
+
+**Ex (STEP 3):**
+- Set PCwrite to high
+- PC = ALUOut
+
+**Mem (*Skipped*)**
+
+**WB (STEP 4)**:
+
+
+### I-Type Instruction 
+
+`addi x2, x0, 4`
+
+**IF (Step 1)**:
+- Read Instruction
+- PC=PC+4
+- oldPC
+
+**ID/RF (STEP 2)**:
+- ALUout = oldPC+imm1
+- A = x2
+
+**Ex (STEP 3):**
+- ALUout = A +imm2
+
+**Mem (*Skipped*)**
+
+**WB (STEP 4)**:
+- Take ALUout by making resultSrc = 00
+- Make registerWrite high and AdrSrc low
+- Writes back to t6
 
