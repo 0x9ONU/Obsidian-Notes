@@ -69,5 +69,33 @@ Replace separate Instruction and Data memories with a single unified memory
 
 ![[Pasted image 20241016113028.png]]
 
+### Branch Instruction
+
+**IF (Step 1)**:
+- Read Instruction
+- PC=PC+4
+- oldPC
+
+**ID/RF (STEP 2)**:
+- ALUout = oldPC+imm
+- A = t4
+- B = t5
+
+```ad-warning
+Most dangerous part
+```
+
+**Ex (Step 3):**
+- *If* A=B
+	- Set PCwrite to high
+	- PC = ALUOut
+- Else
+	- Set PCwrite to low
+	- PC = PC+4
+
+```ad-note
+Regardless of what is chosen, ResultSrc will be set to 00
+```
+
 
 
