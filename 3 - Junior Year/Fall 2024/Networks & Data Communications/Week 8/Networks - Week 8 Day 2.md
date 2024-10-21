@@ -5,9 +5,10 @@ File Folder: Week 8
 
 ```ad-summary
 title: Today's Topics
-- Topic 1
-- Topic 2
-- Topic 3
+- Mac Protocols
+	- Channel Partitioning
+	- Random Access
+	- Taking Turns
 ```
 
 # Mac Protocols
