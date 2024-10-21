@@ -22,6 +22,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "d38052d7d1fc4d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31631ce13593b399",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 13.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 13"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,47 +268,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "floating": {
-    "id": "8c47da986269a050",
-    "type": "floating",
-    "children": [
-      {
-        "id": "35798e3a36528e3e",
-        "type": "window",
-        "children": [
-          {
-            "id": "7c9b9fb7cdc42c9e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7adcbc6f55e1fa8a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": -1.5
-      }
-    ]
-  },
   "active": "486bba0a6cbf7ad3",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 13.pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 1.md",
+    "General Notes/Pasted image 20241021143009.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9",
     "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.10.16.excalidraw.md",
@@ -313,7 +295,6 @@
     "General Notes/Pasted image 20241021094507.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-3 VLAN Networks.pdf",
     "General Notes/Pasted image 20241021092738.png",
-    "General Notes/Pasted image 20241021092631.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9",
@@ -333,7 +314,6 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
-    "General Notes/Networks - Week 7 Day 2 2024-10-09 09.42.20.excalidraw.md"
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md"
   ]
 }
