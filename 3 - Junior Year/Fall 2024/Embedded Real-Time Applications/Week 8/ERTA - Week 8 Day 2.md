@@ -29,10 +29,10 @@ Use *Timer A* modules to:
 ```ad-summary
 title: Definition
 You can configure 4 *independent* Timer A modules:
+- `TA0.x`
 - `TA1.x`
 - `TA2.x`
 - `TA3.x`
-- `TA4.x`
 ```
 
 Each timer also has *four submodules*:
@@ -79,20 +79,74 @@ C(Place holder for which timer TA1, TAw,...) --> B
 D(Submodule)-->B
 E(Capture/compare)-->B
 ```
-## Other Configuration Options
+### Other Configuration Options
 
 Four possible clock sources:
 - `SMCLK`: Sub master clock (CPU speed)
 - `ACLK`: Auxiliary cloick (Slower than CPU speed)
 - `TAxCLK`: External clock on `TAxCLK`
-- `INCLK`
+- `INCLK`: Global External Clock
+
+Has two stage clock divider (ID=1,2,4,8) plus (TAIDEX=1,2,3,4,5,6,7,8)
+- Can count either up OR up then down depending on the mode
 
 ## Timer A Registers
 
-```ad-warning
-IN SLIDES
-```
+![[ERTA - Week 8 Day 2 2024-10-21 13.10.16.excalidraw]]
 
+## Timer A Schematic
 
+![[ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw]]
 
+### Clock & Prescale
+
+| TASSEL | Selected Clock | \|  | ID  | Prescale |     |
+| ------ | -------------- | --- | --- | -------- | --- |
+| 00     | TAxCLK         | \|  | 00  | /1       |     |
+| 01     | ACLK           | \|  | 01  | /2       |     |
+| 10     | SMCLK<br>      | \|  | 10  | /4       |     |
+| 11     | INCLK          | \|  | 11  | /8       |     |
+
+## Counting Modes
+
+*Three Modes*:
+- Up
+	-  Up to value specified by $CCRy$, roll over to `0x0000`, and back up to $CCRy$, etc.
+- Up/Down
+	- Up to value in $CCRy$, count down to `0000`, back up to value in $CCRy$, etc.
+- Continuous
+	- Up to `0xFFFF`, rolls over to `0x0000`, back up to `0xFFFF`, etc.
+
+### Controlling the Modes
+
+| MC  | Mode Control                                      |
+| --- | ------------------------------------------------- |
+| 00  | Stop                                              |
+| 01  | Up mode: Timer counts up to $CCRy$                |
+| 10  | Continuous: Timer counts up to 0xFFFF             |
+| 11  | Up/Down: Timer counts between $CCRy$ and `0x0000` |
+
+| OUTMOD | ON match to TAxCCRy | On match to TAxCCRy |
+| ------ | ------------------- | ------------------- |
+| 000    | OUT bit value       |                     |
+| 001    | Set                 |                     |
+| 010    | Toggle              | Reset               |
+| 011    | Set                 | Reset               |
+| 100    | Toggle              |                     |
+| 101    | Reset               |                     |
+| 110    | Toggle              | Set                 |
+| 111    | Reset               | Set                 |
+## Periodic Interrupts Initialization
+
+For Module $X$, submodule y
+- Halt the timer (`MC`=00)
+- Set the timer lcock and prescale
+- Set submodule y to compare, arm interrupt (`CAP`)
+- Set the TAxCCRy to the interrupt period minus 1
+- Set the interrupt priority in the correct NVIC priority register
+- Enable the interrupt in the NVIC interrupt enable register
+- Reset the timer and start it in up mode
+- Enable interrupts (in the main program after all devices initialized)
+
+### Initialization Code in `C`
 

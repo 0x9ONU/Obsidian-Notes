@@ -11,35 +11,30 @@
             "id": "076036952409dc30",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.10.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ERTA - Week 8 Day 2 2024-10-21 13.10.16.excalidraw"
+            }
+          },
+          {
+            "id": "48c3b7a60fb4b6df",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Architecture - Week 9 Day 1"
+              "title": "ERTA - Week 8 Day 2"
             }
           }
-        ]
-      },
-      {
-        "id": "73c16951ed703816",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a67d960d7ce6a31",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 16.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 16"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,10 +263,53 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "076036952409dc30",
+  "floating": {
+    "id": "8c47da986269a050",
+    "type": "floating",
+    "children": [
+      {
+        "id": "35798e3a36528e3e",
+        "type": "window",
+        "children": [
+          {
+            "id": "7c9b9fb7cdc42c9e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7adcbc6f55e1fa8a",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": -1.5
+      }
+    ]
+  },
+  "active": "48c3b7a60fb4b6df",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 16.pdf",
+    "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.10.16.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
+    "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw.md",
+    "General Notes/Pasted Image 20241021131031_333.jpg",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 16.pdf",
     "General Notes/Pasted image 20241021112140.png",
     "General Notes/Pasted image 20241021111241.png",
     "General Notes/Pasted image 20241021111231.png",
@@ -285,11 +323,9 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-3 VLAN Networks.pdf",
     "General Notes/Pasted image 20241021092738.png",
     "General Notes/Pasted image 20241021092631.png",
-    "General Notes/Pasted image 20241021092225.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 8/Computer Architecture - Week 8 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 8/Materials/Lecture 15.pdf",
@@ -306,14 +342,11 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 8/Materials",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
     "General Notes/Networks - Week 7 Day 2 2024-10-09 09.42.20.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md"
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md"
   ]
 }
