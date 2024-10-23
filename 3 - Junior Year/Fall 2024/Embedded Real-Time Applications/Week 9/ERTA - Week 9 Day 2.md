@@ -1,5 +1,5 @@
-Date: 21st October 2024
-Date Modified: 21st October 2024
+Date: 23rd October 2024
+Date Modified: 23rd October 2024
 File Folder: Week 9
 #Electronics
 
@@ -12,7 +12,6 @@ collapse: open
 - Topic3
 
 ```
-
 
 Check out:
 
