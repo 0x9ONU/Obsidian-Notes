@@ -107,6 +107,20 @@ Has two stage clock divider (ID=1,2,4,8) plus (TAIDEX=1,2,3,4,5,6,7,8)
 | 10     | SMCLK<br>      | \|  | 10  | /4       |     |
 | 11     | INCLK          | \|  | 11  | /8       |     |
 
+$$T_{new} = T_{old}*2^{ID}*(\mbox{TAIDEX}+1)$$
+
+### ID and TAIDEX
+
+Two registers used that can modify the default clock:
+- `ID`: Can divide the timer source by 2, 4, 8
+- `TAIDEX` can *further* divide the timer source by 2,3,4,5,6,7, or 8
+
+```ad-example
+How do you make a $2 \micro s$ clock period from a $12MHz$ signal?
+```
+
+
+
 ## Counting Modes
 
 *Three Modes*:
@@ -122,11 +136,11 @@ Has two stage clock divider (ID=1,2,4,8) plus (TAIDEX=1,2,3,4,5,6,7,8)
 | MC  | Mode Control                                      |
 | --- | ------------------------------------------------- |
 | 00  | Stop                                              |
-| 01  | Up mode: Timer counts up to $CCRy$                |
+| 01  | Up mode: Timer counts up to $CCRy0$               |
 | 10  | Continuous: Timer counts up to 0xFFFF             |
-| 11  | Up/Down: Timer counts between $CCRy$ and `0x0000` |
+| 11  | Up/Down: Timer counts between $CCR0$ and `0x0000` |
 
-| OUTMOD | ON match to TAxCCRy | On match to TAxCCRy |
+| OUTMOD | ON match to TAxCCRy | On match to TAxCCR0 |
 | ------ | ------------------- | ------------------- |
 | 000    | OUT bit value       |                     |
 | 001    | Set                 |                     |
