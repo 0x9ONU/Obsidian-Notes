@@ -210,3 +210,27 @@ Router1(config)#no ip domain-lookup
 ```
 Now, configure the router with encapsulation dot1Q to link all VLANs, as follows:
 
+```
+Router(config)#interface gig0/0/0 
+Router(config-if)#no shutdown 
+Router(config-if)#exit 
+
+Router(config)#interface gig0/0/0.1 
+Router(config-subif)#encapsulation dot1q 1 
+Router(config-subif)#ip address 192.168.1.100 255.255.255.0 Router(config-subif)#exit 
+
+Router(config-if)#interface gig0/0/0.10 Router(config-subif)#encapsulation dot1Q 10 
+Router(config-subif)#ip address 192.168.10.100 255.255.255.0 Router(config-subif)#exit
+
+Router(config)#interface gig0/0/0.20 
+Router(config-subif)#encapsulation dot1Q 20 
+Router(config-subif)#ip address 192.168.20.100 255.255.255.0 Router(config-subif)#exit 
+
+Router(config)#interface gig0/0/0.30 
+Router(config-subif)#encapsulation dot1Q 30 
+Router(config-subif)#ip address 192.168.30.100 255.255.255.0 Router(config-subif)#exit 
+
+Router(config)#interface gig0/0/0.99 
+Router(config-subif)#encapsulation dot1q 99 native 
+Router(config-subif)#ip address 192.168.99.100 255.255.255.0 Router(config-subif)#exit
+```

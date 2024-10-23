@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networks - Week 9 Day 2"
+              "title": "Computer Architecture - Week 9 Day 2"
+            }
+          },
+          {
+            "id": "3c9a25adcfd1a78b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Architecture - Week 9 Day 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7bd1fc23c7e15a0a",
@@ -33,10 +48,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-4 VLAN Configuration.pdf"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 16.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3-4 VLAN Configuration"
+              "title": "Lecture 16"
             }
           }
         ]
@@ -268,9 +283,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "486bba0a6cbf7ad3",
+  "active": "3c9a25adcfd1a78b",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 16.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-4 VLAN Configuration.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
     "General Notes/Pasted image 20241023093219.png",
     "General Notes/Pasted image 20241023093209.png",
@@ -296,9 +314,7 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
     "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 16.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-3 VLAN Networks.pdf",
@@ -313,7 +329,6 @@
     "3 - Junior Year/Presidential Transitions.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 2.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 2.md"
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md"
   ]
 }
