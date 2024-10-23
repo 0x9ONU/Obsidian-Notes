@@ -42,8 +42,8 @@ To declutter FSM:
 
 | State    | Datapath $\mu$OP                           |
 | -------- | ------------------------------------------ |
-| Fetch    | Instr ← Mem{PC}; PC ← PC+4                 |
-| Decode   | ALUOut ← PCTarget                          |
+| Fetch    | Instr ← Mem{PC}; PC ← PC+4. OldPC          |
+| Decode   | ALUOut ← PCTarget (oldPC + imm)            |
 | MemAdr   | ALUOut ← $rs1+imm$                         |
 | MemRead  | Data ← Mem{ALUOut}                         |
 | MemWB    | rd ← Data                                  |
@@ -52,7 +52,7 @@ To declutter FSM:
 | ExecuteI | ALUOut ← rs1 op imm                        |
 | ALUWB    | rd ← ALUOut                                |
 | BEQ      | ALU Result = rs1-rs2; if Zero, PC ← ALUOUt |
-| JAL      | PC ← ALUOut; ALUOut ← PC+4                 |
+| JAL      | PC ← ALUOut; ALUOut ← oldPC+4              |
 
 ```ad-important
 - The only thing that affects our state machine is the **op code**
