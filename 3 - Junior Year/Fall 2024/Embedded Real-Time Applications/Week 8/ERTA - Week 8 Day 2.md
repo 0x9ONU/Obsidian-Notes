@@ -119,7 +119,24 @@ Two registers used that can modify the default clock:
 How do you make a $2 \micro s$ clock period from a $12MHz$ signal?
 ```
 
+![[Pasted image 20241023133730.png]]
 
+### Timer Range
+
+Timer range is the length of each full cycle:
+
+$$\mbox{range} = T * \mbox{resolution}$$
+```ad-note
+Resolution is the bit resolution of the counter
+```
+
+```ad-example
+What is the range of a clock with a $2\micro s$ period on a 16-bit clock? 
+```ad-check
+title: Solution
+$$\mbox{Range} =  T * \mbox{resolution}$$
+$$=2*10^-6*16 = 0.13s$$
+```
 
 ## Counting Modes
 
@@ -150,6 +167,19 @@ How do you make a $2 \micro s$ clock period from a $12MHz$ signal?
 | 101    | Reset               |                     |
 | 110    | Toggle              | Set                 |
 | 111    | Reset               | Set                 |
+
+```ad-important
+`OUTMOD` is responsible for making different waveforms and duty cycles based on TAxCCRy and TAxCCR0
+```
+
+![[061515_1836_pwm22.webp]]
+
+```ad-note
+Set -> Pin Goes High
+Reset -> Pin Goes Low
+Toggle -> Reverse the Pin
+```
+
 ## Periodic Interrupts Initialization
 
 For Module $X$, submodule y
