@@ -199,3 +199,14 @@ Switch2(config-if)#end
 ```ad-important
 ONLY USED to manage the switches of your network. If you have a layer 2 switch you give the IP to management VLAN to manage VLAN to manage it remotely.
 ```
+
+## Step 12: Inter-VLAN Routing
+
+Perform Basic router configuration. Change hostname and disable ip domain-lookup using:
+
+```
+Router(config)#hostname Router1 
+Router1(config)#no ip domain-lookup
+```
+Now, configure the router with encapsulation dot1Q to link all VLANs, as follows:
+
