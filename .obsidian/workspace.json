@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware Security - Week 9 Day 1"
+              "title": "Networks - Week 9 Day 2"
             }
           }
         ]
       },
       {
-        "id": "d38052d7d1fc4d57",
+        "id": "7bd1fc23c7e15a0a",
         "type": "tabs",
         "children": [
           {
-            "id": "31631ce13593b399",
+            "id": "539c4cda3796d230",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 13.pdf"
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-4 VLAN Configuration.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 13"
+              "title": "3-4 VLAN Configuration"
             }
           }
         ]
@@ -270,39 +270,40 @@
   },
   "active": "486bba0a6cbf7ad3",
   "lastOpenFiles": [
-    "General Notes/Pasted image 20241021144831.png",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 13.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-4 VLAN Configuration.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
+    "General Notes/Pasted image 20241023093219.png",
+    "General Notes/Pasted image 20241023093209.png",
+    "General Notes/Pasted image 20241023093130.png",
+    "General Notes/Pasted image 20241023093009.png",
+    "General Notes/Pasted image 20241023092709.png",
+    "General Notes/Pasted image 20241023092300.png",
+    "General Notes/Pasted image 20241023090648.png",
+    "General Notes/Pasted image 20241023090605.png",
+    "General Notes/Pasted image 20241023090547.png",
+    "General Notes/Networks - Week 9 Day 2 2024-10-23 09.00.54.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 13.pdf",
+    "General Notes/Pasted image 20241021144831.png",
     "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.43.27.excalidraw.md",
     "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.42.16.excalidraw.md",
-    "General Notes/Pasted image 20241021144209.png",
     "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.41.03.excalidraw.md",
     "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.40.19.excalidraw.md",
-    "General Notes/Pasted Image 20241021144031_648.png",
-    "General Notes/Pasted image 20241021143952.png",
-    "General Notes/Pasted image 20241021143824.png",
-    "General Notes/Pasted image 20241021143009.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9",
     "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.10.16.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
     "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw.md",
-    "General Notes/Pasted Image 20241021131031_333.jpg",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 16.pdf",
-    "General Notes/Pasted image 20241021112140.png",
-    "General Notes/Pasted image 20241021111241.png",
-    "General Notes/Pasted image 20241021111231.png",
-    "General Notes/Pasted image 20241021110311.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-3 VLAN Networks.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 8/Computer Architecture - Week 8 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md",
@@ -313,8 +314,6 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 2.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 4/ERTA - Week 4 Day 3.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 3/ERTA - Week 3.md"
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 2.md"
   ]
 }
