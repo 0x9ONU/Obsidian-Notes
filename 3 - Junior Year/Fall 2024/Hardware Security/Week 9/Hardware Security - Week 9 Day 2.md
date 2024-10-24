@@ -133,6 +133,27 @@ For smartcards and microcontrollers, both *structural* AND *program-code* revers
 **Scanning Electron Microscopy (SEM)**:
 - For semiconductor chips fabricated with $0.13 \micro m$ or smaller, with good resolution up to around $10nm$
 
+![[Pasted image 20241023144040.png]]
+
+### Memory Extractions
+
+**From Mask ROMs**
+- Only possible for certain types of Mask ROM memory
+- NOR Mask ROM can sometimes be read by removing a certain number of metal layers
+- However, often needs detailed reprocessing
+
+
+
+![[Pasted image 20241023144210.png]]
+
+### Microprobing
+
+- Used for both *Confidentiality* and *Integrity* violations eaves dropping on signals inside a chip
+- Can be sued for extraction of secret keys and memory contents
+- Injection of test signals and observing reaction
+- Laser cutter to remove passivation and cut metal wires
+
+
 ## Semi-Invasive Attacks
 
 - Relatively new
@@ -145,5 +166,7 @@ UV light is used to disable security fuses in EPROM for many years
 ```
 
 ![[Pasted image 20241023141521.png]]
+
+
 
 
