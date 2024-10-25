@@ -180,6 +180,24 @@ Reset -> Pin Goes Low
 Toggle -> Reverse the Pin
 ```
 
+### How do the modes work (up/down mode)?
+
+```ad-summary
+title: Goal
+Mkae a PWM witha  certain duty cycle
+```
+
+The main clock will go:
+- Up to `CCR0`
+- Down to `0`
+- Back up to `CCR0`
+
+`P2.4` = 1 when timer equals `TA0CCR1` on way down
+
+`P2.4` = 0 when timer equals `TA0CCR1` on the way up
+
+
+
 ## Periodic Interrupts Initialization
 
 For Module $X$, submodule y
@@ -195,3 +213,17 @@ For Module $X$, submodule y
 ## Generate Independent PWM with Timers
 
 With different duty cycle using different timers independently (two DC motors for robot R/L wheels)
+
+```ad-important
+check slides for how to do so with the figures. However, in terms of the duty cycle, it can be calcualted using:
+
+$$\mbox{Duty Cycle} = \frac{\mbox{TA0CCRy}}{\mbox{TA0CCR0}}$$
+```
+
+```ad-note
+Midterm bonus for making an updog joke on it??
+```
+
+
+
+
