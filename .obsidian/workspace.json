@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ERTA - Week 9 Day 3"
+              "title": "ERTA - Week 8 Day 2"
             }
           }
         ]
@@ -249,10 +249,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8f57ffc8f4816cbe",
+  "active": "111c18cc095349af",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 15(1).pdf",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 3.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 2.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 17.pdf",
     "General Notes/Pasted image 20241025113437.png",
     "General Notes/Pasted image 20241025113129.png",
@@ -276,7 +279,6 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/Materials",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/Materials",
@@ -286,7 +288,6 @@
     "General Notes/Pasted image 20241023142419.png",
     "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.10.16.excalidraw.md",
     "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
     "General Notes/Networks - Week 9 Day 2 2024-10-23 09.00.54.excalidraw.md",
@@ -295,7 +296,6 @@
     "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.43.27.excalidraw.md",
     "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.42.16.excalidraw.md",
     "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.41.03.excalidraw.md",
-    "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.40.19.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md"
+    "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.40.19.excalidraw.md"
   ]
 }

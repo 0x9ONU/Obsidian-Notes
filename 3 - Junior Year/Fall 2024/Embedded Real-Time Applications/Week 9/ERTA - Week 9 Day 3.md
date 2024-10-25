@@ -13,3 +13,6 @@ collapse: open
 
 ```
 
+Check out:
+
+![[ERTA - Week 8 Day 2]]
