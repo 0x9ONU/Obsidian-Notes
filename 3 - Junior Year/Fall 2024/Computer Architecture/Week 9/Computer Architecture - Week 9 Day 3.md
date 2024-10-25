@@ -73,6 +73,7 @@ $$= \mbox{\# of instructions} * CPI * T_{period}$$
 **Assumption**:
 - RF is faster than memory
 - Writing memory is faster than reading memory
+- *The memory ends up being slower in most cases*
 
 $$T_{c\_multi}=t_{pcq} + t_{dec} + 2t_{mux}+\max(t_{ALU}, t_{mem})+t_{setup}$$
 
