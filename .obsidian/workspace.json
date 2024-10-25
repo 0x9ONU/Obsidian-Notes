@@ -35,6 +35,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "3ec0108bbbd2cf0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cdee66ac120b5fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 15(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 15(1)"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,9 +281,9 @@
   },
   "active": "521c1610158c341a",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 15(1).pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/Materials/week06b_interrupts.pdf",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/Materials/week07b_debuggingERA.pdf",
@@ -308,7 +325,6 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 1.md",
     "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.43.27.excalidraw.md",
     "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.42.16.excalidraw.md",
-    "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.41.03.excalidraw.md",
-    "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.40.19.excalidraw.md"
+    "General Notes/Hardware Security - Week 9 Day 1 2024-10-21 14.41.03.excalidraw.md"
   ]
 }
