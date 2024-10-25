@@ -83,4 +83,42 @@ $$T_{c\_multi}=t_{pcq} + t_{dec} + 2t_{mux}+\max(t_{ALU}, t_{mem})+t_{setup}$$
 ![[Pasted image 20241025111839.png]]
 
 $$T_{c\_multi}=t_{pcq} + t_{dec} + 2t_{mux}+\max(t_{ALU}, t_{mem})+t_{setup}$$
-$$=$$
+$$=(40)+(25)+2(30)+\max(120, 200)+(50)$$
+$${T_{c\_multi}= 375 ps}$$
+
+```ad-example
+For a program with **100 billion** instructions executing on a multicycle RISC-V processor:<
+- **CPI** = 4.12 cycles/instruction
+- **Clock Cycle Time**: $T_{c\_multi} = 375ps$
+
+$$\mbox{Execution Time} = (\mbox{\# instruction}) * CPI * T_C = 155s$$
+```
+
+```ad-warning
+This is 75ps slower than the normal processor
+```
+
+# Pipelined RISC-V Processor
+
+## Introduction
+
+**Temperal parallaelism**
+
+Divided single-cycle processor into *5 Stages*:
+- Fetch
+- Decode
+- Execute
+- Memory
+- Write-back
+
+*Pipeline Registers* are added between stages
+
+## Single-Cycle vs. Pipelined
+
+![[Pasted image 20241025113129.png]]
+
+## Abstraction
+
+![[Pasted image 20241025113437.png]]
+
+
