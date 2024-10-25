@@ -11,26 +11,26 @@
             "id": "8f57ffc8f4816cbe",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 15(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 15(1)"
+            }
+          },
+          {
+            "id": "521c1610158c341a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ERTA - Week 8 Day 2"
-            }
-          },
-          {
-            "id": "ceea7624a611516a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/Materials/week06b_interrupts.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "week06b_interrupts"
+              "title": "Hardware Security - Week 9 Day 3"
             }
           }
         ],
@@ -262,12 +262,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ceea7624a611516a",
+  "active": "521c1610158c341a",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 15(1).pdf",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/Materials/week06b_interrupts.pdf",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/Materials/week07b_debuggingERA.pdf",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/Materials/week07c_inductiveDevices-1.pdf",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 8/ERTA - Week 8 Day 2.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 15(1).pdf",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
@@ -287,13 +290,11 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/ERTA - Week 7 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 2.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/Materials/week06b_interrupts.pdf",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 7/Materials",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/Materials",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/Materials",
     "General Notes/Pasted image 20241023144210.png",
     "General Notes/Pasted image 20241023144040.png",
