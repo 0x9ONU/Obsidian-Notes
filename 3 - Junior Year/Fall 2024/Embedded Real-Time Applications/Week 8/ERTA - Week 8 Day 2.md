@@ -192,5 +192,6 @@ For Module $X$, submodule y
 - Reset the timer and start it in up mode
 - Enable interrupts (in the main program after all devices initialized)
 
-### Initialization Code in `C`
+## Generate Independent PWM with Timers
 
+With different duty cycle using different timers independently (two DC motors for robot R/L wheels)
