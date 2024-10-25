@@ -153,6 +153,52 @@ For smartcards and microcontrollers, both *structural* AND *program-code* revers
 - Injection of test signals and observing reaction
 - Laser cutter to remove passivation and cut metal wires
 
+```ad-note
+The most important tool for microprobing attacks is microprobing station which consist of a microscope, stage, device test socket, micormanipulators and probe tips. By the means of microscope, attacker sees the itnernal strucutre of the chip and using micromanipulator and microscope, attacker moves a probe tip with submicron precision to the deseried signal wire.
+```
+
+**Microprobing is applied to the internal CPU data bus**
+- Difficult to observe the whole bus all at once
+- There are a limited amount of probes
+- Two to four probes are used to observe data signals which are combined as a whole trace later
+
+#### Laser Cutting
+
+```ad-summary
+Used to remove passivation layer to observe the metal layer
+```
+
+Has the following:
+- Laser head mounted on camera port of a microscope
+- Submicron-precision stage to move the sample
+
+```ad-warning
+If we remove the whole passivation layer, there is a higher chance of short-circuiting. Small layers are removed for every trace needed.
+```
+
+![[Pasted image 20241025140936.png]]
+
+#### Focused Ion Beam Workstation
+
+FIB stations can be used to create test points, imaging, and repairing of devices that are much more dense.
+
+![[Pasted image 20241025141036.png]]
+
+![[Pasted image 20241025141104.png]]
+
+![[Pasted image 20241025141132.png]]
+
+### Chip Modification
+
+Used to disable security protection circuitry:
+- By cutting one of the interal metal interconnection wires
+- By completely destroying the circuit associated with the security protection using a laser cutter
+
+```ad-warning
+Chip modification always required at least partial reverse engineering of the chip to find the point for possible attack
+```
+
+![[Pasted image 20241025141341.png]]
 
 ## Semi-Invasive Attacks
 
