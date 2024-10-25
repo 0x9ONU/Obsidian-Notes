@@ -121,4 +121,3 @@ Divided single-cycle processor into *5 Stages*:
 
 ![[Pasted image 20241025113437.png]]
 
-
