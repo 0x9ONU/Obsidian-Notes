@@ -36,10 +36,10 @@ You can configure 4 *independent* Timer A modules:
 ```
 
 Each timer also has *four submodules*:
+- `TAx.0`
 - `TAx.1`
 - `TAx.2`
 - `TAx.3`
-- `TAx.4`
 
 ## Capture/Compare
 
