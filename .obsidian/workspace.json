@@ -37,37 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "71bf9ef415f22d76",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aab89198c54363f3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 14(2).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 14(2)"
-            }
-          },
-          {
-            "id": "297b07a01bc30f38",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Materials/Lecture 15(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 15(1)"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
