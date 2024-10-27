@@ -142,9 +142,9 @@ $$=2*10^-6*16 = 0.13s$$
 
 *Three Modes*:
 - Up
-	-  Up to value specified by $CCRy$, roll over to `0x0000`, and back up to $CCRy$, etc.
+	-  Up to value specified by $CCR0$, roll over to `0x0000`, and back up to $CCR0$, etc.
 - Up/Down
-	- Up to value in $CCRy$, count down to `0000`, back up to value in $CCRy$, etc.
+	- Up to value in $CCR0$, count down to `0000`, back up to value in $CCRy$, etc.
 - Continuous
 	- Up to `0xFFFF`, rolls over to `0x0000`, back up to `0xFFFF`, etc.
 
