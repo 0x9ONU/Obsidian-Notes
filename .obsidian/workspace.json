@@ -13,43 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Hardware Security - Week 10 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/HW/Computer Architecture HW 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware Security - Week 10 Day 1"
-            }
-          },
-          {
-            "id": "0eb333506a4a4edf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Materials/Review on chapter 10 and class discussion questions.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Review on chapter 10 and class discussion questions"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "eb12b63ab321f969",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ab1f6009093e908",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Materials/Lecture 16(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 16(1)"
+              "title": "Computer Architecture HW 5"
             }
           }
         ]
@@ -280,11 +249,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0eb333506a4a4edf",
+  "active": "59d2041419da78a6",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Materials/Lecture 16(1).pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Materials/Review on chapter 10 and class discussion questions.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/HW/Computer Architecture HW 5.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Hardware Security - Week 10 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/HW",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Materials/Review on chapter 10 and class discussion questions.pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Materials/Lecture 16(1).pdf",
     "General Notes/Pasted image 20241028141311.png",
     "General Notes/Pasted image 20241028140932.png",
     "General Notes/Pasted image 20241028140919.png",
@@ -299,9 +271,7 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 10",
     "General Notes/Pasted image 20241028114442.png",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 18.pdf",
     "General Notes/Pasted image 20241028113947.png",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 17.pdf",
     "General Notes/Pasted image 20241028112629.png",
     "General Notes/Pasted image 20241028112410.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
@@ -326,7 +296,6 @@
     "General Notes/Networks - Week 9 Day 3 2024-10-25 09.13.21.excalidraw.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 6/ERTA - Week 6 Day 2.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 2.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md"
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 2.md"
   ]
 }
