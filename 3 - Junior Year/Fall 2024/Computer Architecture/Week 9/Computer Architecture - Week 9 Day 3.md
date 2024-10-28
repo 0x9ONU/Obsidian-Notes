@@ -128,3 +128,4 @@ Divided single-cycle processor into *5 Stages*:
 ***Same* Control Unit** as single-cycle processor
 
 *Control signal travels with* the instruction (drop off when used)
+
