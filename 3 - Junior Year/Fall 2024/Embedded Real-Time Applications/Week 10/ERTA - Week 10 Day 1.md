@@ -16,5 +16,13 @@ collapse: open
 
 # Review (Midterm 2)
 
-## Interrupts
+## Motors
+
+```ad-question
+What are the different parts of a motor and how do they work?
+```
+
+There is a magnetic field that acts on the coil of wire. Stator is the physical housing around the motor that does not move. The rotor moves. There is a coil of wire that goes through the rotor. Current goes through the coil because of the right hand rule. The rotors will then make contact with the brushes and the commutators to keep adding current to the coil, which will generate a force both upward and downward to rotate the rotor.
+
+
 
