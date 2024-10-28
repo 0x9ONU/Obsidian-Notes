@@ -15,4 +15,28 @@ Suppose one of the following control signals in the multicycle RISC-V processor 
 
 ### c) ALUSrcB1
 
-`ALUSrcB1` controls whether or not the ALU will take in a value from a register or a constant (+4) into it’s second value. Much like the `ResultSrc1` being stuck to zero, this signal will also greatly hurt the fetch clock. During fetch, the instruction would be taken in and $PC+4$ is calculated and is placed in the `PC` register. However, if `ALUSrcB1` is stuck-on-zero, it will fail to create $PC+4$ and will instead calculate $PC+RD2$. This will  
+`ALUSrcB1` controls whether or not the ALU will take in a value from a register or a constant (+4) into it’s second value. Much like the `ResultSrc1` being stuck to zero, this signal will also greatly hurt the fetch clock. During fetch, the instruction would be taken in and $PC+4$ is calculated and is placed in the `PC` register. However, if `ALUSrcB1` is stuck-on-zero, it will fail to create $PC+4$ and will instead calculate $PC+RD2$. This will then be placed and taken into the `PC` register since PCWrite will be set to high during the fetch instruction. This will make it such that for all instructions but jump and successful branch instructions will randomly jump the program counter and lead to untested behavior or crashing.
+
+### d) ALUSrCB0
+
+`ALUSrcB0` controls whether or not if either if a register value or the immediate is taken as the second operand for the ALU. This can be devastating as it prevents any immediate being used in the ALU during both the *decode* AND *execution* steps. For decode, `jal` and `beq` rely on the correct immediate to be read in so it knows where PC should jump to. However, without ALUSrcB0 working correctly, it will calculate $PC + RD2$ instead of $PC + imm$, which will make PC jump to a random spot or completely out of bounds. Similarly, it will not calculate the correct pointer for both the `lw` and `sw` instruction, which will make any memory operations a low chance of actually loading or storing the correct information in memory or causing a crash. Immediate-type instructions will also be wrong as they will not be able to take in the immediate for calculations. This will make it such that 
+
+### e) ALUSrcA1
+
+### f) ALUSrcA0
+
+### g) ImmSrc1
+
+### h) ImmSrc0
+
+### i) RegWrite
+
+### j) PCUpdate
+
+### k) Branch
+
+### l) AdrSrc
+
+### m) MemWrite
+
+### n) IRWrite
