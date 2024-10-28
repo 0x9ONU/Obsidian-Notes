@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Architecture - Week 9 Day 3"
+              "title": "Computer Architecture - Week 10 Day 1"
             }
           }
         ]
@@ -51,7 +51,8 @@
               "title": "Lecture 18"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,49 +280,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "floating": {
-    "id": "7a3166184eae75e6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "004e9659601ee0fb",
-        "type": "window",
-        "children": [
-          {
-            "id": "d2bfd6b8d874be51",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cc9ae29dbb408df2",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 17.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Lecture 17"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": -2.5
-      }
-    ]
-  },
   "active": "59d2041419da78a6",
   "lastOpenFiles": [
-    "General Notes/Pasted image 20241028110240.png",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 17.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
+    "General Notes/Pasted image 20241028114442.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 18.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
+    "General Notes/Pasted image 20241028113947.png",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 17.pdf",
+    "General Notes/Pasted image 20241028112629.png",
+    "General Notes/Pasted image 20241028112410.png",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
+    "General Notes/Pasted image 20241028110240.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Untitled",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10",
@@ -347,10 +316,6 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 3.md",
     "General Notes/Pasted image 20241025143650.png",
     "General Notes/Pasted image 20241025142344.png",
-    "General Notes/Pasted image 20241025142337.png",
-    "General Notes/Pasted image 20241025141945.png",
-    "General Notes/Pasted image 20241025141341.png",
-    "General Notes/Pasted image 20241025141132.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 2.md",
@@ -362,7 +327,6 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 5/ERTA - Week 5 Day 1.md",
     "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.10.16.excalidraw.md",
     "General Notes/ERTA - Week 8 Day 2 2024-10-21 13.20.32.excalidraw.md",
-    "General Notes/Networks - Week 9 Day 2 2024-10-23 09.00.54.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 1.md"
+    "General Notes/Networks - Week 9 Day 2 2024-10-23 09.00.54.excalidraw.md"
   ]
 }
