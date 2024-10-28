@@ -13,46 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 10/ERTA - Week 10 Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Architecture - Week 10 Day 1"
+              "title": "ERTA - Week 10 Day 1"
             }
           }
         ]
-      },
-      {
-        "id": "e4f3bdc363887e08",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f617e3c96d516da",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 17.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 17"
-            }
-          },
-          {
-            "id": "a1b2ad929e3b3845",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 18.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 18"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,9 +251,11 @@
   },
   "active": "59d2041419da78a6",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 10/ERTA - Week 10 Day 1.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 10",
     "General Notes/Pasted image 20241028114442.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 18.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
     "General Notes/Pasted image 20241028113947.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 17.pdf",
     "General Notes/Pasted image 20241028112629.png",
@@ -304,7 +275,6 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-5 VLAN Design Problems.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Materials",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 8/Computer Architecture - Week 8 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
@@ -315,7 +285,6 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 3.md",
     "General Notes/Pasted image 20241025143650.png",
-    "General Notes/Pasted image 20241025142344.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 3.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 9/ERTA - Week 9 Day 2.md",
