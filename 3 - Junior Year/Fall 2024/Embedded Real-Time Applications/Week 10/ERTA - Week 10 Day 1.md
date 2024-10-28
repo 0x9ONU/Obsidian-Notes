@@ -26,3 +26,4 @@ There is a magnetic field that acts on the coil of wire. Stator is the physical 
 
 
 
+![[ERTA - Week 10 Day 1 2024-10-28 13.33.05.excalidraw]]
