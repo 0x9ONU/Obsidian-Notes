@@ -121,3 +121,10 @@ Divided single-cycle processor into *5 Stages*:
 
 ![[Pasted image 20241025113437.png]]
 
+## Pipelined Processor with Control
+
+![[Pasted image 20241028110240.png]]
+
+***Same* Control Unit** as single-cycle processor
+
+*Control signal travels with* the instruction (drop off when used)
