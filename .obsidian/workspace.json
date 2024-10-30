@@ -27,34 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Hardware Security - Guest Speaker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Architecture - Week 10 Day 1"
+              "title": "Hardware Security - Guest Speaker"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d233a27249eaf93f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c288b25aa3b6911c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 18.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 18"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -284,8 +266,9 @@
   },
   "active": "ee73f85b07a6886c",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 18.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 10/Hardware Security - Guest Speaker.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 18.pdf",
     "General Notes/Pasted image 20241030112903.png",
     "General Notes/Pasted image 20241030111313.png",
     "General Notes/Pasted image 20241030111051.png",
