@@ -98,3 +98,28 @@ StallF = StallD = FlushE = lwStall
 
 ![[Pasted image 20241030111313.png]]
 
+# Pipelined Processor Control Hazard
+
+## Control Hazards
+
+`beq`:
+- Branch not determined until the **Execute stage** of pipeline
+- **Instructions** after branch *fetched* before branch occurs
+- These **Two** instructions must be **flushed** if branch happens
+
+![[Pasted image 20241030112903.png]]
+
+```ad-danger
+title: Branch Misprediction Penalty
+The number of instructions flushed when a branch is taken (in this case, 2 instructions)
+```
+
+## Flushing Logic
+
+If `branch` is taken in *execute* stage, need to flush the instructions in Fetch and Decode stages
+- Do this by clearing Decode and Execute Pipeline registers using `flushD` and `flushE`
+
+**Equations**:
+- $FlushD = PCSRCE$
+- $FlushE = lwStall OR PCSrcE$
+
