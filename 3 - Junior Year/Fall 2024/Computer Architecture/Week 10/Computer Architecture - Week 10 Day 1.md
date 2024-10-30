@@ -64,9 +64,37 @@ Check if source register *in Execute stage* **matches** destination register of 
 
 *For Rs1*:
 ```c
-if ((Rs1E == RdM) && RegWriteM)
+if ((Rs1E == RdM) && RegWriteM) && (Rs1E != 0)      //Case 1
      ForwardAe = 10
-else if ((Rs1E == RdW) && RegWriteW)
+else if ((Rs1E == RdW) && RegWriteW) && (Rs1E != 0) //Case 2
      ForwardAE = 01
-else Foward AE = 00
+else Foward AE = 00                                 //Case 3
 ```
+
+## Data Hard due to `lw` Dependency
+
+![[Pasted image 20241030111003.png]]
+
+```ad-important
+You can *stall* the load to wait for the data to be ready
+```
+
+![[Pasted image 20241030111051.png]]
+
+### Stall Logic
+
+Is either *source* register in the **Decode** stage the same as the *destination* register in the **Execute** stage?
+
+***AND***
+
+Is the instruction in the **Execute** stage of a `lw`?
+
+```c
+lwStall = (((Rs1D == RdE) || (Rs2D ==RdE)) && ResultSrcE_0 == 1)
+StallF = StallD = FlushE = lwStall
+```
+
+(Stall the Fetch and Decode stages, and flush the Execute stage.)
+
+![[Pasted image 20241030111313.png]]
+
