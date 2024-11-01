@@ -166,3 +166,71 @@ FLushE = lwStall OR PCSrcE
 | —         | Rs1D           |
 | —         | Rs2D           |
 
+# Pipelined Performance
+
+```ad-note
+THe SPECINT2000 Benchmark:
+- 25% loads
+- 10% stores
+- 13% branches
+- 52% R-Type
+```
+
+*Suppose*:
+- 40% of the loads used by next instruction
+- 50% of branches mis predicted
+
+```ad-question
+What si the average CPI?
+```
+
+**Load CPI** = 1 when not stalling, 2 when stalling
+
+$$CPI_{lw} = 1(0.6) + 2(0.4)=1.4$$
+
+**Branch CPI** = 1 when not stalling, 3 when stalling
+
+$$CPI_{beq} = 1(0.4) + 3(0.5) = 2$$
+
+$$\boxed{\mbox{Average CPI} = (0.25)(0.14)+0.1(1)+(0.13)(2)+(0.52)(1) = 1.23}$$
+
+```ad-warning
+You also have to consider the latency when filling and emptying the pipeline. Considerable amount of clocks *only* when the number of instructions is low ($x < 10$)
+```
+
+## Critical Path
+
+$$T_{c\_pipelined}= \max \begin{bmatrix} t_{pcq}+t_{mem} +t_{setup} \\ 2(t_{RFread}+t_{setup}) \\ t_{pcq} + 4t_{mux} + t_{ALU} + t{ALU} + t_{AND-OR} + t_{setup} \\ t_{pcq} + t_{mem} + t_{setup} \\ 2(t_{pcq} + t_{mux}+t_{RFwrite}) \end{bmatrix}$$
+
+- Decode and Writeback stages both use the register file in each cycle
+- So each stage gets half of the cycle time ($T_c/2$) to do their work
+- Or, stated a different way, *2x of their work* must fit in a cycle ($T_c$)
+
+```ad-important
+The critical path of the pipeliend processor is the **execute stage** with a branch instruction. It also uses the writeback stage as a forward mechanism (taking a value from the writeback stage using the hazard unit)
+```
+
+![[Pasted image 20241101114221.png]]
+
+![[Pasted image 20241101114404.png]]
+
+$$T_{c\_pipeliend} = t_{pcq} + 4t_{mux} + t_{ALU} + t_{AND-OR} + t_{setup}$$
+$$\boxed{T_{c\_pipelined} =}$$
+
+### Example
+
+```ad-question
+How long will it takes to run a program with 100 billionn instructions?
+```
+
+$$\mbox{Execution Time} = (\mbox{\# of instructions})\times \mbox{CPI} \times T_c$$
+$$= (100*10^9)(1.23)(350*10^{-12})$$
+$$\mbox{Execution Time} = 43 s$$
+
+## Processor Performance Comparison
+
+| Processor    | Execution Time | Speedup |
+| ------------ | -------------- | ------- |
+| Single-Cycle | 75             | 1       |
+| Multi-cycle  | 155            | 0.5     |
+| Pipelined    | 43             | 1.7     |
