@@ -123,5 +123,46 @@ If `branch` is taken in *execute* stage, need to flush the instructions in Fetch
 - $FlushD = PCSRCE$
 - $FlushE = lwStall \space OR \space PCSrcE$
 
+![[Pasted image 20241101110625.png]]
 
+## Summary of Hazard Logic
+
+**Data Hazard Logic**
+
+```c
+if ((Rs1E == RdM) && RegWriteM) && (Rs1E != 0) 
+	Forward AE = 10;
+else if ((Rs1E == RdW)) && RegWriteW) && (Rs1E != 0)
+	ForwardAE = 01;
+else ForwardAE = 00;
+```
+
+**Load Word Stall Logic**
+
+```c
+lwStall = ((Rs1D == RdE) || (Rs2D == RdE)) && ResultSrcE_0
+StallF = StallD = lwStall
+```
+
+**Control Hazard Flush**
+```c
+FlushD = PCScrE
+FLushE = lwStall OR PCSrcE
+```
+
+### Outputs and Inputs
+
+| Outputs   | Inputs         |
+| --------- | -------------- |
+| ForwardAE | RegWriteM      |
+| ForwardBE | RegWriteW      |
+| FlushE    | RdM            |
+| FlushD    | RdW            |
+| StallD    | ResultSrcE$_0$ |
+| StallF    | PCSrcE         |
+| —         | Rs1E           |
+| —         | Rs2E           |
+| —         | RdE            |
+| —         | Rs1D           |
+| —         | Rs2D           |
 
