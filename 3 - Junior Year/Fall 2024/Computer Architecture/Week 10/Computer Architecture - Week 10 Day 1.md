@@ -121,5 +121,7 @@ If `branch` is taken in *execute* stage, need to flush the instructions in Fetch
 
 **Equations**:
 - $FlushD = PCSRCE$
-- $FlushE = lwStall OR PCSrcE$
+- $FlushE = lwStall \space OR \space PCSrcE$
+
+
 
