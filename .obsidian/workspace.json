@@ -18,8 +18,23 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "338d57cf7f9b633a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-26.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-08-26"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -149,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-26.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-08-26"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -176,10 +191,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-26.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-08-26"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -273,54 +288,54 @@
       "media-extended:Open media": false
     }
   },
-  "active": "ea0675d3ab0a2a6f",
+  "active": "338d57cf7f9b633a",
   "lastOpenFiles": [
-    "2024-08-26.md",
-    "Templates/Hardware Security/Hardware Security Template.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 1",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 1",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 1",
-    "3 - Junior Year/Fall 2024/Hardware Security",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications",
-    "3 - Junior Year/Fall 2024/Computer Architecture",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications",
-    "Templates/Embedded Real-Time Applications/Embedded Real-Time Applications Template.md",
-    "Templates/Electronics/Electronics Template.md",
-    "Templates/Computer Architecture/Computer Architecture Template.md",
-    "Templates/Embedded Real-Time Applications/Untitled",
-    "Templates/Networks/Networks Template.md",
-    "Templates/Hardware Security",
-    "3 - Junior Year/Untitled.md",
     "conflict-files-obsidian-git.md",
-    "3 - Junior Year/School of Fraternity Practices/Special Event - Upstander Intervention Training.md",
-    "3 - Junior Year/School of Fraternity Practices/Breakout Session 4 - Leadership in 2024.md",
-    "3 - Junior Year/School of Fraternity Practices/Breakout Session 3 - Accountability & Adaptability.md",
-    "3 - Junior Year/School of Fraternity Practices/Breakout Session 2 -.md",
-    "3 - Junior Year/School of Fraternity Practices/Breakout Session 1 - Running on All Cylinders.md",
-    "2024-07-22.md",
-    "2024-07-17.md",
-    "2024-07-11.md",
-    "2024-07-15.md",
-    "General Notes/unnamed.png",
-    "2024-07-19.md",
-    "2024-07-16.md",
-    "2024-07-04.md",
-    "2024-07-03.md",
-    "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
-    "2024-07-07.md",
-    "2024-07-08.md",
-    "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
-    "2024-07-05.md",
-    "General Notes/Pasted image 20240701123210.png",
-    "General Notes/Pasted image 20240701123150.png",
-    "General Notes/Pasted image 20240701123142.png",
-    "General Notes/Pasted image 20240701113756.png",
-    "General Notes/Pasted image 20240701113651.png",
-    "General Notes/Pasted image 20240701113552.png",
-    "General Notes/Pasted image 20240701113332.png",
-    "General Notes/Pasted image 20240701112606.png",
-    "General Notes/Pasted image 20240701112532.png",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 2/Computer Architecture - Week 2 Day 2.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 2/Computer Architecture - Week 2 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 2",
+    "General Notes/unnamed.gif",
+    "General Notes/thumbnail_Black-box.jpg",
+    "General Notes/Pasted image 20241028113947.png",
+    "General Notes/Pasted image 20241028112629.png",
+    "General Notes/Pasted image 20241028112410.png",
+    "General Notes/Pasted image 20241028110240.png",
+    "General Notes/Pasted image 20241028091740.png",
+    "General Notes/Pasted image 20241028091537.png",
+    "General Notes/Pasted image 20241028091210.png",
+    "General Notes/Pasted image 20241028090647.png",
+    "General Notes/Networks - Week 2 Day 1 2024-09-04 09.36.34.excalidraw.md",
+    "General Notes/Networks - Week 1 Day 2-3 2024-09-04 09.17.39.excalidraw.md",
+    "General Notes/Networks - Week 1 Day 2-3 2024-08-30 09.47.07.excalidraw.md",
+    "General Notes/Networks - Week 1 Day 2 2024-08-30 09.04.40.excalidraw.md",
+    "General Notes/Networks - Week 1 Day 2 2024-08-28 09.27.08.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-5 VLAN Design Problems.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-4 VLAN Configuration.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials/3-3 VLAN Networks.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Materials",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Materials/2-5 OSPF Routing Protocol.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Materials",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2-3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 3/Hardware Security - Week 3 Day 2.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
