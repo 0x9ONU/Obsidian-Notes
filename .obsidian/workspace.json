@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b3c0218c594a1da2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "31a756b9ffaea1c6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 19.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 19"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
