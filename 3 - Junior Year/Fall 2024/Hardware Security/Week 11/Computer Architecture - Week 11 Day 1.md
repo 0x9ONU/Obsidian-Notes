@@ -136,4 +136,3 @@ It is also difficult to not build chips without JTAG support. Designers can incl
 Found a way to disable the functionality of the JTAG hardware after it has been used for testing.
 - Blows security fuses once the chip has been determined as working.
 - Can be used to disable *part* or *all* of the functionality
-
