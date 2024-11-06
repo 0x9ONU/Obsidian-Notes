@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Computer Architecture - Week 11 Day 1"
             }
+          },
+          {
+            "id": "f1ae539ddf60b492",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,7 +262,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "464872545a4b147d",
+  "active": "f1ae539ddf60b492",
   "lastOpenFiles": [
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 17(1).pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Computer Architecture - Week 11 Day 1.md",
