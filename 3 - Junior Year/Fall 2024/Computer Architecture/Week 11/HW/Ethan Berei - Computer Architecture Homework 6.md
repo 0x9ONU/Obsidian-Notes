@@ -45,6 +45,6 @@ Your friend, the crack circuit designer, has offered to redesign one of the unit
 
 Currently, the critical path is limited by the following:
 
-$$T_{c\_pipelined}= \max \begin{bmatrix} t_{pcq}+t_{mem} +t_{setup} \\ 2(t_{RFread}+t_{setup}) \\ t_{pcq} + 4t_{mux} + t_{ALU} + t_{AND-OR} + t_{setup} \\ t_{pcq} + t_{mem} + t_{setup} \\ 2(t_{pcq} + t_{mux}+t_{RFwrite}) \end{bmatrix}$$
-$$= \begin{bmatrix} 290ps \\ 220ps \\ 350ps \\ 290ps \\ 340ps \end{bmatrix}$$
+$$T_{c\_pipelined}= \max \begin{bmatrix} t_{pcq}+t_{mem} +t_{setup} \\ 2(t_{RFread}+t_{setup}) \\ t_{pcq} + 4t_{mux} + t_{ALU} + t_{AND-OR} + t_{setup} \\ t_{pcq} + t_{mem} + t_{setup} \\ 2(t_{pcq} + t_{mux}+t_{RFsetup}) \end{bmatrix}$$
+$$= \begin{bmatrix} 290ps \\ 220ps \\ 350ps \\ 290ps \\ 260ps \end{bmatrix}$$
 
