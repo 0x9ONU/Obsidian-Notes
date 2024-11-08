@@ -13,56 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networks - Week 8 Day 2"
-            }
-          },
-          {
-            "id": "0a63f3ea233142ae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Materials/3-2 MAC Protocols, Networks.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-2 MAC Protocols, Networks"
-            }
-          },
-          {
-            "id": "abf83f02ed6524bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networks - Week 9 Day 3"
-            }
-          },
-          {
-            "id": "fe5ee7b63f34a947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networks - Week 9 Day 2"
+              "title": "Computer Architecture - Week 11 Day 3"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,23 +249,27 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fe5ee7b63f34a947",
+  "active": "464872545a4b147d",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 3.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Materials/3-2 MAC Protocols, Networks.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Networks - Week 11 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Materials/4-1 Delay and Loss in Networks.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Networks - Week 11 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/HW/Ethan Berei - Computer Architecture Homework 6.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/HW/Computer Architecture HW 5.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Materials/5-1 Multiplexing and Demultiplexing.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 19.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Materials/3-2 MAC Protocols, Networks.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Materials/2-5 OSPF Routing Protocol.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
@@ -320,16 +283,12 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
     "General Notes/Ethan Berei - Computer Architecture Homework 6 2024-11-04 12.55.31.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Materials/Lecture 16.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 2.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Materials/Lecture 14(1).pdf",
     "General Notes/Computer Architecture - Week 11 Day 1 2024-11-04 11.34.12.excalidraw.md",
     "General Notes/Computer Architecture - Week 11 Day 1 2024-11-04 11.31.41.excalidraw.md",
-    "General Notes/Computer Architecture - Week 11 Day 1 2024-11-04 11.14.11.excalidraw.md",
     "General Notes/Pasted image 20241104110731.png",
     "General Notes/Pasted image 20241104110615.png",
     "General Notes/Pasted image 20241104093714.png",
