@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 11/ERTA - Week 10 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ERTA - Week 10 Day 2"
+              "title": "Hardware Security - Week 11 Day 3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "34f3d67e0a7f25b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d2642a0ac8d01e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 19(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "lecture 19(1)"
             }
           }
         ]
@@ -249,10 +267,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "464872545a4b147d",
+  "active": "35d2642a0ac8d01e",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Materials/Lecture 21(2).pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/Review and discusison on Chapter 9.pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 18(1).pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 19(1).pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 17(1).pdf",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 11/ERTA - Week 10 Day 2.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Materials/Lecture 21(2).pdf",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 11",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Materials/Lecture 20.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Materials/Lecture 21(3).pdf",
@@ -273,21 +297,15 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/HW/Ethan Berei - Computer Architecture Homework 6.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/HW/Computer Architecture HW 5.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Materials/5-1 Multiplexing and Demultiplexing.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 19.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Materials/2-5 OSPF Routing Protocol.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Computer Architecture - Week 11 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 17(1).pdf",
     "General Notes/Pasted image 20241104140951.png",
     "General Notes/Pasted image 20241104140911.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
     "General Notes/Ethan Berei - Computer Architecture Homework 6 2024-11-04 12.55.31.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 2.md",
     "General Notes/Pasted image 20241104110731.png",
     "General Notes/Pasted image 20241104110615.png",
     "General Notes/Pasted image 20241104093714.png",
