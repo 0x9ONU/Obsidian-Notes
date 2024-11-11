@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware Security - Week 11 Day 3"
-            }
-          }
-        ]
-      },
-      {
-        "id": "34f3d67e0a7f25b4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35d2642a0ac8d01e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 19(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "lecture 19(1)"
+              "title": "Networks - Week 7 Day 2"
             }
           }
         ]
@@ -269,19 +251,27 @@
   },
   "active": "464872545a4b147d",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Networks - Week 11 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
     "General Notes/Pasted image 20241108143652.png",
     "General Notes/Pasted image 20241108143450.png",
     "General Notes/Pasted image 20241108143221.png",
     "General Notes/Pasted image 20241108142908.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 19(1).pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
     "General Notes/Pasted image 20241108142307.png",
     "General Notes/Pasted image 20241108142127.png",
     "General Notes/Pasted image 20241108142034.png",
     "General Notes/Pasted image 20241108142028.png",
     "General Notes/Pasted image 20241108142026.png",
     "General Notes/Pasted image 20241108141004.png",
-    "General Notes/Pasted image 20241108140945.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/Review and discusison on Chapter 9.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 18(1).pdf",
@@ -294,18 +284,9 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Materials/3-2 MAC Protocols, Networks.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 9/Networks - Week 9 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Networks - Week 11 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Materials/4-1 Delay and Loss in Networks.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 8/Networks - Week 8 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/HW/Ethan Berei - Computer Architecture Homework 6.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/HW/Computer Architecture HW 5.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md",
