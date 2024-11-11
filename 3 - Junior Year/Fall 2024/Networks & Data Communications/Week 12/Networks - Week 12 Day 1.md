@@ -99,9 +99,15 @@ If the second segment arrives before the first segment, in the acknowledgement o
 Host A and B are communicating over a TCP connection, and Host B has already received from A all bytes up thorugh byte 250. Suppose Host A then sends three semgents to HOst B back-to-back. The first, second and third segments contian 90, 70, and 50 bytes of data, respectively. Suppose all three semgents sent by A arrive in order at B. The first acknowledement arrives in time, while the second acknowledgement is lost and the third acknowledgment arrives after the second timeout interval.
 
 Draw a timing diagram, showing these segments and all other segments and acknowledgments sent. (Assume there is no additional packet loss.) For each segment in your figure, provide the sequence number and the number of bytes of data; for each acknowledgment that you add, provide the acknowledgment number.
+
+Draw the same timing diagram if the *third* packet is also lost
 ```
 
+![[Networks - Week 12 Day 1 2024-11-11 09.34.49.excalidraw]]
 
+![[Networks - Week 12 Day 1 2024-11-11 09.38.02.excalidraw]]
+
+![[Networks - Week 12 Day 1 2024-11-11 09.42.16.excalidraw]]
 
 # TCP, Congestion, and Flow Control
 
