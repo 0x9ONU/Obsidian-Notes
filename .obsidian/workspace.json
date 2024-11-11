@@ -13,30 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Homework/Ethan Berei - Hardware Security Homework 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networks - Week 12 Day 1"
+              "title": "Ethan Berei - Hardware Security Homework 4"
             }
           }
         ]
       },
       {
-        "id": "f8fa6d53f1261669",
+        "id": "f45f00d6e0e8e2fa",
         "type": "tabs",
         "children": [
           {
-            "id": "bc4bba53a9e83887",
+            "id": "26d2bbfb3d69d817",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Materials/5-3 TCP, Congestion, Flow Control.pdf"
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "5-3 TCP, Congestion, Flow Control"
+              "icon": "lucide-file",
+              "title": "Hardware Security - Week 11 Day 1"
             }
           }
         ]
@@ -267,49 +269,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "floating": {
-    "id": "695f7091ae253917",
-    "type": "floating",
-    "children": [
-      {
-        "id": "618e281cee9fd340",
-        "type": "window",
-        "children": [
-          {
-            "id": "49fd31ec93cf17eb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e0108456ab4d3a1b",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Networks - Week 12 Day 1 2024-11-11 09.34.49.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Networks - Week 12 Day 1 2024-11-11 09.34.49.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": -2.5
-      }
-    ]
-  },
-  "active": "e0108456ab4d3a1b",
+  "active": "464872545a4b147d",
   "lastOpenFiles": [
-    "General Notes/Pasted Image 20241111093507_449.png",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Computer Architecture - Week 12 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Homework/Ethan Berei - Hardware Security Homework 4.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Homework",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 18(1).pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
-    "General Notes/Networks - Week 12 Day 1 2024-11-11 09.34.49.excalidraw.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Materials/5-3 TCP, Congestion, Flow Control.pdf",
+    "General Notes/Networks - Week 12 Day 1 2024-11-11 09.34.49.excalidraw.md",
+    "General Notes/Pasted Image 20241111093507_449.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Materials/5-2 UDP, rdt, Pipeline Protocols.pdf",
     "General Notes/Pasted image 20241111092211.png",
     "General Notes/Pasted image 20241111091507.png",
@@ -335,13 +305,9 @@
     "General Notes/Pasted image 20241108142908.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 19(1).pdf",
     "General Notes/Pasted image 20241108142307.png",
-    "General Notes/Pasted image 20241108142127.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/Review and discusison on Chapter 9.pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 18(1).pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 17(1).pdf",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 11/ERTA - Week 10 Day 2.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Materials/Lecture 21(2).pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
@@ -350,7 +316,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md"
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md"
   ]
 }
