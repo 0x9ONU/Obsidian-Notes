@@ -14,4 +14,4 @@ Explain the relationship between testability and security.
 List several countermeasures against JTAG hacks and explain in detail one of them.
 ```
 
-To protect against JTAG exploits, researchers and designers have found many ways to protect against the various attacks created to exploit the test path. These countermeasures include: Buffers/Repeaters, Star Connections, Encryption/Authentication using PUFs or public keys, 
+To protect against JTAG exploits, researchers and designers have found many ways to protect against the various attacks created to exploit the test path. These countermeasures include: Buffers/Repeaters, Star Connections, Encryption/Authentication using PUFs or public keys, shadow chains in dynamically obfuscated infrastructure, defusing scan-related pins, and test mode protection. Specifically, the most interesting form is using  
