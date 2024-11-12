@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Computer Architecture - Week 11 Day 1"
             }
+          },
+          {
+            "id": "abba2f0b5a273dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Architecture - Week 9 Day 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d98cffc62027abda",
@@ -271,8 +286,10 @@
   },
   "active": "8d4e0a53f42a2eea",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Midterm 2 Study Guide.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/HW/Ethan Berei - Computer Architecture Homework 6.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Materials/Lecture 21(2).pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Computer Architecture - Week 11 Day 3.md",
@@ -313,7 +330,6 @@
     "General Notes/Pasted image 20241108142908.png",
     "General Notes/Pasted image 20241108142307.png",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 11/ERTA - Week 10 Day 2.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/HW/Computer Architecture HW 5.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md"
   ]
