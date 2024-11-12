@@ -46,6 +46,6 @@ Your friend, the crack circuit designer, has offered to redesign one of the unit
 Currently, the critical path is limited by the following:
 
 $$T_{c\_pipelined}= \max \begin{bmatrix} t_{pcq}+t_{mem} +t_{setup} \\ 2(t_{RFread}+t_{setup}) \\ t_{pcq} + 4t_{mux} + t_{ALU} + t_{AND-OR} + t_{setup} \\ t_{pcq} + t_{mem} + t_{setup} \\ 2(t_{pcq} + t_{mux}+t_{RFsetup}) \end{bmatrix}$$
-$$= \begin{bmatrix} 290ps \\ 220ps \\ 350ps \\ 290ps \\ 260ps \end{bmatrix}$$
+$$= \begin{bmatrix} 290ps \\ 300ps \\ 350ps \\ 290ps \\ 260ps \end{bmatrix}$$
 
-Out of all the units, improving the $t_{mux}$ would be the best since it would speed up critical path while still speeding up another path. If it were to be improved to work twice as fast ($15ps$), the critical path will be improved to $290ps$ and matches the critical path of two other sections of the processor. It also improves the speed of the write back part of the pipeline.
+Out of all the units, improving the $t_{mux}$ would be the best since it would speed up critical path while still speeding up another path. If it were to be improved to work about twice as fast ($15ps$), the critical path will be improved to $290ps$ and matches the critical path of two other sections of the processor. It also improves the speed of the write back part of the pipeline.
