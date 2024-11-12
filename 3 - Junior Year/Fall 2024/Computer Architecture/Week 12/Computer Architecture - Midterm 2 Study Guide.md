@@ -138,6 +138,79 @@ Suppose one of the following control signals in the multicycle RISC-V processor 
 14. $IRWrite$
 ```
 
+## Problem Type 3 (Critical Path)
+
+### Notes
+
+$$T_{c\_single} = t_{pcq\_PC}+t_{mem}+\max[t_{RFread} + t_{cntrl} + t_{ext} + t_{mux}]+t_{ALU} + t_{mem}+t_{mux} + t_{RFsetup}$$
+
+$$T_{c\_multi}=t_{pcq} + t_{dec} + 2t_{mux}+\max(t_{ALU}, t_{mem})+t_{setup}$$
+
+$$T_{c\_pipelined}= \max \begin{bmatrix} t_{pcq}+t_{mem} +t_{setup} \\ 2(t_{RFread}+t_{setup}) \\ t_{pcq} + 4t_{mux} + t_{ALU} + t{ALU} + t_{AND-OR} + t_{setup} \\ t_{pcq} + t_{mem} + t_{setup} \\ 2(t_{pcq} + t_{mux}+t_{RFwrite}) \end{bmatrix}$$
+
+### Exercise 7.7
+
+```ad-question
+Your friend is a crack circuit designer. She has offered to redesign one of the units in the single-cycle RISC-V processor to have half the delay. Using the delays from Table 7.7 on page 415, which unit should she work on to obtain the greatest speedup of teh overall processor, and what would the cycle time of the improved machine be? Explain why.
+```
+
+### Exercise 7.8
+
+```ad-question
+Consider the delays given in Table 7.7 on page 415. Ben Bitdiddle builds a prefix adder that reduces the ALU delay by 20ps. If the other element elays stay the same, find the new cycle itme of the single-cycle RISC-V processor and determine how long it takes to execute a benchmark with 100 billion instructions
+```
+
+### Exercise 7.19
+
+```ad-question
+Your friend, the crack circuit designer, has offered to redesign one of the units in the multicycle RISC-V processor to be much faster. Using the delays from Table 7.7 on page 415, which unit should jshe work on to obtain the greatest speedup of the overall processor? How fast should it be? (Making ti faster than necessary is a waste of your friend's effort.) What is the cycle time of the improved processor? Explain and show your work.
+```
+
+### Exercise 7.21
+
+```ad-question
+Suppose the multicycle RISC-V processor has the component delays given in Table 7.7 on page 415. Alyssa P. Hacker designs a new register file that has 40% less power but twice as much delay. Should she switch to the slower but lower power register file for her multicycle processor design? Explain why.
+```
+
+### Exercise 7.39
+
+```ad-question
+Your friend, the crack circuit designer, has offered to redesign one of the units in the pipelined RISC-V processor to be much faster. Using the delays from Table 7.7 on page 415, which unit should she work on to obtain the greatest speedup of the overall processor? How fast should it be? (Making it faster than necessary is a waste of your friend's effort.) What is the cycle time of the improved processor? Explain your answers and show your work.
+```
+
+### Exercise 7.40
+
+```ad-question
+Consider the delays from Table 7.7 on page 415. Now, suppose that the ALU were 20% faster. Would the cycle time of teh pipelined RISC-V processor changed? What if the ALU were 20% slower? Explain your answers and show your work.
+```
+
+## Problem Type 4 (Average CPI with Changes to Benchmark)
+
+### Exercise 7.35
+
+```ad-question
+How many cycles are required for all pipelined RISC-V Processor to issue all of the instructions for the program in Exercise 7.31? What is the CPI of the processor on this program
+```
+
+It takes **eight** clocks to run *six* instructions:
+
+$$\mbox{CPI} = \mbox{\# of clock cycles} / \mbox{\# of Instructions}$$
+$$\mbox{CPI} = (8)/(6) = 1.33 \mbox{ CPI}$$
+
+### Exercise 7.34
+
+```ad-question
+How many cycles are required for the pipelined RISC-V processor to issue all of the instructions for the program in Exercise 7.30? What is the CPI of the processor on this program?
+```
+
+```ad-important
+When caring about CPI, we do not care about latency, but when the last instruciton was fetched
+```
+
+It takes **eight** clock cycles to issue all the instructions. Number of instructions = 6
+
+$$\mbox{CPI} = 8 \mbox{ clks} / 6 \mbox{ instructions} = 1.33 \mbox{ CPI}$$
+
 ## Problem Type 5 (Pipeline Hazard Diagrams)
 
 ### Notes
