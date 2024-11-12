@@ -7,9 +7,8 @@ File Folder: Week 11
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
-
 ```
+
+## 
+
 
