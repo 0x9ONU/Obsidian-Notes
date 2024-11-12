@@ -8,7 +8,7 @@ File Folder: Homework
 Explain the relationship between testability and security.
 ```
 
-When it comes to hardware devices, the relationship between testability and security is often led with contradictions. Whenever an avenue is provided to improve the testing experience of an IC, 
+When it comes to hardware devices, the relationship between testability and security is often led with contradictions. Whenever an avenue is provided to improve the testing experience of an IC, it makes new attack surfaces on the IC and allows more parts of the chip to be exploited. For example, the JTAG allows for inter-circuit testing without the need of physical probes and makes it much easier to test a chip fast and efficiently. It also typically allows parts of a chip to be tested separately and together, allowing for a streamlined process to make sure an IC works up to specifications. However, it leaves the device open to many attacks that are specifically designed to exploit the IC. Between sniffing, modifying, and controlling the various signals going into the device, a bad actor may be able to gain information or leak sensitive information from the device that otherwise would not be available. The balance between testability and security must be considered when it comes to designing SoCs or other devices.
 
 ## Problem 2
 
