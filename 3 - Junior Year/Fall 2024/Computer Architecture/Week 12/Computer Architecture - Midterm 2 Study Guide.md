@@ -24,11 +24,11 @@ How many cycles are required to run the following porgram on the multicycle RISC
 ```
 
 ```
-	addi s0, zero, 5    # 1 time
+	addi s0, zero, 5    # x time
 L1:
-	bge  zero, z0, Done # 6 times
-	addi s0, s0, -1     # 5 times
-	j    L1             # 5 times
+	bge  zero, s0, Done # x times
+	addi s0, s0, -1     # x times
+	j    L1             # x times
 Done:
 ```
 
@@ -46,15 +46,15 @@ How many cycles are required to run the following porgram on the multicycle RISC
 ```
 
 ```
-addi s0, zero, 0   # 1 run
-addi s1, zero, 0   # 1 run
-addi t3, zero, 10  # 1 run
+addi s0, zero, 0   # x run
+addi s1, zero, 0   # x run
+addi t3, zero, 10  # x run
 
 loop:
-	beq s0, t3, L2 # 11 runs
-	add s1, s1, s0 # 10 runs
-	addi s0, s0, 1 # 10 runs
-	j loop         # 10 runs
+	beq s0, t3, L2 # x runs
+	add s1, s1, s0 # x runs
+	addi s0, s0, 1 # x runs
+	j loop         # x runs
 L2:
 ```
 
@@ -75,6 +75,44 @@ $$= \mbox{\# of instructions} * CPI * T_{period}$$
 ```
 
 ## Problem Type 2 (Stuck-at-zero/one)
+
+### Notes
+
+#### Single Cycle
+
+
+![[Pasted image 20241009110716.png]]
+
+![[Pasted image 20241009110729.png]]
+
+![[Pasted image 20241009110743.png]]
+
+![[Pasted image 20241009110800.png]]
+
+![[Pasted image 20241009110816.png]]
+
+#### Multi-Cycle
+
+| State    | Datapath $\mu$OP                           |
+| -------- | ------------------------------------------ |
+| Fetch    | Instr ← Mem{PC}; PC ← PC+4. OldPC          |
+| Decode   | ALUOut ← PCTarget (oldPC + imm)            |
+| MemAdr   | ALUOut ← $rs1+imm$                         |
+| MemRead  | Data ← Mem{ALUOut}                         |
+| MemWB    | rd ← Data                                  |
+| MemWrite | Mem{ALUOut} ← rd                           |
+| ExecuteR | ALUOut ← rs1 op rs2                        |
+| ExecuteI | ALUOut ← rs1 op imm                        |
+| ALUWB    | rd ← ALUOut                                |
+| BEQ      | ALU Result = rs1-rs2; if Zero, PC ← ALUOUt |
+| JAL      | PC ← ALUOut; ALUOut ← oldPC+4              |
+
+
+![[Pasted image 20241021112140.png]]
+
+
+![[Pasted image 20241113100328.png]]
+
 
 ### Exercise 7.1
 
@@ -115,6 +153,9 @@ RISC-V processor has a stuck-at-1 fault, meaning that the signal is always 1 reg
 8. $ALUSrc$
 ```
 
+1. $RegWrite \Rightarrow$ 
+
+(I’ll be honest I yapped about the next three for about 2 hours and forgot to write down `7.2` and `7.12` :\[ )
 ### Exercise 7.11
 
 ```ad-question
@@ -238,6 +279,13 @@ $$= 40 + 2(100) + 100 + 120 + 30 + 60 = \boxed{550ps}$$
 Consider the delays given in Table 7.7 on page 415. Ben Bitdiddle builds a prefix adder that reduces the ALU delay by 20ps. If the other element elays stay the same, find the new cycle itme of the single-cycle RISC-V processor and determine how long it takes to execute a benchmark with 100 billion instructions
 ```
 
+$$T_{c\_new}=t_{pcq\_PC} + 2t_{mem} + t_{RFread}+t_{ALU}+t_{mux}+t_{RFsetup}$$
+$$=40+2(200)+100+\boxed{(100)}+30+60 = \boxed{730ps}$$
+
+$$\mbox{Execution Time} = \mbox{\# of Instructions} \times \mbox{CPI} \times T_c$$
+$$= (100 *10^9)\times(1)\times(730ps)$$
+$$\mbox{Execution Time} = 73s$$
+
 ### Exercise 7.19
 
 ```ad-question
@@ -290,6 +338,10 @@ Out of all the units, improving the $t_{mux}$ would be the best since it would s
 ```ad-question
 Consider the delays from Table 7.7 on page 415. Now, suppose that the ALU were 20% faster. Would the cycle time of teh pipelined RISC-V processor changed? What if the ALU were 20% slower? Explain your answers and show your work.
 ```
+
+Yes for both!!!! The ALU is on the critical path (execution)
+- $T_{c\_faster} = 40+4(30)+(0.8 \times 120)+ 20+50=326ps$
+- $T_{c\_slower} = 40+4(30) (1.2 \times 120) + 20 + 50 = 374 ps$
 
 ## Problem Type 4 (Average CPI with Changes to Benchmark)
 
@@ -374,6 +426,8 @@ sw s4, 20(s1)
 or t2, s0, s1
 ```
 
+![[Computer Architecture - Midterm 2 Study Guide 2024-11-12 14.49.54.excalidraw]]
+
 ### Exercise 7.33b
 
 ```ad-question
@@ -387,3 +441,73 @@ add s3, s3, s4
 or s4, s1, s2
 lw s5, 16(s2)
 ```
+![[Computer Architecture - Midterm 2 Study Guide 2024-11-12 17.21.05.excalidraw]]
+
+### Exercise C.5.1
+
+```ad-warning
+All these instructions were made using partly ChatGPT and partly my brain. They *should* be right, but let me know if you find any problems
+```
+
+```ad-question
+Using a diagram, show the forwarding and stalls needed to execute the instructions below in a pipelined RISC-V Processor.
+
+What is the CPI of this program?
+
+What is happening on the 6th cycle?
+```
+
+```
+lw x5, 0(x1) # Instruction 1: Load value into x5 
+add x6, x5, x2 # Instruction 2: x6 = x5 + x2 
+lw x7, 4(x3) # Instruction 3: Load value into x7 
+sub x8, x6, x7 # Instruction 4: x8 = x6 - x7 
+add x9, x8, x4 # Instruction 5: x9 = x8 * x4
+```
+![[Computer Architecture - Midterm 2 Study Guide 2024-11-12 17.29.16.excalidraw]]
+
+There are **six** clocks taken to read in **five** instructions.
+
+$$CPI = \frac{7}{5}= 1.4$$
+During the 6th cycle, the second instruction is passing through the memory access step (but not accessing anything). The third instruction is calculating the pointer used for accessing memory in the next cycle. The fourth instruction is currently stalling its decode step as it is waiting on the previous instruction to load in the value for `x7`. Then, the fifth instruction was just fetched, but will also need to be stalled by a clock cycle, where it will be loaded in again during the 7th clock cycle.
+
+### Exercise C.5.2
+
+```ad-question
+Using a diagram, show the forwarding and stalls needed to execute the instructions below in a pipelined RISC-V Processor.
+
+What is the CPI of this program?
+```
+
+```
+add x5, x1, x2       # Instruction 1: x5 = x1 + x2
+sub x6, x5, x3       # Instruction 2: x6 = x5 - x3
+add x7, x6, x4       # Instruction 3: x7 = x6 + x4
+sub x8, x7, x2       # Instruction 4: x8 = x7 - x2
+sub x9, x8, x3       # Instruction 5: x9 = x8 - x3
+```
+
+![[Computer Architecture - Midterm 2 Study Guide 2024-11-12 18.22.25.excalidraw]]
+
+**Five** Clocks to do **Five Instructions**
+
+$$CPI = \frac{5}{5} = 1$$
+
+### Exercise C.5.3
+
+```ad-question
+Using a diagram, show the forwarding and stalls needed to execute the instructions below in a pipelined RISC-V Processor. Assume *no* memory-to-memory forwarding
+
+What is the CPI of this program?
+```
+
+```
+lw x5, 0(x1)         # Instruction 1: Load value into x5
+sw x5, 4(x2)         # Instruction 2: Store x5
+lw x6, 8(x1)         # Instruction 3: Load value into x6
+sw x6, 12(x2)        # Instruction 4: Store x6
+```
+
+![[Computer Architecture - Midterm 2 Study Guide 2024-11-12 18.29.59.excalidraw]]
+
+

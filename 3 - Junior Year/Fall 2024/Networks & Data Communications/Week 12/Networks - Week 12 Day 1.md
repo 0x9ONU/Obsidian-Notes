@@ -111,3 +111,83 @@ Draw the same timing diagram if the *third* packet is also lost
 
 # TCP, Congestion, and Flow Control
 
+## Transmission Control Protocol (TCP)
+
+1. *Point-to-point*: One sender, one receiver
+2. *Reliable, in-order byte stream*: Sequence number for a segment is the byte-stream number of the first byte in the segment
+	- If file size to forward is 2000 bytes and MSS is 100, then first segment gets assigned sequence number $0$, the second $100$, the third $200$, and so on. 
+	- $\mbox{Total Segments} = 2000/100=20$
+3. *Pipelined:* TCP congestion and flow control set with window size
+4. *Full Duplex Data*: Bi-directional data flow in same direction
+
+```ad-note
+**MSS**: Maximum segment size. THe maximum amount of data that can be grabbed and placed in a segment.
+```
+
+5. *Connection Oriented*: Handshaking (exchange of control messages) between sender and receiver before data exchange
+6. *Flow Controlled*: Sender will not overwhelm the receiver
+
+## TCP Segment Structure
+
+![[Pasted image 20241113090942.png]]
+
+### `FIN` Packet Header Example
+
+![[Networks - Week 12 Day 1 2024-11-13 09.14.16.excalidraw]]
+
+## Transmission Scenarios
+
+![[Pasted image 20241113091627.png]]
+
+![[Pasted image 20241113091639.png]]
+
+## Connection Management
+
+```ad-summary
+Before exchanged data, sender/ receiver "handshake":
+- Agree to establish connection
+- Agree on connection parameters
+```
+
+### Two-Way Handshake
+
+![[Networks - Week 12 Day 1 2024-11-13 09.19.12.excalidraw]]
+
+### TCP Three-Way Handshake
+
+![[Networks - Week 12 Day 1 2024-11-13 09.20.28.excalidraw]]
+
+![[Pasted image 20241113092218.png]]
+
+## Congestion Control
+
+```ad-summary
+title: Definition
+**Congestion Control**: Too many soruces sending too much data too fast for *network* to handle. Caused by:
+- Lost Packets (buffer overflow)
+- Long delays (Queueing in router buffers)
+```
+
+### TCP Congestion Control
+
+**Additive-Increase, Multiplicative-Decrease (AIMD)**
+- Sender increases transmission rate (window size), probing for usable bandwidth, until loss occurs
+- *Additive Increase*: Increase congestion windows by 1 MSS every RTT until loss detected
+- *Multiplicative Decrease*: Cut congestion window in half after loss
+
+![[Pasted image 20241113092637.png]]
+
+### TCP Slow Start
+
+When connection begins, increase rate exponentially until first loss event:
+- Initially `cwnd` = 1 MSS
+- Doubles `cwnd` every RTT
+- Done by incrementing `cwnd` for every ACK received
+
+```ad-summary
+Initial rate is slow, but ramps up exponentially fast
+```
+
+![[Pasted image 20241113093244.png]]
+
+

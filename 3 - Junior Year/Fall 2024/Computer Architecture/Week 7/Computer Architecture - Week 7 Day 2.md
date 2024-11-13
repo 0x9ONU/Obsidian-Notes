@@ -80,7 +80,7 @@ The processor performance $T_c$ is limited by the critical path (`lw`)
 
 **Single-Cycle Critical Path**:
 
-$$T_{c\_single} = t_{pcq\_PC}+t_{mem}+\max[t_{RFread} + t_{cntrl} + t_{ext} + t_{mux}]+t_{ALU} + t_{mem}+t_{mux} + t_{RFsetup}$$
+$$T_{c\_single} = t_{pcq\_PC}+t_{mem}+\max[t_{RFread} + t_{dec} + t_{ext} + t_{mux}]+t_{ALU} + t_{mem}+t_{mux} + t_{RFsetup}$$
 
 ```ad-important
 This is the general limiting path, but memory, ALU, and the register file are always the slowest. So it can be simplified such that:
