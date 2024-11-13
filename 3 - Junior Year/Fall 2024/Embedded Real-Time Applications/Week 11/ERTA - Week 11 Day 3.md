@@ -57,8 +57,8 @@ void EdgeTrigger_Init(void) {
 	P1->IES |= 0x10;   // Set P1.4 to a falling edge event
 	P1->IFG  &= ~0x10 //Clear Flag 4
 	P1->IE   |= 0x10  // Aarm interrupt on P1.4
-	NVIC->IP[8]=(NVIC->IP[8]&0x00FFFFFF)|0x40000000;
-	NVIC->ISER[1] = 0x00000008; //enable
+	NVIC->IP[8]=(NVIC->IP[8]&0x00FFFFFF)|0x40000000; //Set prior. 2 P1.4
+	NVIC->ISER[1] = 0x00000008; //enable Interrupt 35
 	EnableInterrupts();
 }
 ```
@@ -94,6 +94,7 @@ void PORT1_IRQHandler(void) {
 	P1->OUT ^= 0x01;
 }
 ```
+
 ### `IE` and `IES` Table
 
 | DIR | SEL0 SEL 1 | IE  | IES | Port Mode                               |
@@ -102,3 +103,4 @@ void PORT1_IRQHandler(void) {
 | 0   | 00         | 0   | 1   | Input, fallling edge trigger            |
 | 0   | 00         | 1   | 0   | Input, rising edge trigger, interrupt   |
 | 0   | 00         | 1   | 1   | Input, falling edge trigger, interrupt. |
+
