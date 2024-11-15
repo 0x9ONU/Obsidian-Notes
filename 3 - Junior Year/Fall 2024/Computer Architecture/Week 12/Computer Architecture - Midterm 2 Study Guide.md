@@ -510,4 +510,3 @@ sw x6, 12(x2)        # Instruction 4: Store x6
 
 ![[Computer Architecture - Midterm 2 Study Guide 2024-11-12 18.29.59.excalidraw]]
 
-
