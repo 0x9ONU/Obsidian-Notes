@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Architecture - Week 12 Day 3"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8e4d6936efedc35f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cddfcd799bb06219",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 23(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 23(1)"
+              "title": "ERTA - Week 12 Day 3"
             }
           }
         ]
@@ -269,13 +251,18 @@
   },
   "active": "1d893bc8b5287ce5",
   "lastOpenFiles": [
+    "General Notes/ERTA - Week 12 Day 3 2024-11-15 13.17.50.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 3.md",
+    "General Notes/ERTA - Week 12 Day 3 2024-11-15 13.03.29.excalidraw.md",
+    "General Notes/ERTA - Week 12 Day 3 2024-11-15 13.06.51.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 2.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md",
     "General Notes/Pasted image 20241115113949.png",
     "General Notes/Pasted image 20241115112926.png",
     "General Notes/Pasted image 20241115112920.png",
     "General Notes/Pasted image 20241115112625.png",
     "General Notes/Pasted image 20241115112541.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 23(1).pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 24(2).pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials",
@@ -289,10 +276,8 @@
     "General Notes/Pasted image 20241113141707.png",
     "General Notes/Pasted image 20241113141454.png",
     "General Notes/Pasted image 20241113141340.png",
-    "General Notes/Pasted image 20241113141338.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 11/ERTA - Week 11 Day 3.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/HW/Ethan Berei - Computer Architecture Homework 6.md",
     "General Notes/Computer Architecture - Midterm 2 Study Guide 2024-11-12 18.22.25.excalidraw.md",
     "General Notes/Computer Architecture - Midterm 2 Study Guide 2024-11-12 18.29.59.excalidraw.md",
@@ -308,9 +293,6 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Materials/Lecture 21(2).pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 3.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Homework",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 18(1).pdf",
