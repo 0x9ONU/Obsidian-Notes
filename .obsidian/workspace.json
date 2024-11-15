@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networks - Week 12 Day 3"
+              "title": "Computer Architecture - Week 12 Day 3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e4d6936efedc35f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cddfcd799bb06219",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 23(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 23(1)"
             }
           }
         ]
@@ -251,8 +269,12 @@
   },
   "active": "1d893bc8b5287ce5",
   "lastOpenFiles": [
-    "General Notes/Networks - Week 12 Day 3 2024-11-15 09.32.48.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 23(1).pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 24(2).pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials",
+    "General Notes/Networks - Week 12 Day 3 2024-11-15 09.32.48.excalidraw.md",
     "General Notes/Networks - Week 12 Day 3 2024-11-15 09.13.08.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Midterm 2 Study Guide.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 2.md",
@@ -287,15 +309,10 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Homework",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 18(1).pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Materials/5-3 TCP, Congestion, Flow Control.pdf",
-    "General Notes/Pasted Image 20241111093507_449.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Materials/5-2 UDP, rdt, Pipeline Protocols.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Materials/5-1 Multiplexing and Demultiplexing.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Materials"
+    "General Notes/Pasted Image 20241111093507_449.png"
   ]
 }
