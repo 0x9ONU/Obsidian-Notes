@@ -263,11 +263,48 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "606f06f5cbec1489",
+  "floating": {
+    "id": "f94a545ca262fce5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3a8064052c55307b",
+        "type": "window",
+        "children": [
+          {
+            "id": "38cb6cb809961101",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7704afcfa186576e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Networks - Week 12 Day 3 2024-11-15 09.13.08.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Networks - Week 12 Day 3 2024-11-15 09.13.08.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": -1.5
+      }
+    ]
+  },
+  "active": "7704afcfa186576e",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
+    "General Notes/Networks - Week 12 Day 3 2024-11-15 09.13.08.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Midterm 2 Study Guide.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 2.md",
     "General Notes/Pasted image 20241113142415.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Materials/Lecture 21(4).pdf",
@@ -302,7 +339,6 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 9/Computer Architecture - Week 9 Day 2.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 8/Computer Architecture - Week 8 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Homework",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 18(1).pdf",
