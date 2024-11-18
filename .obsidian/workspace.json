@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware Security - Week 12 Day 3"
+              "title": "Networks - Week 13 Day 1"
             }
           }
         ]
       },
       {
-        "id": "28ddb5e1e0ee3e19",
+        "id": "1f6422a818690ad4",
         "type": "tabs",
         "children": [
           {
-            "id": "36f8197851658127",
+            "id": "01b7ba59aad0bc22",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Materials/Lecture 22(2).pdf"
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 22(2)"
+              "title": "6-1 C-S, P2P, TLS, HTTP and App Protocols"
             }
           }
         ]
@@ -269,18 +269,22 @@
   },
   "active": "1d893bc8b5287ce5",
   "lastOpenFiles": [
-    "General Notes/Pasted image 20241115143454.png",
-    "General Notes/Pasted image 20241115143344.png",
-    "General Notes/Pasted image 20241115143107.png",
-    "General Notes/Pasted image 20241115143008.png",
-    "General Notes/Pasted image 20241115142842.png",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Materials/Lecture 22(2).pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
+    "General Notes/Pasted image 20241118094626.png",
+    "General Notes/Pasted image 20241118094618.png",
+    "General Notes/Pasted image 20241118094615.png",
+    "General Notes/Pasted image 20241118094513.png",
+    "General Notes/Pasted image 20241118094415.png",
+    "General Notes/Pasted image 20241118094256.png",
+    "General Notes/Pasted image 20241118091327.png",
+    "General Notes/Pasted image 20241118091244.png",
+    "General Notes/Pasted image 20241118091128.png",
+    "General Notes/Pasted image 20241118091030.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md",
-    "General Notes/Pasted image 20241115142557.png",
-    "General Notes/Pasted image 20241115141739.png",
-    "General Notes/Pasted image 20241115141557.png",
-    "General Notes/Pasted image 20241115141122.png",
-    "General Notes/Pasted image 20241115140436.png",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Materials/Lecture 22(2).pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Materials/Lecture 21(4).pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 2.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 3.md",
@@ -289,7 +293,6 @@
     "General Notes/ERTA - Week 12 Day 3 2024-11-15 13.06.51.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md",
-    "General Notes/Pasted image 20241115113949.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 23(1).pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 24(2).pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
@@ -310,10 +313,6 @@
     "General Notes/Computer Architecture - Midterm 2 Study Guide 2024-11-12 17.21.05.excalidraw.md",
     "General Notes/Computer Architecture - Midterm 2 Study Guide 2024-11-12 14.49.54.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Computer Architecture - Week 10 Day 1.md",
-    "General Notes/Ethan Berei - Computer Architecture Homework 6 2024-11-04 12.55.31.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Materials/Lecture 21(2).pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Homework",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Materials/lecture 18(1).pdf"
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 11/Materials/Lecture 21(2).pdf"
   ]
 }
