@@ -72,5 +72,25 @@ Different ways to categorize cache sets:
 
 ![[Pasted image 20241118112700.png]]
 
+### Examples
 
+#### Example 1
+
+![[Pasted image 20241118114051.png]]
+
+**Miss Rate**:
+
+$$\mbox{Miss Rate} = \frac{3}{15}=20\%$$
+
+Takes advantage of *temporal locality* and *compulsory misses*
+
+#### Example 2
+
+![[Pasted image 20241118114349.png]]
+
+**Miss Rate**:
+
+$$\mbox{Miss Rate} = \frac{10}{10} = 100\%$$
+
+There is a conflict miss since they are in the *same* set and it will cause a conflict!
 
