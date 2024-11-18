@@ -54,6 +54,10 @@ Takes electrical signals and prodcues force, torque, or displacement wiht an ele
 
 ![[ERTA - Week 12 Day 3 2024-11-15 13.17.50.excalidraw]]
 
+## Sampling Example
+
+![[Signal_Sampling.svg.png]]
+
 ## Properties of Measurements
 
 **Range**: The maximum input $x_{max}-x_{min}$ that a DAQ can measure
