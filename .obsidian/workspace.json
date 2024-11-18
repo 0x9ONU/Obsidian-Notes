@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ERTA - Week 13 Day 1"
+              "title": "Hardware Security - Week 13 Day 1"
             }
           }
         ],
@@ -266,8 +266,12 @@
   },
   "active": "5009604dac8b9a4b",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Materials",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 13",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 3.md",
     "General Notes/Signal_Sampling.svg.png",
     "General Notes/images 5.png",
     "General Notes/ERTA - Week 12 Day 3 2024-11-15 13.17.50.excalidraw.md",
@@ -289,7 +293,6 @@
     "General Notes/Pasted image 20241118094615.png",
     "General Notes/Pasted image 20241118094513.png",
     "General Notes/Pasted image 20241118094415.png",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Materials/Lecture 22(2).pdf",
@@ -299,8 +302,6 @@
     "General Notes/ERTA - Week 12 Day 3 2024-11-15 13.06.51.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 23(1).pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Materials/Lecture 24(2).pdf",
     "General Notes/Networks - Week 12 Day 3 2024-11-15 09.32.48.excalidraw.md",
     "General Notes/Networks - Week 12 Day 3 2024-11-15 09.13.08.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Midterm 2 Study Guide.md",
