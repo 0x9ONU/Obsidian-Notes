@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networks - Week 13 Day 1"
-            }
-          },
-          {
-            "id": "c41bc158f72ff0f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hardware Security - Week 13 Day 1"
+              "title": "Evan's Fellowship Research Integrated Circuits Report 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,27 +248,27 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c41bc158f72ff0f5",
+  "active": "1d893bc8b5287ce5",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
+    "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 1.md",
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Materials/5-2 UDP, rdt, Pipeline Protocols.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Materials/5-3 TCP, Congestion, Flow Control.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Materials/5-4 Practice Problems.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Homework 5.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
     "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
     "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Ethan Berei - Networks Homework 5.md",
     "General Notes/Ethan Berei - Networks Homework 5 2024-11-18 10.16.01.excalidraw.md",
-    "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
     "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13",
