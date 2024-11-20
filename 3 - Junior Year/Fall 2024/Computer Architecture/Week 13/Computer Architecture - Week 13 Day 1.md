@@ -82,7 +82,7 @@ Different ways to categorize cache sets:
 
 $$\mbox{Miss Rate} = \frac{3}{15}=20\%$$
 
-Takes advantage of *temporal locality* and *compulsory misses*
+Takes advantage of *temporal locality* but fails when it comes to *compulsory misses*
 
 #### Example 2
 
@@ -92,5 +92,15 @@ Takes advantage of *temporal locality* and *compulsory misses*
 
 $$\mbox{Miss Rate} = \frac{10}{10} = 100\%$$
 
-There is a conflict miss since they are in the *same* set and it will cause a conflict!
+There is a **conflict miss** since they are in the *same* set and it will cause a conflict!
+
+## Cost
+
+For the memory, you need 8 sections that are 60 bits long:
+
+$$8 \times 60 = 480 \mbox{ bits}$$
+
+```ad-warning
+224 of these bits are *overhead* (28 columns). There is only 256 bits of useful data
+```
 
