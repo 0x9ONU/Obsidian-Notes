@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Ethan Berei - Networks Homework 5.md",
+                "file": "Templates/Literature Review Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethan Berei - Networks Homework 5"
+              "title": "Literature Review Template"
             }
           },
           {
@@ -239,10 +239,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Ethan Berei - Networks Homework 5.md"
+                "file": "Templates/Literature Review Template.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ethan Berei - Networks Homework 5"
+              "title": "Outline of Literature Review Template"
             }
           }
         ]
@@ -270,8 +270,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c56e8bbfeca97fd5",
+  "active": "111c18cc095349af",
   "lastOpenFiles": [
+    "Templates/Calculus Template/Calculus Template.md",
+    "Templates/Literature Review Template.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Computer Architecture Tensor Processors Literature Review.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Ethan Berei - Networks Homework 5.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes on Papers",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Extras",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
     "General Notes/Pasted image 20241120092949.png",
@@ -286,36 +296,27 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Materials/5-2 UDP, rdt, Pipeline Protocols.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Materials/5-3 TCP, Congestion, Flow Control.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Materials/5-4 Practice Problems.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Homework 5.pdf",
     "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
     "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Ethan Berei - Networks Homework 5.md",
     "General Notes/Ethan Berei - Networks Homework 5 2024-11-18 10.16.01.excalidraw.md",
     "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Materials",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 13",
     "General Notes/Signal_Sampling.svg.png",
     "General Notes/images 5.png",
     "General Notes/ERTA - Week 12 Day 3 2024-11-15 13.17.50.excalidraw.md",
     "General Notes/images 4.png",
     "General Notes/images 2.jpg",
     "General Notes/images 1.jpg",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13",
     "General Notes/Ethan Berei - Networks Homework 5 2024-11-18 10.37.30.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework",
     "General Notes/Pasted image 20241118094626.png",
     "General Notes/Pasted image 20241118094618.png",
     "General Notes/Pasted image 20241118094615.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 2.md",
     "General Notes/ERTA - Week 12 Day 3 2024-11-15 13.03.29.excalidraw.md",
     "General Notes/ERTA - Week 12 Day 3 2024-11-15 13.06.51.excalidraw.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 2.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md",
-    "General Notes/Networks - Week 12 Day 3 2024-11-15 09.32.48.excalidraw.md",
-    "General Notes/Networks - Week 12 Day 3 2024-11-15 09.13.08.excalidraw.md"
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md"
   ]
 }
