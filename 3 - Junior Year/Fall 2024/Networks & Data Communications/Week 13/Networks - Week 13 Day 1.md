@@ -248,3 +248,41 @@ $$\mbox{Non-Persistnet HTTP Reponse Time}= 2\mbox{RTT} + \mbox{File Transmission
 Multiple Objects can be sent over a single TCP conneciton between client, server
 ```
 
+- Sever leaves connection open after sending response
+- Subsequent HTTP messages between same client/server sent over open connection
+- Client sends requests as soon as it encounters a referenced object
+- As little as one RTT for all the referenced objects 
+
+```ad-important
+Uses the `Keep-Alive` note to show that it is persistent HTTP
+```
+
+## HTTP Request/Response Messages
+
+Two types of HTTP messages: *request* and *response*
+
+**HTTP Request Message**:
+- Written in ASCII (human-readable format)
+
+![[Pasted image 20241120092920.png]]
+
+**HTTP Response Message**:
+
+![[Pasted image 20241120092949.png]]
+
+### HTTP Status Codes
+
+```ad-summary
+Status code appears in the 1st line in server-to-client reponse message.
+```
+
+**200 OK**: Response Succeeded, requested object later in this msg
+
+**301 Moved Permanently**: Requested object moved, new location specified later in this msg (`Location:`)
+
+**400 Bad Request**: Request msg not understood by server
+
+**404 Not Found**: Requested document not found on this server
+
+**505 HTTP Version Not Supported**
+
