@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evan's Fellowship Research Integrated Circuits Report 1"
+              "title": "Networks - Week 13 Day 2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "acd787e40d532238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "752924f42892a1c8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "6-1 C-S, P2P, TLS, HTTP and App Protocols"
             }
           }
         ]
@@ -87,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -96,6 +115,7 @@
       {
         "id": "a7d611c3db60d145",
         "type": "tabs",
+        "dimension": 30.494037478705284,
         "children": [
           {
             "id": "cdf31bd7ba117ea7",
@@ -202,18 +222,6 @@
             }
           },
           {
-            "id": "e9e30e0699b6f543",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Hardware Security - Week 13 Day 1"
-            }
-          },
-          {
             "id": "add95cf10497ff6a",
             "type": "leaf",
             "state": {
@@ -221,6 +229,25 @@
               "state": {},
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "faf4af5dbfbd6022",
+        "type": "tabs",
+        "dimension": 69.50596252129472,
+        "children": [
+          {
+            "id": "e9e30e0699b6f543",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Networks - Week 13 Day 2"
             }
           }
         ]
@@ -251,8 +278,10 @@
   "active": "1d893bc8b5287ce5",
   "lastOpenFiles": [
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
-    "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols.pdf",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 1.md",
@@ -262,7 +291,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Homework 5.pdf",
     "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
     "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Ethan Berei - Networks Homework 5.md",
     "General Notes/Ethan Berei - Networks Homework 5 2024-11-18 10.16.01.excalidraw.md",
     "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
@@ -293,8 +321,6 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Week 12 Day 3.md",
     "General Notes/Networks - Week 12 Day 3 2024-11-15 09.32.48.excalidraw.md",
-    "General Notes/Networks - Week 12 Day 3 2024-11-15 09.13.08.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Midterm 2 Study Guide.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 1.md"
+    "General Notes/Networks - Week 12 Day 3 2024-11-15 09.13.08.excalidraw.md"
   ]
 }
