@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ERTA - Week 13 Day 1"
+              "title": "ERTA - Week 13 Day 3"
             }
           }
         ]
@@ -225,10 +225,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md"
+                "file": "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ERTA - Week 13 Day 1"
+              "title": "Outline of ERTA - Week 13 Day 3"
             }
           }
         ]
@@ -256,84 +256,25 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "floating": {
-    "id": "e34f4bff82a7792f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e68258e3e39c95eb",
-        "type": "window",
-        "children": [
-          {
-            "id": "b30053b0988575d1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c119d18bf6dc29be",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Computer Architecture - Week 13 Day 2 2024-11-20 11.22.31.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Computer Architecture - Week 13 Day 2 2024-11-20 11.22.31.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": -0.5
-      },
-      {
-        "id": "6ec7cc9d2fe6bdde",
-        "type": "window",
-        "children": [
-          {
-            "id": "c118f048a7d6265a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1300bb6d3c2cabc",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/ERTA - Week 13 Day 1 2024-11-20 13.27.50.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ERTA - Week 13 Day 1 2024-11-20 13.27.50.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
   "active": "8ad8197737848f88",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 3.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 3.md",
+    "General Notes/Pasted image 20241122114744.png",
+    "General Notes/Computer Architecture - Week 13 Day 3 2024-11-22 11.28.13.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/Lecture 26(1).pdf",
+    "General Notes/Computer Architecture - Week 13 Day 3 2024-11-22 11.25.20.excalidraw.md",
+    "General Notes/Computer Architecture - Week 13 Day 3 2024-11-22 11.09.23.excalidraw.md",
+    "General Notes/Pasted image 20241122111057.png",
+    "General Notes/Pasted image 20241122110918.png",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 2.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md",
     "General Notes/ERTA - Week 13 Day 1 2024-11-20 13.27.50.excalidraw.md",
     "General Notes/Pasted Image 20241120132806_245.png",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md",
     "General Notes/GP2Y0A710K0F-Output-Characteristics-e1561051332554.png",
     "General Notes/DI213Fig01.gif",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/A Tensor Marshaling Unit for Sparse Tensor Algebra on General-Purpose Processors.md",
     "3 - Junior Year/Summer Research/Seminar/What Makes a Best Paper - John Estell.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 2.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/A_Tensor_Marshaling_Unit_for_Sparse_Tensor_Algebra_on_General-Purpose_Processors.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/Tensor Cores_ Versatility for HPC & AI _ NVIDIA.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google TPU Landing Page.md",
@@ -347,8 +288,6 @@
     "General Notes/Computer Architecture - Week 13 Day 2 2024-11-20 11.22.31.excalidraw.md",
     "General Notes/Pasted image 20241120113845.png",
     "General Notes/Pasted image 20241120113223.png",
-    "General Notes/Pasted image 20241120111327.png",
-    "General Notes/Pasted image 20241120111118.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Homework/Ethan Berei - Networks Homework 5.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/Tensor Processing Units (TPUs) _ Google Cloud.pdf",
     "Templates/Literature Review Template.md",
@@ -358,18 +297,12 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes on Papers",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Report",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
-    "General Notes/Pasted image 20241120092949.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 2.md",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
-    "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
-    "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
-    "General Notes/Ethan Berei - Networks Homework 5 2024-11-18 10.16.01.excalidraw.md",
-    "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 12/ERTA - Week 12 Day 3.md"
+    "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md"
   ]
 }
