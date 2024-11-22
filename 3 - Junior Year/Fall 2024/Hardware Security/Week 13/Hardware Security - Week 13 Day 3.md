@@ -64,3 +64,44 @@ Usually prevented by encryption. Very unlikely to happen :(
 - Detect and repair tampering
 - Often use XOR for parity check (whether sum is odd or even)\
 
+## Evaluation of Watermarking Techniques
+
+Tries to prove authorship and tries to maximize it
+
+Error on overestimation when exact value is hard to calculate
+
+```ad-check
+title: Solution
+Bascially calaculate how unlikely it is for the accused to have made the same pattern by pure change.
+```
+
+![[Pasted image 20241122142332.png]]
+```ad-important
+This needs to have a low probability since it can be used to differentiate between an accident and a signature in court.
+```
+
+### Boolean Satisfiability Problem (SAT)
+
+Set of Variables: $U = \{ u_1, u_2,...,u_n\}$, $u_i = 1 \mbox{ or } 0, i \in [1, n]$
+
+**Clauses**:
+- Means logic OR; $\{ u_1, u_2 \}$ means $u_1 | u_2$
+
+**Satisfiability**: Is there an assignment of $U$ that satisfies all clauses?
+
+![[Pasted image 20241122143236.png]]
+#### Method to Add Constraint
+
+Assuming function to IP is described by example problem below.
+
+![[Pasted image 20241122143324.png]]
+
+```ad-question
+title: Task
+To modify this SAT problem such that:
+- Any solution to modified problem satisfies old problem
+- Both modified problem and solution contain information uniquely identifying author
+```
+
+
+
