@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "360fa03a21a6c063",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "538dec97a86a3c0b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Materials/Lecture 24.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 24"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
