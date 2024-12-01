@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
+                "file": "3 - Junior Year/Theta Chi/Transitiion Documents/Presidential Transitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware Security - Week 13 Day 3"
+              "title": "Presidential Transitions"
             }
           }
         ]
@@ -226,17 +226,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md"
+                "file": "3 - Junior Year/Theta Chi/Transitiion Documents/Presidential Transitions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Hardware Security - Week 13 Day 3"
+              "title": "Outline of Presidential Transitions"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,10 +260,10 @@
   },
   "active": "8ad8197737848f88",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
     "General Notes/Pasted image 20241122143324.png",
     "General Notes/Pasted image 20241122143321.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Materials/Lecture 24.pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
     "General Notes/Pasted image 20241122143305.png",
     "General Notes/Pasted image 20241122143236.png",
     "General Notes/Pasted image 20241122142332.png",
@@ -280,7 +281,6 @@
     "General Notes/ERTA - Week 13 Day 1 2024-11-20 13.27.50.excalidraw.md",
     "General Notes/Pasted Image 20241120132806_245.png",
     "General Notes/GP2Y0A710K0F-Output-Characteristics-e1561051332554.png",
-    "General Notes/DI213Fig01.gif",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/A Tensor Marshaling Unit for Sparse Tensor Algebra on General-Purpose Processors.md",
     "3 - Junior Year/Summer Research/Seminar/What Makes a Best Paper - John Estell.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/A_Tensor_Marshaling_Unit_for_Sparse_Tensor_Algebra_on_General-Purpose_Processors.pdf",
