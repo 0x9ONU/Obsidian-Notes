@@ -23,7 +23,7 @@ Used to split a circuit into two parts
 
 ![[Pasted image 20241115140436.png]]
 
-Splits the circuit’s functionality into $F_{fixed}$ and $F{reconfig}$
+Splits the circuit’s functionality into $F_{fixed}$ and $F_{reconfig}$
 
 $F_{fixed}$ is a physical circuit with reconfigurable logic inserted and is sent ot the foundry to be fabricated
 
