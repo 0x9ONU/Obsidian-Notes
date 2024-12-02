@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Evan's Fellowship Research Integrated Circuits Report 1"
             }
+          },
+          {
+            "id": "aa059ce127ba77de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Signal Conditioning Table"
+            }
           }
         ]
       }
@@ -259,7 +273,11 @@
   },
   "active": "8ad8197737848f88",
   "lastOpenFiles": [
+    "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
+    "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
+    "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
     "3 - Junior Year/Summer Research/Seminar/What Makes a Best Paper - John Estell.md",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Cache, HTTPs, DHCP, DNS.pdf",
@@ -300,9 +318,6 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/A_Tensor_Marshaling_Unit_for_Sparse_Tensor_Algebra_on_General-Purpose_Processors.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/Tensor Cores_ Versatility for HPC & AI _ NVIDIA.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google TPU Landing Page.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Nvidia TPU Landing Page.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 1.md",
-    "General Notes/Computer Architecture - Week 13 Day 2 2024-11-20 11.40.05.excalidraw.md",
-    "General Notes/Computer Architecture - Week 13 Day 2 2024-11-20 11.22.31.excalidraw.md"
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Nvidia TPU Landing Page.md"
   ]
 }
