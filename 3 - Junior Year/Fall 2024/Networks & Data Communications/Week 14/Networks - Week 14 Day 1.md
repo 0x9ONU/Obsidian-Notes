@@ -146,3 +146,6 @@ Top-Level Domain (TLD) DNS server:
 7. A response is sent
 8. The local DNS returns the website IP address and port to the host machine 
 
+# Final Exam Notice
+
+LIMITED TO WIRESHARK CAPTURES (NO DNS OR ANYTHING LIKE THAT FROM MODULE 6)
