@@ -13,45 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware Security - Week 11 Day 3"
-            }
-          },
-          {
-            "id": "46ef9ed344444b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networks - Week 14 Day 1"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "68e7dc70364991ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e72f3abf1e94fe12",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Cache, HTTPs, DHCP, DNS.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "6-2 Cache, HTTPs, DHCP, DNS"
+              "title": "Evan's Fellowship Research Integrated Circuits Report 1"
             }
           }
         ]
@@ -290,11 +257,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "46ef9ed344444b99",
+  "active": "8ad8197737848f88",
   "lastOpenFiles": [
+    "3 - Junior Year/Summer Research/Seminar/What Makes a Best Paper - John Estell.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Cache, HTTPs, DHCP, DNS.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Practice Problems with Solution.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
     "General Notes/Pasted image 20241202092557.png",
     "General Notes/Pasted image 20241202091944.png",
     "General Notes/Pasted image 20241202091928.png",
@@ -307,7 +276,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols-1.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 2.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 1.md",
@@ -329,7 +297,6 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md",
     "General Notes/ERTA - Week 13 Day 1 2024-11-20 13.27.50.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/A Tensor Marshaling Unit for Sparse Tensor Algebra on General-Purpose Processors.md",
-    "3 - Junior Year/Summer Research/Seminar/What Makes a Best Paper - John Estell.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/A_Tensor_Marshaling_Unit_for_Sparse_Tensor_Algebra_on_General-Purpose_Processors.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/Tensor Cores_ Versatility for HPC & AI _ NVIDIA.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google TPU Landing Page.md",
