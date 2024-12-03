@@ -13,24 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 1.md",
+                "file": "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Architecture - Week 14 Day 1"
+              "title": "Evan's Fellowship Research Integrated Circuits Report 1"
             }
           },
           {
-            "id": "c764c7ed422cb676",
+            "id": "c0b5a16a84f1bd54",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 27.pdf"
+                "file": "General Notes/Pasted image 20240619163638.png"
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 27"
+              "icon": "lucide-image",
+              "title": "Pasted image 20240619163638"
+            }
+          },
+          {
+            "id": "b4bd15444dcb6f26",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "General Notes/Pasted image 20240620114522.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240620114522"
             }
           }
         ]
@@ -271,17 +283,30 @@
   },
   "active": "cec6f25e57f49ead",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 3.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 1.md",
+    "3 - Junior Year/Summer Research/APS/test.md",
+    "General Notes/Pasted image 20240619163638.png",
+    "General Notes/Pasted image 20240620114522.png",
+    "General Notes/test 2024-12-02 22.58.49.excalidraw.md",
+    "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
     "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
+    "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 14/ERTA - Week 14 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 1.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 3.md",
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 14",
+    "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.36.40.excalidraw.md",
+    "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.33.40.excalidraw.md",
+    "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.30.58.excalidraw.md",
+    "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.19.56.excalidraw.md",
+    "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.29.23.excalidraw.md",
+    "General Notes/Pasted image 20241202111929.png",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 27.pdf",
     "General Notes/Computer Architecture - Week 13 Day 3 2024-11-22 11.09.23.excalidraw.md",
     "General Notes/Computer Architecture - Week 13 Day 3 2024-11-22 11.28.13.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14",
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-    "3 - Junior Year/Summer Research/APS/Resistor Values to Voltage Table.md",
-    "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
     "3 - Junior Year/Summer Research/Seminar/What Makes a Best Paper - John Estell.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
@@ -302,20 +327,6 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 2.md",
-    "3 - Junior Year/Theta Chi/Transitiion Documents/Presidential Transitions.md",
-    "General Notes/Pasted image 20241122143324.png",
-    "General Notes/Pasted image 20241122143321.png",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Materials/Lecture 24.pdf",
-    "General Notes/Pasted image 20241122143305.png",
-    "General Notes/Pasted image 20241122143236.png",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 3.md",
-    "General Notes/Computer Architecture - Week 13 Day 3 2024-11-22 11.25.20.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 2.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 13/ERTA - Week 13 Day 1.md",
-    "General Notes/ERTA - Week 13 Day 1 2024-11-20 13.27.50.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/A Tensor Marshaling Unit for Sparse Tensor Algebra on General-Purpose Processors.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google TPU Landing Page.md"
+    "General Notes/Pasted image 20241122143324.png"
   ]
 }

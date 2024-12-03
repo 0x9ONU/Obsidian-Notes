@@ -40,7 +40,7 @@ In Section V, the *Eight-to-One Multiplexer* with be used to select which of the
 ```mermaid
 flowchart TD
 
-A(DAC)-->|CTRL|B(RC Circuit)
+A(DAC)-->|CTRL|B(RC Sensor)
 B-->|Voltage| C(Three-bit Coarse ADC) & D(Amplifiers)
 C-->|Select| E(Eight-to-One MUX)
 C-->|MSBs| O(Thirteen-Bit Inverted Output)
