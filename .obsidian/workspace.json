@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 2.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networks - Week 14 Day 2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7e3d9f2da11f4c67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c19387ab31640e3e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/7-2 Configuring IPv6 Network using Static.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "7-2 Configuring IPv6 Network using Static"
+              "title": "Networks - Week 5 Day 2"
             }
           }
         ]
@@ -277,10 +259,14 @@
   },
   "active": "b3550f40ab5a27df",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/IPv6 Example Lecture.pkt",
     "General Notes/Pasted image 20241204094751.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/7-2 Configuring IPv6 Network using Static.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 2.md",
     "General Notes/Pasted image 20241204094744.png",
     "General Notes/Pasted image 20241204094737.png",
     "General Notes/Pasted image 20241204094728.png",
@@ -316,12 +302,8 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 14",
     "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.36.40.excalidraw.md",
     "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.33.40.excalidraw.md",
-    "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.30.58.excalidraw.md",
-    "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.19.56.excalidraw.md",
-    "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.29.23.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 27.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Cache, HTTPs, DHCP, DNS.pdf"
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14"
   ]
 }
