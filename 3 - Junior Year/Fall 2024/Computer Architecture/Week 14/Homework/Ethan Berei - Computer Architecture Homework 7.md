@@ -64,7 +64,7 @@ $$38 \rightarrow 001\boxed{11}\boxed000 \rightarrow \mbox{Set 3, Block 0}$$
 $$13C \rightarrow...001\boxed{11}\boxed100 \rightarrow \mbox{Set 3, Block 1}$$
 $$388 \rightarrow ...100\boxed{01}\boxed000 \rightarrow \mbox{Set 1, Block 0}$$
 $$18C\rightarrow...100\boxed{01}\boxed100\rightarrow \mbox{Set 3, Block 1}$$
-**Miss Rate**: $= 1-\mbox{Hit Rate} = 1-\frac{2}{15} = 86.7\%$
+**Miss Rate**: $= 1-\mbox{Hit Rate} = 1-\frac{4}{15} = 73.3\%$
 
 ## Part IV
 
