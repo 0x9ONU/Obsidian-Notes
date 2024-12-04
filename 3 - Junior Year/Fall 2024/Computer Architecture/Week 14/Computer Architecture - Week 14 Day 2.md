@@ -126,6 +126,22 @@ Stores the entry for each virtual page. Contains:
 ![[Pasted image 20241204113912.png]]
 ## Example 2
 
+## Challenges
+
+Page table is **large**
+- usually lcoated in phsycial memory
+
+Load/store requires *two* main memory accesses:
+- one for translation
+- one to access data
+
+Cuts memory performance *in half…*
+
+```ad-note
+However, this can be overcame!
+```
+
+
 
 
 
