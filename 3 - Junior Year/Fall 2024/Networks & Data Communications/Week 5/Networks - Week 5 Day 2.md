@@ -47,7 +47,7 @@ How does `Router1` know where is Network D?
 
 ### Elements of a Routing Table $\star$
 
-1. **Destination**: The IP address fo the packet’s final destination
+1. **Destination**: The IP address of the packet’s final destination
 2. **Next Hop**: The IP address to which the packet is forwarded
 3. **Interface**: The outgoing network interface the device should use when forwarding the packet to the next hop or final destination.
 4. **Metric**: Assigns a *cost* to each available route so that the most cost-effective path can be chosen

@@ -22,37 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "552e786435fa4bad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "834396629fd6a8a2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 28(2).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 28(2)"
-            }
-          },
-          {
-            "id": "76ca14ac3141c487",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 29(3).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 29(3)"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -290,9 +259,10 @@
   },
   "active": "b3550f40ab5a27df",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 2.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 29(3).pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 28(2).pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 29(3).pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 2.md",
     "General Notes/Pasted image 20241204113912.png",
     "General Notes/Pasted image 20241204113910.png",
     "General Notes/Pasted image 20241204113152.png",
@@ -302,7 +272,6 @@
     "General Notes/Pasted image 20241204110521.png",
     "General Notes/Pasted image 20241204110256.png",
     "General Notes/Pasted image 20241204110228.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
