@@ -33,12 +33,12 @@ $$18C\rightarrow...10\boxed{0011}00\rightarrow \mbox{Set 3}$$
 
 **Miss Rate**
 
-$$\mbox{Miss Rate} = 1- \mbox{Hit Rate} = 1- \frac{2}{15} = 86.7 \%$$
+$$\mbox{Miss Rate} = 1- \mbox{Hit Rate} = 1- \frac{3}{15} = 78.57 \%$$
 ## Part II
 
-**Miss Rate**: 0%!
+**Miss Rate**: 100%!
 
-Since it *can* fit all the words within its 16-word limit, there is not loading misses.
+Since it can only hold 8 blocks of two words, it will begin to miss, which leads to a 100% miss rate as it runs out of space.
 
 ## Part III
 
