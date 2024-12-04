@@ -8,35 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "887a68945fdd374d",
+            "id": "b3550f40ab5a27df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Architecture - Week 14 Day 1"
+              "title": "Networks - Week 14 Day 2"
             }
           }
         ]
       },
       {
-        "id": "29e641e62d2c80ad",
+        "id": "7e3d9f2da11f4c67",
         "type": "tabs",
         "children": [
           {
-            "id": "1db382df4e9495fe",
+            "id": "c19387ab31640e3e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 27 updated.pdf"
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/7-2 Configuring IPv6 Network using Static.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 27 updated"
+              "title": "7-2 Configuring IPv6 Network using Static"
             }
           }
         ]
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -276,15 +275,38 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "887a68945fdd374d",
+  "active": "b3550f40ab5a27df",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/IPv6 Example Lecture.pkt",
+    "General Notes/Pasted image 20241204094751.png",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/7-2 Configuring IPv6 Network using Static.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 2.md",
+    "General Notes/Pasted image 20241204094744.png",
+    "General Notes/Pasted image 20241204094737.png",
+    "General Notes/Pasted image 20241204094728.png",
+    "General Notes/Pasted image 20241204094726.png",
+    "General Notes/Pasted image 20241204094718.png",
+    "General Notes/Pasted image 20241204094717.png",
+    "General Notes/Pasted image 20241204094706.png",
+    "General Notes/Pasted image 20241204094703.png",
+    "General Notes/Pasted image 20241204093437.png",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/7-1 IPv6, Intro, Shortened, Types.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Practice Problems with Solution.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 27 updated.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 2.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 1.md",
-    "General Notes/Pasted image 20241203100955.png",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Homework/Ethan Berei - Computer Architecture Homework 7.md",
+    "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-03 21.51.16.excalidraw.md",
+    "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-03 19.42.07.excalidraw.md",
+    "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-03 19.42.26.excalidraw.md",
+    "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-03 19.04.08.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-03 19.07.24.excalidraw.md",
+    "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-03 18.23.46.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Homework",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "3 - Junior Year/Summer Research/APS/test.md",
-    "General Notes/Pasted image 20240619163638.png",
-    "General Notes/Pasted image 20240620114522.png",
     "General Notes/test 2024-12-02 22.58.49.excalidraw.md",
     "3 - Junior Year/Summer Research/APS/Voltage Divider + Diode DAC Results.md",
     "3 - Junior Year/Summer Research/APS/Signal Conditioning Table.md",
@@ -297,31 +319,9 @@
     "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.30.58.excalidraw.md",
     "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.19.56.excalidraw.md",
     "General Notes/Computer Architecture - Week 14 Day 1 2024-12-02 11.29.23.excalidraw.md",
-    "General Notes/Pasted image 20241202111929.png",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 27.pdf",
-    "General Notes/Computer Architecture - Week 13 Day 3 2024-11-22 11.09.23.excalidraw.md",
-    "General Notes/Computer Architecture - Week 13 Day 3 2024-11-22 11.28.13.excalidraw.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14",
-    "3 - Junior Year/Summer Research/Seminar/What Makes a Best Paper - John Estell.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Cache, HTTPs, DHCP, DNS.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Practice Problems with Solution.pdf",
-    "General Notes/Pasted image 20241202092557.png",
-    "General Notes/Pasted image 20241202091944.png",
-    "General Notes/Pasted image 20241202091928.png",
-    "General Notes/Pasted image 20241202091723.png",
-    "General Notes/Pasted image 20241202091332.png",
-    "General Notes/Pasted image 20241202091122.png",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols-1.pdf",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 2.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 11/Hardware Security - Week 11 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 1.md"
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Cache, HTTPs, DHCP, DNS.pdf"
   ]
 }
