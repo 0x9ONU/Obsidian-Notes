@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Networks - Week 5 Day 2"
             }
-          },
-          {
-            "id": "e1aa791e0be91204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Architecture - Week 14 Day 2"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "552e786435fa4bad",
@@ -303,10 +288,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e1aa791e0be91204",
+  "active": "b3550f40ab5a27df",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 29(3).pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 2.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 29(3).pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 28(2).pdf",
     "General Notes/Pasted image 20241204113912.png",
     "General Notes/Pasted image 20241204113910.png",
