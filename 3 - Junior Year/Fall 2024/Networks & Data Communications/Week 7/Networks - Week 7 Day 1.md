@@ -106,7 +106,7 @@ A router also broadcasts a link's state periodically *at least every 30 minutes*
 ```
 
 OSPF protocol checks that links are operational via a HELLO message that is sent to an attached neighbor.
-
+	
 ### Advanced Features of OSPF
 
 **Security**: All OSPF messages authenticated (to prevent malicious intrusion).
