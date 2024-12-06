@@ -13,24 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 3.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Hardware Security - Week 14 Day 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Architecture - Week 14 Day 3"
+              "title": "Hardware Security - Week 14 Day 3"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "76eb4bb9296c976c",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0eeac81c81912cd1",
+            "id": "52940b92eb2a50b6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 31.pdf"
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials/lecture 25.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 31"
+              "title": "lecture 25"
             }
           }
         ]
@@ -99,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -270,49 +275,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "floating": {
-    "id": "18d9ecfac417f216",
-    "type": "floating",
-    "children": [
-      {
-        "id": "43a2b2fc937bb3b6",
-        "type": "window",
-        "children": [
-          {
-            "id": "eb5e0c6349dfcb9b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6dc988b602cf94da",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Computer Architecture - Week 14 Day 3 2024-12-06 11.27.58.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Computer Architecture - Week 14 Day 3 2024-12-06 11.27.58.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "a5869e25d1170e22",
+  "active": "52940b92eb2a50b6",
   "lastOpenFiles": [
-    "General Notes/Pasted image 20241206112823.png",
-    "General Notes/Computer Architecture - Week 14 Day 3 2024-12-06 11.27.58.excalidraw.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Hardware Security - Week 14 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials/lecture 25.pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 14",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 31.pdf",
+    "General Notes/Computer Architecture - Week 14 Day 3 2024-12-06 11.27.58.excalidraw.md",
+    "General Notes/Pasted image 20241206112823.png",
     "General Notes/Pasted image 20241206111114.png",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 30(1).pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 2.md",
@@ -348,12 +321,6 @@
     "General Notes/Pasted image 20241204113152.png",
     "General Notes/Pasted image 20241204112009.png",
     "General Notes/Pasted image 20241204111401.png",
-    "General Notes/Pasted image 20241204110524.png",
-    "General Notes/Pasted image 20241204110521.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/IPv6 Example Lecture.pkt",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/7-1 IPv6, Intro, Shortened, Types.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/6-2 Practice Problems with Solution.pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 2.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Computer Architecture - Week 13 Day 1.md"
+    "General Notes/Pasted image 20241204110524.png"
   ]
 }
