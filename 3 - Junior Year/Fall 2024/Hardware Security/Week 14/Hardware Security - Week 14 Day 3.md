@@ -56,12 +56,82 @@ Fault injeciton attakcs intentionally cause errors in a system in order to compr
 ## Invasive IC Modification
 
 **Laser Cutting**
-- 
+- Not completely destructive
+- Selective exposure to lower layers
+- Selectively disconnect nets
 
 **Test Point Creation**
-- 
+- Cut test points into IC
+- More spots for micro probing below top layer
+- See more signals on more nets
 
 **Wire Bonding**
-- 
+- Use laser cutting to expose net
+- Cut test point for bonding target
+- Modify circuit paths are needed
+
+![[Pasted image 20241206142341.png]]
+
+## Micro-Probing
+
+**Eavesdropping**
+- Listen  to control lines
+- Listen to data bus
+- Full bypass of all protections
+
+**Signal Injection**
+- Insert control signals
+- Modify memory contents
+- Forcefully bypass security controls
+
+**Fault Injection**
+- High voltage between two probes
+- Destroy transistors
+- Destroy traces
+
+# Countermeasures
+
+## Clock Glitching
+
+1. *Internal oscillator* for bootloader code
+2. *Internal oscillator* for secure functions
+3. Make security fuses faster than control logic
+4. Asynchronous logic
+
+## Voltage Glitching
+
+1. Internal brownout reset
+2. Different voltage threshold for security fuses
+
+## IC Modification
+
+1. Metal protection layers on top
+2. Critical signals routed on top of important targets
+3. Tamper sensors in metal layers
+
+## Micro probing
+
+1. Tamper sensors in metal layers
+2. Small transistor size
+3. Internal shielding
+4. Top level shielding
+5. Security through obscurity
+6. Glue logic
+
+## Memory Attacks
+
+1. UV Protection
+2. Temperature Lockout Sensors
+3. Tamper Sensors to Detect Decapsulation
+4. Close proximity between security fuses and memory
+
+## Optical Glitching
+
+- Protective metal layers to blcok optical penetration
+- Tamper sensor in metal layers
+- UV Protection
+- IR Protection
+- Proximity of security fuses and control logic to memory
+
 
 

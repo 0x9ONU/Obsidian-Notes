@@ -264,13 +264,15 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5869e25d1170e22",
+  "active": "52940b92eb2a50b6",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials/lecture 25.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Hardware Security - Week 14 Day 3.md",
+    "General Notes/Pasted image 20241206142341.png",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials/lecture 25.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14",
@@ -312,7 +314,6 @@
     "General Notes/Pasted image 20241204113910.png",
     "General Notes/Pasted image 20241204113152.png",
     "General Notes/Pasted image 20241204112009.png",
-    "General Notes/Pasted image 20241204111401.png",
-    "General Notes/Pasted image 20241204110524.png"
+    "General Notes/Pasted image 20241204111401.png"
   ]
 }
