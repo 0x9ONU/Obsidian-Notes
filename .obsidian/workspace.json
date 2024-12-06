@@ -211,23 +211,13 @@
             }
           },
           {
-            "id": "d015b3b4009b089e",
+            "id": "dd14c75a2c05f2b7",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "planner-timeline",
               "state": {},
               "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
-            }
-          },
-          {
-            "id": "add95cf10497ff6a",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "title": "Timeline"
             }
           }
         ]
@@ -262,7 +252,6 @@
       "obsidian-daily-notes-viewer:Open Viewer": false,
       "media-extended:Open media": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -272,13 +261,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "52940b92eb2a50b6",
+  "active": "a5869e25d1170e22",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Hardware Security - Week 14 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials/lecture 25.pdf",
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Hardware Security - Week 14 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14",
