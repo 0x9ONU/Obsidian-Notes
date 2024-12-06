@@ -104,7 +104,7 @@ The first 10 bits define the address type
 
 # Configuring IPv6 Networking using Static IPs
 
-## Network 1
+## Network 1 - No Inter-Routing
 
 Let’s consider the following network to configure with IPv6. Two networks A (2001: :/64) and B (2002: :/64)
 
@@ -142,17 +142,17 @@ Rotuer(config-if)#end
 You do not need to specify with host, but you *DO* need to with *router*
 ```
 
-## Network 2
+## Network 2 - Inter-Routing
 
 ![[Pasted image 20241204094706.png]]
 
-![[Pasted image 20241204094717.png]]![[Pasted image 20241204094718.png]]
+### Notes About Network
 
-![[Pasted image 20241204094728.png]]
+In this network with IPv6, the global IP address is `2001:1234:ABCD` while the other 16 bits, such as `:1:` or `:2:` or `:100:` represent the subnetting of this network
 
-![[Pasted image 20241204094737.png]]
+### Step 1: Enable IPv6 Globally on the Router using the Following Statement:
 
-![[Pasted image 20241204094744.png]]
+![[Pasted image 20241206090534.png]]
 
-![[Pasted image 20241204094751.png]]
+### Step 2 & 3: Enable IPv6 on Each Interface of the Router and Configure IP Address:
 
