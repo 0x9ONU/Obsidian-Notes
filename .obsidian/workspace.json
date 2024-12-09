@@ -35,8 +35,7 @@
               "title": "Networks - Week 12 Day 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,8 +264,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3e0c16dcd59d532",
+  "active": "bf0e5170e39c919a",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 15/Embedded Technology Systems Presentation.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 15",
@@ -311,7 +311,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
-    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 14/ERTA - Week 14 Day 1.md",
-    "3 - Junior Year/Summer Research/APS/New Equations.md"
+    "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 14/ERTA - Week 14 Day 1.md"
   ]
 }
