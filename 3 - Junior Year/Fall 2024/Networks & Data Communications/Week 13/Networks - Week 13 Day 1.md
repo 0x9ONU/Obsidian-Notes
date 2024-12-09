@@ -56,7 +56,7 @@ $N$ is the number of clients. Each client must download file copy
 
 - *no* always-on server
 - Arbitrary end systems directly communicate
-- Peers request service from other peers, provide service in return to toher peers
+- Peers request service from other peers, provide service in return to other peers
 
 ```ad-important
 *Self Scalability*: New peers birng new service capacity, as well as new service demands
