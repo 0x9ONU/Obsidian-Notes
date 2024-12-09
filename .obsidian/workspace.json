@@ -11,10 +11,32 @@
             "id": "bf0e5170e39c919a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Networks - Week 15 Day 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Networks - Week 15 Day 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "76458e233334835b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d38da4935673f049",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Materials/8-1 Wireless Networks.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "8-1 Wireless Networks"
             }
           }
         ]
@@ -248,6 +270,18 @@
   },
   "active": "bf0e5170e39c919a",
   "lastOpenFiles": [
+    "General Notes/Pasted image 20241209094818.png",
+    "General Notes/Pasted image 20241209094424.png",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Materials/8-1 Wireless Networks.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Networks - Week 15 Day 1.md",
+    "General Notes/Pasted image 20241209093957.png",
+    "General Notes/Pasted image 20241209093644.png",
+    "General Notes/Pasted image 20241209093403.png",
+    "General Notes/Pasted image 20241209093303.png",
+    "General Notes/Pasted image 20241209092800.png",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Materials/8-2 WiFi Security.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Materials",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials/lecture 25.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Hardware Security - Week 14 Day 3.md",
     "General Notes/Pasted image 20241206142341.png",
@@ -272,7 +306,6 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Materials/Lecture 21(4).pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Homework/Ethan Berei - Computer Architecture Homework 7.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
@@ -280,18 +313,8 @@
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 14/ERTA - Week 14 Day 1.md",
     "3 - Junior Year/Summer Research/APS/New Equations.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Materials/5-1 Multiplexing and Demultiplexing.pdf",
-    "General Notes/Pasted image 20240927092206.png",
     "Excalidraw/Drawing 2024-12-03 19.07.24.excalidraw.md",
     "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-03 19.04.08.excalidraw.md",
-    "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-04 16.09.17.excalidraw.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 28(2).pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 29(3).pdf",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 2.md",
-    "General Notes/Pasted image 20241204113912.png",
-    "General Notes/Pasted image 20241204113910.png",
-    "General Notes/Pasted image 20241204113152.png",
-    "General Notes/Pasted image 20241204112009.png",
-    "General Notes/Pasted image 20241204111401.png"
+    "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-04 16.09.17.excalidraw.md"
   ]
 }
