@@ -92,10 +92,10 @@ $$\quad$$
 A sending rpocess creates and sends messages into the network; a receiving process receives these emssages and possibly reponds by sending messages back.
 ```
 
-| Client-Server                                          | P2P                                                                           |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| *Client Process*: Process that initiates communication | Applications with P2P architectures have client processes & server processes  |
-| *Server Process*: Process that waits to be contacted   |                                                                               |
+| Client-Server                                          | P2P                                                                          |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| *Client Process*: Process that initiates communication | Applications with P2P architectures have client processes & server processes |
+| *Server Process*: Process that waits to be contacted   |                                                                              |
 ### Addressing Processes
 
 Each process must have an *identifier* to get messages:
