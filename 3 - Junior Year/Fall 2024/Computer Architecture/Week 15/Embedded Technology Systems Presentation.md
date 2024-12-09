@@ -27,3 +27,10 @@ title: Mark Featherston
 8. Expandability via “micro-busses”
 	- Thousands of choices (ADCs, light-sensors, etc.)
 9. Performance
+
+```ad-note
+RISC-V is being used in SoCs for many power control computers
+```
+
+You need to go from 32-bit architecture to 64-bit if you want more RAM
+
