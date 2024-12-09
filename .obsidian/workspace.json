@@ -13,33 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Networks - Week 15 Day 1.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 15/Embedded Technology Systems Presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networks - Week 15 Day 1"
+              "title": "Embedded Technology Systems Presentation"
             }
-          }
-        ]
-      },
-      {
-        "id": "76458e233334835b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d38da4935673f049",
+            "id": "a3e0c16dcd59d532",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Materials/8-1 Wireless Networks.pdf"
+                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "8-1 Wireless Networks"
+              "icon": "lucide-file",
+              "title": "Networks - Week 12 Day 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,12 +265,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf0e5170e39c919a",
+  "active": "a3e0c16dcd59d532",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 15/Embedded Technology Systems Presentation.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 15",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Networks - Week 11 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 11/Materials/5-1 Multiplexing and Demultiplexing.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 1.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Networks - Week 10 Day 2.md",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 10/Materials/4-1 Delay and Loss in Networks.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Networks - Week 15 Day 1.md",
     "General Notes/Pasted image 20241209094818.png",
     "General Notes/Pasted image 20241209094424.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Materials/8-1 Wireless Networks.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Networks - Week 15 Day 1.md",
     "General Notes/Pasted image 20241209093957.png",
     "General Notes/Pasted image 20241209093644.png",
     "General Notes/Pasted image 20241209093403.png",
@@ -289,14 +294,10 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 3.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 31.pdf",
     "General Notes/Computer Architecture - Week 14 Day 3 2024-12-06 11.27.58.excalidraw.md",
     "General Notes/Pasted image 20241206112823.png",
     "General Notes/Pasted image 20241206111114.png",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Materials/Lecture 30(1).pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 2.md",
-    "General Notes/Pasted image 20241206090534.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Materials/7-2 Configuring IPv6 Network using Static.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
@@ -311,10 +312,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 1.md",
     "3 - Junior Year/Fall 2024/Embedded Real-Time Applications/Week 14/ERTA - Week 14 Day 1.md",
-    "3 - Junior Year/Summer Research/APS/New Equations.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
-    "Excalidraw/Drawing 2024-12-03 19.07.24.excalidraw.md",
-    "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-03 19.04.08.excalidraw.md",
-    "General Notes/Ethan Berei - Computer Architecture Homework 7 2024-12-04 16.09.17.excalidraw.md"
+    "3 - Junior Year/Summer Research/APS/New Equations.md"
   ]
 }
