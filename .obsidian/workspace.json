@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Understanding Tensor Processing Units.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What Is the Difference Between CPU vs. GPU vs. TPU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Tensor Processing Units"
+              "title": "What Is the Difference Between CPU vs. GPU vs. TPU"
             }
           }
         ]
@@ -252,8 +252,10 @@
   },
   "active": "32b9c2b455f3fdaa",
   "lastOpenFiles": [
-    "Templates/Literature Review Template.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/premioinc-com-blog....pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Understanding Tensor Processing Units.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What Is the Difference Between CPU vs. GPU vs. TPU.md",
+    "Templates/Literature Review Template.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google TPU Landing Page.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/A Tensor Marshaling Unit for Sparse Tensor Algebra on General-Purpose Processors.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Nvidia TPU Landing Page.md",
@@ -295,8 +297,6 @@
     "General Notes/Pasted image 20241206111114.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 2.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md"
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md"
   ]
 }
