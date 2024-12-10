@@ -8,61 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13f00e159276667a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networks - Week 12 Day 1"
-            }
-          },
-          {
             "id": "95bd15780c7795b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networks - Week 14 Day 1"
-            }
-          },
-          {
-            "id": "e29c65ebdd835bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networks - Week 14 Day 1"
-            }
-          },
-          {
-            "id": "40b17d78562463cc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols-1.pdf"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/Lab 10, HTTP Analysis-1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "6-1 C-S, P2P, TLS, HTTP and App Protocols-1"
+              "title": "Lab 10, HTTP Analysis-1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -293,12 +251,13 @@
   },
   "active": "95bd15780c7795b1",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/Lab 10, HTTP Analysis-1.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Networks - Week 15 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Materials/6-1 C-S, P2P, TLS, HTTP and App Protocols-1.pdf",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 3.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 3.md",
@@ -324,7 +283,6 @@
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Hardware Security - Week 14 Day 3.md",
     "General Notes/Pasted image 20241206142341.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 3.md",
     "General Notes/Computer Architecture - Week 14 Day 3 2024-12-06 11.27.58.excalidraw.md",
     "General Notes/Pasted image 20241206112823.png",
