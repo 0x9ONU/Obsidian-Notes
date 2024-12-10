@@ -26,32 +26,3 @@ collapse: open
 **Embed to Paper**: ![[thechipletter-subs....pdf]]
 
 ## Summary
-
-### Introduction
-
-#### Motivation
-
-#### Challenge
-
-#### Background
-
-### Objective of Research
-
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
-

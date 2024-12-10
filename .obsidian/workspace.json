@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google's First Tensor Processing Unit Architecture.md",
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What are tensor processing units and what is their role in AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google's First Tensor Processing Unit Architecture"
+              "title": "What are tensor processing units and what is their role in AI"
             }
           }
         ]
@@ -252,9 +252,11 @@
   },
   "active": "32b9c2b455f3fdaa",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/What are tensor processing units and what is their role in AI_ _ Computer Weekly.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google's First Tensor Processing Unit Architecture.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What are tensor processing units and what is their role in AI.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/thechipletter-subs....pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Nvidia TPU Landing Page.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google's First Tensor Processing Unit Architecture.md",
     "Untitled.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What Is the Difference Between CPU vs. GPU vs. TPU.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/premioinc-com-blog....pdf",
@@ -289,14 +291,12 @@
     "General Notes/Pasted image 20241209093403.png",
     "General Notes/Pasted image 20241209093303.png",
     "General Notes/Pasted image 20241209092800.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Materials/8-2 WiFi Security.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Hardware Security - Week 14 Day 3.md",
     "General Notes/Pasted image 20241206142341.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Computer Architecture - Week 14 Day 3.md",
     "General Notes/Computer Architecture - Week 14 Day 3 2024-12-06 11.27.58.excalidraw.md",
     "General Notes/Pasted image 20241206112823.png",
-    "General Notes/Pasted image 20241206111114.png",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 2.md"
+    "General Notes/Pasted image 20241206111114.png"
   ]
 }
