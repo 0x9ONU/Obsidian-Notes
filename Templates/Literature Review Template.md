@@ -21,7 +21,7 @@ collapse: open
 
 ```
 
-**Used in…*: 
+**Used in…**: 
 
 **Embed to Paper**:
 

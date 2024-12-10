@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "368e5bc45477ec3f",
+        "id": "4a87de7d58ce7063",
         "type": "tabs",
         "children": [
           {
-            "id": "95bd15780c7795b1",
+            "id": "32b9c2b455f3fdaa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/Lab 10, HTTP Analysis-1.pdf"
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Understanding Tensor Processing Units.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lab 10, HTTP Analysis-1"
+              "icon": "lucide-file",
+              "title": "Understanding Tensor Processing Units"
             }
           }
         ]
@@ -85,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -249,10 +250,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95bd15780c7795b1",
+  "active": "32b9c2b455f3fdaa",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/annotated-Ethan Berei - Networks Lab 10-1.pdf",
+    "Templates/Literature Review Template.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Understanding Tensor Processing Units.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google TPU Landing Page.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/A Tensor Marshaling Unit for Sparse Tensor Algebra on General-Purpose Processors.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Nvidia TPU Landing Page.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Papers/Understanding Tensor Processing Units - GeeksforGeeks.pdf",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/Lab 10, HTTP Analysis-1.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/annotated-Ethan Berei - Networks Lab 10-1.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 2.md",
@@ -279,8 +286,6 @@
     "General Notes/Pasted image 20241209092800.png",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Materials/8-2 WiFi Security.pdf",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15/Materials",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 15",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Materials/lecture 25.pdf",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 14/Hardware Security - Week 14 Day 3.md",
     "General Notes/Pasted image 20241206142341.png",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 3.md",
@@ -292,10 +297,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
     "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 2.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 13/Hardware Security - Week 13 Day 1.md",
-    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 1.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Week 14/Homework/Ethan Berei - Computer Architecture Homework 7.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 6/Networks - Week 6 Day 2.md"
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Hardware Security - Week 12 Day 3.md"
   ]
 }
