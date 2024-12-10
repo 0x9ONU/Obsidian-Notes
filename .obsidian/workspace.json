@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Lab 10, HTTP Analysis-1"
             }
+          },
+          {
+            "id": "a0b66e7b1c684d0e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/annotated-Ethan Berei - Networks Lab 10-1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "annotated-Ethan Berei - Networks Lab 10-1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,10 +262,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95bd15780c7795b1",
+  "active": "a0b66e7b1c684d0e",
   "lastOpenFiles": [
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/Lab 10, HTTP Analysis-1.pdf",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Week 13/Materials/annotated-Ethan Berei - Networks Lab 10-1.pdf",
+    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 12/Networks - Week 12 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 14/Networks - Week 14 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 2.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 13/Networks - Week 13 Day 1.md",
