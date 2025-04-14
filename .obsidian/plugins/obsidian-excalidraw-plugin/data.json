@@ -30,7 +30,7 @@
   "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
-  "width": "1000",
+  "width": "500",
   "height": "",
   "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
@@ -100,7 +100,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://excalidraw.com",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.8",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -112,7 +112,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.6.7",
+  "previousRelease": "2.6.8",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -764,7 +764,7 @@
   "longPressMobile": 500,
   "doubleClickLinkOpenViewMode": true,
   "isDebugMode": false,
-  "rank": "Bronze",
+  "rank": "Silver",
   "modifierKeyOverrides": [
     {
       "modifiers": [

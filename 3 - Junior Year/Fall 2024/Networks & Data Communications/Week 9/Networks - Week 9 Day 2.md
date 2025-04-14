@@ -219,7 +219,8 @@ Router(config)#interface gig0/0/0.1
 Router(config-subif)#encapsulation dot1q 1 
 Router(config-subif)#ip address 192.168.1.100 255.255.255.0 Router(config-subif)#exit 
 
-Router(config-if)#interface gig0/0/0.10 Router(config-subif)#encapsulation dot1Q 10 
+Router(config-if)#interface gig0/0/0.10 
+Router(config-subif)#encapsulation dot1Q 10 
 Router(config-subif)#ip address 192.168.10.100 255.255.255.0 Router(config-subif)#exit
 
 Router(config)#interface gig0/0/0.20 

@@ -33,12 +33,12 @@ $$18C\rightarrow...10\boxed{0011}00\rightarrow \mbox{Set 3}$$
 
 **Miss Rate**
 
-$$\mbox{Miss Rate} = 1- \mbox{Hit Rate} = 1- \frac{3}{15} = 78.57 \%$$
+$$\mbox{Miss Rate} = 1- \mbox{Hit Rate} = 1- \frac{3}{14} = 78.57 \%$$
 ## Part II
 
-**Miss Rate**: 100%!
+**Miss Rate**: $\frac{11}{14} = 78.5\%$!
 
-Since it can only hold 8 blocks of two words, it will begin to miss, which leads to a 100% miss rate as it runs out of space.
+For fully associative map with block size of two words and a cache of only 16 words. There will be a total of 8 different locations to be filled. Unfortunately, once the cache is filled you will need to kick some blocks out and substitute them with new blocks. The only good news is 7C&78, 88&8C, and 38C&388 are the same block.
 
 ## Part III
 
@@ -63,8 +63,8 @@ $$34 \rightarrow 001\boxed{10}\boxed100 \rightarrow \mbox{Set 2, Block 1}$$
 $$38 \rightarrow 001\boxed{11}\boxed000 \rightarrow \mbox{Set 3, Block 0}$$
 $$13C \rightarrow...001\boxed{11}\boxed100 \rightarrow \mbox{Set 3, Block 1}$$
 $$388 \rightarrow ...100\boxed{01}\boxed000 \rightarrow \mbox{Set 1, Block 0}$$
-$$18C\rightarrow...100\boxed{01}\boxed100\rightarrow \mbox{Set 3, Block 1}$$
-**Miss Rate**: $= 1-\mbox{Hit Rate} = 1-\frac{4}{15} = 73.3\%$
+$$18C\rightarrow...100\boxed{01}\boxed100\rightarrow \mbox{Set 1, Block 1}$$
+**Miss Rate**: $= \frac{6}{14} = 42\%$
 
 ## Part IV
 

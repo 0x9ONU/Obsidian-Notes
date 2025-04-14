@@ -1,10 +1,12 @@
 {
-  "accentColor": "",
+  "accentColor": "#4260f5",
   "baseFontSize": 14,
   "theme": "obsidian",
   "cssTheme": "Catppuccin",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "something"
+    "something",
+    "center_tables",
+    "center images"
   ]
 }

@@ -194,6 +194,7 @@ Given the parameters specified above, a few different equations can be derived f
 | 6      | $$V_{cc}-5V_{th}$$ | $$V_{cc}-6V_{th}$$ | $$V_{cc}-6V_{th} \rightarrow V_{cc}-7V_{th}$$ | $$\frac{T}{32}$$  | $$V_f = (V_{cc}-5V_{th})(e^\frac{\frac{-T}{32}}{\tau})$$  |
 | 7      | $$V_{cc}-6V_{th}$$ | $$V_{cc}-7V_{th}$$ | $$V_{cc}-7V_{th} \rightarrow V_{cc}-8V_{th}$$ | $$\frac{T}{64}$$  | $$V_f = (V_{cc}-6V_{th})(e^\frac{\frac{-T}{64}}{\tau})$$  |
 | 8      | $$V_{cc}-7V_{th}$$ | $$0$$              | $$V_{cc}-8V_{th} \rightarrow 0$$              | $$\frac{T}{128}$$ | $$V_f = (V_{cc}-7V_{th})(e^\frac{\frac{-T}{128}}{\tau})$$ |
+
 By examining the equations for each region, the region has an effect on both the change in the $V_{th}$ and the fraction of the period that is taken, with the former being linear and the latter being exponential. Therefore, they both can be replaced by their own equations in terms of $r$, where $r$ is equal to the region the voltage does not saturate in minus one. The generalized equation is below:
 
 $$V_{f}=(V_{cc}-rV_{th})e^\frac{\frac{-T}{2^r}}{RC} \space \space \space \space \space -\enclose{circle}{\bigstar}$$
