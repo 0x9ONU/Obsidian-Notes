@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Project Development - Week 12 Day 1"
             }
-          },
-          {
-            "id": "398410f1a2d204ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/Computer Security/Week 6/Project/Project 1 - Understanding and Analyzing the Societal and Ethical Impact of Cybersecurity Solutions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project 1 - Understanding and Analyzing the Societal and Ethical Impact of Cybersecurity Solutions"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,6 +299,9 @@
   },
   "active": "111c18cc095349af",
   "lastOpenFiles": [
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 6/Project/Project 1 - Understanding and Analyzing the Societal and Ethical Impact of Cybersecurity Solutions.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 6/Project/Project 1.pdf",
     "3 - Junior Year/Spring 2025/Computer Security/Week 6/Project/Project 1 - Understanding Real-World Cyber-Attacks and Analyzing the Societal and Ethical Impact of Cybersecurity Solutions.pdf",
     "3 - Junior Year/Spring 2025/Project Development/Week 12/Project Development - Week 12 Day 1.md",
@@ -353,13 +341,10 @@
     "3 - Junior Year/Spring 2025/Computer Security/Week 11/Computer Security - Week 11 Day 2.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 11/HWSW - Week 11 Day 2.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 7/Assignment 3/HWSW Co-Design - Assignment 3.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Paper Summaries/Hardware Trojan Attacks - Threat Analysis and Countermeasures.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 11/Materials/week11a_Multi-threadingC++_draft.pdf",
     "3 - Junior Year/Spring 2025/Computer Security/Week 11",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 11",
     "3 - Junior Year/Spring 2025/Project Development/Week 11",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 11/Materials",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Materials/week09c_deadlockAndStarvation_DRAFT.pdf",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
