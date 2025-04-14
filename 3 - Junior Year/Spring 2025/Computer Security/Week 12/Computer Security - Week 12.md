@@ -86,6 +86,8 @@ A-->B-->C-->D-->E-->F-->A
 ## Types of IDS
 
 1. **Host-Based (HIDS)**: Monitors the characteristics of a single host for suspicious activity
+	- Adds a specialized layer of security software to vulenrable or sensitive systems
+	- Can use either anomaly or signature/heuristic approaches
 2. **Network-Based IDS (NIDS)**: Monitors network traffic and analyzes network, transport, and application protocols to identify suspicious activity
 3. **Distributed or Hybrid IDS**: Combines information form a number of sensors, often both hosts and network based, in a central analyzer to better identify and to responds to intrusion activity.
 
@@ -100,4 +102,29 @@ Based on the following consideration:
 
 Based on assumption:
 - Intruder behavior - legitimate user behavior = some quantity
+
+## Analysis Approaches
+
+### Anomaly Detection
+
+- Involves the collection of data relating to the behavior of legitimate users over a period of time
+- Current observed behavior is analyzed to determine whether this behavior is that of a legitimate user or that of an intruder 
+
+**Three Methods**:
+- Statistical: Univariate, multivariate, or time-series models
+- Knowledge-Based: Set of rules that model legitimate behavior
+- Machine-Learning: Classification
+
+### Signature/Heuristic Detection
+
+- Uses a set of known malicious data patterns or attack rules that are compromised
+
+**Signature Approaches**:
+- Matches a large collection of known pattern of malicious data against data stored on a system or in transit over a network
+- The signatures need to be large enough to minimize the false alarm rate, while still detecting a sufficiently large fraction of malicious data
+- Widely used in anti-viruses
+
+**Rule-Based**:
+- Involves the use of rules for identifying known penetrations or penetrations that would exploit known weaknesses
+- Be defined to identify suspicious behavior
 
