@@ -83,3 +83,21 @@ A-->B-->C-->D-->E-->F-->A
 
 ![[354.jpg | center]]
 
+## Types of IDS
+
+1. **Host-Based (HIDS)**: Monitors the characteristics of a single host for suspicious activity
+2. **Network-Based IDS (NIDS)**: Monitors network traffic and analyzes network, transport, and application protocols to identify suspicious activity
+3. **Distributed or Hybrid IDS**: Combines information form a number of sensors, often both hosts and network based, in a central analyzer to better identify and to responds to intrusion activity.
+
+## Basic Principle
+
+IDS acts as another line of defense
+
+Based on the following consideration:
+- Identification and ejection of the intruder quickly
+- Server as a deterrent preventing intrusions
+- Strengthen intrusion prevention measures
+
+Based on assumption:
+- Intruder behavior - legitimate user behavior = some quantity
+
