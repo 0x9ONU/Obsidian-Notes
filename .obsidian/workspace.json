@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop.md",
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop"
+              "title": "NBTI-aware Skew Minimization Techniques"
             }
           }
         ],
@@ -334,8 +334,9 @@
   },
   "active": "2fa7921881b4d669",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/Low-Power Clock Distribution Using a.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/CSAM A clock skew-aware aging mitigation technique.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
@@ -379,7 +380,6 @@
     "3 - Junior Year/Spring 2025/Operating Systems/Week 9/Operating Systems - Week 9 Day 1.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 8/Operating Systems - Week 8 In-Class Activity.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 8/Operating Systems - Week 8 Day 3.md",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 8/Operating Systems - Week 8 Day 2.md",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
