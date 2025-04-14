@@ -11,18 +11,6 @@
             "id": "845c26c33237a245",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "A Reinforced Learning Solution for Clock Skew Engineering"
-            }
-          },
-          {
-            "id": "cae3f12d42c2ccbb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
@@ -33,8 +21,7 @@
               "title": "Hardware-Software Co-Design - Assignment 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5e6c58f94e4e8bed",
@@ -53,8 +40,23 @@
               "icon": "lucide-file",
               "title": "Assignment 4 Summary"
             }
+          },
+          {
+            "id": "2fa7921881b4d669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -330,22 +332,25 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "cae3f12d42c2ccbb",
+  "active": "2fa7921881b4d669",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Assignment 4 Summary.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/Low-Power Clock Distribution Using a.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/CSAM A clock skew-aware aging mitigation technique.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 12/Computer Security - Week 12.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Assignment 4 Summary.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/Power and Skew Reduction Using Resonant Energy.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf",
-    "3 - Junior Year/Spring 2025/Computer Security/Week 12/Computer Security - Week 12.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Circuit Theory Apps - 2014 - Beg - Automating the sizing of transistors in CMOS gates for low‐power and high‐noise margin.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
     "General Notes/354.jpg",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 1.md",
     "General Notes/Pasted image 20250414114554.png",
@@ -375,9 +380,6 @@
     "3 - Junior Year/Spring 2025/Operating Systems/Week 8/Operating Systems - Week 8 In-Class Activity.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 8/Operating Systems - Week 8 Day 3.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 8/Operating Systems - Week 8 Day 2.md",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 7/Operating Systems - Week 7 Day 3.md",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 7/Operating Systems - Week 7 Day 1.md",
-    "3 - Junior Year/Spring 2025/Computer Security/Week 7/Computer Security  - Week 7 Day 2.md",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }

@@ -28,10 +28,9 @@ collapse: open
 
 ### Case Studies
 
-### Solutions & Mitigation Techniques
+### Solutions & Migigation Techniques
 
 ## Conclusion
-
 
 ## Resources
 
