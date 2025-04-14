@@ -20,11 +20,8 @@ The paper proposes a **current-mode (CM) clock distribution network (CDN)** and 
 3. **Static Power in Current-Mode Logic**
     
     - Traditional CM logic suffers from **high static power**, making it impractical for CDNs.
-        
 
----
-
-### **Proposed Solution: Current-Mode Clock Distribution**
+# Proposed Solution: Current-Mode Clock Distribution
 
 The authors introduce:
 
@@ -47,9 +44,7 @@ The authors introduce:
     - **No buffers needed**: Eliminates buffer power and area overhead.
         
 
----
-
-### **Key Innovations**
+# Key Innovations
 
 1. **First True CM Clock Distribution**
     
@@ -72,11 +67,8 @@ The authors introduce:
 4. **Compatibility with CMOS Logic**
     
     - CMPFFE integrates CM clocking with VM data inputs/outputs, maintaining compatibility with standard logic.
-        
 
----
-
-### **Experimental Results (45nm CMOS)**
+# Experimental Results (45nm CMOS)
 
 1. **Flip-Flop Performance**
     
@@ -95,11 +87,8 @@ The authors introduce:
     - **Electromigration**: Current density (0.275 MA/cm²) well below ITRS limits.
         
     - **Supply noise**: CM CDN skew remains stable under ±10% Vdd fluctuations.
-        
 
----
-
-### **How It Solves Clock Distribution Challenges**
+# How It Solves Clock Distribution Challenges
 
 1. **Power Reduction**
     
@@ -118,11 +107,8 @@ The authors introduce:
     - Works for **4 to 1024 sinks** with linear power scaling.
         
     - Suitable for multi-GHz designs (tested up to 5GHz).
-        
 
----
-
-### **Conclusion & Advantages**
+# Conclusion & Advantages
 
 - **First fully integrated CM CDN** with VM-compatible FFs.
     
@@ -133,7 +119,7 @@ The authors introduce:
 - **Design-time optimization**: No runtime reconfiguration needed.
     
 
-#### **Future Work**
+## Future Work
 
 - Extend to **sub-45nm technologies**.
     
