@@ -97,7 +97,7 @@ The paper investigates the **performance and stability** of a **6T SRAM cell** a
 
 - **Leakage Current**: Increases at smaller nodes, requiring leakage-control techniques.
     
-- **Process Variations**: Threshold voltage (VTHVTH​) variability affects stability, necessitating robust design.
+- **Process Variations**: Threshold voltage ($V_{TH}$​) variability affects stability, necessitating robust design.
     
 
 #### **8. Conclusion**
