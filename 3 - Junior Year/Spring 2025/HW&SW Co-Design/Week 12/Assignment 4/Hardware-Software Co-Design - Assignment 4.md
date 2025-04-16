@@ -37,7 +37,7 @@ collapse: open
 [A] S. A. Beheshti-Shirazi _et al._, “[[A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop]],” _Proceedings of the 2021 Great Lakes Symposium on VLSI_, pp. 181–187, Jun. 2021. doi:10.1145/3453688.3461754
 [B] B. Eghbalkhah, M. Kamal, A. Afzali-Kusha, M. B. Ghaznavi-Ghoushchi, and M. Pedram, “[[CSAM - A Clock Skew-Aware Aging Mitigation Technique]],” _Microelectronics Reliability_, vol. 55, no. 1, pp. 282–290, Jan. 2015. doi:10.1016/j.microrel.2014.09.033
 [C] R. Islam and M. R. Guthaus, “[[Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop]],” _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 62, no. 4, pp. 1156–1164, Apr. 2015. doi:10.1109/tcsi.2015.2402938
-
+[D] R. Rakesh, “[[NBTI-aware Skew Minimization Techniques]],” _International Journal of Electronics Engineering_, vol. 7, no. 1, pp. 37–46, 2015.
 
 
 

@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Hardware-Software Co-Design - Assignment 4"
             }
-          },
-          {
-            "id": "1c1e4ac3c6858fe1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/NBBTTII--aawwaarree SSkkeeww MMiinniimmiizzaattiioonn TTeecchhnniiqquueess.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "NBBTTII--aawwaarree SSkkeeww MMiinniimmiizzaattiioonn TTeecchhnniiqquueess"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "436b579542b0a18c",
@@ -111,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -388,7 +375,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1c1e4ac3c6858fe1",
+  "active": "4db79e42633cacd5",
   "lastOpenFiles": [
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/NBBTTII--aawwaarree SSkkeeww MMiinniimmiizzaattiioonn TTeecchhnniiqquueess.pdf",
