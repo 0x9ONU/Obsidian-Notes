@@ -22,21 +22,96 @@
             }
           },
           {
-            "id": "e0ef9557793d3e53",
+            "id": "1c1e4ac3c6858fe1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 2.md",
-                "mode": "source",
-                "source": false
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/NBBTTII--aawwaarree SSkkeeww MMiinniimmiizzaattiioonn TTeecchhnniiqquueess.pdf"
               },
-              "icon": "lucide-file",
-              "title": "HWSW - Week 12 Day 2"
+              "icon": "lucide-file-text",
+              "title": "NBBTTII--aawwaarree SSkkeeww MMiinniimmiizzaattiioonn TTeecchhnniiqquueess"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "436b579542b0a18c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cf056e9592d949a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop"
+            }
+          },
+          {
+            "id": "eb8298bebca5140a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSAM - A Clock Skew-Aware Aging Mitigation Technique"
+            }
+          },
+          {
+            "id": "fb81c1e25802ecc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop"
+            }
+          },
+          {
+            "id": "7ae29e578d27ae82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NBTI-aware Skew Minimization Techniques"
+            }
+          },
+          {
+            "id": "4db79e42633cacd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks"
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,12 +388,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e0ef9557793d3e53",
+  "active": "1c1e4ac3c6858fe1",
   "lastOpenFiles": [
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/NBBTTII--aawwaarree SSkkeeww MMiinniimmiizzaattiioonn TTeecchhnniiqquueess.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 2.md",
     "General Notes/Pasted image 20250416111313.png",
     "General Notes/Pasted image 20250416110953.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 2.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 12/Computer Security - Week 12.md",
     "3 - Junior Year/Spring 2025/Project Development/Week 12/Project Development - Week 12 Day 2.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Assignment 4 Summary.md",
@@ -330,20 +411,14 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/Low-Power Clock Distribution Using a.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/CSAM A clock skew-aware aging mitigation technique.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/Power and Skew Reduction Using Resonant Energy.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS",
     "General Notes/354.jpg",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 1.md",
     "General Notes/Pasted image 20250414114554.png",
@@ -353,7 +428,6 @@
     "General Notes/Pasted image 20250414112702.png",
     "General Notes/Pasted image 20250414112107.png",
     "General Notes/Pasted image 20250414111711.png",
-    "General Notes/Pasted image 20250414111552.png",
     "1 - Freshman Year/Semester 2/Calculus 2/11 - Sequences, Series/Series Toolbox.md",
     "3 - Junior Year/Spring 2025/Project Development/Week 12/Project Development - Week 12 Day 1.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 6/Project/Project 1 - Understanding and Analyzing the Societal and Ethical Impact of Cybersecurity Solutions.md",
