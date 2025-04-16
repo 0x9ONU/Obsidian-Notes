@@ -51,3 +51,20 @@ The subconscious works extremely hard to solve the problems you face. When you l
 ```
 
 
+## Importance on Decision Making
+
+Mindfulness plays a crucial role in decision-making because it allows us to observe our thoughts and emotions without judgement
+- Cultivates a sense of calm and awareness
+- Step away from automatic reactions and patterns
+- Gain a clearer perspective on the choices at hand
+  
+*Awareness helps us*:
+- Recognize any biases
+- Become more attuned to the present moment, enabling us to fully understand the implications of our decisions
+- Consider the short-term and long-term consequences
+- The ripple effects that our choices may have on various aspects of people’s lives
+
+With mindfulness, we can:
+- Avoid impulsive actions driven by fear, anger, or other negative emotions
+- Respond to situations with empathy, leading to more harmonious outcomes
+
