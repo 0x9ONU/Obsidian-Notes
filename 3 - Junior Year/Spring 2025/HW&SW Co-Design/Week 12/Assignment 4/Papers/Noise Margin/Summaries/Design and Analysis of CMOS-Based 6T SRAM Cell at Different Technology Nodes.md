@@ -1,4 +1,5 @@
 
+![[Design and performance analysis of 6T SRAM cell on.pdf]]
 # **1. Introduction and Objectives**
 
 The paper investigates the **performance and stability** of a **6T SRAM cell** across four CMOS technology nodes (**180 nm, 90 nm, 65 nm, 45 nm**) using Predictive Technology Model (PTM) files. Key objectives include:
