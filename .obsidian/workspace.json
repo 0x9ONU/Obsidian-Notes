@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -314,6 +315,8 @@
   },
   "active": "e0ef9557793d3e53",
   "lastOpenFiles": [
+    "General Notes/Pasted image 20250416111313.png",
+    "General Notes/Pasted image 20250416110953.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 2.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 12/Computer Security - Week 12.md",
@@ -351,7 +354,6 @@
     "General Notes/Pasted image 20250414112107.png",
     "General Notes/Pasted image 20250414111711.png",
     "General Notes/Pasted image 20250414111552.png",
-    "General Notes/Pasted image 20250414111538.png",
     "1 - Freshman Year/Semester 2/Calculus 2/11 - Sequences, Series/Series Toolbox.md",
     "3 - Junior Year/Spring 2025/Project Development/Week 12/Project Development - Week 12 Day 1.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 6/Project/Project 1 - Understanding and Analyzing the Societal and Ethical Impact of Cybersecurity Solutions.md",
@@ -359,7 +361,6 @@
     "3 - Junior Year/Spring 2025/Operating Systems/Week 9/Operating Systems - Week 9 Day 2.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 12/Operating Systems - Week 12 Day 1.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 9/Operating Systems - Week 9 Day 3.md",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Operating Systems - Interview Day 3 Assignment.md",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
