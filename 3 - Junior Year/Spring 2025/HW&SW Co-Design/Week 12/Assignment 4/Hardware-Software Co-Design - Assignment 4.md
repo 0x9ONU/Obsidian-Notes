@@ -18,10 +18,22 @@ collapse: open
 
 ### Introduction
 
-**Clock skew** is the maximum difference among clock paths, which can have a negative performance impact on synchronous sequential circuits on integrated circuits (ICs) and system-on-chips (SoCs). This skew can lead to incorrect data latching for registers, timing violations, and general system instability as a chip runs for a long time [1]. In the past decade, the electronic device market has shifted rapidly towards solutions that require low-power components with scalable technologies. Therefore, large clock distribution networks (CDNs) have to become standard across devices. Due to these changes, the clock signal has been degregated as it moves across the processor, causing clock skew [2]. 
+**Clock skew** is the maximum difference among clock paths, which can have a negative performance impact on synchronous sequential circuits on integrated circuits (ICs) and system-on-chips (SoCs). This skew can lead to incorrect data latching for registers, timing violations, and general system instability as a chip runs for a long time [1]. In the past decade, the electronic device market has shifted rapidly towards solutions that require low-power components with scalable technologies. Therefore, large clock distribution networks (CDNs) have to become standard across devices. Due to these changes, the clock signal has been degregated as it moves across the processor, causing clock skew [2]. It has been further hurt as modern clock distributions have chosen to use only a single wire, which makes the skewed clock phase propagate globally [1]. Most importantly, the power consumption problem faced by high-performance microprocessors has also heavily affected clock skew. The most common solution to this problem is *dynamic voltage and frequency scaling (DVFS)*, which allows a chip to reduce it’s $V_{DD}$ and frequency when it is under light loads. However, this has led to narrow frequency bands and a higher clock skew as $V_{DD}$ approaches $GND$ [3]. Considering the problem of clock skew, five research articles discussing their methodologies with their proposed solutions and mitigation techniques will be discussed and compared to determine the best course of action for reducing clock skew in $V_{DD}$-scaled solutions.
 ### Case Studies
 
-### Solutions & Mitigation Techniques
+#### Study #1: “NBTI-aware Skew Minimization Techniques [1]”
+
+
+
+#### Study #2: “Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop [2]”
+
+#### Study #3: ““Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks [3]”
+
+#### Study #4: “A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop [4]”
+
+#### Study #5: “CSAM - A Clock Skew-Aware Aging Mitigation Technique [5]”
+
+### Solution & Mitigation Technique Comparison
 
 ## Noise Margins
 
@@ -37,13 +49,12 @@ collapse: open
 
 [1] R. Rakesh, “[[NBTI-aware Skew Minimization Techniques]],” _International Journal of Electronics Engineering_, vol. 7, no. 1, pp. 37–46, 2015.
 [2] R. Islam and M. R. Guthaus, “[[Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop]],” _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 62, no. 4, pp. 1156–1164, Apr. 2015. doi:10.1109/tcsi.2015.2402938
+[3] D. Challagundla, M. Galib, I. Bezzam, and R. Islam, “[[Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks]],” _2022 IEEE International Symposium on Circuits and Systems (ISCAS)_, pp. 268–272, May 2022. doi:10.1109/iscas48785.2022.9937771
+[4] S. A. Beheshti-Shirazi _et al._, “[[A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop]],” _Proceedings of the 2021 Great Lakes Symposium on VLSI_, pp. 181–187, Jun. 2021. doi:10.1145/3453688.3461754
+[5] B. Eghbalkhah, M. Kamal, A. Afzali-Kusha, M. B. Ghaznavi-Ghoushchi, and M. Pedram, “[[CSAM - A Clock Skew-Aware Aging Mitigation Technique]],” _Microelectronics Reliability_, vol. 55, no. 1, pp. 282–290, Jan. 2015. doi:10.1016/j.microrel.2014.09.033
 
 
-[A] S. A. Beheshti-Shirazi _et al._, “[[A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop]],” _Proceedings of the 2021 Great Lakes Symposium on VLSI_, pp. 181–187, Jun. 2021. doi:10.1145/3453688.3461754
-[B] B. Eghbalkhah, M. Kamal, A. Afzali-Kusha, M. B. Ghaznavi-Ghoushchi, and M. Pedram, “[[CSAM - A Clock Skew-Aware Aging Mitigation Technique]],” _Microelectronics Reliability_, vol. 55, no. 1, pp. 282–290, Jan. 2015. doi:10.1016/j.microrel.2014.09.033
 
-
-[E] D. Challagundla, M. Galib, I. Bezzam, and R. Islam, “[[Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks]],” _2022 IEEE International Symposium on Circuits and Systems (ISCAS)_, pp. 268–272, May 2022. doi:10.1109/iscas48785.2022.9937771
 
 [a] C. A. Dos Reis, “[[Review of Offset and Noise Reduction Techniques for CMOS Amplifiers]],” _Journal of Integrated Circuits and Systems_, vol. 17, no. 1, pp. 1–9, Apr. 2022. doi:10.29292/jics.v17i1.572
 [b] A. Beg, “[[Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation]],” _International Journal of Circuit Theory and Applications_, vol. 43, no. 11, pp. 1637–1654, Oct. 2014. doi:10.1002/cta.2031
