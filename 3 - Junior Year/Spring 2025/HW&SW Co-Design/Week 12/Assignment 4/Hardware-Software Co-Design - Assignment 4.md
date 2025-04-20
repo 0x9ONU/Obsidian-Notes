@@ -23,7 +23,7 @@ collapse: open
 
 #### Study #1: “NBTI-aware Skew Minimization Techniques [1]”
 
-
+When it comes to clock skew, multiple different types of 
 
 #### Study #2: “Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop [2]”
 
