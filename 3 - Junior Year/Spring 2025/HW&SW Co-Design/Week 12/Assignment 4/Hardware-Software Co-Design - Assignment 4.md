@@ -23,7 +23,14 @@ collapse: open
 
 #### Study #1: “NBTI-aware Skew Minimization Techniques [1]”
 
-When it comes to clock skew, multiple different types of 
+When it comes to clock skew, multiple different issues with manufacturing and chip degradation can hurt it’s performance especially when using DVFS. Specifically, the first paper identifies that clock skew can be caused by *negative bias temperature instability (NBTI)* and silicon differences in a chip. NBTI is the phenomenon that is tied directly to a chips age and usage. As a PMOS ages, it’s threshold voltage $V_{th}$ increases. NBTI causes high clock buffer delays and introduces clock skew due to the age of the chip. Combined with variability in fabrication can cause mismatches in $V_{th}$ across the board, current CMOS technology unpredictably skews due to physical problems. DVFS can also lead to problems as it might not recognize that $V_{th}$ has grown too high, which can lead to some transistors being underpowered and not even being able to carry a clock signal anymore. The authors also found concerns with traditional single-phase clock distribution. They found that race conditions and timing constraints can be found on single-phase clocks, which can also negatively affect skew margins. To solve these three main considerations, the authors proposed three solutions: a two-phase non-overlapping clock, a pipelining technique, and a NBTI-aware buffer replacement algorithm.
+
+In the first solution, the author tries to solve the skew margin issue by using two-phase lines for clocks rather than a single line. These two phases ($\Phi_1$ and $\Phi_2$) are generated from a single global clock and sent to the chips in a way that their phases never overlap. These non-overlapping edges remove the odds of race conditions from happening, improve skew margins to 25%, and are compatible with low-power operation latches such that DVFS is possible. Figure 1 below shows the timing diagram of these two phases:
+
+![[Pasted image 20250420174601.png | center ]]
+<center><b> Figure 1</b>: Non-Overlapping Two-Phase Wave [1] </center>
+
+The second approach focuses on a pipeline approach to reduce the complexity of the system. For context, a pipeline it divides complex function blocks into smaller blocks and inserts registers between each of the blocks to reduce the complexity of a synchronous system. 
 
 #### Study #2: “Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop [2]”
 
