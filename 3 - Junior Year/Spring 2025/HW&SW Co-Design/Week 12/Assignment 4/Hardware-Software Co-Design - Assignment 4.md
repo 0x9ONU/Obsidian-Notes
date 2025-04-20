@@ -30,9 +30,16 @@ In the first solution, the author tries to solve the skew margin issue by using 
 ![[Pasted image 20250420174601.png | center ]]
 <center><b> Figure 1</b>: Non-Overlapping Two-Phase Wave [1] </center>
 
-The second approach focuses on a pipeline approach to reduce the complexity of the system. For context, a pipeline it divides complex function blocks into smaller blocks and inserts registers between each of the blocks to reduce the complexity of a synchronous system. 
+The second approach focuses on a pipeline approach to reduce the complexity of the system. For context, a pipeline it divides complex function blocks into smaller blocks and inserts registers between each of the blocks to reduce the complexity of a synchronous system. A pipelined system helps shorten the critical paths of sequential circuits. Reduced critical paths help negate the  degradation introduced by NBTI. It also reduces the capacitive load at each stage, which allows for a lower supply voltage for DFVS and saves power overall. Figure 2 below shows the schematic diagram of how the authors implemented the pipeline on their chip:
+
+![[Pasted image 20250420180754.png | center]]
+<center><b> Figure 2</b>: Schematic Diagram of Pipelining [1] </center>
+
+The third solution is the paper’s main contribution to the problem. The authors specifically address the problem with NBTI by utilizing high-$V_{th}$ buffers on the critical path by using an algorithm. In the algorithm, it identifies buffers with high-aging skew using NBTI modeling, and then uses a divide-and-conquer approach to optimize replacements. This allows for a up to a 60% skew reduction with negligible area/power overhead. 
 
 #### Study #2: “Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop [2]”
+
+
 
 #### Study #3: ““Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks [3]”
 
