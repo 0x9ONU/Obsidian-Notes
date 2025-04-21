@@ -112,5 +112,12 @@ Threads can also notify other threads waiting on events associated with conditio
 - Unblocks all threads currently waiting for this condition
 
 `condition_variable::wait()`
+- The execution of the current thread (which shall have locked mutex) is blocked until notified
+
+`condition_variable::wait_until()`
+- The execution of the current thread (which shall have locked mutex) is blocked either until notified or until `abs_time`, whichever happens first.
+
+`condition_variable::wait_for()`
+- The execution of the current thread (which shall have locked mutex) is blocked during `rel_time` or until notified (if the latter happens first)
 
 
