@@ -42,4 +42,17 @@ Can be referred to as an opportunity, but it is technically a risk since we do n
 There are no guarantees on any project. Even the simplest activity can turn into unexpected problems
 ```
 
+## Accessing Risk
 
+Engineers and other professionals need to be able to assess potential risks:
+- First stage in the process of deciding which risks are acceptable
+- This, in turn, allows priorities to be assigned to developing and implementing strategies to reduce risks.
+
+## Stages
+
+1. **Identify the Hazards**: Condition or object with the potential of
+	- Causing injuries to personnel
+	- Damage to equipment or structures
+	- Loss of material
+	- Reduction of ability to perform a prescribed function
+2. **
