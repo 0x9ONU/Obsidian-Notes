@@ -61,14 +61,29 @@ Similarly to the previous paper, the authors of the third paper found that high 
 ![[Pasted image 20250421104456.png | center]]
 <center><b> Figure 6</b>: The Proposed Wideband Resonant Clock Tree Architecture Consists of a System Clock Source as the Root, Followed by a Pulse Generator, Multiple PSR Drivers with On-Chip Inductors, Clock Gaters, Clock Buffers, and Finally, Various Sets of Resonant Pulsed FFs in the Leaf Node [3] </center>
 
-As the name suggests, the resonant clocking architecture uses an *inductor* ($L$) on the discharge path to store energy within a magnetic field, which can be recycled during the next clock edge. This makes it such that only 50% of the switching energy is dissipated, with the other half going directly into charging the capacitor on the next clock edge. It also contains a pulse generator using a XNOR gate and a voltage doubler, which allows for consistent timing. Tuned LC tanks are also introduced, which allows for each clock branch’s inductor to match the load capacitance to equalize the frequencies. Dealing with the load capacitance using an inductor allows the clock skew to drop by around 24 times. Using the resonant clock architecture and the skew-reducing inductor, 
+As the name suggests, the resonant clocking architecture uses an *inductor* ($L$) on the discharge path to store energy within a magnetic field, which can be recycled during the next clock edge. This makes it such that only 50% of the switching energy is dissipated, with the other half going directly into charging the capacitor on the next clock edge. It also contains a pulse generator using a XNOR gate and a voltage doubler, which allows for consistent timing. Tuned LC tanks are also introduced, which allows for each clock branch’s inductor to match the load capacitance to equalize the frequencies. Dealing with the load capacitance using an inductor allows the clock skew to drop by around 24 times. The author also promotes two different types of flip-flops (FFs) that can improve on the traditional flip-flips used in non-resonant architectures. Firstly, the 13T Pulsed FF (13TPFF) promises a negative setup time ($-25ps$) for the tradeoff of a larger area by using pulsed clocks for energy recovery. Pulsed Resonant FF (PRFF), on the other hand, has the lowest power guarantees with $35 ps$ of delay. Figure 7 below shows the proposed flip-flops:
 
+![[Pasted image 20250421165920.png | center]]
+<center><b> Figure 7</b>:  The Proposed Series Resonant Pulsed FFs use (a) A PSR to Generate Pulse SIgnal to Drive the Register Stage, (b) 13T Register, (c) Pulsed Register, (d) TSPC Register to Implement Three Pulsed FFs [3]</center>
 
+As an experiment, they implemented the various flip-flops combined with the resonant clock architecture and tuned LC tanks on a 14nm FinFET chip. PRFF found a 43% power reduction at 5 GHz, while 13TPFF had 22.7% savings over traditional as well. They found a 91% lower skew with PRFF compared to the state-of-the-art. They also found a low CLK-to-Q delay in each flip flop, with only 35ps and 37.3ps for PRFF and 13TPFF respectfully. These results show that the robustness of the proposed architecture can greatly improve clock skew, leading to a sub-5ps skew, which is much lower than the other methods seen so far.
 #### Study #4: “A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop [4]”
 
-#### Study #5: “CSAM - A Clock Skew-Aware Aging Mitigation Technique [5]”
+The authors of this study, when looking into the various problems of engineering design and clock skew, came up with three main culprits that they wanted to fix. Firstly, they have concerns with how current zero-skew registers are handled. To reduce skew, all the registers are switched simultaneously, which leads to a sudden surge in current demands from the clock distribution network. This will cause a resistive and inductive drop due to the high current changes, which will cause clock jitter and potential skew as the supply voltage becomes unstable to take care of the higher than expected current. They are also worried about the tradeoff between balancing skew and timing violations. Clock skew can actually be beneficial in spreading out switching activity, which can help reduce the peak current. However, excessive skew can introduce timing violations as setup/hold times desynch and cause erroneous behavior. Figure 8 below shows how simultaneous switching can case a heavy load on the current demand in an IC.
+
+![[Pasted image 20250421172409.png | center]]
+<center><b> Figure 8</b>:  A Sequential Netlist with Balanced Clock Tree, Simultaneous Arrival Time of the Clock to All Register, Surge of Demanded Current on Active Edge of the Clock [4]</center>
+
+The paper itself proposed a method that utilized reinforcement learning (RL) to optimize the clock skew. Unlike the previous papers that try to eliminate clock skew, it utilizes previously gathered data in a digital circuit and adjust clock arrival times at registers. The authors embrace that clock skew can not only happen, but it can also be controlled to minimize the demanded current while ensuring time violations do not happen. 
+
+The framework of the RL model was laid out in a clever way. Much like other reinforcement learning, it has access to the current state of the circuit so that it can “see” how the circuit is running. These variables include register locations, clock arrival times, and any timing violations that have happened. From there, a pre-determined set of actions that the model can take is given. In this case, it has the power to “insert” or “remove” buffers to adjust the clock’s skew or move a signal to an adjacent register. Then, three sets of rewards/punishments were laid out. A positive reward was given if the clock arrival spread was increased, but a large negative reward was given if any timing violations were introduced. However, it is given an opportunity to gain a small reward if a previous violation was resolved later. From there, the model was able to take random actions to explore the design space and populate the registers. Afterwards, the training wheels were removed slowly as the reward/punishment system was slowly given to the model as it learned what good actions were and when tot take them. After letting it run, they found that the spread of clock arrival times improved with a 35-40% reduction in peak current. Due to the reduced peak current, there was a reduction in voltage noise, lower clock jitter, and even improved the voltage margins. They concluded on the fact that controlling how much clock skew is in a system rather than reducing it outright can help reduce current spikes and the clock from jittering and leading to an uncontrollable amount of skew. Figure 9 below illustrates how the reinforcement model is laid out:
+
+![[Pasted image 20250421174627.png | center]]
+<center><b> Figure 9</b>:  Reinforcement Learning Solution for Peak Current Reduction, and Description of Rewards in This Work [4]</center>
 
 ### Solution & Mitigation Technique Comparison
+
+When comparing each of the solutions, there are multiple different ways each paper focused on 
 
 ## Noise Margins
 
@@ -76,7 +91,7 @@ As the name suggests, the resonant clocking architecture uses an *inductor* ($L$
 
 ### Case Studies
 
-### Solutions & Mitigation Techniques
+### Solutions & Mitigation Techniques Comparison
 
 ## Conclusion
 
@@ -86,10 +101,6 @@ As the name suggests, the resonant clocking architecture uses an *inductor* ($L$
 [2] R. Islam and M. R. Guthaus, “[[Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop]],” _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 62, no. 4, pp. 1156–1164, Apr. 2015. doi:10.1109/tcsi.2015.2402938
 [3] D. Challagundla, M. Galib, I. Bezzam, and R. Islam, “[[Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks]],” _2022 IEEE International Symposium on Circuits and Systems (ISCAS)_, pp. 268–272, May 2022. doi:10.1109/iscas48785.2022.9937771
 [4] S. A. Beheshti-Shirazi _et al._, “[[A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop]],” _Proceedings of the 2021 Great Lakes Symposium on VLSI_, pp. 181–187, Jun. 2021. doi:10.1145/3453688.3461754
-[5] B. Eghbalkhah, M. Kamal, A. Afzali-Kusha, M. B. Ghaznavi-Ghoushchi, and M. Pedram, “[[CSAM - A Clock Skew-Aware Aging Mitigation Technique]],” _Microelectronics Reliability_, vol. 55, no. 1, pp. 282–290, Jan. 2015. doi:10.1016/j.microrel.2014.09.033
-
-
-
 
 [a] C. A. Dos Reis, “[[Review of Offset and Noise Reduction Techniques for CMOS Amplifiers]],” _Journal of Integrated Circuits and Systems_, vol. 17, no. 1, pp. 1–9, Apr. 2022. doi:10.29292/jics.v17i1.572
 [b] A. Beg, “[[Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation]],” _International Journal of Circuit Theory and Applications_, vol. 43, no. 11, pp. 1637–1654, Oct. 2014. doi:10.1002/cta.2031
