@@ -61,7 +61,7 @@ Similarly to the previous paper, the authors of the third paper found that high 
 ![[Pasted image 20250421104456.png | center]]
 <center><b> Figure 6</b>: The Proposed Wideband Resonant Clock Tree Architecture Consists of a System Clock Source as the Root, Followed by a Pulse Generator, Multiple PSR Drivers with On-Chip Inductors, Clock Gaters, Clock Buffers, and Finally, Various Sets of Resonant Pulsed FFs in the Leaf Node [3] </center>
 
-As the name suggests, the resonant clocking architecture uses an *inductor* ($L$) on the discharge path to store energy within a magnetic field, which can be recycled during the next clock edge. This makes it such that only 50% of the switching energy is dissipated, with the other half going directly into the next clock edge.
+As the name suggests, the resonant clocking architecture uses an *inductor* ($L$) on the discharge path to store energy within a magnetic field, which can be recycled during the next clock edge. This makes it such that only 50% of the switching energy is dissipated, with the other half going directly into charging the capacitor on the next clock edge. It also contains a pulse generator using a XNOR gate and a voltage doubler, which allows for consistent timing. Tuned LC tanks allows for induction to be used 
 
 
 #### Study #4: “A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop [4]”
