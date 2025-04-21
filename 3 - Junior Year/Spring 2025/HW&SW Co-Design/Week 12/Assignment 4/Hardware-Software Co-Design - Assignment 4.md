@@ -83,7 +83,7 @@ The framework of the RL model was laid out in a clever way. Much like other rein
 
 ### Solution & Mitigation Technique Comparison
 
-When comparing each of the solutions, there are multiple different ways each paper focused on 
+When comparing each of the solutions, there are multiple different ways each paper focused on how to either solve or mitigate the problems around clock skew. The first paper tried to solve the issue by minimizing aging-constraints and variable silicon differences on gates and making sure that $V_{th}$ is consistent so that DVFS can be used without any worries.
 
 ## Noise Margins
 
