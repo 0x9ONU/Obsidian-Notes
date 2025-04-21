@@ -39,9 +39,30 @@ The third solution is the paper’s main contribution to the problem. The author
 
 #### Study #2: “Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop [2]”
 
-The authors of this paper, unlike the last, try to focus on the reduction of power consumption in synchronous digital circuits. 
+The authors of this paper, unlike the last, try to focus on the reduction of power consumption and skew caused by the current stage-of-the-art in synchronous digital circuits. In a chip, a clock has to be equally distributed to allow for synchronous processing, which is the job of the clock distribution network (CDN). However, the traditional voltage-mode clock distribution networks (VM CDNs) suffer from high dynamic power loss. At the current time, it is found that VM CDNs consume up to 70% of a total chip’s power and require full-swing voltage transitions. Not only that, they are susceptible to clock skew due to global interconnection delay across the system and switching times being bottlenecked by the voltage-switching delay. The authors look toward the possibility of using a current-sensing solution instead as they rely on changes in current rather than voltage. However, they recognize that CM logic can also suffer from high *static* power loss, which makes it impractical for clock distribution. Figure 3 below illustrates a typical CM model that suffers from static power loss and high clock skew. To solve this issue, the authors proposed a new model to make current-mode clock distribution viable.
+
+![[Pasted image 20250421100239.png | center]]
+<center><b> Figure 3</b>: Previous CM Schemes Used an Expensive Transimpedance Amp Which Could Result in Significant Skew [2] </center>
+
+The **Current-Mode Pulsed Flip-Flop With Enable (CMPFFE)** takes the current CM solution for clock distribution and helps solve the various issues around it. Much like how a DAC and an ADC move signals between an analog and digital state, the CMPFFE features a current-comparator stage and a push-pull current driver stage which converts a CM clock input into a voltage pulse and visa versa in a way that minimizing voltage swing and clock skew. Another one of it’s main contributions is an $EN$ signal. It might seem simple, but the enable signal allows for the static power to be reduced in standby mode by preventing bias current from happening in the system. It also contains a symmetric H-tree distribution network that allows for equal current delivery to all nodes without the need for buffers. Figure 4 below illustrates the proposed CM-based CDN network:
+
+![[Pasted image 20250421101706.png | center ]]
+<center><b> Figure 4</b>: The Proposed CMPFFE Uses Current-Comparator and Feedback Connection to Generate a Voltage Pulse that Triggers a Register Stage to Store Data in the Storage Cell [2] </center>
+
+The authors, providing the first “true” CM clock distribution solution, found that their methodology was very successful. They created a 45nm CMOS chip based on their schematics and tested it at a frequency of $5 GHz$. They found that eliminating the buffers found in VM allowed for a 62% lower power usage. They also found that there was less noise coupling due to capacitance and a 60% less clock skew than traditional VM CDNs. In the future, the authors hope to extend the idea into a smaller technology (sub-45nm) and try to dynamic tune the current to improve variation. Figure 5 below shows the CMOS stick diagram for the cell the clock distribution network takes up on the chip:
+
+![[Pasted image 20250421102559.png | center]]
+<center><b> Figure 5</b>: Using Standard Cell Height, the Proposed CM FF Consumes Lower Silicon Area Compared to the Recently Reported VM Pulsed FFs [2] </center>
 
 #### Study #3: ““Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks [3]”
+
+Similarly to the previous paper, the authors of the third paper found that high power consumption and clock skew are the problems with the current state-of-the-art. Clock distribution consume a lot of power due to the large capacitive loads necessary to run with DVFS having limited effect on it. Uneven clock arrival times are common as process variations make it difficult to properly synch the clocks. Additionally, the current resonant techniques to help smooth out the clock suffer from narrow frequency operation and even high clock skew. To solve this problem, the authors introduce the novel **resonant clocking architecture**, which utilizes series LC resonance and inductor matching to reduce clock skew. The proposed schematic can be found below in Figure 6: 
+
+![[Pasted image 20250421104456.png | center]]
+<center><b> Figure 6</b>: The Proposed Wideband Resonant Clock Tree Architecture Consists of a System Clock Source as the Root, Followed by a Pulse Generator, Multiple PSR Drivers with On-Chip Inductors, Clock Gaters, Clock Buffers, and Finally, Various Sets of Resonant Pulsed FFs in the Leaf Node [3] </center>
+
+As the name suggests, the resonant clocking architecture uses an *inductor* ($L$) on the discharge path to store energy within a magnetic field, which can be recycled during the next clock edge. This makes it such that only 50% of the switching energy is dissipated, with the other half going directly into the next clock edge.
+
 
 #### Study #4: “A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop [4]”
 
