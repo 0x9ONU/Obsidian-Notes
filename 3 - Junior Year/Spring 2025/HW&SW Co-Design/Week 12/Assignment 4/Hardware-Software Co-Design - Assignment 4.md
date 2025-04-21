@@ -39,7 +39,7 @@ The third solution is the paper’s main contribution to the problem. The author
 
 #### Study #2: “Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop [2]”
 
-
+The authors of this paper, unlike the last, try to focus on the reduction of power consumption in synchronous digital circuits. 
 
 #### Study #3: ““Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks [3]”
 
