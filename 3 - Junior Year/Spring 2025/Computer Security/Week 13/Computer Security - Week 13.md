@@ -55,7 +55,26 @@ Lists the types of traffic authorized to pass through the firewall
 	- Typically used to limit access to specific services
 2. Application Protocol
 	- Used by an application-level gateway that relays and monitors the exchange of information for specific application protocols
-3. 
+3. User Identity
+	- Typically for inside users who identify themselves using some form of secure authentication technology
+4. Network Activity
+	- Controls access based on considerations such as the time of request, rate of requests, or other activity patterns
 
+## Capabilities and Limits
 
+**Capabilities**
+- Defines a single choke point
+- Provides a location for monitoring security events
+- Convenient platform for several Internet functions that are not security-related
+- Can serv e as the platform for IP security
+
+*Limitations*
+- Cannot protect agianst attacks bypassing the firewall
+- May not protect fully against inernal threats
+- Improperly secured wireless LAN can be accessed from outside the organization
+- Laptop, PDA, or portable storage device may be infected outside the corporate network and then used internally
+
+## Types of Firewalls
+
+![[Types-of-Firewall.png]]
 
