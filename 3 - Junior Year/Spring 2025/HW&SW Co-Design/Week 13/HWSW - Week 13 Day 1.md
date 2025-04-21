@@ -85,13 +85,51 @@ $\alpha_i = \hat P_i \times P_i$
 
 **Completely random data has $P = 0.5$ and $\alpha = 0.25$**
 
-### Switching Probability
+#### Switching Probability
 
 ![[Pasted image 20250421113458.png | center]]
 
+##### Example
 
+```ad-question
+A 4-input AND is built out of two levels of gates. Estimate the activity factor at each node if the inputs has $P = 0.5$
+```
 
+![[Pasted image 20250421114042.png | center]]
 
+### Power Dissipation Sources
+
+$$P_t = P_{dynamic} + P_{static}$$
+
+Dynamic power: $P_{dynamic} = P_{swiching} + P_{shortcircuit}$
+- Switching load capacitances
+- Short-circuit current
+
+Static Power: $P_{static} = (I_{sub}+I_{gate} +I_{junct} + I_{contention})V_{DD}$
+- Subthreshold leakage
+- Gate leakage
+- Junction leakage
+- Contention Current
+
+#### Dynamic Power Example
+
+1 billion transistor chip
+- 50M logic transistors
+	- $12 \lambda$
+	- $\alpha = 0.1$
+- 950M memory transistors
+	- $4 \lambda$
+	- $\alpha = 0.02$
+- $1.0V \space 65nm$ process
+- $C = 1 fF/\micro m$ (gate) + $0.8 fF/\micro m$ (diffusion)
+  
+```ad-question
+Estimate dyanmic power consumption at 1GHz. Neglect wire capacitance and short-circuit current.
+``` 
+
+$$C_{logic} = (50*10^6)(12 \lambda)(0.025 \micro m/\lambda)(1.8fF/\micro m)=27 nF$$
+$$C_{mem} = (950*10^6)(4 \lambda)(0.025 \micro m/ \lambda)(1.8 fF / \micro m)= 171nF$$
+$$P_{dynamic} = [0.1C_{logic}+0.02C_{mem}](1.0)^2(1.0GHz)=6.1W$$
 
 
 
