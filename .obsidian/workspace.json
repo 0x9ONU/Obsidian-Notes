@@ -20,13 +20,7 @@
               "icon": "lucide-file",
               "title": "Hardware-Software Co-Design - Assignment 4"
             }
-          }
-        ]
-      },
-      {
-        "id": "cc95e03305d65258",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "6f9a7791d3876041",
             "type": "leaf",
@@ -52,8 +46,23 @@
               "icon": "lucide-file-text",
               "title": "Power and Skew Reduction Using Resonant Energy"
             }
+          },
+          {
+            "id": "8a59a5bc2c38fa76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HWSW - Week 13 Day 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hardware-Software Co-Design - Assignment 4"
+              "title": "Backlinks for HWSW - Week 13 Day 1"
             }
           },
           {
@@ -290,13 +299,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hardware-Software Co-Design - Assignment 4"
+              "title": "Outline of HWSW - Week 13 Day 1"
             }
           }
         ]
@@ -330,11 +339,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8a85fd522fde4307",
+  "active": "8a59a5bc2c38fa76",
   "lastOpenFiles": [
+    "General Notes/Pasted image 20250421113458.png",
+    "General Notes/Pasted image 20250421112013.png",
+    "General Notes/Pasted image 20250421111540.png",
+    "General Notes/Pasted image 20250421111012.png",
+    "General Notes/Pasted image 20250421110935.png",
+    "General Notes/Pasted image 20250421110856.png",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 1.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/Power and Skew Reduction Using Resonant Energy.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
     "General Notes/Pasted image 20250421104456.png",
     "General Notes/Pasted image 20250421102559.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/Low-Power Clock Distribution Using a.pdf",
@@ -352,13 +369,11 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/NBBTTII--aawwaarree SSkkeeww MMiinniimmiizzaattiioonn TTeecchhnniiqquueess.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
     "General Notes/Pasted image 20250420180754.png",
-    "General Notes/Pasted image 20250420174601.png",
     "3 - Junior Year/Summer Research/Meeting Minutes/4-17-2025.md",
     "3 - Junior Year/Summer Research/Meeting Minutes",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Assignment 4 Summary.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/CSAM A clock skew-aware aging mitigation technique.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/High Noise Margin, Digital Logic Design using Josephson Junction Field-Effect Transistors for Cryogenic Computing.md",
@@ -367,16 +382,11 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 2.md",
-    "General Notes/Pasted image 20250416111313.png",
-    "General Notes/Pasted image 20250416110953.png",
     "3 - Junior Year/Spring 2025/Computer Security/Week 12/Computer Security - Week 12.md",
     "3 - Junior Year/Spring 2025/Project Development/Week 12/Project Development - Week 12 Day 2.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
-    "General Notes/354.jpg",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 1.md",
-    "General Notes/Pasted image 20250414114554.png",
     "1 - Freshman Year/Semester 2/Calculus 2/11 - Sequences, Series/Series Toolbox.md",
-    "3 - Junior Year/Spring 2025/Project Development/Week 12/Project Development - Week 12 Day 1.md",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
