@@ -22,6 +22,83 @@
             }
           }
         ]
+      },
+      {
+        "id": "eedd27e31561d905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27e6463b6526a918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation"
+            }
+          },
+          {
+            "id": "b4cafa59968d2ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes"
+            }
+          },
+          {
+            "id": "40f69960de267575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization"
+            }
+          },
+          {
+            "id": "2d9e3c0a2a3aef58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells"
+            }
+          },
+          {
+            "id": "233bd3b2af7f19ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Review of Offset and Noise Reduction Techniques for CMOS Amplifiers"
+            }
+          }
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -299,51 +376,51 @@
   },
   "active": "8a85fd522fde4307",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/High Noise Margin, Digital Logic Design using.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and analysis of CMOS based 6T SRAM cell at different technology.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/Summaries/Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/PDFs/High Noise Margin, Digital Logic Design using.pdf",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/PDFs/Design and analysis of CMOS based 6T SRAM cell at different technology.pdf",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/PDFs/Circuit Theory Apps - 2014 - Beg - Automating the sizing of transistors in CMOS gates for low‐power and high‐noise margin.pdf",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
+    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/PDFS/Power and Skew Reduction Using Resonant Energy.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/High Noise Margin, Digital Logic Design using Josephson Junction Field-Effect Transistors for Cryogenic Computing.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
     "General Notes/Pasted image 20250421174627.png",
     "General Notes/Pasted image 20250421172409.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
     "General Notes/Pasted image 20250421165920.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/Power and Skew Reduction Using Resonant Energy.pdf",
     "3 - Junior Year/Spring 2025/Computer Security/Week 13/Computer Security - Week 13.md",
     "General Notes/Types-of-Firewall.png",
     "General Notes/firewall-1.webp",
-    "3 - Junior Year/Spring 2025/Computer Security/Week 13",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 1.md",
     "General Notes/Pasted image 20250421114042.png",
     "General Notes/Pasted image 20250421113458.png",
     "General Notes/Pasted image 20250421112013.png",
     "General Notes/Pasted image 20250421111540.png",
     "General Notes/Pasted image 20250421111012.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/Low-Power Clock Distribution Using a.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop.md",
     "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development - Week 13 Day 1.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 13/Operating Systems - Week 13 Day 1.md",
-    "3 - Junior Year/Spring 2025/Project Development/Week 13",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 13/Materials/week11a_mutex_and_synch_DRAFT.pdf",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 13/Materials",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 11/Operating Systems - Week 11 Day 2.md",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 12/Operating Systems - Week 12 Day 1.md",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 13",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/NBBTTII--aawwaarree SSkkeeww MMiinniimmiizzaattiioonn TTeecchhnniiqquueess.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
-    "3 - Junior Year/Summer Research/Meeting Minutes/4-17-2025.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Assignment 4 Summary.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/High Noise Margin, Digital Logic Design using Josephson Junction Field-Effect Transistors for Cryogenic Computing.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 2.md",
-    "3 - Junior Year/Spring 2025/Computer Security/Week 12/Computer Security - Week 12.md",
-    "3 - Junior Year/Spring 2025/Project Development/Week 12/Project Development - Week 12 Day 2.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 1.md",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }

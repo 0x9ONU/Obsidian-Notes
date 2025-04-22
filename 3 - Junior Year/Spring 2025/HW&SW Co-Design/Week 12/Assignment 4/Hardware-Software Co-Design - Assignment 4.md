@@ -86,7 +86,7 @@ The framework of the RL model was laid out in a clever way. Much like other rein
 When comparing each of the solutions, there are multiple different ways each paper focused on how to either solve or mitigate the problems around clock skew. The first paper tried to solve the issue by minimizing aging-constraints and variable silicon differences on gates and making sure that $V_{th}$ is consistent so that DVFS can be used without any worries [1]. The second paper tried to improve how the clock distribution networks (CDN)  by using a novel CM-based CND that improves power draw, decrease clock skew/jitter, and adds an enable system to reduce static power draw [2]. The third paper changed the architecture by introducing inductive elements to balance out the conductive loads to improve on clock skew and power draw [3]. The fourth paper instead controlled when skew could happen to ensure that current spikes do not lead to jitter and skew of their own [4]. The cool part about all these solutions is the fact that a hybrid approach can be taken for implementation. For example, the first paper’s consistency for $V_{th}$ can be combined with the resonant architecture from paper three and create a method that will cover each other’s backs [1, 3]. However, paper four also has a good lesson to learn about how clock skew must be balanced. Without a little bit of clock skew, the circuit can become too synchronous and lead to a current that is too high. Because of that, paper four’s controlled amount of clock skew can help mitigate the downsides of clock skew, but continues to allow DVFS to happen at more frequencies than normally expected [4].
 ## Noise Margins
 
-
+As the gap between the 
 
 ### Introduction
 
@@ -107,8 +107,7 @@ When comparing each of the solutions, there are multiple different ways each pap
 [b] A. Beg, “[[Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation]],” _International Journal of Circuit Theory and Applications_, vol. 43, no. 11, pp. 1637–1654, Oct. 2014. doi:10.1002/cta.2031
 [c] M. Devi, C. Madhu, and N. Garg, “[[Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes]],” _Materials Today: Proceedings_, vol. 28, pp. 1695–1700, 2020. doi:10.1016/j.matpr.2020.05.130
 [d] S. Saun and H. Kumar, “[[Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization]],” _IOP Conference Series: Materials Science and Engineering_, vol. 561, no. 1, p. 012093, Oct. 2019. doi:10.1088/1757-899x/561/1/012093
-[e] S. R. Raman, F. Wen, R. Pillarisetty, V. De, and J. P. Kulkarni, “[[High Noise Margin, Digital Logic Design using Josephson Junction Field-Effect Transistors for Cryogenic Computing]],” _IEEE Transactions on Applied Superconductivity_, vol. 31, no. 5, pp. 1–5, Aug. 2021. doi:10.1109/tasc.2021.3054347
-[f] N. Zheng and P. Mazumder, “[[Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells]],” _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 64, no. 10, pp. 2726–2736, Oct. 2017. doi:10.1109/tcsi.2017.2700818
+[e] N. Zheng and P. Mazumder, “[[Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells]],” _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 64, no. 10, pp. 2726–2736, Oct. 2017. doi:10.1109/tcsi.2017.2700818
 
 
 
