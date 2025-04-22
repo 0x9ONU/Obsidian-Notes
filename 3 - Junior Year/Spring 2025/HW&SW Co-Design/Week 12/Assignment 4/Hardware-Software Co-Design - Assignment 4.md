@@ -83,9 +83,10 @@ The framework of the RL model was laid out in a clever way. Much like other rein
 
 ### Solution & Mitigation Technique Comparison
 
-When comparing each of the solutions, there are multiple different ways each paper focused on how to either solve or mitigate the problems around clock skew. The first paper tried to solve the issue by minimizing aging-constraints and variable silicon differences on gates and making sure that $V_{th}$ is consistent so that DVFS can be used without any worries.
-
+When comparing each of the solutions, there are multiple different ways each paper focused on how to either solve or mitigate the problems around clock skew. The first paper tried to solve the issue by minimizing aging-constraints and variable silicon differences on gates and making sure that $V_{th}$ is consistent so that DVFS can be used without any worries [1]. The second paper tried to improve how the clock distribution networks (CDN)  by using a novel CM-based CND that improves power draw, decrease clock skew/jitter, and adds an enable system to reduce static power draw [2]. The third paper changed the architecture by introducing inductive elements to balance out the conductive loads to improve on clock skew and power draw [3]. The fourth paper instead controlled when skew could happen to ensure that current spikes do not lead to jitter and skew of their own [4]. The cool part about all these solutions is the fact that a hybrid approach can be taken for implementation. For example, the first paper’s consistency for $V_{th}$ can be combined with the resonant architecture from paper three and create a method that will cover each other’s backs [1, 3]. However, paper four also has a good lesson to learn about how clock skew must be balanced. Without a little bit of clock skew, the circuit can become too synchronous and lead to a current that is too high. Because of that, paper four’s controlled amount of clock skew can help mitigate the downsides of clock skew, but continues to allow DVFS to happen at more frequencies than normally expected [4].
 ## Noise Margins
+
+
 
 ### Introduction
 
