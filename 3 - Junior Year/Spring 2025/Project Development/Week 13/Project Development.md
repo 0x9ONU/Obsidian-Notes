@@ -133,10 +133,9 @@ Identifying the sources of risk by category is another method:
 - Client
 - Contractual
 - Weather
-- Finanical
+- Financial
 - Political
 - Environmental
 - People
-
 
 
