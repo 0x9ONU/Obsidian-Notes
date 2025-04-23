@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+                "file": "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hardware-Software Co-Design - Assignment 4"
+              "title": "Backlinks for Project Development"
             }
           },
           {
@@ -286,21 +286,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+                "file": "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hardware-Software Co-Design - Assignment 4"
+              "title": "Outline of Project Development"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
