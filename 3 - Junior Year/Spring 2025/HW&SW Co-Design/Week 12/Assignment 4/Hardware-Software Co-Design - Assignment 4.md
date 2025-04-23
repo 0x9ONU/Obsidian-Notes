@@ -92,7 +92,12 @@ As the gap between the
 
 #### Study 1: “Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation" [5]
 
-The authors of this paper, much like this report, found that technology scaling to lower supply voltages $V_{DD}$. 
+The authors of this paper, much like this report, found that technology scaling to lower supply voltages $V_{DD}$ has led to problems when it comes to noise margins. They understand that as $V_{DD}$ as begun to lower, the gap between signals and noise as decreased, which allows circuits to be more susceptible to noise. The authors; however, understand that this change is necessary as CMOS technologies are moving towards a lower $V_{DD}$ to reduce the dynamic and static power of their respective systems. The authors are most concerned with the static noise margin (SNM), which represents the minimal amount of voltage needed to switch from one state to another on a gate. Even though the SNM was mostly used for measuring SRAM performance, the metric has become increasingly relevant for logic gates due to the lowered $V_{DD}$. Due to these concerns with the current logic gate architectures, the authors propose the use of optimal transistor sizing to help design better CMOS logic gates with high SNM and low power consumption, even as $V_{DD}$ scales towards lower supply voltages. More precisely, they provide a feedback-controlled automated transistor sizing system that both optimizes the channel length ($L$) and width ($W$). Extending the $L$ beyond the minimum helps reduce leakage current and improves the SNM at the cost of the delay. The width can be optimized between transistors such that the rise/fall times of each transistor can be balanced to reduce the overall power. Figure 10 below illustrates the effect of $L$ on both NMOS and PMOS technologies:
+
+![[Pasted image 20250423193920.png | center]]
+<center><b> Figure 10</b>:  The Effect of Length on a Gate’s (a) SNM and (b) Delay  [5]</center>
+
+Knowing this, the authors propose three different methods: setting an optimal channel length ($L_{opt}$), progressive transistor sizing, or hybrid sizing schemes. As the name suggests, optimal channel length helps standardize both $L_{NMOS}$ and $L_{PMOS}$ across a chip. To minimize problems caused by the noise, a length for each type of transistor is given so their length causes the threshold voltage ($V_{th}$) is approximately a half of $V_{DD}$ such that $V_{th} \approx V_{DD}/2$. This method helps balance out the NMOS and PMOS threshold voltages by just adjusting the length of the transistors globally. 
 
 #### Study 2: “Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes” [6]
 

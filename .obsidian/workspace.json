@@ -20,51 +20,53 @@
               "icon": "lucide-file",
               "title": "Hardware-Software Co-Design - Assignment 4"
             }
+          }
+        ]
+      },
+      {
+        "id": "ec47304989932123",
+        "type": "split",
+        "children": [
+          {
+            "id": "1b62fb06f232b69c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "27e6463b6526a918",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation"
+                }
+              }
+            ]
           },
           {
-            "id": "27e6463b6526a918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation"
-            }
-          },
-          {
-            "id": "790a425967883126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/Computer Security/Week 11/Computer Security - Week 11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Security - Week 11"
-            }
-          },
-          {
-            "id": "b108b1e091b2bd27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development - Week 13 Day 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project Development - Week 13 Day 2"
-            }
+            "id": "2282f613014dee91",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8965e8ab035e095",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Automating the Sizing.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Automating the Sizing"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -131,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -340,11 +343,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b108b1e091b2bd27",
+  "active": "8a85fd522fde4307",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development - Week 13 Day 1.md",
-    "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development - Week 13 Day 2.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Automating the Sizing.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+    "General Notes/Pasted image 20250423193920.png",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
     "3 - Junior Year/Spring 2025/Computer Security/Week 11/Computer Security - Week 11.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development - Week 13 Day 2.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development - Week 13 Day 1.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 10/Computer Security - Week 10 Day 1.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 9/Computer Security - Week 9 Day 2.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 7/Computer Security  - Week 7 Day 2.md",
@@ -357,13 +365,10 @@
     "General Notes/Pasted image 20250423111456.png",
     "General Notes/Pasted image 20250423111014.png",
     "General Notes/riskanalysis2-1024x837.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Operating Systems - Week 10 Day 1.md",
     "General Notes/Pasted image 20250407082049.png",
     "General Notes/Pasted image 20250331081442.png",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Operating Systems - Interview Day 3 Assignment.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Circuit Theory Apps - 2014 - Beg - Automating the sizing of transistors in CMOS gates for low‐power and high‐noise margin.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
@@ -377,17 +382,14 @@
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
-    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/PDFs/Design and analysis of CMOS based 6T SRAM cell at different technology.pdf",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop.md",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
     "General Notes/Pasted image 20250421174627.png",
     "General Notes/Pasted image 20250421172409.png",
     "General Notes/Pasted image 20250421165920.png",
-    "General Notes/Types-of-Firewall.png",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }

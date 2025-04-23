@@ -14,9 +14,9 @@ The paper addresses the challenge of designing **CMOS logic gates** with **high 
 
 The paper proposes **automated transistor sizing** to maximize SNM while minimizing power and area. The key innovation is a **feedback-controlled sizing system** that optimizes:
 
-- **Channel length (LL)**: Extending LL beyond the minimum (LminLmin​) reduces leakage and improves SNM but may increase delay.
+- **Channel length ($L$)**: Extending $L$ beyond the minimum ($L_{min}​$) reduces leakage and improves SNM but may increase delay.
     
-- **Channel width (WW)**: Progressive sizing (non-uniform WW across stacked transistors) balances rise/fall times and reduces power.
+- **Channel width ($L$)**: Progressive sizing (non-uniform $W$ across stacked transistors) balances rise/fall times and reduces power.
     
 
 # **3. Key Techniques**
