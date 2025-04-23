@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 2.md",
+                "file": "3 - Junior Year/Spring 2025/Computer Security/Week 11/Computer Security - Week 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HWSW - Week 13 Day 2"
+              "title": "Computer Security - Week 11"
             }
           }
         ],
@@ -322,17 +322,22 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "790a425967883126",
   "lastOpenFiles": [
+    "3 - Junior Year/Spring 2025/Computer Security/Week 10/Computer Security - Week 10 Day 1.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 9/Computer Security - Week 9 Day 2.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 7/Computer Security  - Week 7 Day 2.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 7/Computer Security - Pink Time Assignment (3-3-25).md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 9/Computer Security - Week 9 Day 1.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 8/Computer Security - Week 8 Day 2.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 8/Computer Security - Week 8 Day 1.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 2.md",
     "General Notes/Pasted image 20250423111503.png",
     "General Notes/Pasted image 20250423111456.png",
     "General Notes/Pasted image 20250423111014.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 2.md",
     "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development.md",
     "General Notes/riskanalysis2-1024x837.png",
     "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development - Week 13 Day 1.md",
@@ -364,17 +369,10 @@
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/High Noise Margin, Digital Logic Design using Josephson Junction Field-Effect Transistors for Cryogenic Computing.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
     "General Notes/Pasted image 20250421174627.png",
     "General Notes/Pasted image 20250421172409.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
     "General Notes/Pasted image 20250421165920.png",
     "General Notes/Types-of-Firewall.png",
-    "General Notes/firewall-1.webp",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
