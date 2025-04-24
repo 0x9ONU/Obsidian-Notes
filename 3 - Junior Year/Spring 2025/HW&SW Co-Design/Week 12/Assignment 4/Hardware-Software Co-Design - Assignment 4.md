@@ -106,8 +106,13 @@ The authors then go onto testing each of their variations. They used 22nm PTM HP
 
 #### Study 2: “Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes” [6]
 
+To solve the problem with noise margins, the authors of this paper decided it would be best to change the layout of a standard cell entirely instead of just scaling it’s length and width. Specifically, they investigate the stability and performance of their standard cell by evaluating SNM, read SNM (RSNM), write SNM (WSNM), delay, power, and scalability to test it against the standard benchmark cells. Figure 12 below shows the schematic diagram of the proposed 6T SRAM cell":
+
 ![[Pasted image 20250424141832.png | center]]
-<center><b> Figure 12</b>:   [6]</center>
+<center><b> Figure 12</b>:  Schematic Diagram of 6T SRAM Cell [6]</center>
+
+As shown above, the six transistors are placed in such a way to create two main components: cross-coupled inverters and access transistors. The two inverters, made out of an NMOS and PMOS ($M1 + M2$ or $M3 + M4$) allow for the internal storage of a bit, while the access transistors allow the SRAM cell to be accessed by data lines. Unlike DRAM, this allows both `0` or `1` to be stored within the cell with 
+
 #### Study 3: “Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization” [7]
 
 #### Study 4: “Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells” [8]
