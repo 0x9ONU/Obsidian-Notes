@@ -106,11 +106,13 @@ The authors then go onto testing each of their variations. They used 22nm PTM HP
 
 #### Study 2: “Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes” [6]
 
+![[Pasted image 20250424141832.png | center]]
+<center><b> Figure 12</b>:   [6]</center>
 #### Study 3: “Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization” [7]
 
 #### Study 4: “Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells” [8]
 
-#### Study 5: “Review of Offset and Noise Reduction Techniques for CMOS Amplifiers” [9]
+#### Study 5: “A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers” [9]
 
 ### Case Studies
 
@@ -124,11 +126,11 @@ The authors then go onto testing each of their variations. They used 22nm PTM HP
 [2] R. Islam and M. R. Guthaus, “[[Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop]],” _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 62, no. 4, pp. 1156–1164, Apr. 2015. doi:10.1109/tcsi.2015.2402938
 [3] D. Challagundla, M. Galib, I. Bezzam, and R. Islam, “[[Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks]],” _2022 IEEE International Symposium on Circuits and Systems (ISCAS)_, pp. 268–272, May 2022. doi:10.1109/iscas48785.2022.9937771
 [4] S. A. Beheshti-Shirazi _et al._, “[[A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop]],” _Proceedings of the 2021 Great Lakes Symposium on VLSI_, pp. 181–187, Jun. 2021. doi:10.1145/3453688.3461754
-[5] C. A. Dos Reis, “[[Review of Offset and Noise Reduction Techniques for CMOS Amplifiers]],” _Journal of Integrated Circuits and Systems_, vol. 17, no. 1, pp. 1–9, Apr. 2022. doi:10.29292/jics.v17i1.572
-[6] A. Beg, “[[Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation]],” _International Journal of Circuit Theory and Applications_, vol. 43, no. 11, pp. 1637–1654, Oct. 2014. doi:10.1002/cta.2031
-[7] M. Devi, C. Madhu, and N. Garg, “[[Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes]],” _Materials Today: Proceedings_, vol. 28, pp. 1695–1700, 2020. doi:10.1016/j.matpr.2020.05.130
-[8] S. Saun and H. Kumar, “[[Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization]],” _IOP Conference Series: Materials Science and Engineering_, vol. 561, no. 1, p. 012093, Oct. 2019. doi:10.1088/1757-899x/561/1/012093
-[9] N. Zheng and P. Mazumder, “[[Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells]],” _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 64, no. 10, pp. 2726–2736, Oct. 2017. doi:10.1109/tcsi.2017.2700818
+[5] A. Beg, “[[Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation]],” _International Journal of Circuit Theory and Applications_, vol. 43, no. 11, pp. 1637–1654, Oct. 2014. doi:10.1002/cta.2031
+[6] M. Devi, C. Madhu, and N. Garg, “[[Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes]],” _Materials Today: Proceedings_, vol. 28, pp. 1695–1700, 2020. doi:10.1016/j.matpr.2020.05.130
+[7] S. Saun and H. Kumar, “[[Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization]],” _IOP Conference Series: Materials Science and Engineering_, vol. 561, no. 1, p. 012093, Oct. 2019. doi:10.1088/1757-899x/561/1/012093
+[8] N. Zheng and P. Mazumder, “[[Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells]],” _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 64, no. 10, pp. 2726–2736, Oct. 2017. doi:10.1109/tcsi.2017.2700818
+[9] C. A. Dos Reis, “[[A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers]],” _Journal of Integrated Circuits and Systems_, vol. 17, no. 1, pp. 1–9, Apr. 2022. doi:10.29292/jics.v17i1.572
 
 
 
