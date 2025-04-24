@@ -102,7 +102,7 @@ Knowing this, the authors propose three different methods: setting an optimal ch
 ![[Pasted image 20250424132848.png | center]]
 <center><b> Figure 11</b>:  The PID-Controller-Based Transistor Sizing Scheme for Gates  [5]</center>
 
-The authors then go onto testing each of their variations. They used 22nm PTM HP models with BSIMv4v.7 simulation software to test out their theoretical chips. Within the simulation, they measured the SNM, power, delay, area, and failures rates under each of the different schemes and variations in $V_{th}$.
+The authors then go onto testing each of their variations. They used 22nm PTM HP models with BSIMv4v.7 simulation software to test out their theoretical chips. Within the simulation, they measured the SNM, power, delay, area, and failures rates under each of the different schemes and variations in $V_{th}$. After measuring everything, they found that the optimal-$L$ gates maintain a higher SNM for $V_{DD}=0.4 \to 0.8V$ with a reduction of failures by 90%. They also found that Type-III gates as exhibit better power advantages over the other variations at the cost of a slightly higher delay and larger size. Even though the authors admit that the larger $L$ and changing $W$ provide higher delays and design complexity with the automated PID controller, the authors believe that these methodologies could be scalable for standard-cell libraries to help create more stable and power efficient gates, even with $V_{DD}$ approaching the noise margin of transistors.
 
 #### Study 2: “Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes” [6]
 
