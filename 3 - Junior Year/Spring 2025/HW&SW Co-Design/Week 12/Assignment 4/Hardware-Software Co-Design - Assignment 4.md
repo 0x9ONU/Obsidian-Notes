@@ -123,7 +123,7 @@ To test the validity of the proposed SRAM cell, a set of BSIM3 PTM models were u
 
 #### Study 3: “Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells” [7]
 
-The authors of this paper understood that when creating an SRAM design for lower-power system, especially when in the subthreshold region. However due to a lowered SNM as $V_{DD}$ is scaled closer and closer to the noise margins and $V_{th}$, the cell becomes much less stable and can become inaccurate due to silicon variations and 
+The authors of this paper understood that when creating an SRAM design for lower-power system, especially when in the subthreshold region. However due to a lowered SNM as $V_{DD}$ is scaled closer and closer to the noise margins and $V_{th}$, the cell becomes much less stable and can become inaccurate due to silicon variations and yield degradation. They also find that the current solutions that try to solve the problem are not getting close enough. Normal SRAM SNM models often fail after falling below $V_{th}$ and existing body biasing techniques for silicon mitigation have many drawbacks. Therefore, the authors proposed two concepts: a way to better deal with SNM through **statistical SNM modeling**, and an **adaptive body biasing circuit** that can adjust a PMOS’ body bias to stabilize the SNM. 
 
 #### Study 4: “A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers” [8]
 

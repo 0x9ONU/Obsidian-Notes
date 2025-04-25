@@ -53,8 +53,7 @@ The paper addresses a critical challenge in **low-power SRAM (Static Random-Acce
 
 ## (B) Adaptive Body Biasing Circuit
 
-1. **Circuit Design** (Fig. 12–15):
-    
+1. **Circuit Design** (Fig. 12–15)
     - **Feedback loop**: Senses global $V_T$​ variations and adjusts PMOS body bias to stabilize SNM.
         
     - **Key Features**:
