@@ -120,10 +120,13 @@ To test the validity of the proposed SRAM cell, a set of BSIM3 PTM models were u
 ![[Drawing 2025-04-24 21.40.30.excalidraw | center]]
 <center><b> Figure 13</b>: Experimental results of (a) HSNM, (b) RSNM, (c) WSNM [6]</center>
 
-
 #### Study 3: “Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells” [7]
 
-The authors of this paper understood that when creating an SRAM design for lower-power system, especially when in the subthreshold region. However due to a lowered SNM as $V_{DD}$ is scaled closer and closer to the noise margins and $V_{th}$, the cell becomes much less stable and can become inaccurate due to silicon variations and yield degradation. They also find that the current solutions that try to solve the problem are not getting close enough. Normal SRAM SNM models often fail after falling below $V_{th}$ and existing body biasing techniques for silicon mitigation have many drawbacks. Therefore, the authors proposed two concepts: a way to better deal with SNM through **statistical SNM modeling**, and an **adaptive body biasing circuit** that can adjust a PMOS’ body bias to stabilize the SNM. 
+The authors of this paper understood that when creating an SRAM design for lower-power system, especially when in the subthreshold region. However due to a lowered SNM as $V_{DD}$ is scaled closer and closer to the noise margins and $V_{th}$, the cell becomes much less stable and can become inaccurate due to silicon variations and yield degradation. They also find that the current solutions that try to solve the problem are not getting close enough. Normal SRAM SNM models often fail after falling below $V_{th}$ and existing body biasing techniques for silicon mitigation have many drawbacks. Therefore, the authors proposed two concepts: a way to better deal with SNM through **statistical SNM modeling**, and an **adaptive body biasing circuit** that can adjust a PMOS’ body bias to stabilize the SNM. Figure 14 below shows the schematic of the 8T SRAM cell used in the experiment:
+
+![[Pasted image 20250424230816.png | center]]
+<center><b> Figure 14</b>: Schematic of an 8T SRAM Cell [7]</center>
+
 
 #### Study 4: “A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers” [8]
 
