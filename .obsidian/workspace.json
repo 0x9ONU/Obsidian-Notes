@@ -24,7 +24,7 @@
         ]
       },
       {
-        "id": "ec47304989932123",
+        "id": "34356961f78600a5",
         "type": "split",
         "children": [
           {
@@ -37,18 +37,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
+                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes"
+                  "title": "Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization"
                 }
               }
             ]
           },
           {
-            "id": "2282f613014dee91",
+            "id": "70ae10f55cc20758",
             "type": "tabs",
             "children": [
               {
@@ -57,10 +57,10 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and analysis of CMOS based 6T SRAM cell at different technology.pdf"
+                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and performance analysis of 6T SRAM cell on.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Design and analysis of CMOS based 6T SRAM cell at different technology"
+                  "title": "Design and performance analysis of 6T SRAM cell on"
                 }
               }
             ]
@@ -129,8 +129,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -356,16 +355,20 @@
   },
   "active": "8a85fd522fde4307",
   "lastOpenFiles": [
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 3.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and analysis of CMOS based 6T SRAM cell at different technology.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+    "Excalidraw/Drawing 2025-04-24 21.40.30.excalidraw.md",
+    "General Notes/Pasted Image 20250424214541_307.png",
+    "General Notes/Pasted Image 20250424214514_153.png",
+    "General Notes/Pasted Image 20250424214446_387.png",
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 3.md",
     "Untitled Kanban 1.md",
     "balls.md",
     "Untitled Kanban.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
     "General Notes/Pasted image 20250424141832.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and analysis of CMOS based 6T SRAM cell at different technology.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
@@ -390,8 +393,6 @@
     "General Notes/Pasted image 20250423111014.png",
     "General Notes/riskanalysis2-1024x837.png",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Operating Systems - Week 10 Day 1.md",
-    "General Notes/Pasted image 20250407082049.png",
-    "General Notes/Pasted image 20250331081442.png",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Operating Systems - Interview Day 3 Assignment.md",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
@@ -399,9 +400,6 @@
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/Summaries/Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
-    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
-    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
-    "General Notes/Pasted image 20250421174627.png",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
