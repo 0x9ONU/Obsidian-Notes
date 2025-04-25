@@ -111,8 +111,7 @@ To solve the problem with noise margins, the authors of this paper decided it wo
 ![[Pasted image 20250424141832.png | center]]
 <center><b> Figure 12</b>:  Schematic Diagram of 6T SRAM Cell [6]</center>
 
-As shown above, the six transistors are placed in such a way to create two main components: cross-coupled inverters and access transistors. The two inverters, made out of an NMOS and PMOS ($M1 + M2$ or $M3 + M4$) allow for the internal storage of a bit, while the access transistors allow the SRAM cell to be accessed by data lines. Unlike DRAM, this allows both `0` or `1` to be stored within the cell with 
-
+As shown above, the six transistors are placed in such a way to create two main components: cross-coupled inverters and access transistors. The two inverters, made out of an NMOS and PMOS ($M1 + M2$ or $M3 + M4$) allow for the internal storage of a bit, while the access transistors allow the SRAM cell to be accessed by data lines. Unlike DRAM, this allows both `0` or `1` to be stored within the cell without a refresh on the transistor, which send up being much faster. Due to the transistor, the SRAM cell is able to do three different operations: hold, read, and write.
 #### Study 3: “Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization” [7]
 
 #### Study 4: “Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells” [8]
