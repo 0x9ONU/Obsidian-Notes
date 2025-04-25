@@ -127,7 +127,7 @@ The authors of this paper understood that when creating an SRAM design for lower
 ![[Pasted image 20250424230816.png | center]]
 <center><b> Figure 14</b>: Schematic of an 8T SRAM Cell [7]</center>
 
-For statistical SNM modeling, the authors propose three different techniques to help overcome subthreshold SRAM cells. 
+For statistical SNM modeling, the authors propose three different techniques to help overcome subthreshold SRAM cells. The first technique utilizes the same concept of the previous paper with trying to keep $V_{th} \approx V_{DD}/2$, which helps in allowing for subthreshold CMOS operation [6]. The second technique incorporates a mapping function $g(s)$ which takes a weight sum of gaussians and maps shifts in $V_{th}$ to changes in SNM. These summations can be used to create a piecewise linear approximation of $g(s)$ to find the best $V_{th}$ for each type of SNM. 
 
 #### Study 4: “A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers” [8]
 
