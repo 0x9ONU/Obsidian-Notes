@@ -24,49 +24,37 @@
         ]
       },
       {
-        "id": "f9d26907687b842d",
-        "type": "split",
+        "id": "8c093fb002747cff",
+        "type": "tabs",
         "children": [
           {
-            "id": "8c093fb002747cff",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eae3c02759f5294d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers"
-                }
-              }
-            ]
+            "id": "eae3c02759f5294d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers"
+            }
           },
           {
-            "id": "e502f62fb4a67607",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a29d6b42815ee976",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "A Review of Offset and Noise Reduction Techniques for CMOS"
-                }
-              }
-            ]
+            "id": "a29d6b42815ee976",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A Review of Offset and Noise Reduction Techniques for CMOS"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -355,10 +343,11 @@
   },
   "active": "8a85fd522fde4307",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
-    "General Notes/Pasted image 20250425003005.png",
+    "General Notes/Pasted image 20250425011639.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
+    "General Notes/Pasted image 20250425003005.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf",
     "General Notes/Pasted image 20250425000617.png",

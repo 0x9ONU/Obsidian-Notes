@@ -69,8 +69,7 @@ To mitigate trade-offs, modern designs combine AZ and CHS with innovations:
     
     - **Notch filters** (e.g., switched-capacitor or continuous-time) suppress ripple.
         
-    - Example: A design achieved **2 µV offset** and **55 nV/√Hz noise** by filtering chopper artifacts.
-        
+    - Example: A design achieved **2 µV offset** and **55 nV/√Hz noise** by filtering chopper artifacts
 
 ## B. Spread-Spectrum Chopping
 
