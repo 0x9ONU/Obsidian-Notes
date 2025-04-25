@@ -127,9 +127,16 @@ The authors of this paper understood that when creating an SRAM design for lower
 ![[Pasted image 20250424230816.png | center]]
 <center><b> Figure 14</b>: Schematic of an 8T SRAM Cell [7]</center>
 
-For statistical SNM modeling, the authors propose three different techniques to help overcome subthreshold SRAM cells. The first technique utilizes the same concept of the previous paper with trying to keep $V_{th} \approx V_{DD}/2$, which helps in allowing for subthreshold CMOS operation [6]. The second technique incorporates a mapping function $g(s)$ which takes a weight sum of gaussians and maps shifts in $V_{th}$ to changes in SNM. These summations can be used to create a piecewise linear approximation of $g(s)$ to find the best $V_{th}$ for each type of SNM. 
+For statistical SNM modeling, the authors propose four different techniques to help overcome subthreshold SRAM cells. The first technique utilizes the same concept of the previous paper with trying to keep $V_{th} \approx V_{DD}/2$, which helps in allowing for subthreshold CMOS operation [6]. The second technique incorporates a mapping function $g(s)$ which takes a weight sum of gaussians and maps shifts in $V_{th}$ to changes in SNM. These summations can be used to create a piecewise linear approximation of $g(s)$ to find the best $V_{th}$ for each type of SNM. From there, the third technique of double-sided SNM ($SNM_d$) is a method to better predict the SNM statistics that is able to match simulations more closely and outperform linear superposition methods. The fourth technique allows for the $V_{DD}$ to be adapted based on the results from the mapping function for multiple $V_{th}$ values. Using these techniques allow for the *estimation* of how $V_{DD}$ should change for different $V_{th}$, which can be helpful in designing a cell based on which value you know.
+
+In terms of adaptive body biasing, the authors generated a circuit that is able to adjust a PMOS body to stabilize $V_{th}$ to a certain value and allow SNM to be improved. In particular, it uses a set of simple CMOS inverters that are connected to each other. Most interestingly, they introduce a “pseudo-resistor” in the middle of the inverts to introduce an offset if the sensor senses a shift in $V_{th}$. It is inspired off of ring amplifiers which are one of the most simple amplifiers. They are similar to ring oscillators, but they instead provide stable amplification instead of a clock signal. After tested in simulations, the authors found that there was a 15% improvement over the worst-case SNM with only a <1% power/area in a 100kB array. Even though this method is powerful, it does not consider local mismatches, which can cause problems at more isolated areas. Figure 15 below shows an implementation example of the mitigation circuit:
+
+![[Pasted image 20250425000617.png | center]]
+<center><b> Figure 15</b>: One Example of Generating Body Bias to Mitigate the Read SNM Degradation When Global Variation is Present [7]</center>
 
 #### Study 4: “A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers” [8]
+
+
 
 ### Solutions & Mitigation Techniques Comparison
 

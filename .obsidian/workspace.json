@@ -24,7 +24,7 @@
         ]
       },
       {
-        "id": "50d3e6e0a9a3fbd5",
+        "id": "f9d26907687b842d",
         "type": "split",
         "children": [
           {
@@ -32,35 +32,35 @@
             "type": "tabs",
             "children": [
               {
-                "id": "f40c32cf2fe7e7fd",
+                "id": "eae3c02759f5294d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
+                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells"
+                  "title": "A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers"
                 }
               }
             ]
           },
           {
-            "id": "099cccdb66aa36a1",
+            "id": "e502f62fb4a67607",
             "type": "tabs",
             "children": [
               {
-                "id": "d8a242788c245c30",
+                "id": "a29d6b42815ee976",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf"
+                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells"
+                  "title": "A Review of Offset and Noise Reduction Techniques for CMOS"
                 }
               }
             ]
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -355,9 +354,13 @@
   },
   "active": "8a85fd522fde4307",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+    "General Notes/Pasted image 20250425000617.png",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
     "General Notes/Pasted image 20250424230816.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/HWSW - Week 9 Day 3.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 10/HWSW - Week 10 Day 1.md",
@@ -377,8 +380,6 @@
     "Untitled Kanban.md",
     "General Notes/Pasted image 20250424141832.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Assignment 4 Summary.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Automating the Sizing.pdf",
     "General Notes/Pasted image 20250424132848.png",
@@ -394,12 +395,10 @@
     "3 - Junior Year/Spring 2025/Computer Security/Week 8/Computer Security - Week 8 Day 2.md",
     "General Notes/Pasted image 20250423111503.png",
     "General Notes/Pasted image 20250423111456.png",
-    "General Notes/Pasted image 20250423111014.png",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Design and analysis of CMOS based 6T SRAM cell at different technology.pdf",
     "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
-    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
