@@ -86,9 +86,9 @@ The framework of the RL model was laid out in a clever way. Much like other rein
 When comparing each of the solutions, there are multiple different ways each paper focused on how to either solve or mitigate the problems around clock skew. The first paper tried to solve the issue by minimizing aging-constraints and variable silicon differences on gates and making sure that $V_{th}$ is consistent so that DVFS can be used without any worries [1]. The second paper tried to improve how the clock distribution networks (CDN)  by using a novel CM-based CND that improves power draw, decrease clock skew/jitter, and adds an enable system to reduce static power draw [2]. The third paper changed the architecture by introducing inductive elements to balance out the conductive loads to improve on clock skew and power draw [3]. The fourth paper instead controlled when skew could happen to ensure that current spikes do not lead to jitter and skew of their own [4]. The cool part about all these solutions is the fact that a hybrid approach can be taken for implementation. For example, the first paper’s consistency for $V_{th}$ can be combined with the resonant architecture from paper three and create a method that will cover each other’s backs [1, 3]. However, paper four also has a good lesson to learn about how clock skew must be balanced. Without a little bit of clock skew, the circuit can become too synchronous and lead to a current that is too high. Because of that, paper four’s controlled amount of clock skew can help mitigate the downsides of clock skew, but continues to allow DVFS to happen at more frequencies than normally expected [4].
 ## Noise Margins
 
-As the gap between the 
-
 ### Introduction
+
+As the gap between the 
 
 ### Case Studies
 
@@ -136,6 +136,12 @@ In terms of adaptive body biasing, the authors generated a circuit that is able 
 
 #### Study 4: “A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers” [8]
 
+Unlike the previous few papers, the authors of this work decide to focus on CMOS amplifiers. They found that as $V_{DD}$ decreases, the danger of reduce noise margins are particularly worrisome for precision analog amplifiers. However, they worry that just simply lowering the noise/offset will lead to higher power draw, more bulky chips, and a higher bandwidth needed to support the chip. Therefore, they look into designing an amplifier architecture that uses a hybrid approach that tries to eliminate noise in the system so that they do not pass the noise margins without dramatically increasing the size and power draw of the transistor. Figure 16 below illustrates the foundational architecture, the current-feedback instrumentation amplifier (CFIA), use throughout the paper:
+
+![[Pasted image 20250425003005.png | center]]
+<center><b> Figure 16</b>: Simplified Structure of the Indirect Feedback Instrumentation Amplifier [8]</center>
+
+To accomplish this, the author focuses on two core techniques for noise reduction: **auto-zeroing (AZ)** and **chopper stabilization (CHS)**. 
 
 
 ### Solutions & Mitigation Techniques Comparison
