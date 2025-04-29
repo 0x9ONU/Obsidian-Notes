@@ -8,7 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53a7c539f46d9dd9",
+            "id": "2dfa98568a80017f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/Computer Security/Week 14/Computer Security - Week 14 Day 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Security - Week 14 Day 1"
+            }
+          },
+          {
+            "id": "38fbcbac25e8f54e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Summer Research/Papers/256x256_CMOS_Imaging_HDR_ Array (2).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "256x256_CMOS_Imaging_HDR_ Array (2)"
+            }
+          },
+          {
+            "id": "ce56c831810e3458",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -268,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 3.md",
+                "file": "3 - Junior Year/Spring 2025/Computer Security/Week 14/Computer Security - Week 14 Day 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HWSW - Week 13 Day 3"
+              "title": "Outline of Computer Security - Week 14 Day 1"
             }
           }
         ]
@@ -308,11 +334,38 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "53a7c539f46d9dd9",
+  "active": "2dfa98568a80017f",
   "lastOpenFiles": [
+    "General Notes/Pasted image 20250428144640.png",
+    "General Notes/Pasted image 20250428144526.png",
+    "General Notes/Pasted image 20250428144415.png",
+    "General Notes/Pasted image 20250428144317.png",
+    "General Notes/Pasted image 20250428144253.png",
+    "General Notes/Pasted image 20250428144247.png",
+    "General Notes/Pasted image 20250428143641.png",
+    "General Notes/b.png",
+    "General Notes/maxresdefault.jpg",
+    "General Notes/Pasted image 20250428142135.png",
+    "General Notes/Pasted image 20250428140828.png",
+    "3 - Junior Year/Summer Research/Papers/A 256 x 256 CMOS Imaging Array with Wide Dynamic Range Pixels and Column-Parallel Digital Output.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 14/Computer Security - Week 14 Day 1.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/HWSW - Week 14 Day 1.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 14",
+    "3 - Junior Year/Summer Research/Papers/256x256_CMOS_Imaging_HDR_ Array (2).pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14",
+    "3 - Junior Year/Spring 2025/Project Development/Week 10/Project Development - Week 10 Day 1.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 14/Project Development - Week 14 Day 1.md",
+    "3 - Junior Year/Spring 2025/Operating Systems/Week 14/Operating System - Week 14 Day 1.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 14",
+    "3 - Junior Year/Spring 2025/Operating Systems/Week 14/Materials/week14a_memory_management_DRAFT.pdf",
+    "General Notes/Operating System - Week 14 Day 1 2025-04-28 08.38.33.excalidraw.md",
+    "3 - Junior Year/Spring 2025/Operating Systems/Week 14/Materials",
+    "General Notes/Operating System - Week 14 Day 1 2025-04-28 08.28.35.excalidraw.md",
+    "General Notes/Operating System - Week 14 Day 1 2025-04-28 08.20.24.excalidraw.md",
+    "General Notes/Operating System - Week 14 Day 1 2025-04-28 08.14.07.excalidraw.md",
+    "3 - Junior Year/Spring 2025/Operating Systems/Week 14",
     "3 - Junior Year/Summer Research/Papers",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-    "3 - Junior Year/Summer Research/Papers/A 256 x 256 CMOS Imaging Array with Wide Dynamic Range Pixels and Column-Parallel Digital Output.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 3.md",
     "Untitled Kanban 2.md",
     "adc.md",
@@ -320,42 +373,15 @@
     "3 - Junior Year/Spring 2025/Operating Systems/Week 13/Operating Systems - Week 13 Day 3.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 13/Operating Systems - Week 13 Day 1.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
-    "General Notes/Pasted image 20250425011639.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
-    "General Notes/Pasted image 20250425003005.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf",
-    "General Notes/Pasted image 20250425000617.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
-    "General Notes/Pasted image 20250424230816.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/HWSW - Week 9 Day 3.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 10/HWSW - Week 10 Day 1.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 10/HWSW - Week 10 Day 2.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 10/HWSW - Week 10 Day 3.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Design and analysis of CMOS based 6T SRAM cell at different technology.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
-    "Excalidraw/Drawing 2025-04-24 21.40.30.excalidraw.md",
-    "General Notes/Pasted Image 20250424214541_307.png",
-    "General Notes/Pasted Image 20250424214514_153.png",
-    "General Notes/Pasted Image 20250424214446_387.png",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 1/Circuits Week 1 - Day 3.md",
-    "Untitled Kanban 1.md",
-    "balls.md",
-    "Untitled Kanban.md",
-    "General Notes/Pasted image 20250424141832.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Assignment 4 Summary.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/Automating the Sizing.pdf",
-    "General Notes/Pasted image 20250424132848.png",
-    "General Notes/Pasted image 20250423193920.png",
-    "3 - Junior Year/Spring 2025/Computer Security/Week 11/Computer Security - Week 11.md",
-    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Modeling_and_Mitigation_of_Static_Noise_Margin_Variation_in_Subthreshold_SRAM_Cells.pdf",
-    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Design and performance analysis of 6T SRAM cell on.pdf",
-    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/Design and analysis of CMOS based 6T SRAM cell at different technology.pdf",
-    "3-JUNI~1/SPRING~1/HW&SWC~1/WEEK12~1/ASSIGN~1/Papers/NOISEM~1/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
