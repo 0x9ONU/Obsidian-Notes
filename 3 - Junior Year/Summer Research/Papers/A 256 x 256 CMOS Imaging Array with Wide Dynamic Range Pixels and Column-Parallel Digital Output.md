@@ -70,7 +70,7 @@ A stepped reset-gate voltage technique is applied to a CMOS active pixel sensor 
 	- Assuming the photocurrent is constant
 	- The barrier curve has $N$ corners and $N$ breakpoints
 	- Levels are chosen so the points are convex upward.
-	- Compression curve always tarts at zero, and limits at the saturation charge $Q_{max}$ for $I \ge I_N$
+	- Compression curve always starts at zero, and limits at the saturation charge $Q_{max}$ for $I \ge I_N$
 	- Barrier levels and departure times can be found to obtain that compression curve
 
 $$\frac{b_1}{b_t} < \frac{b_i-b_{i-1}}{t_i-t_{i-1}} < \frac{b_{i+1-b_i}}{t_{i+1}-t_i} \quad 2 \le i \le N-1$$
