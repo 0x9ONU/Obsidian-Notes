@@ -11,11 +11,12 @@ kanban-plugin: list
 - [ ] [[Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks]]
 - [ ] [[Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators]]
 - [ ] [[Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling]]
+- [ ] [[Dynamic Voltage and Frequency Scaling and Duty-Cycling for Ultra Low-Power Wireless Sensor Nodes]]
+- [ ] [[Nanoscale CMOS Scaling Trends, Challenges and Their Solutions]]
 
 
 ## Information
 
-- [ ] 
 - [ ] [[Assignment 6 Paper Summary]]
 - [ ] [[Lectures]]
 - [ ] [[Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique]]

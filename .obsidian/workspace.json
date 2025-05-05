@@ -6,7 +6,7 @@
       {
         "id": "d3a0f2b510d27db4",
         "type": "tabs",
-        "dimension": 21.39917695473251,
+        "dimension": 20.919067215363512,
         "children": [
           {
             "id": "68b27a3b76166fe6",
@@ -33,57 +33,28 @@
       {
         "id": "9c56183ba5187bfb",
         "type": "tabs",
-        "dimension": 36.55692729766804,
+        "dimension": 33.470507544581615,
         "children": [
           {
-            "id": "baba85df031bcba8",
+            "id": "6a912ec0f82c8b52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.md",
+                "file": "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks"
-            }
-          },
-          {
-            "id": "06069bc289349d44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators"
-            }
-          },
-          {
-            "id": "bae8d89d1d22183f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling"
+              "title": "Power Consumption in CMOS Circuits"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6c6143e64322879e",
         "type": "tabs",
-        "dimension": 42.04389574759945,
+        "dimension": 45.610425240054866,
         "children": [
           {
             "id": "a56d86fab2cd0312",
@@ -98,31 +69,19 @@
             }
           },
           {
-            "id": "b8ab08aaecc2e327",
+            "id": "8f3072b6ac3ca970",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware accelerators.pdf"
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Power Consumption in CMOS.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware accelerators"
-            }
-          },
-          {
-            "id": "6c7c5722f1c85628",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling"
+              "title": "Power Consumption in CMOS"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Kanban/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.md",
+                "file": "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling"
+              "title": "Outline of Power Consumption in CMOS Circuits"
             }
           }
         ]
@@ -380,18 +339,22 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "bae8d89d1d22183f",
+  "active": "6a912ec0f82c8b52",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.pdf",
-    "General Notes/Kanban/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Power Consumption in CMOS.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Process Cruise ControlEvent-Driven Clock Scaling for Dynamic Power Management.pdf",
+    "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
+    "General Notes/Kanban/Nanoscale CMOS Scaling Trends, Challenges and Their Solutions.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Nanoscale CMOS Scaling Trends, Challenges and Their Solutions.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Dynamic Voltage and Frequency Scaling and Duty-Cycling for Ultra Low-Power Wireless Sensor Nodes.pdf",
+    "General Notes/Kanban/Dynamic Voltage and Frequency Scaling and Duty-Cycling for Ultra Low-Power Wireless Sensor Nodes.md",
     "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware accelerators.pdf",
+    "General Notes/Kanban/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Process Cruise ControlEvent-Driven Clock Scaling for Dynamic Power Management.pdf",
     "General Notes/Kanban/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.pdf",
-    "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 1.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 15/Materials",
@@ -409,14 +372,10 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 1.md",
     "General Notes/Kanban/Assignment 6 Paper Summary.md",
     "Figure.md",
-    "General Notes/Kanban",
     "Hardware Trojan Attacks- Threat Analysis and Countermeasures.md",
     "High Res Obama.md",
     "Hardware.md",
     "Figure_9_HWSW_Assignment_1.md",
-    "Untitled Kanban.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6",
-    "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 1.md",
     "General Notes/9cf6ec27f702340e1f2ebd525f61391dbc2fd862-1745x1352.avif",
     "General Notes/Engineering-Decision-Matrix.png",
     "General Notes/Pasted image 20250505084812.png",
