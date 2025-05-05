@@ -48,7 +48,7 @@ Decisions may be:
 One of the most fundamental, yet complex phychological processes perfomed regularly by humans
 ```
 
-## Kinds of Decisons
+## Kinds of Decisions
 
 **Binary Choices**:
 - Only one specific option is accepted or not
