@@ -11,10 +11,14 @@
             "id": "cf2f73aed7696fd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Project Development - Week 15 Day 1"
             }
           }
         ]
@@ -306,6 +310,8 @@
   },
   "active": "cf2f73aed7696fd6",
   "lastOpenFiles": [
+    "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 1.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 15",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Operating Systems - Week 15 Day 1.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Materials/week14c_virtualMemory_DRAFT.pdf",
     "General Notes/Pasted image 20250505084812.png",
@@ -350,7 +356,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14",
     "3 - Junior Year/Spring 2025/Project Development/Week 14",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 14/Materials",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 14",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
