@@ -35,6 +35,11 @@
   "dataview",
   "calendar",
   "obsidian-day-planner",
-  "smart-connections",
-  "better-export-pdf"
+  "better-export-pdf",
+  "obsidian-advanced-slides",
+  "recent-files-obsidian",
+  "obsidian-importer",
+  "obsidian-annotator",
+  "obsidian-projects",
+  "obsidian-latex-suite"
 ]

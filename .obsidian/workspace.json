@@ -118,7 +118,7 @@
       {
         "id": "a7d611c3db60d145",
         "type": "tabs",
-        "dimension": 28.149300155520997,
+        "dimension": 28.14930015552099,
         "children": [
           {
             "id": "cdf31bd7ba117ea7",
@@ -179,20 +179,6 @@
             }
           },
           {
-            "id": "cb8ad455a004a59f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily_Notes/2024-06-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-06-20"
-            }
-          },
-          {
             "id": "3011b259d39f16a9",
             "type": "leaf",
             "state": {
@@ -225,63 +211,13 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "ec48fa0776bd03b7",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f0db742d0f4d7a8b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d7198704dcde4116",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5d41f65b75bc16cd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "dde6e64e684361a6",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ]
       },
       {
         "id": "faf4af5dbfbd6022",
         "type": "tabs",
-        "dimension": 71.85069984447901,
+        "dimension": 35.925349922239505,
         "children": [
           {
             "id": "e9e30e0699b6f543",
@@ -299,11 +235,44 @@
             }
           }
         ]
+      },
+      {
+        "id": "13afd5dd9893adb6",
+        "type": "tabs",
+        "dimension": 17.962674961119752,
+        "children": [
+          {
+            "id": "5d41f65b75bc16cd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      },
+      {
+        "id": "acd0e7b4087d2633",
+        "type": "tabs",
+        "dimension": 17.962674961119752,
+        "children": [
+          {
+            "id": "2d8c0fdbda07a26c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,14 +295,15 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "111c18cc095349af",
+  "active": "897639b16294b390",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/Computer Security/Week 15/Materials",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 1.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 15/Materials",
     "3 - Junior Year/Spring 2025/Computer Security/Week 15",
     "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
     "General Notes/Kanban/Process Cruise Control Event-Driven Clock Scaling for Dynamic Power Management.md",
@@ -376,7 +346,6 @@
     "General Notes/Pasted image 20250505084230.png",
     "General Notes/Pasted image 20250505083912.png",
     "General Notes/Pasted image 20250505083910.png",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Materials",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
