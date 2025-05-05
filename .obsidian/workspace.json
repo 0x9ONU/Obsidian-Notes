@@ -6,7 +6,6 @@
       {
         "id": "9c56183ba5187bfb",
         "type": "tabs",
-        "dimension": 8.841709217952163,
         "children": [
           {
             "id": "9041a396324f18e1",
@@ -27,103 +26,23 @@
               "icon": "lucide-trello",
               "title": "Assignment 6 Board"
             }
-          }
-        ]
-      },
-      {
-        "id": "d41dd07a8cf3e64d",
-        "type": "tabs",
-        "dimension": 60.84385917764042,
-        "children": [
+          },
           {
-            "id": "8272ca5c1f4b4778",
+            "id": "897639b16294b390",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md",
+                "file": "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique"
-            }
-          },
-          {
-            "id": "4ac718e0a795ca7a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks"
-            }
-          },
-          {
-            "id": "5eeeaef9fb3dbf99",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Process Cruise ControlEvent-Driven Clock Scaling for Dynamic Power Management.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Process Cruise ControlEvent-Driven Clock Scaling for Dynamic Power Management"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8027a443835ca4bc",
-        "type": "tabs",
-        "dimension": 30.31443160440742,
-        "children": [
-          {
-            "id": "0d7f185e025ba24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Power Consumption in CMOS Circuits"
-            }
-          },
-          {
-            "id": "ff43d26fa30dcc3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Process Cruise Control Event-Driven Clock Scaling for Dynamic Power Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Process Cruise Control Event-Driven Clock Scaling for Dynamic Power Management"
-            }
-          },
-          {
-            "id": "240a9a48b35172bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks"
+              "title": "Computer Security - Week 15 Day 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -371,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Kanban/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.md",
+                "file": "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks"
+              "title": "Outline of Computer Security - Week 15 Day 1"
             }
           }
         ]
@@ -411,16 +329,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "240a9a48b35172bd",
+  "active": "111c18cc095349af",
   "lastOpenFiles": [
+    "3 - Junior Year/Spring 2025/Computer Security/Week 15/Materials",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 1.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 15",
+    "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
+    "General Notes/Kanban/Process Cruise Control Event-Driven Clock Scaling for Dynamic Power Management.md",
     "General Notes/Kanban/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Power Consumption in CMOS.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Process Cruise ControlEvent-Driven Clock Scaling for Dynamic Power Management.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md",
-    "General Notes/Kanban/Process Cruise Control Event-Driven Clock Scaling for Dynamic Power Management.md",
-    "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
@@ -455,10 +376,7 @@
     "General Notes/Pasted image 20250505084230.png",
     "General Notes/Pasted image 20250505083912.png",
     "General Notes/Pasted image 20250505083910.png",
-    "General Notes/Operating Systems - Week 15 Day 1 2025-05-05 08.21.27.excalidraw.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Materials",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 14/Materials/week14a_memory_management_DRAFT.pdf",
-    "3 - Junior Year/Spring 2025/Project Development/Week 9/Project Development - Week 9 Day 1.md",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
