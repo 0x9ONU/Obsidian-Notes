@@ -13,6 +13,7 @@ kanban-plugin: list
 
 ## Information
 
+- [ ] 
 - [ ] [[Assignment 6 Paper Summary]]
 - [ ] [[Lectures]]
 - [ ] [[Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique]]
