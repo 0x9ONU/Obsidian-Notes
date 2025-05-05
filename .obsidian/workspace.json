@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/HWSW - Week 14 Day 1.md",
+                "file": "3 - Junior Year/Spring 2025/Project Development/Week 9/Project Development - Week 9 Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HWSW - Week 14 Day 1"
+              "title": "Project Development - Week 9 Day 1"
             }
           }
         ]
@@ -303,14 +303,19 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "111c18cc095349af",
+  "active": "6b5300723bd3b96a",
   "lastOpenFiles": [
     "3 - Junior Year/Spring 2025/Project Development/Week 14/Project Development - Week 14 Day 1.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development - Week 13 Day 2.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 13/Project Development - Week 13 Day 1.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 12/Project Development - Week 12 Day 2.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 12/Project Development - Week 12 Day 1.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 11/Project Development - Week 11 Day 1.md",
+    "3 - Junior Year/Spring 2025/Project Development/Week 10/Project Development - Week 10 Day 1.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/HWSW - Week 14 Day 1.md",
     "3 - Junior Year/Summer Research/Meeting Minutes/4-17-2025.md",
     "3 - Junior Year/Summer Research/Papers/A 256 x 256 CMOS Imaging Array with Wide Dynamic Range Pixels and Column-Parallel Digital Output.md",
     "3 - Junior Year/Summer Research/Papers/256x256_CMOS_Imaging_HDR_ Array (2).pdf",
@@ -337,22 +342,16 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 2.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 1.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 13/HWSW - Week 13 Day 2.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/HWSW - Week 14 Day 1.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 14/Computer Security - Week 14 Day 1.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 14",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14",
-    "3 - Junior Year/Spring 2025/Project Development/Week 10/Project Development - Week 10 Day 1.md",
     "3 - Junior Year/Spring 2025/Project Development/Week 14",
     "General Notes/Operating System - Week 14 Day 1 2025-04-28 08.38.33.excalidraw.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 14/Materials",
     "General Notes/Operating System - Week 14 Day 1 2025-04-28 08.28.35.excalidraw.md",
     "General Notes/Operating System - Week 14 Day 1 2025-04-28 08.20.24.excalidraw.md",
-    "General Notes/Operating System - Week 14 Day 1 2025-04-28 08.14.07.excalidraw.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 14",
     "3 - Junior Year/Summer Research/Papers",
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-    "Untitled Kanban 2.md",
-    "adc.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/PDFs/A Review of Offset and Noise Reduction Techniques for CMOS.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/PDFS/A Reinforced Learning Solution for Clock Skew Engineering.pdf",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
