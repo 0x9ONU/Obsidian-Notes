@@ -90,5 +90,9 @@ Smart decision-making is essential when making decisions on a managerial level t
 
 ![[Engineering-Decision-Matrix.png | center]]
 
+## Pugh’s Method
+
+![[9cf6ec27f702340e1f2ebd525f61391dbc2fd862-1745x1352.avif | center]]
+
 
 
