@@ -30,31 +30,153 @@ Process Cruise Control has been implemented on the In- tel XScale architecture, 
 
 ## Summary
 
-### Introduction
+The paper introduces _Process Cruise Control_, a dynamic power management technique for non-real-time operating systems that leverages hardware event counters to optimize clock frequency scaling for individual threads. The goal is to minimize energy consumption while maintaining acceptable performance (e.g., ≤10% performance loss). The method is inspired by automotive cruise control, dynamically adjusting clock speeds based on thread behavior without requiring application modifications.
 
-#### Motivation
+---
 
-#### Challenge
+### **Key Technical Details on CMOS Power Concerns**
 
-#### Background
+#### **1. CMOS Power Consumption Breakdown**
 
-### Objective of Research
+The paper highlights two primary sources of power dissipation in CMOS-based processors:
 
-### Methodology
+- **Dynamic Power (Switching Power)**:
+    
+    - Dominated by charging/discharging capacitive loads during transistor switching.
+        
+    - Proportional to switching frequency ($f$), capacitance ($C$), and voltage squared ($V_{2}$): 
+      $$
+P_{dynamic} \approx C V_{2} f
+$$
+        
+    - Major contributors:
+        
+        - **Processor Core**: Energy depends on instruction type (e.g., arithmetic vs. branches) and functional unit activity.
+            
+        - **Memory Hierarchy**: Caches, MMU, and DRAM consume dynamic power due to frequent accesses and associativity (e.g., tag comparisons in caches).
+            
+        - **Interconnects**: Bus lines consume power from capacitive loading/unloading during data transfers.
+            
+- **Static Power (Leakage Power)**:
+    
+    - Caused by leakage currents in transistors, even when idle.
+        
+    - Depends on voltage ($V$), time, and semiconductor properties.
+        
+    - Significant in:
+        
+        - **DRAM**: Capacitors require periodic refreshing.
+            
+        - **Caches/MMU**: Static power scales with size (e.g., larger caches leak more).
+            
+        - **Idle States**: Voltage regulators and chipset components contribute static power.
+            
 
-### Pros/Cons
+#### **2. Observations from Microbenchmarks**
 
-#### Benefits
+- **CPU-Intensive Workloads**:
+    
+    - Power scales linearly with frequency (Figure 3).
+        
+    - Minimal energy savings at lower frequencies due to fixed OS overhead (e.g., timer interrupts).
+        
+- **Memory-Intensive Workloads**:
+    
+    - Power spikes during memory accesses (e.g., 570 mW to 1220 mW at 733 MHz).
+        
+    - Performance stalls due to memory latency, but energy efficiency improves at lower frequencies (e.g., 22% savings at 333 MHz with 4% performance loss).
+        
 
-#### Disadvantages
+#### **3. Voltage Scaling (DVS) Potential**
 
-### Conclusion
+- The *Intel XScale 80200* used in the study lacked dynamic voltage scaling (DVS), but the authors calculated theoretical savings:
+    
+    - Combining frequency and voltage scaling could reduce energy by **37%** for memory-bound tasks (Figure 12).
+        
+    - Lower voltage reduces both dynamic ($V_{2}$) and leakage power.
+        
 
-#### Results/Findings
+---
 
-#### Closing Remarks
+### **Process Cruise Control Mechanism**
 
-### Future Works
+#### **1. Event-Driven Policy**
 
-### Discussion
+- **Event Counters**: Monitor:
+    
+    - **Memory requests/cycle**: Indicates memory-bound behavior.
+        
+    - **Instructions/cycle**: Measures performance sensitivity to frequency.
+        
+- **Frequency Domains**: Partitioned into lookup tables (matrices) mapping event rates to optimal clock speeds (Figure 6).
+    
+
+#### **2. Implementation (Linux 2.4.18)**
+
+- **Modifications**:
+    
+    - Thread-specific event counters updated during timer interrupts.
+        
+    - Clock speed adjusted at context switches via `/proc/scale` interface.
+        
+- **Overhead**: ~15% scheduler overhead due to counter sampling and frequency switching (Table 2).
+    
+
+#### **3. Results**
+
+- **Energy Savings**:
+    
+    - Up to **22%** for memory-intensive tasks (e.g., `memcpy`).
+        
+    - **4.5%** for mixed workloads (e.g., `ghostscript`).
+        
+- **Performance Impact**: ≤10% slowdown (Table 3).
+    
+
+---
+
+### **Architectural Recommendations**
+
+1. **Dedicated Energy Counters**:
+    
+    - Current performance counters lack granularity for energy profiling (e.g., distinguishing read/write memory energy).
+        
+    - Proposal: Separate counters for kernel/user activity and energy-critical events (Section 5).
+        
+2. **Voltage Scaling Support**:
+    
+    - Hardware should enable simultaneous voltage/frequency scaling for maximal savings.
+        
+
+---
+
+### **Related Work**
+
+- Contrasts with real-time DVS schedulers (e.g., Pillai & Shin, 2001) and performance-centric counters (e.g., Anderson et al., 1997).
+    
+- Highlights SoftWatt (Gurumurthi et al., 2002) as a tool for simulating power management.
+    
+
+---
+
+### **Conclusion**
+
+- **Process Cruise Control** demonstrates that event counters enable efficient per-thread clock scaling, reducing energy without significant performance loss.
+    
+- **CMOS Power Insights**:
+    
+    - Dynamic power dominates in active cores/interconnects; static power is critical in idle states/memory.
+        
+    - Memory-intensive tasks benefit most from frequency scaling.
+        
+    - Voltage scaling (unavailable in the test system) could further enhance savings.
+        
+- **Future Work**: Advocates for hardware enhancements (energy counters, DVS) to refine OS-driven power management.
+    
+
+---
+
+### **Relevance to CMOS Power Concerns**
+
+The paper underscores the interplay between dynamic (switching) and static (leakage) power in modern processors, with practical implications for OS-level power management. It provides empirical data on how architectural components (caches, MMU, DRAM) contribute to energy use and how event-driven policies can mitigate them.
 

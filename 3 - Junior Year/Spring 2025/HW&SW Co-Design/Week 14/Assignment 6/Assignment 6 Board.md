@@ -24,7 +24,7 @@ kanban-plugin: list
 
 ## Schedule
 
-- [ ] - [ ] 📅 2025-05-05 Get Sources
+- [ ] - [x] 📅 2025-05-05 Get Sources ✅ 2025-05-05
 - [ ] - [ ] 📅 2025-05-05  Write Introduction
 - [ ] - [ ] 📅 2025-05-05 Write How it Works
 - [ ] - [ ] 📅 2025-05-06 Write Design Trade-Offs
