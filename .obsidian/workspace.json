@@ -6,7 +6,7 @@
       {
         "id": "91b4c9c2a4b1504d",
         "type": "tabs",
-        "dimension": 11.833171677982543,
+        "dimension": 21.79575051405072,
         "children": [
           {
             "id": "68b27a3b76166fe6",
@@ -33,7 +33,7 @@
       {
         "id": "9c56183ba5187bfb",
         "type": "tabs",
-        "dimension": 23.666343355965086,
+        "dimension": 13.708019191226867,
         "children": [
           {
             "id": "6a912ec0f82c8b52",
@@ -108,7 +108,7 @@
       {
         "id": "6c6143e64322879e",
         "type": "tabs",
-        "dimension": 64.50048496605238,
+        "dimension": 64.49623029472241,
         "children": [
           {
             "id": "a56d86fab2cd0312",
@@ -147,29 +147,17 @@
             }
           },
           {
-            "id": "6b79f9d2be52a9df",
+            "id": "49022bfefc56bfc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Operating Systems - Final Review Day.md",
+                "file": "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating Systems - Final Review Day"
-            }
-          },
-          {
-            "id": "6d8ff9c6d86d282d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Materials/week09c_deadlockAndStarvation_DRAFT.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "week09c_deadlockAndStarvation_DRAFT"
+              "title": "Project Development - Week 15 Day 2"
             }
           }
         ],
@@ -240,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -356,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Operating Systems - Final Review Day.md",
+                "file": "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operating Systems - Final Review Day"
+              "title": "Outline of Project Development - Week 15 Day 2"
             }
           }
         ]
@@ -430,16 +419,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6b79f9d2be52a9df",
+  "active": "49022bfefc56bfc9",
   "lastOpenFiles": [
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
     "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
-    "General Notes/Pasted Image 20250507084254_460.png",
+    "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Operating Systems - Final Review Day.md",
+    "General Notes/Pasted Image 20250507084254_460.png",
     "General Notes/Operating Systems - Final Review Day 2025-05-07 08.42.51.excalidraw.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Materials/week09c_deadlockAndStarvation_DRAFT.pdf",
     "General Notes/Pasted image 20250507083841.png",
     "General Notes/Pasted image 20250507083828.png",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Materials/finalStudyGuide_eccs3661_25S.pdf",
     "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware accelerators.pdf",
