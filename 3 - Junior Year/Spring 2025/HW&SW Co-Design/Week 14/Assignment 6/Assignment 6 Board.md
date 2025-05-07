@@ -8,6 +8,7 @@ kanban-plugin: list
 
 - [ ] [[Power Consumption in CMOS Circuits]]
 - [ ] [[Process Cruise Control Event-Driven Clock Scaling for Dynamic Power Management]]
+- [ ] 
 - [ ] [[Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks]]
 - [ ] [[Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators]]
 - [ ] [[Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling]]
