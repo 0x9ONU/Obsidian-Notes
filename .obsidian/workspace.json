@@ -152,12 +152,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
+                "file": "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Development - Week 15 Day 2"
+              "title": "Computer Security - Week 15 Day 2"
             }
           }
         ],
@@ -228,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -345,13 +344,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
+                "file": "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Development - Week 15 Day 2"
+              "title": "Outline of Computer Security - Week 15 Day 2"
             }
           }
         ]
@@ -421,9 +420,10 @@
   },
   "active": "49022bfefc56bfc9",
   "lastOpenFiles": [
+    "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
+    "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 2.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
     "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
-    "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Operating Systems - Final Review Day.md",
     "General Notes/Pasted Image 20250507084254_460.png",
     "General Notes/Operating Systems - Final Review Day 2025-05-07 08.42.51.excalidraw.md",
@@ -459,7 +459,6 @@
     "General Notes/Kanban/Assignment 6 Paper Summary.md",
     "Figure.md",
     "Hardware Trojan Attacks- Threat Analysis and Countermeasures.md",
-    "High Res Obama.md",
     "General Notes/9cf6ec27f702340e1f2ebd525f61391dbc2fd862-1745x1352.avif",
     "General Notes/Engineering-Decision-Matrix.png",
     "General Notes/Pasted image 20250505084812.png",
