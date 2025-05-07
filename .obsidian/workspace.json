@@ -228,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -391,7 +392,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -420,6 +422,8 @@
   },
   "active": "49022bfefc56bfc9",
   "lastOpenFiles": [
+    "General Notes/Pasted image 20250507144146.png",
+    "General Notes/Pasted image 20250507143743.png",
     "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
     "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 2.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
@@ -458,14 +462,12 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/HWSW - Week 12 Day 1.md",
     "General Notes/Kanban/Assignment 6 Paper Summary.md",
     "Figure.md",
-    "Hardware Trojan Attacks- Threat Analysis and Countermeasures.md",
     "General Notes/9cf6ec27f702340e1f2ebd525f61391dbc2fd862-1745x1352.avif",
     "General Notes/Engineering-Decision-Matrix.png",
     "General Notes/Pasted image 20250505084812.png",
     "General Notes/Pasted image 20250505084451.png",
     "General Notes/Pasted image 20250505084413.png",
     "General Notes/Pasted image 20250505084410.png",
-    "General Notes/Pasted image 20250505084231.png",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }
