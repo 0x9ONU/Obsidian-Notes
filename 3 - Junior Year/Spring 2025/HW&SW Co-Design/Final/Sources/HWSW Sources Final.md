@@ -23,6 +23,7 @@ kanban-plugin: list
 
 ## Power, Area, and Time
 
+- [ ] [[Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks]]
 
 
 ## Health/Safety

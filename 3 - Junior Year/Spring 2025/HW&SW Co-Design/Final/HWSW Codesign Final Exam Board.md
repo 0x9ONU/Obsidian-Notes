@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: table
+
 ---
 
 ## Schedule
@@ -8,7 +10,7 @@ kanban-plugin: table
 - [ ] - [ ] 📅 2025-05-08 Literature Review
 - [ ] - [ ] 📅 2025-05-08 Write Section 1
 - [ ] - [ ] 📅 2025-05-08 Write Section 2
-- [ ] - [ ] 📅 2025-05-08 Write Section 3
+- [ ] - [ ] 📅 2025-05-09 Write Section 3
 - [ ] - [ ] 📅 2025-05-09 Write Section 4
 - [ ] - [ ] 📅 2025-05-09 Write Section 5
 - [ ] - [ ] 📅 2025-05-09 Write Section 6
@@ -45,6 +47,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false]}
+{"kanban-plugin":"table","list-collapse":[false,false,false]}
 ```
 %%

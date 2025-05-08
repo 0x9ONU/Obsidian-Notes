@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2ffab21429530897",
@@ -422,11 +422,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "21829329bff26f79",
+  "active": "a9067f8df0252ee8",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
-    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
+    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
     "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/1_MixedSignal_Sect1.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/11_MixedSignal_index.pdf",
@@ -440,7 +442,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/4_MixedSignal_Sect4.pdf",
     "General Notes/Kanban/What is a neural processing unit (NPU).md",
     "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
     "General Notes/Kanban/HWSW Final Exam Sources.md",
     "FPGA-based AI Smart NICs for Scalable.md",
     "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
@@ -459,7 +460,6 @@
     "General Notes/Kanban/Section 5 Health, Safety, and Environmental.md",
     "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md",
     "General Notes/Kanban/Section 3 Simplifying the Design.md",
-    "General Notes/Kanban/Section 2 Minimal Feature Set.md",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",
