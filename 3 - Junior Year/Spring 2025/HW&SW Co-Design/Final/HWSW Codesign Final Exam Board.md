@@ -1,20 +1,29 @@
 ---
-
-kanban-plugin: list
-
+kanban-plugin: table
 ---
-
-## Sources
-
-
 
 ## Schedule
 
+- [ ] - [ ] 📅 2025-05-08 Find Sources
+- [ ] - [ ] 📅 2025-05-08 Literature Review
+- [ ] - [ ] 📅 2025-05-08 Write Section 1
+- [ ] - [ ] 📅 2025-05-08 Write Section 2
+- [ ] - [ ] 📅 2025-05-08 Write Section 3
+- [ ] - [ ] 📅 2025-05-09 Write Section 4
+- [ ] - [ ] 📅 2025-05-09 Write Section 5
+- [ ] - [ ] 📅 2025-05-09 Write Section 6
+- [ ] - [ ] 📅 2025-05-09 Write Section 7
+- [ ] - [ ] 📅 2025-05-10 Write Section 8
+- [ ] - [ ] 📅 2025-05-10 Write Section 9
+- [ ] - [ ] 📅 2025-05-10 Write Section 10
+- [ ] - [ ] 📅 2025-05-11 Final Previews/Checks with Others
+- [ ] - [ ] 📅 2025-05-11 Turn In Final
 
 
 ## Information
 
 - [ ] [[HWSW Final Exam Info Sheet]]
+- [ ] [[HWSW Final Exam Sources]]
 
 
 ## Paper
@@ -36,6 +45,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false]}
 ```
 %%
