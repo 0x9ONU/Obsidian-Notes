@@ -57,20 +57,39 @@
         "currentTab": 1
       },
       {
-        "id": "d57d510486db7bbe",
+        "id": "00f4707735fe156f",
         "type": "tabs",
         "children": [
           {
-            "id": "6e4fe73e7e2311be",
+            "id": "088042b9f1f7ab40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance"
+            }
+          },
+          {
+            "id": "1eff5c94e4d10568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -91,7 +110,7 @@
             }
           },
           {
-            "id": "c8f68b7a6c9b98e3",
+            "id": "455d62d2f76cacab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,21 +122,9 @@
               "icon": "lucide-file",
               "title": "HWSW Final Exam Info Sheet"
             }
-          },
-          {
-            "id": "e22772bc7d13bebb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ARM Cortex-A9 Processor.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ARM Cortex-A9 Processor"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Circuits",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -375,17 +382,21 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6e4fe73e7e2311be",
+  "active": "1eff5c94e4d10568",
   "lastOpenFiles": [
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Comparison study of hardware architectures performance between FPGA and DSP processor for implementing digital signal processing algorithms - Application of FIR digital filter.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md",
+    "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
+    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
+    "General Notes/Kanban/Section 1 Target Application.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ARM Cortex-A9 Processor.pdf",
     "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
     "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
     "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ARM Cortex-A9 Processor.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
-    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/What is an FPGA_ _ Uses, Applications & Advantages – Digilent Blog.pdf",
-    "General Notes/Kanban/Section 1 Target Application.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ZedBaord Hardware User's Guide.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs",
     "General Notes/Kanban/HWSW Final Exam Sources.md",
@@ -411,10 +422,7 @@
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
-    "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Operating Systems - Final Review Day.md",
     "General Notes/Pasted Image 20250507084254_460.png",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Materials/week09c_deadlockAndStarvation_DRAFT.pdf",
     "General Notes/Pasted image 20250507083841.png",
     "General Notes/Pasted image 20250507083828.png",
     "General Notes/9cf6ec27f702340e1f2ebd525f61391dbc2fd862-1745x1352.avif",
