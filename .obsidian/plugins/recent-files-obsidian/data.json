@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Hardware-Software Co-Design - Assignment 4",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md"
+    },
+    {
+      "basename": "HWSW Sources Final",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "HWSW Final Exam Info Sheet",
+      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+    },
+    {
+      "basename": "Mixed Signal and DSP Design Techniques",
+      "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
+    },
+    {
+      "basename": "1_MixedSignal_Sect1",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/1_MixedSignal_Sect1.pdf"
+    },
+    {
+      "basename": "11_MixedSignal_index",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/11_MixedSignal_index.pdf"
+    },
+    {
+      "basename": "0_MixedSignal_Outline",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/0_MixedSignal_Outline.pdf"
+    },
+    {
+      "basename": "10_MixedSignal_Sect10",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/10_MixedSignal_Sect10.pdf"
+    },
+    {
+      "basename": "9_MixedSignal_Sect9",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/9_MixedSignal_Sect9.pdf"
+    },
+    {
+      "basename": "8_MixedSignal_Sect8",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/8_MixedSignal_Sect8.pdf"
+    },
+    {
+      "basename": "7_MixedSignal_Sect7",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/7_MixedSignal_Sect7.pdf"
+    },
+    {
+      "basename": "6_MixedSignal_Sect6",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/6_MixedSignal_Sect6.pdf"
+    },
+    {
+      "basename": "5_MixedSignal_Sect5",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/5_MixedSignal_Sect5.pdf"
+    },
+    {
+      "basename": "4_MixedSignal_Sect4",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/4_MixedSignal_Sect4.pdf"
+    },
+    {
+      "basename": "3_MixedSignal_Sect3",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/3_MixedSignal_Sect3.pdf"
+    },
+    {
+      "basename": "2_MixedSignal_Sect2",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/2_MixedSignal_Sect2.pdf"
+    },
+    {
       "basename": "What is a neural processing unit (NPU)",
       "path": "General Notes/Kanban/What is a neural processing unit (NPU).md"
     },
@@ -9,16 +73,8 @@
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/What is a Neural Processing Unit (NPU).pdf"
     },
     {
-      "basename": "HWSW Sources Final",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
-    },
-    {
       "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems.pdf"
-    },
-    {
-      "basename": "HWSW Final Exam Info Sheet",
-      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
     },
     {
       "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System",
@@ -143,62 +199,6 @@
     {
       "basename": "Operating Systems - Final Review Day",
       "path": "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Operating Systems - Final Review Day.md"
-    },
-    {
-      "basename": "Pasted Image 20250507084254_460",
-      "path": "General Notes/Pasted Image 20250507084254_460.png"
-    },
-    {
-      "basename": "Operating Systems - Final Review Day 2025-05-07 08.42.51.excalidraw",
-      "path": "General Notes/Operating Systems - Final Review Day 2025-05-07 08.42.51.excalidraw.md"
-    },
-    {
-      "basename": "week09c_deadlockAndStarvation_DRAFT",
-      "path": "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Materials/week09c_deadlockAndStarvation_DRAFT.pdf"
-    },
-    {
-      "basename": "finalStudyGuide_eccs3661_25S",
-      "path": "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Materials/finalStudyGuide_eccs3661_25S.pdf"
-    },
-    {
-      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
-      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
-    },
-    {
-      "basename": "Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks",
-      "path": "General Notes/Kanban/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "Process Cruise Control Event-Driven Clock Scaling for Dynamic Power Management",
-      "path": "General Notes/Kanban/Process Cruise Control Event-Driven Clock Scaling for Dynamic Power Management.md"
-    },
-    {
-      "basename": "Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.pdf"
-    },
-    {
-      "basename": "Nanoscale CMOS Scaling Trends, Challenges and Their Solutions",
-      "path": "General Notes/Kanban/Nanoscale CMOS Scaling Trends, Challenges and Their Solutions.md"
-    },
-    {
-      "basename": "Nanoscale CMOS Scaling Trends, Challenges and Their Solutions",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Nanoscale CMOS Scaling Trends, Challenges and Their Solutions.pdf"
-    },
-    {
-      "basename": "Dynamic Voltage and Frequency Scaling and Duty-Cycling for Ultra Low-Power Wireless Sensor Nodes",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Dynamic Voltage and Frequency Scaling and Duty-Cycling for Ultra Low-Power Wireless Sensor Nodes.pdf"
-    },
-    {
-      "basename": "Dynamic Voltage and Frequency Scaling and Duty-Cycling for Ultra Low-Power Wireless Sensor Nodes",
-      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling and Duty-Cycling for Ultra Low-Power Wireless Sensor Nodes.md"
-    },
-    {
-      "basename": "Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling",
-      "path": "General Notes/Kanban/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.md"
-    },
-    {
-      "basename": "Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.pdf"
     }
   ],
   "omittedPaths": [],

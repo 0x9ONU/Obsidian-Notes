@@ -9,6 +9,7 @@ kanban-plugin: list
 - [ ] [[Zedboard Hardware User’s Guide]]
 - [ ] [[What is an FPGA Uses, Applications & Advantages]]
 - [ ] [[Cortex-A9 MBIST Controller Technical Reference Manual]]
+- [ ] [[Mixed Signal and DSP Design Techniques]]
 
 
 ## Minimum Feature Set & Design
