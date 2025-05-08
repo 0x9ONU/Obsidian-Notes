@@ -25,31 +25,20 @@ _A field-programmable gate array (FPGA) is an integrated circuit designed to be 
 
 ## Summary
 
-### Introduction
+### Basics of FPGA
 
-#### Motivation
+### Introduction to FPGA
 
-#### Challenge
+### How Does an FPGA Work
 
-#### Background
+### What’s Inside an FPGA
 
-### Objective of Research
+### What are FPGA Features?
 
-### Methodology
+### FPGA Uses and Applications
 
-### Pros/Cons
+### Advantages
 
-#### Benefits
+### How to Design with an FPGA
 
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
 
