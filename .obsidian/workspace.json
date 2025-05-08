@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "49022bfefc56bfc9",
+            "id": "a9067f8df0252ee8",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -57,39 +57,24 @@
         "currentTab": 1
       },
       {
-        "id": "00f4707735fe156f",
+        "id": "2ffab21429530897",
         "type": "tabs",
         "children": [
           {
-            "id": "088042b9f1f7ab40",
+            "id": "b8dd94f0323bd2cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
+                "file": "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance"
-            }
-          },
-          {
-            "id": "1eff5c94e4d10568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter"
+              "title": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -121,6 +106,18 @@
               },
               "icon": "lucide-file",
               "title": "HWSW Final Exam Info Sheet"
+            }
+          },
+          {
+            "id": "4b3cf5620cbf89f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems"
             }
           }
         ],
@@ -382,14 +379,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1eff5c94e4d10568",
+  "active": "455d62d2f76cacab",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Comparison study of hardware architectures performance between FPGA and DSP processor for implementing digital signal processing algorithms - Application of FIR digital filter.pdf",
+    "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
+    "General Notes/Kanban/HWSW Final Exam Sources.md",
+    "FPGA-based AI Smart NICs for Scalable.md",
+    "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey of FPGA Design for AI Era.pdf",
     "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Comparison study of hardware architectures performance between FPGA and DSP processor for implementing digital signal processing algorithms - Application of FIR digital filter.pdf",
     "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
     "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
     "General Notes/Kanban/Section 1 Target Application.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ARM Cortex-A9 Processor.pdf",
@@ -399,7 +402,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/What is an FPGA_ _ Uses, Applications & Advantages – Digilent Blog.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ZedBaord Hardware User's Guide.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs",
-    "General Notes/Kanban/HWSW Final Exam Sources.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Untitled Kanban.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources",
     "General Notes/Kanban/Section 10 Final Recommendation.md",
@@ -413,15 +415,9 @@
     "General Notes/Kanban/Section 2 Minimal Feature Set.md",
     "General Notes/Kanban/HWSW Final Exam.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
-    "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 2.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Test/Index.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Test",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware accelerators.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Power Consumption in CMOS.pdf",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
-    "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md",
     "General Notes/Pasted Image 20250507084254_460.png",
     "General Notes/Pasted image 20250507083841.png",
     "General Notes/Pasted image 20250507083828.png",

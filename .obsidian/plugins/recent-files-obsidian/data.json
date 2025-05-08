@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter",
-      "path": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md"
+      "basename": "HWSW Final Exam Info Sheet",
+      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+    },
+    {
+      "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System",
+      "path": "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md"
+    },
+    {
+      "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems.pdf"
     },
     {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
     },
     {
-      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
-      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
-    },
-    {
       "basename": "HWSW Codesign Final Exam Board",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
     },
     {
-      "basename": "HWSW Final Exam Info Sheet",
-      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+      "basename": "HWSW Final Exam Sources",
+      "path": "General Notes/Kanban/HWSW Final Exam Sources.md"
+    },
+    {
+      "basename": "FPGA-based AI Smart NICs for Scalable",
+      "path": "FPGA-based AI Smart NICs for Scalable.md"
+    },
+    {
+      "basename": "A Survey of FPGA Design for AI Era",
+      "path": "General Notes/Kanban/A Survey of FPGA Design for AI Era.md"
+    },
+    {
+      "basename": "A Survey of FPGA Design for AI Era",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey of FPGA Design for AI Era.pdf"
+    },
+    {
+      "basename": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter",
+      "path": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md"
+    },
+    {
+      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
+      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
     },
     {
       "basename": "Section 1 Target Application",
@@ -43,10 +67,6 @@
     {
       "basename": "ZedBaord Hardware User's Guide",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ZedBaord Hardware User's Guide.pdf"
-    },
-    {
-      "basename": "HWSW Final Exam Sources",
-      "path": "General Notes/Kanban/HWSW Final Exam Sources.md"
     },
     {
       "basename": "Section 10 Final Recommendation",
@@ -179,10 +199,6 @@
     {
       "basename": "Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md"
-    },
-    {
-      "basename": "Computer Security - Week 15 Day 1",
-      "path": "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 1.md"
     }
   ],
   "omittedPaths": [],

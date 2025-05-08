@@ -36,3 +36,14 @@ consumption.
 
 ### Introduction
 
+### Description of the different hardware architectures of FPGAs and DSPs
+
+### FIR digital filter
+
+### Design and simulation of FIR filter on FPGA and DSP
+
+### Experimental results
+
+### Comparison of the results
+
+### Conclusion
