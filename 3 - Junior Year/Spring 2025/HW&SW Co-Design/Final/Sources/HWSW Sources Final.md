@@ -1,10 +1,13 @@
 ---
+
 kanban-plugin: list
+
 ---
 
 ## Target Applications
 
 - [ ] [[Zedboard Hardware User’s Guide]]
+- [ ] [[What is an FPGA Uses, Applications & Advantages]]
 
 
 ## Minimum Feature Set & Design
