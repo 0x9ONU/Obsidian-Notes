@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "HWSW Sources Final",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+      "basename": "Hardware-Software Co-Design - Midterm",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
     },
     {
       "basename": "Hardware-Software Co-Design - Assignment 4",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md"
     },
     {
-      "basename": "HWSW Codesign Final Exam Board",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
-    },
-    {
       "basename": "HWSW Final Exam Info Sheet",
       "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
     },
     {
-      "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
-    },
-    {
       "basename": "Mixed Signal and DSP Design Techniques",
       "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
+    },
+    {
+      "basename": "HWSW Sources Final",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "HWSW Codesign Final Exam Board",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
+    },
+    {
+      "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
     },
     {
       "basename": "1_MixedSignal_Sect1",
@@ -195,10 +199,6 @@
     {
       "basename": "Project Development - Week 15 Day 2",
       "path": "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md"
-    },
-    {
-      "basename": "Power Consumption in CMOS Circuits",
-      "path": "General Notes/Kanban/Power Consumption in CMOS Circuits.md"
     }
   ],
   "omittedPaths": [],

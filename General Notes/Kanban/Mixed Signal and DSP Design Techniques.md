@@ -13,7 +13,7 @@ File Folder: Kanban
 
 **Country of Study**: USA
 
-**Tags**: #dsp #architecture #book #applications #
+**Tags**: #dsp #architecture #book #applications
 
 ```ad-abstract
 title: Abstract
