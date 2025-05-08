@@ -61,35 +61,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef72e7615d0ea408",
+            "id": "6e4fe73e7e2311be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zedboard Hardware User’s Guide"
-            }
-          },
-          {
-            "id": "46ba021474496677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is an FPGA Uses, Applications & Advantages"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -122,9 +103,21 @@
               "icon": "lucide-file",
               "title": "HWSW Final Exam Info Sheet"
             }
+          },
+          {
+            "id": "e22772bc7d13bebb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ARM Cortex-A9 Processor.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ARM Cortex-A9 Processor"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -382,16 +375,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c8f68b7a6c9b98e3",
+  "active": "6e4fe73e7e2311be",
   "lastOpenFiles": [
+    "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
+    "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
+    "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ARM Cortex-A9 Processor.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
-    "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
+    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/What is an FPGA_ _ Uses, Applications & Advantages – Digilent Blog.pdf",
     "General Notes/Kanban/Section 1 Target Application.md",
-    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
-    "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ZedBaord Hardware User's Guide.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs",
     "General Notes/Kanban/HWSW Final Exam Sources.md",
@@ -420,11 +414,9 @@
     "General Notes/Kanban/Power Consumption in CMOS Circuits.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Operating Systems - Final Review Day.md",
     "General Notes/Pasted Image 20250507084254_460.png",
-    "General Notes/Operating Systems - Final Review Day 2025-05-07 08.42.51.excalidraw.md",
     "3 - Junior Year/Spring 2025/Operating Systems/Week 10/Materials/week09c_deadlockAndStarvation_DRAFT.pdf",
     "General Notes/Pasted image 20250507083841.png",
     "General Notes/Pasted image 20250507083828.png",
-    "3 - Junior Year/Spring 2025/Operating Systems/Week 15/Materials/finalStudyGuide_eccs3661_25S.pdf",
     "General Notes/9cf6ec27f702340e1f2ebd525f61391dbc2fd862-1745x1352.avif",
     "General Notes/Engineering-Decision-Matrix.png",
     "General Notes/Pasted image 20250505084812.png",
