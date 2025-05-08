@@ -17,6 +17,7 @@ kanban-plugin: list
 - [ ] [[Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter]]
 - [ ] [[A Survey of FPGA Design for AI Era]]
 - [ ] [[FPGA-based AI Smart NICs for Scalable Distributed AI Training System]]
+- [ ] [[What is a neural processing unit (NPU)]]
 
 
 ## Power, Area, and Time

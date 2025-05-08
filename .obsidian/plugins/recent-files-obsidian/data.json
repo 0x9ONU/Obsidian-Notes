@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "HWSW Final Exam Info Sheet",
-      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+      "basename": "What is a neural processing unit (NPU)",
+      "path": "General Notes/Kanban/What is a neural processing unit (NPU).md"
     },
     {
-      "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System",
-      "path": "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md"
+      "basename": "What is a Neural Processing Unit (NPU)",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/What is a Neural Processing Unit (NPU).pdf"
+    },
+    {
+      "basename": "HWSW Sources Final",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
     },
     {
       "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems.pdf"
     },
     {
-      "basename": "HWSW Sources Final",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+      "basename": "HWSW Final Exam Info Sheet",
+      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+    },
+    {
+      "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System",
+      "path": "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md"
     },
     {
       "basename": "HWSW Codesign Final Exam Board",
@@ -191,14 +199,6 @@
     {
       "basename": "Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.pdf"
-    },
-    {
-      "basename": "Process Cruise ControlEvent-Driven Clock Scaling for Dynamic Power Management",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Process Cruise ControlEvent-Driven Clock Scaling for Dynamic Power Management.pdf"
-    },
-    {
-      "basename": "Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md"
     }
   ],
   "omittedPaths": [],

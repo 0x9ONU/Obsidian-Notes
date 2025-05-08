@@ -73,8 +73,23 @@
               "icon": "lucide-file",
               "title": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System"
             }
+          },
+          {
+            "id": "b730f6572a02bb8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/What is a neural processing unit (NPU).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is a neural processing unit (NPU)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -114,14 +129,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems.pdf"
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/What is a Neural Processing Unit (NPU).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems"
+              "title": "What is a Neural Processing Unit (NPU)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -379,11 +394,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "455d62d2f76cacab",
+  "active": "b730f6572a02bb8b",
   "lastOpenFiles": [
-    "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/What is a Neural Processing Unit (NPU).pdf",
+    "General Notes/Kanban/What is a neural processing unit (NPU).md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems.pdf",
+    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/What is a Neural Processing Unit (NPU) 1.pdf",
+    "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
     "General Notes/Kanban/HWSW Final Exam Sources.md",
     "FPGA-based AI Smart NICs for Scalable.md",
@@ -393,7 +412,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Comparison study of hardware architectures performance between FPGA and DSP processor for implementing digital signal processing algorithms - Application of FIR digital filter.pdf",
     "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.pdf",
-    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
     "General Notes/Kanban/Section 1 Target Application.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ARM Cortex-A9 Processor.pdf",
     "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
@@ -403,7 +421,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ZedBaord Hardware User's Guide.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Untitled Kanban.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources",
     "General Notes/Kanban/Section 10 Final Recommendation.md",
     "General Notes/Kanban/Section 9 Questions to Clarify the Design.md",
     "General Notes/Kanban/Section 8 Security and Reliability.md",
@@ -414,8 +431,6 @@
     "General Notes/Kanban/Section 3 Simplifying the Design.md",
     "General Notes/Kanban/Section 2 Minimal Feature Set.md",
     "General Notes/Kanban/HWSW Final Exam.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Test",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",
