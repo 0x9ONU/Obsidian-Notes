@@ -61,16 +61,14 @@ kanban-plugin: list
 
 - [ ] [[Exploiting JTAG and Its Mitigation in IOT A Survey]]
 - [ ] [[A Survey on FPGA Cybersecurity Design Strategies]]
-
-
-## Clarification
-
+- [ ] [[Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications]]
+- [ ] [[A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false]}
 ```
 %%

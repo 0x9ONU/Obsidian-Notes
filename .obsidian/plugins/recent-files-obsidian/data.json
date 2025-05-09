@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "A Survey on FPGA Cybersecurity Design Strategies",
-      "path": "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md"
+      "basename": "Mixed Signal and DSP Design Techniques",
+      "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
+    },
+    {
+      "basename": "Zedboard Hardware User’s Guide",
+      "path": "General Notes/Kanban/Zedboard Hardware User’s Guide.md"
     },
     {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
     },
     {
+      "basename": "What is an FPGA Uses, Applications & Advantages",
+      "path": "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md"
+    },
+    {
+      "basename": "HWSW Codesign Final Exam Board",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
+    },
+    {
       "basename": "Exploiting JTAG and Its Mitigation in IOT A Survey",
       "path": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md"
+    },
+    {
+      "basename": "A Survey on FPGA Cybersecurity Design Strategies",
+      "path": "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md"
+    },
+    {
+      "basename": "Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications",
+      "path": "General Notes/Kanban/Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications.md"
+    },
+    {
+      "basename": "A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain",
+      "path": "General Notes/Kanban/A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain.md"
     },
     {
       "basename": "Hardware-Software Co-Design - Midterm",
@@ -39,10 +63,6 @@
     {
       "basename": "Trump says China tariffs will come down from 145%",
       "path": "General Notes/Kanban/Trump says China tariffs will come down from 145%.md"
-    },
-    {
-      "basename": "HWSW Codesign Final Exam Board",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
     },
     {
       "basename": "The chip manufacturing industry Environmental impacts and eco-efficiency analysis",
@@ -101,10 +121,6 @@
       "path": "General Notes/Kanban/Zynq-7000 Datasheet.md"
     },
     {
-      "basename": "Zedboard Hardware User’s Guide",
-      "path": "General Notes/Kanban/Zedboard Hardware User’s Guide.md"
-    },
-    {
       "basename": "Section 1 Target Application",
       "path": "General Notes/Kanban/Section 1 Target Application.md"
     },
@@ -119,10 +135,6 @@
     {
       "basename": "Hardware-Software Co-Design - Assignment 4",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md"
-    },
-    {
-      "basename": "Mixed Signal and DSP Design Techniques",
-      "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
     },
     {
       "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
@@ -187,18 +199,6 @@
     {
       "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System",
       "path": "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md"
-    },
-    {
-      "basename": "HWSW Final Exam Sources",
-      "path": "General Notes/Kanban/HWSW Final Exam Sources.md"
-    },
-    {
-      "basename": "FPGA-based AI Smart NICs for Scalable",
-      "path": "FPGA-based AI Smart NICs for Scalable.md"
-    },
-    {
-      "basename": "A Survey of FPGA Design for AI Era",
-      "path": "General Notes/Kanban/A Survey of FPGA Design for AI Era.md"
     }
   ],
   "omittedPaths": [],

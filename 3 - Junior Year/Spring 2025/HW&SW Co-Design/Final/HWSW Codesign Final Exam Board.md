@@ -6,7 +6,7 @@ kanban-plugin: table
 
 ## Schedule
 
-- [ ] - [ ] 📅 2025-05-08 Find Sources
+- [ ] - [x] 📅 2025-05-08 Find Sources ✅ 2025-05-09
 - [ ] - [ ] 📅 2025-05-08 Literature Review
 - [ ] - [ ] 📅 2025-05-08 Write Section 1
 - [ ] - [ ] 📅 2025-05-08 Write Section 2
@@ -25,7 +25,7 @@ kanban-plugin: table
 ## Information
 
 - [ ] [[HWSW Final Exam Info Sheet]]
-- [ ] [[HWSW Final Exam Sources]]
+- [ ] [[HWSW Sources Final]]
 
 
 ## Paper
