@@ -7,7 +7,7 @@ kanban-plugin: table
 ## Schedule
 
 - [ ] - [x] 📅 2025-05-08 Find Sources ✅ 2025-05-09
-- [ ] - [ ] 📅 2025-05-08 Literature Review
+- [ ] - [x] 📅 2025-05-08 Literature Review ✅ 2025-05-09
 - [ ] - [ ] 📅 2025-05-08 Write Section 1
 - [ ] - [ ] 📅 2025-05-08 Write Section 2
 - [ ] - [ ] 📅 2025-05-09 Write Section 3

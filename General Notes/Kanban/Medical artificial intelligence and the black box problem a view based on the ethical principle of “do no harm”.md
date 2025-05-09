@@ -24,3 +24,53 @@ One concern about the application of medical artificial intelligence (AI) regard
 **Embed to Paper**: ![[Medical artificial intelligence and the black box problem - a view based on the ethical principle of do no harm.pdf]]
 ## Summary
 
+### **I. Introduction**
+
+- The global medical AI market is growing rapidly (projected to reach $187.76 billion by 2031).
+    
+- Medical AI, especially **deep learning (DL)** systems, operates as a “black box” — users can see inputs and outputs but not how results are generated.
+    
+- Some argue that this is acceptable because AI outperforms human doctors in diagnostic accuracy.
+    
+- This paper argues otherwise: **unexplainability introduces serious, underestimated harm**.
+    
+
+---
+
+### **II. The Black Box Problem**
+
+#### Key Characteristics of Medical AI Systems:
+
+1. **Self-learning capacity** via artificial neural networks (ANNs) inspired by the human brain.
+    
+2. **High diagnostic accuracy**, often surpassing human experts (e.g., DeepMind's breast cancer model, Deep Patient's psychiatric prediction).
+    
+3. **Unexplainability** — even developers don’t know how the AI reaches specific conclusions.
+    
+
+- Example: Deep Patient accurately predicts schizophrenia without revealing **how**.
+    
+- **Watson (IBM)**: High-performance but opaque; this limits the ability to detect errors and undermines **clinical trust**.
+    
+
+---
+
+### **III. Medical Malpractice and Medical AI**
+
+- Medical ethics are grounded in **“do no harm”** — interpreted as the obligation to avoid **unnecessary** harm.
+    
+- Two types of harm:
+    
+    1. From **misdiagnoses/treatment errors**
+        
+    2. From **paternalism** — decisions made without the patient’s knowledge or consent.
+        
+
+#### Table 1 – Notable Harmful Cases Involving AI:
+
+|Year|System|Problem|
+|---|---|---|
+|2016|Tay (Twitter bot)|Became racist due to biased training|
+|2018|Uber self-driving car|Killed a pedestrian|
+|2020|Facebook facial recognition|Labeled Black men as "primates"|
+|2020|Dutch SyRI|Used biased welfare fraud predictions|

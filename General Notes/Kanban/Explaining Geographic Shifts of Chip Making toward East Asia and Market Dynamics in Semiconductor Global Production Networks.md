@@ -26,3 +26,116 @@ Few recent geographic studies have focused on how market dynamics might explain 
 
 ## Summary
 
+### **1. Introduction**
+
+Semiconductor manufacturing has pivoted sharply toward East Asia, beyond Japan, since the 2000s. While Japan once held nearly half of the world’s fabrication capacity in 2000, by 2018, **Taiwan and South Korea led globally**, with East Asia accounting for **over 80% of global IC fabrication**.
+
+This transition coincided with a surge in chip demand from **ICT sectors**, making end-market **demand responsiveness** a vital driver. The paper proposes that **market dynamics**, rather than just **state policy or cost advantages**, must be considered to explain this shift.
+
+---
+
+### **2. Explaining Global Shifts in Chip Making**
+
+#### **2.1 Demand-Led Market Dynamics**
+
+Two core pathways explain the East Asian shift:
+
+1. **Rising OEM customers** in smartphones, tablets, and PCs centered in Asia.
+    
+2. **Customer intimacy** that fosters faster response times and customized chip production.
+    
+
+This market-driven dynamic complements existing supply-side factors like state policy and technological capabilities.
+
+---
+
+### **3. Chips and Fabs: Explaining Global Shifts in Semiconductor Manufacturing during the 2010s**
+
+#### **3.1 Capacity Expansion Data**
+
+- **Total global fabs:** ~325 in 2000, peaking at 344 in 2010, then consolidating to 296 in 2018.
+    
+- **Total wafer output:** ~17 million wafers/month in 2018 (2× growth since 2000).
+    
+- **Top producers in 2018:**
+    
+    - Taiwan: 4M wafers/month
+        
+    - South Korea: 3.6M
+        
+    - Japan: 3M
+        
+    - China: 2.2M
+        
+    - US: 1.8M
+#### **3.2 Figure of Interest – Figure 1**
+
+**Figure 1** outlines **market dynamics** in semiconductor production networks, highlighting:
+
+- IDM firms like **Intel** and **Samsung**
+    
+- Foundries like **TSMC**
+    
+- Fabless firms like **Qualcomm** and **Apple**
+    
+- OEMs and final assembly operations
+    
+
+It captures the vertical structure and flow from chip design to fabrication and end products
+
+### **4. Market Dynamics in Semiconductor Production Networks**
+
+#### **4.1 Customer Intimacy**
+
+- Fabless firms (e.g., Apple, AMD, Qualcomm) need tight coordination with foundries like TSMC for custom process technologies.
+    
+- Foundries require **committed orders** to justify capital-intensive expansion.
+    
+
+#### **4.2 Demand Responsiveness**
+
+- New end markets like smartphones and data centers require **rapid chip turnaround**.
+    
+- Leading fabless firms collocate R&D centers in Asia to **align with East Asian OEMs**
+
+### **5. Firm-Level Evidence of Market Dynamics**
+
+#### **Table 6 Insights**
+
+- All top fabless firms—**Broadcom, Qualcomm, Nvidia, MediaTek, HiSilicon, and Apple**—rely on **East Asian foundries** for wafer fabrication.
+    
+- TSMC, Samsung Foundry, and GlobalFoundries dominate as fabrication partners.
+    
+
+For instance, TSMC in 2018:
+
+- Fabricated **2.3M wafers/month**
+    
+- Allocated:
+    
+    - 24% to Apple
+        
+    - 15% to HiSilicon
+        
+    - 6% to Qualcomm
+
+### **6. Conclusion**
+
+The shift in semiconductor manufacturing toward East Asia is best explained by **market dynamics**:
+
+- **Customer intimacy** in design and fabrication partnerships
+    
+- **Demand responsiveness** to rapidly evolving ICT markets
+    
+
+This explains why chip production capacity grew in Taiwan and South Korea even **after state policies weakened**, suggesting that **strategic firm-level coordination** with global production networks (GPNs) now plays a stronger role.
+
+---
+
+### **Key Takeaways for Understanding Chip Function and Industry Trends**
+
+- **Fabless-foundry collaboration** is central to advanced logic chip production.
+    
+- **Process customization** and **early-stage design alignment** with foundries are vital, especially for 7nm and below nodes.
+    
+- **Geographic copresence** ensures faster design-to-fab cycles and tighter integration between fabless firms and OEMs.
