@@ -29,6 +29,7 @@ kanban-plugin: list
 - [ ] [[Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators]]
 - [ ] [[Scaling Challenges for Advanced CMOS Devices]]
 - [ ] [[The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application]]
+- [ ] [[TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech]]
 
 
 ## Health/Safety
