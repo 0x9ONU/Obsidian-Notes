@@ -54,21 +54,41 @@
             }
           },
           {
-            "id": "21829329bff26f79",
+            "id": "2d02f59b15d08b66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
+                "file": "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware-Software Co-Design - Midterm"
+              "title": "Zedboard Hardware User’s Guide"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "fc90f0b94c49171f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8204a6797300fe06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Zynq-7000 Datasheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zynq-7000 Datasheet"
+            }
+          }
+        ]
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -100,18 +120,6 @@
               },
               "icon": "lucide-file",
               "title": "HWSW Final Exam Info Sheet"
-            }
-          },
-          {
-            "id": "5f66228837899395",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/1_MixedSignal_Sect1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1_MixedSignal_Sect1"
             }
           }
         ],
@@ -373,15 +381,22 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "21829329bff26f79",
+  "active": "a9067f8df0252ee8",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
-    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
-    "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
+    "General Notes/Kanban/Zynq-7000 Datasheet.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Zynq-7000-Overview.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
+    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
+    "General Notes/Kanban/Section 1 Target Application.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/1_MixedSignal_Sect1.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 4/Assignment/HWSW Co-Design Assignment 2 - The Role of Assembler, Linker, and Compiler in Computer Systems.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 7/Assignment 3/HWSW Co-Design - Assignment 3.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+    "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/11_MixedSignal_index.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/0_MixedSignal_Outline.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/10_MixedSignal_Sect10.pdf",
@@ -390,7 +405,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/7_MixedSignal_Sect7.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/6_MixedSignal_Sect6.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/5_MixedSignal_Sect5.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/4_MixedSignal_Sect4.pdf",
     "General Notes/Kanban/What is a neural processing unit (NPU).md",
     "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md",
     "General Notes/Kanban/HWSW Final Exam Sources.md",
@@ -398,19 +412,12 @@
     "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
     "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md",
     "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
-    "General Notes/Kanban/Section 1 Target Application.md",
-    "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
     "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
     "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Untitled Kanban.md",
     "General Notes/Kanban/Section 10 Final Recommendation.md",
     "General Notes/Kanban/Section 9 Questions to Clarify the Design.md",
     "General Notes/Kanban/Section 8 Security and Reliability.md",
-    "General Notes/Kanban/Section 7 User-Friendliness.md",
-    "General Notes/Kanban/Section 6 Global Considerations.md",
-    "General Notes/Kanban/Section 5 Health, Safety, and Environmental.md",
-    "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md",
-    "General Notes/Kanban/Section 3 Simplifying the Design.md",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",

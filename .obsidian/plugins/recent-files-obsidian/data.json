@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "HWSW Sources Final",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "Zynq-7000 Datasheet",
+      "path": "General Notes/Kanban/Zynq-7000 Datasheet.md"
+    },
+    {
+      "basename": "Zedboard Hardware User’s Guide",
+      "path": "General Notes/Kanban/Zedboard Hardware User’s Guide.md"
+    },
+    {
+      "basename": "HWSW Codesign Final Exam Board",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
+    },
+    {
+      "basename": "HWSW Final Exam Info Sheet",
+      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+    },
+    {
+      "basename": "Section 1 Target Application",
+      "path": "General Notes/Kanban/Section 1 Target Application.md"
+    },
+    {
+      "basename": "1_MixedSignal_Sect1",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/1_MixedSignal_Sect1.pdf"
+    },
+    {
+      "basename": "HWSW Co-Design Assignment 2 - The Role of Assembler, Linker, and Compiler in Computer Systems",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 4/Assignment/HWSW Co-Design Assignment 2 - The Role of Assembler, Linker, and Compiler in Computer Systems.md"
+    },
+    {
+      "basename": "HWSW Co-Design - Assignment 3",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 7/Assignment 3/HWSW Co-Design - Assignment 3.md"
+    },
+    {
       "basename": "Hardware-Software Co-Design - Midterm",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
     },
@@ -9,28 +45,12 @@
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md"
     },
     {
-      "basename": "HWSW Final Exam Info Sheet",
-      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
-    },
-    {
       "basename": "Mixed Signal and DSP Design Techniques",
       "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
     },
     {
-      "basename": "HWSW Sources Final",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
-    },
-    {
-      "basename": "HWSW Codesign Final Exam Board",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
-    },
-    {
       "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
-    },
-    {
-      "basename": "1_MixedSignal_Sect1",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/1_MixedSignal_Sect1.pdf"
     },
     {
       "basename": "11_MixedSignal_index",
@@ -117,16 +137,8 @@
       "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
     },
     {
-      "basename": "Section 1 Target Application",
-      "path": "General Notes/Kanban/Section 1 Target Application.md"
-    },
-    {
       "basename": "ARM Cortex-A9 Processor",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/ARM Cortex-A9 Processor.pdf"
-    },
-    {
-      "basename": "Zedboard Hardware User’s Guide",
-      "path": "General Notes/Kanban/Zedboard Hardware User’s Guide.md"
     },
     {
       "basename": "What is an FPGA Uses, Applications & Advantages",
@@ -187,18 +199,6 @@
     {
       "basename": "Computer Security - Week 15 Day 2",
       "path": "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 2.md"
-    },
-    {
-      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware accelerators",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware accelerators.pdf"
-    },
-    {
-      "basename": "Power Consumption in CMOS",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Power Consumption in CMOS.pdf"
-    },
-    {
-      "basename": "Project Development - Week 15 Day 2",
-      "path": "3 - Junior Year/Spring 2025/Project Development/Week 15/Project Development - Week 15 Day 2.md"
     }
   ],
   "omittedPaths": [],

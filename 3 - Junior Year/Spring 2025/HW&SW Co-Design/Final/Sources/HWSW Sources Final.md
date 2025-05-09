@@ -10,6 +10,8 @@ kanban-plugin: list
 - [ ] [[What is an FPGA Uses, Applications & Advantages]]
 - [ ] [[Cortex-A9 MBIST Controller Technical Reference Manual]]
 - [ ] [[Mixed Signal and DSP Design Techniques]]
+- [ ] [[Zynq-7000 Datasheet]]
+- [ ] https://www.digikey.com/en/products/detail/amd/XC7Z020-1CLG484CES/3672244
 
 
 ## Minimum Feature Set & Design
