@@ -10,8 +10,8 @@ kanban-plugin: list
 - [ ] [[Zedboard Hardware User’s Guide]]
 - [ ] [[Mixed Signal and DSP Design Techniques]]
 - [ ] [[A Survey of FPGA Design for AI Era]]
-- [ ] [[Cortex-A9 MBIST Controller Technical Reference Manual]]
 - [ ] [[Zynq-7000 Datasheet]]
+- [ ] [[Cortex-A9 MBIST Controller Technical Reference Manual]]
 - [ ] https://www.digikey.com/en/products/detail/amd/XC7Z020-1CLG484CES/3672244
 
 
@@ -26,6 +26,7 @@ kanban-plugin: list
 ## Power, Area, and Time
 
 - [ ] [[Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks]]
+- [ ] [[Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators]]
 
 
 ## Health/Safety
