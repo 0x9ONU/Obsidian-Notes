@@ -87,8 +87,23 @@
               "icon": "lucide-file",
               "title": "Zynq-7000 Datasheet"
             }
+          },
+          {
+            "id": "b160b365100b60a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -383,9 +398,12 @@
   },
   "active": "a9067f8df0252ee8",
   "lastOpenFiles": [
+    "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
     "General Notes/Kanban/Zynq-7000 Datasheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Zynq-7000-Overview.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
     "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
     "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
@@ -416,8 +434,6 @@
     "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Untitled Kanban.md",
     "General Notes/Kanban/Section 10 Final Recommendation.md",
-    "General Notes/Kanban/Section 9 Questions to Clarify the Design.md",
-    "General Notes/Kanban/Section 8 Security and Reliability.md",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",

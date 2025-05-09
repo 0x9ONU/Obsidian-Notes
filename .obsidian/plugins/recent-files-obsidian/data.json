@@ -5,6 +5,18 @@
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
     },
     {
+      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
+      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
+    },
+    {
+      "basename": "Assignment 6 Board",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md"
+    },
+    {
+      "basename": "Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md"
+    },
+    {
       "basename": "Zynq-7000 Datasheet",
       "path": "General Notes/Kanban/Zynq-7000 Datasheet.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Section 2 Minimal Feature Set",
       "path": "General Notes/Kanban/Section 2 Minimal Feature Set.md"
-    },
-    {
-      "basename": "HWSW Final Exam",
-      "path": "General Notes/Kanban/HWSW Final Exam.md"
-    },
-    {
-      "basename": "Assignment 6 Board",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md"
-    },
-    {
-      "basename": "Computer Security - Week 15 Day 2",
-      "path": "3 - Junior Year/Spring 2025/Computer Security/Week 15/Computer Security - Week 15 Day 2.md"
     }
   ],
   "omittedPaths": [],
