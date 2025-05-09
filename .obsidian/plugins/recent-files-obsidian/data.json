@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "HWSW Final Exam Info Sheet",
-      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+      "basename": "Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”",
+      "path": "General Notes/Kanban/Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”.md"
     },
     {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "HWSW Final Exam Info Sheet",
+      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
     },
     {
       "basename": "Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux",
@@ -21,12 +25,16 @@
       "path": "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md"
     },
     {
-      "basename": "The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications.pdf"
-    },
-    {
       "basename": "Scaling Challenges for Advanced CMOS Devices",
       "path": "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md"
+    },
+    {
+      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
+      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
+    },
+    {
+      "basename": "The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications.pdf"
     },
     {
       "basename": "Scaling Challenges fro Advanced CMOS Devices",
@@ -35,10 +43,6 @@
     {
       "basename": "HWSW Codesign Final Exam Board",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
-    },
-    {
-      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
-      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
     },
     {
       "basename": "Assignment 6 Board",
@@ -195,10 +199,6 @@
     {
       "basename": "Section 9 Questions to Clarify the Design",
       "path": "General Notes/Kanban/Section 9 Questions to Clarify the Design.md"
-    },
-    {
-      "basename": "Section 8 Security and Reliability",
-      "path": "General Notes/Kanban/Section 8 Security and Reliability.md"
     }
   ],
   "omittedPaths": [],

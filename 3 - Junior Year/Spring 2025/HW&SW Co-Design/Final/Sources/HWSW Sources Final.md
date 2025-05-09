@@ -35,6 +35,7 @@ kanban-plugin: list
 ## Health/Safety
 
 - [ ] [[Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux]]
+- [ ] [[Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”]]
 
 
 ## Environment
