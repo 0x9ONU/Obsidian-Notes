@@ -60,63 +60,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9067f8df0252ee8",
+            "id": "92f28de50725abc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
+                "file": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Survey of FPGA Design for AI Era"
-            }
-          },
-          {
-            "id": "7c84d3ec1c1c74f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Zynq-7000 Datasheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zynq-7000 Datasheet"
-            }
-          },
-          {
-            "id": "70ddb1182fb4574b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cortex-A9 MBIST Controller Technical Reference Manual"
-            }
-          },
-          {
-            "id": "7e219d0d4e87af26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance"
+              "title": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -334,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
+                "file": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance"
+              "title": "Outline of Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter"
             }
           }
         ]
@@ -409,9 +366,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7e219d0d4e87af26",
+  "active": "92f28de50725abc6",
   "lastOpenFiles": [
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
     "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md",
     "General Notes/Kanban/Zynq-7000 Datasheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
@@ -446,7 +404,6 @@
     "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md",
     "General Notes/Kanban/TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech.md",
     "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md",
-    "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",

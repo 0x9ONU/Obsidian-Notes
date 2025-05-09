@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
-      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
+      "basename": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter",
+      "path": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md"
     },
     {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
+      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
     },
     {
       "basename": "Cortex-A9 MBIST Controller Technical Reference Manual",
@@ -195,10 +199,6 @@
     {
       "basename": "2_MixedSignal_Sect2",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/2_MixedSignal_Sect2.pdf"
-    },
-    {
-      "basename": "What is a neural processing unit (NPU)",
-      "path": "General Notes/Kanban/What is a neural processing unit (NPU).md"
     }
   ],
   "omittedPaths": [],
