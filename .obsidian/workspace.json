@@ -143,9 +143,23 @@
               "icon": "lucide-file",
               "title": "TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech"
             }
+          },
+          {
+            "id": "e8a83089fa7b4aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -363,13 +377,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Kanban/TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech.md",
+                "file": "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech"
+              "title": "Outline of HWSW Final Exam Info Sheet"
             }
           }
         ]
@@ -438,11 +452,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "62c55825a3c893f6",
+  "active": "455d62d2f76cacab",
   "lastOpenFiles": [
-    "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md",
-    "General Notes/Kanban/TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/AILiaEU in Flux SSRN 8_21.pdf",
+    "General Notes/Kanban/TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech.md",
+    "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications.pdf",
     "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Scaling Challenges fro Advanced CMOS Devices.pdf",
@@ -467,15 +483,12 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/10_MixedSignal_Sect10.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/9_MixedSignal_Sect9.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/8_MixedSignal_Sect8.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/7_MixedSignal_Sect7.pdf",
     "General Notes/Kanban/What is a neural processing unit (NPU).md",
     "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md",
     "General Notes/Kanban/HWSW Final Exam Sources.md",
     "FPGA-based AI Smart NICs for Scalable.md",
     "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
     "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md",
-    "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
-    "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",
