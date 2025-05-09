@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Cortex-A9 MBIST Controller Technical Reference Manual",
-      "path": "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md"
+      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
+      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
     },
     {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "Cortex-A9 MBIST Controller Technical Reference Manual",
+      "path": "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md"
     },
     {
       "basename": "Zynq-7000 Datasheet",
@@ -195,10 +199,6 @@
     {
       "basename": "What is a neural processing unit (NPU)",
       "path": "General Notes/Kanban/What is a neural processing unit (NPU).md"
-    },
-    {
-      "basename": "What is a Neural Processing Unit (NPU)",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/What is a Neural Processing Unit (NPU).pdf"
     }
   ],
   "omittedPaths": [],

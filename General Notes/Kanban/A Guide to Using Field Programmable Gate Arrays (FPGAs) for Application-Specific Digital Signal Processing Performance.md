@@ -29,24 +29,3 @@ described in detail.
 
 ## Summary
 
-### Introduction
-
-### FPGA-Based DSP Accelerator
-
-### Viterbi Decoder
-
-### FPGA & DSP Based Viterbi Decoder
-
-### Digital Filter Design
-
-### FPGA Based Filters
-
-### 16-Tap, 8-Bit FIR Filter
-
-### FPGA Based 16-Tap FIR Filter
-
-### Distributed Arithmetic
-
-### Parallel Distributed Arithmetic
-
-### 
