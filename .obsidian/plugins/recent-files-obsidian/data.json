@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter",
-      "path": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md"
+      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
+      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
     },
     {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
+    },
+    {
+      "basename": "What is a neural processing unit (NPU)",
+      "path": "General Notes/Kanban/What is a neural processing unit (NPU).md"
+    },
+    {
+      "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System",
+      "path": "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md"
+    },
+    {
+      "basename": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter",
+      "path": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md"
     },
     {
       "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
@@ -117,10 +133,6 @@
       "path": "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md"
     },
     {
-      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
-      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
-    },
-    {
       "basename": "The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications.pdf"
     },
@@ -151,10 +163,6 @@
     {
       "basename": "Hardware-Software Co-Design - Assignment 4",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md"
-    },
-    {
-      "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
     },
     {
       "basename": "11_MixedSignal_index",
@@ -191,14 +199,6 @@
     {
       "basename": "4_MixedSignal_Sect4",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/4_MixedSignal_Sect4.pdf"
-    },
-    {
-      "basename": "3_MixedSignal_Sect3",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/3_MixedSignal_Sect3.pdf"
-    },
-    {
-      "basename": "2_MixedSignal_Sect2",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/2_MixedSignal_Sect2.pdf"
     }
   ],
   "omittedPaths": [],
