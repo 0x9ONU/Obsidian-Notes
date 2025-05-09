@@ -87,8 +87,23 @@
               "icon": "lucide-file",
               "title": "Exploiting JTAG and Its Mitigation in IOT A Survey"
             }
+          },
+          {
+            "id": "bcb67c24c7dcc5e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Survey on FPGA Cybersecurity Design Strategies"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -306,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md",
+                "file": "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exploiting JTAG and Its Mitigation in IOT A Survey"
+              "title": "Outline of A Survey on FPGA Cybersecurity Design Strategies"
             }
           }
         ]
@@ -381,9 +396,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c6e87e61c923a988",
+  "active": "bcb67c24c7dcc5e4",
   "lastOpenFiles": [
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey on FPGA Cybersecurity Design Strategies.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md",
     "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
     "General Notes/Kanban/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.md",
@@ -417,8 +434,6 @@
     "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
     "General Notes/Kanban/Section 1 Target Application.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 4/Assignment/HWSW Co-Design Assignment 2 - The Role of Assembler, Linker, and Compiler in Computer Systems.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
-    "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",

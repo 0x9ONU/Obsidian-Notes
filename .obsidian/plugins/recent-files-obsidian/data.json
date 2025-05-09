@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Exploiting JTAG and Its Mitigation in IOT A Survey",
-      "path": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md"
+      "basename": "A Survey on FPGA Cybersecurity Design Strategies",
+      "path": "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md"
     },
     {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "Exploiting JTAG and Its Mitigation in IOT A Survey",
+      "path": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md"
     },
     {
       "basename": "Hardware-Software Co-Design - Midterm",
@@ -195,10 +199,6 @@
     {
       "basename": "A Survey of FPGA Design for AI Era",
       "path": "General Notes/Kanban/A Survey of FPGA Design for AI Era.md"
-    },
-    {
-      "basename": "A Survey of FPGA Design for AI Era",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey of FPGA Design for AI Era.pdf"
     }
   ],
   "omittedPaths": [],

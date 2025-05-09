@@ -60,6 +60,7 @@ kanban-plugin: list
 ## Security
 
 - [ ] [[Exploiting JTAG and Its Mitigation in IOT A Survey]]
+- [ ] [[A Survey on FPGA Cybersecurity Design Strategies]]
 
 
 ## Clarification
