@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "a9067f8df0252ee8",
+            "id": "9e12bd2c076cdb44",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -51,20 +51,6 @@
               "icon": "lucide-trello",
               "title": "HWSW Sources Final"
             }
-          },
-          {
-            "id": "ca06687d6ed72585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hardware-Software Co-Design - Midterm"
-            }
           }
         ],
         "currentTab": 1
@@ -74,35 +60,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f9a9d4d33231293",
+            "id": "a9067f8df0252ee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
+                "file": "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zedboard Hardware User’s Guide"
+              "title": "A Survey of FPGA Design for AI Era"
             }
           },
           {
-            "id": "75587250e1a49ef6",
+            "id": "7c84d3ec1c1c74f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
+                "file": "General Notes/Kanban/Zynq-7000 Datasheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mixed Signal and DSP Design Techniques"
+              "title": "Zynq-7000 Datasheet"
+            }
+          },
+          {
+            "id": "70ddb1182fb4574b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cortex-A9 MBIST Controller Technical Reference Manual"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -320,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+                "file": "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HWSW Sources Final"
+              "title": "Outline of Cortex-A9 MBIST Controller Technical Reference Manual"
             }
           }
         ]
@@ -395,20 +395,22 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a9067f8df0252ee8",
+  "active": "70ddb1182fb4574b",
   "lastOpenFiles": [
-    "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
-    "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
-    "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
+    "General Notes/Kanban/Zynq-7000 Datasheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
+    "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
+    "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
+    "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
+    "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
     "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md",
     "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md",
     "General Notes/Kanban/Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications.md",
     "General Notes/Kanban/A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey on Counterfeitsin the Information and CommunicationsTechnology (ICT) Supply Chain.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey on FPGA Cybersecurity Design Strategies.pdf",
     "General Notes/Kanban/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Paper Summaries/A Case Study in Hardware Trojan Design and Implementation.md",
@@ -431,8 +433,6 @@
     "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md",
     "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md",
     "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",

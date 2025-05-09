@@ -25,12 +25,3 @@ collapse: open
 
 ## Summary
 
-### Introduction
-
-### Functional Description
-
-### MBIST Instruction Register
-
-### MBIST Datalog Register
-
-### Signal Descriptions
