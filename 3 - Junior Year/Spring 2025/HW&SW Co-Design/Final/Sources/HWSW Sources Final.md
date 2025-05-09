@@ -48,10 +48,13 @@ kanban-plugin: list
 
 - [ ] [[Trump says China tariffs will come down from 145%]]
 - [ ] [[Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter]]
+- [ ] [[Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks]]
 
 
 ## User Frinedliness
 
+- [ ] www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/fpga/libero-ide
+- [ ] https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html
 
 
 ## Security
