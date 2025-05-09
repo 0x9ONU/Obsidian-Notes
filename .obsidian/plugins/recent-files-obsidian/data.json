@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application",
+      "path": "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md"
+    },
+    {
+      "basename": "The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications.pdf"
+    },
+    {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "Scaling Challenges for Advanced CMOS Devices",
+      "path": "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md"
+    },
+    {
+      "basename": "Scaling Challenges fro Advanced CMOS Devices",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Scaling Challenges fro Advanced CMOS Devices.pdf"
     },
     {
       "basename": "HWSW Codesign Final Exam Board",
@@ -183,22 +199,6 @@
     {
       "basename": "Section 6 Global Considerations",
       "path": "General Notes/Kanban/Section 6 Global Considerations.md"
-    },
-    {
-      "basename": "Section 5 Health, Safety, and Environmental",
-      "path": "General Notes/Kanban/Section 5 Health, Safety, and Environmental.md"
-    },
-    {
-      "basename": "Section 4 VLSI Considerations Power, Area, and Time Tradeoffs",
-      "path": "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md"
-    },
-    {
-      "basename": "Section 3 Simplifying the Design",
-      "path": "General Notes/Kanban/Section 3 Simplifying the Design.md"
-    },
-    {
-      "basename": "Section 2 Minimal Feature Set",
-      "path": "General Notes/Kanban/Section 2 Minimal Feature Set.md"
     }
   ],
   "omittedPaths": [],

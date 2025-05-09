@@ -27,6 +27,8 @@ kanban-plugin: list
 
 - [ ] [[Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks]]
 - [ ] [[Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators]]
+- [ ] [[Scaling Challenges for Advanced CMOS Devices]]
+- [ ] [[The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application]]
 
 
 ## Health/Safety
