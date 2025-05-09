@@ -59,6 +59,7 @@ kanban-plugin: list
 
 ## Security
 
+- [ ] [[Exploiting JTAG and Its Mitigation in IOT A Survey]]
 
 
 ## Clarification

@@ -52,26 +52,40 @@
               "icon": "lucide-trello",
               "title": "HWSW Sources Final"
             }
+          },
+          {
+            "id": "ca06687d6ed72585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hardware-Software Co-Design - Midterm"
+            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "7e2605469576625e",
+        "id": "26ad17709123f17c",
         "type": "tabs",
         "children": [
           {
-            "id": "5261358a9352d33a",
+            "id": "c6e87e61c923a988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.md",
+                "file": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks"
+              "title": "Exploiting JTAG and Its Mitigation in IOT A Survey"
             }
           }
         ]
@@ -292,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
+                "file": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HWSW Final Exam Info Sheet"
+              "title": "Outline of Exploiting JTAG and Its Mitigation in IOT A Survey"
             }
           }
         ]
@@ -367,10 +381,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "455d62d2f76cacab",
+  "active": "c6e87e61c923a988",
   "lastOpenFiles": [
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
     "General Notes/Kanban/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Paper Summaries/A Case Study in Hardware Trojan Design and Implementation.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 7/Assignment 3/HWSW Co-Design - Assignment 3.md",
+    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.pdf",
     "General Notes/Kanban/Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter.md",
     "General Notes/Kanban/Trump says China tariffs will come down from 145%.md",
@@ -384,7 +403,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Drawing a chip environmental profile - environmental indicators for the semiconductor industry.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Medical artificial intelligence and the black box problem - a view based on the ethical principle of do no harm 1.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Medical artificial intelligence and the black box problem - a view based on the ethical principle of do no harm.pdf",
-    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
     "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md",
     "General Notes/Kanban/TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech.md",
     "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md",
@@ -399,11 +417,8 @@
     "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
     "General Notes/Kanban/Section 1 Target Application.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 4/Assignment/HWSW Co-Design Assignment 2 - The Role of Assembler, Linker, and Compiler in Computer Systems.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 7/Assignment 3/HWSW Co-Design - Assignment 3.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
     "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",

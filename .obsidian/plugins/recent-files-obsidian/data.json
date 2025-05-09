@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "HWSW Final Exam Info Sheet",
-      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+      "basename": "Exploiting JTAG and Its Mitigation in IOT A Survey",
+      "path": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md"
     },
     {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
     },
     {
+      "basename": "Hardware-Software Co-Design - Midterm",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
+    },
+    {
       "basename": "Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks",
       "path": "General Notes/Kanban/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.md"
+    },
+    {
+      "basename": "A Case Study in Hardware Trojan Design and Implementation",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Paper Summaries/A Case Study in Hardware Trojan Design and Implementation.md"
+    },
+    {
+      "basename": "HWSW Co-Design - Assignment 3",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 7/Assignment 3/HWSW Co-Design - Assignment 3.md"
+    },
+    {
+      "basename": "HWSW Final Exam Info Sheet",
+      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
     },
     {
       "basename": "Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter",
@@ -95,14 +111,6 @@
     {
       "basename": "HWSW Co-Design Assignment 2 - The Role of Assembler, Linker, and Compiler in Computer Systems",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 4/Assignment/HWSW Co-Design Assignment 2 - The Role of Assembler, Linker, and Compiler in Computer Systems.md"
-    },
-    {
-      "basename": "HWSW Co-Design - Assignment 3",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 7/Assignment 3/HWSW Co-Design - Assignment 3.md"
-    },
-    {
-      "basename": "Hardware-Software Co-Design - Midterm",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
     },
     {
       "basename": "Hardware-Software Co-Design - Assignment 4",
@@ -191,14 +199,6 @@
     {
       "basename": "A Survey of FPGA Design for AI Era",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey of FPGA Design for AI Era.pdf"
-    },
-    {
-      "basename": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter",
-      "path": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md"
-    },
-    {
-      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
-      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
     }
   ],
   "omittedPaths": [],
