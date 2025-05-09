@@ -52,20 +52,6 @@
               "icon": "lucide-trello",
               "title": "HWSW Sources Final"
             }
-          },
-          {
-            "id": "2d02f59b15d08b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zedboard Hardware User’s Guide"
-            }
           }
         ],
         "currentTab": 1
@@ -75,20 +61,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4851fba17758270",
+            "id": "8e11a49b07fc4b23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”.md",
+                "file": "General Notes/Kanban/Drawing a chip environmental profile environmental indicators for the semiconductor industry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”"
+              "title": "Drawing a chip environmental profile environmental indicators for the semiconductor industry"
+            }
+          },
+          {
+            "id": "023ea6bf9dfa9ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/The chip manufacturing industry Environmental impacts and eco-efficiency analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The chip manufacturing industry Environmental impacts and eco-efficiency analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6cfe2dcbf3bf72ad",
@@ -306,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Kanban/Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”.md",
+                "file": "General Notes/Kanban/The chip manufacturing industry Environmental impacts and eco-efficiency analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”"
+              "title": "Outline of The chip manufacturing industry Environmental impacts and eco-efficiency analysis"
             }
           }
         ]
@@ -381,11 +382,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b4851fba17758270",
+  "active": "023ea6bf9dfa9ba8",
   "lastOpenFiles": [
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Medical artificial intelligence and the black box problem - a view based on the ethical principle of do no harm.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+    "General Notes/Kanban/The chip manufacturing industry Environmental impacts and eco-efficiency analysis.md",
+    "General Notes/Kanban/Drawing a chip environmental profile environmental indicators for the semiconductor industry.md",
     "General Notes/Kanban/Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Drawing a chip environmental profile - environmental indicators for the semiconductor industry.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Medical artificial intelligence and the black box problem - a view based on the ethical principle of do no harm 1.pdf",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Medical artificial intelligence and the black box problem - a view based on the ethical principle of do no harm.pdf",
     "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
     "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md",
     "General Notes/Kanban/TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech.md",
@@ -411,14 +416,10 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/11_MixedSignal_index.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/0_MixedSignal_Outline.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/10_MixedSignal_Sect10.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/9_MixedSignal_Sect9.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/8_MixedSignal_Sect8.pdf",
     "General Notes/Kanban/What is a neural processing unit (NPU).md",
     "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md",
     "General Notes/Kanban/HWSW Final Exam Sources.md",
     "FPGA-based AI Smart NICs for Scalable.md",
-    "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",

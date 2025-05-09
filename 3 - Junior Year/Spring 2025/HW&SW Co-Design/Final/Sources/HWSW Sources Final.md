@@ -36,6 +36,8 @@ kanban-plugin: list
 
 - [ ] [[Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux]]
 - [ ] [[Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”]]
+- [ ] [[Drawing a chip environmental profile environmental indicators for the semiconductor industry]]
+- [ ] [[The chip manufacturing industry Environmental impacts and eco-efficiency analysis]]
 
 
 ## Environment
