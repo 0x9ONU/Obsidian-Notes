@@ -1,7 +1,5 @@
 ---
-
-kanban-plugin: list
-
+kanban-plugin: table
 ---
 
 ## Schedule

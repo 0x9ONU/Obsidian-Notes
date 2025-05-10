@@ -1,24 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "AM62D Sitara Processors Technical Reference Manual",
+      "path": "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md"
+    },
+    {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
-    },
-    {
-      "basename": "Sources",
-      "path": "General Notes/Kanban/Sources.md"
-    },
-    {
-      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
-      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
     },
     {
       "basename": "HWSW Codesign Final Exam Board",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
     },
     {
+      "basename": "Sources",
+      "path": "General Notes/Kanban/Sources.md"
+    },
+    {
+      "basename": "What is an FPGA Uses, Applications & Advantages",
+      "path": "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md"
+    },
+    {
+      "basename": "HWSW Final Exam Info Sheet",
+      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+    },
+    {
+      "basename": "A Survey of FPGA Design for AI Era",
+      "path": "General Notes/Kanban/A Survey of FPGA Design for AI Era.md"
+    },
+    {
+      "basename": "Zynq-7000 Datasheet",
+      "path": "General Notes/Kanban/Zynq-7000 Datasheet.md"
+    },
+    {
+      "basename": "Mixed Signal and DSP Design Techniques",
+      "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
+    },
+    {
       "basename": "Section 1 Target Application",
       "path": "General Notes/Kanban/Section 1 Target Application.md"
+    },
+    {
+      "basename": "Section 1 Target Application 2025-05-10 12.43.16.excalidraw",
+      "path": "General Notes/Section 1 Target Application 2025-05-10 12.43.16.excalidraw.md"
+    },
+    {
+      "basename": "Coral Accelerator Module Datasheet",
+      "path": "General Notes/Kanban/Coral Accelerator Module Datasheet.md"
+    },
+    {
+      "basename": "Zedboard Hardware User’s Guide",
+      "path": "General Notes/Kanban/Zedboard Hardware User’s Guide.md"
+    },
+    {
+      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
+      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
     },
     {
       "basename": "Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications",
@@ -97,28 +133,8 @@
       "path": "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md"
     },
     {
-      "basename": "Zynq-7000 Datasheet",
-      "path": "General Notes/Kanban/Zynq-7000 Datasheet.md"
-    },
-    {
-      "basename": "A Survey of FPGA Design for AI Era",
-      "path": "General Notes/Kanban/A Survey of FPGA Design for AI Era.md"
-    },
-    {
-      "basename": "Mixed Signal and DSP Design Techniques",
-      "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
-    },
-    {
       "basename": "Hardware-Software Co-Design - Midterm",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
-    },
-    {
-      "basename": "Zedboard Hardware User’s Guide",
-      "path": "General Notes/Kanban/Zedboard Hardware User’s Guide.md"
-    },
-    {
-      "basename": "What is an FPGA Uses, Applications & Advantages",
-      "path": "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md"
     },
     {
       "basename": "A Case Study in Hardware Trojan Design and Implementation",
@@ -127,10 +143,6 @@
     {
       "basename": "HWSW Co-Design - Assignment 3",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 7/Assignment 3/HWSW Co-Design - Assignment 3.md"
-    },
-    {
-      "basename": "HWSW Final Exam Info Sheet",
-      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
     },
     {
       "basename": "Medical artificial intelligence and the black box problem - a view based on the ethical principle of do no harm 1",
@@ -187,18 +199,6 @@
     {
       "basename": "8_MixedSignal_Sect8",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/8_MixedSignal_Sect8.pdf"
-    },
-    {
-      "basename": "7_MixedSignal_Sect7",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/7_MixedSignal_Sect7.pdf"
-    },
-    {
-      "basename": "6_MixedSignal_Sect6",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/6_MixedSignal_Sect6.pdf"
-    },
-    {
-      "basename": "5_MixedSignal_Sect5",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/5_MixedSignal_Sect5.pdf"
     }
   ],
   "omittedPaths": [],

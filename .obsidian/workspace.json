@@ -4,70 +4,97 @@
     "type": "split",
     "children": [
       {
-        "id": "6c6143e64322879e",
-        "type": "tabs",
+        "id": "020f1f2523b4f3e1",
+        "type": "split",
         "children": [
           {
-            "id": "0d1c5f8eed29c53f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+            "id": "6c6143e64322879e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0d1c5f8eed29c53f",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "table",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "HWSW Codesign Final Exam Board"
                 }
               },
-              "icon": "lucide-trello",
-              "title": "HWSW Codesign Final Exam Board"
-            }
-          },
-          {
-            "id": "9e12bd2c076cdb44",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+              {
+                "id": "9af59f01fc6014f5",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "list",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "HWSW Sources Final"
                 }
               },
-              "icon": "lucide-trello",
-              "title": "HWSW Sources Final"
-            }
+              {
+                "id": "29b89d41962d99c6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AM62D Sitara Processors Technical Reference Manual"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "b68ee587836194fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Section 1 Target Application.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Section 1 Target Application"
-            }
+            "id": "d8204af10a561d7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "89ec00b073ce7b08",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "HWSW Final Exam Info Sheet"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       },
       {
         "id": "4fa17caab6ad30a3",
@@ -86,8 +113,23 @@
               "icon": "lucide-file",
               "title": "Sources"
             }
+          },
+          {
+            "id": "b68ee587836194fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Section 1 Target Application.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section 1 Target Application"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -271,13 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Kanban/Section 1 Target Application.md",
+                "file": "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section 1 Target Application"
+              "title": "Outline of AM62D Sitara Processors Technical Reference Manual"
             }
           }
         ]
@@ -318,8 +359,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -346,13 +386,61 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9e12bd2c076cdb44",
+  "floating": {
+    "id": "8e457ba6930f41d8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3b02e99c79be6d08",
+        "type": "window",
+        "children": [
+          {
+            "id": "9a93068504a1298c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5cc9190a81357e3",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Notes/Section 1 Target Application 2025-05-10 12.43.16.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Section 1 Target Application 2025-05-10 12.43.16.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 136,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "29b89d41962d99c6",
   "lastOpenFiles": [
-    "General Notes/Kanban/Sources.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
-    "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
+    "General Notes/Kanban/Sources.md",
+    "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
+    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
+    "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
+    "General Notes/Kanban/Zynq-7000 Datasheet.md",
+    "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
     "General Notes/Kanban/Section 1 Target Application.md",
+    "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md",
+    "General Notes/Section 1 Target Application 2025-05-10 12.43.16.excalidraw.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/AM62D Sitara Processors Technical.pdf",
+    "General Notes/Kanban/Coral Accelerator Module Datasheet.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Coral-Accelerator-Module-datasheet.pdf",
+    "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
+    "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
     "General Notes/Kanban/Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications.md",
     "General Notes/Kanban/A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain.md",
     "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md",
@@ -366,15 +454,6 @@
     "General Notes/Kanban/Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”.md",
     "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md",
     "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md",
-    "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md",
-    "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
-    "General Notes/Kanban/What is a neural processing unit (NPU).md",
-    "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md",
-    "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md",
-    "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md",
-    "General Notes/Kanban/Zynq-7000 Datasheet.md",
-    "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey on Counterfeitsin the Information and CommunicationsTechnology (ICT) Supply Chain.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey on FPGA Cybersecurity Design Strategies.pdf",
@@ -382,8 +461,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Trump says China tariffs will come down from 145_ _ Reuters.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/The chip manufacturing industry - Environmental impacts and eco-efficiency analysis.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Drawing a chip environmental profile - environmental indicators for the semiconductor industry.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Medical artificial intelligence and the black box problem - a view based on the ethical principle of do no harm 1.pdf",
     "General Notes/Pasted image 20250507144146.png",
     "General Notes/Pasted image 20250507143743.png",
     "General Notes/Pasted Image 20250507084254_460.png",

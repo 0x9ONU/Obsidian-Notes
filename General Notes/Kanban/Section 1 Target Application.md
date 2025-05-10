@@ -11,3 +11,6 @@ First, suggest three target applications for the SBC. For each application, expl
 - Consider how the board size and component density may impact the application. For example, would the board need to be compact for integration into a smaller device?
 ```
 
+As the client has 
+
+![[Section 1 Target Application 2025-05-10 12.43.16.excalidraw]]

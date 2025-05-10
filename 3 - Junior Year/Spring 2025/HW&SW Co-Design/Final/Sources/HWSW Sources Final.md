@@ -12,7 +12,9 @@ kanban-plugin: list
 - [ ] [[A Survey of FPGA Design for AI Era]]
 - [ ] [[Zynq-7000 Datasheet]]
 - [ ] [[Cortex-A9 MBIST Controller Technical Reference Manual]]
+- [ ] [[Coral Accelerator Module Datasheet]]
 - [ ] https://www.digikey.com/en/products/detail/amd/XC7Z020-1CLG484CES/3672244
+- [ ] [[AM62D Sitara Processors Technical Reference Manual]]
 
 
 ## Minimum Feature Set & Design
