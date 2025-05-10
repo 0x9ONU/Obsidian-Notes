@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: table
+kanban-plugin: list
 
 ---
 
@@ -41,12 +41,13 @@ kanban-plugin: table
 - [ ] [[Section 8 Security and Reliability]]
 - [ ] [[Section 9 Questions to Clarify the Design]]
 - [ ] [[Section 10 Final Recommendation]]
+- [ ] [[Sources]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","list-collapse":[false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false]}
 ```
 %%
