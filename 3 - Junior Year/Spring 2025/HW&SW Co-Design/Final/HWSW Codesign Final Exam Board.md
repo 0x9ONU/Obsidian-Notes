@@ -11,12 +11,12 @@ kanban-plugin: table
 - [ ] - [x] 📅 2025-05-08 Write Section 1 ✅ 2025-05-10
 - [ ] - [x] 📅 2025-05-08 Write Section 2 ✅ 2025-05-10
 - [ ] - [x] 📅 2025-05-09 Write Section 3 ✅ 2025-05-10
-- [ ] - [ ] 📅 2025-05-09 Write Section 4
-- [ ] - [ ] 📅 2025-05-09 Write Section 5
-- [ ] - [ ] 📅 2025-05-09 Write Section 6
-- [ ] - [ ] 📅 2025-05-09 Write Section 7
-- [ ] - [ ] 📅 2025-05-10 Write Section 8
-- [ ] - [ ] 📅 2025-05-10 Write Section 9
+- [ ] - [x] 📅 2025-05-09 Write Section 4 ✅ 2025-05-10
+- [ ] - [x] 📅 2025-05-09 Write Section 5 ✅ 2025-05-11
+- [ ] - [x] 📅 2025-05-09 Write Section 6 ✅ 2025-05-11
+- [ ] - [x] 📅 2025-05-09 Write Section 7 ✅ 2025-05-11
+- [ ] - [x] 📅 2025-05-10 Write Section 8 ✅ 2025-05-11
+- [ ] - [x] 📅 2025-05-10 Write Section 9 ✅ 2025-05-11
 - [ ] - [ ] 📅 2025-05-10 Write Section 10
 - [ ] - [ ] 📅 2025-05-11 Final Previews/Checks with Others
 - [ ] - [ ] 📅 2025-05-11 Turn In Final

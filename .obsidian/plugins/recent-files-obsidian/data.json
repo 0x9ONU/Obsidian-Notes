@@ -1,32 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "Section 4 VLSI Considerations Power, Area, and Time Tradeoffs",
-      "path": "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md"
+      "basename": "HWSW Final Exam",
+      "path": "General Notes/Kanban/HWSW Final Exam.md"
     },
     {
-      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
-      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
-    },
-    {
-      "basename": "HWSW Sources Final",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
-    },
-    {
-      "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
-    },
-    {
-      "basename": "Sources",
-      "path": "General Notes/Kanban/Sources.md"
+      "basename": "Section 10 Final Recommendation",
+      "path": "General Notes/Kanban/Section 10 Final Recommendation.md"
     },
     {
       "basename": "HWSW Codesign Final Exam Board",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
     },
     {
+      "basename": "Sources",
+      "path": "General Notes/Kanban/Sources.md"
+    },
+    {
+      "basename": "Section 7 User-Friendliness",
+      "path": "General Notes/Kanban/Section 7 User-Friendliness.md"
+    },
+    {
+      "basename": "Section 9 Questions to Clarify the Design",
+      "path": "General Notes/Kanban/Section 9 Questions to Clarify the Design.md"
+    },
+    {
+      "basename": "HWSW Sources Final",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
+    },
+    {
+      "basename": "Section 8 Security and Reliability",
+      "path": "General Notes/Kanban/Section 8 Security and Reliability.md"
+    },
+    {
+      "basename": "Section 6 Global Considerations",
+      "path": "General Notes/Kanban/Section 6 Global Considerations.md"
+    },
+    {
+      "basename": "HWSW Final Exam Info Sheet",
+      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+    },
+    {
+      "basename": "Section 1 Target Application",
+      "path": "General Notes/Kanban/Section 1 Target Application.md"
+    },
+    {
       "basename": "Section 3 Simplifying the Design",
       "path": "General Notes/Kanban/Section 3 Simplifying the Design.md"
+    },
+    {
+      "basename": "Section 4 VLSI Considerations Power, Area, and Time Tradeoffs",
+      "path": "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md"
+    },
+    {
+      "basename": "Exploiting JTAG and Its Mitigation in IOT A Survey",
+      "path": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md"
+    },
+    {
+      "basename": "The chip manufacturing industry Environmental impacts and eco-efficiency analysis",
+      "path": "General Notes/Kanban/The chip manufacturing industry Environmental impacts and eco-efficiency analysis.md"
+    },
+    {
+      "basename": "Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter",
+      "path": "General Notes/Kanban/Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter.md"
+    },
+    {
+      "basename": "Section 2 Minimal Feature Set",
+      "path": "General Notes/Kanban/Section 2 Minimal Feature Set.md"
+    },
+    {
+      "basename": "Hardware-Software Co-Design - Midterm",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
+    },
+    {
+      "basename": "Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks",
+      "path": "General Notes/Kanban/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.md"
+    },
+    {
+      "basename": "Section 5 Health, Safety, and Environmental",
+      "path": "General Notes/Kanban/Section 5 Health, Safety, and Environmental.md"
+    },
+    {
+      "basename": "Drawing a chip environmental profile environmental indicators for the semiconductor industry",
+      "path": "General Notes/Kanban/Drawing a chip environmental profile environmental indicators for the semiconductor industry.md"
+    },
+    {
+      "basename": "Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”",
+      "path": "General Notes/Kanban/Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”.md"
+    },
+    {
+      "basename": "Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux",
+      "path": "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md"
+    },
+    {
+      "basename": "TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech",
+      "path": "General Notes/Kanban/TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech.md"
+    },
+    {
+      "basename": "Scaling Challenges for Advanced CMOS Devices",
+      "path": "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md"
+    },
+    {
+      "basename": "The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application",
+      "path": "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md"
+    },
+    {
+      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
+      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
+    },
+    {
+      "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
     },
     {
       "basename": "A Survey of FPGA Design for AI Era",
@@ -41,20 +125,8 @@
       "path": "General Notes/Kanban/Zedboard Hardware User’s Guide.md"
     },
     {
-      "basename": "Section 2 Minimal Feature Set",
-      "path": "General Notes/Kanban/Section 2 Minimal Feature Set.md"
-    },
-    {
-      "basename": "Section 1 Target Application",
-      "path": "General Notes/Kanban/Section 1 Target Application.md"
-    },
-    {
       "basename": "Mixed Signal and DSP Design Techniques",
       "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
-    },
-    {
-      "basename": "Hardware-Software Co-Design - Midterm",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
     },
     {
       "basename": "Section 1 Target Application 2025-05-10 12.43.16.excalidraw",
@@ -63,10 +135,6 @@
     {
       "basename": "AM62D Sitara Processors Technical Reference Manual",
       "path": "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md"
-    },
-    {
-      "basename": "HWSW Final Exam Info Sheet",
-      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
     },
     {
       "basename": "What is an FPGA Uses, Applications & Advantages",
@@ -93,44 +161,8 @@
       "path": "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md"
     },
     {
-      "basename": "Exploiting JTAG and Its Mitigation in IOT A Survey",
-      "path": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md"
-    },
-    {
-      "basename": "Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks",
-      "path": "General Notes/Kanban/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.md"
-    },
-    {
-      "basename": "Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter",
-      "path": "General Notes/Kanban/Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter.md"
-    },
-    {
       "basename": "Trump says China tariffs will come down from 145%",
       "path": "General Notes/Kanban/Trump says China tariffs will come down from 145%.md"
-    },
-    {
-      "basename": "The chip manufacturing industry Environmental impacts and eco-efficiency analysis",
-      "path": "General Notes/Kanban/The chip manufacturing industry Environmental impacts and eco-efficiency analysis.md"
-    },
-    {
-      "basename": "Drawing a chip environmental profile environmental indicators for the semiconductor industry",
-      "path": "General Notes/Kanban/Drawing a chip environmental profile environmental indicators for the semiconductor industry.md"
-    },
-    {
-      "basename": "Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”",
-      "path": "General Notes/Kanban/Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”.md"
-    },
-    {
-      "basename": "Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux",
-      "path": "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md"
-    },
-    {
-      "basename": "The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application",
-      "path": "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md"
-    },
-    {
-      "basename": "Scaling Challenges for Advanced CMOS Devices",
-      "path": "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md"
     },
     {
       "basename": "What is a neural processing unit (NPU)",
@@ -161,44 +193,12 @@
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Medical artificial intelligence and the black box problem - a view based on the ethical principle of do no harm 1.pdf"
     },
     {
-      "basename": "TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech",
-      "path": "General Notes/Kanban/TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech.md"
-    },
-    {
       "basename": "The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Applications.pdf"
     },
     {
       "basename": "Scaling Challenges fro Advanced CMOS Devices",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Scaling Challenges fro Advanced CMOS Devices.pdf"
-    },
-    {
-      "basename": "Assignment 6 Board",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md"
-    },
-    {
-      "basename": "Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md"
-    },
-    {
-      "basename": "1_MixedSignal_Sect1",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/1_MixedSignal_Sect1.pdf"
-    },
-    {
-      "basename": "HWSW Co-Design Assignment 2 - The Role of Assembler, Linker, and Compiler in Computer Systems",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 4/Assignment/HWSW Co-Design Assignment 2 - The Role of Assembler, Linker, and Compiler in Computer Systems.md"
-    },
-    {
-      "basename": "Hardware-Software Co-Design - Assignment 4",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md"
-    },
-    {
-      "basename": "11_MixedSignal_index",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/11_MixedSignal_index.pdf"
-    },
-    {
-      "basename": "0_MixedSignal_Outline",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/0_MixedSignal_Outline.pdf"
     }
   ],
   "omittedPaths": [],
