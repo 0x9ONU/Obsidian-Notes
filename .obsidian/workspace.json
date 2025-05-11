@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "020f1f2523b4f3e1",
+        "id": "9e2b869c69912852",
         "type": "split",
         "children": [
           {
@@ -12,7 +12,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "0d1c5f8eed29c53f",
+                "id": "aaf44684646e283a",
                 "type": "leaf",
                 "state": {
                   "type": "kanban",
@@ -32,7 +32,7 @@
                 }
               },
               {
-                "id": "9af59f01fc6014f5",
+                "id": "b97cb2d9e177a657",
                 "type": "leaf",
                 "state": {
                   "type": "kanban",
@@ -57,24 +57,66 @@
                 }
               },
               {
-                "id": "29b89d41962d99c6",
+                "id": "d2b1129da7fec778",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md",
+                    "file": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "AM62D Sitara Processors Technical Reference Manual"
+                  "title": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators"
+                }
+              },
+              {
+                "id": "26c8bdb6c9177f3c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks"
+                }
+              },
+              {
+                "id": "5cf39333d30d3ce9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators"
+                }
+              },
+              {
+                "id": "02996c2d956c7b90",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes/Kanban/Sources.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sources"
                 }
               }
             ],
             "currentTab": 2
           },
           {
-            "id": "d8204af10a561d7e",
+            "id": "f1de9ab9ce52a00a",
             "type": "tabs",
             "children": [
               {
@@ -115,17 +157,17 @@
             }
           },
           {
-            "id": "b68ee587836194fb",
+            "id": "c1f5c3a58aaf2857",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Section 1 Target Application.md",
+                "file": "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 1 Target Application"
+              "title": "Section 4 VLSI Considerations Power, Area, and Time Tradeoffs"
             }
           }
         ],
@@ -196,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b6b6d89bd42e8d8",
@@ -312,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md",
+                "file": "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AM62D Sitara Processors Technical Reference Manual"
+              "title": "Outline of Section 4 VLSI Considerations Power, Area, and Time Tradeoffs"
             }
           }
         ]
@@ -386,61 +429,33 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "floating": {
-    "id": "8e457ba6930f41d8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3b02e99c79be6d08",
-        "type": "window",
-        "children": [
-          {
-            "id": "9a93068504a1298c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c5cc9190a81357e3",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Section 1 Target Application 2025-05-10 12.43.16.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Section 1 Target Application 2025-05-10 12.43.16.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 136,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "29b89d41962d99c6",
+  "active": "c1f5c3a58aaf2857",
   "lastOpenFiles": [
+    "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
+    "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
     "General Notes/Kanban/Sources.md",
-    "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
-    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
+    "General Notes/Kanban/Section 3 Simplifying the Design.md",
     "General Notes/Kanban/A Survey of FPGA Design for AI Era.md",
-    "General Notes/Kanban/Zynq-7000 Datasheet.md",
-    "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
+    "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
+    "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
+    "General Notes/Kanban/Section 2 Minimal Feature Set.md",
     "General Notes/Kanban/Section 1 Target Application.md",
-    "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md",
+    "General Notes/Pasted image 20250510162218.png",
+    "General Notes/Pasted image 20250510161305.png",
+    "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md",
     "General Notes/Section 1 Target Application 2025-05-10 12.43.16.excalidraw.md",
+    "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md",
+    "General Notes/Kanban/HWSW Final Exam Info Sheet.md",
+    "General Notes/Pasted image 20250510140330.png",
+    "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md",
+    "General Notes/Kanban/Zynq-7000 Datasheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/AM62D Sitara Processors Technical.pdf",
     "General Notes/Kanban/Coral Accelerator Module Datasheet.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Coral-Accelerator-Module-datasheet.pdf",
-    "General Notes/Kanban/Zedboard Hardware User’s Guide.md",
-    "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md",
     "General Notes/Kanban/Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications.md",
     "General Notes/Kanban/A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain.md",
     "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md",
@@ -448,12 +463,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Exploiting JTAG and Its Mitigation in IOT - A Survey.pdf",
     "General Notes/Kanban/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.md",
     "General Notes/Kanban/Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter.md",
-    "General Notes/Kanban/Trump says China tariffs will come down from 145%.md",
-    "General Notes/Kanban/The chip manufacturing industry Environmental impacts and eco-efficiency analysis.md",
-    "General Notes/Kanban/Drawing a chip environmental profile environmental indicators for the semiconductor industry.md",
-    "General Notes/Kanban/Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”.md",
-    "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md",
-    "General Notes/Kanban/The Impact of Semiconductor Technology Scaling on CMOS RF and Digital Circuits for Wireless Application.md",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey on Counterfeitsin the Information and CommunicationsTechnology (ICT) Supply Chain.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications.pdf",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/A Survey on FPGA Cybersecurity Design Strategies.pdf",
@@ -468,9 +477,6 @@
     "General Notes/Pasted image 20250507083828.png",
     "General Notes/9cf6ec27f702340e1f2ebd525f61391dbc2fd862-1745x1352.avif",
     "General Notes/Engineering-Decision-Matrix.png",
-    "General Notes/Pasted image 20250505084812.png",
-    "General Notes/Pasted image 20250505084451.png",
-    "General Notes/Pasted image 20250505084413.png",
     "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
   ]
 }

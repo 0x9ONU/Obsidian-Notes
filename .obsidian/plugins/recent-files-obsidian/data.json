@@ -1,60 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "AM62D Sitara Processors Technical Reference Manual",
-      "path": "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md"
+      "basename": "Section 4 VLSI Considerations Power, Area, and Time Tradeoffs",
+      "path": "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md"
+    },
+    {
+      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
+      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
     },
     {
       "basename": "HWSW Sources Final",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/HWSW Sources Final.md"
     },
     {
-      "basename": "HWSW Codesign Final Exam Board",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
+      "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
     },
     {
       "basename": "Sources",
       "path": "General Notes/Kanban/Sources.md"
     },
     {
-      "basename": "What is an FPGA Uses, Applications & Advantages",
-      "path": "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md"
+      "basename": "HWSW Codesign Final Exam Board",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md"
     },
     {
-      "basename": "HWSW Final Exam Info Sheet",
-      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+      "basename": "Section 3 Simplifying the Design",
+      "path": "General Notes/Kanban/Section 3 Simplifying the Design.md"
     },
     {
       "basename": "A Survey of FPGA Design for AI Era",
       "path": "General Notes/Kanban/A Survey of FPGA Design for AI Era.md"
     },
     {
-      "basename": "Zynq-7000 Datasheet",
-      "path": "General Notes/Kanban/Zynq-7000 Datasheet.md"
-    },
-    {
-      "basename": "Mixed Signal and DSP Design Techniques",
-      "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
-    },
-    {
-      "basename": "Section 1 Target Application",
-      "path": "General Notes/Kanban/Section 1 Target Application.md"
-    },
-    {
-      "basename": "Section 1 Target Application 2025-05-10 12.43.16.excalidraw",
-      "path": "General Notes/Section 1 Target Application 2025-05-10 12.43.16.excalidraw.md"
-    },
-    {
-      "basename": "Coral Accelerator Module Datasheet",
-      "path": "General Notes/Kanban/Coral Accelerator Module Datasheet.md"
+      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
+      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
     },
     {
       "basename": "Zedboard Hardware User’s Guide",
       "path": "General Notes/Kanban/Zedboard Hardware User’s Guide.md"
     },
     {
-      "basename": "A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance",
-      "path": "General Notes/Kanban/A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance.md"
+      "basename": "Section 2 Minimal Feature Set",
+      "path": "General Notes/Kanban/Section 2 Minimal Feature Set.md"
+    },
+    {
+      "basename": "Section 1 Target Application",
+      "path": "General Notes/Kanban/Section 1 Target Application.md"
+    },
+    {
+      "basename": "Mixed Signal and DSP Design Techniques",
+      "path": "General Notes/Kanban/Mixed Signal and DSP Design Techniques.md"
+    },
+    {
+      "basename": "Hardware-Software Co-Design - Midterm",
+      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
+    },
+    {
+      "basename": "Section 1 Target Application 2025-05-10 12.43.16.excalidraw",
+      "path": "General Notes/Section 1 Target Application 2025-05-10 12.43.16.excalidraw.md"
+    },
+    {
+      "basename": "AM62D Sitara Processors Technical Reference Manual",
+      "path": "General Notes/Kanban/AM62D Sitara Processors Technical Reference Manual.md"
+    },
+    {
+      "basename": "HWSW Final Exam Info Sheet",
+      "path": "General Notes/Kanban/HWSW Final Exam Info Sheet.md"
+    },
+    {
+      "basename": "What is an FPGA Uses, Applications & Advantages",
+      "path": "General Notes/Kanban/What is an FPGA Uses, Applications & Advantages.md"
+    },
+    {
+      "basename": "Zynq-7000 Datasheet",
+      "path": "General Notes/Kanban/Zynq-7000 Datasheet.md"
+    },
+    {
+      "basename": "Coral Accelerator Module Datasheet",
+      "path": "General Notes/Kanban/Coral Accelerator Module Datasheet.md"
     },
     {
       "basename": "Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications",
@@ -109,14 +133,6 @@
       "path": "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md"
     },
     {
-      "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
-      "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
-    },
-    {
-      "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
-    },
-    {
       "basename": "What is a neural processing unit (NPU)",
       "path": "General Notes/Kanban/What is a neural processing unit (NPU).md"
     },
@@ -131,10 +147,6 @@
     {
       "basename": "Cortex-A9 MBIST Controller Technical Reference Manual",
       "path": "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md"
-    },
-    {
-      "basename": "Hardware-Software Co-Design - Midterm",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
     },
     {
       "basename": "A Case Study in Hardware Trojan Design and Implementation",
@@ -187,18 +199,6 @@
     {
       "basename": "0_MixedSignal_Outline",
       "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/0_MixedSignal_Outline.pdf"
-    },
-    {
-      "basename": "10_MixedSignal_Sect10",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/10_MixedSignal_Sect10.pdf"
-    },
-    {
-      "basename": "9_MixedSignal_Sect9",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/9_MixedSignal_Sect9.pdf"
-    },
-    {
-      "basename": "8_MixedSignal_Sect8",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Mixed Signal and DSP Design Techniques, 2002/8_MixedSignal_Sect8.pdf"
     }
   ],
   "omittedPaths": [],

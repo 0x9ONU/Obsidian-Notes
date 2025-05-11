@@ -8,21 +8,19 @@ kanban-plugin: list
 
 - [ ] [[What is an FPGA Uses, Applications & Advantages]]
 - [ ] [[Zedboard Hardware User’s Guide]]
+- [ ] [[Zynq-7000 Datasheet]]
+- [ ] https://www.digikey.com/en/products/detail/amd/XC7Z020-1CLG484CES/3672244
+- [ ] [[Cortex-A9 MBIST Controller Technical Reference Manual]]
 - [ ] [[Mixed Signal and DSP Design Techniques]]
 - [ ] [[A Survey of FPGA Design for AI Era]]
-- [ ] [[Zynq-7000 Datasheet]]
-- [ ] [[Cortex-A9 MBIST Controller Technical Reference Manual]]
 - [ ] [[Coral Accelerator Module Datasheet]]
-- [ ] https://www.digikey.com/en/products/detail/amd/XC7Z020-1CLG484CES/3672244
 - [ ] [[AM62D Sitara Processors Technical Reference Manual]]
+- [ ] [[A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance]]
+- [ ] [[Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter]]
 
 
 ## Minimum Feature Set & Design
 
-- [ ] [[A Guide to Using Field Programmable Gate Arrays (FPGAs) for Application-Specific Digital Signal Processing Performance]]
-- [ ] [[Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter]]
-- [ ] [[What is a neural processing unit (NPU)]]
-- [ ] [[FPGA-based AI Smart NICs for Scalable Distributed AI Training System]]
 
 
 ## Power, Area, and Time
