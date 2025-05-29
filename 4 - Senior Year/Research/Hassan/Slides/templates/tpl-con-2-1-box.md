@@ -4,15 +4,15 @@
 
 <grid drag="28 75" drop="69 15" bg="white" style="border-radius:15px"/>
 
-<grid drag="64 70" drop="3 15" align="topleft">
-
-<% left %>
-
-</grid>
-
 <grid drag="26 71" drop="70 17" align="topleft">
 
 <% right %>
+
+</grid>
+
+<grid drag="64 70" drop="3 15" align="topleft">
+
+<% left %>
 
 </grid>
 
@@ -33,5 +33,5 @@
 </grid>
 
 <grid drag="100 6" drop="bottom">
-###### © 2025 Ethan Berei @ Ohio Northern University<!-- element style="font-weight:300" -->
+###### © 2022 Lernende Organisation<!-- element style="font-weight:300" -->
 </grid>
