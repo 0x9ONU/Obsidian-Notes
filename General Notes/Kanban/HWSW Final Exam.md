@@ -67,7 +67,7 @@ The specific fabrication process for the chip can ultimately determine the effec
 
 Overall, this fabrication decision will not greatly affect what parts the board needs as the $28nm$ process is pretty common both domestically (with a minimum size of $18nm$) and internationally. However, the cost per wafer does cause a great difference in price per chip. As the size shrinks, the wafer cost increases dramatically [27]. For example, the chosen 28nm process costs $2,500 for a 300mm wafer, with it increasing all the way to $30,000 for TSMC’s new 2nm wafers. Figure 4 below shows a chart of how the changes in process size directly affect the cost of 300mm wafers:
 
-```mermaid
+```mermaid <!-- element style="width:90%; height:auto" -->
 xychart-beta
     x-axis ["1µm (1000nm)", "90nm", "40nm", "28nm", "18nm", "16nm", "7nm", "5nm", "3nm", "2nm"]
     y-axis "Cost per Wafer (USD)" 0 --> 35000
