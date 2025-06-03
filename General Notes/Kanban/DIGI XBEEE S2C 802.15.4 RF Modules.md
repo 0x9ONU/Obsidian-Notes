@@ -3,7 +3,7 @@ Date Modified: 3rd June 2025
 File Folder: Kanban
 ## Publication Information
 
-**Database:** IEEE Xplore
+**Database:** 
 
 **DOI**: 
 
