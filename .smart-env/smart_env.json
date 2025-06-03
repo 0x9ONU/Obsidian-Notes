@@ -1,0 +1,128 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": "300"
+  },
+  "smart_sources": {
+    "embed_model": {
+      "model_key": "TaylorAI/bge-micro-v2",
+      "legacy_transformers": true,
+      "transformers": {
+        "model_key": "TaylorAI/bge-micro-v2",
+        "legacy_transformers": true
+      },
+      "adapter": "openai",
+      "openai": {
+        "model_key": "text-embedding-3-small",
+        "api_key": "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"
+      },
+      "text-embedding-3-small": {}
+    },
+    "min_chars": "300",
+    "smart_change": {
+      "active": true
+    },
+    "expanded_view": false
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "results_limit": 9
+  },
+  "smart_directories": {},
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "openai",
+      "openai": {
+        "model_key": "gpt-4o-mini",
+        "api_key": "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",
+        "models": {
+          "o1-mini": {
+            "model_name": "o1-mini",
+            "id": "o1-mini",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "o1-mini-2024-09-12": {
+            "model_name": "o1-mini-2024-09-12",
+            "id": "o1-mini-2024-09-12",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "gpt-3.5-turbo-16k": {
+            "model_name": "gpt-3.5-turbo-16k",
+            "id": "gpt-3.5-turbo-16k",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 16385"
+          },
+          "gpt-4o-mini": {
+            "model_name": "gpt-4o-mini",
+            "id": "gpt-4o-mini",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "o1-preview-2024-09-12": {
+            "model_name": "o1-preview-2024-09-12",
+            "id": "o1-preview-2024-09-12",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "gpt-4o-mini-2024-07-18": {
+            "model_name": "gpt-4o-mini-2024-07-18",
+            "id": "gpt-4o-mini-2024-07-18",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "o1-preview": {
+            "model_name": "o1-preview",
+            "id": "o1-preview",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "gpt-3.5-turbo": {
+            "model_name": "gpt-3.5-turbo",
+            "id": "gpt-3.5-turbo",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 4096"
+          },
+          "gpt-3.5-turbo-0125": {
+            "model_name": "gpt-3.5-turbo-0125",
+            "id": "gpt-3.5-turbo-0125",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 4096"
+          },
+          "gpt-3.5-turbo-1106": {
+            "model_name": "gpt-3.5-turbo-1106",
+            "id": "gpt-3.5-turbo-1106",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 4096"
+          }
+        },
+        "image_resolution": "low"
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": 20,
+    "send_tool_output_in_user_message": false
+  },
+  "excluded_headings": ""
+}
