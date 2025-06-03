@@ -11,10 +11,12 @@
             "id": "cbfcf2c6dcc49c6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw"
             }
           }
         ]
@@ -275,8 +277,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "111c18cc095349af",
+  "active": "cbfcf2c6dcc49c6d",
   "lastOpenFiles": [
+    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "4 - Senior Year/Research/Hassan/Slides/templates/tpl-con-default-box.md",
     "4 - Senior Year/Research/Hassan/Slides/templates/tpl-con-title.md",
     "4 - Senior Year/Research/Hassan/Slides/EIT2025 Presentation.md",
@@ -307,7 +310,6 @@
     "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md",
     "General Notes/Kanban/The chip manufacturing industry Environmental impacts and eco-efficiency analysis.md",
     "General Notes/Kanban/Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter.md",
-    "General Notes/Kanban/Section 2 Minimal Feature Set.md",
     "General Notes/Pasted image 20250510162218.png",
     "General Notes/Pasted image 20250510161305.png",
     "General Notes/Pasted image 20250510140330.png",
