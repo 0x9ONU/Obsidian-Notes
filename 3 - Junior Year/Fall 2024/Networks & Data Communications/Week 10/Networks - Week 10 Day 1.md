@@ -185,7 +185,7 @@ You are direclty connected to a rotuer (`Router-Ada`) in Ada, OH. You send a pac
 
 $$t_{total} = d_{proc} + d_{queue} + d_{trans} + d_{prop}$$
 
-$$t_{total} = 2*d_{proc} + 2*d_{queue} + (d_{trans_{Ada \rightarrow San-Jose})+d_{trans_{San-Jose \rightarrow Japan}}}) + (d_{prop_{Ada \rightarrow San-Jose})+d_{prop_{San-Jose \rightarrow Japan}}})$$
+$$t_{total} = 3*d_{proc} + 3*d_{queue} + (d_{trans_{Ada \rightarrow San-Jose})+d_{trans_{San-Jose \rightarrow Japan}}}) + (d_{prop_{Ada \rightarrow San-Jose})+d_{prop_{San-Jose \rightarrow Japan}}})$$
 
 $$t_{total} = 3(10*10^{-3})+3(2*10^{-3}) +((\frac{8*10^5}{10*10^6})+(\frac{8*10^5}{20*10^6})) +((\frac{3500*10^3}{2*10^7})+(\frac{8500*10^3}{20*10^7}))$$
 

@@ -51,6 +51,7 @@ loop:
 	j loop         # 10 runs
 L2:
 ```
+
 ```ad-warning
 Make sure you know how many times the for loop loops. The first instructions will run only once, and the loop will run 10 times
 ```

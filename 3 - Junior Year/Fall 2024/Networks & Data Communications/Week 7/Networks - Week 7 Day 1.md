@@ -31,7 +31,7 @@ Can be solved by organizing routers into **Autonomous Systems (AS)**.
 ### Autonomous System
 
 Each autonomous system (AS) consists of a group of routers that are typically under the same administrative control.
-- Routers within the same AS all run the same routing protocol
+- Routers within the same AS all run the same routing protocol.
 - The routing protocol running with an *AS* is called an **Intra-Autonomous System Routing Protocol.**
 - As each AS connect to the outside world, each AS has routers, called *Gateway Routers*, to forward packets to destinations outside the AS.
 - Gateway router has *link* to router in another AS.
