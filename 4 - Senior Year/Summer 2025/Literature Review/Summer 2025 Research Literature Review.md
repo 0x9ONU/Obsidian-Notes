@@ -19,6 +19,14 @@ kanban-plugin: board
 
 ## Attacks on TDMA
 
+- [ ] [[JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs]]
+	- [ ] Reviewed?
+- [ ] [[IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING]]
+	- [ ] Reviewed?
+- [ ] [[A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols]]
+	- [ ] Reviewed?
+- [ ] [[A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems]]
+	- [ ] Reviewed?
 
 
 ## Security on TDMA
@@ -32,6 +40,10 @@ kanban-plugin: board
 - [ ] [[Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering]]
 	- [ ] Reviewed?
 - [ ] [[Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks]]
+	- [ ] Reviewed?
+- [ ] [[Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio]]
+	- [ ] Reviewed?
+- [ ] [[An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks]]
 	- [ ] Reviewed?
 
 
