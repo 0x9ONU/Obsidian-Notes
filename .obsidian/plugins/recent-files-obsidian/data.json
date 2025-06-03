@@ -5,6 +5,14 @@
       "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
     },
     {
+      "basename": "DIGI XBEEE S2C 802.15.4 RF Modules",
+      "path": "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md"
+    },
+    {
+      "basename": "Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks",
+      "path": "General Notes/Kanban/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.md"
+    },
+    {
       "basename": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering",
       "path": "General Notes/Kanban/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks",
       "path": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "DIGI XBEEE S2C 802.15.4 RF Modules",
-      "path": "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md"
     },
     {
       "basename": "Section 9 Questions to Clarify the Design",
@@ -195,10 +199,6 @@
     {
       "basename": "Zynq-7000 Datasheet",
       "path": "General Notes/Kanban/Zynq-7000 Datasheet.md"
-    },
-    {
-      "basename": "Coral Accelerator Module Datasheet",
-      "path": "General Notes/Kanban/Coral Accelerator Module Datasheet.md"
     }
   ],
   "omittedPaths": [],
