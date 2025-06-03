@@ -3,55 +3,26 @@ Date Modified: 3rd June 2025
 File Folder: Kanban
 ## Publication Information
 
-**Database:** 
+**Database:** DIGI
 
-**DOI**: 
+**DOI**: https://hub.digi.com/support/products/digi-xbee/digi-xbee-s2c/
 
-**Authors**: 
+**Authors**: n/a
 
-**Publication Year**:
+**Publication Year**: 2020
 
-**Country of Study**:
+**Country of Study**: USA
 
-**Tags**:
+**Tags**: #parts 
 
 ```ad-abstract
 title: Abstract
 collapse: open
-
+Digi XBee® RF modules provide OEMs with a common footprint shared by multiple platforms, including multipoint and Zigbee/ Mesh topologies, and both 2.4 GHz and 900 MHz solutions. OEMs deploying the Digi XBee can substitute one Digi XBee for another, depending upon dynamic application needs, with minimal development, reduced risk and shorter time-to-market.
 ```
 
-**Used in…**: 
-
-**Embed to Paper**:
-
+**Embed to Paper**: [[ds_xbee-s2c-802-15-4.pdf]]
 ## Summary
 
 ### Introduction
-
-#### Motivation
-
-#### Challenge
-
-#### Background
-
-### Objective of Research
-
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
 
