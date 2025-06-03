@@ -49,6 +49,10 @@ kanban-plugin: board
 
 ## PUFs
 
+- [ ] [[Physical One-Way Functions]]
+	- [ ] Reviewed?
+- [ ] [[Physical unclonable functions]]
+	- [ ] Reviewed
 
 
 ## Discard

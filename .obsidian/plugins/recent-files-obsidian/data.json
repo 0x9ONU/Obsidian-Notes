@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
-      "path": "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md"
+      "basename": "Physical unclonable functions",
+      "path": "General Notes/Kanban/Physical unclonable functions.md"
     },
     {
       "basename": "Summer 2025 Research Literature Review",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
+      "basename": "Physical One-Way Functions",
+      "path": "General Notes/Kanban/Physical One-Way Functions.md"
+    },
+    {
+      "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
+      "path": "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md"
     },
     {
       "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
@@ -191,14 +199,6 @@
     {
       "basename": "Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators",
       "path": "General Notes/Kanban/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware Accelerators.md"
-    },
-    {
-      "basename": "Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md"
-    },
-    {
-      "basename": "A Survey of FPGA Design for AI Era",
-      "path": "General Notes/Kanban/A Survey of FPGA Design for AI Era.md"
     }
   ],
   "omittedPaths": [],
