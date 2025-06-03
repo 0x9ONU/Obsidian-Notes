@@ -24,7 +24,7 @@ collapse: open
 
 **Criminal Activity**
 - To cripple the supply chain of one countries defense system
-- To contaminate one company’s repuation
+- To contaminate one company’s reputation
 - To kill the market share of one company
 
 ## Counterfeit Electronic Parts

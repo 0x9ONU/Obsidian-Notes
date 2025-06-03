@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f02430b27c1176bf",
+        "id": "b9443b755374124a",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc0a164c55ab803",
+            "id": "130f4b663817de45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -29,7 +33,6 @@
       {
         "id": "4ba695eb961baa08",
         "type": "tabs",
-        "dimension": 72.64529058116233,
         "children": [
           {
             "id": "20fa6d1f814f2ed8",
@@ -89,23 +92,6 @@
               "state": {},
               "icon": "longform",
               "title": "Longform"
-            }
-          }
-        ]
-      },
-      {
-        "id": "46bba7dfd0a203a1",
-        "type": "tabs",
-        "dimension": 27.354709418837675,
-        "children": [
-          {
-            "id": "6b91591e90f07cde",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -210,8 +196,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -223,6 +209,16 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "99ab8ffc1c4b5b2c",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 5
@@ -233,6 +229,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -246,12 +250,28 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-daily-notes-opener:Open today's daily note in new pane": false,
       "obsidian-daily-notes-viewer:Open Viewer": false,
-      "obsidian-day-planner:Timeline": false,
       "media-extended:Open media": false
     }
   },
-  "active": "7cc0a164c55ab803",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "4 - Senior Year/Summer 2025",
+    "4 - Senior Year",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What are tensor processing units and what is their role in AI.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What Is the Difference Between CPU vs. GPU vs. TPU.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Understanding TPUs vs GPUs in AI, A Comprehensive Guide.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Understanding Tensor Processing Units.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Tensor Processing Unit Tpu Market Research Report.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Tensor Processing Unit (TPU) Market by Type (Cloud TPU, Edge TPU), Application (Data Center, Healthcare, Automotive & Consumer Electronic) and Future Trends and Geography (2024-2034).md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Nvidia TPU Landing Page.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google's First Tensor Processing Unit Architecture.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Google TPU Landing Page.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Performance Analysis of 6T SRAM Cell on Different CMOS Technologies with Stability Characterization.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Sources/PDFs/Comparison study of hardware architectures performance between FPGA and DSP processor for implementing digital signal processing algorithms - Application of FIR digital filter.pdf",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/ONumber Theory - Week 12 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/ONumber Theory - Week 12 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 12/Number Theory - Week 12 Day 2.md",
@@ -280,24 +300,6 @@
     "General Notes/Pasted image 20250226111736.png",
     "General Notes/Pasted image 20250226111030.png",
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Dynamic Voltage and Frequency Scaling to Improve Energy-Efficiency of Hardware accelerators.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Process Cruise ControlEvent-Driven Clock Scaling for Dynamic Power Management.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Dynamic Voltage and Frequency Scaling and Duty-Cycling for Ultra Low-Power Wireless Sensor Nodes.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Power Consumption in CMOS.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Nanoscale CMOS Scaling Trends, Challenges and Their Solutions.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Optimizing energy efficiency of CNN-based object detection with dynamic voltage and freuqncy scaling.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Papers/Accurate Dynamic Voltage and Frequency Scaling Measurement for Low-Power Microcontrollors in Wireless Sensor Networks.pdf",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 Board.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/Assignment 6/Assignment 6 - In-Depth Analysis of an Active CMOS Power Reduction Technique.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 14/HWSW - Week 14 Day 1.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/NBTI-aware Skew Minimization Techniques.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Power and Skew Reduction Using Resonant Energy Recycling in 14-nm FinFET Clocks.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/Low-Power Clock Distribution Using a Current-Pulsed Clocked Flip-Flop.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/CSAM - A Clock Skew-Aware Aging Mitigation Technique.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Clock Skew/Summaries/A Reinforced Learning Solution for Clock Skew Engineering to Reduce Peak Current and IR Drop.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Modeling and Mitigation of Static Noise Margin Variation in Subthreshold SRAM Cells.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Automating the Sizing of Transistors in CMOS Gates for Low-Power and High-Noise Margin Operation.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/Design and Analysis of CMOS-Based 6T SRAM Cell at Different Technology Nodes.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Papers/Noise Margin/Summaries/A Review of Offset and Noise Reduction Techniques for CMOS Amplifiers.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

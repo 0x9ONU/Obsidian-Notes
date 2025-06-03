@@ -124,6 +124,7 @@ Typically is the ethernet port AND any other connection that is not connected to
 // Add the following command right before exiting
 passive-interface gig 0/0/0
 ```
+
 ```ad-warning
 If you do not do this, it is very easy for malicious hackers to gain the whole network layout by just having access to an access point
 ```

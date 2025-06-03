@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"id": "obsidian-annotator",
 	"name": "Annotator",
@@ -8,3 +9,15 @@
 	"authorUrl": "https://obsidian.md/about",
 	"isDesktopOnly": false
 }
+=======
+{
+	"id": "obsidian-annotator",
+	"name": "Annotator",
+	"version": "0.2.11",
+	"minAppVersion": "1.0.3",
+	"description": "This is a sample plugin for Obsidian. It allows you to open and annotate PDF and EPUB files.",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md/about",
+	"isDesktopOnly": false
+}
+>>>>>>> origin/main

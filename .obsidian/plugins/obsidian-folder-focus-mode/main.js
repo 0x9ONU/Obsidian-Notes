@@ -362,17 +362,14 @@ var FolderFocusModePlugin = class extends import_obsidian2.Plugin {
     }
   }
   substituteSetterForElement(el, allowCollapse = true) {
-    el.__defineSetter__("collapsed", function(newValue) {
+    el.toggleCollapse = function() {
       document.dispatchEvent(new Event("collapse-changed"));
       if (!allowCollapse) {
-        this._collapsed = true;
+        el.collapsed = true;
       } else {
-        this._collapsed = newValue;
+        el.collapsed = !el.collapsed;
       }
-    });
-    el.__defineGetter__("collapsed", function() {
-      return this._collapsed;
-    });
+    };
   }
   onload() {
     return __async(this, null, function* () {
@@ -525,3 +522,5 @@ var FolderFocusModePlugin = class extends import_obsidian2.Plugin {
     }
   }
 };
+
+/* nosourcemap */

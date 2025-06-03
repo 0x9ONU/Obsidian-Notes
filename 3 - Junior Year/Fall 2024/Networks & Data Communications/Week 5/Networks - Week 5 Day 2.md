@@ -12,7 +12,7 @@ title: Today's Topics
 
 ## Router’s Serial Interface
 
-There are two types of devices that can communicate over a serial interface: Data Communication Equipment (DCE), and Data Terminal Equipment (DTE). A DCE provides a physical connection to a network and forwards traffic. A DTE connects to a network through a DCE device. Typically, a DTE device is connected to a DCE device (or vice versa) rather than other DTE device.
+	There are two types of devices that can communicate over a serial interface: Data Communication Equipment (DCE), and Data Terminal Equipment (DTE). A DCE provides a physical connection to a network and forwards traffic. A DTE connects to a network through a DCE device. Typically, a DTE device is connected to a DCE device (or vice versa) rather than other DTE device.
 - DCE has to transmit the clock signal, which controls the data rate, and ther other sid e9DTE) receives the clock signal
 - By default, Cisco routers are all data terminal equipment (DTE) devices, so you must *tell* an interface to provide clocking if you need it to act like a DCE device.
 
@@ -47,7 +47,7 @@ How does `Router1` know where is Network D?
 
 ### Elements of a Routing Table $\star$
 
-1. **Destination**: The IP address fo the packet’s final destination
+1. **Destination**: The IP address of the packet’s final destination
 2. **Next Hop**: The IP address to which the packet is forwarded
 3. **Interface**: The outgoing network interface the device should use when forwarding the packet to the next hop or final destination.
 4. **Metric**: Assigns a *cost* to each available route so that the most cost-effective path can be chosen
