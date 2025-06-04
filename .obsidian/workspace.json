@@ -1,20 +1,130 @@
 {
   "main": {
-    "id": "8a5dc9f581acb448",
+    "id": "b6d6f5303db79c9c",
     "type": "split",
     "children": [
       {
-        "id": "bcc860db52a4b97b",
+        "id": "c3b0e89058e315ef",
         "type": "tabs",
+        "dimension": 16.417910447761194,
         "children": [
           {
-            "id": "34f5322c5b1dac08",
+            "id": "2ce7b1b5625c0ab5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "kanban",
+              "state": {
+                "file": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Summer 2025 Research Literature Review"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8aa874f3d1c935c5",
+        "type": "tabs",
+        "dimension": 41.7910447761194,
+        "children": [
+          {
+            "id": "ed2b0fca0270cd0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Physical One-Way Functions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Physical One-Way Functions"
+            }
+          },
+          {
+            "id": "b8156fbdd77ad7f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Survey of Wireless Sensor Network and Its Types"
+            }
+          },
+          {
+            "id": "d66289bf7ddd7f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks"
+            }
+          },
+          {
+            "id": "4ea6bf03ae4a862b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks"
+            }
+          },
+          {
+            "id": "42291d76d95c277d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIGI XBEEE S2C 802.15.4 RF Modules"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7d734785f4dc9af5",
+        "type": "tabs",
+        "dimension": 41.7910447761194,
+        "children": [
+          {
+            "id": "7a7f28de33b7a562",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Senior Year/Summer 2025/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "A_Survey_of_Wireless_Sensor_Network_and_its_types"
             }
           }
         ]
@@ -23,28 +133,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f7d3cbbd30a9c586",
+    "id": "c4e8d205eebe178e",
     "type": "split",
     "children": [
       {
-        "id": "fa74925aabe0022f",
+        "id": "4ba695eb961baa08",
         "type": "tabs",
         "children": [
           {
-            "id": "111c18cc095349af",
+            "id": "20fa6d1f814f2ed8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "a7cb2db694da2ebb",
+            "id": "1b66cff5896ef8f3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,7 +162,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -61,7 +171,17 @@
             }
           },
           {
-            "id": "b106baa1e12e599b",
+            "id": "c86fcf36380a876c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e848d912d6fd30f1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,7 +191,7 @@
             }
           },
           {
-            "id": "7a2786247cb02b41",
+            "id": "a6e29133e0943952",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -84,34 +204,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "2b6b6d89bd42e8d8",
+    "id": "3aae8ecb757e9689",
     "type": "split",
     "children": [
       {
-        "id": "a7d611c3db60d145",
+        "id": "d510847d6e75478b",
         "type": "tabs",
-        "dimension": 28.14930015552099,
         "children": [
           {
-            "id": "cdf31bd7ba117ea7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "f788e3536995a91c",
+            "id": "144d30a7692f7ccd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 12/Assignment 4/Hardware-Software Co-Design - Assignment 4.md",
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,11 +231,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hardware-Software Co-Design - Assignment 4"
+              "title": "Backlinks for Hardware Security - Week 9 Day 2"
             }
           },
           {
-            "id": "1ca461ce959ef30b",
+            "id": "31c6f284a256d529",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -139,22 +249,32 @@
             }
           },
           {
-            "id": "ee8adf383cdfb7f3",
+            "id": "fbdbafa653ec6d84",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "3011b259d39f16a9",
+            "id": "bd7bb76f6a1d1b91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hardware Security - Week 9 Day 2"
+            }
+          },
+          {
+            "id": "4f4feb0c02350972",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -168,7 +288,37 @@
             }
           },
           {
-            "id": "dd14c75a2c05f2b7",
+            "id": "88e79d2159b922ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "52fd4bc2e7ba6bd8",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "35d312ee91e292cc",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "99ab8ffc1c4b5b2c",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -176,153 +326,90 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
-          },
-          {
-            "id": "873010a5f11fd60e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ]
-      },
-      {
-        "id": "faf4af5dbfbd6022",
-        "type": "tabs",
-        "dimension": 35.925349922239505,
-        "children": [
-          {
-            "id": "e9e30e0699b6f543",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          }
-        ]
-      },
-      {
-        "id": "13afd5dd9893adb6",
-        "type": "tabs",
-        "dimension": 17.962674961119752,
-        "children": [
-          {
-            "id": "5d41f65b75bc16cd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
-      },
-      {
-        "id": "acd0e7b4087d2633",
-        "type": "tabs",
-        "dimension": 17.962674961119752,
-        "children": [
-          {
-            "id": "2d8c0fdbda07a26c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
+    "width": 310.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-daily-notes-opener:Open today's daily note in new pane": false,
-      "obsidian-daily-notes-viewer:Open Viewer": false,
-      "media-extended:Open media": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "templates:Insert template": false,
+      "publish:Publish changes...": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-projects:Open projects": false,
-      "publish:Publish changes...": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-daily-notes-opener:Open today's daily note in new pane": false,
+      "obsidian-daily-notes-viewer:Open Viewer": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "34f5322c5b1dac08",
+  "active": "b8156fbdd77ad7f5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
-    "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md",
-    "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
-    "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md",
-    "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+    "General Notes/Pasted image 20250604164506.png",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf",
     "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
-    "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md",
-    "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/QoS-Aware_Enhanced-Security_for_TDMA_Transmissions_from_Buffered_Source_Nodes.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/Physically unclonable functions.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/Physical One-Way Functions.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/On_the_Delay_Throughput-Security_Tradeoff_in_Wiretap_TDMA_Networks_With_Buffered_Nodes.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/JAMMY_A_Distributed_and_Dynamic_Solution_to_Selective_Jamming_Attack_in_TDMA_WSNs.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/IMPACT OF AN ATTACK ON A NETWORK EXECUTING.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/Employing_Game_Theory_and_TDMA_Protocol_to_Enhance_Security_and_Manage_Power_Consumption_in_WSNs-Based_Cognitive_Radio.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/ds_xbee-s2c-802-15-4.pdf",
+    "General Notes/Pasted image 20250604164308.png",
     "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
-    "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
-    "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
-    "4 - Senior Year/Research/Hassan/Slides/templates/tpl-con-default-box.md",
-    "4 - Senior Year/Research/Hassan/Slides/templates/tpl-con-title.md",
-    "4 - Senior Year/Research/Hassan/Slides/EIT2025 Presentation.md",
-    "4 - Senior Year/Research/Hassan/Slides/templates/tpl-con-splash.md",
-    "4 - Senior Year/Research/Hassan/Slides/templates/tpl-con-3-2.md",
-    "4 - Senior Year/Research/Hassan/Slides/templates/tpl-con-2-1-box.md",
-    "4 - Senior Year/Research/Hassan/Slides/templates/tpl-con-default-slide.md",
-    "tpl-con-2-1-box.md",
-    "Test.md",
-    "General Notes/Kanban/Section 9 Questions to Clarify the Design.md",
-    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
-    "General Notes/Kanban/HWSW Final Exam.md",
-    "General Notes/Kanban/Section 10 Final Recommendation.md",
-    "General Notes/Kanban/Sources.md",
-    "General Notes/Pasted image 20250510162218.png",
-    "General Notes/Pasted image 20250510161305.png",
-    "General Notes/Pasted image 20250510140330.png",
-    "General Notes/Pasted image 20250507144146.png",
-    "General Notes/Pasted image 20250507143743.png",
-    "General Notes/Pasted Image 20250507084254_460.png",
-    "General Notes/Pasted image 20250507083841.png",
-    "General Notes/Pasted image 20250507083828.png",
-    "General Notes/9cf6ec27f702340e1f2ebd525f61391dbc2fd862-1745x1352.avif",
-    "General Notes/Engineering-Decision-Matrix.png",
-    "3 - Junior Year/Spring 2025/Project Development/Untitled.canvas"
+    "General Notes/Kanban/Physical One-Way Functions.md",
+    "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+    "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
+    "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
+    "General Notes/Kanban/Physical unclonable functions.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/Physically unclonable functions.pdf",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/Physical One-Way Functions 1.pdf",
+    "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/Physical One-Way Functions.pdf",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.pdf",
+    "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf",
+    "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
+    "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/IMPACT OF AN ATTACK ON A NETWORK EXECUTING.pdf",
+    "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
+    "General Notes/Kanban/Generalized TDMA The Multi-Accessing Tree Protocol.md",
+    "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/JAMMY_A_Distributed_and_Dynamic_Solution_to_Selective_Jamming_Attack_in_TDMA_WSNs.pdf",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/Employing_Game_Theory_and_TDMA_Protocol_to_Enhance_Security_and_Manage_Power_Consumption_in_WSNs-Based_Cognitive_Radio.pdf",
+    "General Notes/Kanban/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.md",
+    "General Notes/Kanban/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.md",
+    "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md",
+    "General Notes/Kanban/QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes.md",
+    "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md",
+    "conflict-files-obsidian-git.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What are tensor processing units and what is their role in AI.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What Is the Difference Between CPU vs. GPU vs. TPU.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Understanding TPUs vs GPUs in AI, A Comprehensive Guide.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Understanding Tensor Processing Units.md",
+    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/Tensor Processing Unit Tpu Market Research Report.md",
+    "General Notes/Pasted image 20250226113357.png",
+    "General Notes/Pasted image 20250226113349.png",
+    "General Notes/Pasted image 20250226113242.png",
+    "General Notes/Pasted image 20250226113155.png",
+    "General Notes/Pasted image 20250226113147.png",
+    "General Notes/Pasted image 20250226112211.png",
+    "General Notes/Pasted image 20250226111808.png",
+    "General Notes/Pasted image 20250226111800.png",
+    "General Notes/Pasted image 20250226111736.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

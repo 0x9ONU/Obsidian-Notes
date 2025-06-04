@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "A Survey of Wireless Sensor Network and Its Types",
+      "path": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md"
+    },
+    {
+      "basename": "A_Survey_of_Wireless_Sensor_Network_and_its_types",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf"
+    },
+    {
+      "basename": "Summer 2025 Research Literature Review",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
+      "basename": "Physical One-Way Functions",
+      "path": "General Notes/Kanban/Physical One-Way Functions.md"
+    },
+    {
+      "basename": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks",
+      "path": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md"
+    },
+    {
+      "basename": "DIGI XBEEE S2C 802.15.4 RF Modules",
+      "path": "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md"
+    },
+    {
+      "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
+      "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
+    },
+    {
       "basename": "Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw",
       "path": "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md"
     },
@@ -171,26 +199,6 @@
     {
       "basename": "Trump says China tariffs will come down from 145%",
       "path": "General Notes/Kanban/Trump says China tariffs will come down from 145%.md"
-    },
-    {
-      "basename": "What is a neural processing unit (NPU)",
-      "path": "General Notes/Kanban/What is a neural processing unit (NPU).md"
-    },
-    {
-      "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System",
-      "path": "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md"
-    },
-    {
-      "basename": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter",
-      "path": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md"
-    },
-    {
-      "basename": "Cortex-A9 MBIST Controller Technical Reference Manual",
-      "path": "General Notes/Kanban/Cortex-A9 MBIST Controller Technical Reference Manual.md"
-    },
-    {
-      "basename": "A Case Study in Hardware Trojan Design and Implementation",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Paper Summaries/A Case Study in Hardware Trojan Design and Implementation.md"
     }
   ],
   "omittedPaths": [],

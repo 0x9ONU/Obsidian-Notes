@@ -26,4 +26,26 @@ In the past several years there is a fast development in the area of WSN. For ch
 ## Summary
 ### Introduction
 
+**WSN**:
+- Can sense, process, communicate, and store data
+- Consists of one *sink node* and a large number of sensor nodes placed over one big area
+- single or multi-hop to get from one place to another
+
+![[Pasted image 20250604164308.png | center]]
+
+### Block Diagram
+
+*Four Main Parts*:
+1. Sensing Unit
+	- Sensors
+	- ADC
+2. Processing unit
+3. Transceiver
+4. Power Unit
+
+![[Pasted image 20250604164506.png]]
+
+
+
+
 
