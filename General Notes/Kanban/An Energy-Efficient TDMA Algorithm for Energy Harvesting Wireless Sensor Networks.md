@@ -27,4 +27,16 @@ Recently, it has been shown that energy harvesting can be utilized to enhance th
 
 ### Introduction
 
+**Energy Harvesting** has been proposed to improve the energy efficiency and lifetime of WSN nodes by handling battery recharging on their own.
 
+```ad-warning
+HOWEVER, more constriants are placed on the system due to the stochastic nature of the process. MUST modify:
+1. Scheduling
+2. Synching
+3. Communication
+4. Routing
+5. Tracking algorithms
+```
+
+*Previous Papers*:
+- 
