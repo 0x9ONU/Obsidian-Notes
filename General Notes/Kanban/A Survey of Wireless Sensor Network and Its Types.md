@@ -45,6 +45,67 @@ In the past several years there is a fast development in the area of WSN. For ch
 
 ![[Pasted image 20250604164506.png]]
 
+### Observation of Physical Parameters Through WSN
+
+![[Pasted image 20250604165919.png]]
+
+![[Pasted image 20250604165939.png]]
+
+### Design Challenges of WSNs
+
+1. Limit Power Consumption
+2. Limit Production Cost
+3. Energy-Efficient Hardware
+4. Computational Power and Memory Size
+5. Security
+
+```ad-important
+It is difficult to identiyf wehther the informaiton is authenticated or not
+```
+
+6. Operating Environment
+
+### Topologies
+
+
+| Topology           | Central Node? | Notes                                                                                                                                                   | Diagram                              |
+| ------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| **Point-to-Point** | NO            | Very popular and has only *one channel*. Every node is a client OR a server                                                                             | ![[Pasted image 20250604170622.png]] |
+| **Star Network**   | YES           | No direct communication between nodes and MUST be done through a single hub node                                                                        | ![[Pasted image 20250604170647.png]] |
+| **Tree Network**   | YES           | A combination of PTP and star networks. A single root parent node exists that has leaf nodes that can have their own leaf nodes. *Consumes less  power* | ![[Pasted image 20250604170806.png]] |
+| **Mesh Network**   | NO            | All nodes directly communicate with each other without using a central hub. Most reliable, BUT most expensive in complexity and power.                  | ![[Pasted image 20250604170818.png]] |
+### Types of WSNs
+
+![[Pasted image 20250604171015.png]]
+
+| Type                                              | Description                                                                                                                                                                                                                         |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mobile Wireless Sensor Networks (MWSNs)**       | Has *mobile* sensor nodes that can adapt and change with sudden topology changes                                                                                                                                                    |
+| **Underwater Wireless Sensor Networks (UWSNs)**   | **DIFFICULT**: Try to utilize either radio frequencies and acoustic waves, which do not provide good bandwidth or error rate. Optical communication in the green/blue wavelengths seems promising for short-distance communication. |
+| **Underground Wireless Sensor Networks (UgWSNs)** | Transmits ground information upwards towards the surface                                                                                                                                                                            |
+| **Wireless Multimedia Sensor Networks (WMSNs)**   | Traffic management, weather monitoring. NEES effective communication of analog signals including audio, video, and images. High bandwidth and high power consumption.                                                               |
+| **Terrestrial Wireless Sensor Networks(TWSNs)**   | Has hundreds of nodes that are placed in a geographical area. Typical in solar energy harvesting. Uses FSO, LOS, or RF                                                                                                              |
+```ad-warning
+title: Static WSN Issues
+1. The connectivity of the entire network and full coverage of the sensing field are not always possible
+2. Larger nodes over a wider are needed for tracking applications
+3. An application might need variable levels of node power.
+```
+
+```ad-example
+**Attributes of WSNs**
+1. Self-healing
+2. Scalability
+3. Self-organization
+4. Energy Efficiency
+5. Adequate Degree of Connectivity among nodes
+6. Low cost
+7. Low-complexity
+```
+
+### Comparison Between Different Types of WSNs
+
+![[Pasted image 20250604172515.png]]
 
 
 

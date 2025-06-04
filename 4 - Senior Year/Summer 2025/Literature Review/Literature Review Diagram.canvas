@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ac33a3e4e07dbecc","type":"text","text":"<html><center> <h2>A Survey of Wireless Sensor Network and Its Types </h2></center></html>\n","x":-879,"y":-840,"width":1025,"height":580,"color":"1"},
+		{"id":"f91ecefa0233233e","type":"file","file":"General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md","x":-821,"y":-730,"width":400,"height":400},
+		{"id":"fdefcca18307e47d","type":"file","file":"4 - Senior Year/Summer 2025/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf","x":-340,"y":-730,"width":400,"height":400},
+		{"id":"8dfc76221ee13ee9","type":"text","text":"# Original Papers","x":-513,"y":-1400,"width":292,"height":50,"color":"1"}
+	],
+	"edges":[
+		{"id":"c6a71000a92be521","fromNode":"8dfc76221ee13ee9","fromSide":"bottom","toNode":"ac33a3e4e07dbecc","toSide":"top"}
+	]
+}

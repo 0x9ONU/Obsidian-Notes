@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Original Papers
 
 - [ ] [[A Survey of Wireless Sensor Network and Its Types]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-04
 - [ ] [[An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks]]
 	- [ ] Reviewed?
 - [ ] [[A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks]]
