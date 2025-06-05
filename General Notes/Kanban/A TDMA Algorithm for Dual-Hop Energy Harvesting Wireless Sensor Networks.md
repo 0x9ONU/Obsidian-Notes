@@ -248,11 +248,17 @@ $$
 \tau_{w} = 
 \left\{ 
 \begin{array}{ll} 
-SYNC_{1} & \tau_{n}+(j-1)t_{s} \\
-SYNC_{2} & \tau_{n}+((N+j-k)\mod N)t_{s}
+WAIT \&SYNC_{1} & \tau_{n}+(j-1)t_{s} \\
+WAIT\&SYNC_{2} & \tau_{n}+((N+j-k)\mod N)t_{s}  \\
+TRANSMIT & \tau_{n}+Nt_{s}
 \end{array}
 \right.
 $$
+
+$$
+\tau_{w}>\tau_{c}\to \text{Transition to the  } TRANSMIT \text{ state}
+$$
+
 - $\tau_{n}$: The current time moment where cluster member $i$ enters the $WAIT$ state
 - $j$: $j \in \{1, 2, \dots N\}$ and the time slot number designated to cluster member $i$
 - $k$: the current running time slot included in the received packet
@@ -311,3 +317,11 @@ The FSM for the cluster head is the same as a member node, but in $SYNC$ and $WA
 	\end{algorithm}
 ```
 
+### Section VI: Experimental Results
+
+```ad-summary
+Used **three** different setups:
+1. *Setup 1*: Four nodes with one being a base station and the rest being cluster heads
+2. *Setup 2*: Four nodes with one head, one cluster head, and two cluster members
+3. *Setup 3*: 
+```
