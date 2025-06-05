@@ -24,6 +24,49 @@ In this paper, we propose a time division multiple access (TDMA) algorithm and s
 **Embed to Paper**: [[A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1).pdf]]
 ## Summary
 
-### Introduction
+### Section I: Introduction
 
+See [[An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks]] for background
+
+```ad-important
+title: Contributions
+1. Propose a TDMA algorithm and system for a dual-hop energy harvesting WSN
+	- Base station + nodes
+	- Broken into clusters, where each cluster has a head and members
+	- Tree network based on [[A Survey of Wireless Sensor Network and Its Types]]
+	- Clusters can re-sync themselves without bothering the other clusters
+	- Does not need acknowledgemetn packets
+2. Implemented on an Arduino-based WSN
+3. Evaluate algorithm based on its average energy consumption and delay
+```
+
+### Section II: System Model
+
+![[Pasted image 20250605080934.png]]
+
+- 1 Base Station
+- $N$ sensor nodes
+- $M$ clusters, where $m \in \{ 1,2, \dots, M \}$
+	- One node out of each acts as a cluster head
+	- Rest are members
+
+**Cluster Heads**:
+- Can communicate with:
+	- It’s members
+	- Other cluster heads
+	- the Base station
+- Receives information from it’s members and sends it as a single packet to the base station
+
+**Cluster Members**:
+- Can communicate with:
+	- their cluster head
+	- their cluster brothers
+- Can *only receive* information from the base station
+- Sends information to cluster head
+
+Still using the **Harvest-Store-Spend** Policy. See [[An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks]]
+- Energy availability is $E_{i}$ at node $i \in\{1,2,\dots N\}$
+- Can be modeled by a binary random variable with probability $p_{i}$,
+	- $E_{i}=1$ means node $i$ has sufficient energy
+	- $E_{i}=0$ represents the event that node $i$ does *not*, aka in the **out-of-energy** state
 

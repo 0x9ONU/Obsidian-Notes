@@ -256,6 +256,15 @@ $$
 $$
 
 $$
-
+\text{EH-TDMA}= \left( \frac{\bar{T}}{t_{m}+Nt_{s}} \text{sync packets} \right)
 $$
+$$
+\text{AT-MAC}=\text{sync pkt}+\text{Rec.} \frac{\bar{N}T}{(N+1)t_{m}+Nt_{s}} \text{pkt} + \text{Trans. } \frac{\bar{T}}{(N+1)t_{m}+Nt_{s}} \text{pkt}
+$$
+#### Average Consumption and Delay
 
+![[Pasted image 20250605075243.png]]
+
+```ad-important
+Proposed is 12x lower delay than EH-TDMA
+```

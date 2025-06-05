@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] [[A Survey of Wireless Sensor Network and Its Types]]
 	- [x] Reviewed? ✅ 2025-06-04
 - [ ] [[An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks]]
 	- [ ] Reviewed?
 - [ ] [[DIGI XBEEE S2C 802.15.4 RF Modules]]

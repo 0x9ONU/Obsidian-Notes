@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
-      "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1)",
-      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf"
-    },
-    {
       "basename": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks",
       "path": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md"
+    },
+    {
+      "basename": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1)",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1).pdf"
+    },
+    {
+      "basename": "Summer 2025 Research Literature Review",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
     },
     {
       "basename": "A Survey of Wireless Sensor Network and Its Types",
       "path": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md"
     },
     {
-      "basename": "Physical One-Way Functions",
-      "path": "General Notes/Kanban/Physical One-Way Functions.md"
+      "basename": "An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1)",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf"
     },
     {
-      "basename": "Summer 2025 Research Literature Review",
-      "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
+      "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
+      "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
+    },
+    {
+      "basename": "Physical One-Way Functions",
+      "path": "General Notes/Kanban/Physical One-Way Functions.md"
     },
     {
       "basename": "Literature Review Diagram",
@@ -195,10 +199,6 @@
     {
       "basename": "Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications",
       "path": "General Notes/Kanban/Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications.md"
-    },
-    {
-      "basename": "A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain",
-      "path": "General Notes/Kanban/A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain.md"
     }
   ],
   "omittedPaths": [],
