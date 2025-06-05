@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
-      "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
+      "basename": "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs",
+      "path": "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md"
     },
     {
       "basename": "Summer 2025 Research Literature Review",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
+      "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
+      "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
     },
     {
       "basename": "DIGI XBEEE S2C 802.15.4 RF Modules",
@@ -195,10 +199,6 @@
     {
       "basename": "Zynq-7000 Datasheet",
       "path": "General Notes/Kanban/Zynq-7000 Datasheet.md"
-    },
-    {
-      "basename": "Coral Accelerator Module Datasheet",
-      "path": "General Notes/Kanban/Coral Accelerator Module Datasheet.md"
     }
   ],
   "omittedPaths": [],
