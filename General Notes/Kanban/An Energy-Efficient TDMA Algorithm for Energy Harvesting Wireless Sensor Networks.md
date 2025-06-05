@@ -38,5 +38,9 @@ HOWEVER, more constriants are placed on the system due to the stochastic nature 
 5. Tracking algorithms
 ```
 
-*Previous Papers*:
+*Previous Papers [11-12]*:
+- Used CEH-TDMA and AT-MAC
+- Synched only one time
+- Allocated time slots for the nodes periodically 
+- Would desynch bc of clock drift
 - 
