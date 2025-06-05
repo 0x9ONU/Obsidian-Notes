@@ -240,7 +240,22 @@ $$
 ```
 
 
-$\tau_{w}$: the time 
+$\tau_{w}$: the time a cluster member waits whenever it enters the $WAIT$ state
+- Set based on the prior state of $WAIT$ and the type of synchronization packet
+
+$$
+
+\tau_{w} = 
+\left\{ 
+\begin{array}{ll} 
+SYNC_{1} & \tau_{n}+(j-1)t_{s} \\
+SYNC_{2} & \tau_{n}+((N+j-k)\mod N)t_{s}
+\end{array}
+\right.
+$$
+- $\tau_{n}$: The current time moment where cluster member $i$ enters the $WAIT$ state
+- $j$: $j \in \{1, 2, \dots N\}$ and the time slot number designated to cluster member $i$
+- $k$: the current running time slot included in the received packet
 
 #### Algorithm 3: Cluster Head Algorithm
 
