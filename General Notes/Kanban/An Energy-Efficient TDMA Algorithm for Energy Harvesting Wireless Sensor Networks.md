@@ -218,5 +218,40 @@ Uses FSM. See above
 - One coordinator node
 - Three sensor nodes
 - Each node has an Arduino and a Digi XBee S2C
+- Separate listener node
+	- Uses python script to collect time, count, and read all the data packets received
+	- Used to calculate $\bar{T}$ and $\bar{M}$
+- Five trails each two hours long for seven different time slot lengths and three values for $p=1, 0.8, 0.4$
 ```
+
+![[Pasted image 20250605071254.png]]
+
+![[Pasted image 20250605071344.png]]
+
+![[Pasted image 20250605071350.png]]
+
+#### Equations
+
+##### Energy Consumption of Sensor
+$$
+\text{Energy Consumption for Proposed} = \bar{T}(\text{Receiving}+\text{Transmitting Ack.})
+$$
+$$
+\text{Energy Consumption of EH-TDMA Sensor Nodes}=\frac{\bar{T}}{t_{m}+Nt_{s}} \times \text{*sync* packets}
+$$
+$$
+\text{Energy Consumption of AT-MAC Sensor Nodes} = 
+$$
+$$
+\text{Consumption of R *sync* packet}+\text{Transmission of } \frac{\bar{T}}{((N+1)t_{m}+Nt_{s})} \text{packets}
+$$
+$$
++ \text{Receiving } \frac{\bar{T}}{((N+1)t_{m}+Nt_{s})} \text{packets}
+$$
+
+##### Energy Consumption of Coordinator
+
+$$
+\text{Proposed}=
+$$
 
