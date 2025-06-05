@@ -36,17 +36,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0e91cdb69dcb7ef",
+            "id": "72b35a91ce340ba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
+                "file": "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs"
+              "title": "On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes"
             }
           }
         ]
@@ -283,51 +283,16 @@
       "media-extended:Open media": false
     }
   },
-  "floating": {
-    "id": "3c8de0fa5038ccb5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "72b899d0b0eb6fea",
-        "type": "window",
-        "children": [
-          {
-            "id": "b030649a005ab342",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ca7e1e784a9fb77e",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
-                    "viewState": {
-                      "x": 263.3378803231103,
-                      "y": -871.1573197031672,
-                      "zoom": -1.6666666666666665
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Literature Review Diagram"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a0e91cdb69dcb7ef",
+  "active": "72b35a91ce340ba8",
   "lastOpenFiles": [
+    "General Notes/Kanban/QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes.md",
+    "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md",
     "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
+    "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md",
+    "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md",
+    "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
+    "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md",
+    "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
     "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
     "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
     "General Notes/Pasted image 20250605112941.png",
@@ -354,19 +319,12 @@
     "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/Physical One-Way Functions.pdf",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.pdf",
-    "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf",
-    "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
-    "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md",
-    "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
     "General Notes/Kanban/Generalized TDMA The Multi-Accessing Tree Protocol.md",
     "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md",
     "General Notes/Kanban/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.md",
     "General Notes/Kanban/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.md",
-    "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md",
-    "General Notes/Kanban/QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes.md",
-    "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md",
     "conflict-files-obsidian-git.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What are tensor processing units and what is their role in AI.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What Is the Difference Between CPU vs. GPU vs. TPU.md",
