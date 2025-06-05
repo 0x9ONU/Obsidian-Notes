@@ -252,6 +252,10 @@ $$
 ##### Energy Consumption of Coordinator
 
 $$
-\text{Proposed}=
+\text{Proposed}= \bar{T}(\text{Transmission of }(N+1) \text{ packets}+\text{Receiving } N \text{ Ack.})
+$$
+
+$$
+
 $$
 
