@@ -6,7 +6,6 @@
       {
         "id": "c3b0e89058e315ef",
         "type": "tabs",
-        "dimension": 28.205128205128208,
         "children": [
           {
             "id": "2ce7b1b5625c0ab5",
@@ -29,85 +28,19 @@
               "icon": "lucide-trello",
               "title": "Summer 2025 Research Literature Review"
             }
-          }
-        ]
-      },
-      {
-        "id": "8aa874f3d1c935c5",
-        "type": "tabs",
-        "dimension": 35.8974358974359,
-        "children": [
+          },
           {
-            "id": "d66289bf7ddd7f48",
+            "id": "6b8ed58553f05ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+                "file": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks"
-            }
-          },
-          {
-            "id": "42291d76d95c277d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DIGI XBEEE S2C 802.15.4 RF Modules"
-            }
-          },
-          {
-            "id": "836a9ccbbdc95b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Survey of Wireless Sensor Network and Its Types"
-            }
-          }
-        ]
-      },
-      {
-        "id": "eda57a853c731c0e",
-        "type": "tabs",
-        "dimension": 35.8974358974359,
-        "children": [
-          {
-            "id": "8ca3eacfea9be68d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1)"
-            }
-          },
-          {
-            "id": "0337d7bfdbbe0ade",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Literature Review/Papers/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1)"
+              "title": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks"
             }
           }
         ],
@@ -387,28 +320,29 @@
       }
     ]
   },
-  "active": "d66289bf7ddd7f48",
+  "active": "6b8ed58553f05ff0",
   "lastOpenFiles": [
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1).pdf",
+    "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
+    "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
+    "General Notes/Pasted image 20250605112941.png",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/ds_xbee-s2c-802-15-4.pdf",
+    "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
     "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1).pdf",
+    "General Notes/Pasted image 20250605112450.png",
+    "General Notes/Pasted image 20250605112325.png",
+    "General Notes/Pasted image 20250605112320.png",
+    "General Notes/Pasted image 20250605112312.png",
+    "General Notes/Pasted image 20250605112308.png",
     "General Notes/Pasted image 20250605092318.png",
     "General Notes/Pasted image 20250605091445.png",
     "General Notes/Pasted image 20250605084611.png",
     "General Notes/Pasted image 20250605080934.png",
-    "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
-    "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf",
     "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
-    "General Notes/Pasted image 20250605075243.png",
-    "General Notes/Pasted image 20250605071350.png",
-    "General Notes/Pasted image 20250605071344.png",
-    "General Notes/Pasted image 20250605071254.png",
-    "General Notes/Pasted image 20250605065452.png",
-    "General Notes/Pasted image 20250605065117.png",
     "General Notes/Kanban/Physical One-Way Functions.md",
     "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf",
-    "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
     "General Notes/Kanban/Physical unclonable functions.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/Physically unclonable functions.pdf",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/Physical One-Way Functions 1.pdf",
@@ -420,7 +354,6 @@
     "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
     "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/IMPACT OF AN ATTACK ON A NETWORK EXECUTING.pdf",
     "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
     "General Notes/Kanban/Generalized TDMA The Multi-Accessing Tree Protocol.md",
     "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md",

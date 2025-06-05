@@ -323,5 +323,30 @@ The FSM for the cluster head is the same as a member node, but in $SYNC$ and $WA
 Used **three** different setups:
 1. *Setup 1*: Four nodes with one being a base station and the rest being cluster heads
 2. *Setup 2*: Four nodes with one head, one cluster head, and two cluster members
-3. *Setup 3*: 
+3. *Setup 3*: Six nodes that are partiioing into two clusters
+	- one base station
+	- two cluster heads
+	- three cluster members (split two and one)
 ```
+
+Same setup as [[An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks]]
+
+```ad-note
+20000 packets for each trial
+```
+
+
+![[Pasted image 20250605112308.png]]
+
+![[Pasted image 20250605112312.png]]
+
+![[Pasted image 20250605112320.png]]
+
+![[Pasted image 20250605112325.png]]
+
+![[Pasted image 20250605112450.png]]
+
+```ad-important
+Improves upon the previous proposed algorithm by 1.36 times less average energy consumption and decreases average delay by approximately 1.46 times.
+```
+

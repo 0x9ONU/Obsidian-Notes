@@ -11,9 +11,9 @@ kanban-plugin: board
 - [ ] [[An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks]]
 	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[DIGI XBEEE S2C 802.15.4 RF Modules]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-05
 - [ ] https://drive.google.com/drive/u/0/folders/1N5Gfyok4b0GMRxHff1BNWHzBF1VYVi7G
 
 
