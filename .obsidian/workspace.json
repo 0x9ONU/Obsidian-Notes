@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -390,6 +391,9 @@
   "lastOpenFiles": [
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1).pdf",
     "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+    "General Notes/Pasted image 20250605092318.png",
+    "General Notes/Pasted image 20250605091445.png",
+    "General Notes/Pasted image 20250605084611.png",
     "General Notes/Pasted image 20250605080934.png",
     "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
     "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
@@ -401,11 +405,8 @@
     "General Notes/Pasted image 20250605071254.png",
     "General Notes/Pasted image 20250605065452.png",
     "General Notes/Pasted image 20250605065117.png",
-    "General Notes/Pasted image 20250605065110.png",
     "General Notes/Kanban/Physical One-Way Functions.md",
-    "General Notes/Pasted image 20250605055649.png",
     "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
-    "General Notes/Pasted image 20250604172515.png",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf",
     "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
     "General Notes/Kanban/Physical unclonable functions.md",
