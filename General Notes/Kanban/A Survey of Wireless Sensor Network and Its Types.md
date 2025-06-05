@@ -24,7 +24,7 @@ In the past several years there is a fast development in the area of WSN. For ch
 **Embed to Paper**: [[A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf]]
 
 ## Summary
-### Introduction
+### Section I: Introduction
 
 **WSN**:
 - Can sense, process, communicate, and store data
@@ -33,7 +33,7 @@ In the past several years there is a fast development in the area of WSN. For ch
 
 ![[Pasted image 20250604164308.png | center]]
 
-### Block Diagram
+### Section II: Block Diagram
 
 *Four Main Parts*:
 1. Sensing Unit
@@ -45,13 +45,13 @@ In the past several years there is a fast development in the area of WSN. For ch
 
 ![[Pasted image 20250604164506.png]]
 
-### Observation of Physical Parameters Through WSN
+### Section III: Observation of Physical Parameters Through WSN
 
 ![[Pasted image 20250604165919.png]]
 
 ![[Pasted image 20250604165939.png]]
 
-### Design Challenges of WSNs
+### Section IV: Design Challenges of WSNs
 
 1. Limit Power Consumption
 2. Limit Production Cost
@@ -65,8 +65,7 @@ It is difficult to identiyf wehther the informaiton is authenticated or not
 
 6. Operating Environment
 
-### Topologies
-
+### Section V: Topologies
 
 | Topology           | Central Node? | Notes                                                                                                                                                   | Diagram                              |
 | ------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
@@ -74,7 +73,7 @@ It is difficult to identiyf wehther the informaiton is authenticated or not
 | **Star Network**   | YES           | No direct communication between nodes and MUST be done through a single hub node                                                                        | ![[Pasted image 20250604170647.png]] |
 | **Tree Network**   | YES           | A combination of PTP and star networks. A single root parent node exists that has leaf nodes that can have their own leaf nodes. *Consumes less  power* | ![[Pasted image 20250604170806.png]] |
 | **Mesh Network**   | NO            | All nodes directly communicate with each other without using a central hub. Most reliable, BUT most expensive in complexity and power.                  | ![[Pasted image 20250604170818.png]] |
-### Types of WSNs
+### Section VI: Types of WSNs
 
 ![[Pasted image 20250604171015.png]]
 
@@ -103,7 +102,7 @@ title: Static WSN Issues
 7. Low-complexity
 ```
 
-### Comparison Between Different Types of WSNs
+### Section VII: Comparison Between Different Types of WSNs
 
 ![[Pasted image 20250604172515.png]]
 

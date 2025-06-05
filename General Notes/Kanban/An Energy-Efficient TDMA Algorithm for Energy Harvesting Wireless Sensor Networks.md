@@ -25,7 +25,7 @@ Recently, it has been shown that energy harvesting can be utilized to enhance th
 
 ## Summary
 
-### Introduction
+### Section I: Introduction
 
 **Energy Harvesting** has been proposed to improve the energy efficiency and lifetime of WSN nodes by handling battery recharging on their own.
 
@@ -43,4 +43,180 @@ HOWEVER, more constriants are placed on the system due to the stochastic nature 
 - Synched only one time
 - Allocated time slots for the nodes periodically 
 - Would desynch bc of clock drift
-- 
+- Caused overlap and network malfunction
+
+*Other Paper [13]*
+- Used EH-TDMA
+- Eliminates the clock drift by synching the network **periodically**
+- However, the interval is every time the time slots are allocated, which is TOOO OFTEN
+- Leads to a high # of synch packets and high energy consumption and delay
+
+```ad-summary
+title: Proposed Algorithm
+Increased synchronization internval which allows:
+1. The sensor nodes to synchornize from the central node **AND** each other
+2. Synchronizing the sensor nodes only when all nodes are out-of-energy or there is a transmission overlap, which causes the clock drift
+```
+
+#### $\star$ Contributions
+
+1. Implemented the proposed algorithm on an Arduino-based wireless sensor network
+2. Evaluate the perform based on the *average energy consumption* and the *average delay* per synch interval
+
+```ad-note
+**Average Energy** is the average energy consumed by a node *plus* the average enrgy consumed byt he central node due to synch and time slot allocation
+
+**Average Delay** is the total time allocated for synch and time slot allocation
+```
+
+```ad-important
+The new methodology shows a an approximately 7 times decrease in energy consumption and a 12 times decrease in the average delay when compared to CEH-TDMA and the AT-MAC algorithms [11-12]
+```
+
+### Section II: System Model
+
+- Single hop
+- One central node with $N$ wireless sensor nodes
+- The *coordinator* handles the synch, transmissions, and data aggregation
+- Give a # ($i, i \in \{1,2, \dots N \} \Rightarrow ID_{i} = i$)
+- Each node is given a time slot to transmit and will *always have data* to transmit during every clock period
+- **Harvest-Store-Spend** Policy [6], [16], where the energy harvested in a time slot is stored in the *battery* and used in a later time slot.
+	- Each node has sufficient energy in a time slot as a Bernoulli random variable with probability $p$
+	- The probability of running out of energy for every node $i$ has the probability of $1-p$
+	- In the matrix $O_{i}$, where $O_{i} \in \{0, 1 \}$
+
+### Section III: Proposed TDMA System
+
+![[Pasted image 20250605055649.png]]
+
+**TWO PHASES**:
+1. *Active*: Immediately follows sync, where each node transmits their data packets consecutively.
+	- Divided into $N$ time slots of length $t_{s}$. Each time slot is assigned to one node such that time slot $i, i \in \{1,2, \dots N\}$ 
+	- Repeats as long as no error is detected (transmission overlap or all nodes are out-of-energy)
+	- *Error = Nodes out of Sync*
+2. *Sync*: Forces a measure of sync of the nodes
+
+The interval between two consecutive synchronization phases is the synchronization interval:
+$$
+T = t_{m} +MNt_{s}
+$$
+- $t_{m}$: The time length of phase SYNC
+- $M$: The number of active phases per sync interval. Random due to errors occurring randomly
+
+```ad-important
+Proposed algorithm is evaluted based on average energy consumption and average delay calculated due to $\bar{M}$ per $\bar{T}$
+```
+
+### Section IV: Proposed Algorithm
+
+#### Algorithm 1: The Coordinator Algorithm
+
+```pseudo
+	\begin{algorithm}
+	\caption{Cordinator Algorithm}
+	\begin{algorithmic}
+		\Procedure{main}{phase, errors}
+			\State{set phase to $SYNC$}
+			\If{SYNC}
+				\State{broadcast $sync$ packet;}
+				\State{set phase to $ACTIVE$}
+			\ElseIf{ACTIVE}
+				\While{$no \space errors$}
+					\State{receive packets and check for errors;}
+				\EndWhile
+				\If{$out- of- energy \space error$}
+					\State{set phase to SYNC;}
+				\EndIf
+				\If{$transmission \space overlap \space error$}
+					\State{halt the network by broadcasting a $sync$ packet;}
+					\State{wait for an acknowledgment;}
+					\If{$acknowledgement \space received$}
+						\State{set phase to $SYNC$;}
+					\EndIf
+			\EndIf
+			\EndIf
+		\EndProcedure
+	\end{algorithmic}
+	\end{algorithm}
+```
+
+*Two Operating Phases*:
+1. $SYNC$:
+	- Starts here where it first broadcasts a *sync* packet and then immediately transitions to phase $ACTIVE$
+	- Will broadcast any further sync packets based on transmission overlap or out-of-energy errors until the system is stablized
+2. $ACTIVE$:
+	- If no errors, continue in $ACTIVE$
+	- If errors, it will transition back to $SYNC$
+
+![[Pasted image 20250605065117.png]]
+
+### Algorithm 2: Sensor Node
+
+```pseudo
+	\begin{algorithm}
+	\caption{Sensor Node Algorithm}
+	\begin{algorithmic}
+		\procedure{main}{phase}
+			\state{set phase to $DEAD$}
+			\if{$DEAD$}
+				\state{harvest energy;}
+				\if{$sufficient \space energy \space collected$}
+					\state{set phase to $SYNC$}
+				\endif
+			\endif
+			\if{$SYNC$}
+				\state{wait for a synchronization packet;}
+				\if{$a \space synchronization \space packet \space received$}
+					\state{set phase to $ACTIVE$;}
+				\endif
+			\endif
+			\if{$ACTIVE$}
+				\state{synchronize using the synchronization packet;}
+				\while{$still \space has \space sufficient \space energy$}
+					\state{wait for the designated time slot;}
+					\state{send packet;}
+					\if{$sync \space packet \space received$}
+						\state{send acknowledgement;}
+						\state{set phase to $SYNC$}
+					\endif
+				\endwhile
+				\state{set phase to $DEAD$;}
+			\endif
+		\endprocedure
+	\end{algorithmic}
+	\end{algorithm}
+```
+
+
+*Three Operating Phases*:
+1. $DEAD$
+	- Starting phase
+	- Continues here until it has sufficient energy to operate
+	- Transition to $SYNC$ when ready
+2. $SYNC$
+	- Waits for a synch packet to synchronize
+	- Either from coordinator’s *sync* packet or from a data packet from another node.
+	- Upon that, it will immediately transition to $ACTIVE$
+3. $ACTIVE$
+	- Syncs using the sync packet
+	- Waits for the designated time slot to transmit its data packet
+	- Remains until it either runs out of sufficient energy or *sync* packet is received from the coordinator
+		- Transitions to $DEAD$ or $SYNC$ based on either of these events
+
+![[Pasted image 20250605065452.png]]
+
+### Section IV: Algorithm Implementation
+
+```ad-important
+Uses FSM. See above
+```
+
+### Section VI: Experimental Results
+
+```ad-summary
+**Setup**:
+- One coordinator node
+- Three sensor nodes
+- Each node has an Arduino and a Digi XBee S2C
+```
+
