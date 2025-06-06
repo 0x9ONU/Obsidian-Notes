@@ -4,7 +4,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 70
+    "downscalePercent": 85
   },
   "attachmentFolderPath": "General Notes",
   "spellcheck": true,
