@@ -42,7 +42,7 @@ kanban-plugin: board
 - [ ] [[Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks]]
 	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio]]
-	- [x] Reviewed? ✅ 2025-06-05
+	- [x] Reviewed? ✅ 2025-06-06
 - [ ] [[An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks]]
 	- [x] Reviewed? ✅ 2025-06-05
 

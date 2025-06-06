@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "a6e29133e0943952",
+            "id": "d985ca81e8e4a551",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -219,7 +219,7 @@
             }
           },
           {
-            "id": "99ab8ffc1c4b5b2c",
+            "id": "8b895bd010de2708",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -259,7 +259,8 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-daily-notes-opener:Open today's daily note in new pane": false,
       "obsidian-daily-notes-viewer:Open Viewer": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "2ce7b1b5625c0ab5",
