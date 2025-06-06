@@ -1,20 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "Physical One-Way Functions",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/Physical One-Way Functions.pdf"
+    },
+    {
+      "basename": "Physical One-Way Functions",
+      "path": "General Notes/Kanban/Physical One-Way Functions.md"
+    },
+    {
       "basename": "Summer 2025 Research Literature Review",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
+      "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
+      "path": "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md"
+    },
+    {
+      "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.pdf"
+    },
+    {
+      "basename": "Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio",
+      "path": "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md"
+    },
+    {
+      "basename": "Employing_Game_Theory_and_TDMA_Protocol_to_Enhance_Security_and_Manage_Power_Consumption_in_WSNs-Based_Cognitive_Radio",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/Employing_Game_Theory_and_TDMA_Protocol_to_Enhance_Security_and_Manage_Power_Consumption_in_WSNs-Based_Cognitive_Radio.pdf"
+    },
+    {
+      "basename": "Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks",
+      "path": "General Notes/Kanban/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.md"
+    },
+    {
+      "basename": "Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.pdf"
+    },
+    {
+      "basename": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering",
+      "path": "General Notes/Kanban/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.md"
+    },
+    {
+      "basename": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.pdf"
+    },
+    {
+      "basename": "On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes",
+      "path": "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md"
+    },
+    {
+      "basename": "On_the_Delay_Throughput-Security_Tradeoff_in_Wiretap_TDMA_Networks_With_Buffered_Nodes",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/On_the_Delay_Throughput-Security_Tradeoff_in_Wiretap_TDMA_Networks_With_Buffered_Nodes.pdf"
+    },
+    {
+      "basename": "QoS-Aware_Enhanced-Security_for_TDMA_Transmissions_from_Buffered_Source_Nodes",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/QoS-Aware_Enhanced-Security_for_TDMA_Transmissions_from_Buffered_Source_Nodes.pdf"
+    },
+    {
+      "basename": "QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes",
+      "path": "General Notes/Kanban/QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes.md"
     },
     {
       "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING",
       "path": "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md"
     },
     {
-      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING",
-      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/IMPACT OF AN ATTACK ON A NETWORK EXECUTING.pdf"
+      "basename": "A dynamic TDMA based scheme for securing query processing",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A dynamic TDMA based scheme for securing query processing.pdf"
+    },
+    {
+      "basename": "A dynamic TDMA based scheme for securing query processing in WSN",
+      "path": "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md"
     },
     {
       "basename": "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs",
       "path": "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md"
+    },
+    {
+      "basename": "A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols",
+      "path": "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md"
+    },
+    {
+      "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
+      "path": "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md"
+    },
+    {
+      "basename": "A Brief Comparison of Security Aspects of Time",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf"
+    },
+    {
+      "basename": "A Brief Discussion of Security Aspects of Clock",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf"
+    },
+    {
+      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/IMPACT OF AN ATTACK ON A NETWORK EXECUTING.pdf"
     },
     {
       "basename": "JAMMY_A_Distributed_and_Dynamic_Solution_to_Selective_Jamming_Attack_in_TDMA_WSNs",
@@ -37,48 +117,8 @@
       "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
     },
     {
-      "basename": "Physical One-Way Functions",
-      "path": "General Notes/Kanban/Physical One-Way Functions.md"
-    },
-    {
       "basename": "Physical unclonable functions",
       "path": "General Notes/Kanban/Physical unclonable functions.md"
-    },
-    {
-      "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
-      "path": "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio",
-      "path": "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md"
-    },
-    {
-      "basename": "Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks",
-      "path": "General Notes/Kanban/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.md"
-    },
-    {
-      "basename": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering",
-      "path": "General Notes/Kanban/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.md"
-    },
-    {
-      "basename": "On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes",
-      "path": "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md"
-    },
-    {
-      "basename": "QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes",
-      "path": "General Notes/Kanban/QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes.md"
-    },
-    {
-      "basename": "A dynamic TDMA based scheme for securing query processing in WSN",
-      "path": "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md"
-    },
-    {
-      "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
-      "path": "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md"
-    },
-    {
-      "basename": "A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols",
-      "path": "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md"
     },
     {
       "basename": "ds_xbee-s2c-802-15-4",
@@ -159,46 +199,6 @@
     {
       "basename": "Section 4 VLSI Considerations Power, Area, and Time Tradeoffs",
       "path": "General Notes/Kanban/Section 4 VLSI Considerations Power, Area, and Time Tradeoffs.md"
-    },
-    {
-      "basename": "Exploiting JTAG and Its Mitigation in IOT A Survey",
-      "path": "General Notes/Kanban/Exploiting JTAG and Its Mitigation in IOT A Survey.md"
-    },
-    {
-      "basename": "The chip manufacturing industry Environmental impacts and eco-efficiency analysis",
-      "path": "General Notes/Kanban/The chip manufacturing industry Environmental impacts and eco-efficiency analysis.md"
-    },
-    {
-      "basename": "Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter",
-      "path": "General Notes/Kanban/Analysis of the global trade network of the chip industry chain - Does the U.S.-China tech war matter.md"
-    },
-    {
-      "basename": "Section 2 Minimal Feature Set",
-      "path": "General Notes/Kanban/Section 2 Minimal Feature Set.md"
-    },
-    {
-      "basename": "Hardware-Software Co-Design - Midterm",
-      "path": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 9/Midterm/Hardware-Software Co-Design - Midterm.md"
-    },
-    {
-      "basename": "Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks",
-      "path": "General Notes/Kanban/Explaining Geographic Shifts of Chip Making toward East Asia and Market Dynamics in Semiconductor Global Production Networks.md"
-    },
-    {
-      "basename": "Section 5 Health, Safety, and Environmental",
-      "path": "General Notes/Kanban/Section 5 Health, Safety, and Environmental.md"
-    },
-    {
-      "basename": "Drawing a chip environmental profile environmental indicators for the semiconductor industry",
-      "path": "General Notes/Kanban/Drawing a chip environmental profile environmental indicators for the semiconductor industry.md"
-    },
-    {
-      "basename": "Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”",
-      "path": "General Notes/Kanban/Medical artificial intelligence and the black box problem a view based on the ethical principle of “do no harm”.md"
-    },
-    {
-      "basename": "Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux",
-      "path": "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md"
     }
   ],
   "omittedPaths": [],

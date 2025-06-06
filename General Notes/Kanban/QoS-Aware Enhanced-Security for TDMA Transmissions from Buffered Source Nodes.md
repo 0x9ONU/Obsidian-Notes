@@ -65,7 +65,8 @@ The system uses:
 - **QoS constraints** for delay, jitter, and loss tolerances
 
 #### Figure: System Architecture  
-![System Architecture](attachment:image_1.jpg)
+
+![[Pasted image 20250606152043.png]]
 
 Each node maintains:
 - **Slot State**: `VALID`, `EXPIRED`, `PREEMPTED`, etc.
@@ -128,9 +129,6 @@ Upon detecting misbehavior (QoS or security):
 - Buffer is **flushed**, if needed
 - Other cluster members are **alerted**
 
-#### Figure: Detection and Control Flow  
-![Detection Flow](attachment:image_2.jpg)
-
 > Mitigation is distributed but coordinated via the base station and CHs.
 
 ---
@@ -153,7 +151,8 @@ Upon detecting misbehavior (QoS or security):
 | Malicious Drop | ↑ by ~3×         |
 
 #### Figure: Packet Loss vs. Attack Rate  
-![Packet Loss Graph](attachment:image_3.jpg)
+
+![[Pasted image 20250606152144.png]]
 
 > QAES maintains stability and responsiveness even under high malicious node presence.
 

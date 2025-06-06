@@ -36,7 +36,7 @@ It is particularly concerned with **physical layer security**, leveraging **secr
 - How does delay interact with achievable secrecy?
 - What is the fundamental limit of throughput under perfect secrecy constraints?
 
-%3E A **Wiretap Channel** is modeled for each source-destination-eavesdropper path.
+A **Wiretap Channel** is modeled for each source-destination-eavesdropper path.
 
 ---
 
@@ -53,6 +53,10 @@ It is particularly concerned with **physical layer security**, leveraging **secr
 
 #### Buffer Model:
 Each node can store up to $L$ packets. New packet arrivals follow a **Bernoulli process** with rate $\lambda$.
+
+![[Pasted image 20250606152304.png]]
+
+![[Pasted image 20250606152347.png]]
 
 ---
 
@@ -159,19 +163,19 @@ This results in a **constrained stochastic optimization** problem.
 
    As $R$ increases, $T_s$ drops sharply after a threshold.
    
-   ![Figure: Secure Throughput vs Secrecy Rate](attachment:image_1.jpg)
+![[Pasted image 20250606152423.png]]
 
 2. **Delay vs. Secure Throughput**
 
    Sharp increase in delay when $T_s$ is pushed toward max capacity.
    
-   ![Figure: Delay vs Secure Throughput](attachment:image_2.jpg)
+![[Pasted image 20250606152435.png]]
 
 3. **Buffer Overflow Probability**
 
    Increases with both higher $\lambda$ and higher $R$.
    
-   ![Figure: Overflow Probability](attachment:image_3.jpg)
+![[Pasted image 20250606152442.png]]
 
 ---
 

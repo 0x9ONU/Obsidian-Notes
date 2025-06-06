@@ -53,9 +53,7 @@ Challenges:
 
 ### Section III: System Architecture and Workflow
 
-> _Figure 1: Proposed ML framework for WSN attack detection_
-
-![Figure 1](attachment:Pasted image 20250605133500.png)
+![[Pasted image 20250606153325.png]]
 
 The system workflow involves:
 1. **Data Collection**: Network traffic is captured from WSNs under both benign and attack scenarios.
@@ -100,10 +98,6 @@ A key contribution is **dimensionality reduction** using:
 - **Principal Component Analysis (PCA)** for visualization
 
 This reduces training overhead and increases generalization.
-
-> _Figure 2: Feature importance based on correlation with target variable_
-
-![Figure 2](attachment:Pasted image 20250605133713.png)
 
 ---
 
@@ -160,9 +154,6 @@ The models are evaluated using:
   FAR = \frac{FP}{FP + TN}
   $$
 
-> _Figure 3: Confusion matrix for ensemble vs individual models_
-
-![Figure 3](attachment:Pasted image 20250605133931.png)
 
 ---
 
@@ -173,13 +164,7 @@ Key findings:
 - Achieved **97.3% accuracy**, **low FAR**, and **high F1-Score**.
 - Robust against **imbalanced attack types**.
 
-> _Figure 4: Accuracy comparison of Ensemble, RF, SVM, KNN, NB_
-
-![Figure 4](attachment:Pasted image 20250605134000.png)
-
-> _Figure 5: False Alarm Rate for each model_
-
-![Figure 5](attachment:Pasted image 20250605134035.png)
+![[Pasted image 20250606153407.png]]
 
 The results demonstrate the ensemble’s **superior generalization** and **stability**.
 

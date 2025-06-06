@@ -35,6 +35,7 @@ Key motivations:
 - TDMA ensures **collision-free** scheduling for real-time delivery
 - Disaster resilience requires **mobility**, **flexibility**, and **low latency**
 
+
 ---
 
 ### Section II: Related Work
@@ -64,9 +65,7 @@ Mounted on a vehicle. Responsible for:
 #### 2. LoRa End Nodes
 Receive emergency data using assigned time slots. Sleep when idle to conserve power.
 
-%3E _Figure 1: Overall system architecture showing the mobile base station and LoRa node coverage area_
-
-![Figure 1](attachment:Pasted image 20250605115737.png)
+![[Pasted image 20250606152652.png]]
 
 ---
 
@@ -94,9 +93,7 @@ Synchronization is achieved by:
 - Sending a **sync packet** at the start of each frame
 - Nodes adjusting local clocks using sync timestamps
 
-> _Figure 2: TDMA slot assignment for each LoRa node based on time synchronization_
-
-![Figure 2](attachment:Pasted image 20250605115900.png)
+![[Pasted image 20250606152811.png]]
 
 ---
 
@@ -106,10 +103,6 @@ Each LoRa packet includes:
 - **Header**: Frame ID, Slot ID
 - **Payload**: Emergency content
 - **Timestamp**: Used for sync
-
-> _Figure 3: LoRa Packet Structure_
-
-![Figure 3](attachment:Pasted image 20250605120014.png)
 
 ---
 
@@ -125,9 +118,7 @@ Each LoRa packet includes:
 - Clock adjustments via GPS timestamping
 - Frame broadcast cycle: every 10 seconds
 
-> _Figure 4: Hardware stack including LoRa end node, mobile broadcaster, and supporting modules_
-
-![Figure 4](attachment:Pasted image 20250605120130.png)
+![[Pasted image 20250606152848.png]]
 
 ---
 
@@ -152,9 +143,11 @@ $$
 $$
 - With $T_f = 10s$, each node experiences a max delay of 10s
 
-> _Figure 5: Packet delivery performance across distances_
+![[Pasted image 20250606152915.png]]
 
-![Figure 5](attachment:Pasted image 20250605120251.png)
+![[Pasted image 20250606152924.png]]
+
+![[Pasted image 20250606152933.png]]
 
 #### 3. Synchronization Accuracy
 

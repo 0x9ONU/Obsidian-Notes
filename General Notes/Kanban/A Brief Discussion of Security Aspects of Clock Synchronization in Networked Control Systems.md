@@ -40,7 +40,8 @@ Accurate **clock synchronization** among nodes is essential to ensure operations
 To reason about clock vulnerabilities, we must understand **three abstraction layers**:
 
 #### Figure 1: Clock Synchronization Layers
-![Clock Layers](attachment:image_1.jpg)
+
+![[Pasted image 20250606150210.png]]
 
 1. **Physical Layer**  
    - Crystal oscillators (e.g., quartz)  
@@ -81,7 +82,8 @@ Where:
 This tolerance ensures that all clocks can **synchronize accurately**, even with up to $f$ corrupted nodes.
 
 #### Figure 4: Distributed Clock Architecture
-![Distributed Architecture](attachment:image_2.jpg)
+
+![[Pasted image 20250606150232.png]]
 
 *Benefits*:
 - No single point of failure  
@@ -132,7 +134,7 @@ In distributed systems, there's no master. Instead, attacks target **assumptions
 - Packet injection or delay
 - Clock drift induction via timestamp tampering
 
-%3E Distributed architectures can **fail catastrophically** if $f$ is underestimated or an attacker injects faults in a coordinated way.
+Distributed architectures can **fail catastrophically** if $f$ is underestimated or an attacker injects faults in a coordinated way.
 
 ---
 
@@ -155,7 +157,8 @@ $$
 - **Sensor 1** is compromised by an **External Malicious Agent (EMA)**
 
 #### Figure 5: Simulated Networked Control System
-![Simulation Model](attachment:image_3.jpg)
+
+![[Pasted image 20250606150305.png]]
 
 ##### EMA Behavior:
 - At $t = 0.1s$, **adds 0.1s** to Sensor 1's timestamp
@@ -174,10 +177,12 @@ $$
 - Shows divergence due to the 0.1s offset
 
 #### Figure 6: Clock Timeline View
-![Clock Timeline](attachment:image_4.jpg)
+
+![[Pasted image 20250606150320.png]]
 
 #### Figure 7: Detail View of Divergence
-![Clock Detail](attachment:image_5.jpg)
+
+![[Pasted image 20250606150333.png]]
 
 #### B. System Degradation
 

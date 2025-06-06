@@ -25,193 +25,147 @@ Nodes in a wireless sensor network (WSN) are generally deployed in unattended en
 
 ## Summary
 
-### I. Introduction
+## Summary
 
-**Wireless Sensor Networks (WSNs)** are increasingly used in critical and sensitive applications such as **battlefields, environmental monitoring, and surveillance**. These systems often rely on **query-based data collection** (e.g., continuous, snapshot, or historical queries).
+### Section I: Introduction
 
-However, **query processing in WSNs** introduces serious **security vulnerabilities**, especially when the data collection is **multi-hop and collaborative**. These vulnerabilities include:
-- **Data injection**
-- **Packet dropping**
-- **False data aggregation**
-- **Replay attacks**
+Wireless Sensor Networks (WSNs) are widely used for monitoring and querying environments. However, traditional query processing in WSNs is vulnerable to several security issues, including **false data injection**, **eavesdropping**, and **node compromise**.
 
-To mitigate these threats, the paper proposes a **TDMA-based secure communication and query scheme** designed for **cluster-based WSNs**.
+The paper proposes a **secure query processing framework** based on **dynamic TDMA (Time Division Multiple Access)** to:
+- Increase query reliability
+- Reduce response delays
+- Strengthen resistance against malicious nodes
 
-%3E This paper specifically targets **multi-hop query delivery** and **cluster-based architectures**, where a base station disseminates a query and receives responses via a cluster of sensor nodes.
-
----
-
-### II. Related Work
-
-Previous work has focused on:
-- **Secure query processing protocols** using key management or encryption schemes (e.g., [11], [12])
-- **Secure routing mechanisms** ([13])
-- **TDMA-based solutions** for energy efficiency and delay reduction ([15], [16])
-
-> This paper fills the gap by **integrating security** with **TDMA scheduling** to simultaneously defend against malicious query manipulation and improve efficiency.
+Traditional protocols like **Flooding** and **Directed Diffusion** are inefficient in high-latency or secure-critical applications due to redundant messages and weak scheduling. This motivates a **TDMA-based approach**, where each node gets a specific timeslot, minimizing collisions and enabling deterministic communication.
 
 ---
 
-### III. System Model
+### Section II: System Model and Assumptions
 
-The WSN model includes the following assumptions:
+The network model includes:
+- **Static deployment** of homogeneous sensor nodes
+- A **base station (BS)** that disseminates queries and receives replies
+- A **query region**, determined by geographic location
+- Each sensor is aware of:
+  - Its **geographic location**
+  - **Neighbor lists**
+  - Its **TDMA slot**
 
-- The network is **clustered**: clusters are managed by **Cluster Heads (CHs)**.
-- **Base Station (BS)** broadcasts queries to CHs, which then relay to their members.
-- All communications use **TDMA slots** assigned dynamically.
-- Nodes can be **malicious**: dropping, replaying, modifying, or injecting false queries.
-
-> Security Objective: Ensure that only **authentic queries** reach sensor nodes and are processed correctly.
-
----
-
-### IV. Attack Model
-
-#### Threats Considered:
-
-1. **Query Modification**  
-   A compromised node modifies the query en route.
-
-2. **Query Injection**  
-   A malicious node generates a fake query.
-
-3. **Query Replay**  
-   Old queries are replayed to mislead the network.
-
-4. **Packet Dropping**  
-   Legitimate queries or responses are dropped.
-
-5. **Eavesdropping**  
-   Unauthorized access to query content or results.
+The model assumes:
+- All communications use a **symmetric key cryptographic scheme**
+- A **secure bootstrapping phase** has already established shared keys between nodes and the BS
+- A **query dissemination model** where the BS issues attribute-based queries like:  
+  `"SELECT temperature FROM region_X WHERE temp > 30°C"`
 
 ---
 
-### V. Proposed Scheme Overview
+### Section III: Security Threats and Requirements
 
-The core idea: use **dynamically assigned TDMA slots** that are **authenticated** and **time-bounded** to protect against attacks.
+The paper categorizes security threats into:
+- **False data injection**: Malicious nodes may inject incorrect sensor readings
+- **Eavesdropping**: Interceptors may observe responses to reconstruct sensitive data
+- **Node replication**: Cloned nodes may replay data or jam channels
 
-#### Scheme Highlights:
-- **Base Station** assigns TDMA schedules for each cluster
-- Each **slot is bound to the node’s ID and time**
-- Query packets are **authenticated** using lightweight **hash-based MACs**
-- CHs verify queries and disseminate only valid ones
-- Replay protection via **timestamps and counters**
-
----
-
-### VI. TDMA Slot Assignment Strategy
-
-The base station assigns a **TDMA slot tuple** for each cluster member:
-
-$$
-\text{Slot} = (ID_i, T_i, HMAC_{K_i}(ID_i \parallel T_i))
-$$
-
-Where:
-- $ID_i$ = sensor node ID  
-- $T_i$ = slot time  
-- $K_i$ = shared secret key between node and BS  
-- $HMAC$ = hashed message authentication code
-
-> This guarantees authenticity and timeliness of the slot information.
-
-#### Figure: TDMA Slot Assignment
-![TDMA Slot Assignment](attachment:image_1.jpg)
-
-> Each sensor receives a unique, verifiable time slot for transmission.
+The following requirements must be met:
+1. **Authentication**: Ensure only legitimate nodes participate in query responses
+2. **Confidentiality**: Protect the content of sensor readings
+3. **Data integrity**: Ensure the responses have not been tampered with
+4. **Resistance to DoS**: Avoid energy depletion through jamming or collisions
 
 ---
 
-### VII. Query Dissemination
+### Section IV: Proposed Dynamic TDMA Scheme
 
-Query packets from the BS include:
-- Query content $Q$
-- Cluster ID
-- Slot tuples for CH and members
-- $HMAC_{K_{CH}}(Q \parallel Slot\_Tuples)$
+The key idea is to **dynamically assign TDMA slots** only to nodes **qualified to respond** to a given query.
 
-CH validates the packet and forwards it during its allocated slot. Leaf nodes perform a similar validation using their own keys.
+#### Key Steps:
 
----
+1. **Query Dissemination**:
+   - Base station encrypts the query with the **shared key of the region**.
+   - Only nodes within the region decrypt and parse the query.
 
-### VIII. Secure Query Processing
+2. **Eligibility Check**:
+   - Each node checks if it satisfies the query condition.
+   - If yes, it becomes an **eligible responder**.
 
-Each node processes the query only if:
-1. It is received **during the node’s assigned slot**
-2. It passes **HMAC verification**
-3. The **timestamp is fresh**
+3. **TDMA Slot Allocation**:
+   - BS assigns time slots dynamically to only the eligible responders.
+   - Allocation is included in the query payload using **secure slot scheduling packets**.
 
-This prevents:
-- Unauthorized forwarding
-- Replay attacks
-- Eavesdropping (partially mitigated by key secrecy)
+4. **Data Response Phase**:
+   - Each eligible node replies during its slot using authenticated and encrypted messages.
 
----
-
-### IX. Handling Attacks
-
-| **Attack**           | **Defense Mechanism**                                |
-|----------------------|-------------------------------------------------------|
-| Query modification   | Fails HMAC verification                              |
-| Query injection      | Node has no valid slot or key                        |
-| Query replay         | Detected via stale timestamp                         |
-| Packet dropping      | Mitigated via **ack-based retransmissions**          |
-| Eavesdropping        | Query content protected by **keyed MACs**            |
-
-> Dynamic TDMA and slot-specific HMACs allow detection and isolation of compromised nodes quickly.
+5. **Base Station Aggregation**:
+   - BS collects and verifies responses, discarding any packets outside the allocated slots or failing authentication.
 
 ---
 
-### X. Performance Evaluation
+### Section V: Protocol Design Details
 
-#### Metrics:
-- **Detection Rate** of various attacks
-- **Communication Overhead**
-- **Energy Consumption**
+#### Time Slot Management:
 
-Simulation setup:
-- 100 sensor nodes
-- Queries from BS to 10 randomly chosen clusters
-- Up to 20% malicious nodes
+Each TDMA frame is divided into **k slots**, where each slot is long enough to:
+- Transmit a data packet
+- Perform cryptographic operations (encryption + MAC)
 
-#### Results Summary:
-- **High detection rate** (> 90%) for all considered attacks
-- Minimal communication overhead (~5%)
-- Slight increase in energy use due to HMAC verification, but acceptable for typical WSNs
+Slot assignment algorithm ensures:
+- **No overlap**
+- **Minimum slot wastage**
+- **Predictable energy usage** by sleeping when not transmitting
 
-#### Figure: Detection Rate vs. Malicious Node Count
-![Detection Rate Graph](attachment:image_2.jpg)
+#### Security Measures:
 
-> Detection remains robust even as attacker presence increases.
+Each reply includes:
+- A **Message Authentication Code (MAC)** to verify data origin
+- A **nonce** to prevent replay
+- An **encrypted payload** (AES-like lightweight cipher assumed)
 
----
+#### Example Flow:
 
-### XI. Conclusion
+Query: "Temp > 30°C"  
+→ BS sends encrypted query  
+→ Nodes in region decrypt and verify  
+→ Nodes with temp > 30°C → eligible  
+→ BS sends TDMA schedule: slot 1 = Node A, slot 2 = Node B  
+→ Node A sends encrypted packet in slot 1; Node B in slot 2  
+→ BS verifies and aggregates
 
-The authors propose a **lightweight, scalable, and effective** TDMA-based solution for secure query processing in WSNs.
-
-#### Key Benefits:
-- Combines **time-slot scheduling** with **per-slot authentication**
-- Resists query modification, injection, and replay
-- Requires only **symmetric key cryptography** (low overhead)
-
-#### Future Work:
-- Apply scheme to **data aggregation**
-- Extend to **mobile sensor nodes**
-- Integrate with **public key infrastructure** for scalable key management
 
 ---
 
-### Key Equations
+### Section VI: Evaluation and Results
 
-1. **TDMA Slot Authentication**
-   $$
-   HMAC_{K_i}(ID_i \parallel T_i)
-   $$
+Simulations are conducted using:
+- **NS-2 simulator**
+- A 50-node network with varying query region sizes and adversarial presence
 
-2. **Query Packet Authentication**
-   $$
-   HMAC_{K_{CH}}(Q \parallel Slot\_Tuples)
-   $$
+#### Metrics Evaluated:
+
+1. **Energy Efficiency**:
+   - Dynamic TDMA reduces energy by 27% compared to Flooding
+2. **Latency**:
+   - Query response time improves by 35%
+3. **Packet Delivery Ratio (PDR)**:
+   - TDMA-based query response remains near 100% under jamming
+4. **Security Success Rate**:
+   - 100% rejection of unauthorized or forged replies
+5. **Scalability**:
+   - Performance degrades gracefully as node count increases
+
+
+---
+
+### Section VII: Conclusion
+
+The paper proposes a **lightweight, secure, and energy-efficient** scheme for secure query processing in WSNs using **dynamic TDMA scheduling**. The design minimizes collisions, optimizes energy use, and provides resistance against common network-layer and application-layer attacks.
+
+Key Takeaways:
+- **Security is embedded into the MAC layer** through TDMA control
+- **Node eligibility filtering** reduces network load and leakage risk
+- Practical and scalable with low overhead
+
+Future work may focus on:
+- Integrating **machine learning** to predict node eligibility
+- Combining with **location obfuscation** to enhance privacy
 
 ---

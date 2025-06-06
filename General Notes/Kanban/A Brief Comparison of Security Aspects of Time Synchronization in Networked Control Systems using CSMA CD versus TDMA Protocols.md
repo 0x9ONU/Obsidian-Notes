@@ -27,159 +27,106 @@ synchronization in NCS using CSMA/CD (Carrier Sense Multiple Access - Collision 
 **Embed to Paper**: [[A Brief Comparison of Security Aspects of Time.pdf]]
 ## Summary
 
-### I. Introduction
+### Section I: Introduction
 
-Modern control systems—found in satellites, aircraft, smart grids, turbines, and automotive systems—are increasingly reliant on **networked control system (NCS)** architectures. These systems often adopt **time-triggered designs** and require **accurate, secure clock synchronization** to coordinate sensors, actuators, and controllers.
+Time synchronization in Wireless Sensor Networks (WSNs) is critical for ensuring efficient network operations such as time-division multiplexing, scheduling, sleep-wake cycles, and data fusion. Due to the distributed nature of WSNs and their reliance on low-power, unreliable communication mediums, ensuring secure and reliable time synchronization is both crucial and challenging.
 
-Any **deviation or attack** on the synchronization process can:
-- Cause **loss of control**
-- Trigger **system failure**
-- Open **cybersecurity vulnerabilities**
+Three primary security objectives for time synchronization protocols are introduced:
 
-The paper emphasizes that even **small disruptions**, whether natural or malicious, can lead to **major operational failures** in time-triggered systems.
+1. **Availability**: Resistance against jamming and DoS attacks.
+2. **Integrity**: Protection from message modification or insertion.
+3. **Authenticity**: Guarantee that time data originates from legitimate sources.
 
----
+This paper compares several time synchronization protocols from a **security perspective**, noting that many protocols were not originally designed with adversarial environments in mind.
 
-### II. Abstraction Layers in Clock Synchronization
+![[Pasted image 20250606151012.png]]
 
-Clock systems can be understood across **three abstraction layers**:
-
-![Figure 1: Clock Synchronization Abstraction Layers](attachment:image_1.jpg)
-
-1. **Physical Layer**: Quartz crystals, oscillator circuits.
-2. **Hardware Layer**: Oscillator mechanisms and analog-to-digital hardware.
-3. **Software Layer**: Logical clocks and synchronization algorithms.
-
-%3E This paper focuses on **software-layer vulnerabilities**, particularly in distributed and time-triggered networks.
+![[Pasted image 20250606151022.png]]
 
 ---
 
-### III. Clock Synchronization in Distributed Architectures
+### Section II: Overview of Time Synchronization Protocols
 
-Clock synchronization ensures all nodes act on **a shared notion of global time**, critical in TDMA or other time-triggered protocols.
+The protocols analyzed are:
 
-#### Example: Distributed Architecture (Figure 4)
+- **RBS (Reference Broadcast Synchronization)**
+- **TPSN (Timing-sync Protocol for Sensor Networks)**
+- **FTSP (Flooding Time Synchronization Protocol)**
+- **LTS (Lightweight Time Synchronization)**
+- **Mini-Sync**
+- **TSPN (Time Synchronization for Positioning Nodes)**
 
-![Figure 4: Distributed Clock Synchronization Model](attachment:image_2.jpg)
-
-- Each node computes its own correction term based on local and received timestamps.
-- Over time, all nodes converge to a **virtual global clock**.
-
-This model supports **Byzantine fault tolerance**, such as through the **FTM (Fault-Tolerant Midpoint)** algorithm, which operates under:
-
-$$
-n \geq 3f + 1
-$$
-
-Where:
-- $n$ is the number of clocks (nodes)
-- $f$ is the number of faulty nodes the system can tolerate
+Each protocol differs in how synchronization is achieved (sender- or receiver-based), how the hierarchy is formed, the level of accuracy provided, and the susceptibility to different attack vectors.
 
 ---
 
-### IV. Security Aspects of Clock Synchronization
+### Section III: Security Aspects and Threat Models
 
-Attacks on clock synchronization can be **classified based on system architecture**:
+Security issues related to time synchronization fall into multiple categories:
 
-#### A. Attacks in Centralized Architectures
+- **Message Delay Attacks**: An adversary delays a synchronization message to disrupt time alignment.
+- **Message Replay**: Old packets are resent to confuse the synchronization process.
+- **Message Spoofing**: Malicious packets are inserted to impersonate a legitimate node.
+- **Selective Forwarding & Blackhole Attacks**: A node selectively drops or misroutes messages.
 
-In centralized systems, one **master clock** broadcasts time. The vulnerabilities include:
+The **adversary model** considers both external attackers (who can jam or inject messages) and internal compromised nodes (who have legitimate credentials but behave maliciously).
 
-| **Attack** | **Result** |
-|-----------|------------|
-| Denial of Service | System halt |
-| Byzantine Master | Loss of control |
-| Control Loop Interruption | Drift due to open-loop clocks |
-| Packet Removal | Similar to control loop interruption |
-| Packet Manipulation | Deviation or desync |
-| Packet Insertion | Offset in sync cycle |
-| Selective Delay | Temporal offset |
-
-> Critical Threats: **Byzantine Master**, **Packet Manipulation**, and **Control Loop Interruption**
-
-#### B. Attacks in Distributed Architectures
-
-Distributed architectures avoid a single point of failure but are still vulnerable:
-
-- Manipulation of synchronization messages can **invalidate the Byzantine fault tolerance assumption**.
-- Attack focus shifts from the master clock to **any subset** of nodes, aiming to breach the $f$-tolerant bound.
-
-> Even one tampered node can degrade consensus if not accounted for in the fault threshold.
+The authors emphasize that **internal attackers are more dangerous**, as they can exploit protocol logic to manipulate synchronization subtly.
 
 ---
 
-### V. Simulation Design
+### Section IV: Protocol-by-Protocol Security Analysis
 
-To demonstrate a **practical consequence of synchronization attack**, the authors simulate two control loops over a **TDMA-based NCS** using:
+#### RBS:
+- **Vulnerabilities**: Susceptible to replay and delay attacks.
+- **Strengths**: No single point of failure; non-hierarchical.
+- **Drawbacks**: Lacks built-in authentication.
 
-- **TrueTime/Matlab/Simulink**
-- **PID controllers**
-- **Second-order marginally stable plants**:
-  
-  $$
-  G(s) = \frac{1}{s^2 + 2s + 1}
-  $$
+#### TPSN:
+- **Vulnerabilities**: Relies on a hierarchical structure with potential single point of failure; delay attack possible.
+- **Strengths**: High accuracy.
+- **Drawbacks**: Authentication not embedded.
 
-- Clock sync via **FTM algorithm**
-- **External Malicious Agent (EMA)** manipulates **Sensor 1's clock** by adding a 0.1s offset at 0.1s
+#### FTSP:
+- **Vulnerabilities**: Spoofing is a concern due to lack of robust source authentication.
+- **Strengths**: Robust against node failures; built-in MAC layer timestamping.
+- **Drawbacks**: Flood-based protocols are vulnerable to message storms.
 
-![Figure 5: NCS Model in TrueTime](attachment:image_3.jpg)
+#### LTS:
+- **Vulnerabilities**: Lightweight design makes it less secure; simple time updates can be easily manipulated.
+- **Strengths**: Low overhead.
+- **Drawbacks**: No authentication or verification.
 
-**Roles**:
-- Sensors send periodic measurements
-- Controllers use PID logic
-- Actuators respond to control commands
-- EMA injects a timestamp fault into Sensor 1
+#### Mini-Sync:
+- **Vulnerabilities**: No resilience to replay attacks.
+- **Strengths**: Energy-efficient.
+- **Drawbacks**: Poor performance in adversarial scenarios.
 
----
-
-### VI. Simulation Results
-
-**Objective**: Assess how a **0.1s time fault** in Sensor 1 affects the global system behavior, even with FTM synchronization.
-
-#### A. Clock Timeline
-
-- Shows divergence in Sensor 1 (yellow line)
-- Other clocks remain aligned
-- Confirms EMA successfully injected fault
-
-![Figure 6: Global Clock Timeline](attachment:image_4.jpg)
-
-#### B. Step Response Degradation
-
-- Desynchronization impacts **control timing**
-- Introduces phase shift and instability in **both loops**, despite only attacking Sensor 1
-
-![Figure 7: Step Response Impact](attachment:image_5.jpg)
-
-**Conclusion**: Even **localized desync** in a single node can **propagate instability** across the system due to TDMA and global scheduling.
+#### TSPN:
+- **Vulnerabilities**: Delay and blackhole attacks.
+- **Strengths**: Geographically aware.
+- **Drawbacks**: Assumes benign environment.
 
 ---
 
-### VII. Conclusions
+### Section V: Recommendations and Mitigation Techniques
 
-**Key Takeaways**:
-- Time-triggered NCS architectures are **highly vulnerable** to desynchronization.
-- Attacks at the **software layer** (e.g., packet manipulation) are subtle but dangerous.
-- Even fault-tolerant protocols like FTM can't prevent degradation if attacker violates trust assumptions.
+The authors propose integrating **lightweight cryptographic primitives** and **intrusion detection mechanisms** to improve protocol resilience. Suggested countermeasures include:
 
-**Recommendations**:
-- Incorporate **redundancy** in time validation
-- Use **clock voting** or **cross-validation** across nodes
-- Investigate **secure timestamp protocols** with authentication
+- **Authentication codes** to prevent spoofing and injection.
+- **Time stamping** with integrity checks to counter replay and delay attacks.
+- **Cross-layer verification** to detect unusual patterns that may suggest a compromised node.
+
+Protocols should also be **resilient to partial failures** and not rely on any single root node for synchronization.
 
 ---
 
-### Key Equations
+### Section VI: Conclusion
 
-**FTM Tolerance**:
-$$
-n \geq 3f + 1
-$$
+Time synchronization in WSNs is vulnerable to multiple attack vectors. Many existing protocols, though efficient and accurate under normal conditions, fail to offer sufficient protection in adversarial settings. Security must be treated as a **first-class design objective**, not an afterthought.
 
-**Plant Transfer Function**:
-$$
-G(s) = \frac{1}{s^2 + 2s + 1}
-$$
+The paper concludes by calling for **integrated protocol designs** that combine synchronization accuracy with strong, yet lightweight, security mechanisms suitable for WSN constraints.
 
-**Step Response Comparison**: Visual only (see Figure 7)
+---](<# A Brief Comparison of Security Aspects of Time Synchronization Protocols in WSNs
+
+---

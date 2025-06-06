@@ -46,6 +46,8 @@ The proposed solution is composed of three major subsystems:
 2. **AQL Coding for Secure Transmission**
 3. **ASGWI Clustering for Efficient Topology Management**
 
+![[Pasted image 20250606152526.png]]
+
 ---
 
 ### Section III: TDMA-Based MAC Design
@@ -80,6 +82,8 @@ Where:
 - $\gamma$ = discount factor
 
 > AQL makes security **adaptive**, not static.
+
+![[Pasted image 20250606152542.png]]
 
 ---
 
@@ -147,15 +151,13 @@ Where:
 
 - The proposed protocol extends lifetime by ~60–100% compared to LEACH.
 
-> _Figure: Node survival over time_  
-> **[Insert Figure: Lifetime vs. Rounds]**
+![[Pasted image 20250606152612.png]]
 
 #### 2. Energy Consumption
 
 - 30% less energy consumption due to TDMA + AQL optimization
 
-> _Figure: Energy usage comparison_  
-> **[Insert Figure: Energy vs. Time for all protocols]**
+![[Pasted image 20250606152604.png]]
 
 #### 3. Packet Delivery Ratio (PDR)
 
@@ -165,6 +167,7 @@ Where:
 
 - AQL adapts to risks better than fixed encryption schemes
 - Ensures data confidentiality with minimal energy overhead
+
 
 ---
 

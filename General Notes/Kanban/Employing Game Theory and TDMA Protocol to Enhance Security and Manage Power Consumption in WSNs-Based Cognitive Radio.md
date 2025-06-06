@@ -51,9 +51,9 @@ However, few works integrate all three: **CR + TDMA + Game Theory** to address *
 
 ### Section III: System Architecture
 
-> _Figure 1: Proposed CR-WSN architecture integrating sensing nodes, cognitive engine, TDMA controller, and base station_
+![[Pasted image 20250606153018.png]]
 
-![Figure 1](attachment:Pasted image 20250605130000.png)
+![[Pasted image 20250606153029.png]]
 
 The system is made up of:
 - **Sensor Nodes**: Gather data, communicate using assigned time slots.
@@ -88,9 +88,9 @@ TDMA reduces:
 - Idle listening
 - Unnecessary retransmissions
 
-> _Figure 2: TDMA frame structure illustrating time slot division_
+![[Pasted image 20250606153046.png]]
 
-![Figure 2](attachment:Pasted image 20250605130223.png)
+![[Pasted image 20250606153053.png]]
 
 ---
 
@@ -119,11 +119,6 @@ Nodes decide their strategy based on this utility function to determine:
 - Transmission rate
 - Whether to forward packets
 - Channel switching decisions
-
-> _Figure 3: Game-theoretic interaction among nodes with reward/punishment logic for cooperation_
-
-![Figure 3](attachment:Pasted image 20250605130447.png)
-
 ---
 
 ### Section VI: Security Enhancements via Strategy Selection
@@ -132,10 +127,6 @@ Nodes dynamically adjust strategies when threats are detected:
 - **Channel hopping** to avoid jamming
 - **Slot reassignment** if collision or spoofing occurs
 - **Isolation** of misbehaving nodes (those reducing global utility)
-
-> _Figure 4: Node behavior evolution under repeated game interactions showing convergence to cooperative equilibrium_
-
-![Figure 4](attachment:Pasted image 20250605130548.png)
 
 The system incentivizes **cooperative behavior** and penalizes selfish or malicious nodes via decreased utility and loss of TDMA privileges.
 
@@ -158,13 +149,11 @@ Simulation conducted using NS-2 and MATLAB.
 3. **Average Delay**: Significantly lower due to deterministic access.
 4. **Security Index**: Improves as misbehaving nodes are isolated.
 
-> _Figure 5: PDR comparison under jamming attacks (TDMA vs. ALOHA)_
+![[Pasted image 20250606153126.png]]
 
-![Figure 5](attachment:Pasted image 20250605130717.png)
+![[Pasted image 20250606153135.png]]
 
-> _Figure 6: Network lifetime vs. number of malicious nodes_
-
-![Figure 6](attachment:Pasted image 20250605130746.png)
+![[Pasted image 20250606153144.png]]
 
 ---
 
