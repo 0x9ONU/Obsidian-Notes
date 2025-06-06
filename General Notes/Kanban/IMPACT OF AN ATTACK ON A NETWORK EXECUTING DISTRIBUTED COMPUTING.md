@@ -49,6 +49,8 @@ Average consensus allows a network of $N$ nodes to compute the average of initia
 
 Each node $i$ maintains a scalar value $x_i(t)$ at iteration $t$ and updates it by exchanging messages with its neighbors.
 
+![[Pasted image 20250606114050.png]]
+
 **Update Rule**:
 $$
 x_i(t+1) = x_i(t) + \alpha \sum_{j \in \mathcal{N}_i} (x_j(t) - x_i(t))
@@ -109,6 +111,11 @@ $$
 x_i(t+1) = x_i(t) + \alpha \sum_{j \in \mathcal{N}_i} A(i, j, t) (x_j(t) - x_i(t))
 $$
 
+![[Pasted image 20250606114116.png]]
+
+![[Pasted image 20250606114127.png]]
+![[Pasted image 20250606114141.png]]
+
 ---
 
 ### IV. Experimental Setup
@@ -139,16 +146,12 @@ $$
 - Diminishing returns at high $k$.
 - Implies attacker can significantly slow down convergence by choosing extreme values.
 
-![Figure: ΔI vs k](attachment:image_1.jpg)
-
 ---
 
 #### B. $\Delta I(t_a)$ – Iteration Cost vs. Attack Time
 
 - Early attacks ($t_a$ small) are more damaging.
 - Attacks after convergence ($t_a \%3E T$) have **no effect**.
-
-![Figure: ΔI vs Attack Time](attachment:image_2.jpg)
 
 ---
 
@@ -157,8 +160,6 @@ $$
 - Increases **linearly** with $k$
 - Timing of attack **does not affect** final average deviation
 
-![Figure: Δx vs k](attachment:image_3.jpg)
-
 ---
 
 #### D. Attacked Node Position
@@ -166,10 +167,10 @@ $$
 - Position has **minimal effect** on outcome
 - All nodes are roughly equally impactful due to topology density
 
-![Figure: Effect of Node ID](attachment:image_4.jpg)
-
 ---
 
+
+- - - 
 #### E. Scaling Across Network Sizes
 
 Experiments repeated for 20–100 nodes in increments of 10:
@@ -178,7 +179,7 @@ Experiments repeated for 20–100 nodes in increments of 10:
 
 Tables 1–4 provide raw data (not reproduced here, but available in the paper).
 
-![Figure: Network Scaling Impact](attachment:image_5.jpg)
+![[Pasted image 20250606114253.png]]
 
 ---
 

@@ -67,8 +67,6 @@ JAMMY contains two main components:
 1. **Detection module**: Locally identifies jammed slots.
 2. **Reaction module**: Collaboratively reassigns slots using neighbor coordination.
 
-![JAMMY Overview](attachment:image_1.jpg)
-
 ---
 
 ### IV. Slot Monitoring and Detection Logic
@@ -113,9 +111,9 @@ $$
 
 where $\mathcal{N}_2(i)$ is the 2-hop neighborhood of node $i$.
 
-![Slot Switching Example](attachment:image_2.jpg)
-
+```ad-important
 This ensures no two interfering nodes use the same slot.
+```
 
 ---
 
@@ -147,9 +145,9 @@ This ensures no two interfering nodes use the same slot.
 
 **1. Packet Delivery Ratio (PDR)**
 
-![PDR vs Time](attachment:image_3.jpg)
+![[Pasted image 20250606113850.png]]
 
-- JAMMY maintains $%3E85\%$ PDR under active jamming.
+- JAMMY maintains $85\%$ PDR under active jamming.
 - Plain TDMA drops below $30\%$ under the same conditions.
 
 **2. Reaction Time**

@@ -59,5 +59,39 @@
   "showTimeTracker": false,
   "showActiveClocks": false,
   "editMode": "simple",
-  "copyOnDrag": false
+  "copyOnDrag": false,
+  "rawIcals": [
+    {
+      "icalConfig": {
+        "name": "Theta Chi",
+        "url": "https://calendar.google.com/calendar/ical/c_77daa0d703ae19233074fb28e5012de8bc1586f2d964ff1e0f3b0b4ea539af58%40group.calendar.google.com/public/basic.ics",
+        "color": "#ff0000"
+      },
+      "text": ""
+    },
+    {
+      "icalConfig": {
+        "name": "F24'",
+        "url": "https://calendar.google.com/calendar/ical/c_a11be318bcbd6b00b5bb7f3ca7142cf716aae350c5261987f7e8daf03cb31b34%40group.calendar.google.com/public/basic.ics",
+        "color": "#0091ff"
+      },
+      "text": ""
+    },
+    {
+      "icalConfig": {
+        "name": "Greek Life",
+        "url": "https://calendar.google.com/calendar/ical/c_77daa0d703ae19233074fb28e5012de8bc1586f2d964ff1e0f3b0b4ea539af58%40group.calendar.google.com/public/basic.ics",
+        "color": "#9a601d"
+      },
+      "text": ""
+    },
+    {
+      "icalConfig": {
+        "name": "Personal",
+        "url": "https://calendar.google.com/calendar/ical/e-berei%40onu.edu/public/basic.ics",
+        "color": "#ffffff"
+      },
+      "text": ""
+    }
+  ]
 }

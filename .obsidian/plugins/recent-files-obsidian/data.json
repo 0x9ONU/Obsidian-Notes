@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Summer 2025 Research Literature Review",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
+      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING",
+      "path": "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md"
+    },
+    {
+      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/IMPACT OF AN ATTACK ON A NETWORK EXECUTING.pdf"
+    },
+    {
       "basename": "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs",
       "path": "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md"
     },
     {
-      "basename": "Summer 2025 Research Literature Review",
-      "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
+      "basename": "JAMMY_A_Distributed_and_Dynamic_Solution_to_Selective_Jamming_Attack_in_TDMA_WSNs",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/JAMMY_A_Distributed_and_Dynamic_Solution_to_Selective_Jamming_Attack_in_TDMA_WSNs.pdf"
     },
     {
       "basename": "DIGI XBEEE S2C 802.15.4 RF Modules",
@@ -67,10 +79,6 @@
     {
       "basename": "A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols",
       "path": "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md"
-    },
-    {
-      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING",
-      "path": "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md"
     },
     {
       "basename": "ds_xbee-s2c-802-15-4",
@@ -191,14 +199,6 @@
     {
       "basename": "Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux",
       "path": "General Notes/Kanban/Damages Liability for Harm Caused by Artificial Intelligence – EU Law in Flux.md"
-    },
-    {
-      "basename": "TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech",
-      "path": "General Notes/Kanban/TSMC's 2nm process will reportedly get another price hike — $30,000 per wafer for latest cutting-edge tech.md"
-    },
-    {
-      "basename": "Scaling Challenges for Advanced CMOS Devices",
-      "path": "General Notes/Kanban/Scaling Challenges for Advanced CMOS Devices.md"
     }
   ],
   "omittedPaths": [],
