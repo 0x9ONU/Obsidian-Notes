@@ -36,23 +36,23 @@ kanban-plugin: board
 - [ ] [[QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes]]
 	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-05
 
 
 ## PUFs
 
 - [ ] [[Physical One-Way Functions]]
-	- [ ] Reviewed?
+	- [x] Reviewed? ✅ 2025-06-05
 - [ ] [[Physical unclonable functions]]
-	- [ ] Reviewed
+	- [x] Reviewed ✅ 2025-06-05
 
 
 ## Discard
