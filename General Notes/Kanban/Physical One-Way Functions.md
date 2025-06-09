@@ -96,10 +96,6 @@ This is not based on mathematical hardness (like factoring), but rather on **fab
 
 ### Section III: Implementation – Optical PUFs
 
-%3E _Figure 1: Experimental setup of optical PUF system_
-
-![Figure 1](attachment:Pasted image 20250605174051.png)
-
 #### Setup:
 - A **Laser Beam** is modulated using a **spatial light modulator (SLM)** to produce a challenge wavefront
 - The beam hits a transparent **polymer block** containing randomly dispersed micro-particles
@@ -142,9 +138,6 @@ PUFs are considered secure under the following assumptions:
    - Nonlinear optical interactions
 3. **Replay attacks** are ineffective if challenges are randomly sampled
 
-> _Figure 2: Challenge-response security diagram_
-
-![Figure 2](attachment:Pasted image 20250605174245.png)
 
 Adversarial models:
 - **Clone attacker**: Attempts to physically replicate the PUF
@@ -167,10 +160,6 @@ PUF's security arises from **physical entropy** and the **infeasibility of preci
 #### Uniqueness:
 - Different PUFs produce statistically uncorrelated responses
 - **Hamming distance** between outputs from different PUFs approaches 50%, as expected
-
-> _Figure 3: Stability and uniqueness over time_
-
-![Figure 3](attachment:Pasted image 20250605174432.png)
 
 ---
 

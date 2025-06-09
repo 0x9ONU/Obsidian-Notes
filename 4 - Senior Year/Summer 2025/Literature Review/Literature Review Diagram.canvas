@@ -3,9 +3,22 @@
 		{"id":"ac33a3e4e07dbecc","type":"text","text":"<html><center> <h2>A Survey of Wireless Sensor Network and Its Types </h2></center></html>\n","x":-879,"y":-840,"width":1025,"height":580,"color":"1"},
 		{"id":"f91ecefa0233233e","type":"file","file":"General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md","x":-821,"y":-730,"width":400,"height":400},
 		{"id":"fdefcca18307e47d","type":"file","file":"4 - Senior Year/Summer 2025/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf","x":-340,"y":-730,"width":400,"height":400},
-		{"id":"8dfc76221ee13ee9","type":"text","text":"# Original Papers","x":-513,"y":-1400,"width":292,"height":50,"color":"1"}
+		{"id":"8dfc76221ee13ee9","type":"text","text":"# Original Papers","x":-513,"y":-1400,"width":292,"height":50,"color":"1"},
+		{"id":"f98c69a196f9ed39","type":"text","text":"<html><center> <h2>An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks</h2></center></html>\n","x":240,"y":-840,"width":1025,"height":580,"color":"1"},
+		{"id":"6ac14d87f08bd640","x":314,"y":-720,"width":400,"height":400,"type":"file","file":"General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"},
+		{"id":"b6bcc135941ab9fe","x":814,"y":-720,"width":400,"height":400,"type":"file","file":"4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf"},
+		{"id":"bbc81ff466324abc","type":"text","text":"<html><center> <h2>A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks </h2></center></html>\n","x":-2000,"y":-840,"width":1025,"height":580,"color":"1"},
+		{"id":"9b3321f6340e1028","x":-1940,"y":-720,"width":400,"height":400,"type":"file","file":"General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md"},
+		{"id":"46033e75b94b9ccb","x":-1440,"y":-720,"width":400,"height":400,"type":"file","file":"4 - Senior Year/Summer 2025/Literature Review/Papers/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1).pdf"},
+		{"id":"91af7fb38bb28cae","type":"text","text":"<html><center> <h2>A Survey of Wireless Sensor Network and Its Types </h2></center></html>\n","x":-879,"y":40,"width":1025,"height":580,"color":"1"},
+		{"id":"487f62c937621d0e","x":-340,"y":160,"width":400,"height":400,"type":"file","file":"4 - Senior Year/Summer 2025/Literature Review/Papers/ds_xbee-s2c-802-15-4.pdf"},
+		{"id":"c28c5684e25e3c3c","x":-821,"y":160,"width":400,"height":400,"type":"file","file":"General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md"}
 	],
 	"edges":[
-		{"id":"c6a71000a92be521","fromNode":"8dfc76221ee13ee9","fromSide":"bottom","toNode":"ac33a3e4e07dbecc","toSide":"top"}
+		{"id":"c6a71000a92be521","fromNode":"8dfc76221ee13ee9","fromSide":"bottom","toNode":"ac33a3e4e07dbecc","toSide":"top","label":"Basics"},
+		{"id":"93f558a94bdc8c81","fromNode":"ac33a3e4e07dbecc","fromSide":"bottom","toNode":"91af7fb38bb28cae","toSide":"top","label":"Uses"},
+		{"id":"eaf1fb91b54fcac0","fromNode":"f98c69a196f9ed39","fromSide":"bottom","toNode":"91af7fb38bb28cae","toSide":"top","label":"Uses"},
+		{"id":"b51f008a3eebfc8d","fromNode":"8dfc76221ee13ee9","fromSide":"bottom","toNode":"bbc81ff466324abc","toSide":"top","label":"First Dual-Hop Paper\nImproves previous paper by around 2% in energy efficiency and "},
+		{"id":"d5c2956b2152a78f","fromNode":"8dfc76221ee13ee9","fromSide":"bottom","toNode":"f98c69a196f9ed39","toSide":"top"}
 	]
 }
