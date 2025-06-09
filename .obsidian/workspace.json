@@ -4,17 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "bcc860db52a4b97b",
+        "id": "360b6fd58c49b170",
         "type": "tabs",
         "children": [
           {
-            "id": "34f5322c5b1dac08",
+            "id": "817c77b69f152eb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "kanban",
+              "state": {
+                "file": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Summer 2025 Research Literature Review"
+            }
+          },
+          {
+            "id": "e781baa03bf06de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks"
             }
           }
         ]
@@ -49,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "JAMMY",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -275,14 +301,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "34f5322c5b1dac08",
+  "active": "817c77b69f152eb5",
   "lastOpenFiles": [
+    "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
+    "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
     "conflict-files-obsidian-git.md",
     "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
     "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md",
     "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
     "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md",
-    "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
     "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
     "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md",
     "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
@@ -296,7 +324,6 @@
     "4 - Senior Year/Summer 2025/Literature Review/Papers/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.pdf",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/Employing_Game_Theory_and_TDMA_Protocol_to_Enhance_Security_and_Manage_Power_Consumption_in_WSNs-Based_Cognitive_Radio.pdf",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/ds_xbee-s2c-802-15-4.pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
     "General Notes/Evan's Fellowship Research Integrated Circuits Report 1 2024-06-19 15.39.32.excalidraw.md",
     "3 - Junior Year/Summer Research/Reports/Evan's Fellowship Research Integrated Circuits Report 1.md",
     "4 - Senior Year/Research/Hassan/Slides/templates/tpl-con-default-box.md",
@@ -312,7 +339,6 @@
     "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
     "General Notes/Kanban/HWSW Final Exam.md",
     "General Notes/Kanban/Section 10 Final Recommendation.md",
-    "General Notes/Kanban/Sources.md",
     "General Notes/Pasted image 20250510162218.png",
     "General Notes/Pasted image 20250510161305.png",
     "General Notes/Pasted image 20250510140330.png",
