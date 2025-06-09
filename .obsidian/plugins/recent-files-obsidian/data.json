@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes",
-      "path": "General Notes/Kanban/QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes.md"
+      "basename": "A Survey of Wireless Sensor Network and Its Types",
+      "path": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md"
+    },
+    {
+      "basename": "Summer 2025 Research Literature Review",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
     },
     {
       "basename": "Literature Review Diagram",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas"
+    },
+    {
+      "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
+      "path": "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md"
+    },
+    {
+      "basename": "Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks",
+      "path": "General Notes/Kanban/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.md"
+    },
+    {
+      "basename": "On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes",
+      "path": "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md"
+    },
+    {
+      "basename": "QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes",
+      "path": "General Notes/Kanban/QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes.md"
     },
     {
       "basename": "A dynamic TDMA based scheme for securing query processing in WSN",
@@ -25,16 +45,8 @@
       "path": "General Notes/Kanban/Physical unclonable functions.md"
     },
     {
-      "basename": "Summer 2025 Research Literature Review",
-      "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
-    },
-    {
       "basename": "Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio",
       "path": "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md"
-    },
-    {
-      "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
-      "path": "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md"
     },
     {
       "basename": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering",
@@ -43,10 +55,6 @@
     {
       "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.pdf"
-    },
-    {
-      "basename": "Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks",
-      "path": "General Notes/Kanban/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.md"
     },
     {
       "basename": "Employing_Game_Theory_and_TDMA_Protocol_to_Enhance_Security_and_Manage_Power_Consumption_in_WSNs-Based_Cognitive_Radio",
@@ -71,10 +79,6 @@
     {
       "basename": "On_the_Delay_Throughput-Security_Tradeoff_in_Wiretap_TDMA_Networks_With_Buffered_Nodes",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/On_the_Delay_Throughput-Security_Tradeoff_in_Wiretap_TDMA_Networks_With_Buffered_Nodes.pdf"
-    },
-    {
-      "basename": "On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes",
-      "path": "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md"
     },
     {
       "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
@@ -135,10 +139,6 @@
     {
       "basename": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks",
       "path": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "A Survey of Wireless Sensor Network and Its Types",
-      "path": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md"
     },
     {
       "basename": "Physically unclonable functions",
