@@ -11,22 +11,14 @@
             "id": "817c77b69f152eb5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Summer 2025 Research Literature Review"
+              "icon": "lucide-file",
+              "title": "A dynamic TDMA based scheme for securing query processing in WSN"
             }
           },
           {
@@ -303,8 +295,8 @@
   },
   "active": "817c77b69f152eb5",
   "lastOpenFiles": [
-    "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
     "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
+    "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
     "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
     "conflict-files-obsidian-git.md",
     "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md",
