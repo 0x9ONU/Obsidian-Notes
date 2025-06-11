@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ccbe136dee24af40",
+        "id": "f1a7562f92840b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "1728b1b0ac0b7d94",
+            "id": "ab8da04944ffaddc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -275,7 +275,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1728b1b0ac0b7d94",
+  "active": "ab8da04944ffaddc",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
