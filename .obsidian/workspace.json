@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8778cea430462855",
+            "id": "6bfe169d3976ce7c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Summer 2025 Research Literature Review"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -262,10 +250,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8778cea430462855",
+  "active": "6bfe169d3976ce7c",
   "lastOpenFiles": [
-    "General Notes/Kanban/Physical unclonable functions.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
+    "General Notes/Kanban/Physical unclonable functions.md",
     "General Notes/Kanban/Physical One-Way Functions.md",
     "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md",
     "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md",
@@ -282,7 +271,6 @@
     "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
     "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
     "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
-    "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/Physically unclonable functions.pdf",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/Physical One-Way Functions.pdf",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.pdf",
