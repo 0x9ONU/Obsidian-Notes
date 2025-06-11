@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "A Survey of Wireless Sensor Network and Its Types",
-      "path": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md"
-    },
-    {
       "basename": "Summer 2025 Research Literature Review",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
     },
     {
-      "basename": "Literature Review Diagram",
-      "path": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas"
+      "basename": "Physical unclonable functions",
+      "path": "General Notes/Kanban/Physical unclonable functions.md"
+    },
+    {
+      "basename": "Physical One-Way Functions",
+      "path": "General Notes/Kanban/Physical One-Way Functions.md"
     },
     {
       "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
       "path": "General Notes/Kanban/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.md"
     },
     {
+      "basename": "Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio",
+      "path": "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md"
+    },
+    {
       "basename": "Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks",
       "path": "General Notes/Kanban/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.md"
+    },
+    {
+      "basename": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering",
+      "path": "General Notes/Kanban/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.md"
     },
     {
       "basename": "On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes",
@@ -33,24 +41,44 @@
       "path": "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md"
     },
     {
+      "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
+      "path": "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md"
+    },
+    {
+      "basename": "A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols",
+      "path": "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md"
+    },
+    {
+      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING",
+      "path": "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md"
+    },
+    {
+      "basename": "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs",
+      "path": "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md"
+    },
+    {
+      "basename": "DIGI XBEEE S2C 802.15.4 RF Modules",
+      "path": "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md"
+    },
+    {
+      "basename": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks",
+      "path": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md"
+    },
+    {
+      "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
+      "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
+    },
+    {
+      "basename": "A Survey of Wireless Sensor Network and Its Types",
+      "path": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md"
+    },
+    {
+      "basename": "Literature Review Diagram",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas"
+    },
+    {
       "basename": "Physical One-Way Functions",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/Physical One-Way Functions.pdf"
-    },
-    {
-      "basename": "Physical One-Way Functions",
-      "path": "General Notes/Kanban/Physical One-Way Functions.md"
-    },
-    {
-      "basename": "Physical unclonable functions",
-      "path": "General Notes/Kanban/Physical unclonable functions.md"
-    },
-    {
-      "basename": "Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio",
-      "path": "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md"
-    },
-    {
-      "basename": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering",
-      "path": "General Notes/Kanban/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.md"
     },
     {
       "basename": "An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks",
@@ -81,24 +109,8 @@
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/On_the_Delay_Throughput-Security_Tradeoff_in_Wiretap_TDMA_Networks_With_Buffered_Nodes.pdf"
     },
     {
-      "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
-      "path": "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md"
-    },
-    {
-      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING",
-      "path": "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md"
-    },
-    {
       "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/IMPACT OF AN ATTACK ON A NETWORK EXECUTING.pdf"
-    },
-    {
-      "basename": "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs",
-      "path": "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md"
-    },
-    {
-      "basename": "A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols",
-      "path": "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md"
     },
     {
       "basename": "A Brief Discussion of Security Aspects of Clock",
@@ -113,16 +125,8 @@
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/JAMMY_A_Distributed_and_Dynamic_Solution_to_Selective_Jamming_Attack_in_TDMA_WSNs.pdf"
     },
     {
-      "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
-      "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
-    },
-    {
       "basename": "An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1)",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf"
-    },
-    {
-      "basename": "DIGI XBEEE S2C 802.15.4 RF Modules",
-      "path": "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md"
     },
     {
       "basename": "ds_xbee-s2c-802-15-4",
@@ -135,10 +139,6 @@
     {
       "basename": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1)",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks (1).pdf"
-    },
-    {
-      "basename": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks",
-      "path": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md"
     },
     {
       "basename": "Physically unclonable functions",
