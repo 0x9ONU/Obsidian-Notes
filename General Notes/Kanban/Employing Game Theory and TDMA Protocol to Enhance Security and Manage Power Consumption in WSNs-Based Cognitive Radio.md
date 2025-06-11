@@ -25,31 +25,161 @@ The rapid development of wireless sensor networks (WSNs) is a significant incent
 
 ## Summary
 
-### Introduction
+### Section I: Introduction
 
-#### Motivation
+Wireless Sensor Networks (WSNs) are used in applications like environmental monitoring, military surveillance, and disaster response. However, **energy constraints** and **security vulnerabilities** (e.g., jamming, spoofing) remain significant challenges.
 
-#### Challenge
+This paper proposes a **Cognitive Radio (CR)**-enabled WSN framework that:
+- Adapts to available spectrum dynamically (via CR)
+- Uses **TDMA** for collision-free medium access
+- Incorporates **Game Theory** to manage secure communication and energy efficiency
 
-#### Background
+The goal: Enhance both **security** and **energy management**.
 
-### Objective of Research
+---
 
-### Methodology
+### Section II: Related Work
 
-### Pros/Cons
+Previous efforts have studied:
+- CR-based WSNs improving spectrum efficiency
+- TDMA-based MAC protocols for energy-aware scheduling
+- Game theory in WSNs for routing and resource allocation
 
-#### Benefits
+However, few works integrate all three: **CR + TDMA + Game Theory** to address **security** and **power** simultaneously.
 
-#### Disadvantages
+---
 
-### Conclusion
+### Section III: System Architecture
 
-#### Results/Findings
+![[Pasted image 20250606153018.png]]
 
-#### Closing Remarks
+![[Pasted image 20250606153029.png]]
 
-### Future Works
+The system is made up of:
+- **Sensor Nodes**: Gather data, communicate using assigned time slots.
+- **Cognitive Engine**: Identifies available frequency bands (spectrum sensing).
+- **TDMA Controller**: Allocates time slots based on node priority and traffic.
+- **Game-Theoretic Module**: Models interactions among nodes as a non-cooperative game to manage energy and ensure secure behavior.
 
-### Discussion
+---
 
+### Section IV: TDMA Communication Model
+
+In TDMA:
+- Each node is assigned a unique time slot within a frame.
+- Sleep mode is activated outside assigned slots to save energy.
+- The communication cycle includes:
+  - **Sync slot**
+  - **Data slot**
+  - **Control slot**
+
+Let:
+- $N$ = number of nodes
+- $T_s$ = time slot duration
+- $T_f$ = total frame duration
+
+Then:
+$$
+T_f = N \cdot T_s + T_{\text{control}} + T_{\text{sync}}
+$$
+
+TDMA reduces:
+- Collisions
+- Idle listening
+- Unnecessary retransmissions
+
+![[Pasted image 20250606153046.png]]
+
+![[Pasted image 20250606153053.png]]
+
+---
+
+### Section V: Game Theory-Based Energy and Security Management
+
+The core idea: **Sensor nodes behave as rational agents** in a **non-cooperative game**, where each player (node) aims to maximize its own utility, balancing:
+- **Energy consumption**
+- **Packet delivery**
+- **Security posture (e.g., avoidance of malicious behavior)**
+
+#### Utility Function
+
+Let the utility of node $i$ be:
+
+$$
+U_i = \frac{D_i}{E_i + \alpha S_i}
+$$
+
+Where:
+- $D_i$: Packets delivered
+- $E_i$: Energy consumed
+- $S_i$: Security risk (e.g., proximity to attacker, unverified routing path)
+- $\alpha$: Risk penalty coefficient
+
+Nodes decide their strategy based on this utility function to determine:
+- Transmission rate
+- Whether to forward packets
+- Channel switching decisions
+---
+
+### Section VI: Security Enhancements via Strategy Selection
+
+Nodes dynamically adjust strategies when threats are detected:
+- **Channel hopping** to avoid jamming
+- **Slot reassignment** if collision or spoofing occurs
+- **Isolation** of misbehaving nodes (those reducing global utility)
+
+The system incentivizes **cooperative behavior** and penalizes selfish or malicious nodes via decreased utility and loss of TDMA privileges.
+
+---
+
+### Section VII: Simulation and Results
+
+Simulation conducted using NS-2 and MATLAB.
+
+#### Parameters:
+- 50 sensor nodes
+- 500m x 500m area
+- Slot duration: 20ms
+- Traffic: Poisson
+- Malicious nodes: 5
+
+#### Key Metrics:
+1. **Energy Consumption**: Reduced by ~30% vs. non-TDMA schemes.
+2. **Packet Delivery Ratio (PDR)**: Maintained at 98% under attack.
+3. **Average Delay**: Significantly lower due to deterministic access.
+4. **Security Index**: Improves as misbehaving nodes are isolated.
+
+![[Pasted image 20250606153126.png]]
+
+![[Pasted image 20250606153135.png]]
+
+![[Pasted image 20250606153144.png]]
+
+---
+
+### Section VIII: Conclusion
+
+The proposed **CR-TDMA-Game Theory hybrid** model achieves:
+- Secure, reliable communication
+- Dynamic spectrum utilization
+- Improved energy efficiency
+- Resilience against jamming and selfish attacks
+
+This framework can be deployed in **mission-critical**, **mobile**, and **dense WSN scenarios**, where both security and energy are paramount.
+
+---
+
+### Section IX: Key Equations Recap
+
+1. **TDMA Frame Duration**  
+$$
+T_f = N \cdot T_s + T_{\text{control}} + T_{\text{sync}}
+$$
+
+2. **Node Utility Function**  
+$$
+U_i = \frac{D_i}{E_i + \alpha S_i}
+$$
+
+3. **Channel Switching Probability**  
+(Described via state transition matrix, not explicitly formulated)

@@ -25,5 +25,191 @@ In this paper, we investigate the tradeoff between security and throughput and b
 
 ## Summary
 
-### Introduction
+### I. Introduction
 
+This paper explores the **tradeoff** between **security**, **throughput**, and **delay** in **TDMA-based wireless networks** that include **buffered nodes** and are susceptible to **eavesdropping**.
+
+It is particularly concerned with **physical layer security**, leveraging **secrecy capacity** to mitigate **wiretap attacks**.
+
+#### Key Questions:
+- How do buffering and TDMA slot assignment affect secure throughput?
+- How does delay interact with achievable secrecy?
+- What is the fundamental limit of throughput under perfect secrecy constraints?
+
+A **Wiretap Channel** is modeled for each source-destination-eavesdropper path.
+
+---
+
+### II. System Model
+
+#### Network Setup:
+- **Single-hop TDMA wireless network**
+- One **destination**, one **eavesdropper**, and **$N$ sources**
+- Each source has a **buffer** of size $L$
+- Time is divided into **frames**, each with **$N$ time slots** (1 per node)
+- Channels experience **block fading**
+
+> **Key Assumption**: CSI of the **main channel** (source-to-destination) is available to the source; CSI of the **wiretap channel** is not known.
+
+#### Buffer Model:
+Each node can store up to $L$ packets. New packet arrivals follow a **Bernoulli process** with rate $\lambda$.
+
+![[Pasted image 20250606152304.png]]
+
+![[Pasted image 20250606152347.png]]
+
+---
+
+### III. Physical Layer Security and Secrecy Capacity
+
+Secrecy is quantified via **secrecy capacity**, defined as the difference between the capacities of the main and eavesdropper channels:
+
+$$
+C_s = [C_m - C_e]^+ = \left[ \log_2(1 + \text{SNR}_m) - \log_2(1 + \text{SNR}_e) \right]^+
+$$
+
+Only packets transmitted at a rate less than $C_s$ can be considered **perfectly secure**.
+
+> The transmission is **secure** iff the **channel condition to destination is significantly better** than to eavesdropper.
+
+---
+
+### IV. Secure TDMA Scheduling and Buffering
+
+A **secure TDMA policy** chooses which node to transmit in each slot such that:
+- Its buffer is **non-empty**
+- The channel condition yields $C_s \geq R$ (target secure rate)
+
+Let:
+- $\mathcal{S}(t)$: the set of eligible sources at time $t$
+- $\pi$: scheduling policy
+
+A transmission occurs if:
+1. Node $i \in \mathcal{S}(t)$
+2. $C_s^{(i)}(t) \geq R$
+
+Otherwise, the slot is **wasted**, contributing to **delay and reduced throughput**.
+
+#### Secure Throughput Definition:
+
+$$
+T_s = \lim_{T \to \infty} \frac{1}{T} \sum_{t=1}^{T} \mathbb{E}[\mathbf{1}_{\text{secure tx}}(t)]
+$$
+
+---
+
+### V. Delay Analysis
+
+#### Queue Dynamics:
+
+Let $Q_i(t)$ denote the number of packets in buffer of node $i$ at time $t$.
+
+The buffer update rule is:
+
+$$
+Q_i(t+1) = \min \left\{ \left[ Q_i(t) - \mu_i(t) \right]^+ + A_i(t), L \right\}
+$$
+
+Where:
+- $A_i(t) \sim \text{Bernoulli}(\lambda)$ (arrivals)
+- $\mu_i(t)$ is 1 if node $i$ transmits securely at time $t$, 0 otherwise
+
+#### Average Delay:
+
+Using Little’s Law:
+
+$$
+D = \frac{\bar{Q}}{\lambda}
+$$
+
+Where $\bar{Q}$ is the average queue length.
+
+> A high security threshold $R$ may lead to fewer transmissions, increasing queue sizes and delay.
+
+---
+
+### VI. Tradeoff Formulation
+
+There exists a **tradeoff curve** between:
+- **Secure throughput $T_s$**
+- **Average delay $D$**
+- **Target secrecy rate $R$**
+
+As $R$ increases:
+- Secure throughput $T_s$ ↓
+- Delay $D$ ↑ (due to backlog and fewer usable slots)
+
+#### Optimization Objective:
+
+Find the scheduling policy $\pi$ that:
+- Maximizes $T_s$
+- Subject to: $D \leq D_{\text{max}}$, secrecy $R \geq R_{\text{min}}$
+
+This results in a **constrained stochastic optimization** problem.
+
+---
+
+### VII. Numerical Results
+
+#### Setup:
+- $N = 10$ sources
+- Buffer size $L = 5$
+- SNR varies over time using a Rayleigh fading model
+- $\lambda = 0.5$
+
+#### Results Summary:
+
+1. **Secure Throughput vs. Secrecy Rate**
+
+   As $R$ increases, $T_s$ drops sharply after a threshold.
+   
+![[Pasted image 20250606152423.png]]
+
+2. **Delay vs. Secure Throughput**
+
+   Sharp increase in delay when $T_s$ is pushed toward max capacity.
+   
+![[Pasted image 20250606152435.png]]
+
+3. **Buffer Overflow Probability**
+
+   Increases with both higher $\lambda$ and higher $R$.
+   
+![[Pasted image 20250606152442.png]]
+
+---
+
+### VIII. Conclusion
+
+This paper rigorously explores how **delay**, **throughput**, and **security** interact in TDMA networks with buffer constraints.
+
+#### Main Insights:
+- Buffering **smooths traffic** but amplifies delay-security tension
+- Higher secrecy rates require **better channels** and **sparser transmission**
+- Delay becomes the main cost when **tight security** is enforced
+
+> Optimizing secure TDMA scheduling must **balance all three factors** to sustain real-world deployment viability.
+
+---
+
+### Key Equations Recap
+
+1. **Secrecy Capacity**:
+   $$
+   C_s = \left[ \log_2(1 + \text{SNR}_m) - \log_2(1 + \text{SNR}_e) \right]^+
+   $$
+
+2. **Queue Dynamics**:
+   $$
+   Q_i(t+1) = \min \left\{ \left[ Q_i(t) - \mu_i(t) \right]^+ + A_i(t), L \right\}
+   $$
+
+3. **Secure Throughput**:
+   $$
+   T_s = \lim_{T \to \infty} \frac{1}{T} \sum_{t=1}^{T} \mathbb{E}[\mathbf{1}_{\text{secure tx}}(t)]
+   $$
+
+4. **Average Delay**:
+   $$
+   D = \frac{\bar{Q}}{\lambda}
+   $$

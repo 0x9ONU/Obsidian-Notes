@@ -21,8 +21,6 @@ collapse: open
 Digi XBee® RF modules provide OEMs with a common footprint shared by multiple platforms, including multipoint and Zigbee/ Mesh topologies, and both 2.4 GHz and 900 MHz solutions. OEMs deploying the Digi XBee can substitute one Digi XBee for another, depending upon dynamic application needs, with minimal development, reduced risk and shorter time-to-market.
 ```
 
-**Embed to Paper**: [[ds_xbee-s2c-802-15-4.pdf]]
-## Summary
+**Embed to Paper**: ![[ds_xbee-s2c-802-15-4.pdf]]
 
-### Introduction
-
+![[Pasted image 20250605112941.png]]

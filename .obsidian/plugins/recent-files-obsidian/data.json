@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Literature Review Diagram",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas"
+    },
+    {
+      "basename": "6-9-2025 Meeting",
+      "path": "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md"
+    },
+    {
       "basename": "Summer 2025 Research Literature Review",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
+      "basename": "6-9-2025 Meeting 2025-06-09 15.04.29.excalidraw",
+      "path": "General Notes/6-9-2025 Meeting 2025-06-09 15.04.29.excalidraw.md"
+    },
+    {
+      "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
+      "path": "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md"
+    },
+    {
+      "basename": "A Brief Discussion of Security Aspects of Clock",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf"
     },
     {
       "basename": "A dynamic TDMA based scheme for securing query processing in WSN",
@@ -175,30 +195,6 @@
     {
       "basename": "Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications",
       "path": "General Notes/Kanban/Understanding fault-tolerance vulnerabilities in advanced SoC FPGAs for critical applications.md"
-    },
-    {
-      "basename": "A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain",
-      "path": "General Notes/Kanban/A Survey on Counterfeits in the Information and Communications Technology (ICT) Supply Chain.md"
-    },
-    {
-      "basename": "A Survey on FPGA Cybersecurity Design Strategies",
-      "path": "General Notes/Kanban/A Survey on FPGA Cybersecurity Design Strategies.md"
-    },
-    {
-      "basename": "Trump says China tariffs will come down from 145%",
-      "path": "General Notes/Kanban/Trump says China tariffs will come down from 145%.md"
-    },
-    {
-      "basename": "What is a neural processing unit (NPU)",
-      "path": "General Notes/Kanban/What is a neural processing unit (NPU).md"
-    },
-    {
-      "basename": "FPGA-based AI Smart NICs for Scalable Distributed AI Training System",
-      "path": "General Notes/Kanban/FPGA-based AI Smart NICs for Scalable Distributed AI Training System.md"
-    },
-    {
-      "basename": "Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter",
-      "path": "General Notes/Kanban/Comparison Study of Hardware Architectures Performance Between FPGA and DSP Processor for Implementing Digital Signal Processing Algorithms - Application of FIR Digital Filter.md"
     }
   ],
   "omittedPaths": [],
