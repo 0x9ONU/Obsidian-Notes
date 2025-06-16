@@ -22,11 +22,11 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 
 # New Stuff
 
-## Pseudo Code for Spoofing/Eavesdropping Algorithm
+## Pseudo Code for Replay/Eavesdropping Algorithm
 
 ```pseudo
 	\begin{algorithm}
-	\caption{Malicious Spoofing Node}
+	\caption{Malicious Replay Node}
 	\begin{algorithmic}
 		\procedure{main}{phase}
 			\state{set phase to $DEAD$}
@@ -39,7 +39,8 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 			\if{$CAPTURE$}
 				\state{wait for a packet from a benign node;}
 				\if{$a \space packet \space received$}
-					\state{;}
+					\state{Determine type of packet (SYNC, ACK, Data);}
+					\state{Add packet to the appropriate buffer;}
 				\endif
 			\endif
 			\if{$ACTIVE$}
