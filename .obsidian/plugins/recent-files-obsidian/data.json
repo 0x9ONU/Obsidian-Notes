@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Literature Review Diagram",
-      "path": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas"
-    },
-    {
       "basename": "6-9-2025 Meeting",
       "path": "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md"
-    },
-    {
-      "basename": "Summer 2025 Research Literature Review",
-      "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
     },
     {
       "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
@@ -19,6 +11,22 @@
     {
       "basename": "An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1)",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf"
+    },
+    {
+      "basename": "Summer 2025 Research Literature Review",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
+      "basename": "Literature Review Diagram",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas"
+    },
+    {
+      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING",
+      "path": "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md"
+    },
+    {
+      "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
+      "path": "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md"
     },
     {
       "basename": "A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols",
@@ -31,10 +39,6 @@
     {
       "basename": "A Brief Discussion of Security Aspects of Clock",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf"
-    },
-    {
-      "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
-      "path": "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md"
     },
     {
       "basename": "Physical unclonable functions",
@@ -71,10 +75,6 @@
     {
       "basename": "A dynamic TDMA based scheme for securing query processing in WSN",
       "path": "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md"
-    },
-    {
-      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING",
-      "path": "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md"
     },
     {
       "basename": "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs",

@@ -204,6 +204,9 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 				\if{$activation \space packet \space received$}
 					\state{set phase to $ACTIVE$;}
 				\endif
+				\if{$out-of-energy$}
+					\State{set phase to $DEAD$;}
+				\endif
 			\endif
 			\if{$ACTIVE$}
 				\if{$still \space has \space sufficient \space energy$}
@@ -221,5 +224,55 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 	\end{algorithm}
 ```
 
-### Idea 6:  test
+### Idea 6:  False Data Injection Algorithm
+
+```ad-note
+Inspired by [[IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING]]
+```
+
+
+```pseudo
+	\begin{algorithm}
+	\caption{False Data Injection Node}
+	\begin{algorithmic}
+		\procedure{main}{phase}
+			\state{set phase to $DEAD$}
+			\if{$DEAD$}
+				\state{harvest energy;}
+				\if{$sufficient \space energy \space collected$}
+					\state{set phase to $SYNC$;}
+				\endif
+			\endif
+			\if{$SYNC$}
+				\state{wait for a synchronization packet;}
+				\if{$a \space synchronization \space packet \space received$}
+					\state{set phase to $CAPTURE$;}
+				\endif
+			\endif
+			\if{$CAPTURE$}
+				\state{receive packets}
+				\if{$data \space packet$}
+					\state{add the packet's header to the buffer;}
+					\state{set phase to $ACTIVE$;}
+				\endif
+				\if{$out-of-energy$}
+					\State{set phase to $DEAD$;}
+				\endif
+			\endif
+			\if{$ACTIVE$}
+				\if{$still \space has \space sufficient \space energy$}
+					\state{receive packets;}
+					\if{$packet \space has \space the \space same \space ID \space as \space captured \space packet \space AND \space within \space time \space slot$}
+						\state{Send forged packet with false data;}
+					\endif
+				\else
+					\state{set phase to $DEAD$;}
+				\endif
+			\endif
+		\endprocedure
+	\end{algorithmic}
+	\end{algorithm}
+```
+
+
 
