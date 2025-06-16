@@ -26,7 +26,7 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 
 ```pseudo
 	\begin{algorithm}
-	\caption{Malicious Replay Node}
+	\caption{Malicious Replay Burst Node}
 	\begin{algorithmic}
 		\procedure{main}{phase}
 			\state{set phase to $DEAD$}
