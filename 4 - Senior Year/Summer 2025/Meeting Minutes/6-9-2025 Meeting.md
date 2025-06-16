@@ -39,8 +39,11 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 			\if{$CAPTURE$}
 				\state{wait for a packet from a benign node;}
 				\if{$a \space packet \space received$}
-					\state{Determine type of packet (SYNC, ACK, Data);}
-					\state{Add packet to the appropriate buffer;}
+					\state{determine type of packet (SYNC, ACK, Data);}
+					\state{add packet to the appropriate buffer;}
+					\if{$each \space buffer \space has \space a \space packet$}
+						\state{set phase to $ACTIVE$;}
+					\endif
 				\endif
 			\endif
 			\if{$ACTIVE$}
