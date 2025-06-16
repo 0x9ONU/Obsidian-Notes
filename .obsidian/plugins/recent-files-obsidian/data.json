@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING",
-      "path": "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md"
-    },
-    {
       "basename": "6-9-2025 Meeting",
       "path": "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md"
+    },
+    {
+      "basename": "A Brief Comparison of Security Aspects of Time",
+      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf"
+    },
+    {
+      "basename": "A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols",
+      "path": "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md"
+    },
+    {
+      "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
+      "path": "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md"
+    },
+    {
+      "basename": "IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING",
+      "path": "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md"
     },
     {
       "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
@@ -23,18 +35,6 @@
     {
       "basename": "Literature Review Diagram",
       "path": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas"
-    },
-    {
-      "basename": "A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems",
-      "path": "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md"
-    },
-    {
-      "basename": "A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols",
-      "path": "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md"
-    },
-    {
-      "basename": "A Brief Comparison of Security Aspects of Time",
-      "path": "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf"
     },
     {
       "basename": "A Brief Discussion of Security Aspects of Clock",

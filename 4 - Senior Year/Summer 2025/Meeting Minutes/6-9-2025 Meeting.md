@@ -17,8 +17,8 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 # Action Items
 - [x] Build the network (Base station + 3 normal nodes + 1 malicious node) ✅ 2025-06-11
 - [x] Implement the TDMA ✅ 2025-06-16
-- [ ] Build the spoofing node
-- [ ] Try to get eavesdropping to work
+- [x] Build the spoofing node ✅ 2025-06-16
+- [x] Try to get eavesdropping to work ✅ 2025-06-16
 
 # New Stuff
 
@@ -230,7 +230,6 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 Inspired by [[IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING]]
 ```
 
-
 ```pseudo
 	\begin{algorithm}
 	\caption{False Data Injection Node}
@@ -273,6 +272,4 @@ Inspired by [[IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING]]
 	\end{algorithmic}
 	\end{algorithm}
 ```
-
-
 
