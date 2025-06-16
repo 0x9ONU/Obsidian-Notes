@@ -43,7 +43,7 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 				\if{$a \space packet \space received$}
 					\state{determine type of packet (SYNC, ACK, Data);}
 					\state{add packet to the appropriate queue;}
-					\if{$each \space queue \space has \space a \space packet$}
+					\if{$any \space queue \space has \space more \space than \space N \space packets$}
 						\state{set phase to $ACTIVE$;}
 					\endif
 				\endif
