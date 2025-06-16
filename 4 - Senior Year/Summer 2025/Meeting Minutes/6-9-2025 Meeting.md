@@ -22,7 +22,9 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 
 # New Stuff
 
-## Pseudo Code for Replay/Eavesdropping Algorithm
+## Pseudo Code for Replay/Eavesdropping Algorithm Ideas
+
+### Idea 1: Burst Replay Algorithm
 
 ```pseudo
 	\begin{algorithm}
@@ -45,15 +47,110 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 						\state{set phase to $ACTIVE$;}
 					\endif
 				\endif
+				\if{$out-of-energy$}
+					\State{set phase to $DEAD$;}
+				\endif
 			\endif
 			\if{$ACTIVE$}
-				\state{synchronize using the synchronization packet;}
 				\while{$still \space has \space sufficient \space energy$}
-					\state{wait for the designated time slot;}
-					\state{send packet;}
-					\if{$sync \space packet \space received$}
-						\state{send acknowledgement;}
-						\state{set phase to $SYNC$}
+					\state{send one packet from each queue;}
+					\state{remove packets from queue;}
+					\if{$all \space queues \space are \space empty$}
+						\state{set phase to $CAPTURE$}
+					\endif
+				\endwhile
+				\state{set phase to $DEAD$;}
+			\endif
+		\endprocedure
+	\end{algorithmic}
+	\end{algorithm}
+```
+
+### Idea 2: Smart Replay Algorithm
+
+```pseudo
+	\begin{algorithm}
+	\caption{Malicious Smart Replay Node}
+	\begin{algorithmic}
+		\procedure{main}{phase}
+			\state{set phase to $DEAD$}
+			\if{$DEAD$}
+				\state{harvest energy;}
+				\if{$sufficient \space energy \space collected$}
+					\state{set phase to $SYNC$}
+				\endif
+			\endif
+			\if{$SYNC$}
+				\state{wait for a synchronization packet;}
+				\if{$a \space synchronization \space packet \space received$}
+					\state{set phase to $CAPTURE$;}
+				\endif
+			\endif
+			\if{$CAPTURE$}
+				\state{wait for a packet from a benign node;}
+				\if{$a \space packet \space received$}
+					\state{determine type of packet (SYNC, ACK, Data);}
+					\if{$data \space packet$}
+						\state{add packet to the queue;}
+						\state{set phase to $ACTIVE$;}
+					\elseif{$sync \space packet$}
+						\state{set phase to $SYNC$;}
+					\endif
+				\endif
+				\if{$out-of-energy$}
+					\State{set phase to $DEAD$;}
+				\endif
+			\endif
+			\if{$ACTIVE$}
+				\while{$still \space has \space sufficient \space energy$}
+					\state{wait for the incorrect time to send a packet;}
+					\if{$current \space time \space slot \space not \space equal \space to \space packet's \space time \space slot$}
+						\state{send buffered packet;}
+						\state{remove packet from queue;}
+						\state{set phase to $CAPTURE$;}
+					\endif
+				\endwhile
+				\state{set phase to $DEAD$;}
+			\endif
+		\endprocedure
+	\end{algorithmic}
+	\end{algorithm}
+```
+
+### Idea 3: Delayed Replay Algorihtm
+
+```pseudo
+	\begin{algorithm}
+	\caption{Malicious Delayed Replay Node}
+	\begin{algorithmic}
+		\procedure{main}{phase}
+			\state{set phase to $DEAD$}
+			\if{$DEAD$}
+				\state{harvest energy;}
+				\if{$sufficient \space energy \space collected$}
+					\state{set phase to $CAPTURE$}
+				\endif
+			\endif
+			\if{$CAPTURE$}
+				\state{wait for a packet from a benign node;}
+				\if{$a \space packet \space received$}
+					\state{determine type of packet (SYNC, ACK, Data);}
+					\if{$sync \space packet$}
+						\state{add packet to queue;}
+						\state{wait a long but random amount of time;}
+						\state{set phase to $ACTIVE$;}
+					\endif
+				\endif
+				\if{$out-of-energy$}
+					\State{set phase to $DEAD$;}
+				\endif
+			\endif
+			\if{$ACTIVE$}
+				\while{$still \space has \space sufficient \space energy$}
+					\state{send one packet from each queue;}
+					\state{remove packets from queue;}
+					\if{$all \space queues \space are \space empty$}
+						\state{set phase to $CAPTURE$}
 					\endif
 				\endwhile
 				\state{set phase to $DEAD$;}
