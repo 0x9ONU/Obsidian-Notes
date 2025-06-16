@@ -146,16 +146,80 @@ Arduino's can actually be good by by-passing the overhead and programming it usi
 				\endif
 			\endif
 			\if{$ACTIVE$}
-				\while{$still \space has \space sufficient \space energy$}
-					\state{send one packet from each queue;}
-					\state{remove packets from queue;}
-					\if{$all \space queues \space are \space empty$}
-						\state{set phase to $CAPTURE$}
-					\endif
-				\endwhile
-				\state{set phase to $DEAD$;}
+				\if{$still \space has \space sufficient \space energy$}
+					\state{send one packet from the queue;}
+					\state{remove packet from queue;}
+					\state{set phase to $CAPTURE$}
+				\else
+					\state{set phase to $DEAD$;}
+				\endif
 			\endif
 		\endprocedure
 	\end{algorithmic}
 	\end{algorithm}
 ```
+
+### Idea 4: DoS Algorithm
+
+```pseudo
+	\begin{algorithm}
+	\caption{Malicious DoS Node}
+	\begin{algorithmic}
+		\procedure{main}{phase}
+			\state{set phase to $DEAD$}
+			\if{$DEAD$}
+				\state{harvest energy;}
+				\if{$sufficient \space energy \space collected$}
+					\state{set phase to $ACTIVE$;}
+				\endif
+			\endif
+			\if{$ACTIVE$}
+				\if{$still \space has \space sufficient \space energy$}
+					\state{send packets with random and garbage data as fast as possible;}
+				\else
+					\state{set phase to $DEAD$;}
+				\endif
+			\endif
+		\endprocedure
+	\end{algorithmic}
+	\end{algorithm}
+```
+
+### Idea 5: Remote DoS Algorithm
+
+```pseudo
+	\begin{algorithm}
+	\caption{Malicious Remote DoS Node}
+	\begin{algorithmic}
+		\procedure{main}{phase}
+			\state{set phase to $DEAD$}
+			\if{$DEAD$}
+				\state{harvest energy;}
+				\if{$sufficient \space energy \space collected$}
+					\state{set phase to $WAIT$;}
+				\endif
+			\endif
+			\if{$WAIT$}
+				\state{receive packets}
+				\if{$activation \space packet \space received$}
+					\state{set phase to $ACTIVE$;}
+				\endif
+			\endif
+			\if{$ACTIVE$}
+				\if{$still \space has \space sufficient \space energy$}
+					\state{send packets with random and garbage data as fast as possible;}
+					\state{receive packets;}
+					\If{$wait \space packet \space received$}
+						\state{set phase to $WAIT$;}
+                    \EndIf
+				\else
+					\state{set phase to $DEAD$;}
+				\endif
+			\endif
+		\endprocedure
+	\end{algorithmic}
+	\end{algorithm}
+```
+
+### Idea 6:  test
+

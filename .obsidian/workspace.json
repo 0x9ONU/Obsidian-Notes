@@ -77,8 +77,8 @@
               "state": {
                 "file": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
                 "viewState": {
-                  "x": 2429.551092717988,
-                  "y": -1898.6036216687692,
+                  "x": 2657.261196875391,
+                  "y": -1701.8444054550916,
                   "zoom": -1.1445539720473998
                 }
               },
@@ -86,7 +86,8 @@
               "title": "Literature Review Diagram"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "2c3d811484b16a1d",
@@ -195,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -351,15 +353,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f7d29d024d5560c",
+  "active": "7666fc05379214e7",
   "lastOpenFiles": [
-    "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf",
-    "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
     "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md",
     "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
+    "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf",
     "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
+    "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf",
     "conflict-files-obsidian-git.md",
     "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
