@@ -1,5 +1,4 @@
 {
-  "disableDoubleClickTextEditing": false,
   "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -27,7 +26,6 @@
   "annotatePreserveSize": false,
   "displaySVGInPreview": true,
   "previewImageType": "SVGIMG",
-  "renderingConcurrency": 3,
   "allowImageCache": true,
   "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
@@ -118,7 +116,6 @@
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
-  "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
@@ -469,7 +466,6 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
-  "aiEnabled": true,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",
@@ -790,6 +786,10 @@
     }
   ],
   "showSplashscreen": true,
+  "disableDoubleClickTextEditing": false,
+  "renderingConcurrency": 3,
+  "latexPreambleLocation": "preamble.sty",
+  "aiEnabled": true,
   "pdfSettings": {
     "pageSize": "A4",
     "pageOrientation": "portrait",

@@ -139,7 +139,7 @@ Proposed algorithm is evaluted based on average energy consumption and average d
 	\end{algorithmic}
 	\end{algorithm}
 ```
-
+  
 *Two Operating Phases*:
 1. $SYNC$:
 	- Starts here where it first broadcasts a *sync* packet and then immediately transitions to phase $ACTIVE$
