@@ -35,7 +35,8 @@
               "title": "6-17-2025 Meeting Minutes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -293,10 +294,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7561572db5b701ba",
+  "active": "f2fd7fdfd7828bc4",
   "lastOpenFiles": [
-    "4 - Senior Year/Summer 2025/Meeting Minutes/6-17-2025 Meeting Minutes.md",
     "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md",
+    "4 - Senior Year/Summer 2025/Meeting Minutes/6-17-2025 Meeting Minutes.md",
     "conflict-files-obsidian-git.md",
     "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
