@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "4 - Senior Year/Summer 2025/Meeting Minutes/6-17-2025 Meeting Minutes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-17-2025 Meeting Minutes"
+            }
+          },
+          {
+            "id": "74b5e8a8017fe9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md",
                 "mode": "source",
                 "source": false
@@ -86,7 +100,8 @@
               "title": "Literature Review Diagram"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -320,13 +334,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f7d29d024d5560c",
+  "active": "74b5e8a8017fe9e2",
   "lastOpenFiles": [
+    "4 - Senior Year/Summer 2025/Meeting Minutes/6-17-2025 Meeting Minutes.md",
+    "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
     "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
     "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md",
     "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md",
-    "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md",
     "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf",
     "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
