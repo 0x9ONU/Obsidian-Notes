@@ -1,150 +1,81 @@
-<%*  
-let university = await tp.system.prompt("University name");  
-let city = await tp.system.prompt("City");  
-let state = await tp.system.prompt("State / Province");  
-let country = await tp.system.prompt("Country");  
-let city_population = await tp.system.prompt("City population (approx)");  
-let col_index = await tp.system.prompt("Cost-of-living index");  
-let application_deadline = await tp.system.prompt("Application deadline (YYYY-MM-DD)");  
-let early_deadline = await tp.system.prompt("Priority/early deadline (optional)");  
-let application_fee = await tp.system.prompt("Application fee (USD)");  
-let acceptance_rate = await tp.system.prompt("Acceptance rate (%)");  
-let enrollment_grad = await tp.system.prompt("Graduate enrollment");  
-let tuition_in_state = await tp.system.prompt("Tuition – in-state");  
-let tuition_out_of_state = await tp.system.prompt("Tuition – out-of-state / international");  
-let avg_stipend = await tp.system.prompt("Average PhD stipend");  
-let funding_model = await tp.system.prompt("Funding model (TA/RA/fellowship)");  
-let program1 = await tp.system.prompt("Primary PhD program");  
-let program2 = await tp.system.prompt("Secondary / interdisciplinary program (optional)");  
-let prof1_name = await tp.system.prompt("Professor 1 name");  
-let prof1_tags = await tp.system.prompt("Prof 1 research areas");  
-let prof1_email = await tp.system.prompt("Prof 1 email");  
-let prof2_name = await tp.system.prompt("Professor 2 name (optional)");  
-let prof2_tags = await tp.system.prompt("Prof 2 research areas");  
-let prof2_email = await tp.system.prompt("Prof 2 email (optional)");  
-let focus_summary = await tp.system.prompt("One-sentence program focus summary");  
-let interest_reason = await tp.system.prompt("Why does this program appeal to you?");  
-let dept_link = await tp.system.prompt("Program website URL");  
-let col_link = await tp.system.prompt("COL link (optional)");  
-let created_date = tp.date.now("YYYY-MM-DD");  
-let updated_date = tp.date.now("YYYY-MM-DD");  
-let wiki_title = tp.file.title;
-
-let result = `---  
-#️⃣ type: graduate_application  
-university: "${university}"  
-city: "${city}"  
-state_province: "${state}"  
-country: "${country}"  
-city_population: "${city_population}"  
-col_index: "${col_index}"  
-application_deadline: "${application_deadline}"  
-early_deadline: "${early_deadline}"  
-application_fee: "${application_fee}"  
-acceptance_rate: "${acceptance_rate}"  
-enrollment_grad: "${enrollment_grad}"  
-tuition_in_state: "${tuition_in_state}"  
-tuition_out_of_state: "${tuition_out_of_state}"  
-avg_stipend: "${avg_stipend}"  
-funding_model: "${funding_model}"  
-programs_offered:
-
-- "${program1}"
-    
-- "${program2}"  
-    key_faculty:
-    
-- name: "${prof1_name}"  
-    research_tags: "${prof1_tags}"  
-    email: "${prof1_email}"  
-    contacted: "no"
-    
-- name: "${prof2_name}"  
-    research_tags: "${prof2_tags}"  
-    email: "${prof2_email}"  
-    contacted: "no"  
-    created: ${created_date}  
-    updated: ${updated_date}
-    
-
----
-
-> [!abstract]- Summary  
-> **Program focus**: ${focus_summary}
-> 
-> **Why I am interested**: ${interest_reason}
-
-## 🎯 Application Checklist
-
--  Complete online application @due(${created_date})
-    
--  Pay application fee
-    
--  Request official transcripts
-    
--  Send GRE/TOEFL scores (if required)
-    
--  Solicit recommendation letters
-    
--  Draft & polish Statement of Purpose
-    
--  Email potential advisors
-    
-
-## 📊 Quick Facts
-
-|Statistic|Value|
-|---|---|
-|Population|${city_population}|
-|Cost-of-Living|${col_index}|
-|Acceptance Rate|${acceptance_rate}|
-|Avg Stipend|${avg_stipend}|
-
-## 👥 Faculty Notes
-
-```dataview  
-table research_tags as "Research Areas", contacted  
-from ""  
-where contains(file.type, "graduate_application") and file.name = this.file.name  
-flatten key_faculty as prof  
-sort prof.name  
-```
-
-## 🏙️ Location & Lifestyle
-
-- Housing cost notes:
-    
-- Climate / weather:
-    
-- Cultural highlights:
-    
-
-## ✅ Pros & ❗ Cons
-
-## ```ad-pros  
-collapse: closed  
-title: Strengths  
-```
-
-## ```ad-cons  
-collapse: closed  
-title: Concerns  
-```
-
-## 🔗 Useful Links
-
-- Department Website
-    
-- [City Wikipedia](https://en.wikipedia.org/wiki/$%7Bwiki_title%7D)
-    
-- Cost Of Living Calculator
-    
-
----
-
-### Personal Impressions
-
-_Jot reflections after campus visits, interviews, or additional research._  
-`  
-tR += result  
+<%*
+const date = tp.date.now("YYYY-MM-DD");
+const school = await tp.system.prompt("School Name");
+tR += `---\naliases: ["${school}"]
+tags: [gradschool, applications, ${school.toLowerCase().replaceAll(" ", "-")}]
+school: "${school}"
+created: "${date}"
+status: "🕓 researching"
+type: "PhD"
+---\n\n`;
 %>
+
+---
+
+# 🎓 [[<%= school %>]]
+
+## 📌 Basic Information
+- **School Name:** <%= school %>
+- **Location:** 
+- **City Population:** 
+- **Region:** 
+- **Campus Type:** urban / suburban / rural
+- **Weather/Climate:** 
+- **Cost of Living:** 
+
+## 🧾 College Stats
+| Metric | Value |
+|--------|-------|
+| Enrollment |  |
+| Acceptance Rate |  |
+| Application Fee |  |
+| Tuition (per year) |  |
+| Average Funding |  |
+| Stipend (if any) |  |
+| Cost of Attendance |  |
+| Financial Aid Available? |  |
+
+## 📅 Application Info
+- **Due Date:** 
+- **GRE Required:** Yes / No
+- **TOEFL/IELTS Required:** 
+- **Application Portal:** [Link]()
+- **Notes:** 
+
+## 🎓 Program Details
+- **Department:** 
+- **Degree Offered:** PhD / MS / MA
+- **Research Areas:** 
+- **Special Tracks / Labs:** 
+- **Collaborative Programs:** 
+- **Funding Model:** RA / TA / Fellowship
+
+## 👩‍🏫 Faculty of Interest
+### Professor 1
+- **Name:** 
+- **Website:** 
+- **Research Focus:** 
+- **Publications to Read:** 
+- **Contacted?:** ✅ / ❌
+- **Response?:** ✅ / ❌
+- **Notes:** 
+
+### Professor 2
+- *(Repeat above block as needed)*
+
+## 🗺️ City Insights
+- **Living Quality:** 
+- **Safety Rating:** 
+- **Public Transit:** 
+- **Housing Availability:** 
+- **Nearby Airports:** 
+
+## 🔖 Notes & Commentary
+> Use this space for subjective notes: vibes, prestige, anecdotal info from Reddit/forums, YouTube tours, etc.
+
+## 📊 Dataview Metadata (for dashboard queries)
+```dataview
+table school, location, type, status, "Due Date" as deadline, "Tuition (per year)" as tuition
+from "Applications"
+where status != "rejected"
+sort deadline asc
