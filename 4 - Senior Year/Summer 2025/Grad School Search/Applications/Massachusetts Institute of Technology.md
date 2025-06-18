@@ -260,7 +260,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Programming Languages and Software Engineering
 	3. Systems and Networking
 - **Key Papers to Read:** 
-
+	  1. [The Raw Microprocessor: A Computational Fabric for Software Circuits and General-Purpose Programs](https://groups.csail.mit.edu/cag/raw/documents/ieee-micro-2002.pdf)  
+	  2. [On-Chip Interconnection Architecture of the Tile Processor](https://www.princeton.edu/~wentzlaf/documents/Wentzlaff.2007.IEEE_Micro.Tilera.pdf)  
+	  3. [Adaptive Traffic Signal Cycle Control for Green City Traffic Management](https://doi.org/10.1109/TENCON61640.2024.10903119)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -272,7 +274,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	1. Computer Architecture
 	2. Systems and Networking
 - **Key Papers to Read:** 
-
+	  1. [Dune: Safe User-level Access to Privileged CPU Features](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-117.pdf)  
+	  2. [IX: A Protected Dataplane Operating System for High Throughput and Low Latency](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-belay.pdf)  
+	  3. [Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing](https://arxiv.org/pdf/2309.13599.pdf)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -285,7 +289,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Systems and Networking
 	3. Theory of Computation
 - **Key Papers to Read:** 
-
+  1. [Reconstruction of Markov Random Fields from Samples: Some Observations and Algorithms](https://arxiv.org/pdf/0712.1402.pdf)  
+  2. [Efficiently Learning Ising Models on Arbitrary Graphs](https://arxiv.org/pdf/1411.6156.pdf)  
+  3. [Sandwiching Random Geometric Graphs and Erdős–Rényi with Applications](https://arxiv.org/pdf/2408.00995.pdf)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -298,7 +304,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Systems and Networking
 	3. Systems Theory, Control, and Autonomy
 - **Key Papers to Read:** 
-
+	  1. [Distributed Control of Spatially Invariant Systems](https://doi.org/10.1109/TAC.2002.800646)  
+	  2. [Bayesian Learning in Social Networks](https://academic.oup.com/restud/article/78/4/1201/1531449)  
+	  3. [Towards Data Auctions with Externalities](https://doi.org/10.1016/j.geb.2024.09.008)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -311,7 +319,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Integrated Circuits and Systems
 	3. Systems and Networking
 - **Key Papers to Read:** 
-
+	  1. [A Characterization of Processor Performance in the VAX-11/780](https://emer.org/Family/Joel/Professional/papers/1984-isca-vax.pdf)  
+	  2. [Memory Dependence Prediction using Store Sets](https://acg.cis.upenn.edu/milom/cis501-Fall10/papers/store-sets.pdf)  
+	  3. [CiMLoop: A Flexible, Accurate, and Fast Compute-In-Memory Modeling Tool](https://arxiv.org/pdf/2405.07259.pdf)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
