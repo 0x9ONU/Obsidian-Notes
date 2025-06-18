@@ -112,9 +112,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Information Science and Systems
 	3. Integrated Circuits and Systems
 - **Key Papers to Read:** 
-	1. [Multi-Carrier Digital Communications: Theory adn Applications of OFDM](https://link.springer.com/book/10.1007/b99321)
-	2. [State of the Art in Opportunistic Spectrum Access Medium Access Control Design](https://ieeexplore.ieee.org/document/4562475)
-	3. [Survey and perspective on verification, validation, and uncertainty quantification of digital twins for precision medicine](https://www.nature.com/articles/s41746-025-01447-y)
+	1. [Energy-Constrained Modulation Optimization](https://doi.org/10.1109/TWC.2005.853882)  
+	2. [Energy-Efficiency of MIMO and Cooperative MIMO Techniques in Sensor Networks](https://doi.org/10.1109/JSAC.2004.830916)  
+	3. [An Integrated BAW Oscillator with ±30 ppm Frequency Stability Over Temperature, Package Stress, and Aging](https://doi.org/10.1109/ISSCC19947.2020.9062945)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -129,6 +129,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	4. Systems and Networking
 	5. Theory of Computation
 - **Key Papers to Read:** 
+	1. [Physical Unclonable Functions for Device Authentication and Secret Key Generation](https://dl.acm.org/doi/10.1145/1278480.1278484)  
+	2. [Silicon Physical Random Functions](https://dl.acm.org/doi/10.1145/586110.586132)  
+	3. [Accelerating Zero-Knowledge Proofs Through Hardware-Algorithm Co-Design](https://people.csail.mit.edu/devadas/pubs/micro24_nocap.pdf)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -141,6 +144,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Electronic, Magnetic, Optical and Quantum Materials and Devices
 	3. Integrated Circuits and Systems
 - **Key Papers to Read:** 
+	1. [A 220-to-320 GHz FMCW Radar in 65‑nm CMOS Using a Frequency-Comb Architecture](https://www.researchgate.net/publication/344859636_A_220-to-320-GHz_FMCW_Radar_in_65-nm_CMOS_Using_a_Frequency-Comb_Architecture)  
+	2. [Dual-Terahertz-Comb Spectrometer on CMOS for Rapid, Wide-Range Gas Detection with Absolute Specificity](https://hangroup.mit.edu/wp-content/uploads/2018/06/2018_IEEE_BioCAS.pdf)
+	3. [A Wireless Terahertz Cryogenic Interconnect that Minimizes Heat-to-Information Transfer](https://www.nature.com/articles/s41928-023-01016-0)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -153,6 +159,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Computer Architecture
 	3. Integrated Circuits and Systems
 - **Key Papers to Read:** 
+	1. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)  
+	2. [EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/abs/1602.01528)  
+	3. [LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention](https://arxiv.org/abs/2502.14866)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -165,6 +174,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Energy
 	3. Integrated Circuits and Systems
 - **Key Papers to Read:** 
+	1. [Electromechanical Analogies for Understanding Power Processing Systems](https://ieeexplore.ieee.org/document/701894)  
+	2. [Active-Bandpass Filter Fabricated with MEMS Resonators](https://ieeexplore.ieee.org/document/1436741)  
+	3. [Wireless Power Transfer via Strongly Coupled Magnetic Resonances](https://www.science.org/doi/10.1126/science.1143254)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
