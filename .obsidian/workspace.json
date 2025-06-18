@@ -216,16 +216,6 @@
             }
           },
           {
-            "id": "35d312ee91e292cc",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
             "id": "8b895bd010de2708",
             "type": "leaf",
             "state": {
@@ -310,11 +300,12 @@
   },
   "active": "02f3688630866afc",
   "lastOpenFiles": [
+    "4 - Senior Year/Summer 2025/Grad School Search/Graduate School Application Overview.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/test.md",
     "Templates/Grad School Template.md",
-    "4 - Senior Year/Summer 2025/Grad School Search/Graduate School Application Overview.md",
-    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Some University.md",
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Drawing 2025-06-18 12.06.37.excalidraw.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Some University.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Untitled.md",
     "conflict-files-obsidian-git.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Test.md",
@@ -342,8 +333,6 @@
     "General Notes/Kanban/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.md",
     "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md",
     "General Notes/Kanban/QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes.md",
-    "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md",
-    "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/Physically unclonable functions.pdf",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/Physical One-Way Functions.pdf",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks.pdf",
