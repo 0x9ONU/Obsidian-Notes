@@ -20,4 +20,14 @@ File Folder: Meeting Minutes
 5. Replay
 6. Closing
 # Action Items
-- [ ] 
+- [ ] Testing (6 trials each, 20,000 packets)
+	- [ ] Normal Tests
+		- [ ] 100%
+		- [ ] 80%
+		- [ ] 40%
+	- [ ] Malicious (100% energy)
+		- [ ] 100%
+		- [ ] 80%
+		- [ ] 40%
+- [ ] Try to implement the detection
+- [ ] Change to Malicious (make it so it burstSend is delayed)
