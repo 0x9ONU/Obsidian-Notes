@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6104ebfc53a6d8fc",
+        "id": "aecd27e833146190",
         "type": "tabs",
         "children": [
           {
-            "id": "0e05ba6a7daf1840",
+            "id": "b08cff36d2fac18a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Meeting Minutes/6-17-2025 Meeting Minutes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6-17-2025 Meeting Minutes"
-            }
-          },
-          {
-            "id": "f626b87ec4ab17ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,15 +250,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f626b87ec4ab17ea",
+  "active": "b08cff36d2fac18a",
   "lastOpenFiles": [
     "4 - Senior Year/Summer 2025/Meeting Minutes/6-17-2025 Meeting Minutes.md",
+    "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md",
     "conflict-files-obsidian-git.md",
     "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf",
     "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
     "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
-    "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
     "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
     "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md",
