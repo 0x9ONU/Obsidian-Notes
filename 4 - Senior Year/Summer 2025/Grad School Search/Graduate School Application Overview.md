@@ -15,7 +15,7 @@ sort deadline asc
 ## School Broad Information
 
 ```dataview
-table file.link as location, enrollment, tuition, stipend, cost_of_living, rank, created
+table location, enrollment, tuition, stipend, cost_of_living, rank, created
 from "4 - Senior Year/Summer 2025/Grad School Search/Applications"
 sort rank desc
 ```
