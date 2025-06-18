@@ -20,7 +20,7 @@ File Folder: Meeting Minutes
 5. Replay
 6. Closing
 # Action Items
-- [ ] Testing (6 trials each, 20,000 packets)
+- [ ] Testing (4 trials each, 20,000 packets)
 	- [ ] Normal Tests
 		- [ ] 100%
 		- [ ] 80%

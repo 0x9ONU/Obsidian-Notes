@@ -28,17 +28,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c26a0c3398846126",
+            "id": "d909fcc0fbbe6792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Summer 2025/Grad School Search/Applications/Virginia Tech.md",
+                "file": "4 - Senior Year/Summer 2025/Grad School Search/Applications/Massachusetts Institute of Technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virginia Tech"
+              "title": "Massachusetts Institute of Technology"
             }
           }
         ]
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -303,14 +304,16 @@
       }
     ]
   },
-  "active": "d9e0457bdb5ff185",
+  "active": "98abcab67a590b2f",
   "lastOpenFiles": [
-    "4 - Senior Year/Summer 2025/Grad School Search/Applications/West Virginia University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Massachusetts Institute of Technology.md",
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
-    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Ohio State University.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Graduate School Application Overview.md",
-    "4 - Senior Year/Summer 2025/Grad School Search/Applications/University of Cincinnati.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Virginia Tech.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Case Western Reserve University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/West Virginia University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Ohio State University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/University of Cincinnati.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Hong Kong University of Science and Technology.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/University of Oxford.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Nanyang Technological University.md",
@@ -324,13 +327,11 @@
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Carnegie Mellon University.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Stanford University.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/University of California, Berkeley.md",
-    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Massachusetts Institute of Technology.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/old school.md",
     "Templates/Grad School Template.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/new school.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Test School.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/mit.md",
-    "4 - Senior Year/Summer 2025/Grad School Search/Applications/MIT.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications",
     "4 - Senior Year/Summer 2025/Grad School Search",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
