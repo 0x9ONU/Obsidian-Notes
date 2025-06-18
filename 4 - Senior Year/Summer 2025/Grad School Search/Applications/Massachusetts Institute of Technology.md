@@ -188,6 +188,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Integrated Circuits and Systems
 	3. Signal Processing
 - **Key Papers to Read:** 
+	1. [Full-Speed Testing of A/D Converters](https://doi.org/10.1109/JSSC.1984.1052232)  
+	  2. [A 15-b 1-Msample/s Digitally Self-Calibrated Pipeline ADC](https://doi.org/10.1109/4.261994)  
+	  3. [A Continuous-Time Sturdy-MASH ΔΣ Modulator in 28 nm CMOS](https://doi.org/10.1109/JSSC.2015.2466459)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -200,6 +203,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Energy
 	3. Integrated Circuits and Systems
 - **Key Papers to Read:** 
+	  1. [Opportunities and Challenges in Very High Frequency Power Conversion](https://doi.org/10.1109/APEC.2009.4802625)  
+	  2. [Submodule Integrated Distributed Maximum Power Point Tracking for Solar Photovoltaic Applications](https://doi.org/10.1109/TPEL.2012.2220861)  
+	  3. [High-Efficiency Wide-Range RF Power Generation Systems With Discrete Power Back-Off From Multiple Inverters](https://doi.org/10.1109/TPEL.2024.3457535)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -211,6 +217,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	1. Electronic, Magnetic, Optical and Quantum Materials and Devices
 	2. Integrated Circuits and Systems
 - **Key Papers to Read:** 
+	  1. [Use of Novel Hydrofluorocarbon and Iodofluorocarbon Chemistries for a High Aspect Ratio Via Etch in a High Density Plasma Etch Tool](https://doi.org/10.1149/1.1838955)  
+	  2. [The Use of Unsaturated Fluorocarbons for Dielectric Etch Applications](https://doi.org/10.1149/1.1457988)  
+	  3. [Investigation and Effects of Wafer Bow in 3D Integration Bonding Schemes](https://doi.org/10.1007/s11664-010-1341-y)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -223,6 +232,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Integrated Circuits and Systems
 	3. Systems and Networking
 - **Key Papers to Read:** 
+	1. [ZSim: Fast and Accurate Microarchitectural Simulation of Thousand-Core Systems](https://doi.org/10.1145/2486001.2486039)  
+	  2. [SCD: A Scalable Coherence Directory With Flexible Sharer Set Encoding](https://doi.org/10.1109/HPCA.2012.6168950)  
+	  3. [Accelerating RTL Simulation With Hardware-Software Co-Design](https://doi.org/10.1145/3613424.3614257)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -233,6 +245,9 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 - **Research Focus:** 
 	1. Systems and Networking
 - **Key Papers to Read:** 
+	1. [Smart Homes That Monitor Breathing and Heart Rate](https://doi.org/10.1145/2702123.2702200)  
+	  2. [See Through Walls With WiFi!](https://doi.org/10.1145/2486001.2486039)  
+	  3. [Underwater Backscatter Networking for Subsea IoT: A Link-Budget Analysis in Practical Ocean Channels](https://doi.org/10.1109/JOE.2025.3538946)
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -245,6 +260,7 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Programming Languages and Software Engineering
 	3. Systems and Networking
 - **Key Papers to Read:** 
+
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -256,6 +272,7 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	1. Computer Architecture
 	2. Systems and Networking
 - **Key Papers to Read:** 
+
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -268,6 +285,7 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Systems and Networking
 	3. Theory of Computation
 - **Key Papers to Read:** 
+
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -280,6 +298,7 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Systems and Networking
 	3. Systems Theory, Control, and Autonomy
 - **Key Papers to Read:** 
+
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
@@ -292,6 +311,7 @@ Core and concentration subjects cover six “ways of thinking” fundamental to 
 	2. Integrated Circuits and Systems
 	3. Systems and Networking
 - **Key Papers to Read:** 
+
 - **Contacted?** No
 - **Responded?** No
 - **Notes:** 
