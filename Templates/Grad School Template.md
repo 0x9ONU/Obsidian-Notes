@@ -26,56 +26,57 @@ let focus_summary = await tp.system.prompt("One-sentence program focus summary")
 let interest_reason = await tp.system.prompt("Why does this program appeal to you?");  
 let dept_link = await tp.system.prompt("Program website URL");  
 let col_link = await tp.system.prompt("COL link (optional)");  
-%>
+let created_date = tp.date.now("YYYY-MM-DD");  
+let updated_date = tp.date.now("YYYY-MM-DD");  
+let wiki_title = tp.file.title;
 
----
-
-type: graduate_application  
-university: "<%= university %>"  
-city: "<%= city %>"  
-state_province: "<%= state %>"  
-country: "<%= country %>"  
-city_population: "<%= city_population %>"  
-col_index: "<%= col_index %>"  
-application_deadline: "<%= application_deadline %>"  
-early_deadline: "<%= early_deadline %>"  
-application_fee: "<%= application_fee %>"  
-acceptance_rate: "<%= acceptance_rate %>"  
-enrollment_grad: "<%= enrollment_grad %>"  
-tuition_in_state: "<%= tuition_in_state %>"  
-tuition_out_of_state: "<%= tuition_out_of_state %>"  
-avg_stipend: "<%= avg_stipend %>"  
-funding_model: "<%= funding_model %>"  
+let result = `---  
+#️⃣ type: graduate_application  
+university: "${university}"  
+city: "${city}"  
+state_province: "${state}"  
+country: "${country}"  
+city_population: "${city_population}"  
+col_index: "${col_index}"  
+application_deadline: "${application_deadline}"  
+early_deadline: "${early_deadline}"  
+application_fee: "${application_fee}"  
+acceptance_rate: "${acceptance_rate}"  
+enrollment_grad: "${enrollment_grad}"  
+tuition_in_state: "${tuition_in_state}"  
+tuition_out_of_state: "${tuition_out_of_state}"  
+avg_stipend: "${avg_stipend}"  
+funding_model: "${funding_model}"  
 programs_offered:
 
-- "<%= program1 %>"
+- "${program1}"
     
-- "<%= program2 %>"  
+- "${program2}"  
     key_faculty:
     
-- name: "<%= prof1_name %>"  
-    research_tags: "<%= prof1_tags %>"  
-    email: "<%= prof1_email %>"  
+- name: "${prof1_name}"  
+    research_tags: "${prof1_tags}"  
+    email: "${prof1_email}"  
     contacted: "no"
     
-- name: "<%= prof2_name %>"  
-    research_tags: "<%= prof2_tags %>"  
-    email: "<%= prof2_email %>"  
+- name: "${prof2_name}"  
+    research_tags: "${prof2_tags}"  
+    email: "${prof2_email}"  
     contacted: "no"  
-    created: <% tp.date.now("YYYY-MM-DD") %>  
-    updated: <% tp.date.now("YYYY-MM-DD") %>
+    created: ${created_date}  
+    updated: ${updated_date}
     
 
 ---
 
 > [!abstract]- Summary  
-> **Program focus**: <%= focus_summary %>
+> **Program focus**: ${focus_summary}
 > 
-> **Why I am interested**: <%= interest_reason %>
+> **Why I am interested**: ${interest_reason}
 
 ## 🎯 Application Checklist
 
--  Complete online application @due(<% tp.date.now('YYYY-MM-DD') %>)
+-  Complete online application @due(${created_date})
     
 -  Pay application fee
     
@@ -94,19 +95,19 @@ programs_offered:
 
 |Statistic|Value|
 |---|---|
-|Population|`= this.city_population`|
-|Cost-of-Living|`= this.col_index`|
-|Acceptance Rate|`= this.acceptance_rate`|
-|Avg Stipend|`= this.avg_stipend`|
+|Population|${city_population}|
+|Cost-of-Living|${col_index}|
+|Acceptance Rate|${acceptance_rate}|
+|Avg Stipend|${avg_stipend}|
 
 ## 👥 Faculty Notes
 
-```dataview
-table research_tags as "Research Areas", contacted
-from ""
-where contains(file.type, "graduate_application") and file.name = this.file.name
-flatten key_faculty as prof
-sort prof.name
+```dataview  
+table research_tags as "Research Areas", contacted  
+from ""  
+where contains(file.type, "graduate_application") and file.name = this.file.name  
+flatten key_faculty as prof  
+sort prof.name  
 ```
 
 ## 🏙️ Location & Lifestyle
@@ -120,21 +121,21 @@ sort prof.name
 
 ## ✅ Pros & ❗ Cons
 
-```ad-pros
-collapse: closed
-title: Strengths
+## ```ad-pros  
+collapse: closed  
+title: Strengths  
 ```
 
-```ad-cons
-collapse: closed
-title: Concerns
+## ```ad-cons  
+collapse: closed  
+title: Concerns  
 ```
 
 ## 🔗 Useful Links
 
 - Department Website
     
-- [City Wikipedia]([https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)<% tp.file.title %>)
+- [City Wikipedia](https://en.wikipedia.org/wiki/$%7Bwiki_title%7D)
     
 - Cost Of Living Calculator
     
@@ -143,4 +144,7 @@ title: Concerns
 
 ### Personal Impressions
 
-_Jot reflections after campus visits, interviews, or additional research._
+_Jot reflections after campus visits, interviews, or additional research._  
+`  
+tR += result  
+%>
