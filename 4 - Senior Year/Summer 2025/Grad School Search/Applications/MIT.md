@@ -1,18 +1,12 @@
-<%*
-const school = await tp.system.prompt("School Name");
-const date = tp.date.now("YYYY-MM-DD");
-await tp.file.rename(school);
-const slug = school.toLowerCase().replace(/ /g, "-");
-
-tR = `---
-aliases: ["${school}"]
-tags: [gradschool, applications, ${slug}]
-school: "${school}"
-created: "${date}"
+---
+aliases: ["MIT"]
+tags: [gradschool, applications, mit]
+school: "MIT"
+created: "2025-06-18"
 status: "🕓 researching"
 type: "PhD"
 ---
-# 🎓 ${school}
+# 🎓 MIT
 
 ## 📌 Basic Information
 - **Location:** 
@@ -64,20 +58,19 @@ type: "PhD"
 - **Nearest Airports:** 
 
 ## ✅ Application Tasks
-\`\`\`tasks
+```tasks
 not done
-path includes "${school}"
-\`\`\`
+path includes "MIT"
+```
 
 ## 📊 Dataview Summary Snippet
-\`\`\`dataview
+```dataview
 table school, location, status, deadline
 from "Applications"
 where status != "rejected"
 sort deadline asc
-\`\`\`
+```
 
 ## 🔖 Notes
 Write down your impressions, visits, Reddit anecdotes, etc.
-`;
-%>
+
