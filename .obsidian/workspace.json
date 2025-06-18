@@ -4,104 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c3b0e89058e315ef",
+        "id": "6dc8ef18fc251bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "0f7d29d024d5560c",
+            "id": "238156e7f918ee91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Meeting Minutes/6-17-2025 Meeting Minutes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6-17-2025 Meeting Minutes"
-            }
-          },
-          {
-            "id": "74b5e8a8017fe9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6-9-2025 Meeting"
-            }
-          },
-          {
-            "id": "cceab2198c0eb6a6",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Summer 2025 Research Literature Review"
-            }
-          },
-          {
-            "id": "e3cd2d1310818ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks"
-            }
-          },
-          {
-            "id": "8334b26d70e9c827",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1)"
-            }
-          },
-          {
-            "id": "7666fc05379214e7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
-                "viewState": {
-                  "x": 2489.242090895171,
-                  "y": 2085.217812230638,
-                  "zoom": -1.1445539720473998
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Literature Review Diagram"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -334,18 +250,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "74b5e8a8017fe9e2",
+  "active": "238156e7f918ee91",
   "lastOpenFiles": [
-    "4 - Senior Year/Summer 2025/Meeting Minutes/6-17-2025 Meeting Minutes.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
+    "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf",
+    "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
+    "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
     "4 - Senior Year/Summer 2025/Meeting Minutes/6-9-2025 Meeting.md",
+    "4 - Senior Year/Summer 2025/Meeting Minutes/6-17-2025 Meeting Minutes.md",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
     "General Notes/Kanban/A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols.md",
     "General Notes/Kanban/A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems.md",
     "General Notes/Kanban/IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING.md",
-    "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
-    "4 - Senior Year/Summer 2025/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf",
-    "4 - Senior Year/Summer 2025/Literature Review/Summer 2025 Research Literature Review.md",
-    "4 - Senior Year/Summer 2025/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Summer 2025/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf",
     "conflict-files-obsidian-git.md",
     "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md",
@@ -382,7 +298,6 @@
     "4 - Senior Year/Summer 2025/Literature Review/Papers/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.pdf",
     "General Notes/Kanban/Generalized TDMA The Multi-Accessing Tree Protocol.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What are tensor processing units and what is their role in AI.md",
-    "3 - Junior Year/Fall 2024/Computer Architecture/Report/Literature Review/Notes/What Is the Difference Between CPU vs. GPU vs. TPU.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
