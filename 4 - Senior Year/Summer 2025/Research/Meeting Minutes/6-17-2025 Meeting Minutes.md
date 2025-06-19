@@ -22,7 +22,7 @@ File Folder: Meeting Minutes
 # Action Items
 - [ ] Testing (4 trials each, 20,000 packets)
 	- [ ] Normal Tests
-		- [ ] 100%
+		- [x] 100% ✅ 2025-06-19
 		- [ ] 80%
 		- [ ] 40%
 	- [ ] Malicious (100% energy)
