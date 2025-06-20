@@ -259,49 +259,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "cffe1e3117d806fe",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1df946421dcb11fa",
-        "type": "window",
-        "children": [
-          {
-            "id": "ee5482f843a33908",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "98abcab67a590b2f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "6-17-2025 Meeting Minutes"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "98abcab67a590b2f",
+  "active": "d909fcc0fbbe6792",
   "lastOpenFiles": [
-    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Massachusetts Institute of Technology.md",
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Massachusetts Institute of Technology.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Graduate School Application Overview.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Virginia Tech.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Case Western Reserve University.md",
