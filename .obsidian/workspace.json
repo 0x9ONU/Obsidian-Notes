@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "Graduate School Application Overview"
             }
+          },
+          {
+            "id": "41592f960a87fda9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -259,10 +269,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d909fcc0fbbe6792",
+  "active": "41592f960a87fda9",
   "lastOpenFiles": [
-    "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Massachusetts Institute of Technology.md",
+    "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Graduate School Application Overview.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Virginia Tech.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Applications/Case Western Reserve University.md",
