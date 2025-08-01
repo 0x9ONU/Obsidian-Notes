@@ -187,7 +187,6 @@ Proposed algorithm is evaluted based on average energy consumption and average d
 	\end{algorithm}
 ```
 
-
 *Three Operating Phases*:
 1. $DEAD$
 	- Starting phase
