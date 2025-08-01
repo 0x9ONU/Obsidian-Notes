@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems",
+      "path": "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md"
+    },
+    {
+      "basename": "Summer 2025 Lit Review Survey Attacks",
+      "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md"
+    },
+    {
+      "basename": "Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges",
+      "path": "General Notes/Kanban/Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges.md"
+    },
+    {
+      "basename": "Summer 2025 Research Literature Review",
+      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
       "basename": "Literature Review Diagram",
       "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
       "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "Summer 2025 Research Literature Review",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md"
     },
     {
       "basename": "ds_xbee-s2c-802-15-4",
@@ -187,18 +199,6 @@
     {
       "basename": "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs",
       "path": "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md"
-    },
-    {
-      "basename": "DIGI XBEEE S2C 802.15.4 RF Modules",
-      "path": "General Notes/Kanban/DIGI XBEEE S2C 802.15.4 RF Modules.md"
-    },
-    {
-      "basename": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks",
-      "path": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "A Survey of Wireless Sensor Network and Its Types",
-      "path": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md"
     }
   ],
   "omittedPaths": [],

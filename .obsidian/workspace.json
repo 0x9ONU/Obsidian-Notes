@@ -1,0 +1,329 @@
+{
+  "main": {
+    "id": "b6d6f5303db79c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7c25152fab7ec68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ae0bcc73177c60e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Summer 2025 Lit Review Survey Attacks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6755c013914942e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a2bb0e29d60c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4e8d205eebe178e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ba695eb961baa08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20fa6d1f814f2ed8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b66cff5896ef8f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c86fcf36380a876c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e848d912d6fd30f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d985ca81e8e4a551",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3aae8ecb757e9689",
+    "type": "split",
+    "children": [
+      {
+        "id": "d510847d6e75478b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "144d30a7692f7ccd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hardware Security - Week 9 Day 2"
+            }
+          },
+          {
+            "id": "31c6f284a256d529",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hardware Security - Week 9 Day 2"
+            }
+          },
+          {
+            "id": "fbdbafa653ec6d84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd7bb76f6a1d1b91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 9/Hardware Security - Week 9 Day 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hardware Security - Week 9 Day 2"
+            }
+          },
+          {
+            "id": "4f4feb0c02350972",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "88e79d2159b922ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "52fd4bc2e7ba6bd8",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8b895bd010de2708",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-projects:Open projects": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-daily-notes-opener:Open today's daily note in new pane": false,
+      "obsidian-daily-notes-viewer:Open Viewer": false,
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "71a2bb0e29d60c74",
+  "lastOpenFiles": [
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
+    "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Safe and Secure Wireless Power Transfer Networks.pdf",
+    "General Notes/Kanban/Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Simultaneous Wireless Information and Power Transfer (SWIPT).pdf",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.pdf",
+    "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/ds_xbee-s2c-802-15-4.pdf",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A dynamic TDMA based scheme for securing query processing.pdf",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Massachusetts Institute of Technology.md",
+    "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Graduate School Application Overview.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Virginia Tech.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Case Western Reserve University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/West Virginia University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Ohio State University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/University of Cincinnati.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Hong Kong University of Science and Technology.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/University of Oxford.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Nanyang Technological University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Universitat Autònoma de Barcelona.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Boston University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/University of Illinois Urbana-Champaign (Grainger).md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Purdue University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Princeton University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Cornell University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Georgia Institute of Technology.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Carnegie Mellon University.md",
+    "4 - Senior Year/Summer 2025/Grad School Search/Applications/Stanford University.md",
+    "General Notes/Pasted image 20250606153407.png",
+    "General Notes/Pasted image 20250606153325.png",
+    "General Notes/Pasted image 20250606153256.png",
+    "General Notes/Pasted image 20250606153144.png",
+    "General Notes/Pasted image 20250606153135.png",
+    "General Notes/Pasted image 20250606153126.png",
+    "General Notes/Pasted image 20250606153053.png",
+    "General Notes/Pasted image 20250606153046.png",
+    "General Notes/Pasted image 20250606153029.png",
+    "General Notes/Pasted image 20250606153018.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
