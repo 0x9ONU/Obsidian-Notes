@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems",
-      "path": "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md"
+      "basename": "Performance Analysis of Wireless Energy Harvesting Cognitive Radio Networks Under Smart Jamming Attacks",
+      "path": "General Notes/Kanban/Performance Analysis of Wireless Energy Harvesting Cognitive Radio Networks Under Smart Jamming Attacks.md"
     },
     {
       "basename": "Summer 2025 Lit Review Survey Attacks",
       "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md"
+    },
+    {
+      "basename": "Mitigating Jamming Attacks Using Energy Harvesting",
+      "path": "General Notes/Kanban/Mitigating Jamming Attacks Using Energy Harvesting.md"
+    },
+    {
+      "basename": "Energy harvesting in secret key generation systems under jamming attacks",
+      "path": "General Notes/Kanban/Energy harvesting in secret key generation systems under jamming attacks.md"
+    },
+    {
+      "basename": "Protecting Secret Key Generation Systems Against Jamming Energy Harvesting and Channel Hopping Approaches",
+      "path": "General Notes/Kanban/Protecting Secret Key Generation Systems Against Jamming Energy Harvesting and Channel Hopping Approaches.md"
+    },
+    {
+      "basename": "Flooding Attack in Energy Harvesting Wireless Sensor Networks",
+      "path": "General Notes/Kanban/Flooding Attack in Energy Harvesting Wireless Sensor Networks.md"
+    },
+    {
+      "basename": "Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer",
+      "path": "General Notes/Kanban/Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer.md"
+    },
+    {
+      "basename": "Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems",
+      "path": "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md"
     },
     {
       "basename": "Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges",
@@ -175,30 +199,6 @@
     {
       "basename": "Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio",
       "path": "General Notes/Kanban/Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio.md"
-    },
-    {
-      "basename": "Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks",
-      "path": "General Notes/Kanban/Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks.md"
-    },
-    {
-      "basename": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering",
-      "path": "General Notes/Kanban/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.md"
-    },
-    {
-      "basename": "On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes",
-      "path": "General Notes/Kanban/On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes.md"
-    },
-    {
-      "basename": "QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes",
-      "path": "General Notes/Kanban/QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes.md"
-    },
-    {
-      "basename": "A dynamic TDMA based scheme for securing query processing in WSN",
-      "path": "General Notes/Kanban/A dynamic TDMA based scheme for securing query processing in WSN.md"
-    },
-    {
-      "basename": "JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs",
-      "path": "General Notes/Kanban/JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs.md"
     }
   ],
   "omittedPaths": [],
