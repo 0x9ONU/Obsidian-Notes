@@ -28,10 +28,14 @@ kanban-plugin: board
 
 ## Side Channel
 
+- [ ] Tamper Resistance Evaluation Method for Energy Harvester
+- [ ] [[Reap What You Store Side-channel Resilient Computing Through Energy Harvesting]]
+- [ ] [[NICScatter Backscatter As a Covert Channel in Mobile Devices]]
 
 
 ## Device Tampering
 
+- [ ] [[Secure Intermittent Computing Protocol Protecting State Across Power Loss]]
 
 
 ## Replay

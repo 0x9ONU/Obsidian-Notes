@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Secure Intermittent Computing Protocol Protecting State Across Power Loss",
+      "path": "General Notes/Kanban/Secure Intermittent Computing Protocol Protecting State Across Power Loss.md"
+    },
+    {
       "basename": "Summer 2025 Lit Review Survey Attacks",
       "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md"
+    },
+    {
+      "basename": "NICScatter Backscatter As a Covert Channel in Mobile Devices",
+      "path": "General Notes/Kanban/NICScatter Backscatter As a Covert Channel in Mobile Devices.md"
+    },
+    {
+      "basename": "Reap What You Store Side-channel Resilient Computing Through Energy Harvesting",
+      "path": "General Notes/Kanban/Reap What You Store Side-channel Resilient Computing Through Energy Harvesting.md"
+    },
+    {
+      "basename": "Tamper Resistance Evaluation Method for Energy Harvester",
+      "path": "General Notes/Kanban/Tamper Resistance Evaluation Method for Energy Harvester.md"
     },
     {
       "basename": "Mitigating stealthy collision attack in energy harvesting motivated networks",
@@ -183,22 +199,6 @@
     {
       "basename": "Stanford University",
       "path": "4 - Senior Year/Summer 2025/Grad School Search/Applications/Stanford University.md"
-    },
-    {
-      "basename": "University of California, Berkeley",
-      "path": "4 - Senior Year/Summer 2025/Grad School Search/Applications/University of California, Berkeley.md"
-    },
-    {
-      "basename": "Grad School Template",
-      "path": "Templates/Grad School Template.md"
-    },
-    {
-      "basename": "6-9-2025 Meeting",
-      "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md"
-    },
-    {
-      "basename": "A Brief Comparison of Security Aspects of Time",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf"
     }
   ],
   "omittedPaths": [],
