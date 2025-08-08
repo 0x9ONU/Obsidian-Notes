@@ -25,31 +25,5 @@ Initial efforts on wireless power transfer (WPT) have concentrated toward long-d
 
 ## Summary
 
-### Introduction
 
-#### Motivation
-
-#### Challenge
-
-#### Background
-
-### Objective of Research
-
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
 
