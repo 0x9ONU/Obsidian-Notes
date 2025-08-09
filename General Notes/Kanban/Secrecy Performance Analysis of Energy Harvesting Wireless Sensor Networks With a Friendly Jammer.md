@@ -25,31 +25,11 @@ The broadcast nature of energy harvesting wireless sensor networks (EH-WSNs) all
 
 ## Summary
 
-### Introduction
+The paper addresses the vulnerability of **Energy Harvesting Wireless Sensor Networks (EH-WSNs)** to **eavesdropping attacks**. Due to the broadcast nature of wireless communications, passive eavesdroppers (ENs) can intercept signals transmitted between sensor nodes (SNs) and the base station (BS). The attack involves:
+1. *Signal Interception/Eavesdropping*
+2. *Explotation of No Encyrption*
 
-#### Motivation
-
-#### Challenge
-
-#### Background
-
-### Objective of Research
-
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
-
+### Defense
+1. **Friendly Jammer:** A cooperative node that generates jamming signals to disrupt eavesdroppers' ability to decode intercepted signals. The jammer targets only the eavesdroppers, while the BS can cancel out the jamming signals due to prior synchronization.
+2. **Best-Node Scheduling:** An optimization scheme where the SN with the highest channel gain to the BS is selected for transmission, improving secrecy performance compared to conventional round-robin scheduling.
+3. **Energy Harvesting (EH):** SNs harvest RF energy from power stations (PSs) to power their transmissions, ensuring sustainability while maintaining security.

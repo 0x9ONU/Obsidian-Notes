@@ -27,29 +27,14 @@ The use of energy harvesting as a counter-jamming measure is investigated on the
 
 ### Introduction
 
-#### Motivation
+The paper explores **energy harvesting (EH)** as a countermeasure against **jamming attacks** in wireless communication systems. The authors model the interaction between legitimate nodes (Alice and Bob) and a malicious jammer (Jay) as a **zero-sum game**, analyzing how EH can neutralize or mitigate jamming while improving communication capacity.
 
-#### Challenge
+### Attack Model: Jamming Attack
 
-#### Background
+- Transmits Gaussian interference signals to try and disrupt communication
+- Degrades the **Shannon capacity** of the legitimate link by injecting noise into the channel.
+- The jammer’s power is constrained ($\gamma \le \Gamma$), and aims to minimize the capacity of the link.
 
-### Objective of Research
+### Defense: Energy Harvesting
 
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
-
+By breaking the time the SNs used into an energy harvesting phase AND a transmission phase, it is able to decrease the amount of information on the channel, even when a jammer tries to reduce the capacity of the link.

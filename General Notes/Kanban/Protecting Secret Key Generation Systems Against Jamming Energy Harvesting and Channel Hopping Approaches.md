@@ -25,31 +25,26 @@ Jamming attacks represent a critical vulnerability for wireless secret key gener
 
 ## Summary
 
-### Introduction
+The paper addresses the vulnerability of wireless secret key generation (SKG) systems to jamming attacks and proposes two countermeasures:
+1. **Energy Harvesting (EH)** at legitimate nodes to convert jamming power into useful communication power.
+2. **Channel Hopping or Power Spreading** in block fading channels to mitigate jamming impact.
 
-#### Motivation
+The adversarial interaction between legitimate nodes and the jammer is modeled as a two-player zero-sum game, with Nash (NE) and Stackelberg (SE) equilibria analyzed.
 
-#### Challenge
+### Attack
 
-#### Background
+**Jamming Attack**:
+- A malicious jammer (Eve) transmits interference signals to disrupt the SKG process between legitimate nodes (Alice and Bob).
+- The jammer aims to minimize the SKG capacity by injecting noise into the channel during the advantage distillation phase.
+- The attack is modeled with power constraints, where the jammer can choose to transmit with full power ($\gamma \le \Gamma$) or remain silent.
 
-### Objective of Research
+### Defense
 
-### Methodology
+#### Energy Harvesting Approach
 
-### Pros/Cons
+Legitimate nodes harvest energy from the jamming signals during a fraction of time ($\tau T$) and use it to enhance communication in the remaining time ($(1- \tau)T$).
 
-#### Benefits
 
-#### Disadvantages
+#### Channel Hopping
 
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
-
+Legit nodes randomly select a single sub carrier to transmit on, avoiding jamming interference.

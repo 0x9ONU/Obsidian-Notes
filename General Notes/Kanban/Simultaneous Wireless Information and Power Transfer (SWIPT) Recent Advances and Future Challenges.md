@@ -62,4 +62,7 @@ While the paper primarily focuses on the advancements and challenges of SWIPT, i
 ### Potential Defenses
 
 1. Physical Layer Defenses
-2. 
+2. Secure Architecture
+3. Constructive Interference
+4. Resource Allocation
+5. Channel Coding

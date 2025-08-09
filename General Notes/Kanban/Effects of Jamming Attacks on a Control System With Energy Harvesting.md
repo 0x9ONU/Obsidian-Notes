@@ -25,31 +25,4 @@ We consider the problem of control and remote state estimation with battery cons
 
 ## Summary
 
-### Introduction
-
-#### Motivation
-
-#### Challenge
-
-#### Background
-
-### Objective of Research
-
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
-
+The paper investigates the impact of **jamming attacks** on a wireless control system where sensors rely on **energy harvesting** to transmit state estimates to a controller. The authors analyze how these attacks degrade system performance and propose optimal energy allocation policies to mitigate their effects.

@@ -25,31 +25,16 @@ One of the most critical damaging effects on most wireless sensor networks is a 
 
 ## Summary
 
-### Introduction
+### Attack
 
-#### Motivation
+Flooding attacks in EH-WSNs, where attackers overwhelm sensor nodes with excessive traffic or malicious actions. This causes:
+1. **Energy Depletion** (makes SNs transmit excessively)
+2. **Buffer Overflow**
+3. **Protocol Weaknesses** (Overwhelming the TDMA)
 
-#### Challenge
+### Defense
 
-#### Background
-
-### Objective of Research
-
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
-
+1. **Point-of-Charge Detection**: Identifies abnormal traffic patterns or energy consumption spikes indicative of an attack
+2. **Traffic Management**: Redirects traffic through non-compromised nodes or uses *bloom filters* to minimize packet sizes and transmissions
+3. **Energy Conservation**: Implemented a low-power *sleep mode* to conserve energy
+4. **Theoretical Modeling**: By using *Markov Chain Analysis*, they try to predict attack impacts based on each SN state (active, transmit, sleep, energy harvesting)

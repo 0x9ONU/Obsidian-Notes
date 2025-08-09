@@ -25,31 +25,36 @@ In cognitive radio networks with wireless energy harvesting, secondary users are
 
 ## Summary
 
-### Introduction
+The paper addresses the vulnerability of secondary users (SUs) in cognitive radio networks (CRNs) equipped with wireless energy harvesting (WEH) capabilities to smart jamming attacks. The authors propose a novel defense mechanism based on deception tactics to mitigate these attacks and optimize the throughput of SUs.
 
-#### Motivation
+### System Model
 
-#### Challenge
+- **Secondary Users (SUs):**
+    - Harvest energy from wireless power sources (e.g., RF energy harvesting or wireless chargers).
+    - Opportunistically access idle channels licensed to primary users (PUs) for data transmission.
+    - Maintain a data buffer and energy storage (battery).
+- **Jammers:**
+    - Malicious users that also harvest energy to launch jamming attacks.
+    - Can distinguish between PU and SU signals using techniques like matched filter detection.
+    - Attack strategies:
+        - **Independent Attacks:** Multiple jammers attack the channel simultaneously.
+        - **Coordinated Attacks:** Jammers communicate and take turns attacking to conserve energy.
 
-#### Background
+#### Smart Jammers
 
-### Objective of Research
+- **Objective:** Disrupt SU transmissions by jamming the target channel when SUs are active.
+- **Capabilities:**
+    - Energy-limited (rely on harvested energy).
+    - Smart sensing to differentiate PU and SU signals.
+- **Impact:** Degrades SU throughput by causing collisions or forcing SUs to waste energy.
 
-### Methodology
+### Defense: Deception
 
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
+- **Concept:**
+    - SUs transmit **fake packets** (deception) to trick jammers into attacking unnecessarily, wasting their energy.
+    - When jammers exhaust their energy on fake transmissions, SUs can transmit real data without interference.
+- **Actions for SUs:**
+    1. **Do nothing** (conserve energy).
+    2. **Perform deception** (transmit fake packets).
+    3. **Transmit actual data** (if the channel is safe).
 

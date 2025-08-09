@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce8917063d5bb87e",
+            "id": "7dd4f3f2f149be79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges.md",
+                "file": "General Notes/Kanban/Effects of Jamming Attacks on a Control System With Energy Harvesting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges"
-            }
-          },
-          {
-            "id": "bf88b845c00e3846",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Simultaneous Wireless Information and Power Transfer (SWIPT).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Simultaneous Wireless Information and Power Transfer (SWIPT)"
+              "title": "Effects of Jamming Attacks on a Control System With Energy Harvesting"
             }
           }
         ]
@@ -256,11 +244,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce8917063d5bb87e",
+  "active": "7dd4f3f2f149be79",
   "lastOpenFiles": [
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
+    "General Notes/Kanban/Performance Analysis of Wireless Energy Harvesting Cognitive Radio Networks Under Smart Jamming Attacks.md",
+    "General Notes/Kanban/Mitigating Jamming Attacks Using Energy Harvesting.md",
+    "General Notes/Kanban/Protecting Secret Key Generation Systems Against Jamming Energy Harvesting and Channel Hopping Approaches.md",
+    "General Notes/Kanban/Flooding Attack in Energy Harvesting Wireless Sensor Networks.md",
+    "General Notes/Kanban/Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Simultaneous Wireless Information and Power Transfer (SWIPT).pdf",
     "General Notes/Kanban/Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
     "General Notes/Kanban/Authenticating On-Body Backscatter by Exploiting Propagation Signatures.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Authenticating On-Body Backscatter by Exploiting Propagation Signatures.pdf",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
@@ -285,12 +278,7 @@
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/ShieldScatter Improving IoT Security with Backscatter Assistance.pdf",
     "General Notes/Kanban/Exploiting Adversarial Jamming Signals for Energy Harvesting in Interference Networks.md",
     "General Notes/Kanban/Effects of Jamming Attacks on a Control System With Energy Harvesting.md",
-    "General Notes/Kanban/Performance Analysis of Wireless Energy Harvesting Cognitive Radio Networks Under Smart Jamming Attacks.md",
-    "General Notes/Kanban/Mitigating Jamming Attacks Using Energy Harvesting.md",
     "General Notes/Kanban/Energy harvesting in secret key generation systems under jamming attacks.md",
-    "General Notes/Kanban/Protecting Secret Key Generation Systems Against Jamming Energy Harvesting and Channel Hopping Approaches.md",
-    "General Notes/Kanban/Flooding Attack in Energy Harvesting Wireless Sensor Networks.md",
-    "General Notes/Kanban/Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer.md",
     "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
