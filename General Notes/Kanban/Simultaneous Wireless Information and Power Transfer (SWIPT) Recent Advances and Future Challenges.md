@@ -25,5 +25,41 @@ Initial efforts on wireless power transfer (WPT) have concentrated toward long-d
 
 ## Summary
 
+### Overview
 
+The paper provides a comprehensive survey of Simultaneous Wireless Information and Power Transfer (SWIPT), a technology that enables the concurrent transmission of information and energy over wireless networks. It covers the foundational concepts of SWIPT, including Radio Frequency Energy Harvesting (RF-EH) and Wireless Power Transfer (WPT), and explores emerging technologies and challenges in the field. The focus is on applications in 5G communications, Internet of Things (IoT), and other modern wireless systems.
 
+### ### Topics Covered
+
+1. **RF Energy Harvesting (RF-EH):**
+    - Circuit design, including antenna, matching network, and rectifier components.
+    - Conditions for efficient RF-WPT and typical applications (e.g., WSNs, wireless body networks).
+    - Challenges such as health concerns, distance limitations, and sensitivity issues.
+2. **Wireless Power Transfer (WPT):**
+    - Near-field (inductive coupling, resonant circuits, capacitive coupling) and far-field (microwaves, laser beams) techniques.
+    - Challenges include transmission efficiency and hardware constraints.
+3. **SWIPT Technology:**
+    - Receiver architectures: Separate Receiver, Time Switching (TS), Power Splitting (PS), and Antenna Switching (AS).
+    - Trade-offs between information decoding (ID) and energy harvesting (EH).
+4. **Interference Exploitation:**
+    - Traditional interference is harmful, but constructive interference can enhance signal detection and EH.
+    - Techniques like beamforming and symbol-level precoding are used to exploit interference.
+5. **Emerging SWIPT Scenarios:**
+    - Multi-carrier systems, cognitive radio networks, full-duplex communication, bistatic scatter radio, cooperative relaying, NOMA, secure transmission, mmWave communication, WSNs, MIMO systems, D2D communication, and broadband wireless systems.
+6. **Future Directions:**
+    - Resource scheduling, hardware impairments, CSI feedback, channel coding, and integration with IoT and MTC.
+    - Security challenges and the need for robust frameworks.
+
+### Potential Attacks
+
+```ad-important
+While the paper primarily focuses on the advancements and challenges of SWIPT, it does touch upon security concerns, particularly in the context of **secure SWIPT transmission**.
+```
+
+1. Eavesdropping
+2. Jamming
+3. Privacy
+### Potential Defenses
+
+1. Physical Layer Defenses
+2. 
