@@ -26,3 +26,25 @@ We consider the problem of control and remote state estimation with battery cons
 ## Summary
 
 The paper investigates the impact of **jamming attacks** on a wireless control system where sensors rely on **energy harvesting** to transmit state estimates to a controller. The authors analyze how these attacks degrade system performance and propose optimal energy allocation policies to mitigate their effects.
+
+### Attack
+
+**Jamming Attack**:
+- The adversary disrupts the wireless channel by injecting interference (jamming signals), reducing the effective channel gain
+- This decreases the **signal-to-interference-plus-noise ratio (SINR)**, increasing packet drop rates.
+- The attack exploits the system’s dependency on wireless communication, aiming to deplete the sensor’s battery or destabilize control by causing frequent packet losses.
+
+```ad-warning
+title: Impact
+- The difference between the assumed channel gain and the true gain leads to *suboptimal transmission energy allocation*, degrading estimation accuracy and control performance
+- The contorl cost becomes *non-monotonic* with respect to the assumed channel gain, complicating attack analysis
+```
+
+### Defense
+
+**Optimal Energy Allocation Policies**
+1. Non-causal policy
+2. Causal Policy
+3. Stability policy
+4. Greedy policy 
+

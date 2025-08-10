@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Effects of Jamming Attacks on a Control System With Energy Harvesting.md",
+                "file": "General Notes/Kanban/Exploiting Adversarial Jamming Signals for Energy Harvesting in Interference Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Effects of Jamming Attacks on a Control System With Energy Harvesting"
+              "title": "Exploiting Adversarial Jamming Signals for Energy Harvesting in Interference Networks"
             }
           }
         ]
@@ -247,6 +247,7 @@
   "active": "7dd4f3f2f149be79",
   "lastOpenFiles": [
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
+    "General Notes/Kanban/Effects of Jamming Attacks on a Control System With Energy Harvesting.md",
     "General Notes/Kanban/Performance Analysis of Wireless Energy Harvesting Cognitive Radio Networks Under Smart Jamming Attacks.md",
     "General Notes/Kanban/Mitigating Jamming Attacks Using Energy Harvesting.md",
     "General Notes/Kanban/Protecting Secret Key Generation Systems Against Jamming Energy Harvesting and Channel Hopping Approaches.md",
@@ -277,7 +278,6 @@
     "General Notes/Kanban/ShieldScatter Improving IoT Security with Backscatter Assistance.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/ShieldScatter Improving IoT Security with Backscatter Assistance.pdf",
     "General Notes/Kanban/Exploiting Adversarial Jamming Signals for Energy Harvesting in Interference Networks.md",
-    "General Notes/Kanban/Effects of Jamming Attacks on a Control System With Energy Harvesting.md",
     "General Notes/Kanban/Energy harvesting in secret key generation systems under jamming attacks.md",
     "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
