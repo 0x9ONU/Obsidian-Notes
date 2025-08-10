@@ -24,31 +24,23 @@ In wireless powered networks, a user can make a request and use the wireless ene
 **Embed to Paper**: [[Game Theoretic Modeling of Jamming Attack in Wireless Powered Communication Networks.pdf]]
 ## Summary
 
-### Introduction
+The paper addresses the problem of **jamming attacks** in **wireless powered networks (WPNs)**, where a malicious node (attacker) intercepts wireless energy intended for a legitimate user and uses it to jam the user's data transmissions. The authors propose a **game-theoretic framework** to model the interactions between the user and the attacker, optimizing their strategies to maximize their respective rewards.
 
-#### Motivation
+### System Model
 
-#### Challenge
+Wireless Power Network (WPN)
+- A legitimate user requests wireless energy (e.g., RF energy) from a source to power its data transmissions.
+- The user has an energy storage with finite capacity and faces random channel states (due to fading) and traffic states (data generation rates).
 
-#### Background
+### Attack: Jamming Attack
 
-### Objective of Research
+- The attacker also harvests energy from the same source when the user makes a request.
+- Intercepts wireless energy broadcasts and uses it to preform **jamming attacks** on the user’s data transmissions.
+- Both the user and attacker have energy storage and must manage their energy reserves strategically.
+- The attacker's ability to jam depends on its energy level and channel state.
 
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
+### Defense: Game Theory
+- The interaction between the user and attacker is modeled as a **constrained stochastic game**.
+- **User's Goal:** Maximize utility (successful data transmission) minus energy cost.
+- **Attacker's Goal:** Maximize successful jamming.
 

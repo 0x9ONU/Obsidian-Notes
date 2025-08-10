@@ -25,31 +25,23 @@ Energy harvesting motivated networks (EHNets) are rapidly emerging as a major pa
 
 ## Summary
 
-### Introduction
+### Attack: Stealthy Collision Attack
 
-#### Motivation
+The paper focuses on a **stealthy collision attack** in Energy Harvesting Motivated Networks (EHNets), where multiple malicious nodes collude to disrupt communication. The attack works as follows:
+1. **Coordinated Packet Collisions:** Two or more malicious nodes synchronize their transmissions to intentionally cause packet collisions at a legitimate node. This results in packet drops without being detected as malicious behavior.
+2. **Exploiting Energy Harvesting States:** Malicious nodes exploit the intermittent active/harvest states of EHNet nodes. For example, one malicious node forwards a data packet while another broadcasts a "State" packet simultaneously, causing collisions at the receiver.
+3. **Evasion of Detection:** Since the collisions appear accidental, traditional monitoring techniques (e.g., watchdog) fail to distinguish intentional drops from natural packet losses.
 
-#### Challenge
+### Defense: Adaptive Acknowledgment-Based Approach (AAA)
 
-#### Background
-
-### Objective of Research
-
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
+1. **Two-Hop Acknowledgment:**
+    - Each node forwards a data packet and monitors its one-hop downstream node.
+    - It then waits for an explicit acknowledgment (Ack) from the two-hop downstream node to confirm successful forwarding.
+2. **Timeout-Based Detection:**
+    - If the sender does not overhear the forwarded packet or receive the Ack within a timeout period, it suspects malicious behavior.
+    - Timeout values adapt dynamically based on network conditions.
+3. **Probabilistic Ack Requests:**
+    - Nodes probabilistically request Acks to balance overhead and detection accuracy. The acknowledgment probability (PackPack) increases if misbehavior is suspected.
+4. **Isolation of Malicious Nodes:**
+    - Repeated misbehavior triggers the broadcast of an "Isolate" packet to blacklist malicious nodes.
 

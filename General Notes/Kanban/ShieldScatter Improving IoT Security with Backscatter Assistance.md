@@ -24,31 +24,32 @@ The lightweight protocols and low-power radio technologies open up many opportun
 **Embed to Paper**: [[ShieldScatter Improving IoT Security with Backscatter Assistance.pdf]]
 ## Summary
 
-### Introduction
+### Attacks
 
-#### Motivation
+1. **Spoofing Attacks**: An attacker impersonates a legitimate IoT device (e.g., a smart TV) to send fake commands (e.g., DoS commands or unauthorized data) to an Access Point (AP).
+2. **Deauthentication Deadlock**: An attacker injects a deauthentication message during device pairing, disrupting the connection.
+3. **Jamming and Replay Attacks**: The attacker jams the communication channel with one antenna while recording and replaying legitimate messages with another antenna to deceive the AP.
 
-#### Challenge
+```ad-important
+These attacks exploit the lack of sophisticated security protocols in lightweight IoT devices, which often rely on single-antenna systems and are vulnerable to impersonation and signal manipulation.
+```
 
-#### Background
+### Defense: ShieldScatter
 
-### Objective of Research
+ShieldScatter proposes a **lightweight, physical-layer security system** using **battery-free backscatter tags** to defend against active attacks. 
 
-### Methodology
-
-### Pros/Cons
-
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
+1. **Multi-Path Signature Creation**:
+    - Backscatter tags are deployed around the AP or IoT device at half-wavelength intervals.
+    - When a legitimate device communicates, the tags **reflect signals in a controlled sequence**, creating unique multi-path propagation signatures.
+2. **Attack Detection**:
+    - **Feature Extraction**: The system extracts features like signal amplitude, energy envelope, and variance from the reflected signals.
+    - **Dynamic Time Warping (DTW)**: Compares features to detect misalignment caused by attackers (even if they are close to the legitimate device).
+    - **One-Class SVM Classifier**: Trains a model to distinguish legitimate signals (similar multi-path signatures) from attacker signals (dissimilar signatures).
+3. **Key Advantages**:
+    - **No Antenna Array Needed**: Uses low-cost backscatter tags instead of expensive multi-antenna systems.
+    - **Resilience to Proximity Attacks**: Detects attackers even when they are **15 cm away** from legitimate devices.
+    - **Low False Alarms**: Achieves a 97% spoofing attack mitigation rate with only **3 tags**, while keeping false alarms at 7%.
+4. **Robustness**:
+    - Works in both **static and dynamic environments** (e.g., with people moving around).
+    - Tolerates slight device movements (up to 30 cm without significant performance drop).
 

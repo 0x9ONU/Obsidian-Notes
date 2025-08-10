@@ -29,7 +29,7 @@ Initial efforts on wireless power transfer (WPT) have concentrated toward long-d
 
 The paper provides a comprehensive survey of Simultaneous Wireless Information and Power Transfer (SWIPT), a technology that enables the concurrent transmission of information and energy over wireless networks. It covers the foundational concepts of SWIPT, including Radio Frequency Energy Harvesting (RF-EH) and Wireless Power Transfer (WPT), and explores emerging technologies and challenges in the field. The focus is on applications in 5G communications, Internet of Things (IoT), and other modern wireless systems.
 
-### ### Topics Covered
+### Topics Covered
 
 1. **RF Energy Harvesting (RF-EH):**
     - Circuit design, including antenna, matching network, and rectifier components.

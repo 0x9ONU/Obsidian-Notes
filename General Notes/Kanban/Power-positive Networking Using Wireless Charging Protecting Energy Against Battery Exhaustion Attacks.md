@@ -25,31 +25,34 @@ Energy is required for networking and computation and is a valuable resource for
 
 ## Summary
 
-### Introduction
+The paper introduces **Power-Positive Networking (PPN)**, a novel approach to eliminate **Energy Denial-of-Service (Energy DoS)** attacks by coupling wireless power transfer with data communication. Unlike traditional methods that detect or mitigate such attacks, PPN makes the attacks infeasible by ensuring that the receiver gains energy during communication.
 
-#### Motivation
+### Attack Model: Energy DoS 
 
-#### Challenge
+- An external attacker repeatedly sends legitimate-looking networking requests (e.g., authentication packets, connection requests) to a victim device (e.g., IoT sensor, embedded system).
+- Each request forces the victim to expend energy on:
+    - **Networking operations** (receiving/processing packets).
+    - **Authentication computations** (e.g., AES-CCM-128 decryption).
+- Over time, the victim’s battery is drained, rendering it unavailable (a DoS attack).
 
-#### Background
+```ad-warning
+title: Impact
+- **85.7% increase in power consumption** when receiving and authenticating malicious packets.
+- For power-constrained devices (e.g., sensors), battery life could drop by **1–2 orders of magnitude**.
+```
 
-### Objective of Research
+### Defense: Power-Positive Networking (PPN)
 
-### Methodology
+PPN defends by **eliminating the energy cost** of receiving requests and shifting all power costs to the requester.
+- **Simultaneous Power + Data Transfer:**
+    - Communication is embedded in **wireless charging signals** (Qi-standard inductive coupling).
+    - The requester must power the receiver to initiate communication.
+- **Bidirectional Communication:**
+    - **Forward (Requester → Receiver):** Data modulated via **frequency-shift keying (FSK)**.
+    - **Reverse (Receiver → Requester):** Feedback via **backscattering (ASK)**, requiring no extra energy.
+- **Power-Aware Protocol:**
+    - The receiver **only processes requests** after accumulating enough energy from the requester.
+    - A malicious requester must "pay" (provide energy) to attack, making Energy DoS impractical.
 
-### Pros/Cons
 
-#### Benefits
-
-#### Disadvantages
-
-### Conclusion
-
-#### Results/Findings
-
-#### Closing Remarks
-
-### Future Works
-
-### Discussion
 

@@ -13,12 +13,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Exploiting Adversarial Jamming Signals for Energy Harvesting in Interference Networks.md",
+                "file": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Literature Review Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploiting Adversarial Jamming Signals for Energy Harvesting in Interference Networks"
+              "title": "Literature Review Summary"
+            }
+          },
+          {
+            "id": "90fd75cd5b48f6bd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Summer 2025 Lit Review Survey Attacks"
+            }
+          },
+          {
+            "id": "bbe0be330da9dd99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer"
+            }
+          },
+          {
+            "id": "d8d63e247ab8908b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges"
             }
           }
         ]
@@ -247,15 +296,23 @@
   "active": "7dd4f3f2f149be79",
   "lastOpenFiles": [
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
+    "General Notes/Kanban/Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Literature Review Summary.md",
+    "General Notes/Kanban/Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Security in Energy Harvesting Networks A Survey on Current Solutions and Research Challenges.pdf",
+    "General Notes/Kanban/Authenticating On-Body Backscatter by Exploiting Propagation Signatures.md",
+    "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md",
+    "General Notes/Kanban/ShieldScatter Improving IoT Security with Backscatter Assistance.md",
+    "General Notes/Kanban/Mitigating stealthy collision attack in energy harvesting motivated networks.md",
+    "General Notes/Kanban/Power-positive Networking Using Wireless Charging Protecting Energy Against Battery Exhaustion Attacks.md",
+    "General Notes/Kanban/Game Theoretic Modeling of Jamming Attack in Wireless Powered Communication Networks.md",
+    "General Notes/Kanban/Exploiting Adversarial Jamming Signals for Energy Harvesting in Interference Networks.md",
     "General Notes/Kanban/Effects of Jamming Attacks on a Control System With Energy Harvesting.md",
     "General Notes/Kanban/Performance Analysis of Wireless Energy Harvesting Cognitive Radio Networks Under Smart Jamming Attacks.md",
     "General Notes/Kanban/Mitigating Jamming Attacks Using Energy Harvesting.md",
     "General Notes/Kanban/Protecting Secret Key Generation Systems Against Jamming Energy Harvesting and Channel Hopping Approaches.md",
     "General Notes/Kanban/Flooding Attack in Energy Harvesting Wireless Sensor Networks.md",
-    "General Notes/Kanban/Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Simultaneous Wireless Information and Power Transfer (SWIPT).pdf",
-    "General Notes/Kanban/Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges.md",
-    "General Notes/Kanban/Authenticating On-Body Backscatter by Exploiting Propagation Signatures.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Authenticating On-Body Backscatter by Exploiting Propagation Signatures.pdf",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
     "General Notes/Kanban/HWSW Final Exam.md",
@@ -268,20 +325,12 @@
     "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/Reap What You Store Side-channel Resilient Computing Through Energy Harvesting.pdf",
     "General Notes/Reap What You Store Side-channel Resilient Computing Through Energy Harvesting.pdf",
     "General Notes/Kanban/Tamper Resistance Evaluation Method for Energy Harvester.md",
-    "General Notes/Kanban/Mitigating stealthy collision attack in energy harvesting motivated networks.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Mitigating stealthy collision attack in energy harvesting motivated networks.pdf",
-    "General Notes/Kanban/Power-positive Networking Using Wireless Charging Protecting Energy Against Battery Exhaustion Attacks.md",
-    "General Notes/Kanban/Game Theoretic Modeling of Jamming Attack in Wireless Powered Communication Networks.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Power-positive Networking Using Wireless Charging.pdf",
     "General Notes/Kanban/Safe and secure wireless power transfer networks challenges and opportunities in RF-based systems 1.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Game Theoretic Modeling of Jamming Attack in Wireless Powered Communication Networks.pdf",
-    "General Notes/Kanban/ShieldScatter Improving IoT Security with Backscatter Assistance.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/ShieldScatter Improving IoT Security with Backscatter Assistance.pdf",
-    "General Notes/Kanban/Exploiting Adversarial Jamming Signals for Energy Harvesting in Interference Networks.md",
     "General Notes/Kanban/Energy harvesting in secret key generation systems under jamming attacks.md",
-    "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
-    "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
     "General Notes/Pasted image 20250606153407.png",
     "General Notes/Pasted image 20250606153325.png",
     "General Notes/Pasted image 20250606153256.png",
