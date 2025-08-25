@@ -23,4 +23,10 @@ collapse: open
 
 ![[Biol 2011_Fall2025_Syllabus_2025_08.pdf]]
 
-##
+```ad-note
+**Office Hours:**
+MW 11AM - 1PM and F 11Am - 12PM
+```
+
+**Textbook is *required***
+- Karr S. 2021. Environmental Science for 
