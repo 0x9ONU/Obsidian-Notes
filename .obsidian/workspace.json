@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md",
+                "file": "Templates/Signals and Systems Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security in Energy Harvesting Networks Summary"
-            }
-          },
-          {
-            "id": "5691bfef80a7c505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Authenticating On-Body Backscatter by Exploiting Propagation Signatures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Authenticating On-Body Backscatter by Exploiting Propagation Signatures"
+              "title": "Signals and Systems Template"
             }
           }
         ]
@@ -79,16 +65,6 @@
             }
           },
           {
-            "id": "c86fcf36380a876c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "starred"
-            }
-          },
-          {
             "id": "e848d912d6fd30f1",
             "type": "leaf",
             "state": {
@@ -112,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -260,12 +235,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7dd4f3f2f149be79",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
+    "Templates/Signals and Systems Template.md",
+    "Templates/Ancient Philosophy Template.md",
+    "Templates/Environmental Issues Template.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy",
+    "4 - Senior Year/Fall 2025/Signals and Systems",
+    "4 - Senior Year/Fall 2025/Environmental",
+    "4 - Senior Year/Fall 2025",
     "General Notes/Kanban/Authenticating On-Body Backscatter by Exploiting Propagation Signatures.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
     "General Notes/Kanban/Safe and Secure Wireless Power Transfer Networks Challenges and Opportunities in RF-Based Systems.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md",
     "General Notes/Kanban/ShieldScatter Improving IoT Security with Backscatter Assistance.md",
     "General Notes/Kanban/Mitigating stealthy collision attack in energy harvesting motivated networks.md",
     "General Notes/Kanban/Power-positive Networking Using Wireless Charging Protecting Energy Against Battery Exhaustion Attacks.md",
@@ -291,12 +273,6 @@
     "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/NICScatter_MobiCom.pdf",
     "General Notes/Kanban/Reap What You Store Side-channel Resilient Computing Through Energy Harvesting.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/Reap What You Store Side-channel Resilient Computing Through Energy Harvesting.pdf",
-    "General Notes/Reap What You Store Side-channel Resilient Computing Through Energy Harvesting.pdf",
-    "General Notes/Kanban/Tamper Resistance Evaluation Method for Energy Harvester.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Mitigating stealthy collision attack in energy harvesting motivated networks.pdf",
-    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Power-positive Networking Using Wireless Charging.pdf",
-    "General Notes/Kanban/Safe and secure wireless power transfer networks challenges and opportunities in RF-based systems 1.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Game Theoretic Modeling of Jamming Attack in Wireless Powered Communication Networks.pdf",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "General Notes/Pasted image 20250606153407.png",
     "General Notes/Pasted image 20250606153325.png",

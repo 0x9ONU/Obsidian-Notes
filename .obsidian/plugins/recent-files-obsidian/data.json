@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Signals and Systems Template",
+      "path": "Templates/Signals and Systems Template.md"
+    },
+    {
+      "basename": "Ancient Philosophy Template",
+      "path": "Templates/Ancient Philosophy Template.md"
+    },
+    {
+      "basename": "Environmental Issues Template",
+      "path": "Templates/Environmental Issues Template.md"
+    },
+    {
       "basename": "Security in Energy Harvesting Networks Summary",
       "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Nanyang Technological University",
       "path": "4 - Senior Year/Summer 2025/Grad School Search/Applications/Nanyang Technological University.md"
-    },
-    {
-      "basename": "Universitat Autònoma de Barcelona",
-      "path": "4 - Senior Year/Summer 2025/Grad School Search/Applications/Universitat Autònoma de Barcelona.md"
-    },
-    {
-      "basename": "Boston University",
-      "path": "4 - Senior Year/Summer 2025/Grad School Search/Applications/Boston University.md"
-    },
-    {
-      "basename": "University of Illinois Urbana-Champaign (Grainger)",
-      "path": "4 - Senior Year/Summer 2025/Grad School Search/Applications/University of Illinois Urbana-Champaign (Grainger).md"
     }
   ],
   "omittedPaths": [],
