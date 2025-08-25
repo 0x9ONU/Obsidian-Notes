@@ -45,4 +45,7 @@ MW 11AM - 1PM and F 11Am - 12PM
 ### Reflection Paper Options
 
 1. Three hours of community service related to the environment + paper
-2. Read a book 
+2. Read a book + paper
+3. Research into sustainability on college campuses and reflection paper
+
+
