@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Diff EQ - Week 1 Day 2"
             }
-          },
-          {
-            "id": "ddd7dd8e31c7064f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,7 +235,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ddd7dd8e31c7064f",
+  "active": "7dd4f3f2f149be79",
   "lastOpenFiles": [
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Ancient Philosophy - Week 1 Day 1.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Week 1/Diff EQ - Week 1 Day 2.md",
