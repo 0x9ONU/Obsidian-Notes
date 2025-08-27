@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Differential Equations/Week 1/Diff EQ - Week 1 Day 2.md",
+                "file": "4 - Senior Year/Fall 2025/Environmental/Week 1/Environmental Issues - Week 1 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diff EQ - Week 1 Day 2"
+              "title": "Environmental Issues - Week 1 Day 2"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -237,8 +238,10 @@
   },
   "active": "7dd4f3f2f149be79",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Ancient Philosophy - Week 1 Day 1.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 1/Environmental Issues - Week 1 Day 1.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 1/Environmental Issues - Week 1 Day 2.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Week 1/Diff EQ - Week 1 Day 2.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Ancient Philosophy - Week 1 Day 1.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Week 1/Materials",
     "4 - Senior Year/Fall 2025/Differential Equations/Week 1",
     "General Notes/Ancient Philosophy - Week 1 Day 1 2025-08-26 10.28.29.excalidraw.md",
@@ -255,7 +258,6 @@
     "4 - Senior Year/Fall 2025/Differential Equations",
     "Untitled.base",
     "4 - Senior Year/Fall 2025/Signals and Systems/Week 1/Materials",
-    "4 - Senior Year/Fall 2025/Environmental/Week 1/Environmental Issues - Week 1 Day 1.md",
     "4 - Senior Year/Fall 2025/Signals and Systems/Week 1",
     "4 - Senior Year/Fall 2025/Environmental/Week 1/Materials",
     "Templates/Ancient Philosophy Template.md",
@@ -274,7 +276,6 @@
     "General Notes/Kanban/Protecting Secret Key Generation Systems Against Jamming Energy Harvesting and Channel Hopping Approaches.md",
     "General Notes/Kanban/Flooding Attack in Energy Harvesting Wireless Sensor Networks.md",
     "General Notes/Kanban/Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer.md",
-    "General Notes/Kanban/Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges.md",
     "General Notes/Pasted image 20250606153407.png",
     "General Notes/Pasted image 20250606153325.png",
     "General Notes/Pasted image 20250606153256.png",
