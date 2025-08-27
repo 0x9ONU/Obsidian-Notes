@@ -144,3 +144,59 @@ Two main lines of interpretation:
 1. *The Traditional View*: From Aristotelian perspective, he was searching for, what is known as, **material cause**. It is the principle that identifies the ultimate stuff that makes up a given thing. Water, according to Thales, is the ultimate stuff that makes up our universe. 
 2. *Second Interpretation*: Thales was responding to the question - “What is the origin of all things?” Everything originated from water.
 
+### Souls and God:  A Fragment from Aristotle/Thales
+
+```ad-quote
+"Some declare that it [the soul] is mixed in the whole [the universe], and this may be why Thales thought all things are full of gods". Aristotle, *On the Soul* 1.5, 411a7-89
+```
+
+What is the connection is there between gods and water?
+- Soul, which is divine, is a principle of life that can cause motion.
+- Thales thought magnets possess soul because they move iron, for the soul causes motion
+- Water is continuously in motion, so it possesses soul.
+- All things are either composed of water or arise from water, then are full of the divine.
+
+## Anaximander: The Student of Thales
+
+```ad-summary
+- Invented the sundial
+- Made some of the first maps in Greece
+```
+
+The ultimate principle as **Apeiron**. “A" is a negative prefix meaning “without” and “peiron” means “limit” or “boundary.”
+- Therefore, the first principle is **boundless, infinite, or unlimited**
+
+```ad-quote
+Of those who declared tha the *arche* is one, moving and *aperion* Anaximander...said that the *apeiron* was the arche and elemnt of things that are, and he was the first to introduce this name for the *arche*. He says that the arche is enither water nor any of the other things called elements, but some other nature which is *aperion* out of which come to be all the heavens and the worlds in them. That is eternal and ageless and surrounds all the worlds"
+```
+
+### Arche and How it Interacts with *Apeiron*
+
+A principle (*arche*) must be different from that of which it is a principle. It means “origin” and “beginning”
+- Temporal sense; no beginning or ending
+- Spatial sense: beyond any limitation
+- Infinite supply from which all opposites originate.
+
+Anaximander finds that a single things must be made of many things. Everything has opposites in it, such that *one* cannot exist.
+
+![[Ancient Philosophy - Week 1 Day 1 2025-08-26 10.28.29.excalidraw | center]]
+## Anaximenes: The Student of Thales
+
+He believes that **air** is the fundamental prinicple.
+
+```ad-quote
+"Anaximenes... like Anaximander, declares that the udnerlying nature is one and unlimited [apeiron] but not indeterminate, as Anaximander held, but definite, saying that it is air."
+```
+
+### Rarefaction and Condensation
+
+Both of these principles can epxlain how everything can be air and eyt there are variety of things.
+- Air can take on *different appearances*
+- Can become water, fire, etc.
+- Everything has the properties of air
+- Everything can be made of one thing, BUT how much of it has come together and separated, it becomes different things
+
+```ad-important
+This is a glimpse of understanding qualitative differences in erms of quantity
+```
+
