@@ -251,6 +251,8 @@ D=4 \Rightarrow \boxed{x(t)=-5\sin(2t)+5t+4}
 $$
 ## Sketch Solution Curves Given Slope Field
 
+![[2025-08-27 11-21.jpg]]
+
 
 
 
