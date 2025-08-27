@@ -11,11 +11,11 @@ collapse: open
 
 ```
 
-# Introduction
+# Introduction (Module 1.1)
 
 ```ad-summary
 title: Definition
-A *differential equation* is an equation taht contains one or more derivatives with an unkown funciton
+A *differential equation* is an equation that contains one or more derivatives with an unknown funciton
 ```
 
 $$\frac{dy}{dx}+46=x^2$$
@@ -200,8 +200,56 @@ $$
 $$
 y = \frac{1}{30}x^6+Cx+D
 $$
+## Applications: Find Position Functions Given Acceleration Functions, Initial Position, and Initial Velocity
 
+### Example 1
 
+```ad-question
+Find the position funciton $x(t)$ using the following:
+$$a(t)=20\sin(2t), v(0)=-5, x(0)=4$$
+```
+
+$$
+x(t) = \text{position}
+$$
+$$
+x(t)^\prime=v(t)
+$$
+$$
+x(t)^{\prime\prime}=a(t)
+$$
+```ad-important
+Repeatedly use integration to find the velocity and position function
+```
+
+**Finding the Velocity Function:**
+$$
+v(t) = \int a(t)=\int 20\sin(2t)dt
+$$
+$$
+v(t)=-10\cos (2t)+C
+$$
+$$
+(-5)=-10\cos(2(0))+C
+$$
+$$
+C = 5 \Rightarrow v(t)=-10\cos(2t)+5
+$$
+**Find the Position Function**:
+
+$$
+x(t)=\int v(t)=\int[-10\cos(2t)+5]dx
+$$
+$$
+x(t)=-5\sin(2t)+5t+D
+$$
+$$
+(4)=-5\sin(2(0))+5(0)+D
+$$
+$$
+D=4 \Rightarrow \boxed{x(t)=-5\sin(2t)+5t+4}
+$$
+## Sketch Solution Curves Given Slope Field
 
 
 
