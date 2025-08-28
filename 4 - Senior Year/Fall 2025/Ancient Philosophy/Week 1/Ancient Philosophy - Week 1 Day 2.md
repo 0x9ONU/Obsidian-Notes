@@ -47,6 +47,66 @@ It is not appopriate for the gods to be immoral, to resemble human appearance, t
 - Unmoving
 - Intelligence of God’s thought that governs the world
 
+```ad-note
+Motion implies deflection. People move to *aquire something*. A god, in Xenophanes' definition, does not move because he has everything and does not need anything more.
+```
+
+### Epistemonology
+
+```ad-summary
+title: Definition
+A branch of philosphy that invetigates the nature of knowledge
+- Xenophanes is the father of epistemology
+```
+
+"No man has seen nor will there be anyone who knows the clear truth about the gods and about all the things I speak of. For even if a person would in fact say what has come to pass, nevertheless he himself does not *know*, but in all cases it is *opinion* that has been wrought."
+
+
+| Knowledge                                                       | vs. | Opinion                                                                                                                           |
+| --------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Knowledge is by definition true.                                | -   | Opinion can be either true OR false.                                                                                              |
+| If you know $x$, then you that $x$ is true                      | -   | If you have an opinion about $x$, then your opinion that $x$ is true can be ture or false; that is, you can be mistaken about it. |
+| Xenophanes is **skeptical** that we can acquire *any* knowledge |     |                                                                                                                                   |
+
+```ad-important
+Skepticism is an epistemological theory that there is **no knowledge**
+```
+
+## Pythagoras
+
+- Born in 570 BC in Samos
+- His school lasted for over 200 years
+- Legends:
+	- Appeared two places at one time
+	- Killed a poisonous snake by biting it
+	- Had a golden thigh
+- His follows attributed their works to the founder. It is defended upon the master would have also found out about such theory/principle if he was still alive.
+- Pythagorean movement/school
+
+**Two Aspects of the Pythagorean Movement**:
+1. Religious and mystical aspect (*akousmatikoi*)
+	- The doctrine of metepsychosis
+	- The immortality and the transmigration of the soul
+	- Goal is to purify and perfect the soul
+	- Reincarnation was important
+	- The best way to purify one’s soul is to get rid of the corruption of the soul
+	- They were vegetarians since it *could* be cannibalism
+2. Scientific and philosophical aspect (*mathematikoi*)
+	- Orderly souls understand the order of the universe.
+	- Order of the universe is captured by **number**
+
+### *Mathematikoi*
+
+**Number** is the fundamental principle and it takes precedence over *matter*
+- The fundamental features of music could be expressed numerically
+- Quality is reduced to **Quantity**
+- The hallmarks of science: A quantitative description of our world.
+- The Pythagorean theorem and the incommensurability (“irrational numbers”)
+
+```ad-warning
+The discover of irrational numbers were very disturbing of teh pythagorean theorum. Only initiates knew and it was a **top secret**
+```
+
 
 
 
