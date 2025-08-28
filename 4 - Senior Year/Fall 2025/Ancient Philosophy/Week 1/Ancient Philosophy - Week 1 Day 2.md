@@ -107,6 +107,48 @@ Skepticism is an epistemological theory that there is **no knowledge**
 The discover of irrational numbers were very disturbing of teh pythagorean theorum. Only initiates knew and it was a **top secret**
 ```
 
+## Heraclitus
 
+- Born around 540 BC
+- An isolated figure
+- Over 100 fragments survived
+
+Best known for Plato’s dialogue, *Cratylus*: “All things are in motion” or “All tings flow.” This is known as the **“Heraclitean flux.”**
+
+### Fragments
+
+1. 10.64: “Upon those who step into the same rivers, different and gain different water flow.”
+2. 10.65: “[It is not possible to step twice in the same river]… It scatters and again comes toghether, and approaches and recedes.”
+3. 10.66: “We step into and we do not step into the same rivers. We are and we are not.””
+
+```ad-note
+Like to speak in paradoxes
+```
+
+### Logos
+
+The word, *Logos*, itself can be translated in a variety of ways: word, statement, agreement, opinion, thoguht, argument, reason, cause, etc.
+
+```ad-quote
+10.1: "This *Logos* holds always, but humans always prove unable to understand it both before hearing it and when they have first heard it. for although all things come to be in accordance ith this *Logos*, humans are like the inexperienced when they expiernece such words and deed as I set out, distinguishing each in accordance iwth its nature and saying how it is. But other people fail to ntoice what they do when awak, just as they forget what they do while sleep."
+```
+
+### Unity and Opposites
+
+```ad-important
+A unity underlies the tnesion or strife of the world.
+```
+
+- 10.47: “Listening not to me but to the *Logos*, it is wise to agree that all things are one.”
+- 10.48: “things taken together are whole and not whole, \<something that is\> being brought together and brought apart, in tune and out of tune; out of all things comes a unity and out of a unity all things.”
+
+### Oracle
+
+- Ambiguity and double meaning.
+- His fragments are like oracles.
+
+```ad-quote
+10.43: "The Lord whose oracle is at Delphi neither speaks nor conceals but gives a sign."
+```
 
 
