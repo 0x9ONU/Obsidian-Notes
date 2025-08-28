@@ -34,8 +34,21 @@
               "icon": "lucide-file",
               "title": "Ancient Philosophy - Week 1 Day 1"
             }
+          },
+          {
+            "id": "a02d73ba317a0716",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Environmental/Week 1/Materials/Biol 2021_Fall2025_Syllabus_2025_08_18.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Biol 2021_Fall2025_Syllabus_2025_08_18"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -249,10 +263,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7dd4f3f2f149be79",
+  "active": "a02d73ba317a0716",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Ancient Philosophy - Week 1 Day 2.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 1/Environmental Issues - Lab 1.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 1/Materials/Biol 2021_Fall2025_Syllabus_2025_08_18.pdf",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Ancient Philosophy - Week 1 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Ancient Philosophy - Week 1 Day 1.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff EQ - Module 1.2.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 1",
@@ -277,7 +292,6 @@
     "4 - Senior Year/Fall 2025/Differential Equations",
     "Untitled.base",
     "4 - Senior Year/Fall 2025/Signals and Systems/Week 1/Materials",
-    "4 - Senior Year/Fall 2025/Signals and Systems/Week 1",
     "Templates/Ancient Philosophy Template.md",
     "Templates/Environmental Issues Template.md",
     "General Notes/Kanban/Authenticating On-Body Backscatter by Exploiting Propagation Signatures.md",
@@ -289,7 +303,6 @@
     "General Notes/Kanban/Exploiting Adversarial Jamming Signals for Energy Harvesting in Interference Networks.md",
     "General Notes/Kanban/Effects of Jamming Attacks on a Control System With Energy Harvesting.md",
     "General Notes/Kanban/Performance Analysis of Wireless Energy Harvesting Cognitive Radio Networks Under Smart Jamming Attacks.md",
-    "General Notes/Kanban/Mitigating Jamming Attacks Using Energy Harvesting.md",
     "General Notes/Pasted image 20250606153407.png",
     "General Notes/Pasted image 20250606153325.png",
     "General Notes/Pasted image 20250606153256.png",

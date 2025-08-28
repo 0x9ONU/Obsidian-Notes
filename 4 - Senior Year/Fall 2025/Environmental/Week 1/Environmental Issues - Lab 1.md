@@ -13,4 +13,6 @@ collapse: open
 
 ```
 
+# Syllabus
 
+![[Biol 2021_Fall2025_Syllabus_2025_08_18.pdf]]
