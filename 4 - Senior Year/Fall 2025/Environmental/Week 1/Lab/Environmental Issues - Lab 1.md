@@ -29,4 +29,3 @@ collapse: open
 - Remember that where and how we get our information is important
 - Social media is great, but you need to take steps to avoid misinformation
 
-p
