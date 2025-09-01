@@ -13,6 +13,7 @@ collapse: open
 
 ## Fragment 11.1
 
+- First part speaks of his spirit being taken by 
 
 
 
