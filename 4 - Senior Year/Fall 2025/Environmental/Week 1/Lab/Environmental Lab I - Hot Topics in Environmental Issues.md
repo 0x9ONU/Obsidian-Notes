@@ -58,7 +58,7 @@ discussed today, draft a post for your favorite social media platform that share
 facts about the issue. This could include photos, infographics, text, etc., but please make sure to cite your sources in your post.
 ```
 
-
+![[[1].png]]
 # Sources
 [1] https://pmc.ncbi.nlm.nih.gov/articles/PMC9920460/
 [2] https://magazine.hms.harvard.edu/articles/microplastics-everywhere
