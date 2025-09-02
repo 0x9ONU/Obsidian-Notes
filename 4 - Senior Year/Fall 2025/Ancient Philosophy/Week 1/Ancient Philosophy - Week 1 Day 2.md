@@ -151,4 +151,12 @@ A unity underlies the tnesion or strife of the world.
 10.43: "The Lord whose oracle is at Delphi neither speaks nor conceals but gives a sign."
 ```
 
+## Dichotomies
+
+- One vs. Many
+- Unity vs. Diversity
+- Principle vs Things explained by the Principle
+- Quantity vs Quality
+- Knowledge vs Opinion
+- LOGOS vs. Flux
 
