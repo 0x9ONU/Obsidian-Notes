@@ -52,4 +52,10 @@ Year five of Ohio’s enhanced hazing law
 - Can give a gift for returning alumni
 - Work on hoco
 
+# Branding and Marketing
+
+```ad-important
+They are **retiring** the block N logo from now on.
+```
+
 
