@@ -118,6 +118,10 @@ Humans *and* other living things all have intrinsic value.
 
 All living things **and** the systems that support them have intrinsic value.
 
+![[Pasted image 20250903104924.png | center]]
+
+
+
 
 
 
