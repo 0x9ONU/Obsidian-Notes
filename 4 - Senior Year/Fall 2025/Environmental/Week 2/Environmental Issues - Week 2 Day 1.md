@@ -63,3 +63,7 @@ What has been added to the crust?
 The UN found through their Millennium Ecosystem Assessment that our current ways are unsustainable. 
 ```
 
+# Characteristics of a Sustainable Ecosystems
+
+1. Renewable Energy Sources
+2. 
