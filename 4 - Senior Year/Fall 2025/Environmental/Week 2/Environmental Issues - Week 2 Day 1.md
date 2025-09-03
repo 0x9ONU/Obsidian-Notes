@@ -91,5 +91,35 @@ We fall into **social traps**. The short-term benefits that have *long-term* neg
 
 ![[Pasted image 20250903104303.png | center]]
 
+```ad-important
+Short-term thinking is detrimental to solving environmental problems
+```
+
+# What is a Worldview and How Do Worldviews Differ?
+
+```ad-summary
+title: Definition
+View of one's world and existence. This helps determine your **environmental ethic**:
+- Personal philosophy that influences how a person interacts with the natural environment
+```
+ 
+## Anthropocentric Worldview
+
+A human-centered worldview where humans have intrinsic value and have a right to exist. Other living things have instrumental value, which means that they are for human benefit.
+
+![[Pasted image 20250903104727.png | center]]
+## Biocentric Worldview
+
+Humans *and* other living things all have intrinsic value.
+
+![[Pasted image 20250903104811.png | center]]
+
+## Ecocentric Worldview
+
+All living things **and** the systems that support them have intrinsic value.
+
+
+
+
 
 
