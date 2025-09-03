@@ -17,6 +17,8 @@ There are *17* goals that focus on:
 1. Human concerns
 2. Environmental issues
 
+![[Pasted image 20250903102842.png | center]]
+
 # Greenland Vikings 2: Electric Boogaloo
 
 ```ad-question
