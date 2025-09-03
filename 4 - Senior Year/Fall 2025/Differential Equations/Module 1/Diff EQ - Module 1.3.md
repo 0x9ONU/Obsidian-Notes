@@ -154,7 +154,7 @@ $$
 y = 3x+Cx^{-1/3}
 $$
 
-# Initial Value Problems
+# Problems
 
 ## Example 1:
 
@@ -195,6 +195,71 @@ $$
 $$
 \boxed{y=3+3e^{-x}}
 $$
+## Example 2: 
+
+```ad-question
+Find the general solution of the differential equation:
+
+$$\frac{dy}{dt}-\frac{2}{t}y=t^5$$
+```
+
+$$
+p(x)=-\frac{2}{t}
+$$
+$$
+r(x)=e^{-2\int 1/t dt}
+$$
+$$
+r(x)=e^{\ln|t|}
+$$
+$$
+r(x)=\frac{1}{t^2}
+$$
+
+$$
+\frac{d}{dx} (y \frac{1}{t^2}) = t^3
+$$
+$$
+\frac{y}{t^2}=\frac{1}{4}t^4+C
+$$
+$$
+y=\frac{t^6}{4}+C
+$$
+## Example 3:
+
+```ad-question
+Sovle the initial value problem:
+
+$$\frac{dy}{dt}=\frac{y}{t+1}+4t^2+4t$$
+```
+
+$$
+\frac{dy}{dt}-\frac{1}{t+1}y=4t^2+4t
+$$
+$$
+p(x)=-\frac{1}{t+1}
+$$
+$$
+r(x)=e^{-\int 1/t+1dt}
+$$
+$$
+r(x)=e^{-\ln|t+1|}
+$$
+$$
+\text{For } t>0
+$$
+$$
+r(x)=\frac{1}{t+1}
+$$
+
+$$
+\frac{d}{dt}\left( y* \frac{1}{t+1} \right)=(4t^2+4t)\left( \frac{1}{t+1} \right)
+$$
+
+```ad-note
+SOlve the rest later
+```
+
 
 
 
