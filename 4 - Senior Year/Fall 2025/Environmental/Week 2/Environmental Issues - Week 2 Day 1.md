@@ -38,3 +38,26 @@ The *five* factors:
 5. Loss of Friendly Neighbors
 	- European suppliers stopped arriving
 
+## What is An Epoch
+
+A unit of geologic time marked by distinct characteristics in rock layers
+
+![[Pasted image 20250903102358.png | center]]
+
+```ad-summary
+title: The Antropocenic Era
+Since the industrial revolution, scientists believe we are entering a new epoch called the **anthropocene**. 
+- Named after the root word "caused by human actions."
+- This was also sped up by the *Great Acceleration* post WWII.
+```
+
+What has been added to the crust?
+- Plastics
+- Radioactive materials
+- Metal scraps
+- Pesticides
+
+```ad-important
+The UN found through their Millennium Ecosystem Assessment that our current ways are unsustainable. 
+```
+
