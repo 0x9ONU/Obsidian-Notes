@@ -66,4 +66,17 @@ The UN found through their Millennium Ecosystem Assessment that our current ways
 # Characteristics of a Sustainable Ecosystems
 
 1. Renewable Energy Sources
-2. 
+2. Depends on Biodiversity
+3. Recycling Matter
+4. Population Control
+
+```ad-question
+What can human societies do to pursue sustainability?
+```
+
+- **Biomimicry**: use nature as a model for our own systems
+
+### What Challenges Do WE Face in Dealing with Environmental Issues?
+
+We fall into 
+
