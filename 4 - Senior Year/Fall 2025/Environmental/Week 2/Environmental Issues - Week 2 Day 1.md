@@ -78,5 +78,18 @@ What can human societies do to pursue sustainability?
 
 ### What Challenges Do WE Face in Dealing with Environmental Issues?
 
-We fall into 
+We fall into **social traps**. The short-term benefits that have *long-term* negative consequences
+1. *Tragedy of the Commons:* Degrading of a common resource
+
+![[Pasted image 20250903104007.png | center]]
+
+2. *Time Delay*: Benefit today, but it sets into  motion events that cause problems later on
+
+![[Pasted image 20250903104128.png | center]]
+
+3. *Sliding Reinforcer*: Actions beneficial at first, but a change in conditions cause a decline overtime
+
+![[Pasted image 20250903104303.png | center]]
+
+
 
