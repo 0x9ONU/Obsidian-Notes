@@ -65,4 +65,3 @@ opinion genuinely are, being always, indeed, all things."
 ```
 
 - “What-is” is limitless and complete in all directions like a sphere. Aka there is universal truth.
-- 
