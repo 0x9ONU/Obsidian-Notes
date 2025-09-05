@@ -76,7 +76,7 @@ When you draw conclusions, you either accept or reject hypotheses
 
 ## Comparative Study
 
-Examines similar phenomena in different species or regions in hopes to find changes across the world.
+Examines similar phenomena in different species or regions in hopes to find changes across the world.`
 
 ```ad-example
 The amphibian decline due to a chytrid fungus
