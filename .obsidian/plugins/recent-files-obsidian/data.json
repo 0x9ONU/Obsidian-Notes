@@ -5,6 +5,26 @@
       "path": "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.4.md"
     },
     {
+      "basename": "6-9-2025 Meeting",
+      "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md"
+    },
+    {
+      "basename": "6-17-2025 Meeting Minutes",
+      "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md"
+    },
+    {
+      "basename": "Summer 2025 Lit Review Survey Attacks",
+      "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md"
+    },
+    {
+      "basename": "Security in Energy Harvesting Networks Summary",
+      "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md"
+    },
+    {
+      "basename": "Summer 2025 Research Literature Review",
+      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
       "basename": "Physics 2 - Week 2 Day 2",
       "path": "2 - Sophomore Year/Spring 2024/Physics 2/Week 2/Physics 2 - Week 2 Day 2.md"
     },
@@ -117,18 +137,6 @@
       "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas"
     },
     {
-      "basename": "Summer 2025 Research Literature Review",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md"
-    },
-    {
-      "basename": "Summer 2025 Lit Review Survey Attacks",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md"
-    },
-    {
-      "basename": "Security in Energy Harvesting Networks Summary",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md"
-    },
-    {
       "basename": "Differential Equations Template",
       "path": "Templates/Differential Equations Template.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Flooding Attack in Energy Harvesting Wireless Sensor Networks",
       "path": "General Notes/Kanban/Flooding Attack in Energy Harvesting Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer",
-      "path": "General Notes/Kanban/Secrecy Performance Analysis of Energy Harvesting Wireless Sensor Networks With a Friendly Jammer.md"
-    },
-    {
-      "basename": "Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges",
-      "path": "General Notes/Kanban/Simultaneous Wireless Information and Power Transfer (SWIPT) Recent Advances and Future Challenges.md"
     }
   ],
   "omittedPaths": [],
