@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Active Listening Presentation",
+      "path": "4 - Senior Year/Fall 2025/Theta Chi/Active Listening Presentation.md"
+    },
+    {
+      "basename": "6-9-2025 Meeting",
+      "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md"
+    },
+    {
       "basename": "Diff EQ - Module 1.2",
       "path": "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff EQ - Module 1.2.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Diff EQ - Module 1.1",
       "path": "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff EQ - Module 1.1.md"
-    },
-    {
-      "basename": "6-9-2025 Meeting",
-      "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md"
     },
     {
       "basename": "6-17-2025 Meeting Minutes",
@@ -195,10 +199,6 @@
     {
       "basename": "Protecting Secret Key Generation Systems Against Jamming Energy Harvesting and Channel Hopping Approaches",
       "path": "General Notes/Kanban/Protecting Secret Key Generation Systems Against Jamming Energy Harvesting and Channel Hopping Approaches.md"
-    },
-    {
-      "basename": "Flooding Attack in Energy Harvesting Wireless Sensor Networks",
-      "path": "General Notes/Kanban/Flooding Attack in Energy Harvesting Wireless Sensor Networks.md"
     }
   ],
   "omittedPaths": [],
