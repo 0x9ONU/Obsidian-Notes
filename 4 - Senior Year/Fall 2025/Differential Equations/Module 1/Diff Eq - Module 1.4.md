@@ -38,7 +38,7 @@ $$
 \frac{dy}{dx}=\frac{y^2}{x^2}+\frac{xy}{x^2}
 $$
 $$
-\frac{dy}{dx}=\left( \frac{y}{x} \right)^2+\left( \frac{y}{x} \right) \equiv f\left( \frac{x}{y} \right)
+\frac{dy}{dx}=\left( \frac{y}{x} \right)^2+\left( \frac{y}{x} \right) \equiv f\left( \frac{y}{yx} \right)
 $$
 
 ```ad-important
