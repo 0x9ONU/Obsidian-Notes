@@ -291,9 +291,137 @@ $$
 $$
 \boxed {y^2(1+x^2)^2=2x+C}
 $$
+# Homework Examples
+
+## Question 1
+
+```ad-question
+Find the IVP:
+
+$$\frac{dy}{dx}+\frac{2}{x}y=0, y(1)=2$$
+```
+
+$$
+\frac{dy}{dx}=-\frac{2y}{x}
+$$
+$$
+v = \frac{y}{x} \Rightarrow \frac{dy}{dx}=-2v
+$$
+$$
+v+x \frac{dy}{dx}=-2v
+$$
+$$
+x \frac{dy}{dx}=-3v
+$$
+$$
+\frac{1}{-3v}dv = \frac{1}{x}dx
+$$
+$$
+-\frac{1}{3} \int \frac{1}{v}dv = \int \frac{1}{x}dx
+$$
+$$
+-\frac{1}{3}\ln|v|=\ln|x|+C
+$$
+$$
+-\frac{1}{3}\ln| \frac{y}{x}|=\ln|x|+C
+$$
+$$
+\ln|\left( \frac{y}{x} \right)^{-1/3}|=\ln|x|+C
+$$
+$$
+(|\frac{y}{x}|)^{-1/3}=C|x|
+$$
+$$
+| \frac{y}{x} |=C|x|^{-3}
+$$
+$$
+|y|=C|x|^{-2}
+$$
+$$
+y=\frac{C}{x^2}
+$$
+$$
+(2)=\frac{C}{(1)^2}
+$$
+$$
+C=2
+$$
+$$
+\boxed{y=\frac{2}{x^2}}
+$$
+## Question 2
+
+```ad-question
+Find the general solution of the following diff eq:
+
+$$\frac{dy}{dx}=\frac{10x+5y}{5x+10y}$$
+```
+
+$$
+\frac{dy}{dx}= \frac{2x+y}{x+2y}
+$$
+$$
+\frac{dy}{dx}=\frac{x\left( 2+\frac{y}{x} \right)}{x\left( 1+2\frac{y}{x} \right)}
+$$
+$$
+v+x \frac{dv}{dx}=\frac{2+v}{1+2v}
+$$
+$$
+x \frac{dv}{dx}= \frac{2+v}{1+2v} -v
+$$
+$$
+x \frac{dv}{dx}=\frac{2+v-v(1+v)}{1+2v}
+$$
+$$
+x \frac{dv}{dx}=\frac{2+v-v-2v^2}{1+v}
+$$
+$$
+x \frac{dv}{dx}=\frac{2-2v^2}{1+v}
+$$
+$$
+\frac{1+v}{2-2v^2}dv =\frac{1}{x}dx
+$$
+$$
+\int \frac{1+v}{2-2v^2}dv = \int \frac{1}{x}dx
+$$
 
 
+$$
+\int \frac{1}{2-2v^2}dv + \int \frac{v}{2-2v^2}dv
+$$
+*First Integral* - Partial Fractions
+
+$$
+\frac{1}{2}\int \frac{1}{1-v^2}
+$$
+$$
+\frac{1}{1-v^2}=\frac{1}{(1-v)(1+v)}=\frac{A}{v+1}+\frac{B}{1-v}
+$$
+$$
+1=A(1-v)+B(1+v)
+$$
+$$
+\text{At } v = -1; 1=2A; A=\frac{1}{2}
+$$
+$$
+\text{At } v=1; 1=2A; A=\frac{1}{2}
+$$
+$$
+B=-\frac{1}{2}, A=\frac{1}{2}
+$$
+
+$$
+\frac{1}{2}\left[ \frac{1}{2}\int \frac{1}{1+v} + \frac{1}{2}\int \frac{1}{1-v} \right ]
+$$
 $$
 
 $$
 
+*Second Integral* - U-Sub
+
+$$
+u = 2-2v^2, du=-2vdv
+$$
+$$
+-\frac{1}{2} \ln|2-2v^2|
+$$
