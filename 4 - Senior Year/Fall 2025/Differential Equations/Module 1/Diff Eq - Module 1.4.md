@@ -425,8 +425,21 @@ $$
 $$
 -\frac{1}{2} \ln|2-2v^2|
 $$
+*Simplify*
 $$
 \frac{1}{4} \ln|1+v|+\frac{1}{4}\ln|1-v|-\frac{1}{2}\ln|2-2v^2|=\ln|x|+C
+$$
+$$
+\frac{1}{4}\ln(|1+v||1-v|)-\ln|2-2v^2|^{1/2}=\ln|x|+C
+$$
+$$
+\ln \frac{(1-v^2)^{1/4}}{(2-2v^2)^{1/2}}=\ln|x|+C
+$$
+
+*Replace*
+
+$$
+\ln\left( \frac{\left( 1-\frac{y^2}{x^2} \right)^{1/4}}{\left( 2-2 \frac{y^2}{x^2}^{1/2} \right)} \right) = \ln|x|+C
 $$
 $$
 
