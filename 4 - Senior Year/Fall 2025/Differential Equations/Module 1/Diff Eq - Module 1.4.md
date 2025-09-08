@@ -414,7 +414,7 @@ $$
 \frac{1}{2}\left[ \frac{1}{2}\int \frac{1}{1+v} + \frac{1}{2}\int \frac{1}{1-v} \right ]
 $$
 $$
-
+\frac{1}{4}\ln|1+v|+\frac{1}{4}\ln|1-v|
 $$
 
 *Second Integral* - U-Sub
@@ -424,4 +424,10 @@ u = 2-2v^2, du=-2vdv
 $$
 $$
 -\frac{1}{2} \ln|2-2v^2|
+$$
+$$
+\frac{1}{4} \ln|1+v|+\frac{1}{4}\ln|1-v|-\frac{1}{2}\ln|2-2v^2|=\ln|x|+C
+$$
+$$
+
 $$
