@@ -81,6 +81,12 @@ Examines similar phenomena in different species or regions in hopes to find chan
 ```ad-example
 The amphibian decline due to a chytrid fungus
 ```
+
+### Example: What did they find on the bats?
+
+1. Hibernating Bats: Have a low body temperature and a weaker immune system
+2. Attacked hairless areas on the bat
+3. Appeared to die of starvation: Had to wake up more often than usual, which means they burned through their energy reserves much faster
 ## Cause of White-Nose Syndrome? A Case Study in Scientific Method
 
 ```ad-summary
@@ -93,5 +99,4 @@ It is caused by a Fungus! (*Pseudogymnoascus destructans* aka. Pd)
 - Grows on hairless areas
 - Thrives on hibernating bats who have lower body temperature and a weaker immune system
 - The fungus thrives in cool, dark, and wet environments (aka. a **cave** would be perfect)
-
 

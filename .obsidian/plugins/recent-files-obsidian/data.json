@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Environmental Issues - Week 3 Day 1",
+      "path": "4 - Senior Year/Fall 2025/Environmental/Week 3/Environmental Issues - Week 3 Day 1.md"
+    },
+    {
+      "basename": "Environmental Issues - Week 2 Day 2",
+      "path": "4 - Senior Year/Fall 2025/Environmental/Week 2/Environmental Issues - Week 2 Day 2.md"
+    },
+    {
+      "basename": "Environmental Issues - Week 2 Day 1",
+      "path": "4 - Senior Year/Fall 2025/Environmental/Week 2/Environmental Issues - Week 2 Day 1.md"
+    },
+    {
       "basename": "Networks - Week 3 Day 3",
       "path": "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md"
     },
@@ -81,20 +93,12 @@
       "path": "2 - Sophomore Year/Spring 2024/Physics 2/Week 12/Physics 2 - Week 12 Day 1.md"
     },
     {
-      "basename": "Environmental Issues - Week 2 Day 2",
-      "path": "4 - Senior Year/Fall 2025/Environmental/Week 2/Environmental Issues - Week 2 Day 2.md"
-    },
-    {
       "basename": "Environmental Issues - Week 1 Day 2",
       "path": "4 - Senior Year/Fall 2025/Environmental/Week 1/Environmental Issues - Week 1 Day 2.md"
     },
     {
       "basename": "Environmental Issues - Week 1 Day 1",
       "path": "4 - Senior Year/Fall 2025/Environmental/Week 1/Environmental Issues - Week 1 Day 1.md"
-    },
-    {
-      "basename": "Environmental Issues - Week 2 Day 1",
-      "path": "4 - Senior Year/Fall 2025/Environmental/Week 2/Environmental Issues - Week 2 Day 1.md"
     },
     {
       "basename": "Ancient Philosophy - Week 2 Day 2",
@@ -195,10 +199,6 @@
     {
       "basename": "Mitigating stealthy collision attack in energy harvesting motivated networks",
       "path": "General Notes/Kanban/Mitigating stealthy collision attack in energy harvesting motivated networks.md"
-    },
-    {
-      "basename": "Power-positive Networking Using Wireless Charging Protecting Energy Against Battery Exhaustion Attacks",
-      "path": "General Notes/Kanban/Power-positive Networking Using Wireless Charging Protecting Energy Against Battery Exhaustion Attacks.md"
     }
   ],
   "omittedPaths": [],
