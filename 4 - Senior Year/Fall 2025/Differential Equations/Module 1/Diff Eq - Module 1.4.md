@@ -441,6 +441,4 @@ $$
 $$
 \ln\left( \frac{\left( 1-\frac{y^2}{x^2} \right)^{1/4}}{\left( 2-2 \frac{y^2}{x^2}^{1/2} \right)} \right) = \ln|x|+C
 $$
-$$
 
-$$
