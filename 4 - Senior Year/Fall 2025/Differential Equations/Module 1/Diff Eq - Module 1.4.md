@@ -359,4 +359,98 @@ $$\frac{dy}{dx}=\frac{10x+5y}{5x+10y}$$
 
 SEE PAPER NOTES #comebacklater 
 
-# 
+## Question 3
+
+```ad-question
+Find the general solution for the following differential equation:
+
+$$x \frac{dy}{dx}=y+\sqrt{324x^2-36y^2}$$
+
+```
+
+$$
+\frac{dy}{dx}=\frac{y}{x}+ \frac{\sqrt{324x^2-36y^2 }}{x}
+$$
+$$
+\frac{dy}{dx}=\frac{y}{x}+  \sqrt{ \frac{324x^2-36y^2}{x^2} }
+$$
+$$
+\frac{dy}{dx} = \frac{y}{x} + \sqrt{ 324-\frac{36y^2}{x^2} }
+$$
+$$
+v+ x \frac{dv}{dx}=v + 6\sqrt{ 9- v^2}
+$$
+$$
+x \frac{dv}{dx} = 6(9-v^2)^{1/2}
+$$
+$$
+\frac{6}{x}dx = \frac{1}{(9-v^2)^{1/2}}
+$$
+$$
+\int \frac{6}{x}dx = \int \frac{1}{\sqrt{ 9-v^2 }}
+$$
+$$
+\arcsin\left( \frac{v}{3} \right)=6\ln(x)+C
+$$
+$$
+\frac{v}{3}=\sin(6\ln x+C)
+$$
+$$
+\frac{y}{x}=3\sin(6\ln x+C)
+$$
+$$
+\boxed{y=3x\sin(6\ln x+C)}
+$$
+### Question 4
+
+```ad-question
+Solve the IVF using Bernoulli Equation
+$$\frac{dy}{dx}+\frac{4}{x}y=4y^4, y(1)=1$$
+```
+
+$$
+u=y^{1-n}=y^{-3}
+$$
+$$
+\frac{du}{dx}= -3y^{-4} \frac{dy}{dx}
+$$
+$$
+\frac{dy}{dx}=4y^4-\frac{4}{x}y
+$$
+$$
+\frac{du}{dx}=-3y^{-4}\left( 4y^4-\frac{4}{x}y \right)
+$$
+$$
+\frac{du}{dx}=-12+\frac{12}{xy^3}
+$$
+$$
+\frac{du}{dx}-\frac{12}{x}u= -12
+$$
+$$
+r(x)=e^{-12\int 1/x dx }
+$$
+$$
+r(x)=x^{-12}
+$$
+$$
+\frac{d}{dx}\left( u \frac{1}{x^{12}} \right) = -12x^{-12}
+$$
+$$
+u \frac{1}{x^{12}}=\frac{12}{11}\frac{1}{x^{11}}+C
+$$
+$$
+u =\frac{12}{11}x+Cx^{12}
+$$
+$$
+\frac{1}{y^3}=\frac{12}{11}x+Cx^{12}
+$$
+$$
+y=\frac{1}{\left( \frac{12}{11} + Cx^{12} \right)^{1/3}}
+$$
+
+$$
+C = -\frac{1}{11}
+$$
+$$
+\boxed{y=\frac{1}{\left( \frac{12}{11}+\frac{1}{11x^{12}} \right)^{1/3}}}
+$$
