@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ancient Philosophy - Week 3 Day 1",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3/Ancient Philosophy - Week 3 Day 1.md"
+    },
+    {
       "basename": "Diff Eq - Module 1.4",
       "path": "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.4.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ShieldScatter Improving IoT Security with Backscatter Assistance",
       "path": "General Notes/Kanban/ShieldScatter Improving IoT Security with Backscatter Assistance.md"
-    },
-    {
-      "basename": "Mitigating stealthy collision attack in energy harvesting motivated networks",
-      "path": "General Notes/Kanban/Mitigating stealthy collision attack in energy harvesting motivated networks.md"
     }
   ],
   "omittedPaths": [],
