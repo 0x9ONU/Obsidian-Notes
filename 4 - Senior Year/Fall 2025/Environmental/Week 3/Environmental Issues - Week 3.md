@@ -124,5 +124,7 @@ These groups can be further broken down into more subgroups.
 ## Range of Tolerance and It’s Impact on Species Distribution
 
 ```ad-important
-Limiting factors determine the distribution and size of populations. Variability within a population may increase its range of tolerance for enviormental conditions or critical resources, 
+Limiting factors determine the distribution and size of populations. Variability within a population may increase its range of tolerance for enviormental conditions or critical resources, expanding its distribution and increasing teh chance it will be able to changing conditions.
 ```
+
+
