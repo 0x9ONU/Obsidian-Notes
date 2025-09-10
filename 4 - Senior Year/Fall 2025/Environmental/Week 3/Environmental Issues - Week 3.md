@@ -55,6 +55,74 @@ The field of ecology focuses on how a *species* interrelates with the biotic and
 
 ![[Pasted image 20250910134734.png | center]]
 
+## Energy and Matter in Ecosystems
 
+```ad-important
+A constant input of energy is always needed because once it is used by one organism, it cannot be reused by another. New inputs of amtter to Earth, however, are negligible, so life also depends on the constant cycling of matter resources.
+```
 
+All ecosystems function through two fundamental processes:
+1. **Matter Cycles:** Movement of life’s essential chemicals or nutrients through an ecosystem. 
+   - They are stored in places called *sinks*
+   - *Carbon Sinks* are areas where carbon accumulates and is not readily released to be used again
+2. **Energy Flow**: The one-way passage of energy through an ecosystem
 
+### Ecosystems Need Matter and Energy
+
+1. Energy flow is one-way (it cannot be *recycled*)
+2. Matter cycles infinitely (all substances found on Earth can be re-used over-and-over again)
+	- It depends on the matter already here
+	- Very little of it comes from space, like energy
+
+```ad-important
+Energy being one-way is okay because Eearth gets a steady supply of energy from the Sun.
+```
+
+```ad-note
+Earth is materially closed, but energetically open.
+```
+
+## Biomes
+
+```ad-important
+The biome that is present in a givne area is influenced by the physical and climaic characteristics of its enviornment.
+```
+
+```ad-summary
+title: Definiton
+Distinctive types of ecosystems determiend by climate (ex. temperature and precipitation) and identified by the predominant vegetation and organisms adapted to lvie there
+```
+
+Broken down into three broad categories:
+1. Terrestrial
+2. Marine
+3. Freshwater
+
+These groups can be further broken down into more subgroups.
+
+![[Pasted image 20250910151027.png | center]]
+
+```ad-note
+- Latitude, Longitude, and Evelvation all affect biomes since they determine the annual temperature and precipitation
+```
+
+![[Pasted image 20250910151136.png | center]]
+
+### Anthromes (Anthropogenic Biomes)
+
+1. Human-alatered biomes
+2. Less bio-diverse than original biome
+3. Types:
+	- Dense Settlements
+	- Villages
+	- Croplands
+	- Rangelands
+	- Forestlands
+
+![[Pasted image 20250910151419.png | center]]
+
+## Range of Tolerance and It’s Impact on Species Distribution
+
+```ad-important
+Limiting factors determine the distribution and size of populations. Variability within a population may increase its range of tolerance for enviormental conditions or critical resources, 
+```
