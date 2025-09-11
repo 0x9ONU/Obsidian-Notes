@@ -146,3 +146,7 @@ What does an impacts species distribution affect?
 Individuals in this population are different form each other - There is a *genetic diversity* in this population.
 ```
 
+```ad-example
+If the climate in the area warmed, the individuals who do better in warmer conditions would be more likely to survive.
+```
+
