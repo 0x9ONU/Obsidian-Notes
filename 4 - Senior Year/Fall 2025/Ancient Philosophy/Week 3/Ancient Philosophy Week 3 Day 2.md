@@ -182,3 +182,9 @@ Now the hour to part has come. I go to die, you go to live. Which
 of us goes to the better lot is known to no one, except the god.
 ```
 
+### Discussion
+
+```ad-important
+To become a better person, a person must examine one's life to find **truth**.
+```
+
