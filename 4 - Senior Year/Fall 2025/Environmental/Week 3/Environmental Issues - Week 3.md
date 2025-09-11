@@ -168,3 +168,62 @@ What does carbon do for the environment?:
 
 ![[Pasted image 20250910215611.png | center]]
 
+The sugar is stored in the tissue of the producer (or in the tissue of the consumer who ate the organism that currently holds that sugar) until its energy is needed.
+
+**Cellular Respiration**: 
+- The reverse process of photosynthesis
+- Producers and consumers use cellular respiration to access the energy stored in the sugar
+
+![[Pasted image 20250910220606.png | center]]
+
+### Larger View of the Carbon Cycle
+
+![[Pasted image 20250910220951.png | center]]
+
+### Disruptions to the Carbon Cycle
+
+![[Pasted image 20250910221434.png | center]]
+
+## The Nitrogen Cycle
+
+```ad-important
+Nitrogen cycles through the environment in steps that depend on a wide variety of bacteria. Human actions are increasing the amount of usable nitrogen in the environment.
+```
+
+```ad-summary
+title: Definition
+A continuous series of natural processes by which nitrogen passes from the air to the soil, to organisms, and then returns back to the air or soil.
+```
+- Needed to produce proteins and nucleic acids
+
+![[Pasted image 20250910222249.png]]
+
+### Disruptions to the Nitrogen Cycle
+
+Fertilizers and vehicle emissions are doubling the availability of nitrogen
+
+## The Phosphorus Cycle
+
+```ad-important
+Phosphorus moves slowly through the environment, depending on physical and biological processes. Human impact has also unbalanced this cycle.
+```
+
+```ad-summary
+title: Definition
+A series of natural processes by which phosphorus moves from rock to soil or water, to living organisms, and back to soil.
+```
+
+- Needed to produce ATP and nucleic acids.
+- Unlike the rest, it is *no atmospheric component*
+
+![[Pasted image 20250910222915.png | center]]
+
+```ad-warning
+Disturbed by the rlease of more phosphorus put into the environment by mining and the use of fertilizers.
+```
+
+## Summary
+
+1. Ecosystems depend on abundant supplies of energy and efficient recycling of matter.
+2. Species within ecosystems are adapted to their environment and participate in energy capture and flow and in matter cycles. However, human actions are unbalancing may mater cycles, threatening species and the ecosystems they inhabit.
+
