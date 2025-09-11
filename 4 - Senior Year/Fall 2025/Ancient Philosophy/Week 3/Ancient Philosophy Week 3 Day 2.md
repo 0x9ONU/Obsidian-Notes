@@ -188,3 +188,7 @@ of us goes to the better lot is known to no one, except the god.
 To become a better person, a person must examine one's life to find **truth**.
 ```
 
+“Soul” (*psyche*): What differentiates between living and nonliving
+- A human soul has a MIND (*Nous*)
+- To say that humans are worth more (egocentric), you must defend that humans have a mind that is able to find **Truth**
+- A human who has not used their mind to find the truth has a life that is “not worth living”
