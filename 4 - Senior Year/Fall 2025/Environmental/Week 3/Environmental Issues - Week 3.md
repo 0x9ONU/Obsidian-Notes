@@ -127,4 +127,22 @@ These groups can be further broken down into more subgroups.
 Limiting factors determine the distribution and size of populations. Variability within a population may increase its range of tolerance for enviormental conditions or critical resources, expanding its distribution and increasing teh chance it will be able to changing conditions.
 ```
 
+Different species live in different biomes - they live in areas with conditions they can tolerate - within their *range of tolerance*.
+
+![[Pasted image 20250910201800.png | center]]
+
+```ad-summary
+title: Definition
+The range, within upper and lower limits, of an environmental factor allows a species to survive and reproduce.
+```
+
+What does an impacts species distribution affect?
+1. These tolerances tell us where to look for the population
+2. Individual variability increases a population’s range of tolerance which:
+	- Expands its distribution in the habitat
+	- Increases the chance it will be able to adapt to changing conditions
+
+```ad-note
+Individuals in this population are different form each other - There is a *genetic diversity* in this population.
+```
 
