@@ -147,6 +147,24 @@ Individuals in this population are different form each other - There is a *genet
 ```
 
 ```ad-example
-If the climate in the area warmed, the individuals who do better in warmer conditions would be more likely to survive.
+- If the climate in the area warmed, the individuals who do better in warmer conditions would be more likely to survive.
+- If the clmiate in teh area cooled, the individuals who do better in cooler conditions would be more likely to survive.
 ```
+
+The more genetic diversity you have in the population, the more likely some individuals will be able to survive the environmental challenge and the population will go on. If no one can handle the change, the population will either die out or leave.
+
+## The Carbon Cycle
+
+```ad-important
+Carbon cycles thorugh the environment via photosynthesis and cellular respiration. Human actions are increasing the amount of atmospheric carbon, unbalancing this cycle.
+```
+
+What does carbon do for the environment?:
+1. Carbon is needed to build all macro-molecules (proteins, lipids, carbohydrates, and nucleic acids) necessary for life.
+2. Carbon moves in and out of various molecular forms and in and out of living things via *photosynthesis* and *cellular respiration*.
+
+**Photosynthesis**: Converting solar energy to chemical energy
+- Takes carbon dioxide and water and turns it into sugar (chemical energy) and oxygen as a byproduct
+
+![[Pasted image 20250910215611.png | center]]
 
