@@ -236,7 +236,221 @@ $$
 $$
 \boxed{2x^3y^2=C}
 $$
+## Example 3
 
+```ad-question
+Solve the following exact diff eq:
 
+$$(ye^{xy}\tan x + e^{xy}\sec^2 x)dx + (xe^{xy}\tan x) dy $$
+```
 
+$$
+M = ye^{xy}\tan x+e^{xy}\sec^2x
+$$
+$$
+M_{y}=\tan x[y(xe^{xy})+(1)(e^{xy}))]+x\sec^2xe^{xy}
+$$
+$$
+M_{y}=e^{xy}\tan x+xye^{xy}\tan x+x\sec^2(x)e^{xy}
+$$
+$$
+N=xe^{xy}\tan x
+$$
+$$
+N_{x}= [(1)e^{xy}\tan x+x(ye^{xy})\tan x+xe^{xy}\sec^2x]
+$$
 
+**IT IS EXACT**
+
+$$
+F_{x}=M
+$$
+$$
+F_{x}=ye^{xy}\tan x+e^{xy}\sec^2x
+$$
+$$
+F(x,y)=\int ye^{xy}\tan x \space + e^{xy}\sec^2x \space dx
+$$
+$$
+F(x,y)=e^{xy}\tan x+\phi(y)
+$$
+$$
+F_{y}=N
+$$
+$$
+F_{y}=\frac{\partial f}{\partial y} (e^{xy}\tan x+\phi(y))
+$$
+$$
+F_{y}=xe^{xy}\tan x+\phi^\prime(y)
+$$
+$$
+(xe^{xy}\tan x)=xe^{xy}\tan x+\phi^\prime(y)
+$$
+$$
+\phi^\prime(y)=0
+$$
+$$
+\phi(y)=k
+$$
+$$
+F(x,y)=c
+$$
+$$
+e^{xy}\tan x+k=c
+$$
+$$
+\boxed{e^{xy}\tan x=c}
+$$
+## Example 4
+
+```ad-question
+Solve:
+
+$$(3y\cos x + 4xe^{x}+2x^2e^x)dx+(3\sin x + 3)dy=0$$
+```
+
+$$
+M = 3y\cos x+4xe^x+2x^2e^x
+$$
+$$
+M_{y}=3\cos x
+$$
+$$
+N=3\sin x+3
+$$
+$$
+N_{x}=3\cos x
+$$
+
+**IT IS EXACT**
+
+$$
+F_{x}=M
+$$
+$$
+F_{x}=3y\cos x+4xe^x+2x^2e^x
+$$
+$$
+F(x,y)=3y\int (\cos x)dx+4\int (xe^x)dx+2\int (x^2e^x)dx
+$$
+*First Integral*
+
+$$
+3y\int (\cos x)dx=3y\sin x
+$$
+*Second Integral*
+
+$$
+\int udv=uv-\int vdu
+$$
+$$
+u = x; du=1dx
+$$
+$$
+dv=e^x; v= e^x
+$$
+$$
+4[xe^x-\int e^xdx]
+$$
+$$
+4xe^x-4e^x
+$$
+*Third Integral*
+
+$$
+\int udv=uv-\int vdu
+$$
+$$
+u = x^2; du=2xdx
+$$
+$$
+dv = e^x; v = e^x
+$$
+$$
+x^2e^x-\int 2xe^xdx
+$$
+$$
+u=2x; du=2
+$$
+$$
+dv=e^x; v=e^x
+$$
+$$
+2[x^2e^x-2xe^x+2\int e^xdx]
+$$
+$$
+2x^2e^x-4xe^x-4e^x
+$$
+*Combine*
+$$
+F(x,y)=3y\sin x+4xe^x-4e^x+2x^2e^x-4xe^x+4e^x
+$$
+$$
+F(x,y)=3y\sin x+2x^2e^x+\phi(y)
+$$
+$$
+F_{y}=N
+$$
+$$
+F_{y}=3\sin x+\phi^\prime(y)
+$$
+$$
+(3\sin x+\phi^\prime (y))=(3\sin x+3)
+$$
+$$
+\phi^\prime(y)=3
+$$
+$$
+\phi(y)=3y
+$$
+$$
+\boxed {3y\sin x+2x^2e^x+3y=c}
+$$
+## Example 5
+
+```ad-question
+Solve:
+$$(-5xy^2-4xy)+(-5x^2y-2x^2-2)\frac{dy}{dx}=0$$
+```
+$$
+(-5xy^2+4xy)dx+(-5x^2y-2x^2-2)dy=0
+$$
+$$
+M=-5xy^2-4xy
+$$
+$$
+M_{y}=-10xy-4x
+$$
+
+$$
+N= -5x^2y-2x^2-2
+$$
+$$
+N_{x}=-10xy-4x
+$$
+
+**It is exact!!**
+
+$$
+F_{x}=M
+$$$$
+F_{x}=-5xy^2-4xy
+$$
+$$
+F(x,y)=-5y^2\int xdx\pm4y \int xdx
+$$
+$$
+F(x,y)=-\frac{5}{2}y^2x^2-2yx^2+\phi(y)
+$$
+$$
+F_{y}=N
+$$
+$$
+F_{y}=\frac{\partial f}{\partial y}\left( -\frac{5}{2}y^2x^2-2yx^2+\phi(y) \right)
+$$
+$$
+F_{y}=-4x^2y-4xy+\phi^\prime(y)
+$$
+$$
+
+$$
