@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "efe8ee4cc6af7c2f",
+        "id": "dd7b428b5a579204",
         "type": "tabs",
         "children": [
           {
-            "id": "fcaa9cc1704f9c8e",
+            "id": "5cf896320611c0be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.5.md",
+                "file": "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Week 4 Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diff Eq - Module 1.5"
+              "title": "Environmental Issues - Week 4 Day 1"
+            }
+          },
+          {
+            "id": "625a4ddecade3471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Week 4 Day 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Environmental Issues - Week 4 Day 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,16 +250,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fcaa9cc1704f9c8e",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Exam 1 Review Objectives.md",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.5.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 4",
     "4 - Senior Year/Fall 2025/Environmental/Week 3/Environmental Issues Lab - Week 3.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 3/Environmental Issues - Week 3 Day 1.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 3/Environmental Issues - Week 3.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Week 4 Day 1.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 2/Environmental Issues - Week 2 Day 2.md",
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.5.md",
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Exam 1 Review Objectives.md",
     "General Notes/Pasted image 20250911121802.png",
     "General Notes/Pasted image 20250911121747.png",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3/Ancient Philosophy Week 3 Day 2.md",
     "General Notes/Pasted image 20250911095738.png",
-    "4 - Senior Year/Fall 2025/Environmental/Week 3/Environmental Issues - Week 3.md",
     "General Notes/Pasted image 20250910222915.png",
     "General Notes/Pasted image 20250910222249.png",
     "General Notes/Pasted image 20250910221434.png",
@@ -252,7 +271,6 @@
     "General Notes/Pasted image 20250910220606.png",
     "General Notes/Pasted image 20250910215611.png",
     "General Notes/Pasted image 20250910201800.png",
-    "4 - Senior Year/Fall 2025/Environmental/Week 3/Environmental Issues - Week 3 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Rubric for Parmenidies Paper.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/(Insert Witty Title Here).md",
@@ -267,7 +285,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 1.md",
     "General Notes/Ancient Philosophy - Week 3 Day 1 2025-09-09 09.45.15.excalidraw.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3",
-    "4 - Senior Year/Fall 2025/Environmental/Week 2/Environmental Issues - Week 2 Day 2.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 2/Environmental Issues - Week 2 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 3.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 3",
@@ -276,8 +293,6 @@
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 3/Networks - Week 3 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 2/Networks - Week 2 Day 1.md",
     "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 2-3.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 1/Networks - Week 1 Day 1.md",
-    "4 - Senior Year/Fall 2025/Theta Chi/Active Listening Presentation.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 2",
     "4 - Senior Year/Fall 2025/Theta Chi/Campus Orgs 101",
     "4 - Senior Year/Fall 2025/Theta Chi",
