@@ -65,7 +65,7 @@ What to look out for:
 
 ## What Else is Out There that is Infecting the Wildlife
 
-1. CHestnut blight
+1. Chestnut blight
 2. Chitryd in Salamanders
 3. Coffee Leaf Rust
 4. Bananas and plight
@@ -78,3 +78,16 @@ What to look out for:
 		- All the test group lived while only control group had fatalities
 	- UV light?
 	- A vaccine?
+
+# Announcements - Chapter 2
+
+Module 2.1, 2.2 and 2.3
+- Pre-recorded PPTs on Achieve. Watch and take notes.
+- Short video clips
+- Total is less than 1 hour per module
+
+Complete assignments on Canvas (Biospherian TED Talk and Worksheet)
+
+Complete Adaptive Quizzes on Achieve
+
+*Due Monday, Sept. 22*
