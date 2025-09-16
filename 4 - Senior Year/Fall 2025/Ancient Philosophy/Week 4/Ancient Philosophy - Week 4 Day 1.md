@@ -45,7 +45,12 @@ Socrates is seeking for a general defiition as opposed to an example to try to e
   Euthyphro bumps into Socrates at the front of the court house (Socrates is there because he was charged with corrupting the youths)
 ```
 
-#comebacklater 
+- One of the prosecutors is Meletus
+- Socrates is surprised to find out that Euthyphro is actually going to prosecute his own father for murdering a murder.
+
+```ad-note
+There is a similarity here between the Euhyphro and Aristophanes' *Clouds*
+```
 ### Piety
 
 Euthyphro (6a1-b1). Euthyphro appeals to the story of gods to justify what he is doing
@@ -137,5 +142,66 @@ Euthyphro selects the first option and his response becomes *circular*. Pious is
 1. Is X loved by God because X is (morally) good? OR
 2. Is X (morally) good because God loves it?
 
+```ad-note
+Plato will always argue against #2 as he believes that there is a moral good *independent* of everything
+```
+
+#comebacklater for image
+### Piety and Justice
+
+*Three* possible options:
+1. Piety is a part of just
+2. Just is a part of piety
+3. Some part of piety is just and vice versa
+
+```ad-note
+Euthyphro selects A.
+```
+
+![[Ancient Philosophy - Week 4 Day 1 2025-09-16 10.13.07.excalidraw | center]]
+#### Part of Justice
+
+```ad-question
+What part of justice is piety?
+```
+
+Euthyphro divides justice into two parts:
+1. The one that cares the gods
+2. The part that cares men
+
+*Care*: Not like the way we care for animals, where the benefits is conferred to the object of its care because we do not benefit of the god
+
+#### To Serve the Gods
+
+“Care” means a service of the gods
+- But service achieves somehting
+- So what kind of service do we render the gods?
+- To sacrifice and to pray and knowning how to do these htings.
+- To service 
+
+#comebacklater 
+
+### It loops back…
+
+But what benefits do gods derive form our gifts?
+- They do not derive any benefit; we honor, revere and offer gratitude.
+- But if so, piety is what is pleasing to the gods; and what is pleasing to the gods is dear to them - which turns out to be the definition we started form (the discussion circled around and come back to the initial point)
+
+```ad-quote
+Euthyphro: But Socrates, I have no way of telling you what I have
+in mind, for whatever proposition we put forward goes around and
+refuses to stay put where we establish it.
+
+Socrates: When you say this, will you be surprised if your arguments
+seem to move about instead of staying put? And will you accuse me of
+being Daedalus who makes them move, though you are yourself much
+more skillful than Daedalus and make them go around in a circle? Or
+do you not realize that our argument has moved around and come
+again to the same place? You surely remember that earlier the pious
+and the god-loved were shown not to be the same but different from
+each other. Or do you not remember?
+```
+
+Euthyphro 
 
 
