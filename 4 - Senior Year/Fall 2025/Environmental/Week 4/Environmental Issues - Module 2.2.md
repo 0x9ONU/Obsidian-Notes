@@ -147,3 +147,25 @@ A high biotic rate means a single female can offspring a large litter.
 
 1. Growth in which a population becomes progressively larger each breeding cycle.
 2. Typically seen when a species first enters a new environment or there is an influx of new resources.
+3. Produces a J curve when plotted overtime.
+
+![[Pasted image 20250917151247.png | center]]
+
+```ad-example
+Without predation presssure form wolves, elk numbers in Yelllowstone doubled between 1914 and 1932
+```
+
+```ad-warning
+title: Exponential Growth is *not* sustainable
+- Resources become scarce
+- Individuals starve or fail to reproduce
+- Disease, aggression, and competition increase
+- There is increased pressure from predation
+```
+
+# Logistic Population Growth
+
+```ad-important
+As a population's size approaches carrying capacity, exponential growth may transition to logistic growth, slowing population growth rates.
+```
+
