@@ -194,6 +194,12 @@ Yellowstone's population of aspen trees is impacted by the size of the herbivore
 
 **Density-Independent**: Factors whose impact on a population is *not* related to a population’s size.
 
+# Life-History Strategies: $r$ and $k$ species
+
+```ad-important
+The population size of $r$-selected spcies can increase or decrease quickly if the environment changes. $K$-selected species' populations do not fluctuate as widely, but they are less able to resond to environmental chages
+```
+
 
 
 
