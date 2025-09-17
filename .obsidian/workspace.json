@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.5.md",
+                "file": "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diff Eq - Module 1.5"
+              "title": "Environmental Issues - Module 2.2"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -237,8 +238,13 @@
   },
   "active": "e5773b1406750bc7",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.4.md",
+    "General Notes/Pasted image 20250917140302.png",
+    "General Notes/Pasted image 20250917140208.png",
+    "General Notes/Pasted image 20250917140111.png",
+    "General Notes/Pasted image 20250917135306.png",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.5.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.2.md",
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.4.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff EQ - Module 1.3.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff EQ - Module 1.2.md",
     "2 - Sophomore Year/Spring 2024/Physics 2/Week 3/Physics 2 - Week 3 Day 2.md",
@@ -265,9 +271,6 @@
     "General Notes/Pasted image 20250910222249.png",
     "General Notes/Pasted image 20250910221434.png",
     "General Notes/Pasted image 20250910220951.png",
-    "General Notes/Pasted image 20250910220606.png",
-    "General Notes/Pasted image 20250910215611.png",
-    "General Notes/Pasted image 20250910201800.png",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Rubric for Parmenidies Paper.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/(Insert Witty Title Here).md",
@@ -276,8 +279,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Ancient Philosophy - Week 1 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3/Ancient Philosophy - Week 3 Day 1.md",
-    "General Notes/Ancient Philosophy - Week 3 Day 1 2025-09-09 10.21.24.excalidraw.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Ancient Philosophy - Week 1 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3",
     "4 - Senior Year/Fall 2025/Environmental/Week 3",
     "4 - Senior Year/Fall 2025/Environmental/Week 2",
