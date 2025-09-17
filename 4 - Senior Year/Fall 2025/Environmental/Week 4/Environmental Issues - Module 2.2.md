@@ -169,3 +169,7 @@ title: Exponential Growth is *not* sustainable
 As a population's size approaches carrying capacity, exponential growth may transition to logistic growth, slowing population growth rates.
 ```
 
+**Logistic Growth** happens when a population size increases rapidly but then slows down as the population becomes larger
+- This will produce an *S-Curve* when plotted over time
+- Occurs when a population nears it’s *carrying capacity* $k$
+
