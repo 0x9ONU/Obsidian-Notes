@@ -179,6 +179,22 @@ As a population's size approaches carrying capacity, exponential growth may tran
 
 # Density-Dependent and Density-Independent Growth Factors
 
+```ad-important
+Some factors that influence population size have more of an impact when that population is large (density-depedent factors), whereas others will have the same effect on large and small populations alike (density-independent factors).
+```
+
+Ecologists recognize *two* types of growth and resistance factors
+- Understanding these factors gives ecologists tools they can use to monitor and manage populations.
+
+**Density Dependent**: Factors whose impact on a population increases as population size goes up
+
+```ad-example
+Yellowstone's population of aspen trees is impacted by the size of the herbivore populations. As more herbivores are born, they can be overgrazed and lose more members.
+```
+
+**Density-Independent**: Factors whose impact on a population is *not* related to a population’s size.
+
+
 
 
 
