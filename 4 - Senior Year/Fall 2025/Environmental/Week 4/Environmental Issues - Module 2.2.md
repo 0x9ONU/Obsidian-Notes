@@ -173,3 +173,12 @@ As a population's size approaches carrying capacity, exponential growth may tran
 - This will produce an *S-Curve* when plotted over time
 - Occurs when a population nears it’s *carrying capacity* $k$
 
+![[Pasted image 20250917155158.png | center]]
+
+![[Pasted image 20250917155222.png | center]]
+
+# Density-Dependent and Density-Independent Growth Factors
+
+
+
+
