@@ -123,5 +123,27 @@ $$
 Assuming growth rate stays constant, the annual growth create can be used to predict future population sizes.
 
 ```ad-example
+In 1932, the elk population was 16,000. What would the population be next year considering the same growth rate in 1920?
 
+$$16,000 \times 0.05 = 800$$
+$$16,000 + 800 = 16,800$$
 ```
+
+## Population Growth Variables
+
+1. **Growth Factors**: Resources individuals need to survive and reproduce that allow a population to grow in number.
+2. **Resistance Factors**: Factors that directly or indirectly reduce population size.
+
+## Biotic Potential $r$
+
+```ad-summary
+title: Definition
+The maximum rate at which the population can grow due to births if each member ofhte population sruvives and reproduces
+```
+
+A high biotic rate means a single female can offspring a large litter.
+
+## Exponential Growth Defined
+
+1. Growth in which a population becomes progressively larger each breeding cycle.
+2. Typically seen when a species first enters a new environment or there is an influx of new resources.
