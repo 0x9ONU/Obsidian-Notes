@@ -62,5 +62,66 @@ A population's distribution within its range is influenced by bheavioral and eco
 # Population Size and Density
 
 ```ad-important
-Populations require minimal sizes and densities to reproduce s
+Populations require minimal sizes and densities to reproduce successfully and maintain social ties, but high population desnity can lead to problems such as disease and overuse of resources.
+```
+
+**Population Dynamics**: Changes over time in population size and composition
+- Determined by factors that simultaneously increase or decrease the number of individuals in a population
+- Birth and immigration increases population
+- Death and emigration decreases  population
+
+## Population Metrics
+
+1. **Minimal Viable Population**: Smallest number of individuals that would still allow a population to be able to persist or grow, ensuring long-term survival.
+2. **Carrying Capacity**: The maximum population size that a particular environment can support indefinitely.
+3. **Population Density**: The number of individuals per unit area
+
+![[Pasted image 20250917141757.png | center]]
+
+# Exponential Population Growth
+
+```ad-important
+Growth and resistance factors influence population growth. Exponential growth occurs when population grwoth is unresticted; however, it will not continue indefinitely.
+```
+
+**Population Growth Rate**: The change in population size over time that takes into account the number of births and deaths as well as immigration and emigration numbers.
+
+![[Pasted image 20250917142356.png | center]]
+
+### Calculating Annual Population Growth Rate
+
+$$
+\text{Population Growth}= \frac{N_{2}-N_{1}}{N_{1}}*100\%
+$$
+- $N_1$ = Population size at early time point
+- $N_2$ = Population size at a later time point
+
+```ad-note
+Can be positive (increase), negative (decrease), or 0 (no change)
+```
+
+#### Example using Elk Population
+
+```ad-question
+In 1920, the elk population was 10,000. In 1921, it was 10,500. What is the population growth rate?
+```
+
+$$
+N_{1}=10,000; N_{2}=10,500
+$$
+$$
+N_{2}-N_{1}=500
+$$
+$$
+\text{Growth Rate}= \frac{500}{10000}*100\%
+$$
+$$
+\boxed{\text{Growth Rate}=5\%}
+$$
+#### Predicting Future Population Growth
+
+Assuming growth rate stays constant, the annual growth create can be used to predict future population sizes.
+
+```ad-example
+
 ```
