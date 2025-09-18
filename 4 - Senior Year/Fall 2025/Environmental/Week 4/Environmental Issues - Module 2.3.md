@@ -59,7 +59,7 @@ The limpkin that feeds almost exclusively on apple snails is a *niche specialist
 The flow of matter and energy through a community is represented by a food chain that shows who eats whom and always begins with the producers. The combination of all the food chains in one area make up a community's food web.
 ```
 
-
+*Energy* is the foundation 
 
 
 # Trophic Pyramid
