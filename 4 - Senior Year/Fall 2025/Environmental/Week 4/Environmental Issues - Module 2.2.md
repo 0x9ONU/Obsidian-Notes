@@ -200,6 +200,55 @@ Yellowstone's population of aspen trees is impacted by the size of the herbivore
 The population size of $r$-selected spcies can increase or decrease quickly if the environment changes. $K$-selected species' populations do not fluctuate as widely, but they are less able to resond to environmental chages
 ```
 
+Classify a species based on biological characteristics that influence how quickly a population can potentially increase in number
+1. $r$-selected
+2. $K$-selected
+
+## $r$-Selected Species Characteristics
+
+1. Short life
+2. Rapid growth of individual
+3. Early maturity
+4. Many, small offspring
+5. Little parental care
+6. Adapted to unstable environment
+7. Prey
+8. Uses many habitats and resources
+
+### $K$-Selected Species Characteristics
+
+1. Long life
+2. Slower growth of individuals
+3. Late maturity
+4. Few, large offspring
+5. High parental care
+6. Adapted to stable environment
+7. Predators
+8. Needs specific habitat and resources
+
+![[Pasted image 20250917162506.png | center]]
+
+# Top-Down and Bottom-Up Regulation
+
+```ad-important
+Population size is influenced by factors that decrease it (top down) and factors that increase it (bottom up), but which one has the greatest impact varies from population to population.
+```
+
+## Top-Down Regulation
+
+Control of population size by *predation*.
+- Sets into motion a trophic cascade that controls populations lower on the food chain
+
+![[Pasted image 20250917162837.png | center]]
+
+## Bottom-Up Regulation
+
+Control of population size by factors that enhance plant growth and survival
+- Nutrients
+- Water
+- Sunlight Habitat
+
+![[Pasted image 20250917163001.png | center]]
 
 
 
