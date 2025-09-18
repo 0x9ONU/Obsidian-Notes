@@ -53,7 +53,49 @@ The limpkin that feeds almost exclusively on apple snails is a *niche specialist
 
 ![[Pasted image 20250917164731.png | center]]
 
+# The Food Web
+
+```ad-important
+The flow of matter and energy through a community is represented by a food chain that shows who eats whom and always begins with the producers. The combination of all the food chains in one area make up a community's food web.
+```
 
 
 
+
+# Trophic Pyramid
+
+```ad-important
+The trophic levels of the food cahin are shown as a pyramid; lower levels are larger than upper ones. Energy entrers only at the producer level and the organisms at each level use most of the enrgy they have taken in, only a small percentage is apsse don to support the next level.
+```
+
+*Trophic Levels*:
+- Feeding levels of the food chain
+- Starts with producers and goes up through the different levels of consumers
+
+![[Pasted image 20250917214644.png]]
+
+**Types of Consumers**:
+1. Primary consumers eat producers
+2. Secondary consumers eat primary consumers
+3. Tertiary consumers eat secondary consumers
+
+```ad-note
+Many consumer species often feed at more than one trophic level
+```
+
+![[Pasted image 20250917214628.png]]
+
+### Trophic Pyramid Graph
+
+![[Pasted image 20250917214718.png]]
+
+```ad-important
+**Detrivores** and **decomposers** play a critical role in getting nutrients back into the bottom of the pyramid.
+- Detrivores eat dead organic material
+- Decomposers break organic matter all the way down to a form that plants can take back up
+```
+
+```ad-warning
+New energy; however, is always needed from the sun, which makes producers so crucial as well.
+```
 
