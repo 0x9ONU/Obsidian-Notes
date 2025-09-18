@@ -150,3 +150,50 @@ The introduction of *non-native species* can ultimately decrease diversity.
 ```ad-important
 Community composition is affected by the physical structure of the habitat, with some species preferring to inhabit ecotone regions where one habitat meets another (the edge) and others staying deep within one habitat (the core). Human impact that fragments h
 ```
+
+A community’s diversity and composition is heavily influenced by physical features such as temperature and moisture
+
+**Ecotone**: The place where two ecosystems meet
+- The physical features of the environment change, resulting in a shift in species composition.
+
+```ad-summary
+title: Definition
+**Edge Effect**: The different physical makeup of an ecotone that creates different conditions that either attract or repel certain species.
+- The species in there are called *edge species*
+```
+
+Species that can only be found deep within the core of a given habitat are **core species**.
+
+![[Pasted image 20250917233335.png]]
+
+```ad-warning
+Human actions are actively increasing the number of edge habitats.
+
+![[Pasted image 20250917233514.png]]
+```
+
+# Keystone Species
+
+```ad-important
+Keystone species are particularly important to other members of their community, and if their numbers decline, many other species may be negatively affected.
+```
+
+**Keystone Species** impact its community more than its mere abundance would predict, often altering the ecosystem’s structure.
+- The loss of a keystone species disrupt the interactions for many other species
+
+```ad-example
+Mangrove trees stabilize soil and provide shelter for many types of fish.
+```
+
+![[Pasted image 20250917234119.png]]
+
+# Species Interactions
+
+```ad-important
+Interactions within and between species may be beneficial, neutral, or harmful to participants but all are critical to energy capture and flow, and to matter cycling. Changes that interfere wih these interactions can imperil many others and decrease the overall functioning of the ecosystem and the services it provides.
+```
+
+## Relationships within Communities
+
+
+
