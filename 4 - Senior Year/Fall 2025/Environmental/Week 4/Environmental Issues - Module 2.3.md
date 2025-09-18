@@ -59,7 +59,31 @@ The limpkin that feeds almost exclusively on apple snails is a *niche specialist
 The flow of matter and energy through a community is represented by a food chain that shows who eats whom and always begins with the producers. The combination of all the food chains in one area make up a community's food web.
 ```
 
-*Energy* is the foundation 
+*Energy* is the foundation of every ecosystem; it is captured by photosynthetic organisms and then passed from organism to organism
+
+```ad-summary
+title: Definition
+**Food Chain**: A simple, linear path starting with a plant or other photosynthetic organism that identifies what each organism in the path eats.
+
+**Food Web**: A linkage of all the food chains together that shows the many connections in the community.
+```
+
+## Producers and Consumers
+
+**Producers**: Photosynthetic organisms that capture energy directly from the sun and convert it to food
+
+**Consumers**: Gain energy and nutrients by eating other consumers or producers.
+
+### Indicator Species
+
+```ad-summary
+title: Defintion
+A specific species that is vulnerable to changes in the ecosystem, which can be used to give an advanced warning of a problem.
+```
+
+```ad-example
+Because of their sensitivity to environmental change, wood storks are an indicator species.
+```
 
 
 # Trophic Pyramid
@@ -99,3 +123,30 @@ Many consumer species often feed at more than one trophic level
 New energy; however, is always needed from the sun, which makes producers so crucial as well.
 ```
 
+# Species Diversity
+
+```ad-important
+Species diversity is mesaured in terms of the number of different species present (richness) and the relative abundance of each species (evenness). High richness and evennes tend to make a community more resilient to environmental changes.
+```
+
+The variety of species in an area, which includes he measures of species *richness* and *evenness*
+- **Richness**: The total number of different species in a community (more = better)
+- **Evenness**: The relative abundance of each species in a community (Similar numbers *across* each trophic level)
+
+![[Pasted image 20250917222935.png]]
+
+```ad-note
+The better diversity in an ecosystem, the more *resilient* the ecosystem becomes as a whole.
+```
+
+**Resilience**: The ability of an ecosystem to recover after it is damaged or perturbed
+
+```ad-warning
+The introduction of *non-native species* can ultimately decrease diversity.
+```
+
+# Habitat Structure
+
+```ad-important
+Community composition is affected by the physical structure of the habitat, with some species preferring to inhabit ecotone regions where one habitat meets another (the edge) and others staying deep within one habitat (the core). Human impact that fragments h
+```
