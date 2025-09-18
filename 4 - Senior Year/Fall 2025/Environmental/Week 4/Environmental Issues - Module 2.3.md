@@ -195,5 +195,68 @@ Interactions within and between species may be beneficial, neutral, or harmful t
 
 ## Relationships within Communities
 
+1. Communities are all about relationships, and these relationships serve many purposes
+2. Each species interacts in its own unique ways with all the species around it
+3. Some interactions are beneficial, and others cause conflict, but all are important in keeping matter and energy flowing through an ecosystem.
+
+```ad-summary
+title: Definition
+**Symbiosis**: A close biological or ecological relationship between two species.
+- It shows a tremendous interdependency on the part of the participants.
+```
+
+### Types of Symbioses
+
+1. **Mutualism**: Both parties benefit
+2. **Commensalism**: One benefits from the presence of the other, but the other is unaffected
+3. **Parasitism**: One benefits and the other is negatively affected
+4. **Predation**: The interaction where one individual, the predator, feeds on another, the prey.
+
+![[Pasted image 20250918000854.png]]
+
+### Competition
+
+The interaction in which individuals are vying for limited resources
+- *Intraspecific*: Occurs between members of the same species
+- *Interspecific*: Occurs between members of different species
+
+![[Pasted image 20250918001331.png]]
+
+Can lead to *resource partitioning*: a strategy in which different species use different parts or aspects of a resource rather than compete directly for exactly the same resource
+
+# Restoration Ecology
+
+```ad-important
+Human impact often reduces species diversity. It may be difficult to restore all the species and their connections when we try to repair ecosystem damage; therefore, our best course of action is to avoid the damage in the first place.
+```
+
+The science that deals with the repair of damaged or disturbed ecosystems
+- Indicator species such as the wood stork are monitored as a gauge of success in the restoration efforts.
+
+### Restoration Plan for the Everglades
+
+- More than 60 construction projects to be completed over a 30-year period
+- The goal of the project is to restore some of the natural flow of water through the Everglades
+
+![[Pasted image 20250918002015.png]]
+
+# Ecological Succession
+
+```ad-important
+Over time, ecosystems naturally transition from one community to another in response to changing environmental conditions. An understanding of this ecological succession process can guide our restoration efforts.
+```
+
+The progressive replacement of plant and then animal species in a community over time due to changing conditions that the plants themselves create.
+
+## Types of Succession
+
+1. *Primary*: Ecological succession that occurs in an area where no ecosystem existed before, such as on bare rock (**Pioneer Species** move into an area during the early stages of this succession, often $r$-species)
+2. *Secondary*: Ecological succession that occurs in an ecosystem that has been disturbed; occurs more quickly than primary succession because soil is present.
+
+![[Pasted image 20250918002453.png]]
+
+```ad-note
+Succession is a natural "repair" progression. We can try to help it along in restoration, but nature does the work.
+```
 
 
