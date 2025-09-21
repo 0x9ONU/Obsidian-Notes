@@ -10,3 +10,9 @@ title: Author Information
 
 ## Analysis
 
+### Objection
+
+### Response
+
+### Defense
+
