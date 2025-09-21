@@ -22,7 +22,24 @@
             }
           },
           {
-            "id": "5ae0bcc73177c60e",
+            "id": "c7da0e5d6e674492",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
+                "viewState": {
+                  "x": -1381.630099634925,
+                  "y": -871.1912006319923,
+                  "zoom": -1.1622349785899497
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Paper 1 Canvas"
+            }
+          },
+          {
+            "id": "e42bdde9cec72802",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,79 +51,9 @@
               "icon": "lucide-file",
               "title": "Instructions for Parmenides Paper"
             }
-          },
-          {
-            "id": "c7da0e5d6e674492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Rubric for Parmenidies Paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rubric for Parmenidies Paper"
-            }
-          },
-          {
-            "id": "45fd43b8ccb1ec8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parmenides Fragment 2"
-            }
-          },
-          {
-            "id": "b71dcde494f01975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parmenides Fragment 6"
-            }
-          },
-          {
-            "id": "b1f74aa0788fd363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parmenides Fragment 7"
-            }
-          },
-          {
-            "id": "d9dfb0f3c6f7d222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parmenides Fragment 8"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ancient_philosophy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -199,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 2.md",
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parmenides Fragment 2"
+              "title": "Backlinks for Paper 1 Canvas"
             }
           },
           {
@@ -368,19 +315,23 @@
       }
     ]
   },
-  "active": "45fd43b8ccb1ec8c",
+  "active": "c7da0e5d6e674492",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/(Insert Witty Title Here).md",
+    "General Notes/Kanban/HWSW Final Exam.md",
+    "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/HWSW Codesign Final Exam Board.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Rubric for Parmenidies Paper.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 20.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 8.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 3.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 6.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 7.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 1.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "General Notes/Ancient Philosophy - Week 2 Day 1 2025-09-02 10.29.34.excalidraw.md",
     "General Notes/Ancient Philosophy - Week 2 Day 1 2025-09-02 10.29.34.excalidraw.png",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Rubric for Parmenidies Paper.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/(Insert Witty Title Here).md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Ancient Philosophy - Week 1 Day 2.md",
@@ -409,10 +360,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 1/Materials/PHIL2021.01Fall2025-26.pdf",
     "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.3.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.2.md",
-    "4 - Senior Year/Fall 2025/Theta Chi/Campus Orgs 101/Campus Orgs 101 - Fall 2025.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 3/Environmental Issues Lab - Week 3.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 3/Environmental Issues - Week 3.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 3/Environmental Issues - Week 3 Day 1.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 1/Materials",
     "4 - Senior Year/Fall 2025/Environmental/Week 1/Lab",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Hw",
