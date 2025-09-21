@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"9934afb7cd322c97","x":240,"y":-1640,"width":400,"height":400,"color":"2","type":"file","file":"4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md"},
+		{"id":"cf2c6d197996d969","x":-16,"y":-1106,"width":376,"height":146,"color":"2","type":"text","text":"Abstract\n- One-paragraph that includes the thesis statement and a summary of the paper."},
+		{"id":"9f760938ee43a52b","x":390,"y":-1106,"width":250,"height":146,"color":"2","type":"text","text":"Exposition\n- Present the mian argument from the selected topic\n- **MAKE SURE TO EXPLAIN FRAGMENTS 2 AND 6 AT THE BARE MINIMUM**"},
+		{"id":"9391515438dadeb1","x":700,"y":-1106,"width":250,"height":303,"color":"2","type":"text","text":"Analysis:\n1. *Objection*: A statement of the nature of the objection, and the concrete example to illustrate the objection\n2. *Response*: A statement of the nature of the response and address the example\n3. *Defense*: A concluding statement and the reason why you hold the view."},
+		{"id":"bc907899bf57e7be","x":825,"y":-1640,"width":400,"height":400,"color":"2","type":"file","file":"4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Rubric for Parmenidies Paper.md"},
+		{"id":"070e6db4f93da6ac","x":-1320,"y":-2080,"width":400,"height":400,"color":"3","type":"file","file":"4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 1.md"},
+		{"id":"eeccbd5d8a026a61","x":-840,"y":-2080,"width":400,"height":400,"color":"3","type":"file","file":"4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 2.md"}
+	],
+	"edges":[
+		{"id":"b7969fbc5bbfcfdc","fromNode":"9934afb7cd322c97","fromSide":"bottom","toNode":"cf2c6d197996d969","toSide":"top"},
+		{"id":"26d9f23d06f24b3a","fromNode":"9934afb7cd322c97","fromSide":"bottom","toNode":"9f760938ee43a52b","toSide":"top"},
+		{"id":"5e5394c693a79c16","fromNode":"9934afb7cd322c97","fromSide":"bottom","toNode":"9391515438dadeb1","toSide":"top"},
+		{"id":"53958e940c66e722","fromNode":"bc907899bf57e7be","fromSide":"left","toNode":"9934afb7cd322c97","toSide":"right"},
+		{"id":"48538fd692747923","fromNode":"9934afb7cd322c97","fromSide":"right","toNode":"bc907899bf57e7be","toSide":"left"}
+	]
+}
