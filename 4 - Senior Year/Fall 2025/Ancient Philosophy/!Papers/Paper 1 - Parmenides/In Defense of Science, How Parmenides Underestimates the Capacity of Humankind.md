@@ -14,10 +14,7 @@ Parmenides’ view on science can be deciphered by using six Fragments: two, thr
 
 ### Objection
 
-Even though Parmenides’ argument is rather sound, there are particular shortcomings in his argument against science. 
-
-For the sake of the objection, it will focus primarily on atoms and atomic theory. In science, there is a broad understanding that all matter is comprised of small particles called atoms. Even though neutrons, protons, electrons, and quarks exist, only atoms will be considered in this example. One of Parmenides’ main concerns when it came to science is its over-reliance on 
-
+Even though Parmenides’ argument is rather sound, there are particular shortcomings in his argument against science. For the sake of the objection, it will focus on the nature of optical illusions. As the name states, optical illusions happen when the human sense of sight is tricked into believing something false in their environment. The most famous example in nature comes from mirages in deserts. Dehydrated travelers in search for water would often hallucinate oases in the distance and find nothing once they got there. This gave the desert a hostility that was accounted to be work of mythos and the gods. However, the science of today explains the phenomena using logic instead. As light passes through various densities and temperatures of air, it has the tendency to refract and reflect on air particles. In the case of mirages, the hot ground refracts the sunlight that beats down on the desert. From the human eye, this refracted sunlight looks as if there is water on the ground. How optical illusions and sight can be explained by science can be a metaphor to how reality can be distilled from the world of appearance using the scientific method. Even though 
 ### Response
 
 ### Defense
