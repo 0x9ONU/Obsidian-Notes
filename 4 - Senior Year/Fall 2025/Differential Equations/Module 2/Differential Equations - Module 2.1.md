@@ -74,3 +74,58 @@ $$y=1/3x-3$$
 ![[Pasted image 20250918190810.png]]
 
 This system has one solution at $(3, -2)$
+
+## Definition of Matrix
+
+```ad-summary
+title: Definition
+A *matrix* is a rectangular array of numbers. The horizontal lines of numbers form *rows* and the vertical lines of numbers form *columns*. The size of matrix is determined by numbers rows and columns of a matrix. A matrix with $m$ rows and $n$ columns (size by $m \times n$) is said to be an $m \times n$ matrix ("an $m$ by $n$ matrix")
+```
+
+$$
+\begin{bmatrix}
+a_{11} & a_{12} & a_{13} & \dots & a_{1n} \\ a_{21} & a_{22} & a_{23} & \dots & a_{2n} \\ \vdots & \vdots & \vdots & \ddots & \vdots \\ a_{m1}  & a_{m2}  & a_{m 3}  & \dots  & a_{mn}
+\end{bmatrix}
+$$
+## Augmented Coefficient Matrix
+
+![[Pasted image 20250922113818.png]]
+
+## Special Matrices
+
+**Zero Matrix**: $O_{m \times n}$
+
+$$
+\begin{bmatrix}
+0 & 0 \\ 0 & 0
+\end{bmatrix}_{{2\times 2}}
+$$
+**Identity Matrix**: $I_{m \times m}$
+
+$$
+\begin{bmatrix}
+1  &  0 \\ 0  &  1
+\end{bmatrix}_{2 \times 2}
+$$
+
+$$
+\begin{bmatrix}
+1  &  0  &  0 \\ 0  &  1  &  0 \\ 0  &  0  &  1
+\end{bmatrix}_{3 \times 3}
+$$
+
+**Row Matrix**:
+
+$$
+\begin{bmatrix}
+1  &  2  &  0  &  5
+\end{bmatrix}_{1 \times 4}
+$$
+**Column Matrix**:
+
+$$
+\begin{bmatrix}
+3 \\ 0 \\ -1
+\end{bmatrix}_{3 \times 1}
+$$
+
