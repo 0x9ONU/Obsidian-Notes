@@ -16,6 +16,8 @@ Parmenides’ view on science can be deciphered by using six Fragments: two, thr
 
 Even though Parmenides’ argument is rather sound, there are particular shortcomings in his argument against science. 
 
+For the sake of the objection, it will focus primarily on atoms and atomic theory. In science, there is a broad understanding that all matter is comprised of small particles called atoms. Even though neutrons, protons, electrons, and quarks exist, only atoms will be considered in this example. One of Parmenides’ main concerns when it came to science is its over-reliance on 
+
 ### Response
 
 ### Defense
