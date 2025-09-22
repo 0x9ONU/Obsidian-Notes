@@ -42,6 +42,9 @@ title: Definition
 This linear system is called **homogenous** if the right hand sides constants ($b_1, b_2, \dots , b_m$ are all *zero*)
 ```
 
+```ad-example
+What are the solutions to $y = x-2)$? It would be $(x, x-2) \quad \forall \mathbb{R} \in x$
+```
 ## Solution of A System of Linear Equations
 
 ```ad-summary
@@ -52,7 +55,7 @@ A *solution* to a system of linear equations is a set of values for the variable
 A system of equations is called **inconsistent** if it has no solutions. It is called *consistent* otherwise.
 ## Solving Systems of Equations from A Graph
 
-Possible different outcomes if a system is *homogeneous*:
+Possible different outcomes of a linear system:
 1. **One Solution:** When a system of equations intersects at an ordered pair, the system has only one solution
 2. **No Solutions**: When the lines that make up a system are parallel, there are no solutions because the two lines share no points in common
 3. **Infinite Solutions**: Sometimes the two equations will graph as the same line, in which case we have an infinite number of solutions.
