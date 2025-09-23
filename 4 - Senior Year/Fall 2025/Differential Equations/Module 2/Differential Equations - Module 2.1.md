@@ -128,4 +128,10 @@ $$
 3 \\ 0 \\ -1
 \end{bmatrix}_{3 \times 1}
 $$
-## 
+## Row Elementary Matrix Operations
+
+1. Multiply a whole equation by a constant
+2. Swap rows
+3. Combine rows
+
+
