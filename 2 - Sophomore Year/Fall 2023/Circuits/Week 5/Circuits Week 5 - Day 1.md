@@ -104,5 +104,3 @@ title: Solution
 	- $V_x = 9.67V$
 ```
 
-
-
