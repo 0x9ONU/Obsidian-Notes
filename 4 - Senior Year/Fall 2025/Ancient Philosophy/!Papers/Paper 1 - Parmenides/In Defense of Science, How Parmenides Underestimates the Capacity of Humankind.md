@@ -21,5 +21,4 @@ If Parmenides was alive today and educated about modern life, he would find his 
 
 ### Defense
 
-
-
+While Parmenides’ arguments against science has a great framework, he limits his ability by rejecting the changing and moving observable world. The ideals of finding an indestructible Truth through only using the mind is a great morale to live by, it discounts the value for investigation and evidence in the real world. As described in the example of optical illusions 
