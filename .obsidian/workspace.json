@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49dc2f480bb3a7a1",
+        "id": "8c5fd2fbe7f2a3eb",
         "type": "tabs",
         "children": [
           {
-            "id": "3bfd58dd5f4da977",
+            "id": "addfb1881c5b8a4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Circuits Week 5 - Day 1"
+              "title": "New tab"
             }
           }
         ]
@@ -235,8 +231,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3bfd58dd5f4da977",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
+    "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 6/Circuits Week 6 - Day 1.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.1.md",
     "General Notes/PXL_20241011_150317191.jpg",
@@ -276,7 +273,6 @@
     "General Notes/Pasted image 20250918002453.png",
     "General Notes/Pasted image 20250918002015.png",
     "General Notes/Pasted image 20250918001331.png",
-    "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 4",
     "4 - Senior Year/Fall 2025/Environmental/Week 4",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Research",
