@@ -103,10 +103,37 @@ Recollection is defined as "finding knowledge wihin oneself"
 
 ## Is Virtue Knowledge?
 
-Afterwards, they go back to the original question: “Can virtue be taught (or recollected)?”
+Afterwards, they go back to the original question: “Can virtue be taught (or recollected)?” (86c)
 - Without knowing the definition of virtue, if it is a kind of knowledge, then, it could be taught/recollected
 - *Hypothesis*: Virtue is good (Virtue > Good).
 
 *Assumption*: Good is Beneficial (Good > Benefits)
 - But if so virtue is beneficial (virtue > benefits), since virtue is good (virtue > good)
-- Boh the qualities of the body and soul are all beneficial *only with* knowledge
+- Both the qualities of the body and soul are all beneficial *only with* knowledge
+- Everything directed by wisdom makes us happy, but those directed by ignorance will not.
+
+```ad-important
+Socrates concludes that virtue, since it is a good, must be a kind of *wisdom* (88c)
+```
+
+## Anytus
+
+```ad-question
+Why can we not find a teacher of virtue, if it is a kind of knowledge?
+```
+
+Anytus (one of the accusers mentioned in the Apology) appears and Socrates questions him about it.
+- He is offended by Socrates when he mentions that a number of prominent citizens failed to teach virtue to their sons
+- Reaction of Anytu sat 94e2 (Within a philosophical discussion of whether or not virtue can be taught, we see once again Plato inserting an apologetic element in showing how Socrates was wrongly accused)
+
+```ad-warning
+title: The Underlying Problem
+Whether or not it is possible to pass virtue (or knowledge) or receive it from another
+```
+
+## Knowledge vs. Correct Opinion
+
+Both are equally useful in guiding us or directing us to the correct action (97a-b)
+- Both always succeed
+- Knowledge;, however, is more valuable because it can be “tied down” but right opinion tends to “ran away” (97d-98a)
+- It is “tied down” when one can give an account of reason why.
