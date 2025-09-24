@@ -79,4 +79,6 @@ These observations and inferences point to the end result: **Adaptation**
 Adaptation is always *Environment-Specific*
 ```
 
-
+### Natural Selection can Have Different Outcomes
+y
+![[Pasted image 20250924104507.png]]
