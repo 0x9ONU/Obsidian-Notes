@@ -8,13 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "addfb1881c5b8a4b",
+            "id": "a23638bbd510110f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
+                "viewState": {
+                  "x": -747.5,
+                  "y": -978,
+                  "zoom": -1.9476038225463563
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Paper 1 Canvas"
             }
           }
         ]
@@ -231,7 +238,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "20fa6d1f814f2ed8",
+  "active": "a23638bbd510110f",
   "lastOpenFiles": [
     "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 6/Circuits Week 6 - Day 1.md",
