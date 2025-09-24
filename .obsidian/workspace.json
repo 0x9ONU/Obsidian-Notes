@@ -8,20 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a23638bbd510110f",
+            "id": "ed4c15ca8eb510dd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
-                "viewState": {
-                  "x": -747.5,
-                  "y": -978,
-                  "zoom": -1.9476038225463563
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Paper 1 Canvas"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -238,8 +231,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a23638bbd510110f",
+  "active": "ed4c15ca8eb510dd",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 6/Circuits Week 6 - Day 1.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.1.md",
@@ -247,7 +241,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Rubric for Parmenidies Paper.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 7.md",
@@ -273,7 +266,6 @@
     "conflict-files-obsidian-git.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes",
     "4 - Senior Year/Fall 2025/Environmental/Week 5",
-    "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
     "General Notes/Pasted image 20250918190810.png",
     "General Notes/Pasted image 20250918190707.png",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 2",
