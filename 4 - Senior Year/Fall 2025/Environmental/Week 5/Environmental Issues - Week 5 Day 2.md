@@ -80,5 +80,5 @@ Adaptation is always *Environment-Specific*
 ```
 
 ### Natural Selection can Have Different Outcomes
-y
+y`
 ![[Pasted image 20250924104507.png]]
