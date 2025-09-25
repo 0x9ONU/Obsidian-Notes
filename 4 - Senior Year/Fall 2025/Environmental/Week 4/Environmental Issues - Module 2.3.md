@@ -133,7 +133,7 @@ The variety of species in an area, which includes he measures of species *richne
 - **Richness**: The total number of different species in a community (more = better)
 - **Evenness**: The relative abundance of each species in a community (Similar numbers *across* each trophic level)
 
-![[Pasted image 20250917222935.png]]
+[p](<![[Pasted image 20250917222935.png]]>)
 
 ```ad-note
 The better diversity in an ecosystem, the more *resilient* the ecosystem becomes as a whole.
