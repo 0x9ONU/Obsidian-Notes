@@ -163,3 +163,222 @@ $$
 $$
 \boxed{x= 7; y=-2; z= 3}
 $$
+## Johnny Appleseed Example
+
+$$
+2x +y+3z=11
+$$
+$$
+x+2y+z=6
+$$
+$$
+y+2z=5
+$$
+
+$$
+\begin{bmatrix}
+2 & 1 & 3  & 11 \\ 1 & 2 & 1 & 6 \\ 0 & 1 & 2 & 5
+\end{bmatrix}(R_{1}\leftrightarrow R_{2})\begin{bmatrix}
+1 & 2 & 1 & 6 \\ 2  & 1 & 3 & 11 \\ 0 & 1 & 2 & 5
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 2 & 1 & 6 \\ 2  & 1 & 3 & 11 \\ 0 & 1 & 2 & 5
+\end{bmatrix} (-2R_{1}+R_{2}\to R_{2})\begin{bmatrix}
+1 & 2 & 1 & 6 \\ 0 & -3 & 1 & -1 \\ 0 & 1 & 2 & 5
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 2 & 1 & 6 \\ 0 & -3 & 1 & -1 \\ 0 & 1 & 2 & 5
+\end{bmatrix}(R_{2}\leftrightarrow R_{3})\begin{bmatrix}
+1 & 2 & 1 & 6 \\ 0 & 1 & 2 & 5 \\ 0 & -3 & 1 & -1
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 2 & 1 & 6 \\ 0 & 1 & 2 & 5 \\ 0 & -3 & 1 & -1
+\end{bmatrix}(3R_{2}+R_{3}\to R_{3}) \begin{bmatrix}
+1 & 2 & 1 & 6 \\ 0 & 1 & 2 & 5 \\ 0 & 0 & 7 & 14
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 2 & 1 & 6 \\ 0 & 1 & 2 & 5 \\ 0 & 0 & 7 & 9
+\end{bmatrix}(-2R_{2}+R_{1}\to R_{1}) \begin{bmatrix}
+1 & 0 & -3 & -4 \\ 0 & 1 & 2 & 5 \\ 0 & 0 & 7 & 14
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 0 & -3 & -4 \\ 0 & 1 & 2 & 5 \\ 0 & 0 & 7 & 14
+\end{bmatrix}\left( \frac{1}{7}R_{3}\to R_{3} \right)\begin{bmatrix}
+1 & 0 & -3 & -4 \\ 0 & 1 & 2 & 5 \\ 0 & 0 & 1 & 2
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 0 & -3 & -4 \\ 0 & 1 & 2 & 5 \\ 0 & 0 & 7 & 14
+\end{bmatrix}(-2R_{3}+R_{3}\to R_{3} \text{ AND } 3R_{3}+R_{1}\to R_{1}) \begin{bmatrix}
+1 & 0 & 0 & 2 \\ 0 & 1 & 0 & 1 \\ 0 & 0 & 1 & 2
+\end{bmatrix}
+$$
+$$
+x=2; y=1; z=2
+$$
+
+## Example 3
+
+$$
+x_{1}-5x_{2}+2x_{3}-7x_{4}+11x_{5}=0
+$$
+$$
+	x_{2}-13x_{3}+3x_{4}-7x_{5}=0
+$$
+$$
+x_{4}-5x_{5}=0
+$$
+$$
+\begin{bmatrix}
+1 & -5 & 2 & -7 & 11 & 0 \\ 0 & 1 & -13 & 3 & -7 & 0 \\ 0 & 0 & 0 & 1 & -5 & 0
+\end{bmatrix}(5R_{2}+R_{1}\to R_{1})\begin{bmatrix}
+1 & 0 & -63 & 8 & -24 & 0 \\ 0 & 1 & -13 & 3 & -7 & 0 \\ 0 & 0 & 0 & 1 & -5 & 0
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 0 & -63 & 8 & -24 & 0 \\ 0 & 1 & -13 & 3 & -7 & 0 \\ 0 & 0 & 0 & 1 & -5 & 0
+\end{bmatrix}(-8R_{3}+R_{1}\to R_{1} \text{ AND } -3R_{3}+R_{2}\to R_{2}) \begin{bmatrix}
+1 & 0 & -63 & 0 & 16 & 0 \\ 0 & 1 & -13 & 0 & 8 & 0 \\ 0 & 0 & 0 & 1 & -5 & 0
+\end{bmatrix}
+$$
+$$
+\text{Leading Variables: } x_{1}, x_{2}, x_{4}
+$$
+$$
+\text{Free Vairables: }x_{3},x_{5}
+$$
+$$
+\text{Suppose: } x_{3}=t, x_{5}=s \quad \forall t,s \in \mathbb{R}
+$$
+$$
+x_{4}-5x_{5}=0
+$$
+$$
+x_{4}-5s=0
+$$
+$$
+x_{4}=5s
+$$
+
+$$
+x_{2}-13x_{3}+8x_{5}=0
+$$
+$$
+x_{2}-13t+8s=0
+$$
+$$
+x_{2}=13t-8s
+$$
+
+$$
+x_{1}-63x_{3}+16x_{5}=0
+$$
+$$
+x_{1}-63t+16s=0
+$$
+$$
+x_{2}=63t-16s
+$$
+
+**Parametric Form**
+$$
+x_{1}=63t-16s
+$$
+$$
+x_{2}=13t-8s
+$$
+$$
+x_{3}=t
+$$
+$$
+x_{4}=5s
+$$
+$$
+x_{5}=s
+$$
+**Vector Form**
+
+$$
+\begin{bmatrix}
+x_{1} \\ x_{2}\\x_{3} \\ x_{4} \\ x_{5}
+\end{bmatrix}=\begin{bmatrix}
+63 \\ 13 \\0\\0\\0
+\end{bmatrix}t+\begin{bmatrix}
+-16 \\ -8 \\ 0 \\ 5 \\ 1
+\end{bmatrix}s
+$$
+$$
+\vec{x}=\vec{v}_{1}t+\vec{v}_{2}s
+$$
+## Example 4
+
+$$
+3x-y-5z=9
+$$
+$$
+y-10z=0
+$$
+$$
+-2x+y=-6
+$$
+
+$$
+\begin{bmatrix}
+3 & -1 & -5 & 9 \\ 0 &  1 & -10 & 0 \\ -2 & 1 & 0 & -6
+\end{bmatrix} \to \begin{bmatrix}
+1 & 0 & -5 & 3 \\ 0 & 1 & -10 & 0 \\ 0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\text{Leading: }x, y
+$$
+$$
+\text{Free: }z
+$$
+$$
+z=t
+$$
+
+$$
+y-10z=0
+$$
+$$
+y-10t=0
+$$
+$$
+y=10t
+$$
+
+$$
+x-5z=0
+$$
+$$
+x-5t=3
+$$
+$$
+x=5t+3
+$$
+
+$$
+\begin{bmatrix}
+x \\ y \\ z
+\end{bmatrix} = \begin{bmatrix}
+5 \\ 10 \\ 1
+\end{bmatrix}t + \begin{bmatrix}
+3 \\ 0 \\ 0
+\end{bmatrix}
+$$
+
+
