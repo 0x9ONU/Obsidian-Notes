@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e335748f0e38cb5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Environmental Issues - Module 2.3"
-            }
-          },
-          {
             "id": "07f94e3a02fdd18b",
             "type": "leaf",
             "state": {
@@ -249,12 +235,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e335748f0e38cb5a",
+  "active": "07f94e3a02fdd18b",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.3.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 5/Environmental Issues - Week 5 Day 1.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Week 4 Day 1.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 5/Environmental Issues - Week 5 Day 2.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 5/Environmental Issues - Week 5 Day 1.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.3.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 5/Ancient Philosophy - Week 5 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 5/Ancient Philosophy - Week 5 Day 1.md",
