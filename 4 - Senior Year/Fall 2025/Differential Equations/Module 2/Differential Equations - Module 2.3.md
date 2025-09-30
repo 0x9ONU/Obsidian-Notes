@@ -262,3 +262,313 @@ $$
 7 & -13 & -24 \\ 23 & -11 & 41 \\ 11 & -8 & 57
 \end{bmatrix}
 $$
+# Properties of Matrix Multiplication
+
+**Theorem**: Let $\mathbf{A}$, $\mathbf{B}$, $\mathbf{C}$ be matrices with dimensions so that that the following operations make sense, and let $k$ be a scalar. The following qualities hold:
+1. $\mathbf{A}(\mathbf{BC})=(\mathbf{AB})\mathbf{C} \quad \text{ (Associative Property)}$
+2. $\mathbf{A}(\mathbf{B+C})=\mathbf{AB}+\mathbf{AB}$ AND $(\mathbf{B}+\mathbf{C})\mathbf{A}=\mathbf{BA}+\mathbf{CA} \quad \text{(Distributive Property)}$
+3. $k(\mathbf{AB})=(k\mathbf{A})\mathbf{A}=\mathbf{A}(k\mathbf{B})$
+4. $\mathbf{AI}=\mathbf{IA}=\mathbf{A}$
+
+## Example 1
+
+```ad-question
+For the three matrices $\mathbf{A, B, C}$, veritfy the associative law by computing both sides.
+```
+
+$$
+\mathbf{A}=\begin{bmatrix}
+3 & 1 \\
+-1 & 4
+\end{bmatrix}, \mathbf{B}=\begin{bmatrix}
+2 & 5 \\
+-3 & 1
+\end{bmatrix}, \mathbf{C}=\begin{bmatrix}
+0 & 1  \\
+2 & 3
+\end{bmatrix}
+$$
+
+**Step 1**: Find $\mathbf{A}(\mathbf{BC})$
+
+$$
+\begin{bmatrix}
+3 & 1 \\
+-1 & 4
+\end{bmatrix}\left(\begin{bmatrix}
+2 & 5 \\
+-3 & 1
+\end{bmatrix}\begin{bmatrix}
+0 & 1 \\
+2 & 3
+\end{bmatrix}\right )
+$$
+$$
+\begin{bmatrix}
+3 & 1 \\
+-1 & 4
+\end{bmatrix}\begin{bmatrix}
+10 & 17 \\
+2 & 0
+\end{bmatrix}=\begin{bmatrix}
+32 & 51 \\
+-2 & -17
+\end{bmatrix}
+$$
+**Step 2**: Find $(\mathbf{AB})\mathbf{C}$
+
+$$
+\left(\begin{bmatrix}
+3 & 1 \\
+-1 & 4
+\end{bmatrix}\begin{bmatrix}
+2 & 5 \\
+-3 & 1
+\end{bmatrix}\right)\begin{bmatrix}
+0 & 1  \\
+2 & 3
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix} 
+3 & 16 \\
+-14 & -1
+\end{bmatrix}\begin{bmatrix}
+0 & 1 \\
+2 & 3
+\end{bmatrix}=\begin{bmatrix}
+32 & 51 \\
+-2 & -17
+\end{bmatrix}
+$$
+## Example 2
+
+```ad-question
+Prove that $\mathbf{AI}=\mathbf{IA}=\mathbf{A} \quad \forall A_{n \times n}, I_{n \times n}, n \in \mathbb{Z}$
+```
+
+**Suppose**
+$$
+\mathbf{A}=\begin{bmatrix}
+a_{11} & a_{12} & \dots & a_{1n} \\
+a_{21} & a_{22} & \dots & a_{2n} \\ 
+\vdots & \vdots & \ddots & \vdots \\
+a_{n1} & a_{{n2}} & \dots & a_{nn}
+\end{bmatrix}, \mathbf{I}=\begin{bmatrix}
+1 & 0 & \dots & 0 \\
+0 & 1 & \dots & 0 \\
+\vdots & \vdots & \ddots & \vdots \\
+0 & 0 & \dots  & 0
+\end{bmatrix}
+$$
+$$
+\mathbf{AI}= \begin{bmatrix}
+a_{11} & a_{12} & \dots & a_{1n} \\
+a_{21} & a_{22} & \dots & a_{2n} \\ 
+\vdots & \vdots & \ddots & \vdots \\
+a_{n1} & a_{{n2}} & \dots & a_{nn}
+\end{bmatrix} = \mathbf{A}
+$$
+$$
+\mathbf{IA}= \begin{bmatrix}
+a_{11} & a_{12} & \dots & a_{1n} \\
+a_{21} & a_{22} & \dots & a_{2n} \\ 
+\vdots & \vdots & \ddots & \vdots \\
+a_{n1} & a_{{n2}} & \dots & a_{nn}
+\end{bmatrix} = \mathbf{A}
+$$
+# Write Homogeneous System in the Matrix Form $\mathbf{Ax}=\mathbf{0}$, then Find the Solution in Vector Form
+
+$$
+
+\mathbf{A}=\begin{bmatrix}
+a_{11} & a_{12} & \dots & a_{1n} \\
+a_{21} & a_{22} & \dots & a_{2n} \\ 
+\vdots & \vdots & \ddots & \vdots \\
+a_{m1} & a_{{m2}} & \dots & a_{mn}
+\end{bmatrix} \begin{bmatrix}
+x_{1} \\
+x_{2} \\
+\vdots \\
+x_{m}
+\end{bmatrix}=\begin{bmatrix}
+0 \\
+0 \\
+\vdots  \\
+0
+\end{bmatrix}
+$$
+
+## Example 1
+
+```ad-question
+The coefficent matrix for a homogeneous linear system is given. Find one nontrivial solution (not all variables equal to zero) of the associated system if possible. Assume the vairables of this system are $p_1$ and $p_2$ and their coefficients appear in that order in the matrix.
+```
+
+$$
+\begin{bmatrix}
+- 5& 5 \\
+0 & 0
+\end{bmatrix}
+$$
+$$
+-\frac{1}{5}R_{1}\Rightarrow
+\begin{bmatrix}
+1 & -1 \\
+0 & 0
+\end{bmatrix}
+$$
+$$
+\text{Leading}: p_{1}
+$$
+$$
+\text{Free}: p_{2}
+$$
+$$
+p_{2}=t
+$$
+$$
+\begin{bmatrix}
+1 & -1 \\
+0 & 0
+\end{bmatrix}\begin{bmatrix}
+p_{1} \\
+p_{2}
+\end{bmatrix}
+= \begin{bmatrix}
+0  \\
+0
+\end{bmatrix}
+$$
+$$
+p_{1}-p_{2}=0
+$$
+$$
+p_{1}=p_{2}=t
+$$
+$$
+(t,t)
+$$
+*Vector Form*:
+$$
+\begin{bmatrix}
+p_{1} \\
+p_{2}
+\end{bmatrix} = \begin{bmatrix}
+t \\
+t
+\end{bmatrix} = t\begin{bmatrix}
+1 \\
+1
+\end{bmatrix}
+$$
+## Example 2
+
+$$
+\begin{bmatrix}
+1 & 0 & 9 & -4 & -1 \\
+0 & 1 & -7 & -7 & -5
+\end{bmatrix}
+$$
+
+$$
+\text{Leading}: p_{1}, p_{2}
+$$
+$$
+\text{Free}: p_{3},p_{4},p_{5}
+$$
+
+$$
+p_{3}=r; p_{4}=s; p_{5}=t
+$$
+$$
+\begin{bmatrix}
+1 & 0 & 9 & -4 & -1 \\
+0 & 1 & -7 & -7 & -5
+\end{bmatrix} \begin{bmatrix}
+p_{1} \\
+p_{2} \\
+p_{3} \\
+p_{4} \\
+p_{5}
+\end{bmatrix}=\begin{bmatrix}
+0 \\
+0 \\
+0 \\
+0 \\
+0
+\end{bmatrix}
+$$
+$$
+p_{2}-7p_{3}-7p_{4}-5p_{5}=0
+$$
+$$
+p_{2}-7r-7s-5t=0
+$$
+$$
+p_{2}=7r+7s+5t
+$$
+
+$$
+p_{1}+9p_{3}-4p_{4}-p_{5}=0
+$$
+$$
+p_{1}+9r-4s-t=0
+$$
+$$
+p_{1}=-9r+4s+t
+$$
+*Vector Form*
+$$
+\begin{bmatrix}
+p_{1} \\
+p_{2} \\
+p_{3} \\
+p_{4} \\
+p_{5}
+\end{bmatrix} = \begin{bmatrix}
+-9r+4s+t \\
+7r+7s+5t \\
+r \\
+s \\
+t
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+p_{1} \\
+p_{2} \\
+p_{3} \\
+p_{4} \\
+p_{5}
+\end{bmatrix} = \begin{bmatrix}
+-9 \\
+7 \\
+1 \\
+0 \\
+0
+\end{bmatrix}r+\begin{bmatrix}
+4 \\
+7 \\
+0 \\
+1 \\
+0
+\end{bmatrix}s+\begin{bmatrix}
+1 \\
+5 \\
+0 \\
+0 \\
+1
+\end{bmatrix}t
+$$
+
+
+
+
+
+
+
+
+
+
+
