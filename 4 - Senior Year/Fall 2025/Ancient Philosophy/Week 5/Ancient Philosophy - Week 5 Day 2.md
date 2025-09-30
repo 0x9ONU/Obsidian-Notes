@@ -190,3 +190,28 @@ Opposites do no come form each other; rather, a thing admits of opposites. (ex. 
 **$\therefore$ The soul is immortal**
 
 
+## Swan Song
+
+Plato recognizes the shortcomings of his argument:
+- He is fully aware that his argument depends entirely on the Forms, but his argument would fall apart if Forms were debunked
+
+```ad-quote
+title: Plato's Phaedo 107b
+Certainly, said Simmias, I myself have no remaining grounds for doubt after what has been said; nevertheless, in view of the importance b of our subject and my low opinion of human weakness, I am bound still to have some private misgivings about what we have said. You are not only right to say this, Simmias, Socrates said, but our first hypotheses require clearer examination, even though we find them convincing. And if you analyze them adequately, you will, I think, follow the argument as far as a man can, and if the conclusion is clear, you will look no further. — That is true.
+```
+
+“We should drive away our fear of death by incantation”
+- He addresses the fear of death
+- We can sing it and charm away our fear by examining our soul
+
+```ad-quote
+title: Plato's Paedo 114d
+No sensible man would insist that these things are as I have described them, but I think it is fitting for a man to risk the belief—for the risk is a noble one—that this, or something like this, is true about our souls and their dwelling places, since the soul is evidently immortal, and a man should repeat this to himself as if it were an incantation
+```
+
+```ad-quote
+title: 77e-78a
+Cebes laughed and said: Assuming that we were afraid, Socrates, try to change our minds, or rather do not assume that we are afraid, but perhaps there is a child in us who has these fears; try to persuade him not to fear death like a bogey. You should, said Socrates, sing a charm over him every day until you have charmed away his fears. Where shall we find a good charmer for these fears, Socrates, he said, now that you are leaving us? Greece is a large country, Cebes, he said, and there are good men in it; the tribes of foreigners are also numerous. You should search for such a charmer among them all, sparing neither trouble nor expense, for there is nothing on which you could spend your money to greater advantage. You must also search among yourselves, for you might not easily find people who could do this better than yourselves.
+```
+
+*Phaedo* is Socrates’s swan song, which was written by Plato (who is his intellectual heir)
