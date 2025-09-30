@@ -148,7 +148,7 @@ A thorough investigation of the cause (*AITION*) of generation and destruction i
 Plato thinks that a material explanation is deficient.
 - It cannot adequately explain why Socrates in sitting in jail right now when he had the chance to escape.
 - This is regardless of the fact he is made of flesh and bone
-- It cannot explain math, such as $1 + 1 = 2$; that is, the unified notion of Twoness cannot be explained. Thabandonedey participate in a twoness when they are added together.
+- It cannot explain math, such as $1 + 1 = 2$; that is, the unified notion of Twoness cannot be explained. Abandonment participate in a twoness when they are added together.
 
 ```ad-note
 It cannot epxlain relaitonal notion, such as Tallness and Shortness. Simmias is taller than Socrates by a head but Simmias is shorter than Cebes by a head. Material explanaiton again is deficient ine xplaining how the differences in terms of "a head" account for tallness and shortness.
@@ -156,8 +156,37 @@ It cannot epxlain relaitonal notion, such as Tallness and Shortness. Simmias is 
 
 He says that he has **abandoned** scientific inquiry.
 
+## A Hypothesis: Above Material Causes
+
 ```ad-quote
 title: Phaedo 100b
 This, he said, is what I mean. It is nothing new, but what I have b never stopped talking about, both elsewhere and in the earlier part of our conversation. I am going to try to show you the kind of cause with which I have concerned myself. I turn back to those oft-mentioned things and proceed from them. I assume the existence of a Beautiful, itself by itself, of a Good and a Great and all the rest. If you grant me these and agree that they exist, I hope to show you the cause as a result, and to find the soul to be immortal.
 ```
+
+- Socrates decided to stay in jail when he had a chance to escape because he believes that it as a good thing to do.
+- $1+1=2$ not because you bring two objects together, but because they participate in the Form of Twoness.
+
+## Forms
+
+The *nature* of the Forms:
+1. Some Forms exclude each other  (ex. Tallness and Shortness)
+2. A thing can partake of one Form at a time (i.e. they are constraint by laws of logic). If so, one of the Forms retreat and get out of the way or perish.
+
+Opposites do no come form each other; rather, a thing admits of opposites. (ex. Hot does not become Cold (and vice versa) but rather Hot things become Cold things).
+- In addition, there are certain qualities that do not admit of the contrary
+
+## Refutation of Cebes
+
+- Fire then makes a body Hot (and never Cold)
+- Fever makes a body Ill (never Health)
+- One makes a body Odd (and never Even)
+
+- Similarly, Soul makes a body Living (and never Death)
+- The soul then always admits of life and never its opposite (death)
+- If so, the soul is *deathless*
+- If so, it is indestructible
+- If so, it cannot perish (and hence it retreats or goes away).
+
+**$\therefore$ The soul is immortal**
+
 
