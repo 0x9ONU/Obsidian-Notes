@@ -33,7 +33,7 @@ d & -b \\
 -c & a
 \end{bmatrix}
 $$
-## Example 1
+## Example 1: $2 \times 2$ Inverse
 
 ```ad-question
 Find the inverse of the matrix below
@@ -71,6 +71,28 @@ $$
 -\frac{1}{5} & \frac{2}{5}
 \end{bmatrix}
 $$
+$$
+= \begin{bmatrix}
+0 & 1 \\
+1 & 0
+\end{bmatrix}
+$$
+## Example 2: $n\times n$ Inverse
 
+Setup: $[\mathbf{AI}]_{n \times n}$
 
+Do Elementary Row Operations: $[\mathbf{I}\mathbf{A}^{-1}]$
+
+$$
+\mathbf{AI} = \begin{bmatrix}
+2 & 3 & 1 & 0 \\
+1 & 4 & 0 & 1
+\end{bmatrix}
+$$
+$$
+\Rightarrow R_{2} \leftrightarrow R_{1} \begin{bmatrix}
+1 & 4 & 0 & 1 \\
+2 & 3 & 1 & 0
+\end{bmatrix} \rightarrow -2R_{1}+R_{2 \roght}
+$$
 
