@@ -150,7 +150,14 @@ $$
 $$
 $$
 -\frac{7}{2}R_{2}+R_{1}\to R_{1} \begin{bmatrix}
-1 & 0 & 7 & 
+1 & 0 & 7 & 18 \\
+0 & 1 & -2 & -5
+\end{bmatrix}
+$$
+$$
+\mathbf{A}^{-1} = \begin{bmatrix}
+7 & 18 \\
+-2 & -5
 \end{bmatrix}
 $$
 ## Example 4: Find the Following Inverse
@@ -163,6 +170,37 @@ $$
 \end{bmatrix}
 $$
 $$
-
+\mathbf{AI} = \begin{bmatrix}
+-1 & 3 & -8 & 1 & 0 & 0 \\
+0 & 1 & -1 & 0 & 1 & 0 \\
+0 & 0 & 1 & 0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+-R_{1}\to R_{1} \begin{bmatrix}
+1 & -3 & 8 & -1 & 0 & 0 \\
+0 & 1 & -1 & 0 & 1 & 0 \\
+0 & 0 & 1 & 0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+3R_{2}+R_{1}\to R_{1} \begin{bmatrix}
+1 & 0 & 5 & -1 & -3 & 0 \\
+0 & 1 & -1 & 0 & 1 & 0 \\
+0 & 0 & 1 & 0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+-5R_{3} +R_{1} \to R_{1} \begin{bmatrix}
+1 & 0 & 0 & -1 & -3 & -5 \\
+0 & 1 & -1 & 0 & 1 & 0 \\
+0 & 0 & 1 & 0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+-1R_{3}+R_{2}\to R_{2} \begin{bmatrix}
+1 & 0 & 0 & -1 & -3 & -5 \\
+0 & 1
+\end{bmatrix}
 $$
 
