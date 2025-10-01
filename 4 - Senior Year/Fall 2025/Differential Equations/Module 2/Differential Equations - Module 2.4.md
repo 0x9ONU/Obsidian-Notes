@@ -198,9 +198,18 @@ $$
 \end{bmatrix}
 $$
 $$
--1R_{3}+R_{2}\to R_{2} \begin{bmatrix}
+R_{3}+R_{2}\to R_{2} \begin{bmatrix}
 1 & 0 & 0 & -1 & -3 & -5 \\
-0 & 1
+0 & 1 & 0 & 0 & 1 & 1 \\
+0 & 0 & 1 & 0 & 0 & 1
 \end{bmatrix}
 $$
+$$
+\mathbf{A}^{-1}=\begin{bmatrix}
+-1 & -3 & -5 \\
+0 & 1 & 1 \\
+0 & 0 & 1
+\end{bmatrix}
+$$
+
 
