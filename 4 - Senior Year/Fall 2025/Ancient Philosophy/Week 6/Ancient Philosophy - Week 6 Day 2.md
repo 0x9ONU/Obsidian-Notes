@@ -1,0 +1,117 @@
+Date: 2nd October 2025
+Date Modified: 2nd October 2025
+File Folder: Week 6
+#ancient_philosophy
+
+```ad-abstract
+title: Today's Topics
+collapse: open
+
+- Republic Book II
+- Republic Book III
+
+```
+
+# Republic Book I Top-Down View
+
+The discussion between Socrates and Thrasymachus ends in an *aporia* for reason. Thrasymachus is not interested in truth; his goal is to **outdo** Socrates. Thrasymachus is compared to a wild beast, a lion and a snake (336b, 341c, 358b); these are the images that Plato will later use to describe the lower parts of our soul.
+
+Book I is a conversation between the just and the unjust and how they behave and conduct themselves in their exchange of ideas. It is a dramatic presentation of the difference between the just person (Socrates) and the unjust person (Thrasymachus).
+
+A more constructive discussion ensures when Socrates is examining a topic with those who are interested in seeking the truth, as is the case with his discourse with Glaucon and Adeimatus (the brothers of Plato) in the rest of the *Republic*
+
+# Republic Book II
+
+## Glaucon’s Account
+
+There are **three** kinds of good:
+1. **Intrinsic Good**: For its own sake
+2. **Instrumental Good**: For the sake of what comes form it
+3. **Instrumental Good and Intrinsic Good**: For its own sake and for sake of what comes from it
+
+```ad-example
+1. Joy
+2. Knowing, seeing, being healthy
+3. Physical rianing, Medical Treatment, Money Making
+```
+
+```ad-question
+What kind of good is justice?
+```
+
+*Socrates* believes that it is Instrumental Good *and* Intrinsic Good
+- However, many believe that it is just **instrumental good**
+
+Glaucon asks Socrates to *define* the nature of justice and injustice, to explain the power in the soul (that is, the effect it has on the soul), and to defend justice *without* looking at its rewards.
+
+### The Origin of Justice
+
+Glaucon’s Common Conception about Justice:
+1. The nature and the origin of justice
+2. It is something that is necessary but not something that is worthwhile in itself
+3. Injustice *pays*
+
+### Answer 1: Laws and Justice
+
+To do unjust act is naturally good; but to suffer it is bad. The badness of suffering injustice far exceeds the goodness that results form doing unjust acts. 
+- Generally speaking, people lack *the power* to do unjust acts without impunity.
+- It is, therefore, profitable for people to come to an agreement: not to commit any unjust deeds to one another.
+- Hence, they make *laws*, which are called just
+
+```ad-quote
+title: 359a
+They say that to do injustice is naturally good and to suffer injustice bad, but that the badness of suffering it so far exceeds the goodness of doing it that those who have done and suffered injustice and tasted both, but who lack the power to do it and avoid suffering it, decide that it is profitable to come to an agreement with each other neither to do injustice nor to suffer it.
+```
+
+```ad-summary
+Justice is, then, regarded as an intermediate between what is naturally good and bad; it is a compromise between two extremes.
+```
+
+### Answer 2: The Ring of Gyges
+
+People perform unjust acts unwillingly, because they are unable to get away with committing unjust deeds.
+- Suppose we were to grant both a just and unjust person a power to do whatever they liked or desired; it is the view that many that both of them would end up committing unjust deeds. This thought experiment is illustrated by the story of the Ring of Gyges
+
+```ad-quote
+title: Ring of Gyges [359d]
+The freedom I mentioned would be most easily realized if both people had the power they say the ancestor of Gyges of Lydia possessed. The story goes that he was a shepherd in the service of the ruler of Lydia. d There was a violent thunderstorm, and an earthquake broke open the ground and created a chasm at the place where he was tending his sheep. Seeing this, he was filled with amazement and went down into it. And there, in addition to many other wonders of which we’re told, he saw a hollow bronze horse. There were windowlike openings in it, and, peeping in, he saw a corpse, which seemed to be ofmore than human size, wearing nothing but a gold ring on its finger. He took the ring and came out of e the chasm. He wore the ring at the usual monthly meeting that reported to the king on the state of the flocks. And as he was sitting among the others, he happened to turn the setting ofthe ring towards himself to the inside of his hand. When he did this, he became invisible to those sitting near him, and they went on talking as if he had gone. He wondered at 360 this, and, fingering the ring, he turned the setting outwards again and became visible. So he experimented with the ring to test whether it indeed had this power—and it did. If he turned the setting inward, he became invisible; if he turned it outward, he became visible again. When he realized this, he at once arranged to become one of the messengers sent to report to the king. And when he arrived there, he seduced the king’s wife, attacked the king with her help, killed him, and took over the kingdom.
+```
+
+Suppose we have two such rings:
+- You give one of them to a just person
+- The other one to an unjust person
+
+**A majority view is that both will end up performing the same kind of actions**
+- If one has the power to steal from, kill, and r\*pe anyone you want without impunity, they would do it.
+
+### Answer 3: The Value of the Appearance of Justice
+
+Suppose we are to imagine the most just and the most unjust person living their respective life in its fullest [360e-351d1]
+
+```ad-quote
+title: 360e-351d1
+As for the choice between the lives we’re discussing, we’ll be able to e make a correct judgment about that only if we separate the most just and the most unjust. Otherwise we won’t be able to do it. Here’s the separation I have in mind. We’ll subtract nothing from the injustice of an unjust person and nothing from the justice of a just one, but we’ll take each to be complete in his own way of life. First, therefore, we must suppose that an unjust person will act as clever craftsmen do: A first-rate captain or 361 doctor, for example, knows the difference between what his craft can and can’t do. He attempts the first but lets the second go by, and if he happens to slip, he can put things right. In the same way, an unjust person’s successful attempts at injustice must remain undetected, if he is to be fully unjust. Anyone who is caught should be thought inept, for the extreme of injustice is to be believed to be just without being just. And our completely unjust person must be given complete injustice; nothing may be subtracted from it. We must allow that, while doing the greatest injustice, he has nonetheless provided himself with the greatest reputation for justice. If b he happens to make a slip, he must be able to putit right. Ifany ofhis unjust activities should be discovered, he, must be able to speak persuasively or to use force. And ifforce is needed, he must have the help of courage and strength and of the substantial wealth and friends with which he has provided himself. Having hypothesized such a person, let’s now in our argument put beside him a just man, who is simple and noble and who, as Aeschylus says, doesn’t want to be believed to be good but to be so.3 We must take away his reputation, for a reputation for justice would bring him honor c and rewards, so that it wouldn’t be clear whether he is just for the sake of justice itself or for the sake of those honors and rewards. We must strip him of everything except justice and make his situation the opposite of an unjust person’s. Though he does no injustice, he must have the greatest reputation for it, so that his justice may be tested full-strength and not diluted by wrong-doing and what comes from it. Let him stay like that unchanged until he dies—just, but all his life believed to be unjust. In this d way, both will reach the extremes, the one of justice and the other of injustice, and we’ll be able to judge which of them is happier
+```
+
+The most unjust person will be the noblest person, but will *not* enjoy any reputation for justice (it will take away any rewards and honor)
+- He will suffer the notoriety of being the most unjust person.
+- The most unjust person will be very clever and will get away with everything
+- He will enjoy the reputation of being the most just person
+- Both will live their respective lives until they die. [361e]
+
+```ad-quote
+title: 361e
+I do the best I can, he replied. Since the two are as I’ve described, in any case, it shouldn’t be difficult to complete the account of the kind of life that awaits each ofthem, but it must be done. And ifwhat I say sounds crude, Socrates, remember that it isn’t I who speak but those who praise e injustice at the expense of justice. They’ll say that a just person in such circumstances will be whipped, stretched on a rack, chained, blinded with fire, and, at the end, when he has suffered every kind of evil, he’ll be impaled, and will realize then that one shouldn’t want to be just but to be believed to be just. Indeed, Aeschylus’ words are far more correctly applied 362 to unjust people than to just ones, for the supporters of injustice will say that a really unjust person, having a way of life based on the truth about things and not living in accordance with opinion, doesn’t want simply to be believed to be unjust but actually to be so—
+```
+
+```ad-important
+It is the view of many that what is important is **NOT** to be just, but believed to *be* just (the appearance of being just is more important than actually being just).
+```
+
+Adimantus, then, brings into their conversations about gods that could affect our actions; he wants to set aside gods from Socrates's account: that is, to praise justice whether or not it remains hidden from gods [367e]
+
+```ad-quote
+title: 367e
+Don’t, then, give us only a theoretical argument thatjustice is stronger than injustice, but show what effect each has because of itself on the person who has it—the one for good and the other for bad—whether it remains hidden from gods and human beings or not.
+```
+
