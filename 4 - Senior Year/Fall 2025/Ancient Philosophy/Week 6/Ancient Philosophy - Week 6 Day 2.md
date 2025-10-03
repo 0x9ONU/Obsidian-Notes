@@ -115,3 +115,28 @@ title: 367e
 Don’t, then, give us only a theoretical argument thatjustice is stronger than injustice, but show what effect each has because of itself on the person who has it—the one for good and the other for bad—whether it remains hidden from gods and human beings or not.
 ```
 
+## Justice and Intrinsic Value
+
+### The Method of Investigation
+
+Socrates suggests a certain method of investigation to discover the nature of justice (368c-369a). Justice occurs both in an individual and in a city in the same way.
+- Based on this assumption, Socrates first examines a city (since it is easier to discover the nature of justice by looking at a larger canvas)
+
+```ad-quote
+title: 368c-369a
+The investigation we’re undertaking is not an easy one but requires keen eye¬ sight. Therefore, since we aren’t clever people, we should adopt the d method of investigation that we’d use if, lacking keen eyesight, we were told to read small letters from a distance and then noticed that the same letters existed elsewhere in a larger size and on a larger surface. We’d con¬ sider it a godsend, I think, to be allowed to read the larger ones first and then to examine the smaller ones, to see whether they really are the same. That’s certainly true, said Adeimantus, but how is this case similar to our investigation of justice? e I’ll tell you. We say, don’t we, that there is the justice of a single man and also the justice of a whole city? Certainly. And a city is larger than a single man? It is larger. Perhaps, then, there is more justice in the larger thing, and it will be easier to learn what it is. So, ifyou’re willing, let’s first find out what sort of thing justice is in a city and afterwards look for it in the individual, 369 observing the ways in which the smaller is similar to the larger.
+```
+
+Does Plato commit a **fallacy of division**? That depends on whether or not the word justice is a univocal term (term is used in only one sense) or an equivocal term (term i used in more than one sense). See (434d-435b), where Plato refers to “the same form of justice”.
+
+![[Ancient Philosophy - Week 6 Day 2 2025-10-02 10.38.27.excalidraw | center]]
+
+```ad-note
+The method is not exact; rather it is a "mere sketch". The exact and complete account would require one to study the most important subject.
+```
+
+
+
+
+
+
