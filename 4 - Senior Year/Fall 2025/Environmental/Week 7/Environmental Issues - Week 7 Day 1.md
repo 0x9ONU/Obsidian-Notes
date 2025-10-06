@@ -80,6 +80,15 @@ There has been an increase in **ivory** demand throughout Asia
 	- The MOST important
 2. Invasive Species
 	- Transferred where they do NOT occur naturally
-	- Ex. Lake Victoria in Africa has a ton of different fish
-		- Nile perch were intorduced into Lake Victoria
-		- Destroyed 
+	- Ex. Lake Victoria in Africa has a ton of different small native fish
+		- Nile perch were introduced into Lake Victoria
+		- Destroyed all the natural fish
+	- Ex. Great Lakes
+		- Zebra Muscles colonize on everything, including other native clams. They also cause a lot of economic damage by going into pipes and boats
+		- Sea-lamp Cray: A parasitic species that attach to and feed on fish
+		- Caused by ballast water moving a ton of species from one place to another
+	- Ex. Kudzu Vines in the SE U.S.
+		- Introduced to prevent erosion, but it covers everything
+3. Over-exploitation
+	- Excessive harvesting of some resource
+	- Ex. Whaling Industry
