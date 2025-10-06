@@ -104,4 +104,32 @@ The main threats to biodiversity stem from human activities
 
 ## How to Counteract Biodiversity
 
-### IUCN: 
+### IUCN: The “Red List”
+
+The International Union for the Conservation of Nature (IUCN) made a list
+- 811 Extinct
+- 63 Extinct in the wild
+- 3,947 critically endangered
+- 5,766 Endangered
+- 10,04 Vulnerable
+- 4,467 Near threatened
+
+```ad-warning
+There are a lot of species missing from this system. We must look towards other publishers and need to find out more about other species.
+```
+
+![[Pasted image 20251006103405.png]]
+
+## Single-Species Conservation Approaches
+
+**Flagship Species**
+- Can be saved using:
+	1. Captive Breeding Programs
+	2. Field Conservation Work
+	3. Reintroduction Programs
+- Examples:
+	1. Giant Pandas
+	2. Gray Wolves
+	3. Brown Pelicans
+	4. Bald Eagles
+
