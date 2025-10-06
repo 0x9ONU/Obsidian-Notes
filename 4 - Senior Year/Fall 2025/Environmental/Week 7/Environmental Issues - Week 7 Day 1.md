@@ -68,3 +68,12 @@ There has been an increase in **ivory** demand throughout Asia
 - Seen as a status symbol
 - A large growing middle class lead to people being able to afford ivory for the first time
 
+![[Pasted image 20251006101700.png | center]]
+
+## Top Threats to Biodiversity
+
+1. Habitat Destruction/Fragmentation
+	- Ex. Swamps can be destroyed for farming, but it is very critical at buffering storms
+	- Ex. Fishermen can explode the coral reef to pick up 
+	- Ex. Trawling
+2. 
