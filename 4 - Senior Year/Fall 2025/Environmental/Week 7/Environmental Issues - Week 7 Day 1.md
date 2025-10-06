@@ -13,5 +13,27 @@ collapse: open
 
 ```
 
+# Module 3.3: Preserving Biodiversity
+
+## Conservation Biology
+
+```ad-summary
+title: Definition
+The science concerned wih preserving biodiversity
+- Highly interdisciplinary *unlike* ecology
+	- Social sciences
+	- Economics
+	- ex. We have to be aware of people who are living in the area, not just the environment
+```
+
+## Species Go Extinct
+
+Species go extinct regularly regardless of human/environmental intervention
+
+## Case Study: African Elephants
+
+
+
+
 
 
