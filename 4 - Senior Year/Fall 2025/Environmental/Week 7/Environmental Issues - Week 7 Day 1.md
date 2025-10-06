@@ -74,6 +74,12 @@ There has been an increase in **ivory** demand throughout Asia
 
 1. Habitat Destruction/Fragmentation
 	- Ex. Swamps can be destroyed for farming, but it is very critical at buffering storms
-	- Ex. Fishermen can explode the coral reef to pick up 
-	- Ex. Trawling
-2. 
+	- Ex. Fishermen can explode the coral reef to pick up the remaining species
+	- Ex. Trawling: Literally scrapping the bottom floor to find just one species
+		- Leads to a lot of *bycatch*
+	- The MOST important
+2. Invasive Species
+	- Transferred where they do NOT occur naturally
+	- Ex. Lake Victoria in Africa has a ton of different fish
+		- Nile perch were intorduced into Lake Victoria
+		- Destroyed 
