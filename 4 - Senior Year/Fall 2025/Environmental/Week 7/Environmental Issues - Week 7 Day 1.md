@@ -152,4 +152,11 @@ Focus on protecting the habitat and all species within it
 
 **Types of Ecosystem Conservation**
 1. Landscape conservation
-	- Find a single area where a lot 
+	- Find a suite of indicator species to take advantage of it
+	- ex. the Congo has chimpanzees, forest elephants, and gorillas that need specific ecosystems to live
+2. Ecosystem Restoration
+	- Ex. Restore the “windiness” to the rivers
+	- Often deals with **remediation**: 
+		- **Bio-remediation**: Using living organisms to clean up an area
+3. 
+
