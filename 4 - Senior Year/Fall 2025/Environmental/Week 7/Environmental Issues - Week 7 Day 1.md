@@ -92,3 +92,16 @@ There has been an increase in **ivory** demand throughout Asia
 3. Over-exploitation
 	- Excessive harvesting of some resource
 	- Ex. Whaling Industry
+	- Ex. Cod Fisheries
+4. Pollution
+	- Ex. Pesticides Harming Mekong River Dolphins
+5. Climate Change
+	- Certain areas of the globe are being impacted much more than others
+
+```ad-important
+The main threats to biodiversity stem from human activities
+```
+
+## How to Counteract Biodiversity
+
+### IUCN: 
