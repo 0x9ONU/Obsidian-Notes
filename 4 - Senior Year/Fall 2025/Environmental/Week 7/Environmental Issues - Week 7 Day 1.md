@@ -49,5 +49,22 @@ They are a *keystone species*:
 
 ```mermaid
 flowchart LR
-
+A(1930s: 5-10 million)-->B(1989: 1.3 million)-->C(2007: <690,000)-->D(2018: 415,000)
 ```
+
+```ad-warning
+title: The Main Cause
+Elephant Poaching rates have been increasing beyond what was ever imaginable
+- ~40,000 elephants per year
+- Gotten worse due to poachers using mining access roads
+- If poaching is $>50\%$, the population will decline
+```
+
+![[Pasted image 20251006101351.png]]
+
+### Why Do They Poach?
+
+There has been an increase in **ivory** demand throughout Asia
+- Seen as a status symbol
+- A large growing middle class lead to people being able to afford ivory for the first time
+
