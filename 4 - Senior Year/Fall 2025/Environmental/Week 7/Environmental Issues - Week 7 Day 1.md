@@ -120,7 +120,7 @@ There are a lot of species missing from this system. We must look towards other 
 
 ![[Pasted image 20251006103405.png]]
 
-## Single-Species Conservation Approaches
+### Single-Species Conservation Approaches
 
 **Flagship Species**
 - Can be saved using:
@@ -133,3 +133,23 @@ There are a lot of species missing from this system. We must look towards other 
 	3. Brown Pelicans
 	4. Bald Eagles
 
+**Species Survival Plans (SSPs)**
+- Utilized by places like Zoos to learn what is going on about a population
+- Ex. Red Wolf
+- Bring different individuals from different zoos to get their population up before they are released back into the wild
+
+![[Pasted image 20251006104010.png]]
+
+```ad-warning
+title: Problem with the Approach
+It focuses on one species and makes it difficult for people to care about less "appealing" species.
+```
+
+### Ecosystem Conservation
+
+Focus on protecting the habitat and all species within it
+ - Ex. The Natural Park Program
+
+**Types of Ecosystem Conservation**
+1. Landscape conservation
+	- Find a single area where a lot 
