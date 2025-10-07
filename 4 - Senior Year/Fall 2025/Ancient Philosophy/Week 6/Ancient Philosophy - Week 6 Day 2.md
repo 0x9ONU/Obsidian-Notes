@@ -135,9 +135,90 @@ Does Plato commit a **fallacy of division**? That depends on whether or not the 
 The method is not exact; rather it is a "mere sketch". The exact and complete account would require one to study the most important subject.
 ```
 
+```ad-warning
+We are going to remove a devine power because it allows the just person to have an instrumental value by being "saved" by a god.
+```
 
+### Construction of an Ideal City
 
+Why does a city exist? It is because **none of us is self-sufficient.**
+- There are many things we need that are provided by living with a group of people. So, city reflects our needs nad our needs are refelcted in eh city.
+- What do we need?
+	- Food
+	- Shelter
+	- Clohes
+	- People who provide them (farmers, builders, weavers, etc.)
 
+Since each of us differ in nature, it si beter fo reach of us to speicalize; each person does one thing for which he is anturally suited for.
+- If so, we need carpenters, metal workers, cowherds, shepareds, etc.
+- We also need to import and export goods, so we need merchants, sails
+- We also need retialers and wage earners to sell and buy goods in a market place.
 
+```ad-quote
+title: 372a-d
+You may be right, but we must look into it and not grow weary. First, then, let’s see what sort of life our citizens will lead when they’ve been provided for in the way we have been describing. They’ll produce bread, wine, clothes, and shoes, won’t they? They’ll build houses, work naked and barefoot in the summer, and wear adequate clothing and shoes in the b winter. For food, they’ll knead and cook the flour and meal they’ve made from wheat and barley. They’ll put their honest cakes and loaves on reeds or clean leaves, and, reclining on beds strewn with yew and myrtle, they’ll feast with their children, drink their wine, and, crowned with wreaths, hymn the gods. They’ll enjoy sex with one another but bear no more children than their resources allow, lest they fall into either poverty or war. c Itseems that you make your people feastwithout any delicacies, Glaucon interrupted. True enough, I said, I was forgetting that they’ll obviously need salt, olives, cheese, boiled roots, and vegetables of the sort they cook in the country. We’ll give them desserts, too, of course, consisting of figs, chickpeas, and beans, and they’ll roast myrtle and acorns before the fire,15 drinking moderately. And so they’ll live in peace and good health, and d when they die at a ripe old age, they’ll bequeath a similar life to their children.
+```
 
+```ad-warning
+However, it is criticized as a city of pigs by Glaceon:
+
+"If you were founding a city for pigs, Socrates, he replied, wouldn’t you fatten them on the same diet?"
+```
+
+### Luxurious City
+
+A good idea to construct a luxurious city, since we can now discover both justice and injustice better
+- This city will be eventually “purified” by appropriate education (399e)
+- More lands and competition with other cities will inevitably result in war (373d5-e5)
+- So, we need a *professional army or guardian*.
+
+```ad-quote
+title: 373d5-e5
+Then we’ll have to seize some of our neighbors’ land if we’re to have enough pasture and ploughland. And won’t our neighbors want to seize part of ours as well, ifthey too have surrendered themselves to the endless acquisition of money and have overstepped the limit of their necessities? e That’s completely inevitable, Socrates. Then our next step will be war, Glaucon, won’t it? It will. We won’t say yet whether the effects of war are good or bad but only that we’ve now found the origins ofwar. It comes from those same desires that are most of all responsible for the bad things that happen to cities and the individuals in them.
+```
+
+They must be courageous and spirited but at the same time must be gentle to their own people. We, therefore, need to educate them properly:
+- Physical training
+- Music and poetry for the soul
+
+**The role of poetry in education:**
+- Youths are impressionable, so we need to sensor them (especially about bad images of gods and heroes)
+- Most stories about them must be thrown out 
+- Socrates discusses both the content and style of poetry
+- The luxurious city is *purified by poetry*, which instills *moderation*
+
+```ad-example
+title: Example: Footnote 9 on Page 53
+Ouranos prevented his wife Gaia from giving birth to his children, by blocking them up inside her. Gaia gave a sickle to one ofthese children, Cronos, with which he castrated his father when the latter next had intercourse with her. Cronos ate the children he had by his wife Rheia, until, by deceiving him with a stone, she was able to save Zeus from suffering this fate. Zeus then overthrew his father
+```
+
+### How Goodness is Recognized
+
+**The importance of “imitation”:**
+- We should imitate only good people and not the bad ones (396c-e)
+- Socrates then discuesses appropriate musical modes, harmony, rhythem and meter. Socrates points out the importance of education is music and poetry (401d-402a)
+- Here, Socrates mentions music and poetry as the condition of the soul and reason.
+- They are somehow related (which seems to be based on math)
+
+```ad-quote
+title: 396c-e
+Well, I think that when a moderate man comes upon the words or actions of a good man in his narrative, he’ll be willing to report them as if he were that man himself, and he won’t be ashamed of that kind of imitation. He’ll imitate this good man most when he’s acting in a fauldess d and intelligent manner, but he’ll do so less, and with more reluctance, when the good man is upset by disease, sexual passion, drunkenness, or some other misfortune. When he comes upon a character unworthy of himself, however, he’ll be unwilling to make himself seriously resemble that inferior character—except perhaps for a brief period in which he’s doing something good. Rather he’ll be ashamed to do something like that, both because he’s unpracticed in the imitation ofsuch people and because he can’t stand to shape and mould himself according to a worse pattern. He despises this in his mind, unless it’s just done in play.
+```
+
+```ad-quote
+title: 401d-402a
+Aren’t these the reasons, Glaucon, that education in music and poetry is most important? First, because rhythm and harmony permeate the inner part of the soul more than anything else, affecting it most strongly and bringing it grace, so that if someone is properly educated in music and poetry, it makes him graceful, but if not, then the opposite. Second, e because anyone who has been properly educated in music and poetry will sense it acutely when something has been omitted from a thing and when it hasn’t been finely crafted or finely made by nature. And since he has the right distastes, he’ll praise fine things, be pleased by them, receive them into his soul, and, being nurtured by them, become fine and good. 402 He’ll rightly object to what is shameful, hating it while he’s still young and unable to grasp the reason, but, having been educated in this way, he will welcome the reason when it comes and recognize it easily because of its kinship with himself.
+```
+
+The discussion of physical training leads to a discussion about the health of body. Socrates compares medical practice of law (judicial matter) that is concerned with the health of the soul.
+
+Socrates touches on an interesting epistemological issue.
+- **How do you recognize goodness?**
+- To know what is good, one must be good first. (409a-e)
+- Without such experience, pas in the case of a youth who is innocent, a person can be deceived.
+
+```ad-quote
+title: 401a-e
+As for the judge, he does rule other souls with his own soul. And it isn’t 409 possible for a soul to be nurtured among vicious souls from childhood, to associate with them, to indulge in every kind ofinjustice, and come through it able to judge other people’s injustices from its own case, as it can diseases ofthe body. Rather, ifit’s to be fine and good, and a sound judge of just things, it must itself remain pure and have no experience of bad character while it’s young. That’s the reason, indeed, that decent people appear simple and easily deceived by unjust ones when they are young. It’s because they have no models in themselves of the evil experiences of b the vicious to guide their judgments. That’s certainly so. Therefore, a good judge must not be a young person but an old one, who has learned late in life what injustice is like and who has become aware of it not as something at home in his own soul, but as something alien and presentin others, someone who, after a long time, has recognized that injustice is bad by nature, not from his own experience of it, but through knowledge. c Such a judge would be the most noble one of all. And he’d be good, too, which was what you asked, for someone who has a good soul is good. The clever and suspicious person, on the other hand, who has committed many injustices himself and thinks himself a wise villain, appears clever in the company of those like himself, because he’s on his guard and is guided by the models within himself. But when he meets with good older people, he’s seen to be stupid, distrustful at the wrong time, and ignorant of what a sound character is, since he has no d model ofthis within himself. But since he meets vicious people more often than good ones, he seems to be clever rather than unlearned, both to himself and to others. That’s completely true. Then we mustn’t look for the good judge among people like that but among the sort we described earlier. A vicious person would never know either himselfor a virtuous one, whereas a naturally virtuous person, when educated, will in time acquire knowledge of both virtue and vice. And it is someone like that who becomes wise, in my view, and not the bad e person.
+```
 
