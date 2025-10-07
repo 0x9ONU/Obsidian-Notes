@@ -222,3 +222,44 @@ title: 401a-e
 As for the judge, he does rule other souls with his own soul. And it isn’t 409 possible for a soul to be nurtured among vicious souls from childhood, to associate with them, to indulge in every kind ofinjustice, and come through it able to judge other people’s injustices from its own case, as it can diseases ofthe body. Rather, ifit’s to be fine and good, and a sound judge of just things, it must itself remain pure and have no experience of bad character while it’s young. That’s the reason, indeed, that decent people appear simple and easily deceived by unjust ones when they are young. It’s because they have no models in themselves of the evil experiences of b the vicious to guide their judgments. That’s certainly so. Therefore, a good judge must not be a young person but an old one, who has learned late in life what injustice is like and who has become aware of it not as something at home in his own soul, but as something alien and presentin others, someone who, after a long time, has recognized that injustice is bad by nature, not from his own experience of it, but through knowledge. c Such a judge would be the most noble one of all. And he’d be good, too, which was what you asked, for someone who has a good soul is good. The clever and suspicious person, on the other hand, who has committed many injustices himself and thinks himself a wise villain, appears clever in the company of those like himself, because he’s on his guard and is guided by the models within himself. But when he meets with good older people, he’s seen to be stupid, distrustful at the wrong time, and ignorant of what a sound character is, since he has no d model ofthis within himself. But since he meets vicious people more often than good ones, he seems to be clever rather than unlearned, both to himself and to others. That’s completely true. Then we mustn’t look for the good judge among people like that but among the sort we described earlier. A vicious person would never know either himselfor a virtuous one, whereas a naturally virtuous person, when educated, will in time acquire knowledge of both virtue and vice. And it is someone like that who becomes wise, in my view, and not the bad e person.
 ```
 
+### Three Main Classes in the City
+
+Parts of the soul:
+1. Physical training is for the spirited part of the soul
+2. Training in music and poetry is for the philosophic part of the soul
+
+```ad-warning
+If one is trianed only physically, savagery and toughness will be the result; if only music and poetry, softness and overcultivation
+```
+
+```ad-important
+Our gruadinas must posssess both natures and msut be harmonized
+```
+
+Among the guardians, we select our rules and others will become auxiliaries. Three main classes of people in the city are:
+1. The rulers
+2. The auxiliaries
+3. The people
+
+### Myth of the Metal (The Noble Lie)
+
+There are three classes of people:
+1. Gold (for rulers)
+2. Silver (for auxiliaries)
+3. Iron & Bronze (For farmers and craftsmen)
+
+For most part, they will produce children like themselves, but since they are all related, in some cases a silver, or a golden child will be born form other parents
+- Each of them should have a proper upbringing based on their nature rather than their origin.
+
+```ad-quote
+title: 415a-d
+Appropriately so. Nevertheless, listen to the rest of the story. “All of 415 you in the city are brothers,” we’ll say to them in telling our story, “but the god who made you mixed some gold into those who are adequately equipped to rule, because they are most valuable. He put silver in those who are auxiliaries and iron and bronze in the farmers and other craftsmen. For the most part you will produce children like yourselves, but, because you are all related, a silver child will occasionally be born from a golden b parent, and vice versa, and all the others from each other. So the first and most important command from the god to the rulers is that there is nothing that they must guard better or watch more carefully than the mixture of metals in the souls of the next generation. If an offspring oftheirs should be found to have a mixture of iron or bronze, they must not pity him in any way, but give him the rank appropriate to his nature and drive him c out to join the craftsmen and farmers. But if an offspring of these people is found to have a mixture of gold or silver, they will honor him and take him up to join the guardians or the auxiliaries, for there is an oracle which says that the city will be ruined ifit ever has an iron or a bronze guardian.”
+```
+
+The Life of Guardians is described at 416d-417b
+
+```ad-quote
+title: 416d-417b
+First, none of them should possess any private property beyond what is wholly necessary. Second, none ofthem should have a house or storeroom thatisn’t open for all to enter at will. Third, whatever sustenance moderate and courageous warrior-athletes require in order to have neither shortfall nor surplus in e a given year they’ll receive by taxation on the other citizens as a salary for their guardianship. Fourth, they’ll have common messes and live together like soldiers in a camp. We’ll tell them that they always have gold and silver of a divine sort in their souls as a gift from the gods and so have no further need of human gold. Indeed, we’ll tell them that it’s impious for them to defile this divine possession by any admixture of such gold, because many impious deeds have been done that involve the currency used by ordinary people, while their own is pure. Hence, for them alone 417 among the city’s population, itis unlawful to touch or handle gold or silver. They mustn’t be under the same roof as it, wear it as jewelry, or drink from gold or silver goblets. In this way they’d save both themselves and the city. But ifthey acquire private land, houses, and currency themselves, they’ll be household managers and farmers instead of guardians—hostile masters of the other citizens instead of their allies. They’ll spend their b whole lives hating and being hated, plotting and being plotted against, more afraid of internal than of external enemies, and they’ll hasten both themselves and the whole city to almost immediate ruin. For all these reasons, let’s say that the guardians must be provided with housing and the rest in this way, and establish this as a law. Or don’t you agree?
+```
+
