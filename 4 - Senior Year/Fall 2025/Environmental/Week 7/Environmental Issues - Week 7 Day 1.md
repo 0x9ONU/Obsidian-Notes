@@ -158,5 +158,12 @@ Focus on protecting the habitat and all species within it
 	- Ex. Restore the “windiness” to the rivers
 	- Often deals with **remediation**: 
 		- **Bio-remediation**: Using living organisms to clean up an area
-3. 
+
+### Conservation Genetics
+
+Uses genetics to inform conservation efforts
+- ID endangered populations
+- Can monitor diversity
+- Track illegal sales of endangered organisms
+- 
 
