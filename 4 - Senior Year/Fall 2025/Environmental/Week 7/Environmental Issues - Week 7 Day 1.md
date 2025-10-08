@@ -70,6 +70,11 @@ There has been an increase in **ivory** demand throughout Asia
 
 ![[Pasted image 20251006101700.png | center]]
 
+### What Will Happen to the African Elephants
+
+- The sale of ivory has been banned in U.S. and China
+- Awareness is increasing
+- Conservation genetics has been used to track down smugglers and poachers
 ## Top Threats to Biodiversity
 
 1. Habitat Destruction/Fragmentation
@@ -165,5 +170,38 @@ Uses genetics to inform conservation efforts
 - ID endangered populations
 - Can monitor diversity
 - Track illegal sales of endangered organisms
-- 
 
+```ad-note
+They look for microsatllite regions of DNA to find different combinations, which can be used to find a DNA fingerprint for each population.
+```
+
+### Legal Protection of Species
+
+1. International Treaties
+	- ex. CITES (Convention on International Trade in Endangered Species)
+		- Established 1973
+		- It helps regulate global trade of selected species
+	- ex. CBD (Convention on Biological Diversity)
+		- Established 1992
+		- Sustainable use of biodiversity
+		- Helps regulate the sharing of resources for crops
+2. U.S. National Laws
+	- Endangered Species Act (1973)
+	- Marine Mammals Protection Act (1972)
+3. Protected Areas
+	- Protected areas have increased, but extinction rates have not declined
+		- Illegal hunting
+		- habitat destruction
+		- need a little more time to see the effects
+		- ecosystems are dynamic
+		- Animals do not “know” boundaries (they might wander into a non-protected area)
+		- Human population is also increasing drastically
+
+![[Pasted image 20251008102606.png]]
+![[Pasted image 20251008102657.png]]
+
+4. “Debt-for-Nature” Swaps
+	- Foreign debt forgiven in exchange for local conservation efforts
+5. Many other routes (ex. Nature Conservancy)
+6. Ecotourism (people go to see the location. Money and jobs are provided for the ecosystem)
+7. Citizen Science (ex. BioBlitz)
