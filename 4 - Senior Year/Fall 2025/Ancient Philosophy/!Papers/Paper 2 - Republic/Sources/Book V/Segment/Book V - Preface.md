@@ -15,6 +15,12 @@ Book V continues the discussion ofvirtue and vice in souls and cities that was b
 - Interrupted by Polemarchus and is asks Socrates to explain the remark he made about the guardians possessing their wives and children in common [[423e-424a]].
 - Socrates’ gives a lengthy response for most of this book (541c-571c).
 	- Proposed that children should be brought up in the city rather than by parents
-	- 
+	- Men and women should receive equal education ([[455e]], [[450c]])
+- Can the city ever truly become true? ([[471c-e]])
+	- Clarified the nature of the task using [[472a-473c]]
+- To change to a perfect city, kings and rulers should become philosophers or vice versa [[473c-e]]
+	- Would cause a lot of outrage
+	- The outrage will subside when he explains what a true philosopher is really like 
+- Rest of the book deals with how Socrates’ portraits these philosophers [[474c-480a]]
 
 

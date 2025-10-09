@@ -5,7 +5,13 @@ File Folder: Book IV
 
 # Original Texts
 
-- [[Note here]]
+- [[Book V - Preface]]
+- [[450c]]
+- [[455e]]
+- [[471c-e]]
+- [[472a-473c]]
+- [[473c-e]]
+- [[474c-480a]]
 
 # Analysis
 
