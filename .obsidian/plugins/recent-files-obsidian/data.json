@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Instructions for Parmenides Paper",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md"
+      "basename": "Republic Book IX",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book 1X/Republic Book IX.md"
+    },
+    {
+      "basename": "Republic Book VIII",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VIII/Republic Book VIII.md"
+    },
+    {
+      "basename": "Republic Book VII",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VII/Republic Book VII.md"
+    },
+    {
+      "basename": "Republic Book VI",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VI/Republic Book VI.md"
+    },
+    {
+      "basename": "Republic Book V",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book V/Republic Book V.md"
+    },
+    {
+      "basename": "Republic Book IV",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book IV/Republic Book IV.md"
+    },
+    {
+      "basename": "Republic Book III",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book III/Republic Book III.md"
+    },
+    {
+      "basename": "Republic Book II",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book II/Republic Book II.md"
+    },
+    {
+      "basename": "Republic Book I",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book I/Republic Book I.md"
+    },
+    {
+      "basename": "In Defense of Science, How Parmenides Underestimates the Capacity of Humankind 1",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind 1.md"
+    },
+    {
+      "basename": "Republic Source Template",
+      "path": "Templates/Republic Source Template.md"
+    },
+    {
+      "basename": "Ancient Philosophy Template",
+      "path": "Templates/Ancient Philosophy Template.md"
+    },
+    {
+      "basename": "Parmenides Fragment 2",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 2.md"
+    },
+    {
+      "basename": "Parmenides Fragment 3",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 3.md"
     },
     {
       "basename": "Instructions for Plato's Republic Paper",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md"
+    },
+    {
+      "basename": "In Defense of Science, How Parmenides Underestimates the Capacity of Humankind",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md"
+    },
+    {
+      "basename": "Instructions for Parmenides Paper",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md"
+    },
+    {
+      "basename": "Paper 1 Canvas",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas"
     },
     {
       "basename": "Environmental Issues - Week 7 Day 1",
@@ -135,70 +199,6 @@
     {
       "basename": "Ancient Philosophy - Week 5 Day 2",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 5/Ancient Philosophy - Week 5 Day 2.md"
-    },
-    {
-      "basename": "Computer Architecture - Midterm 2 Study Guide",
-      "path": "3 - Junior Year/Fall 2024/Computer Architecture/Week 12/Computer Architecture - Midterm 2 Study Guide.md"
-    },
-    {
-      "basename": "Circuits Week 12 - Day 3",
-      "path": "2 - Sophomore Year/Fall 2023/Circuits/Week 12/Circuits Week 12 - Day 3.md"
-    },
-    {
-      "basename": "Circuits Week 3 - Day 1",
-      "path": "2 - Sophomore Year/Fall 2023/Circuits/Week 3/Circuits Week 3 - Day 1.md"
-    },
-    {
-      "basename": "Differential Equations - Module 2.1",
-      "path": "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.1.md"
-    },
-    {
-      "basename": "Environmental Issues - Module 2.2",
-      "path": "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.2.md"
-    },
-    {
-      "basename": "Environmental Issues - Module 2.3",
-      "path": "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Module 2.3.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "9-26-2025 Meeting",
-      "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/9-26-2025 Meeting.md"
-    },
-    {
-      "basename": "An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1)",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/An_Energy-Efficient_TDMA_Algorithm_for_Energy_Harvesting_Wireless_Sensor_Networks (1).pdf"
-    },
-    {
-      "basename": "2",
-      "path": "General Notes/2.png"
-    },
-    {
-      "basename": "6-9-2025 Meeting",
-      "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md"
-    },
-    {
-      "basename": "Literature Review Diagram",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas"
-    },
-    {
-      "basename": "A_Survey_of_Wireless_Sensor_Network_and_its_types",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf"
-    },
-    {
-      "basename": "6-17-2025 Meeting Minutes",
-      "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md"
-    },
-    {
-      "basename": "Environmental Issues - Week 5 Day 2 2025-09-26 10.12.54.excalidraw",
-      "path": "General Notes/Environmental Issues - Week 5 Day 2 2025-09-26 10.12.54.excalidraw.md"
-    },
-    {
-      "basename": "Environmental Issues - Week 4 Day 1",
-      "path": "4 - Senior Year/Fall 2025/Environmental/Week 4/Environmental Issues - Week 4 Day 1.md"
     }
   ],
   "omittedPaths": [],

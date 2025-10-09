@@ -13,12 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md",
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book 1X/Republic Book IX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instructions for Parmenides Paper"
+              "title": "Republic Book IX"
+            }
+          },
+          {
+            "id": "298208c6c7642ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Ancient Philosophy Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ancient Philosophy Template"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fdb591469e9e85c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1199e9f937cc45f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instructions for Plato's Republic Paper"
             }
           }
         ]
@@ -237,17 +271,34 @@
   },
   "active": "2d43e3439e57179e",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VIII/Republic Book VIII.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book 1X/Republic Book IX.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book 1X/Segment",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VII/Republic Book VII.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VIII/Segment",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VI/Republic Book VI.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VII/Segment",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book V/Republic Book V.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VI/Segment",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book IV/Republic Book IV.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book V/Segment",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book III/Republic Book III.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book III/Segment",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book II/Republic Book II.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book I/Republic Book I.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book II/Segments",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book I/Segments",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book IV/Segments",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind 1.md",
+    "Templates/Republic Source Template.md",
+    "Templates/Ancient Philosophy Template.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 2.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 3.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book IX/Untitled",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book 1X",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VIII",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VII",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VI",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book V",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book IV",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book III",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book II",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book I",
     "4 - Senior Year/Fall 2025/Environmental/Week 7/Environmental Issues - Week 7 Day 1.md",
     "General Notes/Pasted image 20251008102657.png",
     "General Notes/Pasted image 20251008102606.png",
@@ -265,25 +316,9 @@
     "General Notes/Pasted image 20251006100806.png",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.3.md",
     "4 - Senior Year/Fall 2025/Theta Chi/Active Listening Presentation.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 6/Ancient Philosophy - Week 6 Day 1.md",
-    "2024-06-24.md",
-    "General Notes/Ancient Philosophy - Week 6 Day 2 2025-10-02 10.38.27.excalidraw.md",
-    "Untitled 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 1.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 7/Networks - Week 7 Day 2.md",
-    "3 - Junior Year/Fall 2024/Networks & Data Communications/Week 5/Networks - Week 5 Day 3.md",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.2.md",
-    "2024-06-23.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 6/Environmental Issues - Week 6 Day 2.md",
     "General Notes/Pasted image 20251001104032.png",
-    "4 - Senior Year/Fall 2025/Environmental/Week 5/Environmental Issues - Week 5 Day 2.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 5/Environmental Issues - Week 5 Day 1.md",
     "General Notes/Pasted image 20251001101147.png",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 3.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 5/Circuits Week 5 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 4/Circuits Week 4 - Day 3.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
