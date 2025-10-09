@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Republic Book V - Preface",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book V/Segment/Republic Book V - Preface.md"
+    },
+    {
+      "basename": "Republic Book V",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book V/Republic Book V.md"
+    },
+    {
       "basename": "Republic Book IX",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book 1X/Republic Book IX.md"
+    },
+    {
+      "basename": "Ancient Philosophy Template",
+      "path": "Templates/Ancient Philosophy Template.md"
     },
     {
       "basename": "Republic Book VIII",
@@ -15,10 +27,6 @@
     {
       "basename": "Republic Book VI",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book VI/Republic Book VI.md"
-    },
-    {
-      "basename": "Republic Book V",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book V/Republic Book V.md"
     },
     {
       "basename": "Republic Book IV",
@@ -43,10 +51,6 @@
     {
       "basename": "Republic Source Template",
       "path": "Templates/Republic Source Template.md"
-    },
-    {
-      "basename": "Ancient Philosophy Template",
-      "path": "Templates/Ancient Philosophy Template.md"
     },
     {
       "basename": "Parmenides Fragment 2",
@@ -195,10 +199,6 @@
     {
       "basename": "Circuits Week 7 - Day 1",
       "path": "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 1.md"
-    },
-    {
-      "basename": "Ancient Philosophy - Week 5 Day 2",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 5/Ancient Philosophy - Week 5 Day 2.md"
     }
   ],
   "omittedPaths": [],
