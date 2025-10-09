@@ -203,3 +203,11 @@ title: 444c-e
 So, if justice and injustice are really clear enough to us, then acting c justly, acting unjustly, and doing injustice are also clear. How so? Because just and unjust actions are no different for the soul than healthy and unhealthy things are for the body. In what way? Healthy things produce health, unhealthy ones disease. Yes. And don’t just actions produce justice in the soul and unjust ones d injustice? Necessarily. To produce health is to establish the components of the body in a natural relation of control and being controlled, one by another, while to produce disease is to establish a relation ofruling and being ruled contrary to nature. J That’s right. Then, isn’t to produce justice to establish the parts of the soul in a natural relation of control, one by another, while to produce injustice is to establish a relation of ruling and being ruled contrary to nature? Precisely. Virtue seems, then, to be a kind of health, fine condition, and well¬ being ofthe soul, while vice is disease, shameful condition, and weakness
 ```
 
+If justice is a healthy soul, then there is both intrinsic and instrumental value:
+
+```ad-quote
+title: 357c
+And is there a kind of good we like for its own sake and also for the sake ofwhat comes from it—knowing, for example, and seeing and being c healthy? We welcome such things, I suppose, on both counts. Yes.
+```
+
+
