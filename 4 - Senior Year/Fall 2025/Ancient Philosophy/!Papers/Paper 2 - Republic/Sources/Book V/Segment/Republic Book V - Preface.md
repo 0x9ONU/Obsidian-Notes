@@ -11,6 +11,7 @@ Book V continues the discussion ofvirtue and vice in souls and cities that was b
 
 # Analysis
 
-- 
+- Continues with the city analogy from the previous book
+- Interrupted by Polemarchus and is asked to 
 
 
