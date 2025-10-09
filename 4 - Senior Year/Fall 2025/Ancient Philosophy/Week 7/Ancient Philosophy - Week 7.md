@@ -138,6 +138,10 @@ We sometimes experience a conflict of appetite and reason: for example, thirsty 
 
 **Two Parts**: The *rational* part and the *appetite* part
 
+```ad-important
+There is some objective, moral truth that reason can grasp.
+```
+
 ### The Spirited Part
 
 ```ad-quote
