@@ -11,3 +11,4 @@ Past 15GHz, it makes it difficult to transmit over larger distances. 10GHz is th
 Wanted to sell out the allocation to make money for the USA budget when they sold off the 5G/6G since it was originally for the Department of Defense and the military branches
 - In the budget bill, they are auctioning off 600MHz of the 1.3GHz
 - He actually testified in front of congress to inform the politicians at the national level
+
