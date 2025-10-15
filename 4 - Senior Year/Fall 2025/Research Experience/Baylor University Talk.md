@@ -12,3 +12,10 @@ Wanted to sell out the allocation to make money for the USA budget when they sol
 - In the budget bill, they are auctioning off 600MHz of the 1.3GHz
 - He actually testified in front of congress to inform the politicians at the national level
 
+## Research Areas at Baylor
+
+- RF/MW
+- Power/Energy
+- Photonics/Devices/Bioengineering
+- Computer System Security
+
