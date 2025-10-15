@@ -77,3 +77,17 @@ Young populations can continue to grow even after reaching replacement fertility
 - Where birth rates are equal to death rates
 - These birth rates will outpace the death rates and cause a growth until equilibrium is reached
  
+## Demographic Transition
+
+A theoretical model that shows how populations change as a country goes from pre-industrial to post-industrial
+
+
+| Type of Population | Birth Rate | Death Rate | Population Growth Rate |
+| ------------------ | ---------- | ---------- | ---------------------- |
+| Pre-industrial     | High       | High       | Stable/Slow Increase   |
+| Industrializing    | High       | Lowering   | Very Fast Increase     |
+| Mature Industrial  | Slowing    | Lowering   | Slowing but Increasing |
+| Post-Industrial    | Low        | Low        | Stable/Very Slow       |
+
+
+![[Pasted image 20251015104310.png]]
