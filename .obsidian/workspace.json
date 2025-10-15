@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8 Day 1.md",
+                "file": "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environmental Issues - Week 8 Day 1"
+              "title": "Diff EQ - Module 3.1"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8 Day 1.md",
+                "file": "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environmental Issues - Week 8 Day 1"
+              "title": "Differential Equations - Module 2.5"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Environmental Issues - Week 7 Day 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -264,8 +264,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b66f2dc69397400d",
+  "active": "2d43e3439e57179e",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.1.md",
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.1.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8 Day 1.md",
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 3",
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.5.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 7/Environmental Issues - Week 7 Day 2.md",
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Test 2 Prep.md",
     "General Notes/Pasted image 20251015104310.png",
     "General Notes/Pasted image 20251015102357.png",
     "General Notes/Pasted image 20251015102343.png",
@@ -275,14 +282,9 @@
     "General Notes/Pasted image 20251015102007.png",
     "General Notes/Pasted image 20251015101934.png",
     "2025-10-15.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8 Day 1.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 7/Environmental Issues - Week 7 Day 2.md",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Test 2 Prep.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 8",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.5.md",
     "General Notes/Pasted image 20251010103826.png",
     "General Notes/Pasted image 20251010103703.png",
-    "General Notes/Pasted image 20251010103632.png",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 7/Ancient Philosophy - Week 7.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 7/Environmental Issues - Week 7 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 7/Ancient Philosophy - Week 7 Day 2.md",
@@ -308,10 +310,8 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book V/Segment",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book III/Republic Book III.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book III/Segment",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book II/Republic Book II.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book II/Segments",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book I/Segments",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Book IV/Segments",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "Untitled 1.canvas",
