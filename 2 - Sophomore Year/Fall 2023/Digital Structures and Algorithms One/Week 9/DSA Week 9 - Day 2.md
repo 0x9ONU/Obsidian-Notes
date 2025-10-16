@@ -23,7 +23,6 @@ What if our landscaping business also builds brick walls?
 
 (**Tight** bound on growth rate)
 
-
 ```ad-summary
 **Precisely** specifies growth rate
 - Bubble Sort and Selection Sort have best-case and worst-case running times of the form:
