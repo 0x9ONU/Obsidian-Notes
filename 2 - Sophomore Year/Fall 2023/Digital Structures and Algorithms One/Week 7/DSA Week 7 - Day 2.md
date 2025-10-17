@@ -114,11 +114,11 @@ title: Solution
 A loop will always have one **extra** execution at the beginning to check its conditions
 ```
 
-| Execution Cost | # Times Executed |
-| -------------- | ---------------- |
+| Execution Cost | Times Executed |
+| -------------- | -------------- |
 | $C_1$          | $n$            |
-| $C_2$          | $n-1$            |
-| $C_3$          | $1$                 |
+| $C_2$          | $n-1$          |
+| $C_3$          | $1$            |
 
 ```c++
 for (int i = 1; i <= n; i++) {
