@@ -113,6 +113,7 @@ title: Solution
 ```ad-important
 A loop will always have one **extra** execution at the beginning to check its conditions
 ```
+``
 
 | Execution Cost | Times Executed |
 | -------------- | -------------- |
