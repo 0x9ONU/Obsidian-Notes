@@ -122,3 +122,285 @@ $$
 =\frac{1}{3\sqrt{ 2 }} \left<-3, 3 \right> = \left < -\frac{1}{\sqrt{ 2 }}, \frac{1}{\sqrt{ 2 }} \right >
 $$
 
+## Vector Space Definition
+
+Let 
+
+### Subspace Definition
+
+Let $W$ be a nonempty subset of the vector space $V$. Then $W$ is a *subspace* $V$ provided that $W$ itself is a vector space with the operations of addition and multiplication by scalars as defined in $V$. Two conditions:
+1. If $\mathbf{u}$ and $\mathbf{v}$ are vectors in $W$, then $\mathbf{u}+\mathbf{v}$ is also in $W$
+2. If $\mathbf{u}$ is in $W$ and $c$ is a scalar, then the vector $c \mathbf{u}$ is also in $W$
+
+
+#### Example 1
+
+```ad-question
+Determine whether $W$ is a subspace:
+
+$W$ is the set of vectors in $\mathbb{R}^3$ such that $x_1=5x_{2}$
+```
+
+$$
+W = \left \{ (x_{1},x_{2},x_{3}) \space | \space x_{1}=5x_{2} \right \}
+$$
+
+**Is it non-empty? $\checkmark$**
+- $\left < 0,0, 0 \right >\in W \rightarrow \text{YES}$
+
+**Is it closed under addition?** $\checkmark$
+
+Suppose that:
+1. $\mathbf{u}=\left< u_{1},u_{2},u_{3} \right>$
+2. $\mathbf{v}=\left< u_{1},u_{2},u_{3} \right> \in W$
+
+$$
+\text{is }\mathbf{u}+\mathbf{v}\in W?
+$$
+Since $\mathbf{u, v}\in W$
+$$
+u_{1}=5u_{2}
+$$
+$$
+v_{1}=5v_{2}
+$$
+$$
+\mathbf{u}+\mathbf{v}= \left < u_{1}+v_{1},u_{2}+v_{2},u_{3}+v_{3} \right >
+$$
+Replace values
+
+$$
+u_{1}+v_{1}=5u_{2}+5v_{2}
+$$
+$$
+5(u_{2}+v_{2}) \Rightarrow \mathbf{u}+\mathbf{v} \in W \quad \checkmark
+$$
+
+**Is it Closed under Scalar Multiplication** $\checkmark$
+
+Suppose that:
+1.  $\mathbf{u}=\left< u_{1},u_{2},u_{3} \right>$
+2. $\Rightarrow u_{1}=5u_{2}$
+3. $c \in \mathbb{R}$
+
+$$
+c \mathbf{u}=\left <cu_{1},cu_{2},cu_{3} \right>
+$$
+$$
+cu_{1}=5u_{2}
+$$
+$$
+u_{1}=5(cu_{2})
+$$
+$$
+\Rightarrow c \mathbf{u}\in W \quad \checkmark
+$$
+$$
+\boxed {\therefore W \in \mathbb{R}^3}
+$$
+#### Example 2
+
+```ad-question
+Determine whether $W$ is a subspace:
+
+$W$ is the set of vectors in $\mathbb{R}^3$ such that $x_2=1$
+```
+
+$$
+W = \left \{ (x_{1},x_{2},x_{3}) \space | \space x_{2}=1 \right \}
+$$
+It is *not* closed under addition because:
+
+$$
+\mathbf{u}=\left <u_{1},u_{2},u_{3} \right>
+$$
+$$
+\mathbf{v}=\left <v_{1},v_{2},v_{3} \right>
+$$
+$$
+\mathbf{u}+\mathbf{v}= \left < u_{1}+u_{2},2,u_{3}+v_{3} \right > \not \in W
+$$
+$$
+\boxed{\therefore W \not \in \mathbb{R}^3}
+$$
+
+## Linear Combination
+
+The vector $\mathbf{w}$ is called a *linear combination* of the vectors $\mathbf{v}_{1},\mathbf{v}_{2}, \dots,\mathbf{v}_{k}$ provided that there exists scalars $c_{1},c_{2},\dots,c_{k}$ such that:
+
+$$
+\mathbf{w}=c_{1}\mathbf{v}_{1}+c_{2}\mathbf{v}_{2}+\dots+c_{k}\mathbf{v}_{k}
+$$
+Given a vector $\mathbf{w}$ in $\mathbb{R}^n$, the problem of determining whether or not $\mathbf{w}$ is a linear combination of the vectors $\mathbf{v}_{1},\mathbf{v}_{2}, \dots,\mathbf{v}_{k}$ amounts to solving a linear system to see whether we can find the scalars so that the above equation holds.
+
+```ad-example
+$$
+\vec{v}_{1}= \left < 1, 0 \right>, \vec{v}_{2}=\left < 0, 1 \right > \in \mathbb{R}^2
+$$
+$$
+\vec{w}=\left < 5,2 \right > = 5\vec{v}_{1}+2\vec{v}_{2}
+$$
+```
+
+### Example 1
+
+```ad-question
+Express $\vec{w}$ as a linear combination of $\vec{u}$ and $\vec{k}$
+```
+
+$$
+\vec{u}=(1,-2), \vec{v}=(-1,3), \vec{w} = (1, 0)
+$$
+
+Suppose that $\vec{w}=c_{1}\vec{u}+c_{2}\vec{v}$
+
+$$
+\begin{bmatrix}
+1  \\
+0
+\end{bmatrix}=c_{1}\begin{bmatrix}
+1 \\
+-2
+\end{bmatrix}
++c_{2} \begin{bmatrix}
+-1  \\
+3
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+0  \\
+1
+\end{bmatrix}= \begin{bmatrix}
+c_{1} \\
+-2c_{1}
+\end{bmatrix}+\begin{bmatrix}
+-c_{2} \\
+3c_{2}
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+0 \\
+1
+\end{bmatrix}= \begin{bmatrix}
+c_{1} -c_{2} \\
+-2c_{1} +3c_{2}
+\end{bmatrix}
+$$
+$$
+\begin{matrix}
+c_{1}-c_{2}=1 \\
+-2c_{1}+3c_{2}=0
+\end{matrix}
+$$
+$$
+\begin{bmatrix}
+\vec{u}  & \vec{v} & \vec{w} \\
+- - & -- & -- & \\
+
+1 & -1 & 1 \\
+-2 & 3 & 0
+\end{bmatrix}
+$$
+*Use Row Operations…*
+$$
+\begin{bmatrix}
+1 & 0 & 3 \\
+0 & 1 & 2
+\end{bmatrix}
+$$
+$$
+\boxed{\vec{w}=3\vec{u}+2\vec{v}}
+$$
+### Example 2
+
+$$
+\mathbf{u}= (3,4), \mathbf{v}=(2,3), \mathbf{w}=(0, -1)
+$$
+$$
+\begin{bmatrix}
+3 & 2 & -1 \\
+4 & 3 & -1
+\end{bmatrix}
+$$
+$$
+\frac{1}{3}R_{1}\to R_{1} \begin{bmatrix}
+1 & \frac{2}{3} & -\frac{1}{3} \\
+4 & 3 & -1
+\end{bmatrix}
+$$
+$$
+-4R_{1}+R_{1} \begin{bmatrix}
+1 & \frac{2}{3} & -\frac{1}{3} \\
+0 & \frac{1}{3} & \frac{1}{3}
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 0 & -1 \\
+0 & 1 & 1
+\end{bmatrix}
+$$
+$$
+\vec{w}=-\vec{u}+\vec{v}
+$$
+
+### Example 3
+
+```ad-question
+Is the following vector $\vec{b}$ the linear combination of $\vec{v}_1$ and $\vec{v}_2$
+```
+
+$$
+\vec{v}_{1}= \begin{bmatrix}
+11  \\
+2 \\
+4
+\end{bmatrix}, \vec{v}_{2} = \begin{bmatrix}
+-2 \\
+1 \\
+15
+\end{bmatrix}, \vec{b}= \begin{bmatrix}
+16  \\
+7 \\
+53
+\end{bmatrix}
+$$
+$$
+c_{1}\vec{v}_{1}+c_{2}\vec{v}_{2}=\vec{b}
+$$
+$$
+\begin{bmatrix}
+\vec{v}_{1} & \vec{v}_{2} & \vec{b} \\
+-- & -- & -- \\
+11 & -2 & 16 \\
+2 & 1 & 7 \\
+4 & 15 & 53
+\end{bmatrix}
+$$
+*RREF later…*
+$$
+\begin{bmatrix}
+1 & 0 & 2 \\
+0 & 1 & 3 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\vec{b}=2\vec{v}_{1}+3\vec{v}_{2} \quad \checkmark
+$$
+## Spanning Set
+
+The collection of all linear combinations of a set of vectors $\left\{ \vec{v}_{1}, \dots, \vec{v}_{k} \right\}$ in $\mathbb{R}^n$ is known as the span of these vectors and is written as: $\text{span}\left\{ \vec{v}_{1}, \dots, \vec{v}_{k} \right\}$
+
+```ad-example
+$$
+\vec{v}_{1}= \left < 1, 0 \right>, \vec{v}_{2}=\left < 0, 1 \right > \in \mathbb{R}^2
+$$
+$$
+\vec{w} = xv_1 + yv_2
+$$
+```
+
+
