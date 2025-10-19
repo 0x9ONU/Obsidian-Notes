@@ -11,10 +11,14 @@
             "id": "7229ccc6b208cda3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Freshman Year/Semester 2/Calculus 2/6.1 - Inverse Functions + Derivates/6.1 - Day 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "6.1 - Day 1"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ancient_philosophy",
+                "query": "tag:#calculus2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,12 +210,12 @@
               "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,7 +245,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "7229ccc6b208cda3",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8 Day 1.md",
