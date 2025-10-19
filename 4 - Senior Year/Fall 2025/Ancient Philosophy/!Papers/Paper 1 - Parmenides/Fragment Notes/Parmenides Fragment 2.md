@@ -1,5 +1,5 @@
 Date: 21st September 2025
-Date Modified: 21st September 2025
+Date Modified: 21st Sptember 2025
 File Folder: Fragment Notes
 #ancient_philosophy 
 
