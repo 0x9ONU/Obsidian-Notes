@@ -8,76 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7afbdb0b04ac4091",
+            "id": "fb6074d7a3bbfb4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "In Defense of Science, How Parmenides Underestimates the Capacity of Humankind"
-            }
-          },
-          {
-            "id": "c7da0e5d6e674492",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
-                "viewState": {
-                  "x": -1647.4903094433905,
-                  "y": -1004.6559030268135,
-                  "zoom": -0.49556831192328316
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Paper 1 Canvas"
-            }
-          },
-          {
-            "id": "e42bdde9cec72802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instructions for Parmenides Paper"
-            }
-          },
-          {
-            "id": "e34945125ab04166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ancient Philosophy - Week 2 Day 1"
-            }
-          },
-          {
-            "id": "7d767611ee9a9f68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Rubric for Parmenidies Paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rubric for Parmenidies Paper"
+              "title": "New tab"
             }
           }
         ]
@@ -303,134 +240,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "900972b440c59b1d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b90021bb4f319e16",
-        "type": "window",
-        "children": [
-          {
-            "id": "42bcd1311974401d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5c6ef9a6a4589d7d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 2.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Parmenides Fragment 2"
-                }
-              },
-              {
-                "id": "3bb9969a1721e228",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 3.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Parmenides Fragment 3"
-                }
-              },
-              {
-                "id": "87ba28654c974859",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 6.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Parmenides Fragment 6"
-                }
-              },
-              {
-                "id": "9426e54682addc91",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 7.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Parmenides Fragment 7"
-                }
-              },
-              {
-                "id": "6e03da9287e0f6bd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 8.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Parmenides Fragment 8"
-                }
-              },
-              {
-                "id": "ee24046441f37690",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 2.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ancient Philosophy - Week 2 Day 2"
-                }
-              },
-              {
-                "id": "c55b48efd888e5b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 20.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Parmenides Fragment 20"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2341,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7afbdb0b04ac4091",
+  "active": "fb6074d7a3bbfb4e",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 2/Ancient Philosophy - Week 2 Day 2.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 8.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 7.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Fragment Notes/Parmenides Fragment 20.md",
