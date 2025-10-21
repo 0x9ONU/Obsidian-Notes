@@ -213,7 +213,7 @@ We say that there are many beautiful things and many good things, and so on for 
 - In a visible realm: The Sun provides Light for an Eye to See Visible things
 - In the Intelligible Realm: Good provides Turth for a Soul to Understand Intelligible things (the Forms)
 
-The Good is both an epistemological and metaphysical principle. It is not being, but superior to it in rank and power.
+The Good is both an epistemological and metaphysical principle. It is not being, but superior to it in rank and power. 
 
 ![[Ancient Philosophy - Week 8 Day 1 2025-10-16 10.26.53.excalidraw | center]]
 ### The Divided Line
@@ -226,6 +226,17 @@ It is like a line divided into two unequal sections.26 Then divide each sectionâ
 
 ![[Ancient Philosophy - Week 8 Day 1 2025-10-16 10.36.33.excalidraw | center]]
 
-**Intelligibile**
+### The Allegory of the Cave
 
-#comebacklater 
+```ad-quote
+title: 414a1-58d7
+```embed
+title: "Plato's Cave (animated version)"
+image: "https://i.ytimg.com/vi/d2afuTvUzBQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgOCg9MA8=&rs=AOn4CLA8-pN2x330m6H5yzq5Ld2lchaywg"
+description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+url: "https://www.youtube.com/watch?v=d2afuTvUzBQ"
+favicon: ""
+aspectRatio: "75"
+```
+
+
