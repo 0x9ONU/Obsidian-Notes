@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Diff EQ - Module 3.1"
             }
+          },
+          {
+            "id": "e2ce22e57fce4521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,8 +251,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e359941dc846109d",
+  "active": "e2ce22e57fce4521",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.1.md",
+    "conflict-files-obsidian-git.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 11/Circuits Midterm 2 Study List.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 10/Circuits Week 10 - Day 2.md",
@@ -253,7 +270,6 @@
     "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 2/Computer Architecture - Week 2 Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.1.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8.md",
     "General Notes/Pasted image 20251017104903.png",
     "General Notes/Pasted image 20251017104416.png",
@@ -271,7 +287,6 @@
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 4/DSA Week 4 - Day 1-2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 8/Ancient Philosophy - Week 8 Day 1.md",
-    "General Notes/Ancient Philosophy - Week 8 Day 1 2025-10-16 10.36.33.excalidraw.md",
     "General Notes/Pasted image 20251016103448.png",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 8",
     "4 - Senior Year/Fall 2025/Research Experience",
