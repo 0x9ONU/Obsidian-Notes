@@ -200,6 +200,8 @@ collapse: closed
 What? Do you think it’s right to talk about things one doesn’t know as if one does know them? Not as if one knows them, he said, but one ought to be willing to state one’s opinions as such. What? Haven’t you noticed that opinions without knowledge are shameful and ugly things? The best of them are blind—or do you think that those who express a true opinion without understanding are any different from blind people who happen to travel the right road?
 ```
 
+
+# Republic VII
 ## Analogies of Good
 
 ### The Analogy of the Sun
@@ -237,6 +239,51 @@ description: "Enjoy the videos and music you love, upload original content, and 
 url: "https://www.youtube.com/watch?v=d2afuTvUzBQ"
 favicon: ""
 aspectRatio: "75"
+```
+
+**Education**: A turning of one’s soul around it involves showing truths by pointing to the right direction. It produces an intellectual conversion, which requires a converstion in terms of desires as well
+
+```ad-quote
+title: 518b-d and 519b
+collapse: closed
+If that’s true, then here’s what we must think about these matters: Education isn’t what some people declare it to be, namely, putting knowlc edge into souls that lack it, like putting sight into blind eyes. They do say that. But our present discussion, on the other hand, shows that the power to learn is present in everyone’s soul and that the instrument with which each learns is like an eye that cannot be turned around from darkness to light without turning the whole body. This instrument cannot be turned around from that which is coming into being without turning the whole soul until it is able to study that which is and the brightest thing that is, d namely, the one we call the good. Isn’t that right? Yes. Then education is the craft concerned with doing this very thing, this turning around, and with how the soul can most easily and effectively be made to do it. It isn’t the craft of putting sight into the soul. Education takes for granted that sight is there but that it isn’t turned the right way or looking where it ought to look, and it tries to redirect it appropriately.
+ ---
+
+However, if a nature ofthis sort had been hammered at from childhood and freed from the bonds of kinship with becoming, which have been fastened to it by feasting, greed, and other such pleasures and which, like leaden weights, pull its vision downwards—if, being rid ofthese, it turned b to look at true things, then I say that the same soul of the same person would see these most sharply, just as it now does the things it is presently turned towards.
+```
+
+When the education is completed, they must come down to the cave and be the rulers (even though they do not want to) for they owe their education to the city
+
+```ad-quote
+title: 520b-d
+collapse: closed
+Observe, then, Glaucon, that we won’t be doing an injustice to those who’ve become philosophers in our city and that what we’ll say to them, when we compel them to guard and care for the others, will be just. We’ll say: “When people like you come to be in other cities, they’re justified in b not sharing in their city’s labors, for they’ve grown there spontaneously, against the will of the constitution. And what grows ofits own accord and owes no debt for its upbringing has justice on its side when it isn’t keen to pay anyone for that upbringing. But we’ve made you kings in our city and leaders of the swarm, as it were, both for yourselves and for the rest of the city. You’re better and more completely educated than the others c and are better able to share in both types of life.5 Therefore each of you in turn must go down to live in the common dwelling place ofthe others and grow accustomed to seeing in the dark. When you are used to it, you’ll see vastly better than the people there. And because you’ve seen the truth about fine, just, and good things, you’ll know each image for what it is and also that of which it is the image. Thus, for you and for us, the city will be governed, not like the majority of cities nowadays, by people who fight over shadows and struggle against one another in order to rule—as ifthat were a great good—but by people who are awake rather than dreaming,7 d for the truth is surely this: A city whose prospective rulers are least eager to rule must of necessity be most free from civil war, whereas a city with the opposite kind of rulers is governed in the opposite way.”
+```
+
+## Education: The End to The Seventh Book
+
+An education of true philosophers includes in addition to music, poetry, and physical training outlined in Books 2 & 3 number/calculation, arithmetic, geometry
+
+```ad-warning
+There is no knowledge of sensible things. (529c)
+```
+
+Dialectic is also important for the eye of the soul to grasp the Form of the Good:
+
+```ad-quote
+title: 532b-d and 533d-e
+collapse: closed
+Then isn’t this at last, Glaucon, the song that dialectic sings? It is intelligible, but it is imitated by the power ofsight. We said that sight tries at last to look at the animals themselves, the stars themselves, and, in the end, at the sun itself.13 In the same way, whenever someone tries through argument and apart from all sense perceptions to find the being itself of each thing and doesn’t give up until he grasps the good itself with b understanding itself, he reaches the end of the intelligible, just as the other reached the end of the visible. Absolutely. And what about this journey? Don’t you call it dialectic? I do. Then the release from bonds and the turning around from shadows to statues and the light of the fire and, then, the way up out of the cave to the sunlight and, there, the continuing inability to look at the animals, the plants, and the light of the sun, but the newly acquired ability to look at c divine images in water and shadows of the things that are, rather than, as before, merely at shadows of statues thrown by another source of light that is itself a shadow in relation to the sun—all this business ofthe crafts we’ve mentioned has the power to awaken the best part of the soul and lead it upward to the study ofthe best among the things that are, just as, before, the clearest thing in the body was led to the brightest thing in the d bodily and visible realm.
+---
+At any rate, no one will dispute it when we say that there is no other b inquiry that systematically attempts to grasp with respect to each thing itself what the being of it is, for all the other crafts are concerned with human opinions and desires, with growing or construction, or with the care ofgrowing or constructed things. And as for the rest, I mean geometry and the subjects that follow it, we described them as to some extent grasping what is, for we saw that, while they do dream about what is, they are unable to command a waking view of it as long as they make use of hypotheses thatthey leave untouched and thatthey cannot give any account c of. What mechanism could possibly turn any agreement into knowledge when it begins with something unknown and puts together the conclusion and the steps in between from what is unknown? None. Therefore, dialectic is the only inquiry that travels this road, doing away with hypotheses and proceeding to the first principle itself, so as to be d secure. And when the eye ofthe soul is really buried in a sort of barbaric bog,14 dialectic gently pulls it out and leads it upwards, using the crafts we described to help it and cooperate with it in turning the soul around. From force of habit, we’ve often called these crafts sciences or kinds of knowledge, butthey need another name, clearer than opinion, darker than knowledge. We called them thought somewhere before.15 But I presume that we won’t dispute about a name when we have so many more important matters to investigate.
+```
+
+The Ideal City is not just wishful thinking; it is *possible to exist*, although it may be very difficult
+
+```ad-quote
+title: 540d-e
+collapse: closed
+Then, do you agree that the things we’ve said about the city and its constitution aren’t altogether wishful thinking, that it’s hard for them to come about, but not impossible? And do you also agree that they can come about only in the way we indicated, namely, when one or more true philosophers come to power in a city, who despise present honors, thinking them slavish and worthless, and who prize what is right and the honors e that come from it above everything, and regard justice as the most impor¬ tant and most essential thing, serving it and increasing it as they set their city in order?
 ```
 
 
