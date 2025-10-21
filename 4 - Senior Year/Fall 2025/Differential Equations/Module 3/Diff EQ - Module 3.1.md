@@ -482,7 +482,10 @@ A set is called *linearly dependent* if it does not fit this rule such that
 $$c_{1}+c_{2}+\dots+c_{k}\ne0$$
 ```
 
-### Example 1
+You may also use the *determinate* to find if a vector is linearly independent or not for an $n \times n$ matrix.
+- This is also true for $n \times k$ where some $k \times k$ submatrix of $\mathbf{A}$ has nonzero determinant
+### Examples 
+#### Example 1
 
 ```ad-question
 Determine whether the given vectors $\vec{u}, \vec{v}, \vec{w}$ are linearly independent or dependnet.
@@ -566,7 +569,7 @@ $$
 3t\vec{u}+2t \vec{v}+t \vec{w} = \vec{0}
 $$
 
-### Example 2
+#### Example 2
 
 $$
 \vec{u}= \left < 1, 1, 0 \right >, \vec{v} \left < 5, 1, 3 \right >, \vec{w} = \left < 0, 1, 2 \right >
@@ -615,5 +618,85 @@ c_{1}=0, c_{2}, c_{3}=0
 $$
 ```ad-important
 It is linearly independent!!
+```
+
+#### Example 3
+
+```ad-question
+Find if the following vectors are linearly dependent/independent by using the *determinate*.
+```
+
+$$
+\vec{v}_{1}=\left < 1, 0 \right >, \vec{v}_{2}=\left < 3, 9 \right >
+$$
+
+$$
+\begin{bmatrix}
+1 & 3 \\
+0 & 9
+\end{bmatrix} = 9-0\ne 0
+$$
+Linearly *independent*
+
+#### Example 4
+
+$$
+\vec{v}_{1}=\left< -5, -7 \right >, \vec{v}_{2}=\left < -10, -14 \right >
+$$
+$$
+\begin{bmatrix}
+-5 & -10 \\
+-7 & -14
+\end{bmatrix}=70-70=0 \Rightarrow \boxed{\text{Linearly Dependent}}
+$$
+### Example 5
+
+$$
+\vec{v}_{1}= \left < 1, 0 \right >, \vec{v}_{2}= \left < 3, 9 \right >, \vec{v}_{3}= \left < -5, -7 \right >
+$$
+$$
+\begin{bmatrix}
+1 & 3 & -5 \\
+0 & 9 & -7
+\end{bmatrix}
+$$
+Since there are more unknowns then equations, we know that this *must* be **linearly dependent**
+
+#### Example 5
+
+$$
+\begin{bmatrix}
+1 & 0 & 3 \\
+4 & -2 & 9 \\
+2 & -1 & 5
+\end{bmatrix}
+$$
+$$
+\begin{matrix}
+-4R_{1}+R_{2}\to R_{2} \\
+-2R_{1}+R_{3} \to R_{3}
+\end{matrix} \begin{bmatrix}
+1 & 0 & 3 \\
+0 & -2 & -3 \\
+0 & -1 & -1
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+-2 & -3 \\
+-1 & -1
+\end{bmatrix} = 2-3=-1 \Rightarrow \boxed{\text{Linearly Independent}}
+$$
+## Basis
+
+A finite set $S$ of vectors in a vector space $V$ is called *basis* for $V$ provided that:
+1. The vectors in $S$ are linearly independent
+2. The vectors in $S$ spans $V$
+
+```ad-example
+$$\vec{v}_1 = \left < 1, 0 \right > , \vec{v}_2 = \left < 0, 1 \right >$$
+By previous examples, we already know that this is linearly independent
+$$\mathbb{R}^2 = \text{span} \left \{ \vec{v}_1, \vec{v}_2 \right \}$$
+Therefore, $\vec{v}_1$ and $\vec{v}_2$ is a basis for $\mathbb{R}^2$
 ```
 
