@@ -700,3 +700,19 @@ $$\mathbb{R}^2 = \text{span} \left \{ \vec{v}_1, \vec{v}_2 \right \}$$
 Therefore, $\vec{v}_1$ and $\vec{v}_2$ is a basis for $\mathbb{R}^2$
 ```
 
+#### Example 1
+
+Linearly independent?
+$$
+\left | \begin{matrix}
+1 & 0 & 0 \\
+2 & 1 & 2 \\
+-1 & 0 & -1
+\end{matrix} \right |
+$$
+
+$$
+\begin{matrix}
+\det(A)=-1 \ne 0
+\end{matrix}
+$$
