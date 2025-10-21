@@ -390,6 +390,63 @@ $$
 $$
 \vec{b}=2\vec{v}_{1}+3\vec{v}_{2} \quad \checkmark
 $$
+
+### Example 4
+
+```ad-question
+Prove that $\begin{bmatrix} -22 \\ -16 \\ 0 \end{bmatrix}$ belongs to the span of $\left\{ \begin{bmatrix} -1  \\ -4 \\ 2 \end{bmatrix}, \begin{bmatrix} -5 \\ -2 \\ -1 \end{bmatrix} \right \}$ is a linear combination of those two vecotrs.
+```
+
+$$
+\begin{bmatrix}
+-1 & -5 & -22 \\
+-4 & -2 & -16 \\
+2 & -1 & 0
+\end{bmatrix}
+$$
+*RREF*
+
+$$
+-R_{1} \to R_{1} \begin{bmatrix}
+1 & 5 & 22 \\
+-4 & -2 & -16 \\
+2 & -1 & 0
+\end{bmatrix}
+$$
+$$
+\begin{matrix}
+-2R_{1}+R_{3}\to R_{3}
+\end{matrix} \begin{bmatrix}
+1 & 5 & 22 \\
+0 & 18 & 72 \\
+0 & -11 & -44
+\end{bmatrix}
+$$
+$$
+\frac{1}{18}R_{2} \to R_{2}
+\begin{bmatrix}
+1 & 5 & 22 \\
+0 & 1 & 4 \\
+0 & -11 & -44
+\end{bmatrix}
+$$
+$$
+\begin{matrix}
+-5R_{2} +R_{1} \to R_{1} \\
+11R_{2} +R_{3} \to R_{3}
+\end{matrix}
+\begin{bmatrix}
+1 & 0 & 2 \\
+0 & 1 & 4 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+
+$$
+\boxed{\vec{b}=2\vec{v}_{1}+4\vec{v}_{2}}
+$$
+
+
 ## Spanning Set
 
 The collection of all linear combinations of a set of vectors $\left\{ \vec{v}_{1}, \dots, \vec{v}_{k} \right\}$ in $\mathbb{R}^n$ is known as the span of these vectors and is written as: $\text{span}\left\{ \vec{v}_{1}, \dots, \vec{v}_{k} \right\}$
@@ -401,5 +458,162 @@ $$
 $$
 \vec{w} = xv_1 + yv_2
 $$
+```
+
+## Linear Independence
+
+The vectors in a vector space $V$ are said to be *linearly independent* provided that the equation:
+
+$$
+c_{1}\vec{v}_{1}+c_{2}\vec{v}_{2}+\dots+c_{k}\vec{v}_{k}=0
+$$
+
+**ONLY IF** it has a trivial solution $\boxed{c_{1}+c_{2}+\dots+c_{k}=0}$
+
+```ad-example
+That is, the only linear combination of $V$ that respresents the zero vector $\mathbf{0}$ is the trival combination:
+
+$$0 \vec{v}_1+0\vec{v}_2+\dots+0 \vec{v}_k$$
+```
+
+```ad-note
+A set is called *linearly dependent* if it does not fit this rule such that
+
+$$c_{1}+c_{2}+\dots+c_{k}\ne0$$
+```
+
+### Example 1
+
+```ad-question
+Determine whether the given vectors $\vec{u}, \vec{v}, \vec{w}$ are linearly independent or dependnet.
+```
+
+$$
+\vec{u}=\left<2,0,1 \right>, \vec{v}=\left < -3, 1, -1 \right >, \vec{w}=\left < 0, -2, -1 \right >
+$$
+Suppose that $a \vec{u}+b \vec{v} + c \vec{w}=\vec{0}$
+
+$$
+2a-3b+0c=0
+$$
+$$
+0a+1b-2c=0
+$$
+$$
+1a-1b-1c=0
+$$
+*Make the coefficient matrix*
+$$
+\begin{bmatrix}
+2 & -3 & 0 \\
+0 & 1 & -2 \\
+1 & -1 & -1
+\end{bmatrix}
+$$
+$$
+R_{1}\leftrightarrow R_{3} \begin{bmatrix}
+1 & -1 & -1 \\
+0 & 1 & -2 \\
+2 & -3 & 0
+\end{bmatrix}
+$$
+$$
+-2R_{1}+R_{3}\to R_{3}
+\begin{bmatrix}
+1 & -1 & -1 \\
+0 & 1 & -2 \\
+0 & -1 & 2
+\end{bmatrix}
+$$
+$$
+\begin{matrix}
+R_{2}+R_{1}\to R_{1} \\
+R_{2}+R_{3}\to R_{3}
+\end{matrix} \begin{bmatrix}
+1 & 0 & -3 \\
+0 & 1 & -2 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+1 & 0 & -3 & 0 \\
+0 & 1 & -2 & 0 \\
+0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+
+```ad-important
+Since there is a free variable for $c$, this means that the system is **linearly dependent**.
+```
+$$
+c =t
+$$
+$$
+b-2c=0
+$$
+$$
+b=2t
+$$
+$$
+a-3c=0
+$$
+$$
+a=3t
+$$
+
+$$
+3t\vec{u}+2t \vec{v}+t \vec{w} = \vec{0}
+$$
+
+### Example 2
+
+$$
+\vec{u}= \left < 1, 1, 0 \right >, \vec{v} \left < 5, 1, 3 \right >, \vec{w} = \left < 0, 1, 2 \right >
+$$
+$$
+\begin{bmatrix}
+1 & 5 & 0 \\
+1 & 1 & 1 \\
+0 & 3 & 2
+\end{bmatrix}
+$$
+$$
+-R_{1}+R_{2} \to R_{2}
+\begin{bmatrix}
+1 & 5 & 0 \\
+0 & -4 & 1  \\
+0 & 3 & 2
+\end{bmatrix}
+$$
+$$
+-\frac{1}{4}R_{2} \to R_{2} \begin{bmatrix}
+1 & 5 & 0 \\
+0 & 1 & -\frac{1}{4} \\
+0 & 3 & 2
+\end{bmatrix}
+$$
+$$
+\begin{matrix}
+-5R_{2}+R_{1} \to R_{1} \\
+-3R_{2}+R_{3} \to R_{3}
+\end{matrix} \begin{bmatrix}
+1 & 0 & \frac{5}{4} \\
+0 & 1 & -\frac{1}{4} \\
+0 & 0 & \frac{11}{4}
+\end{bmatrix}
+$$
+$$
+\frac{4}{11}R_{3} \to R_{3} \begin{bmatrix}
+1 & 0 & \frac{5}{4} \\
+0 & 1 & -\frac{1}{4} \\
+0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+c_{1}=0, c_{2}, c_{3}=0
+$$
+```ad-important
+It is linearly independent!!
 ```
 
