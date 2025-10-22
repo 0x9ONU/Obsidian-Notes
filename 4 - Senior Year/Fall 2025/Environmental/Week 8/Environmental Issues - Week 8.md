@@ -180,6 +180,26 @@ What is sustainable?
 
 ![[Pasted image 20251017103538.png]]
 
+### Public Health and GWD
+
+```ad-important
+Humans are the only known reservoir for adult worms (until very recently)
+```
+
+Ways to Prevent GWD:
+1. Focus on getting safe drinking water
+2. Kill the vector (copepods)
+3. Keeping infected individuals away from water
+
+### Updates in Fight Against GWD
+
+It turns out that *dogs* can also catch GWD through dogs eating infected fish.
+- The close proximity to dogs cause humans to also be infected
+
+```ad-success
+title: Good News
+Down to only 25 cases in 2024
+```
 ## Environmental Hazards
 
 1. **Physical Hazards**
@@ -225,5 +245,98 @@ Modes of Transmission:
 
 ```
 
+## Human Manipulation and Disease Risk
 
+A lot of increase in disease risk increases when introduction to a pathogen is increased.
+1. *Deforestation*: Major changes in an environment can lead to the discovery of novel pathogens
+2. *Climate Change*: Increases the frequency of heavy rainfalls, which increase the exposure to disease as sewage and runoff come back up into the drinking supply
+3. *Pollution*
 
+### Example 1: Habitat Fragmentation and Lyme Disease
+
+In the upper Midwest, the amount of lyme disease in the USA has increased dramatically
+- One contributing factor is that mice thrive on edge habitats
+- As habitats fragment, a lot more edge habitats are created so more mice have been spotted
+- Mice are one of the best reservoirs for ticks, which leads to more ticks and lyme disease cases
+
+![[Pasted image 20251022101112.png | center]]
+
+### Example 2: Increase in Standing Water
+
+As forests are being destroyed, which leads to more water being on the ground and instead of in tree roots/leaves
+- This leads to an increase in mosquito as a vector
+	- More malaria and elephantiasis has been reported because of this.
+- Also leads to more snails, which carry schistosomiasis
+
+## Noncommunicable Diseases (NCDs)
+
+Also known as “lifestyle diseases” since your lifestyle can often cause it:
+- Physical inactivity
+- Alcohol abuse
+- Tobacco
+- Unhealthy Diet
+
+```ad-example
+- Cancer
+- Diabetes
+- Heart disease and stroke
+- Chronic lung diseases
+```
+
+### Public Health: Health of Human Populations
+
+Types of public health
+1. Education
+2. Providing health care
+3. Proposes actions from a risk assessments
+4. Conducting a risk assessment (aka. *Epidemiologists*)
+
+#### Vaccinations and Why They Work
+
+A big part of vaccines and why there work is due to “community immunity”. If most get vaccinated, the spread is contained to small groups of individuals
+
+![[Pasted image 20251022102822.png]]
+
+```ad-warning
+Sometimes diseases can come back if community immunity is not established (ex. Measles in 2019 throughout some US states).
+```
+
+### Environmental Health
+
+25% of human disease are caused by environmental hazards alone. The good news is that these can be *changed*.
+- Many of these diseases are linked to clean air or water, which can be drastically reduced
+
+![[Pasted image 20251022103432.png]]
+
+## Top Causes of Death Between More/Less Developed Countries
+
+**Low Income**:
+![[Pasted image 20251022103525.png]]
+
+**High Income**:
+
+![[Pasted image 20251022103602.png]]
+
+## Emerging Infectious Diseases
+
+New to humans or rapidly increases range or incidence
+- Ex. Ebola
+- Covid-19
+- HIV 
+
+```ad-important
+Many of these new diseases are **zoonotic**, aka the spread between animals and humans.
+- Ex. Bats and Birds are a large reservoir for infectious diseaes
+```
+
+**Reasons why Zoonotic Diseases are So Prevalent**:
+1. *Increased Contact*: encroachment into formerly wild areas
+2. *Bushmeat Trade*: protein sources are harvested whenever it can be gotten, including from animals that might have infectious diseases.
+3. *Wet Markets*: A farmer’s market for wild animals that are slaughtered on the spot
+
+## What Can I Do?
+
+1. Wash your hands
+2. Take all of your antibiotics
+3. Life Straw for others
+4. Bottled water is not regulated by the EPA…
