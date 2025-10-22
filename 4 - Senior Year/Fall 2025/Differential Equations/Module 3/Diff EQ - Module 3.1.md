@@ -716,3 +716,14 @@ $$
 \det(A)=-1 \ne 0
 \end{matrix}
 $$
+## Finding a Basis for the Solution Space of a Given Homogeneous Linear System
+
+Now we consider the following homogeneous linear system:
+
+$$
+\vec{A}\vec{x}=\vec{0}
+$$
+in which $\vec{A}$ is an $m \times n$ matrix, so the system consists of $m$ equations in the $n$ variables $x_{1},x_{2},\dots,x_{n}$.
+- It’s solution space $W$ is then a  subspace of $\mathbb{R}^n$
+- We want to determine the dimension of $W$ and, moreover, to find an explicit basis of $W$
+
