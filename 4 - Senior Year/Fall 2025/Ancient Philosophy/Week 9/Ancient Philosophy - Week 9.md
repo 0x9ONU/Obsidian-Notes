@@ -112,11 +112,15 @@ Three standards of judging well:
 **Experience** 
 - The pleasure of a profit-lover is something that philosopher has of necessity tasted them since childhood. But no such necessity for a profit-lover, and it would be difficult, even if he were eager to taste it.
 - The pleasure of an honor lover is something that each of them has tasted for being a rich person or a courageous person. But as far as the pleasure of studying the things that are, only a philosopher can taste it.
-- 
-- 
-- Only a *philosopher* gains his experience with reason
-	- As regards argument, it is most of all an instrument of a philosopher
+
+Only a *philosopher* gains his experience with **reason**
+
+As regards **argument**, it is most of all an instrument of a philosopher.
 
 Therefore, based on the three criteria, the philosopher speaks most truly.
 
+```ad-note
+Suppose the criteria differ: if they were wealth and profit, the judgment of a profit-lover would be truest; and if they were honor, victory & courage, the judgment of an honor-liver would be truest.
+```
 ## Third Argument: 
+
