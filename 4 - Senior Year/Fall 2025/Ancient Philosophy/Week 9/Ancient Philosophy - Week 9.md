@@ -53,7 +53,6 @@ And do you realize that of necessity there are as many forms of human character 
 
 #### Descriptions of the Soul
 
-
 | Soul         | Part       | Characteristic                                                                                                                           |
 | ------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Aristocratic | Rational   | Wisdom-loving                                                                                                                            |
@@ -77,7 +76,7 @@ Now, in private life, before a tyrannical man attains power, isn’t he this sor
 It is as enslaved as it is possible to be. Yet you see in it people who are masters and free. I do see a few like that, but the whole city, so to speak, and the most decent part of it are wretched, dishonored slaves. d Then, if man and city are alike, mustn’t the same structure be in him too? And mustn’t his soul be full ofslavery and unfreedom, with the most decent parts enslaved and with a small part, the maddest and most vicious, as their master? It must. What will you say about such a soul then? Is it free or slave? Slave, of course. And isn’t the enslaved and tyrannical city least likely to do what it wants? Certainly. Then a tyrannical soul—I’m talking about the whole soul—will also be least likely to do what it wants and, forcibly driven by the stings of a e dronish gadfly, will be full of disorder and regret.
 ```
 
-**Based on the description of Tyrannical soul in contrast to Aristocratic soul, we can see why just person is happiest than the unjust person (who is in fact wretched).** 
+**Based on the description of Tyrannical soul in contrast to Aristocratic soul, we can see why just person is happiest than the unjust person (who is in fact wretched).** (see 579c-580c)
 
 ```ad-quote
 title: 579c-580c
@@ -113,8 +112,11 @@ Three standards of judging well:
 **Experience** 
 - The pleasure of a profit-lover is something that philosopher has of necessity tasted them since childhood. But no such necessity for a profit-lover, and it would be difficult, even if he were eager to taste it.
 - The pleasure of an honor lover is something that each of them has tasted for being a rich person or a courageous person. But as far as the pleasure of studying the things that are, only a philosopher can taste it.
+- 
+- 
 - Only a *philosopher* gains his experience with reason
 	- As regards argument, it is most of all an instrument of a philosopher
 
 Therefore, based on the three criteria, the philosopher speaks most truly.
 
+## Third Argument: 
