@@ -1,3 +1,7 @@
+---
+longform:
+  format: single
+---
 Date: 21st October 2025
 Date Modified: 21st October 2025
 File Folder: Week 9
@@ -13,7 +17,7 @@ collapse: open
 
 ```
 
-# Republic VIII - IX
+# Republic VIII - IX: The Three Arguments for Just
 
 Socrates returns back to his original argument of just/unjust from Book 4 in Book 8 and onward. However, he now has the baseline for the argument
 
@@ -122,5 +126,127 @@ Therefore, based on the three criteria, the philosopher speaks most truly.
 ```ad-note
 Suppose the criteria differ: if they were wealth and profit, the judgment of a profit-lover would be truest; and if they were honor, victory & courage, the judgment of an honor-liver would be truest.
 ```
-## Third Argument: 
 
+What if there are those who experienced all three and chose the bottom two?
+- Ex. a General chooses honor even though he is well-educated
+- Ex. a CEO chooses profit even though he is a genius
+- Plato would argue that the true experience of a rational seeker is to find truth and the General and the CEO are using the truth *as a means* to push their motivations. They are blinded and do not understand it as such.
+- Or they did not have enough of a natural gift, so they pivoted to something else
+## Third Argument: False Pleasure
+
+```ad-note
+Plato thinks that this is the best of the three arguments
+```
+
+Pleasure and pain are the opposites and there is an intermediate state, which is neither of them.
+- If you are sick and then get relieved from that pain and move to an intermediate state, then you will fell pleasure. If you are feeling great pleasure and no longer experience it and move to an intermediate state, then you will feel painful.
+- Pleasure and pain seem to be a kind of motion
+- Pleasure is the *absence* of pain and pain is the absence of pleasure as it is some kind of magic.
+
+```ad-question
+Is the ture nature of pleasure and pain deifned in terms of its corresponding absences?
+```
+
+**NO**: because there are pleasure that do not come out of pains (ex. smell). But most of the so-called pleasure and pains that reach the body are like the ones described above.
+- These kinds of pleasure most resemble the following: (584e-585a)
+
+```ad-quote
+title: 584e-585a
+And if he was brought back, wouldn’t he suppose that he was being brought down? And wouldn’t he be right? e Of course. Then wouldn’t all this happen to him because he is inexperienced in what is really and truly up, down, and in the middle? Clearly. Is it any surprise, then, ifthose who are inexperienced in the truth have unsound opinions about lots of other things as well, or that they are so disposed to pleasure, pain, and the intermediate state that, when they descend to the painful, they believe truly and are really in pain, but that, when they ascend from the painful to the intermediate state, they firmly believe thatthey have reached fulfillment and pleasure? They are inexperi¬ enced in pleasure and so are deceived when they compare pain to pain¬ lessness, just as they would be if they compared black to grey without having experienced white.
+```
+
+### Body and Soul Distinction
+
+|      | State |                      |
+| ---- | ----- | -------------------- |
+| Soul | Empty | Ignorance            |
+| Body | Empty | Hunger, thirst, etc. |
+
+By nourishing them, each will be filled up and as a result will feel pleasure.
+- The nourishment for the body are bread, drink and delicacies (but they only provide false pleasure because these kinds of nourishment never the same and, hence, the body share less in truth). See 585e-586a
+
+```ad-quote
+title: 585e-586a
+collapse: closed
+Therefore, if being filled with what is appropriate to our nature is pleasure, that which is more filled with things that are more enjoys more really and truly a more true pleasure, while that which partakes of things e that are less is less truly and surely filled and partakes of a less trustworthy and less true pleasure. That’s absolutely inevitable. Therefore, those who have no experience of reason or virtue, but are always occupied with feasts and the like, are brought down and then back 586 up to the middle, as it seems, and wander in this way throughout their lives, never reaching beyond this to what is truly higher up, never looking up at it or being brought up to it, and so they aren’t filled with that which really is and never taste any stable or pure pleasure. Instead, they always look down at the ground like cattle, and, with their heads bent over the dinner table, they feed, fatten, and fornicate. To outdo8 others in these things, they kick and butt them with iron horns and hooves, killing each b other, because their desires are insatiable. For the part that they’re trying to fill is like a vessel full of holes, and neither it nor the things they are trying to fill it with are among the things that are
+```
+
+In contrast, the nourishment of the **soul** includes true belief, knowledge, and understanding (and they provide true pleasure because they are related to what is always the same, immortal and truth.)
+- Without reason and understanding, the spirited part will be nourished with envy, violence, and anger (see 586d)
+- The soul of a philosopher is the most pleasant and the soul of a tyrant is the most wretched. (See 586e-587a and 587b ) 
+
+```ad-quote
+title: 586d
+collapse: closed
+And what about the spirited part? Mustn’t similar things happen to someone who satisfies it? Doesn’t his love of honor make him envious and his love ofvictory make him violent, so that he pursues the satisfaction of his anger and of his desires for honors and victories without calculation d or understanding?
+```
+
+```ad-quote
+title: 586e-587a and 587b
+collapse: closed
+Therefore, when the entire soul follows the philosophic part, and there is no civil war in it, each part of it does its own work exclusively and is just, and in particular it enjoys its own pleasures, the best and truest 587 pleasures possible for it. Absolutely. But when one ofthe other parts gains control, it won’t be able to secure its own pleasure and will compel the other parts to pursue an alien and untrue pleasure.
+--- 
+Then, if what we said before is true, doesn’t he live with an image of pleasure that is third from an oligarch’s with respect to truth? He does. Now, an oligarch, in turn, is third from a king," if we identify a king and an aristocrat. d Yes, he’s third. So a tyrant is three times three times removed from true pleasure. Apparently so. It seems then, on the basis of the magnitude of its number, that the image of tyrannical pleasure is a plane figure. Exactly. But then it’s clear that, by squaring and cubing it, we’ll discover how far a tyrant’s pleasure is from that of a king. It is clear to a mathematician, at any rate.
+```
+
+```ad-note
+Saciating the body can be addicting to the point that there is a point you cannot satisfy the appetitive part anymore.
+```
+
+## Discussion
+
+- The arguments, especially the third argument, you need to accept that a soul exists as a vessel of knowledge and that there are forms such that you can create the Form of the Good
+- The first argument relies on this the least, the tyrant relies the most on chaos and does not have the self-control to not live out the most unlawful desires
+- Knowledge is so powerful that we are able to control all the appetite part and the spirited part IF that part of our body is able to control such that.
+
+# Republic X: The Concluding Comments
+
+## Passage 1: 588B-590A 
+
+```ad-quote
+collapse: closed
+Then, if someone maintains that injustice profits this human being and that doing just things brings no advantage, let’s tell him that he is simply saying that it is beneficial for him, first, to feed the multiform beast well and make it strong, and also the lion and all that pertains to him; second, 589 to starve and weaken the human being within, so that he is dragged along wherever either of the other two leads; and, third, to leave the parts to bite and kill one another rather than accustoming them to each other and making them friendly. Yes, that’s absolutely what someone who praises injustice is saying. But, on the other hand, wouldn’t someone who maintains that just things are profitable be saying, first, that all our words and deeds should insure that the human being within this human being has the most control; second, that he should take care ofthe many-headed beast as a farmer does b his animals, feeding and domesticating the gentle heads and preventing the savage ones from growing; and, third, that he should make the lion’s nature his ally, care for the community of all his parts, and bring them up in such a way that they will be friends with each other and with himself? Yes, that’s exactly what someone who praises justice is saying. From every point ofview, then, anyone who praises justice speaks truly, and anyone who praises injustice speaks falsely. Whether we look at the matter from the point of view of pleasure, good reputation, or advantage, a praiser of justice tells the truth, while one who condemns it has nothing c sound to say and condemns without knowing what he is condemning. In my opinion, at least, he knows nothing about it. Then let’s persuade him gently—for he isn’t wrong of his own will— by asking him these questions. Should we say that this is the original basis for the conventions about what is fine and what is shameful? Fine things are those that subordinate the beastlike parts ofour nature to the human— or better, perhaps, to the divine; shameful ones are those that enslave the d gentle to the savage? Will he agree or what?
+```
+
+To show it is not the case that injustice profits a completely unjust person and brings an advantage to that person, so Plato presents us with the following illustration:
+
+```ad-example
+title: Illustration
+Imagine the humans oul as if it is composed of three different creasures:
+1. A little human
+2. A lion
+3. A beast
+
+One must not let the lion or beast take over and let the little human drive us towards rationality.
+```
+
+## Passage 2: 611B-612A
+
+```ad-quote
+collapse: closed
+Yet our recent argument and others as well compel us to believe that the soul is immortal. But to see the soul as it is in truth, we must not study it as it is while it is maimed by its association with the body and other c evils—which is what we were doing earlier—but as it is in its pure state, that s how we should study the soul, thoroughly and by means of logical reasoning. We’ll then find that it is a much finer thing than we thought and that we can see justice and injustice as well as all the other things we’ve discussed far more clearly. What we’ve said about the soul is true of it as it appears at present. But the condition in which we’ve studied it is like that of the sea god Glaucus, whose primary nature can’t easily be d made out by those who catch glimpses of him. Some ofthe original parts have been broken off, others have been crushed, and his whole body has been maimed by the waves and by the shells, seaweeds, and stones that have attached themselves to him, so that he looks more like a wild animal than his natural self. The soul, too, is in a similar condition when we study it, beset by many evils. That, Glaucon, is why we have to look somewhere else in order to discover its true nature. To where? To its philosophy, or love of wisdom. We must realize what it grasps e and longs to have intercourse with, because it is akin to the divine and immortal and what always is, and we must realize what it would become if it followed this longing with its whole being, and if the resulting effort lifted it out ofthe sea in which it now dwells, and if the many stones and 612 shells (those which have grown all over it in a wild, earthy, and stony profusion because it feasts at those so-called happy feastings on earth) were hammered offit.18 Then we’d see what its true nature is and be able to determine whether it has many parts or just one and whether or in what manner it is put together. But we’ve already given a decent account, I think, of what its condition is and what parts it has when it is immersed in human life
+```
+
+Plato’s discussion of the soul in the *Republic* is about the human psychology as its soul is found in the body int he present life; and not the true nature of the soul as such that may exist after life (the *Phaedo* touches on this).
+
+## Passage 3: 592A-B
+
+```ad-quote
+If that’s his chief concern, he won’t be willing to take part in politics. Yes, by the dog, he certainly will, at least in his own kind of city. But he may not be willing to do so in his fatherland, unless some divine good luck chances to be his. I understand. You mean that he’ll be willing to take part in the politics ofthe city we were founding and describing, the one that exists in theory, for I don’t think it exists anywhere on earth. b But perhaps, I said, there is a model of it in heaven, for anyone who wants to look at it and to make himselfits citizen on the strength ofwhat he sees. It makes no difference whether it is or ever will be somewhere, for he would take part in the practical affairs of that city and no other. Probably so, he said.
+```
+
+- Plato constructed his theoretical state as if it exists in “the model in the heaven”
+- The book is not primarily about politics, but rather about moral psychology based on his metaphysics and epistemology.
+
+## Final Discussions
+
+- You cannot say that justice is exactly means happiness since it would be purely instrumental
+	- If you accept health is intrinsic and instrumental, then we can talk about happiness and pleasure in both ways
+- Is knowledge and truth always good? Or are they nutral?
+	- Plato believes that knowledge is good because the soul by nature wants to seek truth
+	- With no form of the good, the soul can no longer have a privileged status
+	- From there, the soul will turn into relativistic position with the appetitive part of the soul.
+- His definition of Justice
+	- each of the parts of the soul must perform its own tasks
+	- Whether or not the rational part is able to rule over us and control the other part of the soul
+- 

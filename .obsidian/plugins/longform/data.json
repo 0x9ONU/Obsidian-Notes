@@ -1,10 +1,20 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Test/Index.md",
+  "selectedDraftVaultPath": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
+    {
+      "start": "2025-10-23T13:55:41.793Z",
+      "total": 2166,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 2166,
+          "scenes": {}
+        }
+      }
+    },
     {
       "start": "2025-05-08T14:35:14.883Z",
       "total": 0,
@@ -26,6 +36,9 @@
   "sessionFile": "longform-sessions.json",
   "numberScenes": false,
   "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
   "workflows": {
     "Default Workflow": {
       "name": "Default Workflow",
