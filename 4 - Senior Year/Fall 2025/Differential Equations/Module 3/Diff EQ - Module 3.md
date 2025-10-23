@@ -727,3 +727,199 @@ in which $\vec{A}$ is an $m \times n$ matrix, so the system consists of $m$ equa
 - It’s solution space $W$ is then a  subspace of $\mathbb{R}^n$
 - We want to determine the dimension of $W$ and, moreover, to find an explicit basis of $W$
 
+```ad-note
+- The Dimension is how many vectors are part of the set $W$
+- The rank is the number of leading variables in the answer
+```
+#### Algorithm A
+
+1. Reduce the coefficient matrix $\mathbf{A}$ to the echelon form.
+2. Identify the $r$ leading variables and the $k=n-r$ free variables. If $k-0$, then $W=\left \{ \mathbf{0} \right \}$
+3. Set the free variables equal to parameters $t_{1},t_{2},\dots,t_{k}$, and then solve by back substitution for the leading variables in terms of these parameters.
+4. Let $\mathbf{v}_{j}$ be the solution vector obtained by setting $t_{j}$ equal to 1 and the other parameters equal to zero. Then $\left \{ \mathbf{v}_{1}, \mathbf{v}_{2},\dots,\mathbf{v}_{k} \right \}$ is a basis for $W$
+
+### Examples
+
+#### Example 1
+
+```ad-question
+Find a basis for the solution space of the homogenous linear system:
+
+
+$$
+\begin{matrix}
+3x_{1}+6x_{2}-x_{3}-5x_{4}+5x_{5}=0 \\
+2x_{1}+4x_{2}-x_{3}-3x_{4}+2x_{5}=0 \\
+3x_{1}+6x_{2}-2x_{3}-4x_{4}+x_{5}=0
+\end{matrix}
+$$
+
+```
+
+$$
+\begin{bmatrix}
+3 & 6 & -1 & -5 & 5 \\
+2 & 4 & -1 & -3 & 2 \\
+3 & 6 & -2 & -4 & 1
+\end{bmatrix}
+$$
+$$
+\begin{matrix}
+-2R_{1}+3R_{2} \to R_{2} \\
+-R_{1}+R_{3} \to R_{3}
+\end{matrix} \begin{bmatrix}
+3 & 6 & -1 & -5 & 5 \\
+0 & 0 & -1 & 1 & -4 \\
+0 & 0 & -1 & 1 & -4
+\end{bmatrix}
+$$
+$$
+-1R_{2}+R_3\to R_{3} \begin{bmatrix} 
+x_{1} & x_{2} & x_{3} & x_{4} & x_{5} \\
+
+3 & 6 & -1 & -5 & 5 \\
+0 & 0 & -1 & 1 & -4 \\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+**Leading**: $x_{1}, x_{3}$
+**Free**: $x_{2},x_{4},x_{5}$
+
+$$
+x_{2}=t,x_{4}=t_{2},x_{5}=t_{3}
+$$
+$$
+-x_{3}+x_{4}-4x_{5}=0
+$$
+$$
+x_{3}=t_{2}-4t_{3}
+$$
+$$
+3x_{1}+6x_{2}-x_{3}-5x_{4}+5x_{5}
+$$
+$$
+3x_{1}+6t_{1}-(t_{2}-4t_{3})-5t_{2}+5t_{3}=0
+$$
+$$
+3x_{1}+6t_{1}-6t_{2}+9t_{3}=0
+$$
+$$
+x_{1}=-2t_{1}+2t_{2}-3t_{3}
+$$
+
+**Assume that $t_{1}=1$, and $t_{2},t_{3}=0$**
+$$
+\vec{v}_{1} = \begin{bmatrix}
+-2 \\
+1 \\
+0 \\
+0 \\
+0
+\end{bmatrix}
+$$
+**Assume that $t_{2}=1$, and $t_{1},t_{3}=0$**
+$$
+\vec{v}_{2} = \begin{bmatrix}
+2 \\
+0 \\
+1 \\
+1 \\
+0
+\end{bmatrix}
+$$
+**Assume that $t_{3}=1$, and $t_{1},t_{2}=0$**
+$$
+\vec{v}_{3} = \begin{bmatrix}
+-3 \\
+0 \\
+-4 \\
+0 \\
+1
+\end{bmatrix}
+$$
+
+```ad-important
+The basis of the soltuion space:
+$$
+\left \{ \vec{v}_{1},\vec{v}_{2},\vec{v}_{3} \right \}
+$$
+This makes the dimension of the solution space three!
+```
+
+#### Example 2
+
+$$
+\begin{matrix}
+x_{1}-2x_{2}+3x_{3}=0 \\
+2x_{1}-3x_{2}-x_{3}=0
+\end{matrix}
+$$
+$$
+\begin{bmatrix}
+1 & -2 & 3 \\
+2 & -3 & -1
+\end{bmatrix}
+$$
+$$
+-2R_{1}+R_{2}\to R_{2} \begin{bmatrix}
+1 & -2 & 3 \\
+0 & 1 & -7
+\end{bmatrix}
+$$
+**Leading**: $x_{1},x_{2}$
+**Free**: $x_{3}$
+
+$$
+x_{3}=t
+$$
+$$
+x_{2}-7t=0
+$$
+$$
+x_{2}=7t
+$$
+$$
+x_{1}-2x_{2}+3x_{3}=0
+$$
+$$
+x_{1}-2(7t)+3(t)=0
+$$
+$$
+x_{1}=11t
+$$
+**Assuming $t=1$**
+
+$$
+\vec{v} = 
+\begin{bmatrix}
+11 \\
+7 \\
+1
+\end{bmatrix}
+$$
+$$
+\therefore W = \left \{ \vec{v}_{1} \right \}
+$$
+*Dimension of Basis*: 1
+
+#### Example 3
+
+$$
+\begin{matrix}
+x_{1}-3x_{2}+2x_{3}-4x_{4}=0 \\
+2x_{1}-5x_{2}+8x_{3}-3x_{4}=0
+\end{matrix}
+$$
+## Eigenvalues and Eigenvectors
+
+```ad-summary
+title: Definition
+```
+
+Let $A$ be an $n \times n$ matrix and let $X \in \mathbb{C}^n$ be a *nonzero* vector which:
+
+$$
+AX =\lambda X
+$$
+For some *scalar* $\lambda$. Then $\lambda$ is called an **eigenvalue** of the matrix $A$ and $X$ and is an **eigenvector** of $A$ associated with $\lambda$, or $\lambda$-eigenvector of $A. The set of all eigenvectors of an $n \times n$ matrix of $A$ is denoted by $\sigma(A)$ and is referred to as the **spectrum of $A$** 
+
