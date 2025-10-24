@@ -250,3 +250,4 @@ If that’s his chief concern, he won’t be willing to take part in politics. Y
 	- each of the parts of the soul must perform its own tasks
 	- Whether or not the rational part is able to rule over us and control the other part of the soul
 - 
+  
