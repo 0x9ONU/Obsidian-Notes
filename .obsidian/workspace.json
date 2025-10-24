@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -237,6 +238,10 @@
   },
   "active": "11ec6e376edb528e",
   "lastOpenFiles": [
+    "General Notes/Pasted image 20251024103939.png",
+    "General Notes/Pasted image 20251024103849.png",
+    "General Notes/Pasted image 20251024102945.png",
+    "General Notes/Pasted image 20251024102840.png",
     "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 9/Environmental Issues - Week 9.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 9",
@@ -268,13 +273,9 @@
     "3 - Junior Year/Fall 2024/Computer Architecture/Week 2/Computer Architecture - Week 2 Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
     "General Notes/Pasted image 20251017104903.png",
-    "General Notes/Pasted image 20251017104416.png",
-    "General Notes/Pasted image 20251017103538.png",
-    "General Notes/Pasted image 20251017102947.png",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 7/DSA Week 7 - Day 1.md",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 2.md",
-    "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 6/DSA Week 6 - Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 8",
     "4 - Senior Year/Fall 2025/Research Experience",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 3",
