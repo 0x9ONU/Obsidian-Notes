@@ -1243,5 +1243,73 @@ Where $D$ is a diagonal matrix
 
 ```
 
+$$D=
+\begin{bmatrix}
+\lambda_{1} & 0 \\
+0 & \lambda_{2}
+\end{bmatrix}
+$$
+$$
+P = \begin{bmatrix}
+\vec{v}_{1} & \vec{v}_{2}
+\end{bmatrix}
+$$
+### Example 1
+
+```ad-question
+Find $A^{30}$ based on the example 3 above
+```
+
+$$
+D = \begin{bmatrix}
+1 & 0 \\
+0 & 3
+\end{bmatrix}
+$$
+$$
+P = \begin{bmatrix}
+-1 & 1 \\
+1  & 1
+\end{bmatrix}
+$$
+$$
+P^{-1}= \frac{1}{-2} \begin{bmatrix}
+1 & -1 \\
+-1 & -1
+\end{bmatrix} = \begin{bmatrix}
+-\frac{1}{2} & \frac{1}{2} \\
+\frac{1}{2} & \frac{1}{2}
+\end{bmatrix}
+$$
+$$
+A^{30}=PD^{30}P^{-1}
+$$
+$$
+= \begin{bmatrix}
+-1 & 1 \\
+1 & 1
+\end{bmatrix} \begin{bmatrix}
+1^{30} & 0 \\
+0 & 3^{30}
+\end{bmatrix} \begin{bmatrix}
+-\frac{1}{2} &  \frac{1}{2} \\
+\frac{1}{2} & \frac{1}{2}
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+-1 & 3^{30} \\
+1 & 3^{30}
+\end{bmatrix} \begin{bmatrix}
+-\frac{1}{2} & \frac{1}{2} \\
+\frac{1}{2} & \frac{1}{2}
+\end{bmatrix}
+$$
+$$
+A^{30}=\begin{bmatrix}
+\frac{1}{2}+\frac{3^{30}}{2} & -\frac{1}{2}+\frac{3^30}{2} \\
+-\frac{1}{2}+\frac{3^30}{2} & \frac{1}{2}+\frac{3^{30}}{2}
+\end{bmatrix}
+$$
 
 
