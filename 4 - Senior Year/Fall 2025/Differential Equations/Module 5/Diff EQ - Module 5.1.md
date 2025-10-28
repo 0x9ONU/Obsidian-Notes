@@ -274,3 +274,4 @@ Compute the Wronskian of the functions:
 $$
 y_{1}(x)=e^{2x}, y_{2}(x)=x^2
 $$
+
