@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "6.1 - Day 1"
             }
+          },
+          {
+            "id": "d466d7dd1779818e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +233,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "publish:Publish changes...": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
@@ -241,11 +253,10 @@
       "obsidian-daily-notes-opener:Open today's daily note in new pane": false,
       "obsidian-daily-notes-viewer:Open Viewer": false,
       "media-extended:Open media": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "20fa6d1f814f2ed8",
+  "active": "d466d7dd1779818e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8 Day 1.md",
