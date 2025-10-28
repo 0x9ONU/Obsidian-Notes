@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Diff EQ - Module 5.1"
             }
+          },
+          {
+            "id": "c9a6feca9762c400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diff EQ - Module 3"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,8 +302,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2b92c2540cd05693",
+  "active": "c9a6feca9762c400",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff EQ - Module 5.1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3/Ancient Philosophy Week 3 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments/Apology 20c.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Plato's Apology.md",
@@ -316,7 +331,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 10/Ancient Philosophy - Week 10 Day 1.md",
     "General Notes/Pasted image 20251028093716.png",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff EQ - Module 5.1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 10",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.5.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Test 2 Prep.md",
