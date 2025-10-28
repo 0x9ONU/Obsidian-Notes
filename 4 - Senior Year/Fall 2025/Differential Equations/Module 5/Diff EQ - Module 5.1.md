@@ -127,6 +127,150 @@ Are they linearly independent?
 
 ### Checking Linear Independence using Wronskian
 
+$$
+\left |
+\begin{matrix}
+y_{1} & y_{2} & \dots & y_{n} \\
+y^\prime_{1} & y^\prime_{2} & \dots & y^\prime_{n} \\
+y^{\prime \prime}_{1} & y^{\prime \prime}_{2} & \dots & y^{\prime \prime}_{n} \\
+\vdots & \vdots & \ddots & \vdots \\
+y_{1}^{n-1} & y_{2}^{n-1} & \dots & y_{n}^{n-1}
+\end{matrix}
+\right | \ne 0 \quad \forall (a,b)
+$$
+If this is true, then $\left\{ y_{1},\dots,y_{n} \right \}$ is linearly independent on $(a,b)$
+
+#### Examples
+
+##### Example 1
+
+$$
+W \left \{2,2x,\cos x,\sin x \right \} = \left | \begin{matrix}
+2 & 2x & \cos x & \sin x \\
+0 & 2 & -\sin x & \cos x \\
+0 & 0 & -\cos x & -\sin x \\
+0 & 0 & \sin x & -\cos x
+\end{matrix} \right |
+$$
+*Cofactor expansion*:
+$$
+2 \times \left | 
+\begin{matrix}
+2 & -\sin x & \cos x \\
+0 & -\cos x & -\sin x \\
+0 & \sin x & -\cos x
+\end{matrix}
+\right |
+$$
+$$
+4 \times \left | \begin{matrix}
+-\cos x & -\sin x \\
+\sin x & -\cos x
+\end{matrix} \right |
+$$
+$$
+4(\cos^2 x +\sin^2x)
+$$
+$$
+W = 4
+$$
+**They are Linearly Independent!**
+##### Example 2
+
+$$
+y^{\prime\prime}-5y^\prime-6y=0
+$$
+$$
+y_{1}=e^{6t}, y_{2}=e^{-t}
+$$
+
+*Find the Wronskian*
+
+$$
+W = \left | \begin{matrix}
+e^{6t} & e^{-t} \\
+6e^{6t} & -e^{-t}
+\end{matrix} \right |
+$$
+$$
+= -e^{5t}-6e^{5t}
+$$
+$$
+W = -7e^{5t}
+$$
+**Linearly Independent!**
+
+*Find the Solution of the IVP*
+
+$$
+y(0)=-7; y^\prime(0) = -21
+$$
+
+$$
+y=c_{1}e^{6t}+c_{2}e^{-t}
+$$
+$$
+-7 = c_{1}e^{6(0)}+c_{2}e^{-0}
+$$
+$$
+-7=c_{1}+c_{2} \rightarrow 
+$$
+$$
+y^\prime=6c_{1}e^{6t}-c_{2}e^{-t}
+$$
+$$
+(-21)=6c_{1}-c_{2}
+$$
+*Solve System of Equations to get..*
+$$
+y=-4e^{6t}-3e^{-t}
+$$
+## Worksheet Examples
+
+### Existence and Uniqueness #1
+
+Consider the initial value problem:
+
+$$
+(x^2-4)y^{\prime \prime}+3xy^\prime+2y=0, y(x_{0})=y_{0}, y^\prime(x_{0})=y_{1}
+$$
+
+#### Work
+
+$$
+p=\frac{3x}{x^2-4}, q=\frac{2}{x^2-4}
+$$
+Interval:
+$$
+(-\infty, -2)(-2, 2)(2, \infty)
+$$
 
 
+- What is the largest interval containing $x_{0}=0$ on which a unique solution exists? $(-2, 2)$
+- $x_{0}=2$: NO INTERVAL
+- $x_{0}=-3$: $(-\infty, -2)$
 
+### Existence and Uniqueness #2
+
+What is the largest interval on which a unique solution exists:
+$$
+(x^2-1)y^{\prime\prime}+(x-1)y^\prime + y = 0, y(1)=2, y^\prime(1)=0
+$$
+$$
+P = \frac{1}{x+1}, Q=\frac{1}{x^2-1}
+$$
+$$
+(-\infty, -1)(-1, 1)(1, \infty)
+$$
+
+Since the initial condition starts at $x=1$, so no interval exists for this set.
+
+### Wronskian and Linear Independence
+
+#### Question 1
+
+Compute the Wronskian of the functions:
+
+$$
+y_{1}(x)=e^{2x}, y_{2}(x)=x^2
+$$
