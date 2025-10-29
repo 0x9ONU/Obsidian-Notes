@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "a61e5eedcac91e16",
+        "id": "8f972da5c35e588a",
         "type": "tabs",
         "children": [
           {
-            "id": "8da2b0601fd2abf2",
+            "id": "7f98f1ffd5588f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Exam 1 Review.md",
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments/Apology 20c.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Theory - Exam 1 Review"
+              "title": "Apology 20c"
+            }
+          },
+          {
+            "id": "a4460c6012f2155a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3/Ancient Philosophy Week 3 Day 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ancient Philosophy Week 3 Day 2"
+            }
+          },
+          {
+            "id": "ce730d4a5c8f6098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments/Apology 23a-b.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apology 23a-b"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,8 +274,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8da2b0601fd2abf2",
+  "active": "a4460c6012f2155a",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments/Apology 23a-b.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3/Ancient Philosophy Week 3 Day 2.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments/Apology 20c.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Plato's Apology.md",
+    "2 - Sophomore Year/Spring 2024/Number Theory/Week 6/Number Theory - Exam 1 Review.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 7/Number Theory - Week 7 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
@@ -258,9 +292,6 @@
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 10/ONumber Theory - Week 10 Day 1.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff EQ - Module 5.1.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3/Ancient Philosophy Week 3 Day 2.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments/Apology 20c.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Plato's Apology.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments/Apology 17a-d.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/(Witty Title Here).md",
@@ -276,10 +307,8 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno/Segments",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book I/Republic Book I.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 4/Ancient Philosophy - Week 4 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX",
     "General Notes/Pasted image 20251028093716.png",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 10",
