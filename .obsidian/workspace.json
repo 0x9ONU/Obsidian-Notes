@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "Diff EQ - Module 3"
             }
+          },
+          {
+            "id": "2346631bb2ab56ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -302,8 +312,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c9a6feca9762c400",
+  "active": "2346631bb2ab56ab",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff EQ - Module 5.1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 3/Ancient Philosophy Week 3 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments/Apology 20c.md",
@@ -345,7 +356,6 @@
     "General Notes/Pasted image 20251027100954.png",
     "General Notes/Pasted image 20251027100735.png",
     "4 - Senior Year/Fall 2025/Environmental/Week 9/Environmental Issues - Week 9.md",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.md",
     "General Notes/Pasted image 20251024103939.png",
     "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md",
