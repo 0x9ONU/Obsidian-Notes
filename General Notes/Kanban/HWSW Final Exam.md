@@ -2,7 +2,7 @@ Date: 8th May 2025
 Date Modified: 8th May 2025
 File Folder: Kanban
 #hwsw
-
+``
 ```ad-summary
 **Title:** Designing a Cost-Effective Programmable Single-Board Computer (SBC): AI and DSP Hardware Acceleration Suite for Automobile Applications
 **Name**: Ethan Berei
