@@ -35,8 +35,7 @@
               "title": "Diff EQ - Module 5.1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -261,8 +259,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "26fbd5b49e9de7ba",
+  "active": "b199a90bbfc82658",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff EQ - Module 5.1.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 10/Environmental Issues - Week 10 Day 3.md",
     "General Notes/Pasted image 20251031100806.png",
     "4 - Senior Year/Fall 2025/Environmental/Week 10/Environmental Issues - Week 10.md",
