@@ -109,7 +109,21 @@ For *plastics*, he number on the plastic item indicates the type of resin it is 
 - First one discovered in the Pacific in 1997
 - Uneven distribution of trash in the ocean
 - Located in major ocean currents (aka **ocean gyres**)
+- Plastics may be more problematic than previously thought since it has been found deep in some ocean trenches
 
 **Plastic Trash Affecting Wildlife**
 - Marine birds pick up plastic, feed it to their chicks, causing devastation to their young
-- 
+
+*Plastic Possessions*
+- Improved our lives in many ways, but it has the flip-edge because it takes forever for it to decompose
+- When they do, microplastics get incorporated into our food chains.
+
+## What can We do?
+
+- Recycling education and curbside recycling
+- Composting programs
+- “Low Gift” celebrations
+- TerraCycle
+
+
+
