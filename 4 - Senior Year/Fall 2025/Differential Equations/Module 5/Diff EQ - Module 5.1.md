@@ -274,4 +274,317 @@ Compute the Wronskian of the functions:
 $$
 y_{1}(x)=e^{2x}, y_{2}(x)=x^2
 $$
+## Constant Coefficients for LH2O
+
+$$
+ay^{\prime \prime}+by^\prime+cy =0
+$$
+Suppose $y =e^{rx}$ is the solution
+
+$$
+y^\prime = re^{rx}, y^{\prime \prime}=r^2e^{rx}
+$$
+$$
+a(r^2e^{rx})+b(re^{rx})+c(e^{rx})=0
+$$
+$$
+e^{rx}(ar^2)+b(re^{rx})+c(e^{rx})=0
+$$
+$$
+ar^2+br+c-0
+$$
+
+### Examples
+
+#### Example 1
+
+```ad-question
+Find the generation solution of:
+
+$$
+y^{\prime \prime}-6y^\prime +8y=0
+$$
+```
+
+*Characteristic Equation*
+$$
+r^2+6r+8=0
+$$
+$$
+(r-4)(r-2)
+$$
+$$
+r=4, 2
+$$
+$$
+y=c_{1}e^{4x}+c_{2}e^{2x}
+$$
+
+#### Example 2
+
+```ad-question
+Find the generation solution of:
+
+$$
+y^{\prime \prime}-6y^\prime +13y=0
+$$
+```
+
+$$
+r^2-6r+13=0
+$$
+$$
+r = \frac{-(-6) \pm \sqrt{ 30-4(1)(13) }}{2}
+$$
+$$
+r=3+2i, 3-2i
+$$
+$$
+e^{(3+2i)x},e^{(3-2i)x} 
+$$
+*Euler’s*
+
+```ad-note
+title: Remember
+
+$$
+e^{i \theta} = \cos \theta+i\sin \theta
+$$
+$$
+e^{-i \theta}=\cos \theta-i\sin \theta
+$$
+```
+
+
+$$
+e^{3x}[\cos(2x)+i\sin(2x)], e^{3x}[\cos(2x)-i\sin(2x)]
+$$
+$$
+y = c_{1}e^{3x}\cos(2x)+c_{2}e^{3x}\sin(2x)
+$$
+
+```ad-important
+In general:
+$$
+a \pm ib = e^{ax}\cos bx+e^{ax}\sin (bx)
+$$
+```
+#### Example 3
+
+$$
+y^{\prime \prime}+k^2y=0 \quad k > 0
+$$
+$$
+r^2+k^2=0
+$$
+$$
+r^2=-k^2
+$$
+$$
+r = \pm \sqrt{ -k }
+$$
+$$
+r = \pm i k
+$$
+$$
+y = c_{1}\cos kx+c_{2}\sin kx
+$$
+### Example 4
+
+```ad-question
+Find the general solution:
+
+
+```
+
+$$
+y^{\prime \prime \prime}-3y^{\prime \prime}+3y^{\prime}-y=0
+$$
+$$
+r^3-3r^2+3r-1=0
+$$
+$$
+\text{Try} \quad r =1
+$$
+$$
+(r-1)(r^2-2r+1)=0
+$$
+$$
+(r-1)(r-1)(r-1)=0
+$$
+$$
+r = 1, 1, 1
+$$
+$$
+e^x, xe^x, x^2e^x
+$$
+*General Solution*
+$$
+y =c_{1}e^x+c_{2}xe^x+c_{3}x^2e^x
+$$
+#### Example 5
+
+```ad-question
+Find the general solution:
+
+$$
+y^{(4)}+8^{\prime \prime}-9y=0
+$$
+```
+
+*Characteristic*
+$$
+r^4+8r^2-9=0
+$$
+$$
+\text{Try} \quad r=1
+$$
+$$
+(r-1)(r^3+r^2+9r+9)
+$$
+$$
+\text{Try} \quad r=-1
+$$
+$$
+(r-1)(r+1)(r^2+9)=0
+$$
+$$
+r=1, -1, \pm 3i
+$$
+
+$$
+e^x, e^{-x}, \cos(3x), \sin(3x)
+$$
+$$
+ y = c_{1}e^x+c_{2}e^{-x}+c_{3}\cos(3x)+c_{4}\sin(3x)
+$$
+#### Example 6
+
+$$
+y^{(3)}-y^{\prime \prime}+16y^{\prime}-16y=0
+$$
+$$
+r^2-r^2+16r-16r=0
+$$
+$$
+r^2(r-1)+16(r-1)=0
+$$
+$$
+(r-1)(r^2+16)=0
+$$
+$$
+r=1, r=\pm 4i
+$$
+$$
+e^x, \cos(4x), \sin(4x)
+$$
+$$
+y = c_{1}e^x+c_{2}\cos(4x)+c_{3}\sin(4x)
+$$
+
+#### Example 7
+
+```ad-question
+Solve the Initial Value Problem
+
+
+$$
+y^{(3)}-2y^{\prime \prime}+4y^\prime -8y=0; y(0)=2, y^\prime(0)=-2, y^{\prime \prime}(0)=0
+$$
+```
+
+*General Solution*
+
+$$
+r^3-2r^2+4r-8=0
+$$
+$$
+r^2(r-2)+4(r-2)=0
+$$
+$$
+(r-2)(r^2+4)=0
+$$
+$$
+r=2, \pm 2i
+$$
+$$
+y = c_{1}e^{2x}+c_{2}\cos(2x)+c_{3}\sin(2x)
+$$
+*Value Time*
+
+$$
+y(0)=2
+$$
+$$
+(2)=c_{1}+c_{2}
+$$
+$$
+y^\prime(0)=-2
+$$
+$$
+y^\prime=2c_{1}e^{2x}-2c_{2}\sin(2x)+2c_{3}\cos(2x)
+$$
+$$
+(-2)=2c_{1}+2c_{3}
+$$
+$$
+y(0)^{\prime \prime}=0
+$$
+$$
+y^{\prime \prime}=4c_{1}e^{2x}-4c_{2}\cos(2x)-4c_{3}\sin(2x)
+$$
+$$
+(0)=4c_{1}-4c_{2}
+$$
+*System of Equations*
+$$
+\begin{matrix}
+c_{1}+c_{2}=2 \\
+2c_{1}+2c_{3}=-2 \\
+4c_{1}-4c_{2}=0
+\end{matrix}
+$$
+$$
+\begin{bmatrix}
+1 & 1 & 0 & 2 \\
+2 & 0 & 2 & -2 \\
+4 & -4 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\begin{matrix}
+-2R_{1}+R_{2} \to R_{2} \\
+-4R_{1}+R_{3}\to R_{3}
+\end{matrix} \begin{bmatrix}
+1 & 1 & 0 & 2 \\
+0 & -2 & 2 & -6 \\
+0 & -8 & 0 & -8
+\end{bmatrix}
+$$
+$$
+-\frac{1}{2}R_{2}\to R_{2} \begin{bmatrix}
+1 & 1 & 0 & 2 \\
+0 & 1 & -1 & 3 \\
+0 & -8 & 0 & -8
+\end{bmatrix}
+$$
+$$
+\begin{matrix}
+-1R_{2}+R_{1} \to R_{1} \\
+8R_{2}+R_{3} \to R_{3}
+\end{matrix} \begin{bmatrix}
+1 & 0 & 1 & -1 \\
+0 & 1 & -1 & 3 \\
+0 & 0 & -8 & 16
+\end{bmatrix}
+$$
+$$
+c_{3}=-2, c_{2}=1, c_{1}= 1
+$$
+**SOLUTION**
+
+$$
+\boxed{
+y=e^{2x}+\cos(2x)-2\sin(2x)}
+$$
 
