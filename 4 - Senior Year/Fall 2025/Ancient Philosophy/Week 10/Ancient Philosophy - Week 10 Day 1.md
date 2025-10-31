@@ -163,3 +163,155 @@ A statement admits of contraries while remaining numerically one and the same (e
 - Plato introduced Forms because he thinks that knowledge is very difficult to obtain by discovering, so he thinks that there must be an intuitive knowledge within it
 - Aristotle has to explain that we can push passed this and that we can learn about the objects in the cave and not their shadows by the physical world instead of transcendentally.
 - Aristotle will put Forms into the physical world in his later arguments
+
+# Aristotle’s Physics
+
+## Book I
+
+### First Principle
+
+### Containers and the Principles of Chambers
+
+### The Third Principle
+
+Two principles are not sufficient to account for changes because one conrary does no act on another contrary
+
+### Accidental & Substantial Changes
+
+Using three changes, it can account for:
+1. **Qualitative Change**: Change respect to quality Ex. Pale Socrates to Dark Socrates
+2. **Quantitative Change**: Change with respect to quantity Ex. 4-ft Oak Tree to 6-ft Oak Tree
+3. **Locomotion**: Change with respect to place. Ex. a Stone falling with up and bottom being contraries
+4. **Substantial Change**: Change with respect to substance Ex. a chunk of a bronze becomes a statue
+
+### Analogy
+
+The third principle is an **underlying subject**:
+
+```ad-quote
+title: 19a8-15
+As for the underlying nature, it is knowable by analogy. Thus, as bronze is to the statue or the wood is to the bed or the matter or the formless object prior to receiving a form is to that which has a form, so is this [underlying nature] to a substance or to a this or to being. This then is one of the principles, though it is not one nor a being in the manner of a this; another [principle] is the formula; then there is the contrary of the latter, and this is the privation.
+```
+
+- $\text{Bronze} \to \text{Statue}$
+- $\text{Wood} \to \text{a bed, matter}$
+- The formless object prior to receives a form → that which ahs a form
+
+
+
+The three principles of coming-to-be are:
+1. **Form**: The actual current state of the object
+2. **Privation**: That which that thing does not have, but could have
+3. **Underlying Subject**: The one that receives the form in privation
+
+### Aristotle’s Reponse to Parmenides
+
+**Argument of Parmenides**
+```ad-quote
+title: 19a24-34
+In seeking the truth and the nature of things from the philosophical point of view, the first thinkers, as if led astray by inexperience, were misled into another way of thinking by maintaining the following: No thing can be generated or be destroyed because a thing must be generated either from being or from nonbeing; but both of these are impossible, for being cannot become something since it already exists, and a thing generated cannot come to be from nonbeing since there must be some underlying subject [from which it is to be generated]. And exaggerating the consequences in this manner, they concluded by saying that there is no plurality of things, but that only Being itself exists. This is the doctrine they adopted, then, and for the reasons stated.
+```
+
+**Aristotle’s Response**: Non-being is said to be in two different senses (one in terms of matter and the other in terms of privation)
+
+```ad-quote
+title: 191b13-15
+It is the failure to make this distinction that led those thinkers astray, and through their ignorance of this they added so much more as to think that nothing else is generated or exists [besides Being], thus doing away with every [kind of] generation. Now we too maintain, as they do, that nothing is generated from unqualified nonbeing, yet we do maintain that generation from nonbeing in a qualified sense exists, namely, with respect to an attribute; for from the privation, which in itself is a not-being, something which did not exist is generated.
+```
+
+Matter is non-being in the sense of potentiality
+
+```ad-quote
+title: 191b27-30
+This then is one way [of solving the difficulty]; but there is another, in view of the fact that we may speak of things with respect to their potentiality as well as with respect to their actuality, and we have settled this elsewhere with greater accuracy.
+```
+
+![[Ancient Philosophy - Week 10 Day 1 2025-10-30 09.53.08.excalidraw | center]]
+
+```ad-note
+title: Remember: Parmenides
+![[Ancient Philosophy - Week 2 Day 1 2025-09-02 10.29.34.excalidraw | center]]
+```
+
+```ad-important
+**Aristotle’s Point-of-View**: He views what is and **what is possible** (Actuality vs Potentiality)
+- He extends *noein* to both "what is" AND "what is possible" and does not exclude it like Parmenides
+
+![[Ancient Philosophy - Week 10 Day 1 2025-10-30 09.57.22.excalidraw | center]]
+```
+
+Implications of this:
+- We can only come to know what is based on Parmenides
+- Aristotle believes that there is something in between and that it is possible to eventually know that is possible.
+
+# Book II: Nature and Art
+
+Some things exist by **Nature**
+- Such as animals, parts of animals, plants, and elements (earth, fire, air, and water).
+- They are substance (*Ousiai*)
+- In these things, a principle of motion and standstill belong primarily in virtue of itself
+
+Exist by **Art**:
+- Such as a bed or a garment
+- They do not have a principle of motion and stnadstill
+- *Except* when it is by accident; that is, in so far as they are made up of stone or earth
+
+```ad-example
+Aristotle's Example of "by accident": The same person is both a doctor and a patient (he becomes healthy not in virtue of being a patient but in virtue of being a doctor).
+```
+
+### Matter as the Nature
+
+Some, like Antiphon, believes that nature is the underlying matter, such as wood or bronze.
+- If Antiphon is correct, then all matter would be a principle in such a way. That is why it is not surprising that elements (such as air, water, fire, and earth) were posited to be the ultimate principles by some thinkers.
+
+```ad-example
+If one were to plant a bed, and if it is possible to growth, what would result would not be a bed, but wood.
+```
+
+### Form as the Nature
+
+However, Aristotle identifies *form as the nature*:
+- Because we identify what the thing is in virtue of its form (something that is only potentially flesh or bone does not yet have its nature until it acquires the form).
+- It is a man, who has the full form, who is responsible for generating another man (bed is not generated from a bed.)
+- Form (which is an actuality) is more of a nature than matter (which is a potentiality), such that form is a final end towards which a thing aims at.
+
+Nature is spoken of in 2 senses: *Form* and *Matter*. But form is prior to matter because form is what exists in virtue of which we identify what it is and it is both an **efficient cause** (for a thing with the complete form that generates, such as a man generates a man) and a **final cause** (for a change is directed towards it, such as an acorn aims to become an oak).
+
+![[Ancient Philosophy - Week 10 Day 1 2025-10-30 10.18.06.excalidraw | center]]
+
+```ad-note
+The form of an object kind of puts a limit on "what-is-possible".
+```
+
+### Three Theoretical Sciences
+
+**Mathematics**: Separates in thought from he physical bodies; they are separable from motion
+- For example: oddness, straightness, curvature, a number, a line, and a figure
+- Geometry studies physical lines but not *qua* physical
+
+**Physics**: Studies both form and matter
+- Example: A snub nose (a curvature in a body)
+- Optics studies mathematical line not qua mathematical but *qua* physical
+
+**Metaphysics**: Studies a separate form (ex. a God)
+
+### Four Causes
+
+```ad-note
+We understand a thing when we could account the *why* of it; that is, to give its causes (or explanations)
+```
+
+The Four Causes:
+1. **Formal** (shape or formula)
+2. **Material** (The bronze of a statue)
+3. **Efficient** (A father)
+4. **Final** (Walking is for the *sake* of health)
+
+```ad-important
+Human soul is the formal cause of humans as they are vs a perfect statue of them.
+```
+
+
+
+
