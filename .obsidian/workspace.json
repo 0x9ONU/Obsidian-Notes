@@ -8,32 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aefd814e508d1442",
+            "id": "b199a90bbfc82658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Environmental/Week 5/Environmental Issues - Week 5 Day 2.md",
+                "file": "4 - Senior Year/Fall 2025/Environmental/Week 6/Environmental Issues - Week 6 Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environmental Issues - Week 5 Day 2"
+              "title": "Environmental Issues - Week 6 Day 2"
             }
           },
           {
-            "id": "783155ead7883836",
+            "id": "578f8ccdfc8648eb",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "General Notes/Pasted image 20250924103210.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250924103210"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fragmentation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -258,11 +257,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "aefd814e508d1442",
+  "active": "578f8ccdfc8648eb",
   "lastOpenFiles": [
-    "General Notes/Pasted image 20250926100620 (Copy).png",
+    "4 - Senior Year/Fall 2025/Environmental/Week 6/Environmental Issues - Week 6 Day 2.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 7/Environmental Issues - Week 7 Day 1.md",
     "General Notes/Pasted image 20250924103210.png",
+    "General Notes/Pasted image.png",
     "4 - Senior Year/Fall 2025/Environmental/Week 5/Environmental Issues - Week 5 Day 2.md",
+    "General Notes/Pasted image 20250926100620 (Copy).png",
     "4 - Senior Year/Fall 2025/Environmental/Week 5/Environmental Issues - Week 5 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 4/Ancient Philosophy - Week 4 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md",
@@ -287,8 +289,6 @@
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Number Theory/Week 8/Number Theory - Week 8 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 1.md",
-    "2 - Sophomore Year/Spring 2024/Number Theory/Week 9/Number Theory - Week 9 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Phaedo/Segments",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Phaedo",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno/Segments",
@@ -304,8 +304,6 @@
     "General Notes/Pasted image 20251027101658.png",
     "General Notes/Pasted image 20251027101540.png",
     "General Notes/Pasted image 20251027101538.png",
-    "General Notes/Pasted image 20251027100954.png",
-    "General Notes/Pasted image 20251027100735.png",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "Untitled 1.canvas",
