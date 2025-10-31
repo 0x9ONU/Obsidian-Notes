@@ -107,7 +107,7 @@ There has been an increase in **ivory** demand throughout Asia
 The main threats to biodiversity stem from human activities
 ```
 
-## How to Counteract Biodiversity
+## How to Counteract Biodiversity Loss
 
 ### IUCN: The “Red List”
 
