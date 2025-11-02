@@ -56,7 +56,7 @@ Land needed to provide resoruces and assimilate waste of a person or a populatio
 ## Capital Interest
 
 Natural resources can be described using financial concepts
-- *Natural Captial* and *Natural Interest*’
+- *Natural Captial* and *Natural Interest*
 
 ![[Pasted image 20251024102840.png]]
 
