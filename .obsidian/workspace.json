@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc98f68703d1c65c",
+        "id": "ab7a2515031e72dc",
         "type": "tabs",
         "children": [
           {
-            "id": "b199a90bbfc82658",
+            "id": "fd11f8d04378a558",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Environmental/Week 10/Environmental Issues - Week 10 Day 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Environmental Issues - Week 10 Day 3"
+              "title": "New tab"
             }
           }
         ]
@@ -245,8 +241,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b199a90bbfc82658",
+  "active": "fd11f8d04378a558",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Environmental/Week 10/Environmental Issues - Week 10 Day 3.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 10/Environmental Issues - Week 10.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 9/Environmental Issues - Week 9.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 8/Environmental Issues - Week 8.md",
@@ -256,7 +253,6 @@
     "4 - Senior Year/Fall 2025/Environmental/Week 7/Environmental Issues - Week 7 Day 1.md",
     "General Notes/Pasted image 20251006103405.png",
     "4 - Senior Year/Fall 2025/Environmental/Week 6/Environmental Issues - Week 6 Day 2.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 10/Environmental Issues - Week 10 Day 3.md",
     "General Notes/Pasted image 20251031100806.png",
     "General Notes/Pasted image 20250924103210.png",
     "General Notes/Pasted image.png",
