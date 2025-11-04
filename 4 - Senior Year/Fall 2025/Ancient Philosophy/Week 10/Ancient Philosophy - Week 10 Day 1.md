@@ -378,3 +378,60 @@ In order for a saw to exist, it must be made of certian material (or for a thing
 We reject Aristotle's tedeology because inanimate objects only move due to being acted on external animate objects (Newton's Laws)
 ```
 
+## Book III
+
+### 1: Change/Motion
+
+**Substantial change**; A change with respect to a substance (ex. *this* change from the form to the privation of that form)
+
+**Accidental Change**:
+1. Qualitative Change
+2. Quantitative Change 
+3. Locomotion
+
+### Definition of Motion
+
+ONe stage has actuality and the other has poentiality
+
+```ad-summary
+title: Definition
+The actuality of hte poentiallity exsitng *qua* existing poentiality.
+```
+
+```ad-example
+What is buildable is that which can be built. It exists in acutality when it is in the process of being built.
+```
+
+**Qua**: “In so far as” or “in aspect”
+- Ex. One athlete is *qua* basketball, but not *qua* baseball.
+
+
+### Incomplete Actuality
+
+- Motion is difficult to define
+- Not definite
+- Neither potentiality or actuality
+- Motion is an incomplete actuality
+
+### Actuality in the Moved
+
+```ad-question
+Where is the actuality? The mover or in the moved?
+```
+
+*NOT* in the mover
+- If it was so, then the motion occurs in the mover
+- Neither are there 2 different acutalites because there will be 2 actualities
+
+Therefore, actuality must occur in the moved!
+
+### Implications
+
+The actuality of the mover and the moved are one in the same.
+
+**The Four Implications**
+1. Cause and effect occur simultaneously
+2. The definition of motion, in terms of actuality and potentiality, implies teleology. Motion/change requires an end goal
+3. It is always what is actual that is responsible for what is potential to come into being; hence, the priority of actuality over potentiality.
+4. No such things as self-motion, even in the case of animals.
+
