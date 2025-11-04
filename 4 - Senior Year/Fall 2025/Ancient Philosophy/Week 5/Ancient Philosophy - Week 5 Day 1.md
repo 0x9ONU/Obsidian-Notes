@@ -87,7 +87,7 @@ Socrates draws a square and divides it into 4 equal sections and points out that
 
 - At this point, the slave was perplexed and admits that he does not know the answer
 
-**Apologetic Element (84a-d)**:
+### Apologetic Element (84a-d):
 - The benefit of being *perplexed*
 - It gets rid of delusion and pretentiousness to knowledge and no harm is actually done. 
 - In fact, a person is now in a **better** position to attain

@@ -218,4 +218,69 @@ $$
 $$
 x(t)=\frac{\sqrt{ 61 }}{3}\cos\left( 3t + \tan^{-1} \frac{5}{6} \right)
 $$
+### Example 3
+
+Solve the following equation and give it in standard form:
+
+$$
+x^{\prime \prime}+16x=0, \quad x(0)=-4, \quad x^{\prime}(0)=-12
+$$
+*Characteristic Equation*
+
+$$
+r^2+16=0
+$$
+$$
+r=\pm 4i
+$$
+*General Solution*
+
+$$
+x(t)=c_{1}\cos 4t + c_{2} \sin 4t
+$$
+*IVP*
+
+$$
+x(0)=-4
+$$
+$$
+(-4)=c_{1}\cos(4*0)+c_{2}\sin(4*0)
+$$
+$$
+c_{1} = -4
+$$
+$$
+x^\prime(0)=-12
+$$
+$$
+x^\prime(t)=-4c_{1}\sin 4t + 4c_{2} \cos 4t
+$$
+$$
+(-12)=-4c_{1} \sin(4(0))+4c_{2}\cos(4*0)
+$$
+$$
+-12 = 4 c_{2}
+$$
+$$
+c_{2}=-3
+$$
+*Particular Solution*
+
+$$
+x(t)=-4\cos 4t -3 \sin 4t
+$$
+*Standard Form*
+
+$$
+C = \sqrt{ (-4)^2+(-3)^2 }=5
+$$
+$$
+\omega=4
+$$
+$$
+\alpha = \tan^{-1}\left( \frac{-3}{-4} \right)+\pi \quad \text{(Since the first constant is negative)}
+$$
+$$
+x(t) = 5\cos\left( 4t-\tan^{-1}\left( \frac{3}{4} \right) -\pi\right)
+$$
 
