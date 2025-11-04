@@ -374,3 +374,7 @@ The final cause is found in the form and not in the matter
 In order for a saw to exist, it must be made of certian material (or for a thing to perform its funciton it must be made of certain materials).
 ```
 
+```ad-warning
+We reject Aristotle's tedeology because inanimate objects only move due to being acted on external animate objects (Newton's Laws)
+```
+
