@@ -6,10 +6,12 @@ File Folder: Book IV
 # Original Texts
 
 - [[Apology 17a-d]]
-- 
+- [[Apology 20c]]
+- [[Apology 23a-b]]
 
 # Analysis
 
+![[Ancient Philosophy Week 3 Day 2]]
 
 
 
