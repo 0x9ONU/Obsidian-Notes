@@ -258,6 +258,24 @@ $$
 $$
 y = c_{1}e^{3x}+c_{2}e^{-2x}+\sin 3x + \cos 3x
 $$
+#### Example 8
+
+```ad-question
+Find the particular solution of:
+
+
+```
+
+$$
+y^{(3)}+y^{\prime \prime}=3e^x+4x^2
+$$
+**trial function**
+$$
+y_{p}(x) = (Ae^x)+x^2(B+Cx+Dx^2)
+$$
+$$
+y_{p}(x)=Ae^x+Bx^2+Cx^2+Dx^4
+$$
 
 
 
