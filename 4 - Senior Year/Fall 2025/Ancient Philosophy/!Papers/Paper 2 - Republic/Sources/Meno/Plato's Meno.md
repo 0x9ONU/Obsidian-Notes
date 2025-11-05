@@ -7,7 +7,13 @@ File Folder: Book IV
 
 - [[Meno 71d]]
 - [[Meno 80e]]
-- 
+- [[Meno 81e-85d]]
+- [[Meno 84a-d]]
+- [[Meno 86c]]
+- [[Meno 88c]]
+- [[Meno 94e]]
+- [[Meno 97a-b]]
+- [[Meno 97d-98a]]
 
 # Analysis
 
