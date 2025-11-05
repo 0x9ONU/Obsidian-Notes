@@ -22,6 +22,23 @@
             }
           },
           {
+            "id": "834014059313b4e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "603155713cde13e8",
+        "type": "tabs",
+        "children": [
+          {
             "id": "307175993c0690c2",
             "type": "leaf",
             "state": {
@@ -35,8 +52,7 @@
               "title": "Ancient Philosophy - Week 5 Day 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,8 +276,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "307175993c0690c2",
+  "active": "834014059313b4e4",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 5/Ancient Philosophy - Week 5 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Phaedo/Plato's Phaedo.md",
     "Untitled 3.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno/Plato's Meno.md",
@@ -287,7 +304,6 @@
     "General Notes/Pasted image 20251104115730.png",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno/Segments/Meno 80e.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno/Segments/Meno 71d.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 5/Ancient Philosophy - Week 5 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 4/Ancient Philosophy - Week 4 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Euthyphro/Plato's Euthyphro.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Plato's Apology.md",

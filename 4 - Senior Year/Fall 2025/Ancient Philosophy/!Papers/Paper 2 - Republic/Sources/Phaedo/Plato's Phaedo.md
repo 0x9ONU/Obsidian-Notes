@@ -5,10 +5,11 @@ File Folder: Book IV
 
 # Original Texts
 
-- [[Note here]]
+- 
 
 # Analysis
 
+![[Ancient Philosophy - Week 5 Day 2]]
 
 
 
