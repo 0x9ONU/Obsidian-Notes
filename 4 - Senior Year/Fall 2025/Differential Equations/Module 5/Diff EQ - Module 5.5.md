@@ -227,8 +227,30 @@ y_{p}(x)=A\sin 2x + B \cos 2x
 $$
 ##### Example 7
 
+```ad-question
+What is the trial function for the following equations:
+```
 
+$$
+y^{\prime \prime}- y^\prime -6y = 2 \sin 3x
+$$
+$$
+y_{p}(x)=A \sin 3x + B \cos 3x
+$$
 
+$$
+y^\prime = 3A\cos 3x-3B\sin 3x
+$$
+$$
+y^{\prime \prime} = -9A\sin 3x - 9Bc
+$$
+
+$$
+y^{\prime \prime}-y^\prime-2y = 3x +4
+$$
+$$
+y_{p}(x) = Ax+B
+$$
 
 
 
