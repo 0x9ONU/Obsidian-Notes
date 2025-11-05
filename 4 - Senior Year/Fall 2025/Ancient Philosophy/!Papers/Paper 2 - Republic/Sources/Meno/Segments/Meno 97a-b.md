@@ -11,4 +11,4 @@ Socrates: I mean this: We were right to agree that good men must be beneficent, 
 
 # Analysis
 
-
+![[Ancient Philosophy - Week 5 Day 1#Knowledge vs. Correct Opinion]]
