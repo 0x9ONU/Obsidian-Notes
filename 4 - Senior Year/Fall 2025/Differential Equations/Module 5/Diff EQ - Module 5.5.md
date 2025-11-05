@@ -228,29 +228,37 @@ $$
 ##### Example 7
 
 ```ad-question
-What is the trial function for the following equations:
-```
+What is the general solution for the following equation?
 
 $$
 y^{\prime \prime}- y^\prime -6y = 2 \sin 3x
 $$
+```
+
 $$
 y_{p}(x)=A \sin 3x + B \cos 3x
 $$
+$$
+r^2 - r-6 = 0
+$$
+$$
+(r-3)(r+2)=0
+$$
+$$
+r=3, -2
+$$
+$$
+y_{c}(x)=c_{1}e^{3x}+c_{2}e^{-2x}
+$$
+*Since there is no overlap, our guess is right!*
 
 $$
-y^\prime = 3A\cos 3x-3B\sin 3x
+A=1, B =1
 $$
 $$
-y^{\prime \prime} = -9A\sin 3x - 9Bc
+y = c_{1}e^{3x}+c_{2}e^{-2x}+\sin 3x + \cos 3x
 $$
 
-$$
-y^{\prime \prime}-y^\prime-2y = 3x +4
-$$
-$$
-y_{p}(x) = Ax+B
-$$
 
 
 
