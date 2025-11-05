@@ -6,9 +6,9 @@ File Folder: Segments
 # Original Text
 
 ```ad-quote
-
+Socrates: Therefore, in a word, all that the soul undertakes and endures, if directed by wisdom, ends in happiness, but if directed by ignorance, it ends in the opposite? — That is likely.
 ```
 
 # Analysis
 
-
+![[Ancient Philosophy - Week 5 Day 1#Is Virtue Knowledge?]]
