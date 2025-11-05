@@ -274,8 +274,27 @@ $$
 y_{p}(x) = (Ae^x)+x^2(B+Cx+Dx^2)
 $$
 $$
-y_{p}(x)=Ae^x+Bx^2+Cx^2+Dx^4
+y_{p}(x)=Ae^x+Bx^2+Cx^3+Dx^4
 $$
+
+#### Example 9
+
+```ad-question
+Find the trial function of the following equation:
+```
+
+$$
+y^{\prime \prime}+6y^\prime +13y = e^{-3x}\cos 2x
+$$
+$$
+y_{c}(x)=e^{-3x}(c_{1} \cos 2x + c_{2} \sin 2x)
+$$
+
+$$
+Ae^{-3x}\sin 2x + B e^{-3x}\cos 2x
+$$
+
+
 
 
 
