@@ -214,7 +214,17 @@ $$
 $$
 y_{p}(t)=A\cos 3t + B\sin 3t
 $$
-z
+##### Example 6
+
+What is the trial function for the following equation
+
+$$
+y^{\prime \prime}+9y = \sin 2x
+$$
+**Trial Function**
+$$
+y_{p}(x)=A\sin 2x + B \cos 2x
+$$
 
 
 
