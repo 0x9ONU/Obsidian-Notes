@@ -11,6 +11,6 @@ Meno: That appears to be so of necessity, and it makes me wonder, Socrates, this
 
 # Analysis
 
-
+![[Ancient Philosophy - Week 5 Day 1#Knowledge vs. Correct Opinion]]
 
 

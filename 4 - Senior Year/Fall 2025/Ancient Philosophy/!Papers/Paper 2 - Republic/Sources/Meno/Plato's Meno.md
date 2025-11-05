@@ -5,7 +5,9 @@ File Folder: Book IV
 
 # Original Texts
 
-- [[Note here]]
+- [[Meno 71d]]
+- [[Meno 80e]]
+- 
 
 # Analysis
 
