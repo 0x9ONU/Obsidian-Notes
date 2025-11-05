@@ -225,6 +225,8 @@ $$
 $$
 y_{p}(x)=A\sin 2x + B \cos 2x
 $$
+##### Example 7
+
 
 
 
