@@ -172,7 +172,7 @@ This, he said, is what I mean. It is nothing new, but what I have b never stoppe
 - Socrates decided to stay in jail when he had a chance to escape because he believes that it as a good thing to do.
 - $1+1=2$ not because you bring two objects together, but because they participate in the Form of Twoness.
 
-## Forms
+## Forms Part 2
 
 The *nature* of the Forms:
 1. Some Forms exclude each other  (ex. Tallness and Shortness)
@@ -198,6 +198,8 @@ Opposites do no come form each other; rather, a thing admits of opposites. (ex. 
 
 ## Swan Song
 
+### 107b
+
 Plato recognizes the shortcomings of his argument:
 - He is fully aware that his argument depends entirely on the Forms, but his argument would fall apart if Forms were debunked
 
@@ -205,6 +207,8 @@ Plato recognizes the shortcomings of his argument:
 title: Plato's Phaedo 107b
 Certainly, said Simmias, I myself have no remaining grounds for doubt after what has been said; nevertheless, in view of the importance b of our subject and my low opinion of human weakness, I am bound still to have some private misgivings about what we have said. You are not only right to say this, Simmias, Socrates said, but our first hypotheses require clearer examination, even though we find them convincing. And if you analyze them adequately, you will, I think, follow the argument as far as a man can, and if the conclusion is clear, you will look no further. — That is true.
 ```
+
+### 114d
 
 “We should drive away our fear of death by incantation”
 - He addresses the fear of death
@@ -214,6 +218,8 @@ Certainly, said Simmias, I myself have no remaining grounds for doubt after what
 title: Plato's Paedo 114d
 No sensible man would insist that these things are as I have described them, but I think it is fitting for a man to risk the belief—for the risk is a noble one—that this, or something like this, is true about our souls and their dwelling places, since the soul is evidently immortal, and a man should repeat this to himself as if it were an incantation
 ```
+
+### 77e-78a
 
 ```ad-quote
 title: 77e-78a

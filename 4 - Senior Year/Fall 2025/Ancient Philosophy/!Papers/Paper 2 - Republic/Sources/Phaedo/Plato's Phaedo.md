@@ -5,7 +5,14 @@ File Folder: Book IV
 
 # Original Texts
 
-- 
+- [[Phaedo 64a]]
+- [[Phaedo 66b-d]]
+- [[Phaedo 66e-67b]]
+- [[Phaedo 77e-78a]]
+- [[Phaedo 100b]]
+- [[Phaedo 107b]]
+- [[Phaedo 114d]]
+- [[Phaedo Forms]]
 
 # Analysis
 
