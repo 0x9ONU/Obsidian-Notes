@@ -15,6 +15,8 @@ collapse: open
 
 ## Truth
 
+### 64a
+
 The last day of Socrates - how philosopher should face death
 - To practice philosophy is to practice for dying and death
 - Death is defined as “the separation of the soul from the body”
@@ -24,6 +26,8 @@ The last day of Socrates - how philosopher should face death
 Let him be, he said. I want to make my argument before you, my judges, as to why I think that a man who has truly spent his life in philosophy is probably right to be of good cheer in the face of death and to be very hopeful that after death he will attain the greatest blessings 64 yonder. I will try to tell you, Simmias and Cebes, how this may be so. I am afraid that other people do not realize that the one aim of those who practice philosophy in the proper manner is to practice for dying and death. Now if this is true, it would be strange indeed if they were eager for this all their lives and then resent it when what they have wanted and practiced for a long time comes upon them. (64a)
 ```
 
+### 66b-d
+
 - Philosophy is not concerned with bodily pleasures and desires.
 - The body is an obstacle in search for truth.
 - Truth is not acquired by means of senses (which are deceptive) but when the soul turns away from the body. (66b-d)
@@ -32,6 +36,8 @@ Let him be, he said. I want to make my argument before you, my judges, as to why
 title: Phaedo 66b-d
 All these things will necessarily make the true philosophers believe b and say to each other something like this: “There is likely to be something such as a path to guide us out of our confusion, because as long as we have a body and our soul is fused with such an evil we shall never adequately attain what we desire, which we affirm to be the truth. The body keeps us busy in a thousand ways because of its need for nurture. Moreover, if certain diseases befall it, they impede our search c for the truth. It fills us with wants, desires, fears, all sorts of illusions and much nonsense, so that, as it is said, in truth and in fact no thought of any kind ever comes to us from the body. Only the body and its desires cause war, civil discord, and battles, for all wars are due to the desire to acquire wealth, and it is the body and the care of it, to which d we are enslaved, which compel us to acquire wealth, and all this makes us too busy to practice philosophy. Worst of all, if we do get some respite from it and turn to some investigation, everywhere in our investigations the body is present and makes for confusion and fear, so that it prevents us from seeing the truth.
 ```
+
+### 66e-67b
 
 - It is in the context of epistemological issue that Plato attacks the body. (66e-67b)
 
