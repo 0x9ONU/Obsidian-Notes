@@ -280,7 +280,7 @@ $$
 #### Example 9
 
 ```ad-question
-Find the trial function of the following equation:
+Find the trial function of the following equation given the complementary function:
 ```
 
 $$
@@ -291,8 +291,37 @@ y_{c}(x)=e^{-3x}(c_{1} \cos 2x + c_{2} \sin 2x)
 $$
 
 $$
-Ae^{-3x}\sin 2x + B e^{-3x}\cos 2x
+y_{p}(x)=Ae^{-3x}\sin 2x + B e^{-3x}\cos 2x
 $$
+We have to *remove the overlap* (multiply by $x$)
+
+$$
+y_{p}(x) = xe^{-3x}(A \cos 2x + B \sin 2x)
+$$
+#### Example 10
+
+```ad-question
+Set up the trial function that enable us to find the particualr solution of the given differential equation.
+```
+
+$$
+y^{(5)}-y^{(3)}=e^x+2x^2+5
+$$
+
+$$
+r^5 -y^3=0
+$$
+$$
+r = 
+$$
+$$
+y_{p}(x)=Ae^x+Bx^2+C
+$$
+$$
+y_{p}(x)=Ae^x+
+$$
+
+
 
 
 
