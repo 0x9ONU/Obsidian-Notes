@@ -200,6 +200,8 @@ Ouranos prevented his wife Gaia from giving birth to his children, by blocking t
 
 ### How Goodness is Recognized
 
+#### 396c-e
+
 **The importance of “imitation”:**
 - We should imitate only good people and not the bad ones (396c-e)
 - Socrates then discuesses appropriate musical modes, harmony, rhythem and meter. Socrates points out the importance of education is music and poetry (401d-402a)
@@ -211,12 +213,16 @@ title: 396c-e
 Well, I think that when a moderate man comes upon the words or actions of a good man in his narrative, he’ll be willing to report them as if he were that man himself, and he won’t be ashamed of that kind of imitation. He’ll imitate this good man most when he’s acting in a fauldess d and intelligent manner, but he’ll do so less, and with more reluctance, when the good man is upset by disease, sexual passion, drunkenness, or some other misfortune. When he comes upon a character unworthy of himself, however, he’ll be unwilling to make himself seriously resemble that inferior character—except perhaps for a brief period in which he’s doing something good. Rather he’ll be ashamed to do something like that, both because he’s unpracticed in the imitation ofsuch people and because he can’t stand to shape and mould himself according to a worse pattern. He despises this in his mind, unless it’s just done in play.
 ```
 
+#### 401d-402a
+
 ```ad-quote
 title: 401d-402a
 Aren’t these the reasons, Glaucon, that education in music and poetry is most important? First, because rhythm and harmony permeate the inner part of the soul more than anything else, affecting it most strongly and bringing it grace, so that if someone is properly educated in music and poetry, it makes him graceful, but if not, then the opposite. Second, e because anyone who has been properly educated in music and poetry will sense it acutely when something has been omitted from a thing and when it hasn’t been finely crafted or finely made by nature. And since he has the right distastes, he’ll praise fine things, be pleased by them, receive them into his soul, and, being nurtured by them, become fine and good. 402 He’ll rightly object to what is shameful, hating it while he’s still young and unable to grasp the reason, but, having been educated in this way, he will welcome the reason when it comes and recognize it easily because of its kinship with himself.
 ```
 
 The discussion of physical training leads to a discussion about the health of body. Socrates compares medical practice of law (judicial matter) that is concerned with the health of the soul.
+
+#### 401a-e
 
 Socrates touches on an interesting epistemological issue.
 - **How do you recognize goodness?**
@@ -249,6 +255,8 @@ Among the guardians, we select our rules and others will become auxiliaries. Thr
 
 ### Myth of the Metal (The Noble Lie)
 
+#### 415a-d
+
 There are three classes of people:
 1. Gold (for rulers)
 2. Silver (for auxiliaries)
@@ -261,6 +269,8 @@ For most part, they will produce children like themselves, but since they are al
 title: 415a-d
 Appropriately so. Nevertheless, listen to the rest of the story. “All of 415 you in the city are brothers,” we’ll say to them in telling our story, “but the god who made you mixed some gold into those who are adequately equipped to rule, because they are most valuable. He put silver in those who are auxiliaries and iron and bronze in the farmers and other craftsmen. For the most part you will produce children like yourselves, but, because you are all related, a silver child will occasionally be born from a golden b parent, and vice versa, and all the others from each other. So the first and most important command from the god to the rulers is that there is nothing that they must guard better or watch more carefully than the mixture of metals in the souls of the next generation. If an offspring oftheirs should be found to have a mixture of iron or bronze, they must not pity him in any way, but give him the rank appropriate to his nature and drive him c out to join the craftsmen and farmers. But if an offspring of these people is found to have a mixture of gold or silver, they will honor him and take him up to join the guardians or the auxiliaries, for there is an oracle which says that the city will be ruined ifit ever has an iron or a bronze guardian.”
 ```
+
+#### 416d-417b
 
 The Life of Guardians is described at 416d-417b
 

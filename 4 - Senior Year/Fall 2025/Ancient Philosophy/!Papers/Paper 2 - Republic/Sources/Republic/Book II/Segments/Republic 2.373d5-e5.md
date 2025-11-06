@@ -3,5 +3,5 @@ Date Modified: 6th November 2025
 File Folder: Segments
 #ancient_philosophy
 
-![[Ancient Philosophy - Week 6 Day 2#367e]]
+![[Ancient Philosophy - Week 6 Day 2#Luxurious City]]
 
