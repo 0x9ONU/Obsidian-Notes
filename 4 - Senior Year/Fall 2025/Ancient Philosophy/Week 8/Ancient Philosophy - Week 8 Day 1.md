@@ -79,6 +79,8 @@ Certainly.
 So do you think that our discussion will be any less reasonable if we can’t prove that it’s possible to found a city that’s the same as the one in our theory?
 ```
 
+
+
 But the realization of the ideal city is possible only if *philosophers* become **rulers**
 
 ```ad-quote
