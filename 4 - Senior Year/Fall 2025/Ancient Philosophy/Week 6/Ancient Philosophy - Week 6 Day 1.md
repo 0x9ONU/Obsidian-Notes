@@ -127,6 +127,8 @@ Consequently, it is never just to harm anyone.
 
 ## Thrasymachus
 
+### 336b
+
 ```ad-quote
 title: 336b
 While we were speaking, Thrasymachus had tried many times to take b over the discussion but was restrained by those sitting near him, who wanted to hear our argument to the end. When we paused after what I’d just said, however, he couldn’t keep quiet any longer. He coiled himself up like a wild beast about to spring, and he hurled himself at us as if to tear us to pieces.
@@ -142,12 +144,16 @@ title: Defintiion
 Thrasymachus: Justice is "the advantage of the stronger"
 ```
 
+### 338e
+
 ```ad-quote
 title: 338e
 And each makes laws to its own advantage. Democracy makes demo¬ cratic laws, tyranny makes tyrannical laws, and so on with the others. And they declare what they have made—what is to their own advantage—to be just for their subjects, and they punish anyone who goes against this as lawless and unjust. This, then, is what I say justice is, the same in all cities, the advantage of the established rule.
 ```
 - Whoever happens to be in power in a city, makes the laws
 - Whatever they choose will be what is just and unjust
+
+### 340d-341a
 
 **Socrates**: He points out the possibility of mistakes by those who are in power and may end up enacting laws that are not to their advantages
 
@@ -160,6 +166,8 @@ That’s because you are a false witness in arguments, Socrates. When someone ma
 ```
 
 ### The Precise Sense of Craft
+
+#### 343a-d
 
 ```ad-example
 Medicine does not seek its own advantage but that of the body; horse-breeding does not seek its own advantage but that of the horses.
@@ -175,6 +183,8 @@ Socrates says that no other craft seeks its *own advantage*
 title: 343a-d
 Thrasymachus said: Tell me, Socrates, do you still have a wet nurse? What’s this? Hadn’t you better answer my questions rather than asking me such things? Because she’s letting you run around with a snotty nose, and doesn’t wipe it when she needs to! Why, for all she cares, you don’t even know about sheep and shepherds. Just what is it I don’t know? You think that shepherds and cowherds seek the good of their sheep b and cattle, and fatten them and take care of them, looking to something other than their master’s good and their own. Moreover, you believe that rulers in cities—true rulers, that is—think about their subjects differently than one does about sheep, and that night and day they think ofsomething besides their own advantage. You are so far from understanding about c justice and what’s just, about injustice and what’s unjust, that you don’t realize that justice is really the good of another, the advantage of the stronger and the ruler, and harmful to the one who obeys and serves. Injustice is the opposite, it rules the truly simple and just, and those it rules do what is to the advantage ofthe other and stronger, and they make the one they serve happy, but themselves not at all. You must look at it as follows, my most simple Socrates: A just man always gets less than an unjust one.
 ```
+
+#### 345e-347a
 
 But that is not the craft “in the precise sense”’ each craft as a different function that benefits us in its own peculiar way
 
