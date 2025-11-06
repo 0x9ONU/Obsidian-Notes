@@ -5,7 +5,15 @@ File Folder: Book IV
 
 # Original Texts
 
-- [[Note here]]
+- [[Republic 1.329c]]
+- [[Republic 1.331c]]
+- [[Republic 1.336b]]
+- [[Republic 1.338e]]
+- [[Republic 1.340d-341a]]
+- [[Republic 1.343a-d]]
+- [[Republic 1.345e-347a]]
+- [[Republic 1.351d-352c]]
+- [[Republic 1.352c-354a]]
 
 # Analysis
 
@@ -15,7 +23,11 @@ On his way back from the Piraeus, where he has been attending a religious festiv
 
 ### From Class
 
+#### Lecture 1
+
 ![[Ancient Philosophy - Week 6 Day 1]]
 
 
+#### Lecture 2
 
+![[Ancient Philosophy - Week 6 Day 2#Republic Book I Top-Down View]]

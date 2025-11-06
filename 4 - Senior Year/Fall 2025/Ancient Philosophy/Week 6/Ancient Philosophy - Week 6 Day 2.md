@@ -86,12 +86,16 @@ Suppose we have two such rings:
 
 ### Answer 3: The Value of the Appearance of Justice
 
+### 360e-351d1
+
 Suppose we are to imagine the most just and the most unjust person living their respective life in its fullest [360e-351d1]
 
 ```ad-quote
 title: 360e-351d1
 As for the choice between the lives we’re discussing, we’ll be able to e make a correct judgment about that only if we separate the most just and the most unjust. Otherwise we won’t be able to do it. Here’s the separation I have in mind. We’ll subtract nothing from the injustice of an unjust person and nothing from the justice of a just one, but we’ll take each to be complete in his own way of life. First, therefore, we must suppose that an unjust person will act as clever craftsmen do: A first-rate captain or 361 doctor, for example, knows the difference between what his craft can and can’t do. He attempts the first but lets the second go by, and if he happens to slip, he can put things right. In the same way, an unjust person’s successful attempts at injustice must remain undetected, if he is to be fully unjust. Anyone who is caught should be thought inept, for the extreme of injustice is to be believed to be just without being just. And our completely unjust person must be given complete injustice; nothing may be subtracted from it. We must allow that, while doing the greatest injustice, he has nonetheless provided himself with the greatest reputation for justice. If b he happens to make a slip, he must be able to putit right. Ifany ofhis unjust activities should be discovered, he, must be able to speak persuasively or to use force. And ifforce is needed, he must have the help of courage and strength and of the substantial wealth and friends with which he has provided himself. Having hypothesized such a person, let’s now in our argument put beside him a just man, who is simple and noble and who, as Aeschylus says, doesn’t want to be believed to be good but to be so.3 We must take away his reputation, for a reputation for justice would bring him honor c and rewards, so that it wouldn’t be clear whether he is just for the sake of justice itself or for the sake of those honors and rewards. We must strip him of everything except justice and make his situation the opposite of an unjust person’s. Though he does no injustice, he must have the greatest reputation for it, so that his justice may be tested full-strength and not diluted by wrong-doing and what comes from it. Let him stay like that unchanged until he dies—just, but all his life believed to be unjust. In this d way, both will reach the extremes, the one of justice and the other of injustice, and we’ll be able to judge which of them is happier
 ```
+
+### 361e
 
 The most unjust person will be the noblest person, but will *not* enjoy any reputation for justice (it will take away any rewards and honor)
 - He will suffer the notoriety of being the most unjust person.
@@ -107,6 +111,8 @@ I do the best I can, he replied. Since the two are as I’ve described, in any c
 ```ad-important
 It is the view of many that what is important is **NOT** to be just, but believed to *be* just (the appearance of being just is more important than actually being just).
 ```
+
+### 367e
 
 Adimantus, then, brings into their conversations about gods that could affect our actions; he wants to set aside gods from Socrates's account: that is, to praise justice whether or not it remains hidden from gods [367e]
 
