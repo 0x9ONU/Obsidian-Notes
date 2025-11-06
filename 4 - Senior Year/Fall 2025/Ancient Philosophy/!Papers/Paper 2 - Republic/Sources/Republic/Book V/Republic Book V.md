@@ -5,15 +5,16 @@ File Folder: Book IV
 
 # Original Texts
 
-- [[Book V - Preface]]
-- [[450c]]
-- [[455e]]
-- [[471c-e]]
-- [[472a-473c]]
-- [[473c-e]]
-- [[474c-480a]]
-
+- 
 # Analysis
+
+### Book Summary
+
+![[Book V - Preface]]
+
+### Class Notes
+
+![[Ancient Philosophy - Week 8 Day 1#Republic V]]
 
 
 

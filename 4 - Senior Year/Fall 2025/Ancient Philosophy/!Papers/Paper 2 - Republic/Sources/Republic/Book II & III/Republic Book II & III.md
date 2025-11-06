@@ -5,7 +5,18 @@ File Folder: Book IV
 
 # Original Texts
 
-- [[Note here]]
+- [[Republic 2.359a]]
+- [[Republic 2.359d]]
+- [[Republic 2.360e-351d1]]
+- [[Republic 2.361e]]
+- [[Republic 2.367e]]
+- [[Republic 2.368c-369a]]
+- [[Republic 2.372a-d]]
+- [[Republic 2.373d5-e5]]
+- [[Republic 2.396c-e]]
+- [[Republic 2.401a-e]]
+- [[Republic 2.415a-d]]
+- [[Republic 2.416d-417b]]
 
 # Analysis
 

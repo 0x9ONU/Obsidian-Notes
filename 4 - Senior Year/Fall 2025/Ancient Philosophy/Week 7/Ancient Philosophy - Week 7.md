@@ -65,9 +65,11 @@ It is a kind of order and the mastery of certain kinds of pleasures and desires
 
 ### Justice
 
+#### 433b-d
+
 ```ad-summary
 title: Definition
-The power that makes it possible for each of the class to do one's ownt ask. It is doing one's work and the power to do so.
+**Justice**: the power that makes it possible for each of the class to do one's ownt ask. It is doing one's work and the power to do so.
 ```
 
 ```ad-quote
@@ -78,6 +80,8 @@ Moreover, we’ve heard many people say and have often said ourselves that justi
 1. The Rulers: Wisdom
 2. The Auxiliaries: Courage
 3. The Producers: Moderation
+
+#### 434a-b
 
 ```ad-quote
 title: 434a-b
@@ -90,6 +94,8 @@ Injustice is meddling and exchange between these three classes.
 
 ## Method of Investigation 
 
+### 434d-435d
+
 ```ad-note
 title: Remember
 The method of investigation asssumes that justice is univocal: botha  city and an individual are called just in the same snese. (434d-435d): his method is not precise; but it was agreed upon by all.
@@ -100,6 +106,8 @@ title: 434d-435d
 Let’s not take that as secure just yet, but ifwe find that the same form, when it comes to be in each individual person, is accepted as justice there as well, we can assent to it. What else can we say? But if that isn’t what we find, we must look for something else to be justice. For the moment, however, let’s complete the present inquiry. We thought that, if we first tried to observe justice in some larger thing that possessed it, this would make it easier to observe in a single individual.8 We agreed that this larger thing is a city, and so we established the best city we could, knowing well e that justice would be in one that was good. So, let’s apply what has come to light in the city to an individual, and if it is accepted there, all will be well. But if something different is found in the individual, then we must go back and test that on the city. And if we do this, and compare them 435 side by side, we might well make justice light up as if we were rubbing fire-sticks together. And, when it has come to light, we can get a secure grip on it for ourselves. You’re following the road we set, and we must do as you say. Well, then, are things called by the same name, whether they are bigger or smaller than one another, like or unlike with respect to that to which that name applies? Alike. Then a just man won’t differ at all from a just city in respect to the form b of justice; rather he’ll be like the city.
 ```
 
+### 435e
+
 435e: The characteristic of a city reflects the characteristic of an individual
 
 ```ad-quote
@@ -109,6 +117,8 @@ Well, then, we are surely compelled to agree that each of us has within himself 
 
 So obviously we have the parts by means of which we learn, we get angry, and we desire the pleasures of food, drink, and sex.
 
+### 435c-d
+
 ```ad-quote
 title: 435c-d
 Apparently so. But you should know, Glaucon, that, in my opinion, we will never get a precise answer using our present methods of argument— although there is another longer and fuller road that does lead to such an answer. But perhaps we can get an answer that’s up to the standard of our previous statements and inquiries.
@@ -117,6 +127,8 @@ Apparently so. But you should know, Glaucon, that, in my opinion, we will never 
 Plato is explicit that he is giving a rough outline here, and that there is a bigger picture that he will give later on.
 
 ## The Principle
+
+### 436b
 
 ```ad-question
 Do we do them with the same part or with the different parts?
@@ -156,6 +168,8 @@ But I’ve heard something relevant to this, and I believe it. Leontius, the son
 This conflict illustrates the conflict between the appetitive part and the spirited part
 ```
 
+### Rational Vs. Spirited
+
 *Difference Between Rational and Spirited*: The spirited part differs from the rational part for we share in the spirited part from birth but the rational part after birth. Animals seem to share in the spirited part but not the rational part (440b-c).
 - Their difference is illustrated by Homer
 
@@ -192,6 +206,8 @@ Justice is the power that makes it possible for each of the part to do its own t
 
 ## The Nature of Justice
 
+### Injustice
+
 The nature of justice is not something external but an internal structure of a thing (443d-444a)
 - **Injustice** is a kind of civil war; it is a meddling and doing another’s work
 
@@ -200,12 +216,16 @@ title: 443d-444a
 And in truth justice is, it seems, something ofthis sort. However, it isn’t concerned with someone’s doing his own externally, but with whatis inside him, with what is truly himself and his own. One who is just does not d allow any part ofhimselfto do the work of another part or allow the various classes within him to meddle with each other. He regulates well what is really his own and rules himself. He puts himself in order, is his own friend, and harmonizes the three parts of himselflike three limiting notes in a musical scale—high, low, and middle. He binds together those parts and any others there may be in between, and from having been many things he becomes entirely one, moderate and harmonious. Only then e does he act. And when he does anything, whether acquiring wealth, taking care of his body, engaging in politics, or in private contracts—in all of these, he believes that the action is just and fine that preserves this inner harmony and helps achieve it, and calls it so, and regards as wisdom the knowledge that oversees such actions. And he believes that the action that 444 destroys this harmony is unjust, and calls it so, and regards the belief that oversees it as ignorance.
 ```
 
+### Disease of the Soul
+
 Justice is the health and injustice is the *disease of the soul* (444c-e)
 
 ```ad-quote
 title: 444c-e
 So, if justice and injustice are really clear enough to us, then acting c justly, acting unjustly, and doing injustice are also clear. How so? Because just and unjust actions are no different for the soul than healthy and unhealthy things are for the body. In what way? Healthy things produce health, unhealthy ones disease. Yes. And don’t just actions produce justice in the soul and unjust ones d injustice? Necessarily. To produce health is to establish the components of the body in a natural relation of control and being controlled, one by another, while to produce disease is to establish a relation ofruling and being ruled contrary to nature. J That’s right. Then, isn’t to produce justice to establish the parts of the soul in a natural relation of control, one by another, while to produce injustice is to establish a relation of ruling and being ruled contrary to nature? Precisely. Virtue seems, then, to be a kind of health, fine condition, and well¬ being ofthe soul, while vice is disease, shameful condition, and weakness
 ```
+
+### Intrinsic and Instrumental Value
 
 If justice is a healthy soul, then there is both intrinsic and instrumental value:
 

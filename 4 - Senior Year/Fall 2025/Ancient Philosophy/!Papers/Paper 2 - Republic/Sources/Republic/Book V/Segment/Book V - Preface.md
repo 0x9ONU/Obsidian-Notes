@@ -12,7 +12,7 @@ Book V continues the discussion ofvirtue and vice in souls and cities that was b
 # Analysis
 
 - Continues with the city analogy from the previous book
-- Interrupted by Polemarchus and is asks Socrates to explain the remark he made about the guardians possessing their wives and children in common [[423e-424a]].
+- Interrupted by Polemarchus and is asks Socrates to explain the remark he made about the guardians possessing their wives and children in common [[Republic 423e-424a]].
 - Socrates’ gives a lengthy response for most of this book (541c-571c).
 	- Proposed that children should be brought up in the city rather than by parents
 	- Men and women should receive equal education ([[455e]], [[450c]])
