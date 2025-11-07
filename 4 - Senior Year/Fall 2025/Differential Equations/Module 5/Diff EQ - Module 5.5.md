@@ -326,14 +326,178 @@ $$
 y_{p}(x)=Axe^x+Bx^5+Cx^4+Dx^3
 $$
 
+#### Example 11
 
+```ad-question
+Solve the following initial value problem
+```
 
+$$
+y^{\prime \prime}+3y^\prime +2y=e^x;\quad y(0)=0; \quad y^\prime(0)=3
+$$
 
+$$
+y = y_{c}+y_{p}
+$$
 
+**Complementary Solution**
 
+$$
+y_{c}=y^{\prime \prime}+3y^\prime + 2y = 0
+$$
+$$
+r^2+3r+2=0
+$$
+$$
+(r+1)(r+2)
+$$
+$$
+r=-1, -2
+$$
+$$
+y_{c}=c_{1}e^{-x}+c_{2}e^{-2x}
+$$
 
+**Particular Solution**
 
+$$
+y_{t}=Ae^x
+$$
+$$
+y^\prime(t)=Ae^x
+$$
+$$
+y^{\prime \prime}(t)=Ae^x
+$$
+$$
+Ae^x+3Ae^x+2Ae^x=e^x
+$$
+$$
+6Ae^x=e^x
+$$
+$$
+6A=1
+$$
+$$
+A= \frac{1}{6}
+$$
+$$
+y_{p}=\frac{1}{6}e^x
+$$
+**General Solution**
 
+$$
+y = c_{1}e^{-x}+c_{2}e^{-2x}+\frac{1}{6}e^x
+$$
+**IVP**
 
+$$
+y(0)=0
+$$
 
+$$
+(0)=c_{1}+c_{2}+\frac{1}{6}
+$$
+$$
+c_{1}+c_{2}=-\frac{1}{6}
+$$
+$$
+y^{\prime}=-c_{1}e^{-x}-2c_{2}e^{-2x}+\frac{1}{6}e^x
+$$
+$$
+y^\prime(0)=3
+$$
+$$
+3 = -c_{1}-2c_{2}+\frac{1}{6}
+$$
+$$
+-c_{1}-2c_{2}=\frac{17}{6}
+$$
+$$
+c_{1} = \frac{5}{2}, c_{2}=-\frac{8}{3}
+$$
+**Final Solution**
+
+$$
+\boxed{y=\frac{5}{2}e^{-x}-\frac{8}{3}e^{-2x}+\frac{1}{6}e^x}
+$$
+#### Example 12
+
+```ad-question
+Solve the following IVP
+```
+
+$$
+y^{\prime \prime}+9y=\sin 2x; \quad y(0)=1; \quad y^{\prime}(0)=0
+$$
+
+**Complementary Solution**
+
+$$
+r^2+9 = 0
+$$
+$$
+r = \pm 3i
+$$
+$$
+y = c_{1}\cos 3x +c_{2} \sin 3x
+$$
+**Particular**
+
+$$
+y_{t}=A\sin 2x +B \cos 2x
+$$
+$$
+y_{t}^\prime = 2A\cos 2x-2B\sin 2x
+$$
+$$
+y^{\prime \prime}_{t}=-4A\sin 2x-4B\cos 4x
+$$
+$$
+(-4A\sin 2x-4B\cos 4x)+9(A\sin 2x+B\cos 2x)=\sin 2x
+$$
+$$
+5A = 1 \quad 5B = 0
+$$
+$$
+A = \frac{1}{5}
+$$
+$$
+B = 0
+$$
+$$
+y_{p}=\frac{1}{5} \sin 2x
+$$
+**General**
+$$
+y=c_{1}\cos 3x+c_{2} \sin 3x + \frac{1}{5}\sin 2x
+$$
+**IVP**
+
+$$
+y(0)=1
+$$
+$$
+(1)=c_{1}
+$$
+$$
+y^\prime = -3c_{1}\sin 3x+3c_{2}\cos 3x + \frac{2}{5}\cos 2x
+$$
+$$
+y^\prime(0)=0
+$$
+$$
+(0)=3c_{2}+\frac{2}{5}
+$$
+$$
+-\frac{2}{5}=3c_{2}
+$$
+$$
+-\frac{2}{15}=c_{2}
+$$
+
+**Final**
+$$
+\boxed{y=\cos 3x - \frac{2}{15}\sin 3x + \frac{1}{5}\sin 2x}
+$$
 
