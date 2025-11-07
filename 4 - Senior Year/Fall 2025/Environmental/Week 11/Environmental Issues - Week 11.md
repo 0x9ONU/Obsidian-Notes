@@ -78,6 +78,81 @@ In the United States, our aquifers are a reliable source of water, *as long as* 
 	- Faucets (15%)
 	- Leaks (14%)
 
+## Water Scarcity
+
+1. **Physical**: Use exceeds sustainable limits
+2. **Economic**: Limited by ability to “pay” for it
+	- Do they have a well to access clean water on their property
+
+![[Pasted image 20251107100743.png]]
+
+```ad-important
+Adequate sanitaiton is also part of the solution. Places where adequate sanitation is not available, it also physically limits how much water can be used by humans.
+```
+
+### Addressing Water Shortages
+
+1. Reduce our **water footprints**
+	- Domestic water-use
+	- Hidden water-use (industry & agriculture)
+	- Pair of Blue Jeans (2,900 gallons)
+	- 500 sheets of paper (1,250)
+	- It takes 2.5 gallons of water to make *one single-use* plastic bottle
+2. **Impervious surfaces**
+	- Sidewalks, roads, etc.
+	- It reduces infiltration
+	- Permeable pavement and rain gardens can help
+3. **Saltwater Intrusion**
+	- Aquifers can be breached by ocean water, which makes the whole aquifer unusable
+4. **Dams and Reservoirs**
+	- Dams stop the flow of rivers to create water storage
+	- Can be used for hydroelectric generation, recreation, etc.
+	- BUUUUT, it can lead to water loss due to evaporation, heavily cause damage to ecosystems, and might cause water shortages downstream
+5. **Desalination**
+	- Take saltwater in and remove the salt/minerals to make it safe for human consumption
+	- *Advantages*: Huge supply of saltwater
+	- *Disadvantages*: Energy intensive, expensive, waste from the leftover brine, intake issues with sealife
+6. **Water Conservation**
+	- “Just use less water”
+	- Much cheaper!
+	- Water footprint apps
+
+
+![[Pasted image 20251107101104.png]]
+   
+```ad-example
+**Orange County**
+- 1960s-1970s: Had a saltwater intrusion from the ocean to their main acquifer
+- 1975: OCSD pumped treated wastewater into infiltirated wells to keep the salt concentration down
+- Mid 1990s: Discussed Groundwater Replenishemtn System (GWRS)
+```
+
+### Wastewater Treatment
+
+#### State of the Art
+
+**Steps**:
+1. *Microfiltration:* Remove small suspended solids
+2. *Reverse Osmosis* and 
+3. Exposure to *UV Light*
+
+```ad-warning
+End product was very clean, but **expensive**
+```
+
+#### Small Population Approach
+
+```ad-example
+Arcata, California had a different approach to treating wastewater
+```
+
+Repurposed a retired landfill and turned it into a **wetland**.
+
+## Where local water come from?
+
+- A *very shallow* acquifer for most of Hardin
+- Lima typically uses surface water
+
 
 
 
