@@ -500,4 +500,70 @@ $$
 $$
 \boxed{y=\cos 3x - \frac{2}{15}\sin 3x + \frac{1}{5}\sin 2x}
 $$
+#### Example 13
+
+```ad-question
+Solve the intial value problem
+```
+
+$$
+y^{(3)}+y^{\prime \prime}=x+e^{-x}; \quad y(0)=1, \quad y^\prime(0)=0, \quad y^{\prime \prime}(0)=1
+$$
+**Complementary**
+
+$$
+r^3+r^2=0
+$$
+$$
+(r^2)(r+1)=0
+$$
+$$
+r = 0, 0, -1
+$$
+$$
+y_{c}=c_{1}e^{-x}+c_{2}x+c_{3}
+$$
+**Particular**
+
+$$
+y_{t}=Ax+Be^{-x}
+$$
+*Remove Repeats!*
+
+$$
+y_{t}=Ax^3+Bxe^{-x}+Cx^2
+$$
+$$
+y^\prime =3Ax^2+B(-xe^{-x}+e^{-x})+2Cx
+$$
+$$
+y^{\prime \prime}=6Ax+B[(xe^{-x}-e^{-x})-e^{-x}]+2C
+$$
+$$
+y^{(3)}=6A +B[(-xe^{-x}+e^{-x})+e^{-x}+e^{-x}]
+$$
+$$
+(6A +3Be^{-x}-Bxe^{-x})+6Ax-2Be^{-x}+Bxe^{-x}+2C=x+e^{-x}
+$$
+$$
+A(6+x)+B(e^{-x})+2C = x+e^{-x}
+$$
+$$
+B = 1
+$$
+$$
+6A = 1 \Rightarrow A = \frac{1}{6}
+$$
+$$
+6A+2C = 0 \Rightarrow C = -\frac{1}{2}
+$$
+$$
+y_{p}= \frac{1}{6}x^3-\frac{1}{2}x^2+xe^{-x}
+$$
+**General**
+
+$$
+y = c_{1}+c_{2}x+c_{3}e^{-x}+\frac{1}{2}x^2+\frac{1}{6}x^3+xe^{-x}
+$$
+**IVP**
 
