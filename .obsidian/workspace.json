@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "539329131ba120e2",
+            "id": "87d65f4cbf586915",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Phaedo/Segments/Phaedo 77e-78a.md",
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Segment/Republic 584e-585a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phaedo 77e-78a"
-            }
-          },
-          {
-            "id": "307175993c0690c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book II & III/Segments/Republic 2.416d-417b.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Republic 2.416d-417b"
-            }
-          },
-          {
-            "id": "1d7b8cf278f0387e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 506c.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Republic 506c"
+              "title": "Republic 584e-585a"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a9ed3181bac55bb4",
@@ -62,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 8/Ancient Philosophy - Week 8 Day 1.md",
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ancient Philosophy - Week 8 Day 1"
+              "title": "Ancient Philosophy - Week 9"
             }
           }
         ]
@@ -294,34 +265,35 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1d7b8cf278f0387e",
+  "active": "87d65f4cbf586915",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book II & III/Segments/Republic 2.416d-417b.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 506c.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Segment/Republic 584e-585a.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Republic Book IX.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX/Republic Book IX.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Republic Book VIII.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Segment/Republic 579c-580c.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Segment/Republic 575e-576c and 577d-e.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Republic Book VII.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Segment/Republic 560e-562d.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Segment/Republic 544d-e.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX/Segment",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 540d-e.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 8/Ancient Philosophy - Week 8 Day 1.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 532b-d and 533d-e.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 520b-d.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 518b-d and 519b.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 414a1-587d.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 509d-511e.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 507b-509b.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Republic Book VI.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 506c.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book II & III/Segments/Republic 2.416d-417b.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Untitled.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 8/Ancient Philosophy - Week 8 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 505e-506a.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 504e-505a.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 497b-c.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 491d-492b & 495d.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 488b-489a.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 487b-c.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 484d.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 6/Ancient Philosophy - Week 6 Day 2.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Republic Book V.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 476e-477b.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 473d-e.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 472c-e.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 454c-e.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 449d.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 450d-451a.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 7/Ancient Philosophy - Week 7.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book IV/Republic Book IV.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/450c.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Book V - Preface.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book IV/Segments/Republic 357c.md",
     "General Notes/Pasted image 20251105102608.png",
     "General Notes/Pasted image 20251105101906.png",
     "General Notes/Pasted image 20251105101410.png",
@@ -341,7 +313,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "Untitled 1.canvas",

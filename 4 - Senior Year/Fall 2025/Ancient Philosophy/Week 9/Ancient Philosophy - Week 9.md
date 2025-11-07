@@ -25,7 +25,7 @@ Socrates returns back to his original argument of just/unjust from Book 4 in Boo
 These books correspond to the **three arguments** of why the just person is happier than the unjust person.
 ```
 
-## First Argument: The Constitutions and the Souls
+## Book VIII - First Argument: The Constitutions and the Souls
 
 ### Five Constitutions
 
@@ -55,7 +55,7 @@ collapse: closed
 And do you realize that of necessity there are as many forms of human character as there are of constitutions? Or do you think that constitutions are bom “from oak or rock”5 and not from the characters of the people who live in the cities governed by them, which tip the scales, so to speak, and drag the rest along with them? e No, I don’t believe they come from anywhere else. Then, if there are five forms of city, there must also be five forms of the individual soul.
 ```
 
-#### Descriptions of the Soul
+### Descriptions of the Soul
 
 | Soul         | Part       | Characteristic                                                                                                                           |
 | ------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -80,6 +80,8 @@ Now, in private life, before a tyrannical man attains power, isn’t he this sor
 It is as enslaved as it is possible to be. Yet you see in it people who are masters and free. I do see a few like that, but the whole city, so to speak, and the most decent part of it are wretched, dishonored slaves. d Then, if man and city are alike, mustn’t the same structure be in him too? And mustn’t his soul be full ofslavery and unfreedom, with the most decent parts enslaved and with a small part, the maddest and most vicious, as their master? It must. What will you say about such a soul then? Is it free or slave? Slave, of course. And isn’t the enslaved and tyrannical city least likely to do what it wants? Certainly. Then a tyrannical soul—I’m talking about the whole soul—will also be least likely to do what it wants and, forcibly driven by the stings of a e dronish gadfly, will be full of disorder and regret.
 ```
 
+### Wrapping up the Argument
+
 **Based on the description of Tyrannical soul in contrast to Aristocratic soul, we can see why just person is happiest than the unjust person (who is in fact wretched).** (see 579c-580c)
 
 ```ad-quote
@@ -88,7 +90,7 @@ collapse: closed
 Then, isn’t this harvest of evils a measure of the difference between a tyrannical man who is badly governed on the inside—whom you judged to be most wretched just now—and one who doesn’t live a private life but is compelled by some chance to be a tyrant, who tries to rule others when he can’t even control himself. He’s just like an exhausted body without any self-control, which, instead ofliving privately, is compelled to compete d and fight with other bodies all its life. That’s exactly what he’s like, Socrates, and what you say is absolutely true. And so, Glaucon, isn’t this a completely wretched condition to be in, and doesn’t the reigning tyrant have an even harder life than the one you judged to be hardest? He certainly does. In truth, then, and whatever some people may think, a real tyrant is really a slave, compelled to engage in the worst kind of fawning, slavery, and pandering to the worst kind of people. He’s so far from satisfying his e desires in any way that it is clear—if one happens to know that one must study his whole soul—that he’s in the greatest need of most things and truly poor. And, if indeed his state is like that of the city he rules, then he’s full of fear, convulsions, and pains throughout his life. And it is like it, isn’t it? Of course it is. 580 And we’ll also attribute to the man what we mentioned before, namely, that he is inevitably envious, untrustworthy, unjust, friendless, impious, host and nurse to every kind of vice, and that his ruling makes him even more so. And because of all these, he is extremely unfortunate and goes on to make those near him like himself. No one with any understanding could possibly contradict you. Come, then, and like the judge who makes the final decision,6 tell me who among the five—the king, the timocrat, the oligarch, the democrat, b and the tyrant—is first in happiness, who second, and so on in order. That’s easy. I rank them in virtue and vice, in happiness and its opposite, in the order of their appearance, as I might judge choruses. Shall we, then, hire a herald, or shall I myself announce that the son of Ariston has given as his verdict that the best, the most just, and the most c happy is the most kingly, who rules like a king over himself, and that the worst, the most unjust, and the most wretched is the most tyrannical, who most tyrannizes himself and the city he rules? Let it be so announced. And shall I add to the announcement that it holds, whether these things remain hidden from every god and human being or not? Add it.
 ```
 
-## Second Argument: Desires
+## Book IX: Second Argument: Desires
 
 ### Different Kind of Desires
 
@@ -132,7 +134,9 @@ What if there are those who experienced all three and chose the bottom two?
 - Ex. a CEO chooses profit even though he is a genius
 - Plato would argue that the true experience of a rational seeker is to find truth and the General and the CEO are using the truth *as a means* to push their motivations. They are blinded and do not understand it as such.
 - Or they did not have enough of a natural gift, so they pivoted to something else
-## Third Argument: False Pleasure
+## Book X:  Third Argument: False Pleasure
+
+### Introduction
 
 ```ad-note
 Plato thinks that this is the best of the three arguments
@@ -157,6 +161,8 @@ And if he was brought back, wouldn’t he suppose that he was being brought down
 
 ### Body and Soul Distinction
 
+#### Nourishment of the Body
+
 |      | State |                      |
 | ---- | ----- | -------------------- |
 | Soul | Empty | Ignorance            |
@@ -170,6 +176,8 @@ title: 585e-586a
 collapse: closed
 Therefore, if being filled with what is appropriate to our nature is pleasure, that which is more filled with things that are more enjoys more really and truly a more true pleasure, while that which partakes of things e that are less is less truly and surely filled and partakes of a less trustworthy and less true pleasure. That’s absolutely inevitable. Therefore, those who have no experience of reason or virtue, but are always occupied with feasts and the like, are brought down and then back 586 up to the middle, as it seems, and wander in this way throughout their lives, never reaching beyond this to what is truly higher up, never looking up at it or being brought up to it, and so they aren’t filled with that which really is and never taste any stable or pure pleasure. Instead, they always look down at the ground like cattle, and, with their heads bent over the dinner table, they feed, fatten, and fornicate. To outdo8 others in these things, they kick and butt them with iron horns and hooves, killing each b other, because their desires are insatiable. For the part that they’re trying to fill is like a vessel full of holes, and neither it nor the things they are trying to fill it with are among the things that are
 ```
+
+### Nourishment of the Soul
 
 In contrast, the nourishment of the **soul** includes true belief, knowledge, and understanding (and they provide true pleasure because they are related to what is always the same, immortal and truth.)
 - Without reason and understanding, the spirited part will be nourished with envy, violence, and anger (see 586d)

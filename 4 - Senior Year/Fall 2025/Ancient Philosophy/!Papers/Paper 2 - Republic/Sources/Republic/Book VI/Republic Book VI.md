@@ -5,7 +5,14 @@ File Folder: Book IV
 
 # Original Texts
 
-- [[Note here]]
+- [[Republic 484d]]
+- [[Republic 487b-c]]
+- [[Republic 488b-489a]]
+- [[Republic 491d-492b & 495d]]
+- [[Republic 497b-c]]
+- [[Republic 504e-505a]]
+- [[Republic 505e-506a]]
+- [[Republic 506c]]
 
 # Analysis
 
