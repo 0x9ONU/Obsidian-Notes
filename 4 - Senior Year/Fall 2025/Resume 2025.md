@@ -2,10 +2,10 @@
 **Doctor of Philosophy Candidate - Computer Engineering**
 Rock Creek, Ohio | ethan.berei@gmail.com | [+1 (440)-563-1851](tel:4405631851) | https://www.linkedin.com/in/ethanberei
 # Education
-*Bachelor of Science in Computer Engineering (ABET Accredited)* $\quad \quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\space\space$May 2026
+*Bachelor of Science in Computer Engineering (ABET Accredited)*                                                                                                                                                    May 2026
 **Ohio Northern University (ONU)**, Ada, Ohio
 # Research Experience
-*Undergraduate Researcher, Evan’s Fellowship, ONU* $\quad \quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\space$ May 2023-May 2026
+*Undergraduate Researcher, Evan’s Fellowship, ONU*                                                                                                                                                     May 2023-May 2026
 **Topic: Utilizing Machine Learning and Cybersecurity**
 - Developed skills in the following: networks, data communication, machine learning and cybersecurity.
 - Collaborated with a team of faculty members to research and publish new discoveries.
@@ -37,17 +37,17 @@ Rock Creek, Ohio | ethan.berei@gmail.com | [+1 (440)-563-1851](tel:4405631851) |
 - - -
 # Conference Publications and Presentations
 - [*”Logarithmic & Current-Integrating Sensor Interpreted by a Multi-Level Flash ADC”*](https://www.researchgate.net/publication/394580365_Logarithmic_Current-Integrating_Sensor_Interpreted_by_a_Multi-Level_Flash_ADC))
-	- Presented at IEEE International Conference on Electro Information Technology, Valparaiso, IN $\quad\quad\quad\quad\quad\quad\quad\quad\quad\space\space$May 2025
-	- Published on IEEE Xplore$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\space$August 2025
+	- Presented at IEEE International Conference on Electro Information Technology, Valparaiso, IN                                                May 2025
+	- Published on IEEE Xplore, August 2025
 - [*”Math Quest: Arithmetic Education for Underfunded Schools”*](https://www.researchgate.net/publication/394388916_GIFTS_Paper_Math_Quest_Arithmetic_Education_for_Underfunded_Schools)
-	- Presented at ASEE First Year Engineering Experience, College Park, MD, July 2025
+	- Presented at ASEE First Year Engineering Experience, College Park, MD,                                                                                                 July 2025
 	- Published on ASEE Peer, July 2025
 - [*“Machine Learning Algorithms for DoS and DDoS Cyberattacks Detection in Real-time Environment”*](https://www.researchgate.net/publication/379057006_Machine_Learning_Algorithms_for_DoS_and_DDoS_Cyberattacks_Detection_in_Real-Time_Environment)
-	- Presented at IEEE Consumer Communications and Networking Conference, Las Vegas, NV, January 2024 
+	- Presented at IEEE Consumer Communications and Networking Conference, Las Vegas, NV,                                               January 2024 
 	- Published on IEEE Xplore, March 2024
 - [*”Enhancing Cybersecurity: A Pipeline Approach for Efficient Machine Learning Intrusion Detection*](https://www.researchgate.net/publication/375732715_Enhancing_Cybersecurity_A_Pipeline_Approach_for_Efficient_Machine_Learning_Intrusion_Detection)
-	- Presented at IEEE Ubiquitous Computing, Electronics and Mobile Communication Conference, New York, NY, October 2023,
-	- Published on IEEE Xplore, November 2023
+	- Presented at IEEE Ubiquitous Computing, Electronics and Mobile Communication Conference, New York, NY,       October 2023
+	- Published on IEEE Xplore,  November 2023
 # Technical and Professional Skills
 
 | **Languages**     | **Programs** | **Tech Skills**               | **Professional Skills**      |
@@ -64,17 +64,17 @@ Rock Creek, Ohio | ethan.berei@gmail.com | [+1 (440)-563-1851](tel:4405631851) |
 
 # Leadership Experience
 
-- *President, Theta Chi Fraternity, Zeta Kappa Chapter, ONU* $\quad \quad \quad$ 2024-Present
-- *Historian, Tau Beta Pi Engineering Honors Society, Ohio Iota Chapter, ONU* $\quad \quad \quad$ 2024-Present
-- *Member, Order of Omega, Theta Eta Chapter, ONU* $\quad \quad \quad$ 2024-Present
-- *Teaching Assistant, Maker Engineering, College of Engineering, ONU* $\quad \quad \quad$ 2024-Present
-- *Dean’s Team, College of Engineering, ONU* $\quad \quad \quad$ 2023-Present
+- *President, Theta Chi Fraternity, Zeta Kappa Chapter, ONU*                                                                                                                                                2024-Present
+- *Historian, Tau Beta Pi Engineering Honors Society, Ohio Iota Chapter, ONU* $\quad \quad \quad$                                                                                              2024-Present
+- *Member, Order of Omega, Theta Eta Chapter, ONU*                                                                                                                                                             2024-Present
+- *Teaching Assistant, Maker Engineering, College of Engineering, ONU*                                                                                                                            2024-Present
+- *Dean’s Team, College of Engineering, ONU*                                                                                                                                                                              2023-Present
 # Volunteer Experience
 **100+ Hours of Volunteer Work & $6000+ Raised for Charities**
-- *Rock the Tundra Charity Concert* $\quad \quad \quad$ 2021-Present
-- *Community Highway Cleanup* $\quad \quad \quad$ 2021-Present
-- *Individual Ada Community Cleanups* $\quad \quad \quad$ 2022-Present
-- *Student Tutoring* $\quad \quad \quad$ 2023-Present
-- *College Tour Guide* $\quad \quad \quad$ 2023-Present
+- *Rock the Tundra Charity Concert*                                                                                                                                                                                                2021-Present
+- *Community Highway Cleanup*                                                                                                                                                                                                     2021-Present
+- *Individual Ada Community Cleanups*                                                                                                                                                                                       2022-Present
+- *Student Tutoring*                                                                                                                                                                                                                              2023-Present
+- *College Tour Guide*                                                                                                                                                                                                                           2023-Present
 
 
