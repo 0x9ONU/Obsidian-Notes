@@ -2,7 +2,7 @@
 **Doctor of Philosophy Candidate - Computer Engineering**
 Rock Creek, Ohio | ethan.berei@gmail.com | [+1 (440)-563-1851](tel:4405631851) | https://www.linkedin.com/in/ethanberei
 # Education
-*Bachelor of Science in Computer Engineering (ABET Accredited)*                                                                                                                                                    May 2026
+*Bachelor of Science in Computer Engineering (ABET Accredited)* $\quad$May 2026
 **Ohio Northern University (ONU)**, Ada, Ohio
 # Research Experience
 *Undergraduate Researcher, Evan’s Fellowship, ONU*                                                                                                                                                     May 2023-May 2026
@@ -72,8 +72,8 @@ Rock Creek, Ohio | ethan.berei@gmail.com | [+1 (440)-563-1851](tel:4405631851) |
 # Volunteer Experience
 **100+ Hours of Volunteer Work & $6000+ Raised for Charities**
 - *Rock the Tundra Charity Concert*                                                                                                                                                                                                2021-Present
-- *Community Highway Cleanup*                                                                                                                                                                                                     2021-Present
-- *Individual Ada Community Cleanups*                                                                                                                                                                                       2022-Present
+- *Community Highway Cleanup*                                                                                                                                                                                                    2021-Present
+- *Individual Ada Community Cleanups*                                                                                                                                                                                      2022-Present
 - *Student Tutoring*                                                                                                                                                                                                                              2023-Present
 - *College Tour Guide*                                                                                                                                                                                                                           2023-Present
 

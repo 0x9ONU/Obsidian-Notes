@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2531e8fe12bb4d21",
+            "id": "32e84e59460e968d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Resume 2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Resume 2025"
+              "title": "New tab"
             }
           }
         ]
@@ -88,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -246,10 +241,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2531e8fe12bb4d21",
+  "active": "32e84e59460e968d",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Segment/Republic 585e-586a.md",
     "4 - Senior Year/Fall 2025/Resume 2025.md",
+    "Untitled 1.base",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Segment/Republic 585e-586a.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Segment/Republic 588b-590a.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff EQ - Module 5.5.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12.md",
@@ -277,7 +273,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 8/Ancient Philosophy - Week 8 Day 1.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 532b-d and 533d-e.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 520b-d.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Segment/Republic 518b-d and 519b.md",
     "General Notes/Pasted image 20251105102608.png",
     "General Notes/Pasted image 20251105101906.png",
     "General Notes/Pasted image 20251105101410.png",
@@ -293,7 +288,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Phaedo",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno/Segments",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Segments",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "Untitled 1.canvas",
