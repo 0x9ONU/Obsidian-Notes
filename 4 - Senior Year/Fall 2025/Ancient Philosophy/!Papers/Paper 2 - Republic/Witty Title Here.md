@@ -33,14 +33,16 @@ title: Author Information
 
 ### Form of the Good
 
-
-
 Book VII
 - Simile of the Sun
 - Divided Line
 - The Cave
-## Analysis
 
+### Argument for Why the Just Person is Happier than the Unjust Person
+
+
+
+## Analysis
 
 
 ### Objection
