@@ -1,16 +1,176 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": null,
+  "selectedDraftVaultPath": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2025-11-09T20:10:27.305Z",
-      "total": 33,
+      "start": "2025-11-09T18:27:08.375Z",
+      "total": 36,
       "drafts": {
         "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
-          "total": 33,
+          "total": 36,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-11-08T18:17:37.936Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-11-07T14:55:08.191Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-11-06T16:25:06.738Z",
+      "total": 22,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 22,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-11-05T15:08:51.135Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-11-04T14:34:04.563Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-11-03T14:51:42.293Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-11-02T14:52:24.159Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-11-01T21:25:51.592Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-10-31T14:01:36.866Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-10-30T13:38:32.697Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-10-29T19:06:03.124Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-10-28T13:30:45.359Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-10-27T14:02:13.526Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-10-24T14:00:07.830Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-10-23T13:55:41.793Z",
+      "total": 2166,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 2166,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-05-08T14:35:14.883Z",
+      "total": 0,
+      "drafts": {
+        "3 - Junior Year/Spring 2025/HW&SW Co-Design/Final/Test/Index.md": {
+          "total": 0,
           "scenes": {}
         }
       }
