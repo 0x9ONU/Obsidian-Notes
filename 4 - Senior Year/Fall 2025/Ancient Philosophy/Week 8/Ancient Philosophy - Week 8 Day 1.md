@@ -79,6 +79,8 @@ Certainly.
 So do you think that our discussion will be any less reasonable if we can’t prove that it’s possible to found a city that’s the same as the one in our theory?
 ```
 
+## Is the Ideal City Possible?
+
 But the realization of the ideal city is possible only if *philosophers* become **rulers**
 
 ```ad-quote
@@ -121,6 +123,8 @@ Do you think, then, that there’s any difference between the blind and those wh
 
 ## The Simile of a Ship
 
+### Adeimantus’ Reaction
+
 An interesting reaction form Adeimantus:
 - The most common reaction of people when they encounter philosophy for the first time.
 - Adeimantus make this observation because most people believe that philosophers are either vicious or useless
@@ -131,6 +135,8 @@ collapse: closed
 And Adeimantus replied: No one would be able to contradict the things you’ve said, Socrates, but on each occasion that you say them, your hearers are affected in some such way as this. They think that, because they’re b inexperienced in asking and answering questions, they’re led astray a little bit by the argument at every question and that, when these little bits are added together at the end ofthe discussion, great is their fall, as the opposite of what they said at the outset comes to light. Just as inexperienced checkers players are trapped by the experts in the end and can’t make a move, so they too are trapped in the end and have nothing to say in this c different kind of checkers, which is played not with disks but with words. Yet the truth isn’t affected by this outcome. I say this with a view to the present case, for someone might well say now that he’s unable to oppose you as you ask each of your questions, yet he sees that of all those who take up philosophy—not those who merely dabble in it while still young in order to complete their upbringing and then drop it, but diose who continue in it for a longer time—the greatest number become cranks, not d to say completely vicious, while those who seem completely decent are rendered useless to the city because ofthe studies you recommend.
 ```
 
+### Socrates’ Response
+
 Socrates agrees and explains it by the simile of a ship: a true philosopher is regarded as a star-gazer (hence useless) or a false philosopher is vicious.
 
 ```ad-quote
@@ -140,6 +146,8 @@ Imagine, then, that something like the following happens on a ship or on many sh
 ```
 
 ## Importance of Education
+
+### Why is Education Important?
 
 It is very difficult for naturally gifted to become a true philosopher in the present situations; rather, it is more likely theyw ould become wicked.
 - Great injustice and wickedness are the result of the people witht he natural gift gone wrong. They become tyrants and leaders of mob/gang. THey could have become very vritious people (`491d-492b` and `495d`)
@@ -156,6 +164,8 @@ collapse: closed
 When these men, for whom philosophy is most appropriate, fall away from her, they leave her desolate and unwed, and they themselves lead c lives that are inappropriate and untrue. Then others, who are unworthy of her, come to her as to an orphan deprived ofthe protection of kinsmen and disgrace her. These are the ones who are responsible for the re¬ proaches that you say are cast upon philosophy by those who revile her, namely, that some of those who consort with her are useless, while the majority deserve to suffer many bad things
 ```
 
+### How Common is Education?
+
 Good education is, thus, important. Unfortunately, it is not found in the present constitution (see `497b-c`)
 
 ```ad-quote
@@ -165,6 +175,8 @@ None of them. That’s exacdy my complaint: None of our present constitutions is
 ```
 
 ## The Form of the Good $\star$
+
+### Definition
 
 The most important subject for true philosophers is the **Form of the Good** (`504e-505a`)
 - Good is something that is higher than just virtues
@@ -180,6 +192,8 @@ Therefore they must be tested in the labors, fears, and pleasures we e mentioned
 Indeed, laziness causes many people to think that. It is a thought that a guardian of a city and its laws can well do without. Probably so. Well, then, he must take the longer road and put as much effort into learning as into physical training, for otherwise, as we were just saying, he d will never reach the goal of the most important subject and the most appropriate one for him to learn. Aren’t these virtues, then, the most important things? he asked. Is there anything even more important than justice and the other virtues we discussed? There is something more important. However, even for the virtues themselves, it isn’t enough to look at a mere sketch, as we did before, while neglecting the most complete account. It’s ridiculous, isn’t it, to strain every nerve to attain the utmost exactness and clarity about other things oflittle value and not to consider the most important things worthy e of the greatest exactness? It certainly is. But do you think that anyone is going to let you offwithout asking you what this most important subject is and what it concerns? No, indeed, and you can ask me too. You’ve certainly heard the answer often enough, but now either you aren’t thinking or you intend to make trouble for me again by interrupting. And I suspect the latter, for you’ve 505 often heard it said that the form of the good is the most important thing to learn about and that it’s by their relation to it that just things and the others become useful and beneficial.
 ```
 
+### Form of the Good and the Soul
+
 The nature of the soul is to pursue the good (`505e-506a`)
 - The soul *wants* to always seek the Good
 - The problem is not everyone knows what the Good is.
@@ -191,6 +205,8 @@ title: 505e-506a
 collapse: closed
 Every soul pursues the good and does whatever it does for its sake. It e divines thatthe good is something butitis perplexed and cannot adequately grasp what it is or acquire the sort of stable beliefs it has about other things, and so it misses the benefit, if any, that even those other things may give. Will we allow the best people in the city, to whom we entrust everything, to be so in the dark about something of this kind and of this 506 importance? That’s the last thing we’d do. I don’t suppose, at least, that just and fine things will have acquired much of a guardian in someone who doesn’t even know in what way they are good. And I divine that no one will have adequate knowledge ofthem until he knows this.
 ```
+
+### Does He Know?
 
 Socrates is reluctant to explain what it is because he does not know it (`506c`); but is willing to give an account of “an offspring of the Good and most like it.”
 
@@ -230,6 +246,8 @@ It is like a line divided into two unequal sections.26 Then divide each section�
 
 ### The Allegory of the Cave
 
+#### Basis of the Cave
+
 ```ad-quote
 title: 414a1-58d7
 ```embed
@@ -240,6 +258,8 @@ url: "https://www.youtube.com/watch?v=d2afuTvUzBQ"
 favicon: ""
 aspectRatio: "75"
 ```
+
+#### The Cave and Education
 
 **Education**: A turning of one’s soul around it involves showing truths by pointing to the right direction. It produces an intellectual conversion, which requires a converstion in terms of desires as well
 
@@ -252,6 +272,8 @@ If that’s true, then here’s what we must think about these matters: Educatio
 However, if a nature ofthis sort had been hammered at from childhood and freed from the bonds of kinship with becoming, which have been fastened to it by feasting, greed, and other such pleasures and which, like leaden weights, pull its vision downwards—if, being rid ofthese, it turned b to look at true things, then I say that the same soul of the same person would see these most sharply, just as it now does the things it is presently turned towards.
 ```
 
+#### Rulers and the Cave
+
 When the education is completed, they must come down to the cave and be the rulers (even though they do not want to) for they owe their education to the city
 
 ```ad-quote
@@ -261,6 +283,8 @@ Observe, then, Glaucon, that we won’t be doing an injustice to those who’ve 
 ```
 
 ## Education: The End to The Seventh Book
+
+### How Does Education and the Form of the Good Connect?
 
 An education of true philosophers includes in addition to music, poetry, and physical training outlined in Books 2 & 3 number/calculation, arithmetic, geometry
 
@@ -273,10 +297,14 @@ Dialectic is also important for the eye of the soul to grasp the Form of the Goo
 ```ad-quote
 title: 532b-d and 533d-e
 collapse: closed
+
 Then isn’t this at last, Glaucon, the song that dialectic sings? It is intelligible, but it is imitated by the power ofsight. We said that sight tries at last to look at the animals themselves, the stars themselves, and, in the end, at the sun itself.13 In the same way, whenever someone tries through argument and apart from all sense perceptions to find the being itself of each thing and doesn’t give up until he grasps the good itself with b understanding itself, he reaches the end of the intelligible, just as the other reached the end of the visible. Absolutely. And what about this journey? Don’t you call it dialectic? I do. Then the release from bonds and the turning around from shadows to statues and the light of the fire and, then, the way up out of the cave to the sunlight and, there, the continuing inability to look at the animals, the plants, and the light of the sun, but the newly acquired ability to look at c divine images in water and shadows of the things that are, rather than, as before, merely at shadows of statues thrown by another source of light that is itself a shadow in relation to the sun—all this business ofthe crafts we’ve mentioned has the power to awaken the best part of the soul and lead it upward to the study ofthe best among the things that are, just as, before, the clearest thing in the body was led to the brightest thing in the d bodily and visible realm.
+
 ---
 At any rate, no one will dispute it when we say that there is no other b inquiry that systematically attempts to grasp with respect to each thing itself what the being of it is, for all the other crafts are concerned with human opinions and desires, with growing or construction, or with the care ofgrowing or constructed things. And as for the rest, I mean geometry and the subjects that follow it, we described them as to some extent grasping what is, for we saw that, while they do dream about what is, they are unable to command a waking view of it as long as they make use of hypotheses thatthey leave untouched and thatthey cannot give any account c of. What mechanism could possibly turn any agreement into knowledge when it begins with something unknown and puts together the conclusion and the steps in between from what is unknown? None. Therefore, dialectic is the only inquiry that travels this road, doing away with hypotheses and proceeding to the first principle itself, so as to be d secure. And when the eye ofthe soul is really buried in a sort of barbaric bog,14 dialectic gently pulls it out and leads it upwards, using the crafts we described to help it and cooperate with it in turning the soul around. From force of habit, we’ve often called these crafts sciences or kinds of knowledge, butthey need another name, clearer than opinion, darker than knowledge. We called them thought somewhere before.15 But I presume that we won’t dispute about a name when we have so many more important matters to investigate.
 ```
+
+### The Ideal City CAN exist
 
 The Ideal City is not just wishful thinking; it is *possible to exist*, although it may be very difficult
 

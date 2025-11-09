@@ -86,12 +86,16 @@ Suppose we have two such rings:
 
 ### Answer 3: The Value of the Appearance of Justice
 
+### 360e-351d1
+
 Suppose we are to imagine the most just and the most unjust person living their respective life in its fullest [360e-351d1]
 
 ```ad-quote
 title: 360e-351d1
 As for the choice between the lives we’re discussing, we’ll be able to e make a correct judgment about that only if we separate the most just and the most unjust. Otherwise we won’t be able to do it. Here’s the separation I have in mind. We’ll subtract nothing from the injustice of an unjust person and nothing from the justice of a just one, but we’ll take each to be complete in his own way of life. First, therefore, we must suppose that an unjust person will act as clever craftsmen do: A first-rate captain or 361 doctor, for example, knows the difference between what his craft can and can’t do. He attempts the first but lets the second go by, and if he happens to slip, he can put things right. In the same way, an unjust person’s successful attempts at injustice must remain undetected, if he is to be fully unjust. Anyone who is caught should be thought inept, for the extreme of injustice is to be believed to be just without being just. And our completely unjust person must be given complete injustice; nothing may be subtracted from it. We must allow that, while doing the greatest injustice, he has nonetheless provided himself with the greatest reputation for justice. If b he happens to make a slip, he must be able to putit right. Ifany ofhis unjust activities should be discovered, he, must be able to speak persuasively or to use force. And ifforce is needed, he must have the help of courage and strength and of the substantial wealth and friends with which he has provided himself. Having hypothesized such a person, let’s now in our argument put beside him a just man, who is simple and noble and who, as Aeschylus says, doesn’t want to be believed to be good but to be so.3 We must take away his reputation, for a reputation for justice would bring him honor c and rewards, so that it wouldn’t be clear whether he is just for the sake of justice itself or for the sake of those honors and rewards. We must strip him of everything except justice and make his situation the opposite of an unjust person’s. Though he does no injustice, he must have the greatest reputation for it, so that his justice may be tested full-strength and not diluted by wrong-doing and what comes from it. Let him stay like that unchanged until he dies—just, but all his life believed to be unjust. In this d way, both will reach the extremes, the one of justice and the other of injustice, and we’ll be able to judge which of them is happier
 ```
+
+### 361e
 
 The most unjust person will be the noblest person, but will *not* enjoy any reputation for justice (it will take away any rewards and honor)
 - He will suffer the notoriety of being the most unjust person.
@@ -107,6 +111,8 @@ I do the best I can, he replied. Since the two are as I’ve described, in any c
 ```ad-important
 It is the view of many that what is important is **NOT** to be just, but believed to *be* just (the appearance of being just is more important than actually being just).
 ```
+
+### 367e
 
 Adimantus, then, brings into their conversations about gods that could affect our actions; he wants to set aside gods from Socrates's account: that is, to praise justice whether or not it remains hidden from gods [367e]
 
@@ -194,6 +200,8 @@ Ouranos prevented his wife Gaia from giving birth to his children, by blocking t
 
 ### How Goodness is Recognized
 
+#### 396c-e
+
 **The importance of “imitation”:**
 - We should imitate only good people and not the bad ones (396c-e)
 - Socrates then discuesses appropriate musical modes, harmony, rhythem and meter. Socrates points out the importance of education is music and poetry (401d-402a)
@@ -205,12 +213,16 @@ title: 396c-e
 Well, I think that when a moderate man comes upon the words or actions of a good man in his narrative, he’ll be willing to report them as if he were that man himself, and he won’t be ashamed of that kind of imitation. He’ll imitate this good man most when he’s acting in a fauldess d and intelligent manner, but he’ll do so less, and with more reluctance, when the good man is upset by disease, sexual passion, drunkenness, or some other misfortune. When he comes upon a character unworthy of himself, however, he’ll be unwilling to make himself seriously resemble that inferior character—except perhaps for a brief period in which he’s doing something good. Rather he’ll be ashamed to do something like that, both because he’s unpracticed in the imitation ofsuch people and because he can’t stand to shape and mould himself according to a worse pattern. He despises this in his mind, unless it’s just done in play.
 ```
 
+#### 401d-402a
+
 ```ad-quote
 title: 401d-402a
 Aren’t these the reasons, Glaucon, that education in music and poetry is most important? First, because rhythm and harmony permeate the inner part of the soul more than anything else, affecting it most strongly and bringing it grace, so that if someone is properly educated in music and poetry, it makes him graceful, but if not, then the opposite. Second, e because anyone who has been properly educated in music and poetry will sense it acutely when something has been omitted from a thing and when it hasn’t been finely crafted or finely made by nature. And since he has the right distastes, he’ll praise fine things, be pleased by them, receive them into his soul, and, being nurtured by them, become fine and good. 402 He’ll rightly object to what is shameful, hating it while he’s still young and unable to grasp the reason, but, having been educated in this way, he will welcome the reason when it comes and recognize it easily because of its kinship with himself.
 ```
 
 The discussion of physical training leads to a discussion about the health of body. Socrates compares medical practice of law (judicial matter) that is concerned with the health of the soul.
+
+#### 401a-e
 
 Socrates touches on an interesting epistemological issue.
 - **How do you recognize goodness?**
@@ -243,6 +255,8 @@ Among the guardians, we select our rules and others will become auxiliaries. Thr
 
 ### Myth of the Metal (The Noble Lie)
 
+#### 415a-d
+
 There are three classes of people:
 1. Gold (for rulers)
 2. Silver (for auxiliaries)
@@ -255,6 +269,8 @@ For most part, they will produce children like themselves, but since they are al
 title: 415a-d
 Appropriately so. Nevertheless, listen to the rest of the story. “All of 415 you in the city are brothers,” we’ll say to them in telling our story, “but the god who made you mixed some gold into those who are adequately equipped to rule, because they are most valuable. He put silver in those who are auxiliaries and iron and bronze in the farmers and other craftsmen. For the most part you will produce children like yourselves, but, because you are all related, a silver child will occasionally be born from a golden b parent, and vice versa, and all the others from each other. So the first and most important command from the god to the rulers is that there is nothing that they must guard better or watch more carefully than the mixture of metals in the souls of the next generation. If an offspring oftheirs should be found to have a mixture of iron or bronze, they must not pity him in any way, but give him the rank appropriate to his nature and drive him c out to join the craftsmen and farmers. But if an offspring of these people is found to have a mixture of gold or silver, they will honor him and take him up to join the guardians or the auxiliaries, for there is an oracle which says that the city will be ruined ifit ever has an iron or a bronze guardian.”
 ```
+
+#### 416d-417b
 
 The Life of Guardians is described at 416d-417b
 

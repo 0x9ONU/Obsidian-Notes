@@ -914,12 +914,402 @@ $$
 
 ```ad-summary
 title: Definition
-```
-
 Let $A$ be an $n \times n$ matrix and let $X \in \mathbb{C}^n$ be a *nonzero* vector which:
 
 $$
 AX =\lambda X
 $$
-For some *scalar* $\lambda$. Then $\lambda$ is called an **eigenvalue** of the matrix $A$ and $X$ and is an **eigenvector** of $A$ associated with $\lambda$, or $\lambda$-eigenvector of $A. The set of all eigenvectors of an $n \times n$ matrix of $A$ is denoted by $\sigma(A)$ and is referred to as the **spectrum of $A$** 
+For some *scalar* $\lambda$. Then $\lambda$ is called an **eigenvalue** of the matrix $A$ and $X$ and is an **eigenvector** of $A$ associated with $\lambda$, or $\lambda$-eigenvector of $A$. The set of all eigenvectors of an $n \times n$ matrix of $A$ is denoted by $\sigma(A)$ and is referred to as the **spectrum of $A$** 
+```
+
+$$
+AX-\lambda X=0
+$$
+$$
+(A-\lambda I_{A})X=0
+$$
+$$
+\text{Characteristic Equation} \Rightarrow \boxed{\det(A-\lambda I)=0}
+$$
+
+```ad-important
+To find the Eigenvalue, we need to find out the characteristic equation!
+```
+
+### Examples
+
+#### Example 1
+
+```ad-question
+Find the eigenvalues of the matrix given below:
+```
+
+$$
+A = \begin{bmatrix}
+-3 & 3 \\
+16 & 11
+\end{bmatrix}
+$$
+$$
+\det(A-\lambda I)=0
+$$
+$$
+\left | \begin{bmatrix}
+-3 & 3 \\
+-16 & 11
+\end{bmatrix} - \lambda \begin{bmatrix}
+1 & 0 \\
+0 & 1
+\end{bmatrix}\right |=0
+$$
+$$
+\left | \begin{bmatrix}
+-3 & 3 \\
+-16 & 11
+\end{bmatrix} - \begin{bmatrix}
+\lambda & 0 \\
+0 & \lambda
+\end{bmatrix}\right |=0
+$$
+$$
+\left | \begin{matrix}
+-3-\lambda & 3 \\
+-16 & 11-\lambda
+\end{matrix}\right |=0
+$$
+$$
+(-3-\lambda)(11-\lambda)-(-16)(3)=0
+$$
+$$
+\lambda^2-8\lambda+15=0
+$$
+$$
+(\lambda-5)(\lambda-3)=0
+$$
+$$
+\boxed {\lambda_{1}=5, \lambda_{2}=3}
+$$
+
+#### Example 2
+
+```ad-question
+Find the eigenvalues of the matrix given below and find then find their respective eigenvectors.
+```
+
+##### Eigenvalues
+
+$$A=
+\begin{bmatrix}
+0 & -3 \\
+-2 & -5
+\end{bmatrix}
+$$
+$$
+\left | \begin{matrix}
+-\lambda & -3 \\
+-2 & -5-\lambda
+\end{matrix} \right |=0
+$$
+$$
+(-\lambda)(-5-\lambda)-6=0
+$$
+$$
+\lambda^2+5\lambda-6=0
+$$
+$$
+(\lambda-1)(\lambda+6)=0
+$$
+$$
+\lambda_{1}=1, \lambda_{2}=-6
+$$
+##### Eigenvectors
+**For $\lambda_{1}$**:
+$$
+(A-\lambda  I)\vec{X}=0
+$$
+$$
+(\begin{bmatrix}
+0 & -3 \\
+-2 & -5
+\end{bmatrix}-(1) \begin{bmatrix}
+1 & 0 \\
+0 & 1
+\end{bmatrix}) \begin{bmatrix}
+x \\
+y
+\end{bmatrix} = \begin{bmatrix}
+0 \\
+0
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+-1 & -3 \\
+-2 & -6
+\end{bmatrix} \begin{bmatrix}
+x \\
+y
+\end{bmatrix}
+= \begin{bmatrix}
+0 \\
+0
+\end{bmatrix}
+$$
+*Coefficient Matrix*:
+
+$$
+\begin{bmatrix}
+-1 & -3 \\
+-2 & -6
+\end{bmatrix}
+$$
+$$
+-R_{1}\to R_{1} \begin{bmatrix}
+1 & 3 \\
+-2 & -6
+\end{bmatrix}
+$$
+$$
+2R_{1}+R_{2} \to R_{2} \begin{bmatrix}
+1 & 3 \\
+0 & 0
+\end{bmatrix}
+$$
+**Free Variable**: $y$
+
+$$y=s$$
+$$
+x+3y=0
+$$
+$$
+x+3s=0
+$$
+$$
+x=-3s
+$$
+$$
+\vec{X}=\begin{bmatrix}
+-3s \\
+s
+\end{bmatrix}=s \begin{bmatrix}
+-3 \\
+1
+\end{bmatrix}
+$$
+#### Example 3
+
+```ad-question
+Find the eigenvalues of the matrix given below and find then find their respective eigenvectors.
+```
+
+##### Find the Eigenvalues
+
+$$A=
+\begin{bmatrix}
+2 & 1 \\
+1 & 2
+\end{bmatrix}
+$$
+$$ \left |
+\begin{matrix}
+2-\lambda & 1 \\
+1 & 2-\lambda
+\end{matrix} \right |=0
+$$
+$$
+(2-\lambda)(2-\lambda)-(1)(1)=0
+$$
+$$
+\lambda^2-4\lambda+3=0
+$$
+$$
+(\lambda-1)(\lambda-3)=0
+$$
+$$
+\boxed{\lambda_{1}=1, \lambda_{2}=3}
+$$
+##### Find the Eigenvector for $\lambda_{1}$
+
+$$
+(A-\lambda I)\vec{X}=0
+$$
+$$
+(\begin{bmatrix}
+2 & 1 \\
+1 & 2
+\end{bmatrix}-(1)\begin{bmatrix}
+1 & 0 \\
+0 & 1
+\end{bmatrix})\vec{X}=0
+$$
+$$
+\begin{bmatrix}
+1 & 1  \\
+1 & 1
+\end{bmatrix}\begin{bmatrix}
+x \\
+y
+\end{bmatrix}= \begin{bmatrix}
+0 \\
+0
+\end{bmatrix}
+$$
+*Coefficient matrix*
+$$
+\begin{bmatrix}
+1 &  1 \\
+1 & 1
+\end{bmatrix} \rightarrow \begin{bmatrix}
+1 & 1 \\
+0 & 0
+\end{bmatrix}
+$$
+$$
+y = s
+$$
+$$
+x+y=0
+$$
+$$
+x+s=0
+$$
+$$
+x=-s
+$$
+$$
+\boxed{\vec{v}_{1}=s \begin{bmatrix}
+-1 \\
+1
+\end{bmatrix}}
+$$
+##### Find the Eigenvector for $\lambda_{2}$
+
+$$
+(\begin{bmatrix}
+2 & 1 \\
+1 & 2
+\end{bmatrix}-(3)\begin{bmatrix}
+1 & 0 \\
+0 & 1
+\end{bmatrix})\vec{X}=0
+$$
+$$
+\begin{bmatrix}
+-1 & 1 \\
+1 & -1
+\end{bmatrix} \begin{bmatrix}
+x \\
+y
+\end{bmatrix}= \begin{bmatrix}
+0 \\
+0
+\end{bmatrix}
+$$
+*Coefficent Matrix*
+$$
+\begin{bmatrix}
+-1 & 1 \\
+1 & -1
+\end{bmatrix} R_{1}+R_{2}\to R_{2} \begin{bmatrix}
+-1 & 1 \\
+0 & 0
+\end{bmatrix}
+$$
+$$
+y=s
+$$
+$$
+-x+s=0
+$$
+$$
+x=s
+$$
+$$
+\boxed{\vec{v}_{2}=s \begin{bmatrix}
+1 \\
+1
+\end{bmatrix}}
+$$
+## Diagonalizable
+
+```ad-summary
+title: Definition
+Let $A$ be an $n \times n$ matrix. Then $A$ is said to be diagonalizable if $\exists$ an invertible matrix $P$ such that:
+
+$$
+P^{-1} AP = D
+$$
+Where $D$ is a diagonal matrix
+
+```
+
+$$D=
+\begin{bmatrix}
+\lambda_{1} & 0 \\
+0 & \lambda_{2}
+\end{bmatrix}
+$$
+$$
+P = \begin{bmatrix}
+\vec{v}_{1} & \vec{v}_{2}
+\end{bmatrix}
+$$
+### Example 1
+
+```ad-question
+Find $A^{30}$ based on the example 3 above
+```
+
+$$
+D = \begin{bmatrix}
+1 & 0 \\
+0 & 3
+\end{bmatrix}
+$$
+$$
+P = \begin{bmatrix}
+-1 & 1 \\
+1  & 1
+\end{bmatrix}
+$$
+$$
+P^{-1}= \frac{1}{-2} \begin{bmatrix}
+1 & -1 \\
+-1 & -1
+\end{bmatrix} = \begin{bmatrix}
+-\frac{1}{2} & \frac{1}{2} \\
+\frac{1}{2} & \frac{1}{2}
+\end{bmatrix}
+$$
+$$
+A^{30}=PD^{30}P^{-1}
+$$
+$$
+= \begin{bmatrix}
+-1 & 1 \\
+1 & 1
+\end{bmatrix} \begin{bmatrix}
+1^{30} & 0 \\
+0 & 3^{30}
+\end{bmatrix} \begin{bmatrix}
+-\frac{1}{2} &  \frac{1}{2} \\
+\frac{1}{2} & \frac{1}{2}
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+-1 & 3^{30} \\
+1 & 3^{30}
+\end{bmatrix} \begin{bmatrix}
+-\frac{1}{2} & \frac{1}{2} \\
+\frac{1}{2} & \frac{1}{2}
+\end{bmatrix}
+$$
+$$
+A^{30}=\begin{bmatrix}
+\frac{1}{2}+\frac{3^{30}}{2} & -\frac{1}{2}+\frac{3^30}{2} \\
+-\frac{1}{2}+\frac{3^30}{2} & \frac{1}{2}+\frac{3^{30}}{2}
+\end{bmatrix}
+$$
+
 

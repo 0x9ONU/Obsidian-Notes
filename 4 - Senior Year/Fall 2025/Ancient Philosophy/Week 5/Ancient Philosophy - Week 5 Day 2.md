@@ -15,6 +15,8 @@ collapse: open
 
 ## Truth
 
+### 64a
+
 The last day of Socrates - how philosopher should face death
 - To practice philosophy is to practice for dying and death
 - Death is defined as “the separation of the soul from the body”
@@ -24,6 +26,8 @@ The last day of Socrates - how philosopher should face death
 Let him be, he said. I want to make my argument before you, my judges, as to why I think that a man who has truly spent his life in philosophy is probably right to be of good cheer in the face of death and to be very hopeful that after death he will attain the greatest blessings 64 yonder. I will try to tell you, Simmias and Cebes, how this may be so. I am afraid that other people do not realize that the one aim of those who practice philosophy in the proper manner is to practice for dying and death. Now if this is true, it would be strange indeed if they were eager for this all their lives and then resent it when what they have wanted and practiced for a long time comes upon them. (64a)
 ```
 
+### 66b-d
+
 - Philosophy is not concerned with bodily pleasures and desires.
 - The body is an obstacle in search for truth.
 - Truth is not acquired by means of senses (which are deceptive) but when the soul turns away from the body. (66b-d)
@@ -32,6 +36,8 @@ Let him be, he said. I want to make my argument before you, my judges, as to why
 title: Phaedo 66b-d
 All these things will necessarily make the true philosophers believe b and say to each other something like this: “There is likely to be something such as a path to guide us out of our confusion, because as long as we have a body and our soul is fused with such an evil we shall never adequately attain what we desire, which we affirm to be the truth. The body keeps us busy in a thousand ways because of its need for nurture. Moreover, if certain diseases befall it, they impede our search c for the truth. It fills us with wants, desires, fears, all sorts of illusions and much nonsense, so that, as it is said, in truth and in fact no thought of any kind ever comes to us from the body. Only the body and its desires cause war, civil discord, and battles, for all wars are due to the desire to acquire wealth, and it is the body and the care of it, to which d we are enslaved, which compel us to acquire wealth, and all this makes us too busy to practice philosophy. Worst of all, if we do get some respite from it and turn to some investigation, everywhere in our investigations the body is present and makes for confusion and fear, so that it prevents us from seeing the truth.
 ```
+
+### 66e-67b
 
 - It is in the context of epistemological issue that Plato attacks the body. (66e-67b)
 
@@ -166,7 +172,7 @@ This, he said, is what I mean. It is nothing new, but what I have b never stoppe
 - Socrates decided to stay in jail when he had a chance to escape because he believes that it as a good thing to do.
 - $1+1=2$ not because you bring two objects together, but because they participate in the Form of Twoness.
 
-## Forms
+## Forms Part 2
 
 The *nature* of the Forms:
 1. Some Forms exclude each other  (ex. Tallness and Shortness)
@@ -192,6 +198,8 @@ Opposites do no come form each other; rather, a thing admits of opposites. (ex. 
 
 ## Swan Song
 
+### 107b
+
 Plato recognizes the shortcomings of his argument:
 - He is fully aware that his argument depends entirely on the Forms, but his argument would fall apart if Forms were debunked
 
@@ -199,6 +207,8 @@ Plato recognizes the shortcomings of his argument:
 title: Plato's Phaedo 107b
 Certainly, said Simmias, I myself have no remaining grounds for doubt after what has been said; nevertheless, in view of the importance b of our subject and my low opinion of human weakness, I am bound still to have some private misgivings about what we have said. You are not only right to say this, Simmias, Socrates said, but our first hypotheses require clearer examination, even though we find them convincing. And if you analyze them adequately, you will, I think, follow the argument as far as a man can, and if the conclusion is clear, you will look no further. — That is true.
 ```
+
+### 114d
 
 “We should drive away our fear of death by incantation”
 - He addresses the fear of death
@@ -208,6 +218,8 @@ Certainly, said Simmias, I myself have no remaining grounds for doubt after what
 title: Plato's Paedo 114d
 No sensible man would insist that these things are as I have described them, but I think it is fitting for a man to risk the belief—for the risk is a noble one—that this, or something like this, is true about our souls and their dwelling places, since the soul is evidently immortal, and a man should repeat this to himself as if it were an incantation
 ```
+
+### 77e-78a
 
 ```ad-quote
 title: 77e-78a

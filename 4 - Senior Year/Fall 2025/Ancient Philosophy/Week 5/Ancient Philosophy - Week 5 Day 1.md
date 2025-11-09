@@ -18,7 +18,7 @@ collapse: open
 The dialogue begins with the question “Can Virtue be Taught”
 
 Socrates *cannot* answer this question because he does not know what **virtue** is.
-- Meno is s[[Ancient Philosophy - Week 5 Day 1]]urprised that Socrates does not know the answer
+- Meno is surprised that Socrates does not know the answer
 - *Meno* will also discover that he does not know it either
 - Throughout the dialogue, Plato uses the terms such as “remember”, “remind”, and “recollect” (see 71d)
 - They are closely related to theory of recollection (*Anamnesis* - which means, “calling to mind”)
@@ -87,7 +87,7 @@ Socrates draws a square and divides it into 4 equal sections and points out that
 
 - At this point, the slave was perplexed and admits that he does not know the answer
 
-**Apologetic Element (84a-d)**:
+### Apologetic Element (84a-d):
 - The benefit of being *perplexed*
 - It gets rid of delusion and pretentiousness to knowledge and no harm is actually done. 
 - In fact, a person is now in a **better** position to attain

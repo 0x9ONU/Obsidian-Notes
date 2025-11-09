@@ -6,7 +6,7 @@
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "something",
-    "center_tables",
-    "center images"
+    "center images",
+    "center_tables"
   ]
 }
