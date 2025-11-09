@@ -40,7 +40,12 @@ Book VII
 
 ### Argument for Why the Just Person is Happier than the Unjust Person
 
-
+- The three main arguments briefly mentioned
+- Go into detaila bout the third argument
+- Third argument
+	- Pain/pleasure are opposites with an intermediate state inbetween them
+	- True nature of pleasure and pain is **not** defined by its corresponding absences
+	- 
 
 ## Analysis
 

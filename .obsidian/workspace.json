@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Republic Book IX"
             }
+          },
+          {
+            "id": "e0692f401cefe761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ancient Philosophy - Week 9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d3416a673b3da807",
@@ -280,10 +294,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7585857fdcf6a764",
+  "active": "e0692f401cefe761",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX/Republic Book IX.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Republic Book IX.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Witty Title Here.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX/Republic Book IX.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md",
     "conflict-files-obsidian-git.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.md",
@@ -323,7 +338,6 @@
     "General Notes/Ancient Philosophy - Week 10 Day 1 2025-10-30 09.53.08.excalidraw.md",
     "Ancient Philosophy - Week 3 Day 2.md",
     "4 - Senior Year/Fall 2025/Resume 2025.md",
-    "4 - Senior Year/Fall 2025/Environmental/Week 9/Environmental Issues - Week 9.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 9",
     "4 - Senior Year/Fall 2025/Environmental/Week 12",
     "4 - Senior Year/Fall 2025/Environmental/Week 11",
