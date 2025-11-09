@@ -10,6 +10,7 @@ title: Author Information
 
 ## Exposition
 
+### 
 
 - Book II about three types of Good
 - Book II origin of justice
