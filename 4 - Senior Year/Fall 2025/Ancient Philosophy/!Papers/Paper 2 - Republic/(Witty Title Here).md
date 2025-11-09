@@ -10,6 +10,7 @@ title: Author Information
 
 ## Exposition
 
+
 - Book II about three types of Good
 - Book II origin of justice
 	- Laws and Justice
@@ -27,7 +28,7 @@ title: Author Information
 	- The meddling and exchange between the three classes
 	- Rational vs. Spirited vs. Appetitive
 	- Justice in the Soul controls the different parts of the soul
-	- Intrinsic
+	- Intrinsic and instrumental value of justice
 
 ## Analysis
 
