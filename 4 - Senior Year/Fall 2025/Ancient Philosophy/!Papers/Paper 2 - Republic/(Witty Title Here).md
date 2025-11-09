@@ -10,7 +10,7 @@ title: Author Information
 
 ## Exposition
 
-- Book II about the types of Good
+- Book II about three types of Good
 - Book II origin of justice
 	- Laws and Justice
 	- The Ring of Gyges
@@ -18,7 +18,16 @@ title: Author Information
 - Book III Ideal City Analogy
 	- Luxerious City
 	- Classes of cities
-- 
+- Book IV
+	- Four cardinal values relating with the three main parts of the cities
+		- Rulers → Wisdom
+		- Auxiliaries → Courageous
+		- Moderation → Producers
+	- Justice in terms of each class doing their own task.
+	- The meddling and exchange between the three classes
+	- Rational vs. Spirited vs. Appetitive
+	- Justice in the Soul controls the different parts of the soul
+	- Intrinsic
 
 ## Analysis
 
