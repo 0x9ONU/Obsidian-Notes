@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Computer Architecture - Week 7 Day 1",
+      "path": "3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md"
+    },
+    {
+      "basename": "Computer Architecture - Week 6 Day 2",
+      "path": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 2.md"
+    },
+    {
+      "basename": "Computer Architecture - Week 6 Day 3",
+      "path": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md"
+    },
+    {
+      "basename": "Computer Architecture - Week 6 Day 1",
+      "path": "3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md"
+    },
+    {
+      "basename": "Computer Architecture - Week 5 Day 3",
+      "path": "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 3.md"
+    },
+    {
+      "basename": "Computer Architecture - Week 5 Day 2",
+      "path": "3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 2.md"
+    },
+    {
+      "basename": "(Witty Title Here)",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/(Witty Title Here).md"
+    },
+    {
+      "basename": "Plato's Apology",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Plato's Apology.md"
+    },
+    {
+      "basename": "Republic Book VII",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Republic Book VII.md"
+    },
+    {
+      "basename": "Republic Book IX",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Republic Book IX.md"
+    },
+    {
+      "basename": "Republic Book VIII",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Republic Book VIII.md"
+    },
+    {
+      "basename": "Republic Book IX",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX/Republic Book IX.md"
+    },
+    {
       "basename": "Republic Book II & III",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book II & III/Republic Book II & III.md"
     },
@@ -11,10 +59,6 @@
     {
       "basename": "Instructions for Plato's Republic Paper",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md"
-    },
-    {
-      "basename": "(Witty Title Here)",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/(Witty Title Here).md"
     },
     {
       "basename": "Republic Book IV",
@@ -77,28 +121,12 @@
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Segment/Republic 584e-585a.md"
     },
     {
-      "basename": "Republic Book IX",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Republic Book IX.md"
-    },
-    {
-      "basename": "Republic Book IX",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX/Republic Book IX.md"
-    },
-    {
-      "basename": "Republic Book VIII",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Republic Book VIII.md"
-    },
-    {
       "basename": "Republic 579c-580c",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Segment/Republic 579c-580c.md"
     },
     {
       "basename": "Republic 575e-576c and 577d-e",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Segment/Republic 575e-576c and 577d-e.md"
-    },
-    {
-      "basename": "Republic Book VII",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Republic Book VII.md"
     },
     {
       "basename": "Republic 560e-562d",
@@ -171,34 +199,6 @@
     {
       "basename": "Republic 488b-489a",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 488b-489a.md"
-    },
-    {
-      "basename": "Republic 487b-c",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 487b-c.md"
-    },
-    {
-      "basename": "Republic 484d",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Segment/Republic 484d.md"
-    },
-    {
-      "basename": "Ancient Philosophy - Week 6 Day 2",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 6/Ancient Philosophy - Week 6 Day 2.md"
-    },
-    {
-      "basename": "Republic 476e-477b",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 476e-477b.md"
-    },
-    {
-      "basename": "Republic 473d-e",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 473d-e.md"
-    },
-    {
-      "basename": "Republic 472c-e",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 472c-e.md"
-    },
-    {
-      "basename": "Republic 454c-e",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Segment/Republic 454c-e.md"
     }
   ],
   "omittedPaths": [],

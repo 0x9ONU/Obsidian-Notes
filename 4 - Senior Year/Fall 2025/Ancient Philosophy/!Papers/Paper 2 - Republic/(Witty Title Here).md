@@ -10,7 +10,7 @@ title: Author Information
 
 ## Exposition
 
-### 
+### Definition of Justice
 
 - Book II about three types of Good
 - Book II origin of justice
@@ -31,6 +31,14 @@ title: Author Information
 	- Justice in the Soul controls the different parts of the soul
 	- Intrinsic and instrumental value of justice
 
+### Form of the Good
+
+
+
+Book VII
+- Simile of the Sun
+- Divided Line
+- The Cave
 ## Analysis
 
 
