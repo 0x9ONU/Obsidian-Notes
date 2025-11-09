@@ -45,7 +45,11 @@ Book VII
 - Third argument
 	- Pain/pleasure are opposites with an intermediate state in-between them
 	- True nature of pleasure and pain is **not** defined by its corresponding absences
-	- 
+	- Nourishment of the body
+	- Nourishment of the soul
+		- How is it properly nourished?
+		- Rational vs. Spirited vs. Appetitive
+		- 
 
 ## Analysis
 
