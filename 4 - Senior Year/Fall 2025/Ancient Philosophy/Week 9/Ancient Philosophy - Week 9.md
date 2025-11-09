@@ -145,14 +145,14 @@ Plato thinks that this is the best of the three arguments
 Pleasure and pain are the opposites and there is an intermediate state, which is neither of them.
 - If you are sick and then get relieved from that pain and move to an intermediate state, then you will fell pleasure. If you are feeling great pleasure and no longer experience it and move to an intermediate state, then you will feel painful.
 - Pleasure and pain seem to be a kind of motion
-- Pleasure is the *absence* of pain and pain is the absence of pleasure as it is some kind of magic.
+- Pleasure is the *absence* of pain and pain is the absence of pleasure as it is some kind of magic. v(584a)
 
 ```ad-question
 Is the ture nature of pleasure and pain deifned in terms of its corresponding absences?
 ```
 
 **NO**: because there are pleasure that do not come out of pains (ex. smell). But most of the so-called pleasure and pains that reach the body are like the ones described above.
-- These kinds of pleasure most resemble the following: (584e-585a)
+- These kinds of pleasure most resemble the following: if a person goes from the region below to an intermediate region, he will believe that he is in an upper region because he lacks an experience of what is really up, middle, down (584e-585a)
 
 ```ad-quote
 title: 584e-585a

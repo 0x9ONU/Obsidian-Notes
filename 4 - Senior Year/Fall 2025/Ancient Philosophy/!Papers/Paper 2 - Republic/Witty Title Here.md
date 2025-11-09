@@ -43,7 +43,7 @@ Book VII
 - The three main arguments briefly mentioned
 - Go into detaila bout the third argument
 - Third argument
-	- Pain/pleasure are opposites with an intermediate state inbetween them
+	- Pain/pleasure are opposites with an intermediate state in-between them
 	- True nature of pleasure and pain is **not** defined by its corresponding absences
 	- 
 
