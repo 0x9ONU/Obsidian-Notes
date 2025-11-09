@@ -6,6 +6,26 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-11-09T18:34:26.913Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-10-28T01:10:00.537Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2025-05-08T14:35:14.883Z",
       "total": 0,
       "drafts": {
@@ -26,6 +46,9 @@
   "sessionFile": "longform-sessions.json",
   "numberScenes": false,
   "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
   "workflows": {
     "Default Workflow": {
       "name": "Default Workflow",
