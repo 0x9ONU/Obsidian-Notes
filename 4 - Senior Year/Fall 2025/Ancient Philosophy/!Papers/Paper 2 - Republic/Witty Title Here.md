@@ -10,14 +10,11 @@ title: Author Information
 
 ## Exposition
 
-###
-
-
-
 ### Definition of Justice
 
+To properly articulate how Plato would define 
+
 - Apology with the definition of the soul (*psyche*)
-- Euthyphro with Justice as a piety for only other humans
 - Book II about three types of Good
 - Book II origin of justice
 	- Laws and Justice
@@ -36,6 +33,7 @@ title: Author Information
 	- Rational vs. Spirited vs. Appetitive
 	- Justice in the Soul controls the different parts of the soul
 	- Intrinsic and instrumental value of justice
+- Euthyphro with Justice as a piety for only other humans
 
 ### Form of the Good
 
