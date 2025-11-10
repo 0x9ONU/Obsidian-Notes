@@ -39,7 +39,7 @@ By laying the foundation of justice and the Form of the Good, Plato is able to a
 ## Analysis
 ### Objection
 
-Even though Plato provides a strong argument with the desire of souls, there are critical fallacies that must be addressed in this argument. Specifically, the paper will focus on one objection: 
+Even though Plato provides a strong argument with the desire of souls, there are critical fallacies that must be addressed in this argument. Specifically, the paper will focus on one objection in detail. When Plato makes his argument the just person being the most happiness, he assumes that the most rational and truth-loving person has the most pleasure. However, this can lead to a dangerous conflation fallacy: are truer experiences always more pleasurable? In some cases, it could be argued that truth and pleasure might be independent of each other and are not related. The truth might be more painful and an illusion might be more comforting. For instance,  
 
 ### Response
 

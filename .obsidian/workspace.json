@@ -307,43 +307,6 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "d601d14adb8a3713",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ddd415d72b08b284",
-        "type": "window",
-        "children": [
-          {
-            "id": "d8d542dabd0a5654",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "affcf70e4ffe2a59",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Ancient Philosophy - Week 8 Day 1 2025-10-16 10.26.53.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ancient Philosophy - Week 8 Day 1 2025-10-16 10.26.53.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1469,
-        "height": 862,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
   "active": "d479b94de8ad42a9",
   "lastOpenFiles": [
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX/Republic Book IX.md",
