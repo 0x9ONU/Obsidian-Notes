@@ -5,24 +5,36 @@
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Witty Title Here.md"
     },
     {
-      "basename": "Republic Book IV",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book IV/Republic Book IV.md"
-    },
-    {
-      "basename": "Plato's Phaedo",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Phaedo/Plato's Phaedo.md"
+      "basename": "Republic Book VI",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VI/Republic Book VI.md"
     },
     {
       "basename": "Republic Book II & III",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book II & III/Republic Book II & III.md"
     },
     {
-      "basename": "In Defense of Science, How Parmenides Underestimates the Capacity of Humankind",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md"
+      "basename": "Republic Book VII",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Republic Book VII.md"
+    },
+    {
+      "basename": "Republic Book V",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book V/Republic Book V.md"
+    },
+    {
+      "basename": "Republic Book IV",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book IV/Republic Book IV.md"
     },
     {
       "basename": "Plato's Apology",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Plato's Apology.md"
+    },
+    {
+      "basename": "Plato's Phaedo",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Phaedo/Plato's Phaedo.md"
+    },
+    {
+      "basename": "In Defense of Science, How Parmenides Underestimates the Capacity of Humankind",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md"
     },
     {
       "basename": "Ancient Philosophy - Week 5 Day 1",
@@ -47,10 +59,6 @@
     {
       "basename": "Plato's Euthyphro",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Euthyphro/Plato's Euthyphro.md"
-    },
-    {
-      "basename": "Republic Book VII",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Republic Book VII.md"
     },
     {
       "basename": "Instructions for Plato's Republic Paper",
@@ -191,14 +199,6 @@
     {
       "basename": "Ancient Philosophy - Week 6 Day 2",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 6/Ancient Philosophy - Week 6 Day 2.md"
-    },
-    {
-      "basename": "Ancient Philosophy - Week 7",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 7/Ancient Philosophy - Week 7.md"
-    },
-    {
-      "basename": "DSA Midterm 1 Study Guide",
-      "path": "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 9/DSA Midterm 1 Study Guide.md"
     }
   ],
   "omittedPaths": [],
