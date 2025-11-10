@@ -10,8 +10,13 @@ title: Author Information
 
 ## Exposition
 
+###
+
+
+
 ### Definition of Justice
 
+- Apology with the definition of the soul (*psyche*)
 - Book II about three types of Good
 - Book II origin of justice
 	- Laws and Justice
