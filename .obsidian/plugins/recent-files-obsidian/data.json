@@ -5,6 +5,10 @@
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Witty Title Here.md"
     },
     {
+      "basename": "Plato's Apology",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Plato's Apology.md"
+    },
+    {
       "basename": "Ancient Philosophy - Week 4 Day 1",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 4/Ancient Philosophy - Week 4 Day 1.md"
     },
@@ -13,12 +17,20 @@
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Euthyphro/Plato's Euthyphro.md"
     },
     {
-      "basename": "Plato's Meno",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno/Plato's Meno.md"
+      "basename": "Republic Book VII",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Republic Book VII.md"
     },
     {
-      "basename": "Plato's Apology",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Apology/Plato's Apology.md"
+      "basename": "Instructions for Plato's Republic Paper",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md"
+    },
+    {
+      "basename": "In Defense of Science, How Parmenides Underestimates the Capacity of Humankind",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md"
+    },
+    {
+      "basename": "Plato's Meno",
+      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Meno/Plato's Meno.md"
     },
     {
       "basename": "Republic Book IV",
@@ -27,14 +39,6 @@
     {
       "basename": "Republic Book II & III",
       "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book II & III/Republic Book II & III.md"
-    },
-    {
-      "basename": "Republic Book VII",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VII/Republic Book VII.md"
-    },
-    {
-      "basename": "Instructions for Plato's Republic Paper",
-      "path": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md"
     },
     {
       "basename": "Ancient Philosophy - Week 9",
@@ -195,10 +199,6 @@
     {
       "basename": "Differential Equations - Module 2.1",
       "path": "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.1.md"
-    },
-    {
-      "basename": "Environmental Issues - Week 7 Day 2",
-      "path": "4 - Senior Year/Fall 2025/Environmental/Week 7/Environmental Issues - Week 7 Day 2.md"
     }
   ],
   "omittedPaths": [],

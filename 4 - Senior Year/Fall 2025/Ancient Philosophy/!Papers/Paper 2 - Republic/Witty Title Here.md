@@ -12,7 +12,7 @@ title: Author Information
 
 ### Definition of Justice
 
-To properly articulate how Plato would define 
+To properly articulate how Plato would define justice in Republic’s Book IV, some background information must be provided from some of his earlier works and previous books of Republic. In Plato’s Apology, most of the 
 
 - Apology with the definition of the soul (*psyche*)
 - Book II about three types of Good
