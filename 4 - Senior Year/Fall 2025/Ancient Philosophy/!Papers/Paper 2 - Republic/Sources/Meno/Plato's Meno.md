@@ -16,7 +16,7 @@ File Folder: Book IV
 - [[Meno 97d-98a]]
 
 # Analysis
-
+`
 ![[Ancient Philosophy - Week 5 Day 1]]
 
 

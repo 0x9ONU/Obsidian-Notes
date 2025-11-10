@@ -17,6 +17,7 @@ title: Author Information
 ### Definition of Justice
 
 - Apology with the definition of the soul (*psyche*)
+- Euthyphro with Justice as a piety for only other humans
 - Book II about three types of Good
 - Book II origin of justice
 	- Laws and Justice
