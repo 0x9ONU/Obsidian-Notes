@@ -16,7 +16,7 @@ In the fourth book of *Republic*, Plato provide’s his interpretation on justic
 
 The second book of *Republic* gives insight into possibilities of the common misconceptions around justice. Particularly, most people think that it is part of human nature for people to take unjust actions because they are inherently lucrative (359d). Therefore, to counteract this behavior, a social structure, or contract, must be in place to prevent unjust actions from taking place. For example, some believe that unjust actions are so profitable that laws are made to make sure no one commits unjust deeds to one another (359a). However, Plato disagrees with these statements and will investigate his definition of justice by providing the instance of a city and how it relates to the individual (368-369a) In *Republic* Book III, he further species that the luxurious city best defines justice. The city is broken down into three main categories of people: the rulers, the auxiliaries, and the people (415a-d). The rulers, which are brought up with proper education, are chosen based on their nature and guide the city (399e). The auxiliaries, which are also known as the guardians, are courageous, spirited, and gentle people who protect the city (373d5-e5). And the people follow their own craft based on where their soul takes them.
 
-In the fourth book of *Republic*, 
+In the fourth book of *Republic*, Plato will then define the four following cardinal virtues: wisdom, courage, moderation, and justice. The first three virtues are equivocally mapped to 
 
 - Phaedo with the definition of the Forms and Soul (*psyche*)
 - Book II origin of justice
