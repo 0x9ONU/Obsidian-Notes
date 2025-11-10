@@ -39,17 +39,21 @@ By laying the foundation of justice and the Form of the Good, Plato is able to a
 ## Analysis
 ### Objection
 
-#### Objection I: Equal Experience
+Even though Plato provides a strong argument with the desire of souls, there are some 
+
+#### Objection I: 
 
 #### Objection II:
 
-#### Objection I
-
-
+#### Objection III: Equal Experience
 
 ### Response
 
+#### Response I:
 
+#### Response II:
+
+#### Response III: 
 
 ### Defense
 
