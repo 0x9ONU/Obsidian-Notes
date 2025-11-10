@@ -16,7 +16,7 @@ File Folder: Book IV
 
 # Analysis
 
-![[Ancient Philosophy - Week 5 Day 2]]
+![[Ancient Philosophy - Week 5 Day 2]]h
 
 
 

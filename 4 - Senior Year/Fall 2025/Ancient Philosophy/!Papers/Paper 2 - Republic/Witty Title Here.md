@@ -12,9 +12,9 @@ title: Author Information
 
 ### Definition of Justice
 
-To properly articulate how Plato would define justice in Republic’s Book IV, some background information must be provided from some of his earlier works and previous books of Republic. In Plato’s Apology, most of the 
+In the fourth book of *Republic*, Plato provide’s his interpretation on justice. However to properly articulate how Plato defines justice, some background information must be provided from some of his earlier works and other parts of *Republic*. In Plato’s *Phaedo*, Socrates, in what is often described as his “swan song,” discusses two philosophical concepts before his death ( 77e-78a). The first concept is based around his description of the soul (*psyche*). Unlike earlier philosophers, Plato uses the soul as a tool to differentiate between living and nonliving things. This is  further categorized into human and non-human souls by its inclusion of the mind (*nous*) and its desire to search for knowledge and truth (66b-d). Unlike previous philosophers, Plato believes in an epistemological model where both the human body and soul are two separate entities that work both with and against each other to find this truth (64a & 66e-67b). Plato gives truth a designation as objects of knowledge called Forms. These Forms exist within the soul and canno t(65d–66a & 
 
-- Apology with the definition of the soul (*psyche*)
+- Phaedo with the definition of the Forms and Soul (*psyche*)
 - Book II about three types of Good
 - Book II origin of justice
 	- Laws and Justice
