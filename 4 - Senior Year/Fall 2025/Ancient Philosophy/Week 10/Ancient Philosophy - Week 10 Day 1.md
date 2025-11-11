@@ -391,7 +391,7 @@ We reject Aristotle's tedeology because inanimate objects only move due to being
 
 ### Definition of Motion
 
-ONe stage has actuality and the other has poentiality
+One stage has actuality and the other has potentiality
 
 ```ad-summary
 title: Definition
