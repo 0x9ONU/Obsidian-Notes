@@ -7,7 +7,7 @@ Overall, the survey papers do not mention our lightweight variation of attack de
 ## References
 
 [1] P. Tedeschi, S. Sciancalepore, and R. Di Pietro, “Security in Energy Harvesting Networks: A survey of Current Solutions and Research challenges,” _IEEE Communications Surveys &amp; Tutorials_, vol. 22, no. 4, pp. 2658–2693, 2020. doi:10.1109/comst.2020.3017665
-[2] T. D. Ponnimbaduge Perera, D. N. Jayakody, S. K. Sharma, S. Chatzinotas, and J. Li, “Simultaneous wireless information and power transfer (SWIPT): Recent advances and future challenges,” _IEEE Communications Surveys &amp; Tutorials_, vol. 20, no. 1, pp. 264–302, 2018. doi:10.1109/comst.2017.2783901
+[2] T. D. Ponnimbaduge Perera, D. N. Jayakody, S. K. Sharma, S. Chatzinotas, and J. Li, “Simultaneous wireless information and power transfer (SWIPT): Recent advances and future challenges,” _IEEE Communications Surveys &amp; Tutorials_, vol. 20, no. 1, pp. 264–302, 2018. doi:10.1109/comst.n2017.2783901
 [3] V. N. Vo, T. G. Nguyen, C. So-In, and D.-B. Ha, “Secrecy performance analysis of energy harvesting wireless sensor networks with a friendly jammer,” _IEEE Access_, vol. 5, pp. 25196–25206, 2017. doi:10.1109/access.2017.2768443
 [4] V. Shakhov, S. Nam, and H. Choo, “Flooding attack in energy harvesting wireless sensor networks,” _Proceedings of the 7th International Conference on Ubiquitous Information Management and Communication_, pp. 1–5, Jan. 2013. doi:10.1145/2448556.2448605
 [5] E. V. Belmega and A. Chorti, “Protecting secret key generation systems against jamming: Energy harvesting and channel hopping approaches,” _IEEE Transactions on Information Forensics and Security_, vol. 12, no. 11, pp. 2611–2626, Nov. 2017. doi:10.1109/tifs.2017.2713342
