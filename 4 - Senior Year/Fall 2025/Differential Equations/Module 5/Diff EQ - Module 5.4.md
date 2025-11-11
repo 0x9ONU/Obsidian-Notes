@@ -284,3 +284,7 @@ $$
 x(t) = 5\cos\left( 4t-\tan^{-1}\left( \frac{3}{4} \right) -\pi\right)
 $$
 
+
+
+
+
