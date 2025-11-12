@@ -37,6 +37,66 @@ Substances that degrade the qualitiy of water
 During the 2016 Rio Olympics, the competitors oars were bleached and they had to wear gloves.
 ```
 
+#comebacklater 
+## Reducing Urban/Suburban Storm Water Runoff
 
+1. Rain barrels
+	- Make sure you cover them properly to avoid mosquito growth
+2. Rain gardens
+3. Storm drain
+4. Redirected downspouts
+5. Permeable Pavement
 
+## Nutrient Runoff
+
+As the amount of crops have increased, so has the fertilizer use
+- The amount of nitrogen in phosphorus in fertilizer can affect the quality of water significantly
+
+*How can we reduce runoff*
+- Reduce overall fertilizer use and/or alter fertilization application strategies
+- Alter drainage systems to decrease runoff and increase infiltration (edge-of-field monitoring)
+	- Control Set: Free drainage
+	- Test Set: Control Damage
+	- Checked for:
+		- Water loss
+		- Nutrient loss
+		- end-of-season yield
+![[Pasted image 20251112101142.png]]
+
+## Protecting Aquatic Habitats
+
+**Holistic Strategies** need to be used to protect and restore aquatic habitats
+
+## Case Study: Gulf of Mexico
+
+### Gulf of Mexico Regional Ecosystem Restoration
+
+Steps:
+1. Restore and conserve habitats
+	- Restore natural flows
+	- Restore riparian areas
+	- Restore sea grass beds
+2. Replenish and protect marine resources
+	- Better regulation
+	- Reduce runoff from animal operations
+	- Implement precision fertilizer application
+3. Restore water quality
+	- Restore and manage coral reefs and oyster beds
+	- Track sentinel/indicator species 
+	- Minimize or eliminate invasive species
+4. Enhance community resilience
+	- Improve coastal protections against storms
+	- Promote low-impact growth plans
+	- Enhance education and outreach
+
+# Module 6.3: Marine Ecosystems and Ocean Acidification
+
+## Why are Marine Ecosystems Important?
+
+1. There is high biodiversity
+2. They are easily affected by environmental impacts
+
+## Case Study: Coral Reefs in Crisis Due to Ocean Acidification
+
+**Aquarius Reef Base**: The only functioning reef base that does a lot of research at Key Largo
 
