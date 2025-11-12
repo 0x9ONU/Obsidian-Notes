@@ -13,12 +13,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md",
+                "file": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security in Energy Harvesting Networks Summary"
+              "title": "6-17-2025 Meeting Minutes"
+            }
+          },
+          {
+            "id": "abb88f247250224e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks"
+            }
+          },
+          {
+            "id": "8e50259f30c0c5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks"
+            }
+          },
+          {
+            "id": "42d3ca8e847d3f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks"
+            }
+          },
+          {
+            "id": "935d3099d1cd367c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Security in Energy Harvesting Networks A Survey on Current Solutions and Research Challenges.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Security in Energy Harvesting Networks A Survey on Current Solutions and Research Challenges"
             }
           },
           {
@@ -34,8 +88,51 @@
               "icon": "lucide-file",
               "title": "DSA Book of Mormon"
             }
+          },
+          {
+            "id": "f15863c92dfce0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Resume 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resume 2025"
+            }
+          },
+          {
+            "id": "65712535956e49c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Homework/Ethan Berei - Hardware Security Homework 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ethan Berei - Hardware Security Homework 4"
+            }
+          },
+          {
+            "id": "fffe4707983a92d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Differential Equations/Module 5/DIff EQ - Exam 3 Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIff EQ - Exam 3 Review"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -259,10 +356,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d89fc66beaee7604",
+  "active": "fffe4707983a92d7",
   "lastOpenFiles": [
+    "3 - Junior Year/Fall 2024/Hardware Security/Week 12/Homework/Ethan Berei - Hardware Security Homework 4.md",
+    "3 - Junior Year/Fall 2024/Hardware Security/Final/Hardware Security Final.md",
     "4 - Senior Year/Fall 2025/Resume 2025.md",
+    "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
+    "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md",
+    "4 - Senior Year/Summer 2025/Research/Meeting Minutes/9-26-2025 Meeting.md",
+    "General Notes/6-9-2025 Meeting 2025-06-09 15.04.29.excalidraw.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
+    "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md",
+    "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Security in Energy Harvesting Networks A Survey on Current Solutions and Research Challenges.pdf",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 15/DSA Book of Mormon.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "2 - Sophomore Year/Fall 2023/Digital Structures and Algorithms One/Week 13/DSA New Testament.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 5/DIff EQ - Exam 3 Review.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff EQ - Module 5.4.md",
@@ -278,17 +388,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle",
     "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 12",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book wIX/Republic Book IX.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Nature of Justice and Desires of the Soul - In Defense of a Just Life.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/In Defense of Science, How Parmenides Underestimates the Capacity of Humankind.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Instructions for Parmenides Paper.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Rubric for Parmenidies Paper.md",
-    "General Notes/Ancient Philosophy - Week 8 Day 1 2025-10-16 10.26.53.excalidraw.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 7/Ancient Philosophy - Week 7.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book X/Republic Book X.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Republic/Book VIII/Republic Book VIII.md",
     "Untitled 1.base",
     "4 - Senior Year/Fall 2025/Environmental/Week 12",
     "General Notes/Pasted image 20251107101104.png",
@@ -306,9 +405,7 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Euthyphro/Segments",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Euthyphro",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Phaedo/Segments",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Sources/Phaedo",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
