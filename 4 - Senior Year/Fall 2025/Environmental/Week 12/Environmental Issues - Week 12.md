@@ -98,5 +98,39 @@ Steps:
 
 ## Case Study: Coral Reefs in Crisis Due to Ocean Acidification
 
-**Aquarius Reef Base**: The only functioning reef base that does a lot of research at Key Largo
+**Aquarius Reef Base**: The only functioning reef base left that does a lot of research at Key Largo
 
+## What is Ocean Acidification, and What Are Its Causes?
+
+```ad-note
+title: Reminder
+![[Pasted image 20251112103830.png]]
+```
+
+The pH has shifted significantly from 8.2 to 8.1, which is a 30% increase because of the logarithmic scale of the pH scale.
+- Before the industrial revolution: 8.2
+- pH now: 8.1
+- In 2100: 7.7 *gulp*
+
+![[Pasted image 20251112103949.png]]
+
+### Effects of Ocean Acidification
+
+- Coral Reefs cannot grow in higher pH environments
+- Shifts in nutrient availaiblity and planktonic communities
+	- Nitrogen, iron
+	- Smaller plankton
+	- Less plankton
+	- Decreased carbon capture
+- Marine Calcifiers (shells/exoskeletons)
+	- ex. Clams, Sea Urchin, Crabs, Lobsters, Oysters, and microscopic organisms
+
+### Acidification alters ocean chemistry and calcification
+
+$$
+CO_{2}+H_{2}O \to H_{2}CO_{3} \quad \text{(Carbonic Acid)}
+$$
+$$
+H_{2}CO_{3} \to HCO_{3}^- + H^+
+$$
+If more hydrogen ions are present, it binds to the bicarbonate needed to make shells. It also dissolves shells by release calcium and biocarbonate molecules.
