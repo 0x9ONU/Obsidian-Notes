@@ -139,6 +139,7 @@ Now living appears to be common to plants as well as to men; but what we seek is
 
 ```ad-important
 So, the function of human being is an activity of the soul according to reason or not without reason.
+- Both sences are important in themselves, but activity means that something is done about it.
 ```
 
 ```ad-quote
@@ -167,6 +168,7 @@ title: Definition
 ```ad-important
 *Eudaimonia* is an acivity of the soul according to reason with its excellence or virtue (*Arete*)
 ```
+
 
 
 
