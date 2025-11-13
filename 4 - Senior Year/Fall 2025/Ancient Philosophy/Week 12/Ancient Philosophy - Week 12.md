@@ -202,7 +202,19 @@ But we stated earlier when we distinguished the [two] senses of “to be acted u
 
 ![[Ancient Philosophy - Week 12 2025-11-11 10.42.47.excalidraw | center]]
 
-#### Objection II
+#### Objection II 
+
+```ad-question
+title: Objection 
+How are the intellect and the forms realted?
+1. Is he inellec another form
+2. Or is the intellect somehting different from the form?
+
+If (i), then there is no distinciton between them (but the intellect and forms seem to differ). If (ii), then the intellect is no longer simple because it is now a composite of intellect and forms. Both alternatives seem to be impossible.
+```
+
+**Answer**: That which thinks and that which is being thought is the same; that is, the intellect and the forms are identical. The intellect is in fact a form of forms. The intellect, therefore, is always simple.
+
 
 
 
