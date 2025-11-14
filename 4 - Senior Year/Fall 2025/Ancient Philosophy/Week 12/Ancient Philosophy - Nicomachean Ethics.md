@@ -169,8 +169,31 @@ title: Definition
 *Eudaimonia* is an acivity of the soul according to reason with its excellence or virtue (*Arete*)
 ```
 
+## Chapter 13: Human Psychology
 
+Three part sin human soul:
+1. The rational part: the part that has reason itself
+2. The appetitive part: the part that which listens or resists reason
+3. The nutritive part: the part that causes nutrition and growth
 
+The Rational & the Appetitive parts share in reason, but not the Nutritive part
+
+### Two Kinds of Virtues
+
+Since Eudaimonia involves excellence as regards to reason, and reason is said in two different senses, there are 2 kinds of excellence or virtue that correspond to 2 different parts of the soul.
+1. **Intellectual Virtue**: The excellence of the rational part (wisdom, prudence, intelligence, etc.)
+2. **Ethical Virtue**: The excellence of the appetitive part (courage, generosity, moderation, etc.)
+
+# Book II
+
+## Chapter 4: Ethical Virtue
+
+There are three things in the appetitive part of the soul:
+1. **Feelings**: Desire, anger, fear etc., whatever is accompanied by pleasure or pain
+2. **Powers**: Capacities to be affected by feelings
+3. **Habits**: Qualities to be well or badly disposed with reference to the feelings.
+
+#comebacklater 
 
 
 
