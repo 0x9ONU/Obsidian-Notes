@@ -134,3 +134,4 @@ $$
 H_{2}CO_{3} \to HCO_{3}^- + H^+
 $$
 If more hydrogen ions are present, it binds to the bicarbonate needed to make shells. It also dissolves shells by release calcium and biocarbonate molecules.
+
