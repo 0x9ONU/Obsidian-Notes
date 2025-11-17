@@ -100,7 +100,7 @@ Steps:
 
 **Aquarius Reef Base**: The only functioning reef base left that does a lot of research at Key Largo
 
-## What is Ocean Acidification, and What Are Its Causes?
+### What is Ocean Acidification, and What Are Its Causes?
 
 ```ad-note
 title: Reminder
@@ -133,5 +133,125 @@ $$
 $$
 H_{2}CO_{3} \to HCO_{3}^- + H^+
 $$
+$$
+HCO_{3}^{-}\to CO_{3}^{-2} + H^+
+$$
 If more hydrogen ions are present, it binds to the bicarbonate needed to make shells. It also dissolves shells by release calcium and biocarbonate molecules.
+
+```ad-important
+Biodiveristy can be directly hindered due to drops in pH in the ocean.
+```
+
+**Two Big Problems**
+1. Less carbonate to make the calcium carbonate shells
+2. Hydrogen ions break down existing calcium carbonate shells
+
+### Pteropod Experiment
+
+- Tiny snails that float through the ocean
+- Exposed them to pH levels that expected by 2100
+- The shells became pitted by day 16
+- By day 45, the shell became nearly fully dissolved
+
+## What Environmental Conditions Determine the Location and Makeup of Marine Ecosystems?
+
+### Ocean Life Zones
+
+```ad-summary
+Different regions of the ocean
+- Typically based on the depth of the ocean
+- The **two main factors**
+	1. Light
+	2. Pressure
+```
+
+```mermaid
+flowchart TD
+A(**Surface**)-->B(**Epipelgaic** 0-200m *Lots of Photosynthesis*)-->C(**Mesopelagic** 200m-1000m *Little bit of sunlight*)-->D(**Pathypelagic** 1000m-4000m *Less sunlight*)
+-->E(**Abyssopelagic** 4000m-6000m *NO MORE SUNLIGHT*)-->F(**Hedal Zone** 6000m-11000)
+```
+
+### Continental Shelves
+
+Where the land meets the ocean and contains:
+- Coral reefs
+- Estuaries
+- Intertidal zones
+
+```ad-note
+Part of the euphotic zone (where photosyntesis can happen, but not necessarily on the open ocean)
+```
+
+## In What Regions of the Ocean Are Corals Found, and How Are They Being Impacted by Human Activity?
+
+### Coral Reefs: Distribution and Status
+
+- Happens in shallow, tropical waters
+- From 30 degrees N to 30 degrees latitude
+
+**Value**
+1. Extremely bio-diverse (keystone species since it creates such a large habitat for other creatures)
+2. Provides a lot of food for humans and other animals
+3. Tourism and recreation
+4. Storm Buffer for coastal areas
+5. Water purification (a lot of organisms are filter feeders)
+6. Antibiotics/anti-cancer chemicals for pharmaceuticals
+7. Absorption of $CO_{2}$
+
+### Major Threats to Coral Reefs
+
+1. Over-fishing and destructive fishing
+2. Inland pollution
+3. Coastal development
+4. Marine-based pollution
+5. Thermal stress
+
+
+## On What Mutualistic Partnership Do Corals Depend, How Is It Affected by Bleaching, and What Can Cause Bleaching?
+
+### Coral Biology
+
+**Mutualisms**
+- Corals
+	- Gives carbon dioxide, water, shelter
+- Zooxanthellae
+	- Gives sugars, lipids, and oxygen
+- These are exchanged back and forth
+
+![[Pasted image 20251117103736.png]]
+
+### Coral Bleaching
+
+In a bleaching event, the coral gets stressed, which kills the zooxanthellae. 
+- This leads to the coral loosing access tot heir sugars, lipids and oxygen
+- Can only last a few weeks without them
+
+### Research at the Aquarius Reef Base
+
+Looking into the acidification of crevice microhabitats
+- They found that there are biochemically different species (ex. sponges)
+- There is a decrease growth in those different sponges
+
+## In Addition to Acidification, What Other Threats Do Ocean Ecosystems Face?  
+
+### Threats to Oceans
+
+1. Fishing pressures
+	- Especially critical on top-level predators that reproduce slowly
+2. Pollution
+3. Invasive Species
+	- Ex. Lionfish are aggressive predators that have spread way too far outside their native habitat and kill a lot of native species
+	- Lionfish Derbies: Catch as many lionfish as you can for prizes
+
+## How Can We Reduce the Threats to Coral Reefs and Other Ocean Ecosystems?
+
+### Reducing the Threat
+
+1. **Marine Protected Areas**:
+	- Newer than National Parks
+	- Has became much more prevalent in recent years
+2. **Reduce $CO_{2}$ Release**
+3. Reduce pollution
+4. Reduce destructive fishing practices
+
 
