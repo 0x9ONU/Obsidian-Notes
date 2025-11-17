@@ -24,7 +24,6 @@ Let $f$ be defined for $t \ge 0$ and let $s$ be a real number. Then, the **Lapla
 
 $$
 F(s)= \laplace \{ f(t)\} =\int_{0}^\infty e^{-st}f(t)dt \newcommand{\laplace}{\mathscr{L}}
-
 $$
 for those values of $s$ for which the improper integral converges
 
@@ -38,10 +37,7 @@ $$
 = \lim_{ b \to \infty } \int_{0}^b e^{-st}dt
 $$
 $$
-= \eval{\lim_{ b \to \infty } \frac{1}{-s}e^{-st}}{0}{b}=\lim_{ b \to \infty } \left [  e^{-sb}+\frac{1}{s}e^{-s(0)} \right ] = \frac{1}{s}
-$$
-$$
- \newcommand{\eval}[3]{\left. #1 \right\rvert_{#2}^{#3}}
+= \eval{\lim_{ b \to \infty } \frac{1}{-s}e^{-st}}{0}{b}=\lim_{ b \to \infty } \left [  e^{-sb}+\frac{1}{s}e^{-s(0)} \right ] = \frac{1}{s} \newcommand{\eval}[3]{\left. #1 \right\rvert_{#2}^{#3}}
 $$
 #### Single Variable
 
