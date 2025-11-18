@@ -405,6 +405,221 @@ $$
 $$
 = \frac{49}{2}\sin 2t
 $$
+## In-Class Practice
+
+```ad-question
+Find the inverse Laplace transforms of the functions
+```
+
+### Problem 1
+
+$$
+F(s)=\frac{3}{s^4}
+$$
+$$
+\laplace^{-1} \left\{  \frac{3!}{s^{3+1}}  \right\} = t^3
+$$
+$$
+F(s)=\frac{1}{2}\left( \frac{6}{s^{4}} \right)
+$$
+$$
+f(t) = \frac{1}{2} \laplace^{-1}\left\{  \frac{6}{s^4}  \right\}
+$$
+$$
+f(t)=\frac{t^3}{2}
+$$
+### Problem 2
+
+$$
+F(s) = \frac{1}{s+5}
+$$
+$$
+f(t)=e^{-5t}
+$$
+### Problem 3
+
+$$
+F(s) = s^{-3/2}
+$$
+$$
+F(s) = \frac{1}{s^{3/2}}
+$$
+$$
+F(s) = \frac{1}{\Gamma\left( \frac{3}{2} \right)}\frac{\Gamma\left( \frac{3}{2} \right)}{s^{3/2}}
+$$
+$$
+f(t) = \frac{1}{\Gamma\left( \frac{3}{2} \right)}(t^{1/2})
+$$
+$$
+f(t) = \frac{2}{\sqrt{ \pi }}t^{1/2}
+$$
+$$
+f(t) = 2 \sqrt{ \frac{t}{\pi} }
+$$
+### Problem 4
+
+$$
+F(s) = \frac{1}{s} - \frac{2}{s^{5/2}}
+$$
+$$
+F(s) = \frac{1}{s}-\frac{2}{\Gamma\left( \frac{5}{2} \right)}\times \frac{\Gamma\left( \frac{5}{2} \right)}{s^{5/2}}
+$$
+$$
+f(t) = 1-\frac{2}{\Gamma\left( \frac{5}{2} \right)}t^{3/2}
+$$
+$$
+f(t) = 1- \frac{8}{3 \sqrt{ \pi }}t^{3/2}
+$$
+#### Problem 5
+
+$$
+F(s)=\frac{3}{s-4}
+$$
+$$
+3 \laplace^{-1}\{ \frac{1}{s-4}\}
+$$
+$$
+f(t) = 3e^{4t}
+$$
+### Problem 6
+
+$$
+F(s)=\frac{5-3s}{s^2+9}
+$$
+$$
+f(t) = \laplace^{-1}\{ F(s) \}
+$$
+$$
+= \laplace^{-1} \left\{  \frac{5}{s^2+9}- \frac{3s}{s^2+9}  \right\}
+$$
+$$
+= \laplace^{-1}\left\{  \frac{5}{s^2+9}  \right\} - \laplace^{-1} \left\{  \frac{3s}{s^2+9}  \right\}
+$$
+$$
+f(t)=\frac{5}{3} \sin(3t)-3\cos(3t)
+$$
+### Problem 7
+
+$$
+F(s) = \frac{9+s}{4-s^2}
+$$
+$$
+f(t)= \laplace^{-1}\left\{  \frac{9}{4-s^2}  \right\} + \laplace^{-1} \left\{  \frac{s}{4-s^2}  \right\}
+$$
+$$
+= -\frac{9}{2}\laplace^{-1}\left\{  \frac{2}{s^2-4}  \right\} - \laplace^{-1} \left\{  \frac{s}{s^2-4}  \right\}
+$$
+$$
+f(t) = -\frac{9}{2}\sinh(2t)-\cosh (2t)
+$$
+### Problem 8
+
+$$
+F(s) = \frac{10s-3}{25-s^2}
+$$
+$$
+f(t) = \laplace^{-1}\left\{  \frac{10s}{25-s^2}  \right\} - \laplace^{-1} \left\{  \frac{3}{25-s^2}  \right\}
+$$
+$$
+f(t) = -10 \laplace^{-1} \left\{  \frac{s}{s^2-25}  \right\}+ \frac{3}{5} \laplace^{-1} \left\{  \frac{5}{s^2-25}  \right\}
+$$
+$$
+f(t) = -10 \cosh 5t+\frac{3}{5} \sinh 5t
+$$
+# Translation on the $s$-Axis
+
+**Theorem**: If $F(s) = \laplace\{ f(t) \}$ exists for $s > c$, then $\laplace\{e^{at}f(t)\}$ exists for $s > a+c$, and:
+
+$$
+\laplace \{e^{at}f(t)\}=F(s-a)
+$$
+and
+$$
+\laplace^{-1}\{F(s-a)\} = e^{at}f(t)
+$$
+
+Thus the translation of $s \to s-a$ in the transform corresponds to the multiplication of the original function of $t$ by $e^{at}$
+
+
+| $f(t)$    | $F(s)$              |
+| --------- | ------------------- |
+| 1         | $\frac{1}{s}$       |
+| $e^{at}$  | $\frac{1}{s-a}$     |
+| $t$       | $\frac{1}{s^2}$     |
+| $te^{at}$ | $\frac{1}{(s-a)^2}$ |
+## Examples
+
+### Example 1
+
+$$
+\laplace \{ t^3 e^{2t} \}
+$$
+$$
+\laplace\{ t^3\} = \frac{3!}{s^4}
+$$
+$$
+\laplace \{ t^3 e^{2t} \} = \frac{6}{(s-2)^4}
+$$
+### Example 2
+
+$$
+f(t) = -3t^2e^{-8t}
+$$
+$$
+F(s) = -3\laplace\{ t^2e^{-8t} \}
+$$
+$$
+\laplace\{ t^2 \} = \frac{2}{s^3}
+$$
+$$
+F(s) = -\frac{6}{(s+8)^3}
+$$
+### Example 3
+
+$$
+f(t) = e^{-7t}\sinh(-2t)
+$$
+$$
+k = -2
+$$
+$$
+F(s) = \frac{-2}{(s+7)^2-4}
+$$
+### Example 4
+
+$$
+f(t) = \laplace^{-1}\left\{ \frac{3}{2s-4}  \right\}
+$$
+$$
+f(t) = \frac{3}{2}\laplace^{-1}\left\{  \frac{1}{s-2} \right\}
+$$
+$$
+f(t) = \frac{3}{2}e^{2t}
+$$
+### Example 5
+
+$$
+f(t) = \laplace^{-1}\left\{  \frac{1}{s^2+4s+4}  \right\}
+$$
+$$
+= \laplace^{-1}\left\{  \frac{1}{(s+2)^2}  \right\}
+$$
+$$
+\laplace^{-1}\left\{  \frac{1}{s^2}  \right\}=t
+$$
+$$
+f(t)= te^{-2t}
+$$
+### Example 6
+
+$$
+F(s) = \frac{1}{s^2+5s+4}
+$$
+$$
+F(s) = \frac{1}{(s+1)(s+4)}
+$$
+
+
 
 
 
