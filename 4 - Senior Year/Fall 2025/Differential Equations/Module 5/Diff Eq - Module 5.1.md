@@ -385,7 +385,7 @@ $$
 \sin 2 \theta = 2 \sin \theta \cos \theta
 $$
 $$
-\sin \theta \cos \theta = \frac{1}{2} \sin \theta
+\sin \theta \cos \theta = \frac{1}{2} \sin 2\theta
 $$
 $$
 \laplace \{ \}
