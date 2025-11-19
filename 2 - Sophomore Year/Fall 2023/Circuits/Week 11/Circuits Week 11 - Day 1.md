@@ -21,7 +21,7 @@ Find $\textbf{V}_0$ using nodal analysis
 
 Write Equation at **Node 1**:
 
-$$ \frac{V_1 -12 \angle 0 \degree}{3+j2} + \frac{V_1}{6-j1} + \frac{V_1}{4_j6} = 0$$
+$$ \frac{V_1 -12 \angle 0 \degree}{3+j2} + \frac{V_1}{6-j1} + \frac{V_1}{4-j6} = 0$$
  
 Either divide each term by its denominator or multiply by the conjugate to simplify:
 
