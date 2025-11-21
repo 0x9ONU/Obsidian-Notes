@@ -118,6 +118,80 @@ A single crop over a large area
 Coffee strains have not been responding well to drier climates
 ```
 
+### Meeting Food Needs Locally
+
+**Food self-sufficiency**: ability of a nation to grow enough food to feed everyone
+
+**Food sovereignty**: Ability of a nation to control own food system
 
 
+```ad-note
+Can be mutually exclusive. A nation can have soveringty, but not sufficiency
+```
 
+### Why is Africa Plagued by Food Insecurity and Hunger?
+
+- Green Revolution: Cheap food elsewhere
+- Switched to **cash crops**
+	- Coffee
+	- Tobacco
+	- Cocoa
+	- Cotton
+- Women do a lot of the farming
+
+## The Role of Genetic Engineering in Agriculure
+
+**Genetically Modified Organisms (GMOs):**
+- Gene splicing from one organism to another
+- Put it into a organism to let it gain that organism’s wanted DNA
+
+Types of GMOs:
+1. **Transgenic**: Getting genes from another species
+	- Glo-Fish
+	- Golden Rice (adds vitamin A to standard white rice)
+	- *HT Crops: Herbicide-tolerant*
+	- BT Crops: Produces a toxin that acts as a pesticide
+	- Nutritionally enhanced foods
+2. **Cisgenic**: Introduce a gene from a closely related species
+	- ex. Dairy cows can be given a no-horn gene from a hornless species
+3. **Intragenic**: Changing genes within a species
+	- ex. The gene for bruising in button mushrooms has been silenced
+
+```ad-note
+GMOs are found in 80% of packaged food in the US.
+- 93% of soy
+- 93% of cotton
+- 90% of canola
+- 86% of corn
+```
+
+```ad-important
+GMOs have borught on a Green Revolution 2.0 aka. the Gene Revolution
+- We went into a plataeu for many years, but production has begun to rise again
+```
+
+### Trade-Offs of GMOs
+
+| Category                 | Advantages                                                                                           | Disadvantages                                                                                                                                  |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Herbicide Tolerance      | Higher yield and less competition from weeds                                                         | Overuse of herbicides is costly. Weeds can also gain herbistic tolerance through natural selection                                             |
+| Pest Resistance          | Higher yield from less pests. Less pesticide use overall                                             | Pests can become resistant to pesticides. Risk of the gene spreading to other organisms is also there.                                         |
+| Corporate Funding        | Corporations that developed these GMOs are already paid for by the companies rather than tax payers. | The farmer is tied to using products, such as herbicide and pesticide, . It is also copyrighted and the farmer has to buy new seeds each year. |
+| Food Security and Safety | More nutritional food and more food for all                                                          | No legal requirement to call out GMOs. Research of on the health safety is lacking, but there are potential long-term concerns.                |
+```ad-warning
+Only certified organic food is the only way to tell if a food uses GMOs or not in the US.
+```
+
+## Low-Tech Solutions for Increased Crop Production
+
+Traditional farming methods
+- Microfertilization
+- **Polyculture**: crop diversity that can help enrich the soil
+- Seedbanks/sharing, wild type preservation
+
+## What Can You Do?
+
+- Feeding America
+- UNICEF
+- Heifer International
+- 
