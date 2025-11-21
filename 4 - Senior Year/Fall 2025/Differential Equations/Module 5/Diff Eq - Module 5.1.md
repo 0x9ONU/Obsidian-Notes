@@ -619,7 +619,224 @@ $$
 F(s) = \frac{1}{(s+1)(s+4)}
 $$
 
+### Example 7
 
+$$
+F(s) = \frac{2}{(s+6)^2} + \frac{-3s+2}{s^2+36}
+$$
+$$
+f(t) = 2\laplace^{-1}\left \{ \frac{1}{(s+6)^2} \right \} - 3 \laplace^{-1}\left \{ \frac{s}{s^2+36} \right \}+ \frac{2}{6} \laplace^{-1} \left \{ \frac{6}{s^2+36} \right \}
+$$
+$$
+f(t) = 2te^{-6t}-3\cos 6t + \frac{1}{3}\sin 6t
+$$
 
+### Example 8
 
+$$
+F(s)= \frac{{7s-11}}{s^2-25-15}
+$$
+$$
+F(s) = \frac{7s-11}{(s-5)(s+3)}
+$$
+$$
+= \frac{A}{s-5}+\frac{B}{s+3}
+$$
+$$
+7s-11 =A(s+3)+B(s-5)
+$$
+$$
+\text{At } s =-3
+$$
+$$
+7(-3)-11=A(0)+B(-3-5)
+$$
+$$
+-32 = -8B
+$$
+$$
+B = 4
+$$
+$$
+\text{At } s =5
+$$
+$$
+24 = 8A
+$$
+$$
+A = 3
+$$
+$$
+F(s) = \frac{3}{s-5}+\frac{4}{s+3}
+$$
+$$
+f(t) = 3\laplace^{-1}\left\{  \frac{1}{s-5}  \right\} + 4 \laplace^{-1}\left\{  \frac{1}{s+3}  \right\}
+$$
+$$
+f(t) = 3e^\text{5t}+4e^{-3t}
+$$
+### Example 9
+
+$$
+F(s) = \frac{s}{(s-9)(s+7)(s+8)}
+$$
+$$
+= \frac{A}{s-9}+\frac{B}{s+7}+\frac{C}{s+8}
+$$
+$$
+s = A(s+7)(s+8)+B(s-9)(s+8)+C(s-9)(s+7)
+$$
+$$
+\text{At } s = 9
+$$
+$$
+9 = A(9+7)(9+8)
+$$
+$$
+9 = 272A
+$$
+$$
+A = \frac{9}{272}
+$$
+$$
+\text{At } s=-7
+$$
+$$
+-7 = B(-7-9)(-7+8)
+$$
+$$
+-7 = -16B
+$$
+$$
+B = \frac{7}{16}
+$$
+$$
+\text{At } s=-8
+$$
+$$
+-8 = C(-8-9)(-8+7)
+$$
+$$
+-8=17C
+$$
+$$
+-\frac{8}{17}=C
+$$
+$$
+f(t) = \frac{9}{272} \laplace^{-1}\left \{ \frac{1}{s-9} \right \} + \frac{7}{16} \laplace^{-1} \left \{ \frac{1}{s+7} \right \}-\frac{8}{17} \laplace^{-1} \left \{ \frac{1}{s+8} \right \}
+$$
+$$
+f(t) = \frac{9}{272}e^{-9t}+\frac{7}{16}e^{-7t}-\frac{8}{17}e^{-8t}
+$$
+### Example 10
+
+$$
+F(s) = \frac{-s^2+3s-6}{(s-3)^3}
+$$
+$$
+= \frac{A}{s-3}+\frac{B}{(s-3)^2}+\frac{C}{(s-3)^3}
+$$
+$$
+-s^2+3s-6 = A(s-3)^2+B(s-3)+C
+$$
+$$
+\text{At } s = 3
+$$
+$$
+-(3)^2+3(3)-6 = C
+$$
+$$
+C = -6
+$$
+$$
+-s^2+3s-6 = As^2-6sA+9A+Bs-3B+C
+$$
+$$
+= As^2+ (B-6A)s+(9A-3B+C)
+$$
+$$
+A = -1
+$$
+$$
+3 = (B-6(-1))
+$$
+$$
+B = -3
+$$
+$$
+f(t) = - \laplace^{-1} \left \{ \frac{1}{s-3}  \right \}-3 \laplace^{-1} \left \{ \frac{1}{(s-3)^2} \right \} -\frac{6}{2} \laplace^{-1} \left \{ \frac{2}{(s-3)^3} \right \}
+$$
+$$
+f(t) = -e^{3t}-3te^{3t}-3t^2e^{3t}
+$$
+
+### Example 11
+
+$$
+F(s)= \frac{s-6}{(s^2-1)(s^2+4)}
+$$
+$$
+= \frac{s-6}{(s-1)(s+1)(s^2+4)} = \frac{A}{s-1}+\frac{B}{s+1}+\frac{Cs+D}{s^2+4}
+$$
+```ad-warning
+This is an irreducable quadratic factor
+```
+
+$$
+s-6 = A(s+1)(s^2+4)+B(s-1)(s^2+4)+(Cs+D)(s+1)(s-1)
+$$
+$$
+\text{At } s = -1
+$$
+$$
+(-1)-6 = 0 + B(-1-1)(-1^2+4)+0
+$$
+$$
+-7 = -10B
+$$
+$$
+B = \frac{7}{10}
+$$
+$$
+\text{At } s = 1
+$$
+$$
+-5 = A(2)(5) + 0+0
+$$
+$$
+-5 = 10A
+$$
+$$
+A = -\frac{1}{2}
+$$
+$$
+\text{At } s =0
+$$
+$$
+-6 = 4A -4B -D
+$$
+$$
+-6 = 4\left( -\frac{1}{2} \right)-4\left( \frac{7}{10} \right)-D
+$$
+$$
+-\frac{6}{5}=-D
+$$
+$$
+D = \frac{6}{5}
+$$
+$$
+\text{At } s = 2
+$$
+$$
+-4 = 24A +8B + 3(2C+D)
+$$
+$$
+-4 = 24\left( -\frac{1}{2} \right)+8\left( \frac{7}{10} \right)+6C+3\left( \frac{6}{5} \right)
+$$
+$$
+C = -\frac{1}{5}
+$$
+$$
+f(t) = -\frac{1}{2}\times \frac{1}{s-1} + \frac{7}{10}\times \frac{1}{s+1}-\frac{1}{5} \frac{s}{s^2+4}+\frac{6}{5} \frac{1}{s^2+4}
+$$
 
