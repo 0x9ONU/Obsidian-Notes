@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12 Day 2.md",
+                "file": "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff Eq - Module 5.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environmental Issues - Week 12 Day 2"
+              "title": "Diff Eq - Module 5.1"
+            }
+          },
+          {
+            "id": "0f8b061a5b49dc62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,10 +258,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "72b65fe1a6174da6",
+  "active": "0f8b061a5b49dc62",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff Eq - Module 5.1.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12 Day 2.md",
+    "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff Eq - Module 5.1.md",
     "General Notes/Pasted image 20251119101820.png",
     "General Notes/Pasted image 20251119101529.png",
     "General Notes/Pasted image 20251119101357.png",

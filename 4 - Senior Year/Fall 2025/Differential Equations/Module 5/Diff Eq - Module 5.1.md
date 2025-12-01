@@ -839,4 +839,132 @@ $$
 $$
 f(t) = -\frac{1}{2}\times \frac{1}{s-1} + \frac{7}{10}\times \frac{1}{s+1}-\frac{1}{5} \frac{s}{s^2+4}+\frac{6}{5} \frac{1}{s^2+4}
 $$
+### Example 12
+
+$$
+F(s) = \frac{4s-12}{s^2-8s+20}
+$$
+$$
+F(s) = \frac{4s-12}{(s-4)^2+(2)^2}
+$$
+```ad-note
+
+$$
+\laplace \{ e^{at}\cos kt \} = \frac{s-a}{(s-a)^2+k^2}
+$$
+$$
+\laplace \{ e^{at}\sin kt \} = \frac{k}{(s-a)^2+k^2}
+$$
+```
+
+$$
+4s-12= 4(s-4)+4
+$$
+$$
+= \frac{4(s-4)+4}{(s-4)^2+2^2}
+$$
+$$
+= \frac{4(s-4)}{(s-4)^2+(2)^2}+\frac{4}{(s-4)^2+2^2}
+$$
+$$
+f(t) = 4e^{4t}\cos 2t + e^{4t}\sin 2t
+$$
+### Example 13
+
+$$
+F(s) = \frac{6s+5}{(s-2)(s^2+2s+5)}
+$$
+$$
+= \frac{A}{s-2}+\frac{Bs+C}{s^2+2s+5}
+$$
+$$
+6s+5 = A(s^2+2s+5)+(Bs+C)(s-2)
+$$
+$$
+\text{At } s=2
+$$
+$$
+6(2)+5=A((2)^2+2(2)+5)+0
+$$
+$$
+17 = 13A
+$$
+$$
+A = \frac{17}{13}
+$$
+$$
+\text{At }s=0
+$$
+$$
+5 = 5A -2C
+$$
+$$
+5 = 5\left( \frac{17}{13} \right)-2C
+$$
+$$
+-2C = \frac{-20}{13}
+$$
+$$
+C = \frac{10}{13}
+$$
+$$
+\text{At }s=1
+$$
+$$
+11 = 8A-B-C
+$$
+$$
+11 = 8\left( \frac{17}{13} \right)-B-\left( \frac{10}{13} \right)
+$$
+$$
+-B = \frac{17}{13}
+$$
+$$
+B = -\frac{17}{13}
+$$
+$$
+= \frac{17}{13}\times \frac{1}{s-2}-\frac{17}{13} \times \frac{s}{s^2+2s+5}+\frac{10}{13}\times \frac{1}{s^2+2s+5}
+$$
+$$
+= \frac{17}{13} \times \frac{1}{s-2}-\frac{17}{13} \left [\frac{s+1}{(s+1)^2+2^2}+\frac{1}{2}\times \frac{2}{(s+1)^2+2^2}\right]+\frac{5}{13} \times \frac{2}{(s+1)^2+2^2}
+$$
+$$
+f(t) = \frac{17}{13}e^{2t}-\frac{17}{13}e^{-t}\cos 2t - \frac{17}{26}e^{-t}\sin 2t + \frac{5}{13}e^{-t}\sin 2t
+$$
+$$
+f(t) = \frac{17}{13}e^{2t}-\frac{17}{13}e^{-t}\cos 2t -\frac{7}{26}e^{-t}\sin 2t
+$$
+### Example 14
+
+$$
+F(s) = \frac{5}{s(s^2+36)}
+$$
+```ad-important
+
+```
+
+$$
+\laplace \left \{ \int_{0}^t f(\tau)d\tau\right \}=\frac{1}{s} F(s)
+$$
+$$
+F(s) = 5 \times \frac{1}{s} \times \frac{1}{s^2+36}
+$$
+$$
+F(s) = \frac{1}{s^2+36}; \quad
+f(t) = \frac{1}{6}\sin 6t
+$$
+$$
+f(t) = 5 \int_{0}^t \frac{1}{6} \sin {6 \tau} d \tau
+$$
+$$
+f(t) = \frac{5}{6} \left [\eval{-\frac{1}{6} \cos 6 \tau}{0}{t} \right ]
+$$
+$$
+= -\frac{5}{36}[\cos 6t - \cos (0)]
+$$
+$$
+f(t) = -\frac{5}{36}(\cos6t-1)
+$$
+
+
 
