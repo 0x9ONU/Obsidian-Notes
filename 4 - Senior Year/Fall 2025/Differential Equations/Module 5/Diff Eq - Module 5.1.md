@@ -940,12 +940,11 @@ $$
 F(s) = \frac{5}{s(s^2+36)}
 $$
 ```ad-important
-
-```
-
 $$
 \laplace \left \{ \int_{0}^t f(\tau)d\tau\right \}=\frac{1}{s} F(s)
 $$
+```
+
 $$
 F(s) = 5 \times \frac{1}{s} \times \frac{1}{s^2+36}
 $$
