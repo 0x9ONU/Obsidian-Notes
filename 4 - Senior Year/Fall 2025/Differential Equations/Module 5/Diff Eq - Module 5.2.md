@@ -57,7 +57,18 @@ $$x^{\prime \prime}+4x=0; \quad x(0) = 5; \quad x^\prime(0)=0$$
 
 **Goal**: Find $x(t)$
 
+*Step 1*: Apply Laplace Transform
+
+$$
+\laplace \{ x^{\prime \prime}(t) \}+4\laplace \{x(t) \}=\laplace \{0 \}
 $$
 
+Suppose that $\laplace\{x(t)\}=X(s)$
+
+$$
+[s^2X(s)-sx(0)-x^{\prime}(0)]+4X(s)=0
+$$
+$$
+s^2X(s)-5s+4X(s)=0
 $$
 
