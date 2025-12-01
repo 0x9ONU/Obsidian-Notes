@@ -32,9 +32,32 @@ Thus:
 $$
 \laplace \{f^{\prime \prime}(t)  \}=s^2 F(s)-sf(0)-f^\prime(0)
 $$
+$$
+\laplace \{ f^{\prime \prime \prime}(t)\}=s^3F(s)-s^2f(0)-sf^\prime(0)-f^{\prime \prime}(0)
+$$
+**For $n$**
+
+$$
+\laplace\{f^{(n)}(t) \}=s^nF(s)-s^{n-1}f(s)-s^{n-2}f^\prime(0)-\dots-f^{n-1}(0)
+$$
 
 ```ad-note
-They msut be piecewise smooth and continuous (where the derivative can be found across multiple intervals if necessary)
+They must be piecewise smooth and continuous (where the derivative can be found across multiple intervals if necessary)
 ```
 
+### Examples
+
+#### Example 1
+
+```ad-question
+Solve the IVP by using Lapalce transform:
+
+$$x^{\prime \prime}+4x=0; \quad x(0) = 5; \quad x^\prime(0)=0$$
+```
+
+**Goal**: Find $x(t)$
+
+$$
+
+$$
 
