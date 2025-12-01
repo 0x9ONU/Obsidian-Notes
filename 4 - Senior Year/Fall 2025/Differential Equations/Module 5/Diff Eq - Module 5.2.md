@@ -13,7 +13,28 @@ $$
 With the transformed equation being:
 
 $$
-a \laplace\{x^{\prime \prime}(t)\}+b\lap
+a \laplace\{x^{\prime \prime}(t)\}+b\laplace \{ x^{\prime}(t) \}+c \laplace \{ x(t) \} = \laplace\{f(t) \}
 $$
-## Transformation 
+## *Theorem 1:* Transformation of Derivatives
+
+Suppose that the function $f(t)$ is continuous and piecewise smooth for $t \ge 0$ and is of exponential order as $t \to \infty$, so that there exist non-negative constants $M$, $c$, and $T$ such that:
+
+$$
+|f(t)| \le Me^{ct} \quad \forall t \ge T
+$$
+Then $\laplace\{ f^\prime (t) \}$ exists for $s > c$, and
+
+$$
+\laplace \{ f^\prime (t) \} = s \laplace\{ f(t)\}-f(0)=sF(s)-f(0)
+$$
+Thus:
+
+$$
+\laplace \{f^{\prime \prime}(t)  \}=s^2 F(s)-sf(0)-f^\prime(0)
+$$
+
+```ad-note
+They msut be piecewise smooth and continuous (where the derivative can be found across multiple intervals if necessary)
+```
+
 
