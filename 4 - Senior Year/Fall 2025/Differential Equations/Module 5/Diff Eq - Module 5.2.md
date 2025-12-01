@@ -99,5 +99,28 @@ $$
 #### Example 2
 
 $$
-
+x^{\prime \prime}+9x = 0; \quad x(0)=3 \quad x^\prime(0)=4
 $$
+$$
+\laplace\{x(t)\}=X(s)
+$$
+$$
+[s^2X(s)-sx(0)-x^\prime(0)]+9X(s)=0
+$$
+$$
+s^2X(s)-3s-4+9X(s)=0
+$$
+$$
+s^2X(s)+9X(s)=3s+4
+$$
+$$
+X(s)=\frac{3s+4}{s^2+9}
+$$
+$$
+f(t) = 3\laplace^{-1}\left\{  \frac{s}{s^2+9} \right\}+\frac{4}{3} \laplace^{-1} \left\{ \frac{3}{s^2+9}  \right\}
+$$
+$$
+\boxed{f(t) = 3\cos(3t)+\frac{4}{3}\sin(3t)}
+$$
+
+
