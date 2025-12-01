@@ -85,5 +85,19 @@ $$
 $$
 X(s)=\frac{5s}{s^2+4}
 $$
-*Step 3*: Ap
+*Step 3*: Apply the inverse Laplace transform
 
+$$
+x(t)=\laplace^{-1}\{X(s)\}
+$$
+$$
+ = \laplace^{-1}\left\{  \frac{5s}{s^2+4}  \right\}
+$$
+$$
+\boxed{x(t) = 5\cos(2t)}
+$$
+#### Example 2
+
+$$
+
+$$
