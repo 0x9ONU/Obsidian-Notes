@@ -117,10 +117,64 @@ $$
 X(s)=\frac{3s+4}{s^2+9}
 $$
 $$
-f(t) = 3\laplace^{-1}\left\{  \frac{s}{s^2+9} \right\}+\frac{4}{3} \laplace^{-1} \left\{ \frac{3}{s^2+9}  \right\}
+x(t) = 3\laplace^{-1}\left\{  \frac{s}{s^2+9} \right\}+\frac{4}{3} \laplace^{-1} \left\{ \frac{3}{s^2+9}  \right\}
 $$
 $$
-\boxed{f(t) = 3\cos(3t)+\frac{4}{3}\sin(3t)}
+\boxed{x(t) = 3\cos(3t)+\frac{4}{3}\sin(3t)}
 $$
+#### Example 3
+
+$$
+x^{(2)}-x^\prime-6x=0; \quad x(0)=2; \quad x^\prime(0)=-1
+$$
+
+$$
+[s^2X(s)-sx(0)-x^\prime(0)]-[sX(s)-x(0)]-6X(s)=0
+$$
+$$
+[s^2X(s)-2s+1]+[-sX(s)+2]-6X(s)=0
+$$
+$$
+X(s)[s^2-s-6]-2s+3=0
+$$
+$$
+X(s)=\frac{2s-3}{s^2-s-6}
+$$
+$$
+X(s)=\frac{2s-3}{(s-3)(s+2)}
+$$
+*Partial Fractions Time*
+$$
+\frac{2s-3}{(s-3)(s+2)}=\frac{A}{s-3}+\frac{B}{s+2}
+$$
+$$
+2s-3=A(s+2)+B(s-3)
+$$
+$$
+\text{At }s=-2
+$$
+$$
+2(-2)-3=B(-2-3)
+$$
+$$
+B = \frac{7}{5}
+$$
+$$
+\text{At }s=3
+$$
+$$
+2(3)-3=A(3+2)
+$$
+$$
+A = \frac{3}{5}
+$$
+$$
+x(t) = \frac{3}{5}\laplace^{-1}\left\{  \frac{1}{s-3}  \right\}+\frac{7}{5}\laplace^{-1}\left\{  \frac{1}{s+2}  \right\}
+$$
+$$
+\boxed{x(t)=\frac{3}{5}e^{3t}+\frac{7}{5}e^{-2t}}
+$$
+
+
 
 
