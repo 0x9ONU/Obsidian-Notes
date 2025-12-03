@@ -143,7 +143,12 @@ Consider:
 ## What Can You Do?
 
 1. **Community Supported Agriculture (CSAs):** www.localharvest.org
-	- Buying only 
+	- Buying only from local farms
+	- Can be done with a subscription service
+
+# Module 8.3: Raising Livestock
+
+
 
 
 
