@@ -13,7 +13,7 @@ collapse: open
 
 ```
 
-# Sustainable Farming
+# Module 8.2: Sustainable Farming
 
 ## Sustainable Rice Farming in Northern California
 
@@ -148,12 +148,50 @@ Consider:
 
 # Module 8.3: Raising Livestock
 
+## Pros & Cons
 
+![[Pasted image 20251203103435.png]]
 
+## Diets and Carrying Capacity
 
+The land area used for a given diet *cannot* exceed the amount available for any category
+ - The largest jump is jumping away from meat to no-meat
+ - However, not much change between vegan and vegitarian
 
+# Module 8.4: Fisheries and Aquaculture: Fish in a Warehouse?
 
+## Industrial Fishing Methods
 
+**Hook and Line Methods**
+1. Pole and Line: One line per rod
+2. Long-line: One large line with a bunch of smaller 
+3. Trolling: Baited lines are pulled behind a ship at speeds tailored to the target fish
 
+**Net Method
+1. Seine: A net is thrown to try and catch a school of fish
+2. Trawling: A net is pulled behind a boat in open water along the seabed
+3. Gill Nets: Nets are deployed either on the seabed or closer to the surface. Fish get trapped when they swim into the net.
+
+## Aquaculture: Traditional Outdoor Methods
+
+```ad-summary
+Raising fish instead of going out and catching them.
+- Has large amount of "pens" near land and the fish are raised
+- like a CAFO but for fish
+```
+
+### Aquapod
+
+An aquaculture that can be moved around and does not need to stay in one spot near the coast.
+- The heavy currents of the open ocean wash the wastes away from the fish
+- Less sea-lice and other diseases
+
+```ad-warning
+Carnivore fish that are raised need to be aware of where their feed is coming from as well.
+```
+
+### Recirculating Aquaculture System (RAS) System
+
+Uses water treatment methods to circulate fresh water and create fake currents.
 
 
