@@ -131,16 +131,20 @@ Consider:
 1. How was your food raised?
 2. How far was it shipped?
 
-## Sustainable Agriculture Pros and Conts
+## Sustainable Agriculture Pros and Cons
 
+#comebacklater 
 
-|                       |     |
-| --------------------- | --- |
-| Consumer              |     |
-| Farmers & Environment |     |
-| Sciety                |     |
+|                       | Pro                                                                                                                     | Con                                                         |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Consumer              | 1. Food is fresher and healthier<br>2. Gains satisfaction in making a more ethical and environmentally sound choice<br> | 1. More Expensive<br>2. Greenwashing<br>3. Worse shelf-life |
+| Farmers & Environment | 1. Fewer water and fossil fuel usage<br>2. Less soil degregation<br>3. Less chemical use<br>4.                          |                                                             |
+| Society               |                                                                                                                         |                                                             |
+## What Can You Do?
 
-``
+1. **Community Supported Agriculture (CSAs):** www.localharvest.org
+	- Buying only 
+
 
 
 
