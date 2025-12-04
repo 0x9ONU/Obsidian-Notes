@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Cincinatti To-Do List"
             }
+          },
+          {
+            "id": "8c712820f66ab71e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Differential Equations/Module 3/Diff EQ - Module 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diff EQ - Module 3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,7 +274,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bc0de48e86d58501",
+  "active": "8c712820f66ab71e",
   "lastOpenFiles": [
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Cincinatti To-Do List.md",
     "3 - Junior Year/Theta Chi/Transitiion Documents/Presidential Transitions.md",
