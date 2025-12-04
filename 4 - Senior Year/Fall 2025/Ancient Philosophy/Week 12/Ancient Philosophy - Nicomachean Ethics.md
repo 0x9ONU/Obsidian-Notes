@@ -195,5 +195,168 @@ There are three things in the appetitive part of the soul:
 
 #comebacklater 
 
+# Book III
+
+## Part 6: Circularity in Gaining Habit
+
+For a bad person,w hat appears to be good is not a real good; for a good person, what appears to be good is a real good. It is a good person who is the standard for a correct judgment.
+
+```ad-question
+Are we responsible for pursuing what appears to be good?
+```
+
+**Yes**, it provides that we are responsible for the habit that causes the appearance.
+
+*Follow-Up Question*: How are we responsible for our habit when it is our habit (which is a virtue) that makes us responsible? Isn’t there a circularity involved in Aristotle’s explanation?
+
+```ad-quote
+title: 1114b1
+One might say that all men aim at the apparent good but cannot control what appears to them to be good, and that the end appears to each man to be of such a kind as to correspond to the kind of man he is.
+```
+
+```ad-quote
+title: 1114b16-25
+So whether it is not by its nature that the end appears to each man such as it does but depends on him somewhat, or whether the end is natural but virtue is voluntary by the fact that a good man does all else voluntarily, vice too would nonetheless be voluntary; for in the case of a bad man, too, his *actions* will likewise be caused by him even if the end is not. If, then, as it is said, the virtues are voluntary (for we ourselves are somehow partly responsible for our habits, and it is by being persons of a certain kind that we posit the end as being of a certain kind), the vices too will be voluntary for a similar reason.
+```
+
+# Book VI
+
+## Review: Ethical Virtue
+
+```ad-summary
+"[Ethical] virtue, then, is a habit, disposed toward action by deliberate choice, being at the mean relative to us, and *defined by reason and as a prudent man would define it.*" (11.6, 107b36-a1)
+```
+
+**Eudaimonia** → “Happiness”
+- An activity of the soul (*Psyche*) with reason in accordance with virtue (in *Areze*/excellence)
+- Draws the difference between subjective (happiness) and objective (**Eudaimonia**)
+- This is part of our objective “human nature” and employs the word *function* onto this
+
+**Function of a Human Being**
+- To live an active life of reason
+
+**Parts of the Psyche**
+1. The rational part: By means we actually *reason* → Intellectual Virtue
+2. The appetitive part: By how we feel *emotions and feelings* (In **participation** of reason) → Ethical Virtue
+3. The nutritive part: The biological means to stay alive (necessary food, drink, and breathing)
+
+*Three aspects of the appetitive part:*:
+1. Feeling ($X$)
+2. Powers ($X$)
+3. Habit ($\checkmark$) → Aim at the mean relative to us
+
+The ethical virtue is a characteristic of habit that we have cultivated, so we can always aim toward the context we are selecting
+- Both *objective* and *relative*
+- There is always a right answer, but that answer differs from context to context
+
+The person must be able to chose a means given to an end. The part of choice is also critical
+
+```ad-note
+Book VI will cover the last part of his definition
+```
+
+## Five Intellectual States
+
+1. **Prudence**: “A disposition with true reason and ability for actions concerning human goods” (VI 5, 1140b21)
+2. **Scientific Knowledge**: Is about universal and necessary truths that can be demonstrated; in contrast the object of action varies (VI 3)
+3. **Craft/Art**: Is concerned with production rather than action (VI 4).
+4. **Intuition**: Grasps the principles which cannot be demonstrated (ex. definition) (VI 6)
+5. **Wisdom**: The most accurate of the sciences and includes both intuition and scientific knowledge about the most knowable object (not human goods) (VI 7)
+
+### How are they related?
+
+**The rational part** - (the scientific subpart) - *Wisdom*, which is a combination of scientific knowledge and intuition, is an intellectual virtue (VI2, 1139a1-15; VI 8; 1141a19-b3; VI 12, 1143b15-17)
+
+**The estimative subpart** - *Prudence*, which is an intellectual virtue (VI 5, 1140b26)
+
+The appetitive part - the ethical virtue
+
+```ad-note
+Craft/Art is not a virtue. 1440b21-25
+```
+
+## Prudence
+
+```ad-example
+A prudent person deliberates well about goods attainable by action and knows the particulars rather than the universals
+```
+
+If virtue is a habit, *Prudence* is a *virtuous* habit.
+- To be prudent, you need to be virtuous; to be virtuous, you need to be prudent. They presuppose each other
+- But prudence is somehow responsible for forming a virtuous habit. How is this possible?
+
+```ad-quote
+title: VI 13: 1143b18-33
+One might raise certain problems concerning these virtues: Of what use are they? Wisdom investigates none of the things which make a man happy, for it is not concerned with any generation of objects; and though prudence does this, for what purpose is it needed, if indeed prudence is concerned with things which are just and noble and good for a man but which will be done by a good man anyway, and if by merely knowing them we are no more able to act, since the [ethical] virtues are habits, just as we are no more able to perform, by knowing things which are healthy or in good physical condition, those things which do not themselves produce but come to be from the corresponding habits (for we are no more able to act in a healthy or well-conditioned manner by having medical science or the science of gymnastics)? If, on the other hand, we are to posit a prudent man to be not for the sake of these but for the sake of coming to be virtuous, prudence would be of no use to those who are already virtuous, nor to those who do not possess virtue, for it would make no difference whether they possess prudence themselves or obey those who possess it; and it would be enough for us if, in the case of prudence, we use the same argument as we did in the case of health, for although we wish to be healthy, still we do not learn medical science.
+```
+
+Prudence is concerned with just, noble and good actions, but it is not simply a matter of knowledge since it is a habit. What is its use?
+
+```ad-example
+If prudence is a means to be become virtuous it is useless to botha  virtuous and not virtuous people: it is useless to vrtuous people since they already possess virtue; and it is ueless to non-virtuous people since they do no possess that habit
+```
+
+The difference between virtue and prudence: virtue makes the end in view right; and prudence makes the means towards it right.
+
+### Right Action
+
+```ad-quote
+title: 1144a8-23
+Again, a man’s work is completed by prudence as well as by ethical virtue; for while virtue makes the end in view right, prudence makes the means towards it right. But of the fourth part of the soul, i.e., of the nutritive part, there is no such virtue; for that part cannot act or refrain from acting. As for the argument that through prudence we are no more able to perform noble and just actions, let us begin a little way back and use the following principle. Just as we say that those who do what is just may not yet be just, as in the case of those who perform what is ordained by the law but do so unwillingly or through ignorance or for some other reason but not for the sake of what is just (even if they do what they should and whatever a virtuous man ought to do), so it seems that in order to be good a man must be disposed in a certain way, that is, he must act by intention and for the sake of the things done. Now that which makes the intention right is virtue, but the things which are by their nature done for the sake of [that intention] depend not on virtue but on another power. Let us attend to these matters more clearly for 2 moment.
+```
+
+It is not enough to simply perform virtuous action, but it must be performed having being disposed in a certain way: you must intend to act in that way and for the sake of the action.
+- Now virtue makes the right intention; so there must be another power to avoid the circular manner.
+
+### Cleaverness
+
+This  power is identified as “shrewdness” or “cleverness”: it enables one to succeed in one’s action; and it is the means leading to an aim. If the aim is noble, the power is praiseworthy; if it is bad, the power is blameworthy.
+
+In a good person, a combination of shrewdness (*the eye of the soul*) and virtue develops into prudence.
+- We are born with natural virtue which becomes virtue in the main sense (when we acquire our intellect).
+- Every virtue is a species of prudence
+
+```ad-quote
+title: 1144b1-3
+Let us then examine also virtue once more; for virtue, too, has its parallel, that is, as prudence is related to shrewdness (by being similar but not the same), so natural virtue is related to virtue in the main sense.
+```
+
+```mermaid
+flowchart LR
+A(Nothing)--Born-->B(Shredness + Natural Virtue)--Intellect-->C(Prudence)-->D(Virtue in the Main Sense)
+```
+
+### Knowledge and Virtue
+
+Just as shrewdness is to prudence, natural virtue is the virtue in the main sense.
+- More precisely, a combination of shrewdness and natural virtue will develop into prudence which in turn will produce virtue in the main sense.
+
+Socrates as correct in thinking that without knowledge, there is no virtue but was mistaken in believing that every virtue is knowledge (i.e. prudence).
+
+### Prudence, Virtue, and Right Intention
+
+Prudence is concenred with the means while virtue is concerned with the end; and together produce the right intention.
+
+We begin with a combination of natural virtue (we are born good) and shrewdness (we “know” what is good by means of the eye of the soul); together they develop ino prudence which in turn produces virtue in the main sense; they in turn delveop into habit that reinforces each other; and as a result this habit produces the right intetion.
+
+```mermaid
+flowchart LR
+A(.)--Born-->B(Natural Virtue)--Intellect-->C(Prudence)-->D(Virtue in the Main Sense)
+B-->J(End)
+I(Shrewdness)-->K(Means to an End)
+I--Education-->C
+A--Born-->I
+I-->E["Eye of the Soul"]
+D--Habit-->C
+D-->F(End)
+C-->G(Means)
+D-->H(Right Intellect)
+I<--Works With Each Other-->B
+```
+
+```ad-warning
+Gaining intellect and properly using shrewdness and natural vitrue is based on **nurture**
+```
+
 
 
