@@ -346,4 +346,243 @@ $$
 $$
 x(t) = -1+e^t
 $$
+# Piece-wise Function Laplace Transform
 
+## Example
+
+### Example 1
+
+$$
+f(t) = \left \{ \begin{matrix}
+2t+1 & 0 \le t < 2 \\
+3t & t \ge 2
+\end{matrix}\right \}
+$$
+
+$$
+\laplace\{f(t) \} = \int_{0}^\infty e^{-st}f(t)dt = \int_{0}^2 e^{-st}(2t+1)dt+ \int_{2}^\infty e^{-st}(3t)dt
+$$
+**First Integral**
+$$
+\int_{0}^2 e^{-st}(2t+1)dt
+$$
+$$
+u = 2t+1 \quad dv = e^{-st}dt
+$$
+$$
+du = 2dt \quad v = -\frac{1}{s}e^{-st}
+$$
+$$
+= (2t+1)-\frac{1}{s}e^{-st}- \int -\frac{1}{s}e^{-st}dt
+$$
+$$
+= -\frac{1}{s}(2t+1)e^{-st}+\frac{2}{s}*-\frac{1}{s}e^{-st}
+$$
+$$
+= \eval{-\frac{1}{s}(2t+1)e^{-st}-\frac{2}{s^2}e^{-st}}{0}{2}
+$$
+$$
+ = \left[ -\frac{5}{s}e^{-2s}-\frac{2}{s^2} \right] - \left[ -\frac{1}{s}-\frac{2}{s^2} \right]
+$$
+**Second Integral
+
+$$
+\int e^{-st}(3t)dt
+$$
+$$
+u = 3t \quad dv = e^{-st}dt
+$$
+$$
+du = 3dt \quad v= -\frac{1}{s}e^{-st}
+$$
+$$
+(3t)\left( -\frac{1}{s} e^{-st}\right ) - \int -\frac{1}{s}e^{-st}dt
+$$
+$$
+-\frac{3}{5}te^{-st}+\frac{3}{s}*-\frac{1}{s}e^{-st}
+$$
+$$
+\lim_{ b \to \infty }\eval{-\frac{3}{5}te^{-5t}-\frac{3}{s^2}e^{-st}}{2}{b}
+$$
+$$
+\lim_{ b \to \infty } \left[ -\frac{3}{5}be^{-sb} - \frac{3}{s^2}e^{-sb} \right] - \left[ -\frac{6}{s}e^{-2s}-\frac{3}{s^2}e^{-2s} \right]
+$$
+$$
+= \left[ -\frac{5}{s}e^{-2s}-\frac{2}{s^2} \right] - \left[ -\frac{1}{s}-\frac{2}{s^2} \right] + \lim_{ b \to \infty } \left[ -\frac{3}{5}be^{-sb} - \frac{3}{s^2}e^{-sb} \right] - \left[ -\frac{6}{s}e^{-2s}-\frac{3}{s^2}e^{-2s} \right]
+$$
+$$
+\boxed{f(t) = \frac{1}{s}e^{-2s}+\frac{1}{s^2}e^{-2s}+\frac{1}{s}+\frac{2}{s^2}}
+$$
+# Unit-Step Function
+
+$$
+u(t) = \left \{ \begin{matrix}
+0, & t<0 \\
+1, & t \ge 0
+\end{matrix}\right \}
+$$
+Thus, the $u(t)$ “steps” form a constant value $0$ to the cosntant value $1$ at $t=0$. If we replace $t$ by $t - \tau$, we get:
+
+$$
+u(t - \tau) = \left \{ \begin{matrix}
+0,  & t < \tau \\
+1,  & t \ge \tau
+\end{matrix} \right \}
+$$
+![[Pasted image 20251203111858.png | center]]
+
+Assuming that there is a piece-wise continuous function of two values:
+
+$$
+f(t) = \left \{ \begin{matrix}
+f_{0}(t), & 0 \le t \le t_{1} \\
+f_{1}(t), & t \ge t_{1}
+\end{matrix}  \right \}
+$$
+we can assume the following as long as $f_{0}$ and $f_{1}$ are bound to $[0, \infty)$
+
+$$
+f(t) = f_{0}(t) + u(t-t_{1})(f_{1}(t)-f_{0}(t))
+$$
+$$
+\begin{bmatrix}
+\text{When } t <t_{1} & f(t) = f_{0}(t)+(0)\dots = f_{0}(t) \\
+\text{When } t \ge t_{1} & f_{0}(t)+1(f_{1}(t)-f_{0}(t)) = f_{1}(t)
+\end{bmatrix}
+$$
+```ad-important
+Let $g$ be defined on $[0, \infty)$. Suppose $\tau \ge 0$ and $\laplace(g(t + \tau))$ exists for $s > s_{0}$. Then it exists for $s > s_{0}$ and:
+
+$$
+\laplace\{ u(t-\tau)g(t) \}=e^{-st}\laplace \{ g(t+\tau) \}
+$$
+
+
+```
+
+## Examples
+
+### Example 1
+
+$$
+f(t) = \left \{ \begin{matrix}
+2t+1 & 0 \le t < 2 \\
+3t & t \ge 2
+\end{matrix}\right \}
+$$
+$$
+f(t) = 2t+1 + u(t-2)[(3t)-(2t+1)]
+$$
+$$
+= 2t + 1+u(t-2)(t-1)
+$$
+
+**The Third Term**
+$$
+\laplace\{u(t-2)(t-1)\}
+$$
+$$
+g(t+2) = [t+2-1] = t+1
+$$
+$$
+\laplace\{g(t+2)\} = \frac{1}{s^2}+\frac{1}{s}
+$$
+$$
+\laplace\{u(t-2)(t-1)\} = e^{-2s}\left[ \frac{1}{s^2}+\frac{1}{s} \right]
+$$
+*Wrapping it up*
+$$
+\laplace\{f(t) \} = \frac{2}{s^2}+\frac{1}{s} + e^{-2s}\left[ \frac{1}{s^2}+\frac{1}{s} \right]
+$$
+### Example 2
+
+$$
+\laplace\{ u(t-1)(t^2+1) \}
+$$
+$$
+f(t) = \left\{ \begin{matrix}
+0, & 0 \le t < 1 \\
+t^2+1  & t \ge 1
+\end{matrix} \right \}
+$$
+$$
+g(t+1) = (t+1)^2-1
+$$
+$$
+g(t+1)=t^2+2t+1+1
+$$
+$$
+g(t+1) = t^2+2t+2
+$$
+$$
+\laplace\{ g(t+1) \} = \frac{2}{s^3}+\frac{2}{s^2}+\frac{2}{s}
+$$
+
+$$
+\laplace \{u(t-1)(t^2+1)\}=2e^{-s}\left[ \frac{1}{s^3}+\frac{1}{s^2}+\frac{1}{s} \right]
+$$
+### Example 3
+
+$$
+f(t) = \left \{ \begin{matrix}
+1 & 0 \le t < 2 \\
+-2t+1 & 2 \le t < 3 \\
+3t & 3 \le t < 5 \\
+t-1  & t \ge 5
+\end{matrix} \right \}
+$$
+$$
+f(t) = 1 + u(t-2)[(-2t+1)-1]+u(t-3)[(3t)-(-2t+1)]+u(t-5)[(t-1)-(3t)]
+$$
+$$
+f(t) = 1+u(t-2)(-2t)+u(t-3)(5t-1)+u(t-5)(-2t-1)
+$$
+**First Shift**
+$$
+\laplace\{g(t+2)\} = \laplace \{ -2(t-2) \} = \laplace \{ -2t+4 \}
+$$
+$$
+= -\frac{2}{s^2}+\frac{4}{s}
+$$
+**Second Shift**
+$$
+\laplace \{g(t+3) \} = \laplace\{5(t+3) -1\}=\frac{5}{s^2}+\frac{14}{s}
+$$
+**Third Shift**
+$$
+\laplace \{g(t+5)\} = \laplace\{ -2(t+5)-1 \} = -\frac{2}{s^2}-\frac{11}{s}
+$$
+$$
+F(s) = \frac{1}{s}+e^{-2s}\left [\frac{2}{s^2}+\frac{4}{s} \right]+e^{-3s}\left [\frac{5}{s^2}+\frac{14}{s} \right]+e^{-5s}\left[-\frac{2}{s^2}-\frac{11}{s} \right ]
+$$
+## Unit Step Inverse
+
+### Example 1
+
+$$
+\laplace^{-1} \left\{ \frac{e^{-s}}{s}  \right\}
+$$
+$$
+\laplace^{-1} \{e^{-s}* \frac{1}{s} \}
+$$
+$$
+= u(t-1)f(t-1)
+$$
+$$
+\laplace^{-1} \left\{  \frac{1}{s}  \right\}=1 =f(t)
+$$
+$$
+f(t-1) = 1
+$$
+$$
+f(t) = u(t-1)
+$$
+$$
+= \left \{ \begin{matrix}
+0 & t \le 1 \\
+1  & t> 1
+\end{matrix} \right\}
+$$
+$$
+
+$$
