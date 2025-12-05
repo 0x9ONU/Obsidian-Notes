@@ -555,10 +555,177 @@ $$
 $$
 F(s) = \frac{1}{s}+e^{-2s}\left [\frac{2}{s^2}+\frac{4}{s} \right]+e^{-3s}\left [\frac{5}{s^2}+\frac{14}{s} \right]+e^{-5s}\left[-\frac{2}{s^2}-\frac{11}{s} \right ]
 $$
+
+### Example 4
+
+$$
+y^{\prime \prime}+y = f(t), \quad y(0)=2,\quad y^{\prime}(0)=-1
+$$
+$$
+f(t) = \left \{ \begin{matrix}
+1,  & 0 \le t < \frac{\pi}{2} \\
+-1, & t \ge \frac{\pi}{2}
+\end{matrix} \right\}
+$$
+$$
+f(t)=1-2u\left( t- \frac{\pi}{2} \right)
+$$
+**Step 1** Apply Laplace transform
+
+$$
+\laplace\{y^{\prime \prime}(t)\}+\laplace \{ y(t) \}= \laplace \{f(t) \}
+$$
+$$
+[s^2Y(s)-sy(0)-y^\prime(0)]+Y(s)=\frac{1}{s}-\frac{2}{s} e^{-\pi/2s}
+$$
+$$
+s^2Y(s)-2s+1+Y(s)=\frac{1}{s}-\frac{2}{s}e^{-\pi/2s}
+$$
+**Step 2**: Solve for $Y(s)$
+
+$$
+(s^2+1)Y(s)=\frac{1}{s}-\frac{2}{s}e^{-\pi/2s}+2s-1
+$$
+$$
+Y(s) = \frac{1}{s(s^2+1)}-\frac{2}{s(s^2+)}e^{-\pi/2s}-\frac{1}{(s^2+1)}+\frac{2s}{(s^2+1)}
+$$
+**Step 3**: Apply Inverse Laplace Transform
+
+$$
+y(t) = \laplace^{-1}\left\{  \frac{1}{s(s^2+1)} \right\}+2\laplace^{-1} \left\{ \frac{1}{s(s^2+1)}e^{-\pi/2s}  \right\}-\laplace^{-1}\left\{  \frac{1}{(s^2+1)}  \right\}+2 \laplace^{-1} \left\{  \frac{s}{s^2+1}  \right\}
+$$
+**First Term**
+
+$$
+\frac{1}{s(s^2+1)}=\frac{A}{s}+\frac{Bs+C}{s^2+1}
+$$
+$$
+1 = A(s^2+1)+(Bs+c)(s)
+$$
+$$
+1 = (A+B)s^2+Cs+A
+$$
+$$
+\begin{matrix}
+A+B=0 \\
+C=0 \\
+A=1
+\end{matrix} \Rightarrow \begin{matrix}
+A=1 \\
+B=-1 \\
+C=0
+\end{matrix}
+$$
+$$
+\laplace^{-1}\left\{  \frac{1}{s}-\frac{s}{s^2+1}  \right\}
+$$
+$$
+= 1-\cos t
+$$
+
+
+**Second Term**
+$$
+\laplace^{-1}\{ e^{-\tau s} G(s) \} = u(t-\tau)g(t-\tau)
+$$
+$$
+=u\left( t-\frac{\pi}{2} \right)g\left( t-\frac{\pi}{2} \right)
+$$
+$$
+=u\left( t-\frac{\pi}{2} \right)\left[ 1-\cos\left( t-\frac{\pi}{2} \right) \right]
+$$
+
+
+**Final Solution**
+
+$$
+y(t) = 1-\cos t -2u\left( t-\frac{\pi}{2} \right)\left[ 1-\cos\left( t-\frac{\pi}{2} \right) \right]-\sin t+2\cos t
+$$
+$$
+y(t) = 1+ \cos t-2u\left( t-\frac{\pi}{2} \right)[1-\sin t]-\sin t
+$$
+$$
+y(t) = \left \{ \begin{matrix}
+1+\cos-\sin t & 0 \le t < \frac{\pi}{2} \\
+-1+\cos t+\sin t & t \ge \frac{\pi}{2}
+\end{matrix} \right \}
+$$
+### Example 5
+
+$$
+y^{\prime \prime}-y=f(t), \quad y(0)=-1, y^\prime(0)=2
+$$
+$$
+f(t) = \left \{ \begin{matrix}
+t,  & 0 \le t < 1 \\
+1 & t \ge 1
+\end{matrix}  \right \}
+$$
+$$
+f(t) = t+u(t-1)(1-t)
+$$
+**Step 1** Apply Laplace
+$$
+[s^2Y(s)-sy(0)-y^\prime(0)]-Y(s) = \laplace\{ f(t)\}
+$$
+$$
+\laplace \{f(t) \} = \frac{1}{s}+\dots
+$$
+$$
+g(t+1)=(-t-1+1)=-t
+$$
+$$
+\laplace\{g(t+1)\}=-\frac{1}{s^2}
+$$
+$$
+s^2Y(s)+s-2=Y(s)=\frac{1}{s^2}-\frac{1}{s^2}e^{-s}
+$$
+**Step 2**: Solve for Y(s)
+
+$$
+(s^2-1)Y(s)+s-2=\frac{1}{s^2}-\frac{1}{s^2}e^{-s}
+$$
+$$
+Y(s)= \frac{1}{s^2(s^2-1)}-\frac{1}{s^2(s^2-1)}e^{-s}+\frac{2}{s^2-1}-\frac{s}{s^2-1}
+$$
+**Step 3**: Inverse Laplace
+
+$$
+\laplace^{-1}\{Y(s)\}= \laplace^{-1}\left\{\frac{1}{s^2(s^2-1)}\right\}-\laplace^{-1}\left\{\frac{1}{s^2(s^2-1)}e^{-s} \right\}+\laplace^{-1}\left \{\frac{2}{s^2-1}\right \}-\laplace^{-1}\left\{\frac{s}{s^2-1} \right\}
+$$
+
+**First Term**
+
+$$
+\frac{1}{s^2(s^2-1)}= \frac{1}{s^2-1}-\frac{1}{s^2}
+$$
+$$
+\laplace^{-1}\left\{  \frac{1}{s^2-1}  \right\}-\laplace^{-1} \left\{  \frac{1}{s^2}  \right\}
+$$
+$$
+=\sinh t -t
+$$
+
+**Second Term**
+
+$$
+u(t-1)[\sinh (t-1)-(t-1)]
+$$
+
+**Final Solution**
+
+$$
+y(t) = \sinh t - t - u(t-1)[\sinh (t-1)-(t-1)] +2\sinh t-\cosh t
+$$
+$$
+y(t)= \left \{ \begin{matrix}
+-t+3\sinh t-\cosh t & 0 \le t < 1 \\
+-\sinh t-\sinh(t-1)-\cosh t -1 & t \ge 1
+\end{matrix} \right \}
+$$
 ## Unit Step Inverse
 
 ### Example 1
-
 $$
 \laplace^{-1} \left\{ \frac{e^{-s}}{s}  \right\}
 $$
@@ -583,6 +750,4 @@ $$
 1  & t> 1
 \end{matrix} \right\}
 $$
-$$
 
-$$
