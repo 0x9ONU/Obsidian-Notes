@@ -7,6 +7,7 @@
   "enabledCssSnippets": [
     "something",
     "center images",
-    "center_tables"
+    "center_tables",
+    "pageBreak"
   ]
 }
