@@ -194,4 +194,99 @@ Carnivore fish that are raised need to be aware of where their feed is coming fr
 
 Uses water treatment methods to circulate fresh water and create fake currents.
 
+# Module 9.: Coal
 
+## The Fight Over Coal in Appalachia
+
+```ad-example
+Hobet 21:
+- Mined out from 1987-2015
+- Completely destroyed the environment around it
+```
+
+```ad-example
+Spruce No. 1
+- Given a permit to dump the mining waste into the surrounding area
+- Was eventually revoked
+```
+
+### Pros and Cons
+
+| Pros                      | Cons                                                |
+| ------------------------- | --------------------------------------------------- |
+| Creates Jobs              | Waste                                               |
+| Gives Energy to the World | The energy is not clean or renewable                |
+| Tax revenue               | Mining techniques destroy the surrounding ecosystem |
+| Part of culture           | Destroys culture                                    |
+|                           | Threat to health and safety                         |
+|                           | Destorys biodiversity                               |
+## Coal Formation 
+
+It happens over millions of years!
+- Coal is one type of *fossil fuel* that provides humans with *energy*
+- Big molecules of hydrocarbons
+- Formed from **large swamping forests** from 300 million years ago
+- The vegetation turns into *peat*, which can be hardened into coal over time
+
+### Coal Reserves Around the World
+
+Varies by region and by coal type
+- Lignite (softer)
+- Anthracite and bituminous coal (harder)
+
+## Electricity Production from Coal
+
+![[Pasted image 20251205101748.png]]
+
+### U.S. Generation by Year
+
+![[Pasted image 20251205102041.png]]
+
+![[Pasted image 20251205102101.png]]
+
+![[Pasted image 20251205102114.png]]
+
+### Energy Return on Energy Investment (EROEI)
+
+![[Pasted image 20251205102411.png]]
+
+## Coal Mining Techniques
+
+### Surface Mining
+
+**Mountaintop Removal:** The whole mountain is cleared off and explosives are used to get to the coal veins
+- Creates a large amount of *overburden* and needs to find a place to put it
+
+![[Pasted image 20251205102646.png]]
+
+**Strip Mining**: Removes coal from more horizontal land forms
+- Less overburden and is contained more systematically
+
+### Subsurface Mining
+
+![[Pasted image 20251205102816.png]]
+
+### Mining Hazards
+
+1. **Coal Dust**: Creates very fine particles and can cause black lung disease or lung cancer
+2. **Explosions and Mine Collapse**: Coal is flammable and can suddenly combust and cause the mine to blow up
+3.  **Fire**: Waste along with residual overburden can sometimes burn for a long time from the underground up
+4. **Toxic Fumes**: Various toxic fumes can build up while mining over time (carbon monoxide, sulfur compounds, etc.)
+
+### Mining Environmental Impacts
+
+1. **Acid Mine Drainage**: Water flowing passed exposed rock can leach out sulfates and create acids in the water
+	- Turns from clear to an orange color even with small pH changes
+2. **Slurry Impoundments**: 
+	- Can be breached and cause toxic flooding
+
+## Cleaning up Coal Emissions
+
+1. **Carbon Capture & Sequestration**
+	- Capture the carbon dioxide and put it somewhere else so it does not contribute into the air
+2. **Reclamation**: Restoring the damaged land
+
+## What Can You Do?
+
+1. Turn off lights when not in use
+2. 
