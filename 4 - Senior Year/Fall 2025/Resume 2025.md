@@ -36,6 +36,7 @@ Rock Creek, Ohio | ethan.berei@gmail.com | [+1 (440)-563-1851](tel:4405631851) |
 - Authoring a technical paper presenting experimental results and comparative analysis with the state-of-art
 
 - - -
+- - -
 # Conference Publications and Presentations
 - [*”Logarithmic & Current-Integrating Sensor Interpreted by a Multi-Level Flash ADC”*](https://www.researchgate.net/publication/394580365_Logarithmic_Current-Integrating_Sensor_Interpreted_by_a_Multi-Level_Flash_ADC))
 	- Presented at IEEE International Conference on Electro Information Technology, Valparaiso, IN$\quad\quad\quad\quad\quad\quad\quad\quad\quad\space$May 2025
@@ -64,18 +65,14 @@ Rock Creek, Ohio | ethan.berei@gmail.com | [+1 (440)-563-1851](tel:4405631851) |
 | SystemVerilog     | Office Suite | Linux/Unix                    | Presentation Skills          |
 
 # Leadership Experience
-
 - *President, Theta Chi Fraternity, Zeta Kappa Chapter, ONU*$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ 2024-Present
 - *Historian, Tau Beta Pi Engineering Honors Society, Ohio Iota Chapter, ONU* $\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\quad\quad\quad\quad$ 2024-Present
 - *Member, Order of Omega, Theta Eta Chapter, ONU* $\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\space\space$  2024-Present
 - *Teaching Assistant, Maker Engineering, College of Engineering, ONU* $\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ 2024-Present
-- *Dean’s Team, College of Engineering, ONU*$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\space$ 2023-Present
 # Volunteer Experience
 **100+ Hours of Volunteer Work & $6000+ Raised for Charities**
 - *Rock the Tundra Charity Concert*$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\space$ 2021-Present
 - *Community Highway Cleanup* $\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad$ 2021-Present
-- *Individual Ada Community Cleanups*$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\space$ 2022-Present
 - *Student Tutoring*$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\space$ 2023-Present
 - *College Tour Guide*$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\space\space$ 2023-Present
-
 
