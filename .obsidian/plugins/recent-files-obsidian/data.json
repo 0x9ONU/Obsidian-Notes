@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Security in Energy Harvesting Networks Summary",
+      "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md"
+    },
+    {
+      "basename": "Summer 2025 Lit Review Survey Attacks",
+      "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md"
+    },
+    {
+      "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
+      "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
+    },
+    {
+      "basename": "Pasted image 20250605055649",
+      "path": "General Notes/Pasted image 20250605055649.png"
+    },
+    {
+      "basename": "Summer 2025 Research Literature Review",
+      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md"
+    },
+    {
+      "basename": "Literature Review Diagram",
+      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas"
+    },
+    {
       "basename": "9-26-2025 Meeting",
       "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/9-26-2025 Meeting.md"
     },
@@ -19,18 +43,6 @@
     {
       "basename": "6-17-2025 Meeting Minutes",
       "path": "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md"
-    },
-    {
-      "basename": "Summer 2025 Lit Review Survey Attacks",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md"
-    },
-    {
-      "basename": "Security in Energy Harvesting Networks Summary",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md"
-    },
-    {
-      "basename": "Summer 2025 Research Literature Review",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md"
     },
     {
       "basename": "Diff Eq - Module 5.1",
@@ -169,16 +181,8 @@
       "path": "General Notes/Kanban/A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks.md"
     },
     {
-      "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
-      "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
-    },
-    {
       "basename": "Security in Energy Harvesting Networks A Survey on Current Solutions and Research Challenges",
       "path": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Papers/Security in Energy Harvesting Networks A Survey on Current Solutions and Research Challenges.pdf"
-    },
-    {
-      "basename": "Literature Review Diagram",
-      "path": "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas"
     },
     {
       "basename": "DSA New Testament",
@@ -195,10 +199,6 @@
     {
       "basename": "Ancient Philosophy - Week 12 2025-11-11 10.11.57.excalidraw",
       "path": "General Notes/Ancient Philosophy - Week 12 2025-11-11 10.11.57.excalidraw.md"
-    },
-    {
-      "basename": "Ancient Philosophy - Week 12 2025-11-11 10.02.05.excalidraw",
-      "path": "General Notes/Ancient Philosophy - Week 12 2025-11-11 10.02.05.excalidraw.md"
     }
   ],
   "omittedPaths": [],
