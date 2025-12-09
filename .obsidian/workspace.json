@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "9ca7ede799a02707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Differential Equations/Exam Review/Diff Eq - Final Exam Review.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diff Eq - Final Exam Review"
-            }
-          },
-          {
             "id": "1fac4cbaba2e800f",
             "type": "leaf",
             "state": {
@@ -48,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Diff Eq - Module 5.2"
             }
+          },
+          {
+            "id": "9ca7ede799a02707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Differential Equations/Exam Review/Diff Eq - Final Exam Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diff Eq - Final Exam Review"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"

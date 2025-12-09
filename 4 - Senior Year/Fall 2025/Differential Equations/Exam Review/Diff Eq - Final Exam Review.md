@@ -2,18 +2,6 @@ Date: 9th December 2025
 Date Modified: 9th December 2025
 File Folder: Exam Review
 #diffeq
-
-```ad-abstract
-title: Today's Topics
-collapse: open
-
-- Topic1
-- Topic2
-- Topic3
-
-```
-
-
 # Topic I: Solve Various Types of First Order Equations
 
 ## Integrand
