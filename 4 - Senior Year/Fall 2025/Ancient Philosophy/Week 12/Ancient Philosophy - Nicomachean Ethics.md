@@ -482,12 +482,20 @@ So since the intellect is divine relative to a man, the life according to this i
 
 - It is both instrumental and intrinsic, but Aristotle focuses on the intrinsic value
 	- If you fail to contemplate, you have not obtained fulfillment as a human being
+	- ex. Prudence is an instrumental way to use it for the sake of reason.
 - “Ignorance is Bliss”: With this statement, what would his argument be against this? Would he see any validity in that statement?
 	- He would never see it true in any situation
 	- Is counter to the human function
 	- Human function is to live an active life of reason
 	- The goal is to *not* be ignorant.
 	- ex. Children and animals cannot be happy since they cannot perform the activity of reason
-- 
-
-
+- Neutral activity that gets pleasure. (ex. a single player video game)
+	- Rational part and the appetite part → both participate in reason
+	- We must have excellence in both of them
+	- We must exhibit ethical virtue
+	- Contemplation should be done in one’s leisure (*scholē*)
+	- Purest pleasure comes from contemplation
+- Pleasure machine thought experiment
+	- Virtuous machine that hooks you and cannot leave
+	- You will experience the most happiest and the most pleasurable life
+	- Aristotle would not go in since it would be a trick. It is produced by illusion rather than by truth.
