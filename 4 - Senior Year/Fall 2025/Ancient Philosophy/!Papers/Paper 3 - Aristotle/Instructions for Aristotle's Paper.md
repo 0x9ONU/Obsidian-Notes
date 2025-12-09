@@ -17,6 +17,6 @@ Make sure to cite the relevant passages, using Bekker’s pagination.
 
 Again, if you have any difficulty with the assignment, please feel free to come and see me.  I will be happy to assist you.  
 
-Also, I will be happy to read your draft and give you some feedback (and give me about 24- hour turn-around time). The deadline for the feedback request, however, is by the end of Friday, Dec 12.
+Also, I will be happy to  read your draft and give you some feedback (and give me about 24- hour turn-around time). The deadline for the feedback request, however, is by the end of Friday, Dec 12.
 
 The deadline for **the final version is 11:15 am on Tues, Dec 16**.
