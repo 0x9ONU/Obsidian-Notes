@@ -308,7 +308,7 @@ Again, a man’s work is completed by prudence as well as by ethical virtue; for
 It is not enough to simply perform virtuous action, but it must be performed having being disposed in a certain way: you must intend to act in that way and for the sake of the action.
 - Now virtue makes the right intention; so there must be another power to avoid the circular manner.
 
-### Cleaverness
+### Cleverness
 
 This  power is identified as “shrewdness” or “cleverness”: it enables one to succeed in one’s action; and it is the means leading to an aim. If the aim is noble, the power is praiseworthy; if it is bad, the power is blameworthy.
 
@@ -358,5 +358,136 @@ I<--Works With Each Other-->B
 Gaining intellect and properly using shrewdness and natural vitrue is based on **nurture**
 ```
 
+# Book X
+
+## What is Pleasure?
+
+Aristotle compares it with an activity like seeing (an activity is complete at any interval of time). 
+- If pleasure is *an activity* like seeing, then it is **not** *a motion*
+- Motion takes *time*
+
+```ad-example
+Building a house is an exmaple of motion; a house is compelte only when it has been built and not before.
+```
+
+In contrast, what is pleased in every interval of time and hence is always complete (just like seeing).
+
+### Corresponding Pleasures
+
+For every faculty of sensation and thinking, there are **corresponding pleasures**
+
+```ad-example
+Take a faculty of sensation, like seeing: when sight is in good condition and it ijs seeing a beautiful object, pleasure **accompanies** such an activity which is perfect.
+```
+
+### Three Ways an Activity Can Be Made Perfect
+
+1. When the faculty in question is in an *excellent condition* as opposed to a bad condition
+2. When the object in question is *beautiful* rather than ugly.
+3. When the pleasure makes the activity perfect - it does so as an end that supervenes when all the excellent conditions are met; it is something that accompanies over and above the activity in question; it enriches the experience of that activity.
+
+```ad-quote
+title: 1174b33-35
+But pleasure perfects the activity not as a disposition which resides in the agent but as an end which supervenes like the bloom of manhood to those in their prime of life;
+```
+
+### Pleasure and Activities
+
+Just as there are different kinds of activities, the corresponding pleasure would also be *different*.
+
+**Reasoning**:
+1. It is the pleasure that increases or makes better the very activity in which you are engaged in. ex. in each field, it is those who enjoy and derive pleasure form that activity that each field makes its own progress.
+
+```ad-quote
+title: 1175a33-1175b2
+For an activity is increased along with the pleasure which is proper to it; for those who engage in activity with pleasure judge things better or think them out more accurately than those who take little or no pleasure in those activities, e.g., those who become geometricians and think out each geometrical object better are those who enjoy geometrical thinking, and, similarly, it is by enjoying their activity that those who love music or constructing a building, etc., make progress in their proper field. What causes each of them to advance further in his own field is pleasure, and that which causes such advance is proper to that field; and attributes proper to subjects which are different in kind are themselves different in kind.
+```
+
+2. Other pleasures obstruct the very activity you are engaged in. you have then a proper pleasure which makes its activity more accurate, more enduring and better; and the alien pleasure which impairs the activity. It is the proper pleasure that supervenes on an activity. Thus, there is an appropriate pleasure that is by nature accompanies its activity.
+
+```ad-quote
+title: 1175a3-11
+This becomes even more apparent from the fact that activities are obstructed by the pleasures of other activities; e.g., those who love to hear flute-playing are unable to attend to an argument when they hear attentively someone playing the flute, for they enjoy listening to the flute more than the activity of attending to the argument, and so the pleasure of hearing flute-playing destroys the activity connected with the argument. It is likewise in all other cases in which a man is engaged in two things at the same time; for the more pleasant activity pushes the other activity back, and if the former activity is much more pleasant, it pushes the latter activity even further back so that the man cannot even attend to the latter activity.
+```
+
+3. There are good and bad activities; correspondingly, there are appropriate pleasure for each activity. Human beings differ in what they find pleasurable. Ex. healthy body will find sweet things sweet, but sick body (with fever) will not find them sweet. Similarly, in the case of pleasurable, good human being will find virtuous things pleasurable and bad human being will find vicious things pleasurable.
+
+```ad-quote
+But in the case of men, at least, the pleasures vary to no small extent; for the same things delight some men but pain others, and they are painful or hateful to some but pleasant or lovable to others. This happens in the case of sweet things, too; for they do not seem the same to those who have fever and to those who are healthy, nor hot both to a sickly man and to one in good physical condition, and similarly in other cases. In all such cases, then, what is thought to be the case is what appears to a virtuous man. And if this is well stated (as is thought to be) and the measure of each thing is virtue or a good man as such [i.e., as virtuous], those things, too, will be pleasures which appear to him to be pleasures and those things will be pleasurable which a good man enjoys. And if the things which distress him appear pleasant to some persons, there is nothing surprising about this (for men are ruined or impaired in various ways), and such things are not pleasurable but only to these persons and to others who are disposed in such a manner. So it is clear that we should not speak of those pleasures which are generally regarded to be disgraceful as being really pleasures, except to those who are corrupt.
+```
+
+### Real Pleasure
+
+The real pleasure is found in good activities. It is a pleasure that accompanies a person with a healthy soul; the pleasure in a qualified sense is found in bad activities. It is a pleasure that accompanies a person with sick soul.
+
+**Class Discussion**
+- A somewhat corrupt person that does a virtuous activity, do they feel pleasure?
+	- If the person was virtuous, they would enjoy the pleasure. if not, they would not understand the pleasure.
+- Find pleasure in non-virtuous activities, but do virtuous activities out of guilt. Does that still make you a bad person?
+	- Continent vs. Incontinent vs. Virtuous vs. Vicious person
+	- Virtuous people do the right thing and love doing it
+	- **Continent** people do the right thing out of necessity
+	- Incontinent people don’t do the right thing even though they know how to do it
+	- Vicious person does the wrong thing and does not know it is wrong.
+	- The continent person lines up with this description
+
+**The Goal**: Virtuous people enjoy doing good actions and gain pleasure from it. 
+- The closer you get to this, the more virtuous the person is, and the more happy they would become.
+## What is Happiness?
+
+It is not a disposition; otherwise, a person who sleeps all his life and who lives like a plant would become happy.
+- What is the ultimate goal then towards happiness?
+
+### Not an amusement
+
+Most people think that the ultimate goal is **amusement**.
+- Tyrants (who are despotic) especially agree, for this is a particular kind of pleasure that they aim at.
+
+```ad-quote
+title: 1776b18-24
+But perhaps the apparent happiness of such men is no sign that they are really happy, for virtue and thought, from which good activities arise, do not depend on despotic power; and the fact that such men, who have never tasted pure and liberal pleasure, resort to bodily pleasures is no reason for regarding these pleasures as being more choiceworthy, for children too regard the things they value as being the best. It is with good reason, then, that just as different things appear to be of value to children and to men, so different things appear to be of value to bad men and to good men.
+```
+
+Now different things would be different from person to person
+
+Besides, Aristotle finds it absurd that the end of human being is an amusement; that is, we toil hard for the sake of amusement. It would trivialize human life and would make it appear foolish and childish.
+- That, we amuse ourselves for the sake of serious work. however, we should recognize that we do need amusement.
+
+### Contemplation
+
+It is activity according to virtue. The best activity will be according to the highest virtue. It is contemplation, because:
+1. Intellect is the best part in us and is concerned the best knowledgeable object
+2. It is the most continuous activity that we can engage in. This is so because it is accompanied by pure pleasure.
+3. It is the most self-sufficient activity. Ethical virtues, for example, require other human beings; but in wise person can theorize even alone although it is better to have colleagues.
+4. It is loved for its own sake; nothing results form it except contemplation itself. In contrast, practical activities we gain something other than the activities.
+5. It depends on leisure; we toil for the sake of leisurely activity (thinking is most of all depend on it.)
+
+```ad-important
+title: The devine activity
+
+We should engage in this divine activity not in so far as we are human bieng; but in so far as we share soemthing divine in us.
+```
+
+```ad-quote
+title: 1177b17-26
+So if political and military actions among virtuous actions stand out in fineness and greatness and, being toilsome, are aimed at some other end but are not chosen for their own sake, whereas the activity of the intellect, being theoretical, is thought to be superior in seriousness and to aim at no other end besides itself but to have its own pleasure which increases that activity, then also self-sufficiency and leisure and freedom from weariness (as much as are possible for man) and all the other things which are attributed to a blessed man appear to exist in this activity. This, then, would be the perfect happiness for man, if extended to the full length of life, for none of the attributes of happiness is incomplete.
+```
+
+```ad-quote
+title: 1177b31-1178a1
+So since the intellect is divine relative to a man, the life according to this intellect, too, will be divine relative to human life. Thus we should not follow the recommendation of thinkers who say that those who are men should think only of human things and that mortals should think only of mortal things, but we should try as far as possible to partake of immortality and to make every effort to live according to the best part of the soul in us; for even if this part be of small measure, it surpasses all the others by far in power and worth.
+```
+
+## Post-Class Discussion
+
+- It is both instrumental and intrinsic, but Aristotle focuses on the intrinsic value
+	- If you fail to contemplate, you have not obtained fulfillment as a human being
+- “Ignorance is Bliss”: With this statement, what would his argument be against this? Would he see any validity in that statement?
+	- He would never see it true in any situation
+	- Is counter to the human function
+	- Human function is to live an active life of reason
+	- The goal is to *not* be ignorant.
+	- ex. Children and animals cannot be happy since they cannot perform the activity of reason
+- 
 
 
