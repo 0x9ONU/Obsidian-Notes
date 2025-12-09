@@ -30,11 +30,15 @@ title: Author Information
 	- Nutritive
 - Eye of the soul (Cleverness)
 - Soul and pleasure
-- 
 ## Analysis
 ### Objection
 
-
+- Plato’s POV
+- His three parts of the soul
+- Analogy to the parts
+- Similarities
+	- Intrinsic and instrumental
+	- 
 
 ### Response
 

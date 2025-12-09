@@ -82,8 +82,37 @@
               "icon": "lucide-file",
               "title": "Ancient Philosophy - Week 12"
             }
+          },
+          {
+            "id": "dcefc2ab34831a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Nature of Justice and Desires of the Soul - In Defense of a Just Life.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nature of Justice and Desires of the Soul - In Defense of a Just Life"
+            }
+          },
+          {
+            "id": "c9057f89a9d11f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 7/Ancient Philosophy - Week 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ancient Philosophy - Week 7"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -308,8 +336,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d798630b148266a7",
+  "active": "14d44c807bb3e827",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 7/Ancient Philosophy - Week 7.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 8/Ancient Philosophy - Week 8 Day 1.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md",
+    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Nature of Justice and Desires of the Soul - In Defense of a Just Life.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle/A Comparison of Philosophers and the Soul -.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 12/Ancient Philosophy - Nicomachean Ethics.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 12/Ancient Philosophy - Week 12.md",
@@ -321,7 +353,6 @@
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle/Sources/Objection",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle/Sources/Exposition",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Instructions for Plato's Republic Paper.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 2 - Republic/Nature of Justice and Desires of the Soul - In Defense of a Just Life.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle/Sources",
     "4 - Senior Year/Fall 2025/Differential Equations/Exam Review/Diff Eq - Final Exam Review.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 5/Diff Eq - Module 5.2.md",
@@ -338,9 +369,6 @@
     "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.3.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.2.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 2/Differential Equations - Module 2.1.md",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.5.md",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff Eq - Module 1.4.md",
-    "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff EQ - Module 1.3.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Exam Review",
     "General Notes/Pasted image 20250605055649.png",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
