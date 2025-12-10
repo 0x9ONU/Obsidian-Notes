@@ -38,7 +38,7 @@ title: Author Information
 - Analogy to the parts
 - Similarities
 	- Intrinsic and instrumental
-	- 
+- How Plato would object
 
 ### Response
 
