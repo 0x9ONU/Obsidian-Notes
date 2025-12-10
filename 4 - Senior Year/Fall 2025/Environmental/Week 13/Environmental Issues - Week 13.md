@@ -289,4 +289,4 @@ Varies by region and by coal type
 ## What Can You Do?
 
 1. Turn off lights when not in use
-2. 
+
