@@ -126,3 +126,123 @@ Links air pollution to cancer, premature births, asthma
 1. Reduce Vehicle Emissions
 2. Monitor Indoor Air Pollution
 
+# Module 10.2: Climate Change
+
+## Weather vs. Climate
+
+| Weather                           | Climate                        |
+| --------------------------------- | ------------------------------ |
+| Short-term atmospheric conditions | Average Atmospheric Conditions |
+## Definition
+
+```ad-summary
+Alteration in long-term patterns and averages of meteorological events.
+- Changes in a few degrees overtie
+```
+
+![[Pasted image 20251212100805.png]]
+
+![[Pasted image 20251212101117.png]]
+
+```ad-warning
+The last "coolder than average" year was in 1976...
+```
+
+## The Greenhouse Effect
+
+Gases in the atmosphere trap solar radiation and radiates it back to the planet
+- It is inherently *necessary for life* as Earth would be too cold without it
+- However, as more greenhouse gases are released, the greenhouse effect gets tweaked too far and keeps in *too much heat*
+
+**Greenhouse Gases & Warming Potential**
+1. Carbon Dioxide: (1x)
+2. Methane: (28x)
+3. Nitrous Oxide: (265x)
+4. Halocarbons: (124-14,800x)
+
+*Relative Contributions:*
+- Carbon Dioxide: (76%)
+- Methane: (16%)
+- Halocarbons: (6%)
+- Nitrous Oxide: (2%)
+
+```ad-important
+Greenhouse gases are increasing due to human activity
+- Gathered through *ice cores*
+![[Pasted image 20251212101925.png]]
+```
+
+**Keeling Curve**
+- Measured carbon dioxide levels from Mauna Loa, HI
+- The golden standard place for measurements
+
+![[Pasted image 20251212102159.png]]
+
+### CO2 and Global Temperature Relation
+
+- They are *very* closely correlated
+
+![Which Comes First, CO<sub>2</sub> Or The Heat?](https://s7d1.scene7.com/is/image/CENODS/8751cover2_graph:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp)
+
+## Effects on Global Temperature
+
+1. **Albedo**: The reflection of light off of surfaces
+	- Darker surfaces trap more light and reflect less
+	- Lighter surfaces bounce more light and trap less
+	- *Warning*: Changes in albedo can lead to a **positive feedback loop** 
+		- Temperature Rises
+		- More ice melts
+		- As ice melts, more water is exposed, which absorbs more heat.
+2. **Milankovitch Cycles**: Explains *past* climate events
+	- *Orbital Eccentricity*: is the shape of Earth’s orbit, which changes from more circular to more elliptical over time.
+	- *Axial Tilt*
+	- *Axial Precession*
+3. **Greenhouse Gases**
+
+```ad-important
+Climate determined by cumulative effective on climate forcers.
+- Both positive/negative and natural/artificial
+- There is a clear correlation to antroprocentric effects and climate change towards a warmer Earth
+```
+
+![[Pasted image 20251212103115.png]]
+
+## Impacts of Climate Change
+ 
+1. Costs billions of dollars in:
+	- Labor costs
+	- Human health
+	- Infrastructure damage
+2. Changing weather
+3. Animal harm
+4. Rising sea-levels
+
+## Response to Climate Change
+
+### Adapataion vs. Mitigation
+
+#comebacklater 
+
+| Adapatation                                                     | Mitigation                                                            |
+| --------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Responding to warming that has already or will inevitably occur | Preventing further warming by addressing the causes of climate change |
+| Improve disease surveillance and sanitation                     | Pursue carbon capture                                                 |
+| Plant crops to match new climate                                |                                                                       |
+| Capture and conserve water                                      |                                                                       |
+| Erect coastal barriers                                          |                                                                       |
+| Pursue better fire prevention                                   |                                                                       |
+### 2016 Paris Agreement
+
+- Curb warming at $2 \degree C$ increase
+- Signed by most nations
+- Trump pulled out in 2017
+- US rejoined in 2021
+- US left once again in 2025 because of orange man
+
+### COP 30 Summit
+
+- Yearly conference that goes over and ensures that the 2016 paris agreement is enforced
+
+
+
+
