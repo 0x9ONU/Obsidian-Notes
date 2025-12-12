@@ -1,4 +1,4 @@
-- [ ] Find Faculty
+- [x] Find Faculty ✅ 2025-12-12
 - [ ] Essay
 	- Please tell us about aspects of your background and experience that are no’t captured by other parts of this application. We suggest answering the questions below. You can answer them in any order, and they do not need to be called out explicitly. Statements are typically one to two pages in length. Please limit text to 1000 words. Please view the [application guidelines page on our website](https://www.ece.cmu.edu/admissions/graduate-application-guidelines.html) for more information on how to create a successful application.
 		- Other than reputation, what most interests you about attending the graduate program you indicated as your first choice in your Electrical and Computer Engineering application?  
@@ -9,3 +9,7 @@
 		    - A time when you faced a difficult academic challenge or hurdle and how you navigated through it.
 		    - An example of how you managed your time and academic workload in a previous or current degree program.
 		    - An example of a leadership or mentoring role that you held. What was the role and how did it impact you?
+- [ ] Non-Academic Information Essay
+	- Use this section to share any additional non-academic information that you wish the Admissions Committee to consider. You may relate life challenges, personal initiatives, or any combination of both. Overcoming an adverse situation, starting projects or activities that matter to you, gaps in your resume, explanations of your academic performance, or providing context for your selection of recommenders are all examples of topics you may choose to discuss. Please limit text to no **more than 300 words.**
+- [ ] Experiences and Helping CMU’s Community
+	- The College of Engineering at CMU values excellence, innovation, being genuine,respect for others, integrity, trusting, and being trustworthy. Within the context of your experiences, how would you contribute to these values within our community?
