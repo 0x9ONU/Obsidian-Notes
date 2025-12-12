@@ -23,11 +23,8 @@ File Folder: Exam Review
 ![[Diff Eq - Module 1.4#Homogeneous First-Order]]
 
 ### Examples
-## Exact
-### Notes
-![[Diff Eq - Module 1.5]]
 
-### Examples
+
 
 # Topic II: Solve First Order Linear Equations By Using Integrating Factors
 ## Notes
@@ -54,6 +51,65 @@ File Folder: Exam Review
 
 
 ### Examples
+
+```ad-question
+Find the inverse of the following matrix
+```
+
+$$
+A = \begin{bmatrix}
+-1 & 0 & 3 \\
+0 & 1 & 0 \\
+-2 & 0 & 4
+\end{bmatrix}
+$$
+$$
+A^{-1}=AI
+$$
+$$
+\begin{bmatrix}
+-1 & 0 & 3 & 1 & 0 & 0 \\
+0 & 1 & 0 & 0 & 1 & 0 \\
+-2 & 0 & 4 & 0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+-R_{1} \to R_{1} \begin{bmatrix}
+1 & 0 & -3 & -1 & 0 & 0 \\
+0 & 1 & 0 & 0 & 1 & 0 \\
+-2 & 0 & 4 & 0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+2R_{1}+R_{3}\to R_{3} \begin{bmatrix}
+1 & 0 & -3 & -1 & 0 & 0 \\
+0 & 1 & 0 & 0 & 1 & 0 \\
+0 & 0 & -2 & -2 & 0 & 1
+\end{bmatrix}
+$$
+$$
+-\frac{1}{2}R_{3}\to R_{3} \begin{bmatrix}
+1 & 0 & -3 & -1 & 0 & 0 \\
+0 & 1 & 0 & 0 & 1 & 0 \\
+0 & 0 & 1 & 1 & 0 & -\frac{1}{2}
+\end{bmatrix}
+$$
+$$
+3R_{3}+R_{1}\to R_{1} \begin{bmatrix}
+1 & 0 & 0 & 2 & 0 & -\frac{3}{2} \\
+0 & 1 & 0 & 0 & 1 & 0 \\
+0 & 0 & 1 & 1 & 0 & -\frac{1}{2}
+\end{bmatrix}
+$$
+$$
+\mathbf{A}^{-1}= \begin{bmatrix}
+2 & 0 & -\frac{3}{2} \\
+0 & 1 & 0 \\
+1 & 0 & -\frac{1}{2}
+\end{bmatrix}
+$$
+
+
 ## Inverse
 ### Notes
 ![[Differential Equations - Module 2.4]]
@@ -142,6 +198,103 @@ $$
 $$
 $$
 y_{p}=-\cos t \ln|\sec t| +t\sin t
+$$
+### Example 2
+
+$$
+y^{\prime \prime}+y=\tan x
+$$
+**Associated Homogeneous Equation**
+$$
+r^2+1 = 0
+$$
+$$
+r = \pm i
+$$
+$$
+y_{c}=c_{1}\cos x + c_{2} \sin x
+$$
+$$
+W = \left | \begin{matrix}
+\cos x & \sin x \\
+-\sin x & \cos x
+\end{matrix} \right |=\cos^2x + \sin^2x = 1
+$$
+$$
+y(x) = -y_{1} \int \frac{y_{2}f}{W}dx + y_{2} \int \frac{y_{1}f}{W}dx
+$$
+$$
+y(x) = -\cos x \int \frac{{\sin x \tan x}}{1} dx + \sin \int \frac{{\cos x \tan x}}{1}dx
+$$
+$$
+y(x) = -\cos x \int \frac{\sin^2x}{\cos x} dx + \sin x \int \sin x dx
+$$
+$$
+\int \frac{1-\cos^2x}{\cos x}dx
+$$
+$$
+\int \frac{1}{\cos}dx - \int \cos x dx
+$$
+$$
+\ln | \sec x + \tan x| - \sin x 
+$$
+$$
+y(x) = -\cos x \ln \left | \sec x + \tan x \right | + \sin x \cos x - \sin x\cos x
+$$
+$$
+\boxed{y(x) = -\cos x \ln \left | \sec x + \tan x \right |}
+$$
+### Example 3
+
+```ad-question
+Find the general solution of the following equation
+```
+$$
+y(t)= y_{p}+y_{c}
+$$
+$$
+y^{\prime \prime}-2y^\prime + y = \frac{e^t}{t}
+$$
+
+**Complimentary**
+
+$$
+r^2-2r+ 1 = 0
+$$
+$$
+(r-1)(r-1)=0
+$$
+$$
+r = 1, 1
+$$
+$$
+y_{c}= c_{1}e^t+c_{2}te^t
+$$
+**Particular**
+
+$$
+y_{p}(t)= -y_{1} \int \frac{y_{2}f}{W}dt + y_{2} \int \frac{y_{1}f}{W}dt
+$$
+$$
+W = \left | \begin{matrix}
+e^t & te^t \\
+e^t & e^t+te^t
+\end{matrix} \right | = (e^{2t}+te^{2t})-(te^{2t})=e^{2t}
+$$
+$$
+y_{p}(t)=-(e^t) \int \frac{te^t}{(e^{2t})}* \frac{{e^t}}{t}dt + te^t \int \frac{e^t}{(e^{2t})} * \frac{e^t}{t}dt
+$$
+$$ 
+= -e^t \int 1 dt + te^t \int \frac{1}{t} dt
+$$
+$$
+y_{p}(t) = -te^t+te^t \ln t
+$$
+$$
+y(t) = c_{1}e^t+c_{2}te^t-te^t+te^t \ln t
+$$
+$$
+y(t) = c_{1}e^t+c_{2}te^t+te^t \ln t
 $$
 
 # Topic X: Find Laplace Transforms of Various Functions
