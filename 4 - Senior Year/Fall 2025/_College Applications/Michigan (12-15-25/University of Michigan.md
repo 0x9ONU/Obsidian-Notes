@@ -1,4 +1,4 @@
-- [ ] FAFSA Summary Page in Additional Documents
+- [x] FAFSA Summary Page in Additional Documents ✅ 2025-12-13
 - [ ] Explain Financial Hardship
 - [ ] Academic Statement
 	- The Academic Statement of Purpose should be a concise, well-written statement about your academic and research background, your career goals, and how Michigan's graduate program will help you meet your career and educational objectives.
