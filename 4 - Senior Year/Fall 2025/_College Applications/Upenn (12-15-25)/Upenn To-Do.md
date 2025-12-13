@@ -1,0 +1,10 @@
+- [ ] Personal Statement
+	- In two pages or less, write an essay that answers the questions below.
+		- Why are you interested in this program?
+		- What have you done that makes you a great candidate?
+		- How will you benefit from the program?
+		- How do you plan to contribute to the student community in Penn Engineering while you’re here?
+		- Why will you succeed in the program?
+		- What will you do/accomplish once you have completed the program?
+- [ ] Community Statement
+	- How will you explore community at Penn? Consider how Penn will help shape your perspective, and how your experiences and perspective will help shape Penn. (150-200 words)
