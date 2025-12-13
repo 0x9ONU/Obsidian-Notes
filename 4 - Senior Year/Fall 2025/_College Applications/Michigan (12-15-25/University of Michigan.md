@@ -1,3 +1,3 @@
 - [ ] FAFSA Summary Page in Additional Documents
-- [ ] 
+- [ ] Explain Financial Hardship
 - [ ] 

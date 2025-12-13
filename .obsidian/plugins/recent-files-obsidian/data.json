@@ -5,6 +5,10 @@
       "path": "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/University of Michigan.md"
     },
     {
+      "basename": "Resume 2025",
+      "path": "4 - Senior Year/Fall 2025/Resume 2025.md"
+    },
+    {
       "basename": "Upenn To-Do",
       "path": "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Upenn To-Do.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks",
       "path": "General Notes/Kanban/An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "Pasted image 20250605055649",
-      "path": "General Notes/Pasted image 20250605055649.png"
     }
   ],
   "omittedPaths": [],
