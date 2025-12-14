@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/Resume 2025.md",
+                "file": "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Statement of Purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resume 2025"
+              "title": "Carnegie Mellon University Statement of Purpose"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -292,11 +292,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5374d1184732acb6",
+  "active": "38c4b813d750468a",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Non-Academic Information Essay.md",
-    "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Statement of Purpose.md",
     "4 - Senior Year/Fall 2025/Resume 2025.md",
+    "Untitled 4.md",
+    "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Statement of Purpose.md",
+    "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Non-Academic Information Essay.md",
     "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Carnegie To-Do.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 4/Diff EQ - Module 4.5.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Exam Review/Diff Eq - Final Exam Review.md",
@@ -328,7 +329,6 @@
     "2 - Sophomore Year/Fall 2023/Circuits/Week 14/Circuits Week 14 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 12/Circuits Week 12 - Day 3.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 8/Ancient Philosophy - Week 8 Day 1.md",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle/Sources/Defense",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle/Sources/Response",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle/Sources/Objection",
