@@ -244,7 +244,7 @@ $$
 $$
 \boxed{y(x) = -\cos x \ln \left | \sec x + \tan x \right |}
 $$
-### Example 3
+ ### Example 3
 
 ```ad-question
 Find the general solution of the following equation
