@@ -1,0 +1,7 @@
+```ad-summary
+title: Author Information
+**Name**: Ethan Berei
+**Date**: December 15th, 2025
+```
+
+Outside of my academic and research passion, I devote a considerable amount of my life toward leaving a positive impression on the world through education, charity, and service. I have always strive to teach those around me whenever I possibly can. Being the Historian of our Tau Beta Pi chapter and holding multiple TA positions, I am always there to help those in need of learning. In terms of charity, I have led my chapter of Theta Chi in putting on one of the largest philanthropy events on campus, Rock the Tundra. We invite various bands around the area to a rock concert on the campus green. Over the years I have been part of the fraternity, we have raised $10,000 for veteran support through the United Service Organization and to Music Will, an organization that buys instruments and musical equipment for schools in need. Last year, we were contacted by the Music Will director who sent us a handwritten note from students who thanked us as they would not be able to pursue their passion without us. Through service, I have donated 100+ hours of my time over the past three years to clean up and educate the Ada community. 
