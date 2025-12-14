@@ -10,7 +10,7 @@ My journey into the realm of computing was not through any course or after-schoo
 
 # Educational Purpose and Background
 
-My research pivoted on multiple domains, which integrated concepts from machine learning, cybersecurity, hardware design, and children’s education to advance both the academic space and real-world applications.
+Over my time in my undergraduate studies, my research pivoted on multiple domains. Across four projects, I integrated concepts from multiple disciplines to advance both the academic space and real-world applications. In my first project, I sought out how to detect malicious network traffic on a network by leveraging lightweight supervised machine learning classifiers as an intrusion detection system. In the second project
 
 - *CMU*: Describe how your work, research, educational or other life experiences have prepared you for graduate study in this program.  
 - *CMU*: Please explain why you selected your research areas/areas of interest 
@@ -22,13 +22,7 @@ My research pivoted on multiple domains, which integrated concepts from machine 
 
 # Leadership Role
 
-My most major leadership role was the time I spent with Theta Chi Fraternity. During my time as an active member, I was the historian, vice president, and then president of the fraternity. 
-
-- *CMU*: Choose **one** of the following topics and discuss:
-	- A time when you faced a difficult academic challenge or hurdle and how you navigated through it.
-	- An example of how you managed your time and academic workload in a previous or current degree program.
-	- An example of a leadership or mentoring role that you held. What was the role and how did it impact you?
-
+My experience with leadership arose from Theta Chi Fraternity. During my time as an active member, I was the historian, vice president, and then president of the fraternity. My role as president, particularly, had a profound impact on the way I view both leadership and myself. During the first semester, it was quickly apparent that I sill had plenty to learn about how to effectively run an organization. I had to deal with problems I never thought I would have to deal with and find the best way to solve them. The lesson I took from my time was two-fold: (1) there is no perfect right or wrong solution as everything has nuance; (2) regardless of the actions a leader takes, not everyone will be pleased. Today, I understand the importance of holding your head high and persevering regardless of progress in terms of both leadership and academia.
 # Why I Choose Carnegie Mellon
 
 
