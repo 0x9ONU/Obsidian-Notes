@@ -10,7 +10,7 @@ My journey into the realm of computing was not through any course or after-schoo
 
 # Educational Purpose and Background
 
-
+My research pivoted on multiple domains, which integrated concepts from machine learning, cybersecurity, hardware design, and children’s education to advance both the academic space and real-world applications.
 
 - *CMU*: Describe how your work, research, educational or other life experiences have prepared you for graduate study in this program.  
 - *CMU*: Please explain why you selected your research areas/areas of interest 
@@ -22,7 +22,7 @@ My journey into the realm of computing was not through any course or after-schoo
 
 # Leadership Role
 
-My most major leadership role was the time I spent with Theta Chi Fraternity. 
+My most major leadership role was the time I spent with Theta Chi Fraternity. During my time as an active member, I was the historian, vice president, and then president of the fraternity. 
 
 - *CMU*: Choose **one** of the following topics and discuss:
 	- A time when you faced a difficult academic challenge or hurdle and how you navigated through it.
@@ -31,9 +31,16 @@ My most major leadership role was the time I spent with Theta Chi Fraternity.
 
 # Why I Choose Carnegie Mellon
 
+
+
 - *CMU*: Other than reputation, what most interests you about attending the graduate program you indicated as your first choice in your Electrical and Computer Engineering application?  
-- *CMU*: Please explain why you selected your interested faculty in the application.  
+- *CMU*: Please explain why you selected your interested faculty in the application. 
 - What makes our program stood out. This could be the labs (facilities) they have, the course they offer, the research records in your area, …. etc.
+	- Swarun Kumar
+	- Vyas Sekar
+	- Anthony Rowe
+	- Vuvraj Agarwal
+	- Osman Yagan
 
 # Career Vision and Future Goals
 

@@ -48,14 +48,7 @@
               "icon": "lucide-file",
               "title": "Resume 2025"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5e63ece1b6a42ae4",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "deca3dbfa8fd307b",
             "type": "leaf",
@@ -70,7 +63,8 @@
               "title": "Carnegie To-Do"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -297,11 +292,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5374d1184732acb6",
+  "active": "38c4b813d750468a",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Statement of Purpose.md",
     "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Non-Academic Information Essay.md",
     "4 - Senior Year/Fall 2025/Resume 2025.md",
-    "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Statement of Purpose.md",
     "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Carnegie To-Do.md",
     "4 - Senior Year/Fall 2025/_College Applications/UPitt (2-1-25)/UPitt To-Do.md",
     "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/University of Michigan.md",
