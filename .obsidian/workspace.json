@@ -49,7 +49,8 @@
               "title": "Carnegie Mellon University Statement of Purpose"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5149e5db2107ccf1",
@@ -61,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Carnegie To-Do.md",
+                "file": "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Upenn To-Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carnegie To-Do"
+              "title": "Upenn To-Do"
             }
           }
         ]
@@ -136,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Non-Academic Information Essay.md",
+                "file": "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Upenn To-Do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Carnegie Mellon University Non-Academic Information Essay"
+              "title": "Outline of Upenn To-Do"
             }
           },
           {
@@ -297,19 +297,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d2889fbd262ea5d6",
+  "active": "deca3dbfa8fd307b",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/University of Michigan.md",
+    "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Upenn To-Do.md",
+    "4 - Senior Year/Fall 2025/_College Applications/UPitt (2-1-25)/UPitt To-Do.md",
     "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Carnegie To-Do.md",
-    "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Non-Academic Information Essay.md",
     "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Statement of Purpose.md",
+    "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Non-Academic Information Essay.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 1/Diff EQ - Module 1.3.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Exam Review/Diff Eq - Final Exam Review.md",
     "4 - Senior Year/Fall 2025/Resume 2025.md",
     "Untitled 4.md",
     "4 - Senior Year/Fall 2025/Differential Equations/Module 4/Diff EQ - Module 4.5.md",
-    "4 - Senior Year/Fall 2025/_College Applications/UPitt (2-1-25)/UPitt To-Do.md",
-    "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/University of Michigan.md",
-    "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Upenn To-Do.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle/A Comparison of Philosophers and the Soul -.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 14/Environmental Issues - Week 14.md",
     "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays",
