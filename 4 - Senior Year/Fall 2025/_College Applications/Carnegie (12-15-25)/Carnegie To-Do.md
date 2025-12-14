@@ -1,5 +1,5 @@
 - [x] Find Faculty ✅ 2025-12-12
-- [ ] Essay
+- [x] Essay ✅ 2025-12-14
 	- Please tell us about aspects of your background and experience that are no’t captured by other parts of this application. We suggest answering the questions below. You can answer them in any order, and they do not need to be called out explicitly. Statements are typically one to two pages in length. Please limit text to 1000 words. Please view the [application guidelines page on our website](https://www.ece.cmu.edu/admissions/graduate-application-guidelines.html) for more information on how to create a successful application.
 		- Other than reputation, what most interests you about attending the graduate program you indicated as your first choice in your Electrical and Computer Engineering application?  
 		- What are your goals after you complete your degree, and how will our graduate program help you achieve your immediate and longer-term future career objectives?  
