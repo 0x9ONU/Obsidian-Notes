@@ -7,4 +7,4 @@
 		- Why will you succeed in the program?
 		- What will you do/accomplish once you have completed the program?
 - [ ] Community Statement
-	- How will yzou explore community at Penn? Consider how Penn will help shape your perspective, and how your experiences and perspective will help shape Penn. (150-200 words)
+	- How will you explore community at Penn? Consider how Penn will help shape your perspective, and how your experiences and perspective will help shape Penn. (150-200 words)
