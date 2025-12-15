@@ -11,5 +11,5 @@
 		    - An example of a leadership or mentoring role that you held. What was the role and how did it impact you?
 - [x] Non-Academic Information Essay ✅ 2025-12-14
 	- Use this section to share any additional non-academic information that you wish the Admissions Committee to consider. You may relate life challenges, personal initiatives, or any combination of both. Overcoming an adverse situation, starting projects or activities that matter to you, gaps in your resume, explanations of your academic performance, or providing context for your selection of recommenders are all examples of topics you may choose to discuss. Please limit text to no **more than 300 words.**
-- [ ] Experiences and Helping CMU’s Community
+- [x] Experiences and Helping CMU’s Community ✅ 2025-12-15
 	- The College of Engineering at CMU values excellence, innovation, being genuine,respect for others, integrity, trusting, and being trustworthy. Within the context of your experiences, how would you contribute to these values within our community?
