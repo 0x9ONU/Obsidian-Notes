@@ -10,7 +10,7 @@ My journey into the realm of computing was not through any course or after-schoo
 
 # Educational Purpose and Background
 
-Over my time in my undergraduate studies, my research pivoted on multiple domains. Across four projects, I integrated concepts from multiple disciplines to advance both the academic space and real-world applications. In my first project, I sought out how to detect malicious network traffic on a network by leveraging lightweight supervised machine learning classifiers as an intrusion detection system. In the second project, I focused on the improvement of both sensor technology and analog-to-digital conversion (ADC) electronics using logarithmic techniques. In the third project, I helped design an interactive STEM learning device for kindergarten and sixth grade (K-6) students to help them teach the fundamentals of mathematics. In my final project of undergrad, I developed various combinatorial malicious attacks for testing against energy-harvesting wireless sensor networks to generate a lightweight intrusion detection system using statistics. For this particular project, it was conceived with the hopes of protecting renewable energy solutions to improve their viability and their prevalence in the energy grid. All of these different projects have provided me with many skills in writing conference papers and journal articles, delivering both posters and presentations, and working with advisors and other students in research. For my top research areas of interest, I have selected communication systems, security, and hardware systems as it mirrors my undergraduate research at Ohio Northern University. 
+Over my time in my undergraduate studies, my research pivoted on multiple domains. Across four projects, I integrated concepts from multiple disciplines to advance both the academic space and real-world applications. In my first project, I sought out how to detect malicious network traffic on a network by leveraging lightweight supervised machine learning classifiers as an intrusion detection system. In the second project, I focused on the improvement of both sensor technology and analog-to-digital conversion (ADC) electronics using logarithmic techniques. In the third project, I helped design an interactive STEM learning device for kindergarten and sixth grade (K-6) students to help them teach the fundamentals of mathematics. In my final project of undergrad, I developed various combinatorial malicious attacks for testing against energy-harvesting wireless sensor networks to generate a lightweight intrusion detection system using statistics. For this particular project, it was conceived with the hopes of protecting renewable energy solutions to improve their viability and their prevalence in the energy grid. All of these different projects have provided me with many skills in writing conference papers and journal articles, delivering both posters and presentations, and working with advisors and other students in research. For my top research areas of interest, I have selected the circuits and computer engineering as it mirrors my undergraduate research at Ohio Northern University. 
 
 - *UP*: Why will you succeed in the program?
 # Leadership and Contributing to the Student Community
@@ -23,6 +23,8 @@ My experience with leadership arose from *Theta Chi Fraternity*. During my time 
 
 - *UP*: How do you plan to contribute to the student community in Penn Engineering while you are here?
 # Why I Chose University of Pennsylvania
+
+
 
 - *UP*: Why are you interested in this program?
 
