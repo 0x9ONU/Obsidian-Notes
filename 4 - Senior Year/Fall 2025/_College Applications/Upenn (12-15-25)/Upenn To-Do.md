@@ -1,4 +1,4 @@
-- [ ] Personal Statement
+- [x] Personal Statement ✅ 2025-12-14
 	- In two pages or less, write an essay that answers the questions below.
 		- Why are you interested in this program?
 		- What have you done that makes you a great candidate?
