@@ -30,7 +30,6 @@ Try to reduce
 
 Out of all the other potential colleges and programs, Carnegie Mellon University and its **WiTech Lab** was a beacon among the rest. Unlike many other research labs, **Dr. Swarun Kumar** and his Ph.D. students focus on designing and implementing novel wireless technologies instead of polishing existing solutions such as IEEE 802.11. I can contribute my knowledge in wireless systems and cybersecurity to provide new security protocols for the other members on the team. **Professor Yuvraj Agarwal** and **Synergy Labs** also generates a lot of interest due to its hardware and software intersection of Internet of Things (IoT) security and privacy. According to their website, they are calling for a Ph.D. student and have multiple projects available for the Fall 2026 season. I would be interested in getting more information about this opening. Drs. **Vyas Sekar**,  **Osman Yagan**, and **Anthony Rowe** at **Cylab** also work closely with my research areas and would be excellent choices. 
 
-
 ```ad-note
 Try to reduce
 ```

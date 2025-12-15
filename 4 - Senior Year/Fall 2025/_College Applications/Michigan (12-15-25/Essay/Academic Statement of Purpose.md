@@ -8,6 +8,14 @@ title: Information
 
 My journey into the realm of computing was not through any course or after-school program, but was through my own discovery. Around middle school, I owned both retro and newer video game systems such as the Nintendo 3DS as well as an iPhone 6. Wanting more out of my systems, I stumbled upon the world of jail-breaking through the Internet and never looked back. Before you know it, I was awakened to the fascinating world of both hardware and software security and how these beautiful exploits can open up electronics and use them to their greatest potential. I was inspired by the developers of these hacking tools to one day discover my own exploit. Four years later, I was introduced to my high school’s course for robotics and programming; it was history from there. My name is **Ethan Berei**, and I am a Ph.D. candidate with their undergraduate studies in Computer Engineering specializing in wireless networks, cybersecurity, and energy-harvesting. I write to you with the hopes of admission into the prestigious University of Michigan campus for Electrical and Computer Engineering.
 
+
+```ad-note
+- Mention 3 first author publications
+- Mention started out freshman year with minimal supervision
+- Specifically call out IEEE CCNC
+```
+
+
 # Academic and Research Background
 
 My research pivoted on multiple domains, which integrated concepts from machine learning, cybersecurity, electronics design, and education to advance both the academic space and real-world applications. 
@@ -38,7 +46,9 @@ When making this product, the team had to stick to a strict maximum per device c
 In my final project of undergrad, I developed various combinatorial malicious attacks for testing against energy-harvesting wireless sensor networks to generate a lightweight intrusion detection system using statistics. For this particular project, it was conceived with the hopes of protecting renewable energy solutions to improve their viability and their prevalence in the energy grid. This project is still a work-in-progress at the time of writing, but I plan on submitting to both IEEE SatC 2026 and IEEE MWSCAS 2026 conferences for my preliminary results. Then, over next semester, I plan on working closely with my advisor and to publish a journal article. It will wrap up all of the previous work and introduces the intrusion detection system using the statistical models to flag malicious traffic in the wireless network. The hope is to finalize that journal so that I can use it as a basis for my work throughout graduate school and beyond.
 # University of Michigan and My Career Goals
 
-
+```ad-warning
+Put faculty and their research here
+```
 
 Following my work as an undergraduate, I want to continue my studies into into cybersecurity for networks. With spending on cybersecurity globally skyrocketing to a $150 billion a year, I want to make all Internet of Things devices the most secure they possibly can be. Furthermore, I want to educate the public about renewable energy sources so our next generation can live in a habitable world without sacrifices. I want to one day be a leading voice in the fight for renewable energy in both academia and the industry. Afterwards, I would love to become a professor and teach the next generation of engineers and encourage them in their own undergraduate research experiences. All three of my primary research advisors have shown what it truly means to be a professor and mentor. It inspires me to walk in their footsteps in both the research and academia.
 
