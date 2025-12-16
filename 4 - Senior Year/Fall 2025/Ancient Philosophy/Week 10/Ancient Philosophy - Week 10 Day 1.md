@@ -148,7 +148,6 @@ A primary substance is a this (*Tode ti*); and a secondary substance is “a sor
 
 ### Aristotle; Pre-Socratics; and Plato
 
-
 | Aristotle                                                                               | Pre-Socratics                                                                                                                                          | Plato                                                                                                                                       |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Opposites depends their existance on Primary Substances (which are ontologically prior) | Did not draw any categorical distinction about the Hot and Cold; the Wet and the Dry; that is, they speak of them as if they could exist on their own. | Opposites (Forms) are Onto-logically prior Beings that exists transcendentally. Physical things are in a state of flux (they are Becomings) |
