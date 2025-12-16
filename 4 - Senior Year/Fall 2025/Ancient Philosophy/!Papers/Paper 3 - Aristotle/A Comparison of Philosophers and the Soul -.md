@@ -1,7 +1,7 @@
 ```ad-summary
 title: Author Information
 **Name**: Ethan Berei
-**Date**: November 10
+**Date**: December 16th
 ```
 
 ## Abstract
@@ -25,8 +25,8 @@ Furthermore, Aristotle will provide the the three primary powers of the soul: nu
 
 ```mermaid
 flowchart LR
-A(The Power of Nutrition)--Contains-->B(The Appetitive Power)--Contains-->C(The Power of Thinking)
-C--Presupposes-->B--Presupposes-->A
+A(The Power of Nutrition)--Presupposes-->B(The Appetitive Power)--Presupposes-->C(The Power of Thinking)
+C--Contains-->B--Contains-->A
 ```
 <center>Fig 1. The Hierarchy of the Soul’s Powers </center>
 
@@ -37,20 +37,23 @@ In the third book of *On The Soul*, Aristotle defines his interpretation of inte
 ![[Ancient Philosophy - Week 12 2025-11-11 10.11.57.excalidraw | center]]
 <center>Fig 2. The Connection Between Sensing, Imagination, and Thinking </center>
 
-Finally, it is important to distinguish the different types of thinking that Aristotle defines. There exists three variations of thinking. The first form of thinking, called potentiality #1, is the level of intellect that humans are born with. Here, the forms are not yet gathered, which means they cannot be used. In the second form, called potentiality #2 OR actuality #1, is when the forms have been gathered through living and sensing objects, but the soul is yet to properly exercise them. Here, the soul is not thinking, but is able to think if it tries to. The final form, called actuality #2, is when the mind both contains the forms and uses them to contemplate the forms. Only in actuality #2 is the mind being used properly and a person becomes an actual thinker (On The Soul 3 429b6-9).
+Finally, it is important to distinguish the different types of thinking that Aristotle defines. There exists three variations of thinking. The first form of thinking, called potentiality #1, is the level of intellect that humans are born with. Here, the forms are not yet gathered, which means they cannot be used. In the second form, called potentiality #2 OR actuality #1, is when the forms have been gathered through living and sensing objects, but the soul is yet to properly exercise them. Here, the soul is not thinking, but is able to think if it tries to. The final form, called actuality #2, is when the mind both contains the forms and uses them to contemplate the forms. Only in actuality #2 is the mind being used properly and a person becomes an actual thinker (On The Soul 3 429b6-9). 
 ## Analysis
 ### Objection
 
-- Plato’s POV
-- His three parts of the soul
-- Analogy to the parts
-- Similarities
-	- Intrinsic and instrumental
-- How Plato would object
+With Aristotle’s definition of the soul and it’s various parts, he provides a convincing argument for how the soul might exist and how humans can properly grasp knowledge through the forms. However, potential objections to his logic exist even from philosophers that came before him. Plato, who was Aristotle’s mentor and teacher at the Academy, opposes the way that Aristotle defines the soul. In the objection, Plato’s definition of the soul and its properties will be briefly described and how Plato will expose it using a metaphorical example.
+
+According to *Phaedo*, his version of the Forms can exclude each other with each thing only being able to partake in one Form at a time. Following this logic, he argues that a soul’s defining function is to give life to a body. Since an object cannot partake in the opposite Form at the same time, Plato concludes that the soul, as the bringer of life, can never succumb to death. Since something that can never die is indestructible, the soul does not perish as it retreats or goes away when its host body perishes. His argument shows that soul is an immortal substance that is able to be separated from the body. He further believes, according to *Meno*, that each soul has the ability to recollect (*Anamenesis*) since every human soul has the knowledge of everything due to its immortality.
+
+Plato, in his fourth book of *Republic*, presents a theory of the soul that opposes Aristotle’s core tenets. Instead of having powers, Plato clearly identifies three main parts of the soul: the rational, spirited, and appetitive (436a-442a). These three parts of the soul generate internal strife as all three parts are in constant conflict with each other. For the healthiest soul, the rational part, with help of the spirited part, rules over the appetitive part to create harmony with moderation in the soul (441e-442b).
+
+As an example, lets delve into the relationship between a piano craftsman and the piano he creates. The craftsman, preexisting the piano, understands the knowledge, skill, and design of a piano independently of seeing a piano. He creates a piano using the various tools and materials around him. Afterwards, he can express his musical skill through the instrument, which gives it life much like that of a soul. If a piano is left to the wayside and must be destroyed, the piano maker can either build or play another piano. He exists separately and before any instrument he chooses to make or play.
+
+Plato would believe that defining a soul as dependent on the body and perishable, like Aristotle, is a fundamental error.  Aristotle fails to account for how humans can recollect knowledge, collectively understand moral responsibility, and capacity to learn about eternal truths. Much like a craftsman of instruments, a human needs a soul to preexist in order to know how to be “played” such that it can be given life. 
 
 ### Response
 
-
+As the counter example, 
 
 ### Defense
 
