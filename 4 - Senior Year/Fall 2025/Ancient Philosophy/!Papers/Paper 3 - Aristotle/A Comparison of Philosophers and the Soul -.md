@@ -49,11 +49,14 @@ Plato, in his fourth book of *Republic*, presents a theory of the soul that oppo
 
 As an example, lets delve into the relationship between a piano craftsman and the piano he creates. The craftsman, preexisting the piano, understands the knowledge, skill, and design of a piano independently of seeing a piano. He creates a piano using the various tools and materials around him. Afterwards, he can express his musical skill through the instrument, which gives it life much like that of a soul. If a piano is left to the wayside and must be destroyed, the piano maker can either build or play another piano. He exists separately and before any instrument he chooses to make or play.
 
-Plato would believe that defining a soul as dependent on the body and perishable, like Aristotle, is a fundamental error.  Aristotle fails to account for how humans can recollect knowledge, collectively understand moral responsibility, and capacity to learn about eternal truths. Much like a craftsman of instruments, a human needs a soul to preexist in order to know how to be “played” such that it can be given life. 
+Plato would believe that defining a soul as dependent on the body and perishable, like Aristotle, is a fundamental error.  Aristotle fails to account for how humans can recollect knowledge. Much like a craftsman of instruments, a human needs a soul to preexist in order to know how to be “played” such that it can be given life. 
 
 ### Response
 
-As the counter example, 
+Aristotle would argue that his definition of the soul is still accurate and that he can correctly explain the knowledge gap that Plato brings up. 
+
+As the counter example, lets go back to the example regarding the pianos. From Aristotle’s perspective, he would make it evident that the soul is not the craftsman, but is rather the playability of a specific piano. The precise materials, string pressures, defects, and hallow body all give it the ability to produce music. The musicality of the piano does not exist before the piano is created, and it cannot survive a destructive blow. If the piano is smashed, it cannot be played. It was the actualization of the piano’s potential, and is therefore dependent on the existence of a piano in the first place.
+
 
 ### Defense
 
