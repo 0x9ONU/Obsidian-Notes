@@ -72,12 +72,13 @@ Different powers of the souls:
 **Hierarchy of Powers**
 ```mermaid
 flowchart LR
-A(The Power of Nutrition)-->B(The Appetitive Power)-->C(The Power of Thinking)
+A(The Power of Nutrition)--Contains-->B(The Appetitive Power)--Contains-->C(The Power of Thinking)
+C--Presupposes-->B--Presupposes-->A
 ```
 
 The power of nutrition can exist without the other two; but the other powers presuppose it.
 - He likens their relationship to a figure (414b29-415a3)
-- Just as a triangle exists potentially in the quadrilateral, the power of nutrition exists potentially in the power of nutrition
+- Just as a triangle exists potentially in the quadrilateral, the power of nutrition exists potentially in the power of appetite
 
 ![[Ancient Philosophy - Week 12 2025-11-11 09.54.06.excalidraw | center]]
 
