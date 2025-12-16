@@ -45,20 +45,20 @@ With Aristotle’s definition of the soul and it’s various parts, he provides 
 
 According to *Phaedo*, his version of the Forms can exclude each other with each thing only being able to partake in one Form at a time. Following this logic, he argues that a soul’s defining function is to give life to a body. Since an object cannot partake in the opposite Form at the same time, Plato concludes that the soul, as the bringer of life, can never succumb to death. Since something that can never die is indestructible, the soul does not perish as it retreats or goes away when its host body perishes. His argument shows that soul is an immortal substance that is able to be separated from the body. He further believes, according to *Meno*, that each soul has the ability to recollect (*Anamenesis*) since every human soul has the knowledge of everything due to its immortality.
 
-Plato, in his fourth book of *Republic*, presents a theory of the soul that opposes Aristotle’s core tenets. Instead of having powers, Plato clearly identifies three main parts of the soul: the rational, spirited, and appetitive (436a-442a). These three parts of the soul generate internal strife as all three parts are in constant conflict with each other. For the healthiest soul, the rational part, with help of the spirited part, rules over the appetitive part to create harmony with moderation in the soul (441e-442b).
-
 As an example, lets delve into the relationship between a piano craftsman and the piano he creates. The craftsman, preexisting the piano, understands the knowledge, skill, and design of a piano independently of seeing a piano. He creates a piano using the various tools and materials around him. Afterwards, he can express his musical skill through the instrument, which gives it life much like that of a soul. If a piano is left to the wayside and must be destroyed, the piano maker can either build or play another piano. He exists separately and before any instrument he chooses to make or play.
 
 Plato would believe that defining a soul as dependent on the body and perishable, like Aristotle, is a fundamental error.  Aristotle fails to account for how humans can recollect knowledge. Much like a craftsman of instruments, a human needs a soul to preexist in order to know how to be “played” such that it can be given life. 
 
 ### Response
 
-Aristotle would argue that his definition of the soul is still accurate and that he can correctly explain the knowledge gap that Plato brings up. 
+Aristotle would argue that his definition of the soul is still accurate and that he can correctly explain the knowledge gap that Plato brings up. To explain recollection and a lack of pre-existence, Aristotle would argue that a young human can gain the same forms that he is lacking with potentiality developed through experience and sensing the world around them. A child develops concepts by repeatedly perceiving smaller things to move from a potentiality state into the first actuality state. From there, the person can use their mind (*nous*) to abstract the forms from their imagination. The potentiality of the forms is actualized through life experience as a child develops into an adult.
 
 As the counter example, lets go back to the example regarding the pianos. From Aristotle’s perspective, he would make it evident that the soul is not the craftsman, but is rather the playability of a specific piano. The precise materials, string pressures, defects, and hallow body all give it the ability to produce music. The musicality of the piano does not exist before the piano is created, and it cannot survive a destructive blow. If the piano is smashed, it cannot be played. It was the actualization of the piano’s potential, and is therefore dependent on the existence of a piano in the first place.
 
+Aristotle believes that not having a soul that contains everything at birth is not a flaw, but is a fundamental aspect of being human. The human body is not a vessel that is filled by the soul, but rather a faculty that is filled through living. Not only would he believe that Plato’s argument for recollection through the 
 
 ### Defense
+
 
 
 
