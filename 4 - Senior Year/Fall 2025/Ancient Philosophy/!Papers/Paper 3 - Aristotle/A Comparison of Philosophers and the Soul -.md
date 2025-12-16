@@ -55,12 +55,11 @@ Aristotle would argue that his definition of the soul is still accurate and that
 
 As the counter example, lets go back to the example regarding the pianos. From Aristotle’s perspective, he would make it evident that the soul is not the craftsman, but is rather the playability of a specific piano. The precise materials, string pressures, defects, and hallow body all give it the ability to produce music. The musicality of the piano does not exist before the piano is created, and it cannot survive a destructive blow. If the piano is smashed, it cannot be played. It was the actualization of the piano’s potential, and is therefore dependent on the existence of a piano in the first place.
 
-Aristotle believes that not having a soul that contains everything at birth is not a flaw, but is a fundamental aspect of being human. The human body is not a vessel that is filled by the soul, but rather a faculty that is filled through living. Not only would he believe that Plato’s argument for recollection through the 
+Aristotle believes that not having a soul that contains everything at birth is not a flaw, but is a fundamental aspect of being human. The human body is not a vessel that is filled by the soul, but rather a faculty that is filled through living. Aristotle would argue that Plato’s theory of transcending souls likens humans to gods and would remove a key component of human life: the process of actualizing our rational potential. For Aristotle, our dignity lies in the journey from ignorance to wisdom, from potential to actual virtue.
 
 ### Defense
 
-
-
+Ultimately, Aristotle’s definition of the soul proves more robust as it grounds the human soul’s existence in nature rather than mythos. Even though it initially seemed that Plato’s argument for the 
 
 
 
