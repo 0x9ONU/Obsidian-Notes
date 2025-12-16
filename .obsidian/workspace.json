@@ -8,52 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b352390b430e346f",
+            "id": "63942c8a04a24b96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/Essay/Academic Statement of Purpose.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Academic Statement of Purpose"
-            }
-          },
-          {
-            "id": "dbd0cecf5703b4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/Essay/Personal Statement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Personal Statement"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "77d9e576feaa8053",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6f1fa1ffb904339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/University of Michigan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "University of Michigan"
+              "title": "New tab"
             }
           }
         ]
@@ -283,7 +244,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dbd0cecf5703b4e1",
+  "active": "63942c8a04a24b96",
   "lastOpenFiles": [
     "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/Essay/Academic Statement of Purpose.md",
     "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/Essay/Personal Statement.md",

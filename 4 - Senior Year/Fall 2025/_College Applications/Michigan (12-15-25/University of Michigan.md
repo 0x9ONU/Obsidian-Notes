@@ -1,12 +1,12 @@
 - [x] FAFSA Summary Page in Additional Documents ✅ 2025-12-13
-- [ ] Explain Financial Hardship
-- [ ] Academic Statement
+- [x] Explain Financial Hardship ✅ 2025-12-15
+- [x] Academic Statement ✅ 2025-12-15
 	- The Academic Statement of Purpose should be a concise, well-written statement about your academic and research background, your career goals, and how Michigan's graduate program will help you meet your career and educational objectives.
 	- The following information is required on the header of your statement.
 		- Write "Academic Statement of Purpose" at the top of your document
 		- Your name
 		- The name of the graduate program
-- [ ] Personal Statement
+- [x] Personal Statement ✅ 2025-12-15
 	- How have your background and life experiences, including cultural, geographical, financial, educational, or other opportunities or challenges, motivated your decision to pursue a graduate degree at the University of Michigan?
 	- For example, if you grew up in a community where educational, cultural, or other opportunities were either especially plentiful or especially lacking, you might discuss the impact this had on your development and interests. This should be a discussion of the journey that has led to your decision to seek a graduate degree.
 	- The following information is required on the header of your statement.
