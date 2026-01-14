@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63942c8a04a24b96",
+            "id": "c038a433e60b8402",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12 Day 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Environmental Issues - Week 12 Day 1"
+              "title": "New tab"
             }
           }
         ]
@@ -249,10 +245,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "63942c8a04a24b96",
+  "active": "c038a433e60b8402",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12 Day 2.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12 Day 1.md",
+    "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12 Day 2.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 11/Environmental Issues - Week 11.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 14/Environmental Issues - Week 14.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 3 - Aristotle/A Comparison of Philosophers and the Soul - A Comparison of Nature Versus Nuture.md",
