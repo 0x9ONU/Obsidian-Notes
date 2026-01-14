@@ -1,6 +1,6 @@
 - [ ] Provide a justification for the above amount requested as if this scholarship were not expected (250 words)
 - [ ] Describe your experience serving in the role(s) you chose above (500 words)
-- [ ] Gather Campus Activites
+- [ ] Gather Campus Activities
 - [ ] Gather Community Involvement
 - [ ] Gather Honors and Awards
 - [ ] Gather Work Experience
@@ -10,4 +10,3 @@
 	- [ ] Consider a particular skill or quality you have developed through your experiences in Theta Chi, on campus, or in the community. How do you plan to apply this skill in your future endeavors, including any further education or career goals? (500 words)
 - [ ] Upload Official Transcript
 - [ ] Upload Enrollment Verification
-- [ ] 
