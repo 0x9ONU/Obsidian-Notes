@@ -1,0 +1,13 @@
+- [ ] Provide a justification for the above amount requested as if this scholarship were not expected (250 words)
+- [ ] Describe your experience serving in the role(s) you chose above (500 words)
+- [ ] Gather Campus Activites
+- [ ] Gather Community Involvement
+- [ ] Gather Honors and Awards
+- [ ] Gather Work Experience
+- [ ] Personal Statements
+	- [ ] Reflect on a specific instance where you demonstrated leadership or initiative. How did this experience shape your involvement in Theta Chi, on campus, or in the community? (500 words)
+	- [ ] Discuss a moment or project where you made a meaningful impact on a group or organization. How did this experience contribute to your personal and professional development? (500 words)
+	- [ ] Consider a particular skill or quality you have developed through your experiences in Theta Chi, on campus, or in the community. How do you plan to apply this skill in your future endeavors, including any further education or career goals? (500 words)
+- [ ] Upload Official Transcript
+- [ ] Upload Enrollment Verification
+- [ ] 
