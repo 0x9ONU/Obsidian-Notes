@@ -14,9 +14,7 @@ collapse: open
 - Review the course Canvas page
 ```
 
-# Making the Definitions Explicit
+# Why Study Sexuality and Gender?
 
-**Gender**: 
 
-**Sexuality**:
 
