@@ -25,12 +25,14 @@
             "id": "806ba65f790de690",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Theta Chi Scholarship To-Do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Theta Chi Scholarship To-Do"
             }
           }
         ],
