@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c038a433e60b8402",
+            "id": "7fd6bfae8e9f41d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Essay/University of Pennsylvania Personal Statement.md",
+                "file": "4 - Senior Year/Spring 2026/Material Science/Mat Sci - Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "University of Pennsylvania Personal Statement"
-            }
-          },
-          {
-            "id": "78034185118d3e70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/University of Cincinnati Personal Statement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "University of Cincinnati Personal Statement"
+              "title": "Mat Sci - Lecture 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -265,10 +249,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78034185118d3e70",
+  "active": "7fd6bfae8e9f41d0",
   "lastOpenFiles": [
-    "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Essay/University of Pennsylvania Personal Statement.md",
+    "Templates/Mat Sci Template.md",
+    "4 - Senior Year/Spring 2026/Material Science/Mat Sci - Lecture 1.md",
+    "4 - Senior Year/Spring 2026/Ethical Hacking",
+    "4 - Senior Year/Spring 2026/Gender/Untitled",
+    "4 - Senior Year/Spring 2026/Wireless Sensors",
+    "4 - Senior Year/Spring 2026/Gender",
+    "4 - Senior Year/Spring 2026/Material Science",
+    "4 - Senior Year/Spring 2026",
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/University of Cincinnati Personal Statement.md",
+    "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Essay/University of Pennsylvania Personal Statement.md",
     "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Essay/University of Penn Exploring Community.md",
     "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/Essay/Academic Statement of Purpose.md",
     "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays/Carnegie Mellon University Statement of Purpose.md",
@@ -293,15 +285,8 @@
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 3.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 2.md",
     "2 - Sophomore Year/Fall 2023/Circuits/Week 9/Circuits Week 9 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 8/Circuits Week 8 - Day 1.md",
-    "2 - Sophomore Year/Fall 2023/Circuits/Week 7/Circuits Week 7 - Day 2.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/Essay",
-    "4 - Senior Year/Fall 2025/_College Applications/_Resources",
-    "4 - Senior Year/Fall 2025/_College Applications/Upenn (12-15-25)/Essay",
-    "4 - Senior Year/Fall 2025/_College Applications/Carnegie (12-15-25)/Essays",
     "General Notes/Pasted image 20251212104149.png",
     "General Notes/Pasted image 20251212103115.png",
     "General Notes/Pasted image 20251212102159.png",
@@ -309,7 +294,6 @@
     "General Notes/Pasted image 20251212101117.png",
     "General Notes/Pasted image 20251212100805.png",
     "General Notes/Pasted image 20251210104238.png",
-    "4 - Senior Year/Fall 2025/Environmental/Week 14",
     "General Notes/Pasted image 20250605055649.png",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "General Notes/Pasted image 20251205102816.png",
