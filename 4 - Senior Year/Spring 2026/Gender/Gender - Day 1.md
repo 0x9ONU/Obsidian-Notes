@@ -7,10 +7,12 @@ File Folder: Gender
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
-
+- Get to know our classmates
+- Discuss tacit knowledge of sexuality and gender
+- Discuss why the study of sex and gender might matter
+- Review key points on the syllabus
+- Review the course Canvas page
 ```
+
 
 
