@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Theta Chi Scholarship To-Do"
             }
+          },
+          {
+            "id": "6d9e9cf4de3dc497",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,8 +274,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "806ba65f790de690",
+  "active": "6d9e9cf4de3dc497",
   "lastOpenFiles": [
+    "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Theta Chi Scholarship To-Do.md",
     "4 - Senior Year/Spring 2026/Gender/Lectures",
     "4 - Senior Year/Spring 2026/Gender/Journal 2",
     "4 - Senior Year/Spring 2026/Gender/Journal 1",
@@ -299,9 +310,7 @@
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/Academic Statement of Purpose.md",
     "4 - Senior Year/Fall 2025/_College Applications/Michigan (12-15-25/Essay/Personal Statement.md",
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Cincinatti To-Do List.md",
-    "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay",
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Untitled.md",
-    "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Theta Chi Scholarship To-Do.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12 Day 1.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 12/Environmental Issues - Week 12 Day 2.md",
     "4 - Senior Year/Fall 2025/Environmental/Week 11/Environmental Issues - Week 11.md",

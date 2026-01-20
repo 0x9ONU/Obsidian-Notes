@@ -6,7 +6,7 @@
 - [ ] Gather Work Experience
 - [ ] Personal Statements
 	- [ ] Reflect on a specific instance where you demonstrated leadership or initiative. How did this experience shape your involvement in Theta Chi, on campus, or in the community? (500 words)
-	- [ ] Discuss a moment or project where you made a meaningful impact on a group or organization. How did this experience contribute to your personal and professional development? (500 words)
+	- [ ] Discuss a moment or project where you made a meaningful impact on a group or organization. How did this experience contribute to your personal and professi`onal development? (500 words)
 	- [ ] Consider a particular skill or quality you have developed through your experiences in Theta Chi, on campus, or in the community. How do you plan to apply this skill in your future endeavors, including any further education or career goals? (500 words)
 - [x] Upload Official Transcript ✅ 2026-01-20
 - [x] Upload Enrollment Verification ✅ 2026-01-20
