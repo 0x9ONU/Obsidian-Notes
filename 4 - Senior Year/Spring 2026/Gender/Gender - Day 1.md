@@ -14,5 +14,9 @@ collapse: open
 - Review the course Canvas page
 ```
 
+# Making the Definitions Explicit
 
+**Gender**: 
+
+**Sexuality**:
 
