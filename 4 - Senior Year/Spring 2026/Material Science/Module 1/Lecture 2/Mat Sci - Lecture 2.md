@@ -82,7 +82,7 @@ $R$ is the radius of an atom
 
 There is 14 types of unit cells, but they are not as prevalent as the big three
 
-### Face-Centered Cubic (FCC)
+#### Face-Centered Cubic (FCC)
 
 - Atom centerd on each face
 - Atoms touch each other
@@ -102,7 +102,7 @@ $$
 $$
 APF \approxeq 0.74
 $$
-### Body Centered Cubic Structure (BCC)
+#### Body Centered Cubic Structure (BCC)
 
 - Body of Atom is centered in the cube itself
 - Atoms touch each other along cube diagonals
@@ -123,7 +123,7 @@ $$
 - Ferrite
 ```
 
-### Hexagonal Close-Packed Structure (HCP)
+#### Hexagonal Close-Packed Structure (HCP)
 
 
 
@@ -142,7 +142,7 @@ $$
 - Zn
 ```
 
-## Metal Theoretical Density, $\rho$
+### Metal Theoretical Density, $\rho$
 
 $$\text{Density} = \rho = \frac{\text{Mass of Atoms in Unit Cell}}{\text{Total Volume of Unit Cell}}$$
 $$
@@ -153,4 +153,54 @@ where:
 - $A$ = atomic weight
 - $V_C$ = Volume of unit cell = $a^3$ for cubic
 - $N_A$ = Avogadro’s Number = $6.022\times 10^{23}$ atoms/mol
+
+## Ceramic Crystal Structure
+
+### Determining Crystal Structure Factors
+
+1. **Relative Size of Ions**: Formation of stable structures:
+	- Maximize the # of oppositively charged ion neighbors
+
+2. **Maintenance of Charge Neutrality**: 
+	- Net charge in ceramic should be **zero**
+	- Reflected in the chemical formula
+
+$$A_{m}X_{p}$$![[Pasted image 20260122130457.png]]
+
+### Coordination # and Ionic Radii
+
+$$\frac{r_{cation}}{r_{anion}}$$
+
+![[Pasted image 20260122130612.png]]
+
+## Polymorphic Forms of Carbon
+
+### Most Famous Example: Diamond
+
+Tetrahedral bonding of carbon
+- Hardest material known
+- Very high thermal conductivity
+
+*Use Cases*:
+- Large single crystals - gem stones
+- Small crystal - used to grind/cut other matierals
+- Diamond thin films:
+	- Hard surface coatings
+	- Used for cutting tools, medical devices, etc.
+
+![[Pasted image 20260122130759.png]]
+
+### Graphite
+
+A non-toxic mineral
+- Aka. Pencil lead
+- Layered structure - parallel hexagonal arrays of carbon atoms
+- Weak van der Waal’s forces between layers
+- Planes slides easily over one another, makes a good lubricant
+
+![[Pasted image 20260122131302.png]]
+
+### Fullerenes and Nanotubes
+
+![[Pasted image 20260122131317.png]]
 
