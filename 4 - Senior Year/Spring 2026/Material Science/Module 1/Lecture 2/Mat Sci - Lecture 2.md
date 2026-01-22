@@ -102,3 +102,24 @@ $$
 $$
 APF \approxeq 0.74
 $$
+### Body Centered Cubic Structure (BCC)
+
+- Body of Atom is centered in the cube itself
+- Atoms touch each other along cube diagonals
+
+![[Pasted image 20260122123846.png]]
+
+**Coordination #**: 8
+
+**Atoms/Unit Cell**: 2
+
+$$
+1 \text{ cetner}+ 8 \text{ corners} \times \frac{1}{8}=2
+$$
+
+```ad-example
+- Chromium
+- Tungsten
+- Ferrite
+```
+
