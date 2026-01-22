@@ -13,4 +13,9 @@ collapse: open
 
 ```
 
+# Discussion Leader
 
+-  Signed up during the first week of the semester
+- During that day, a short overview of the day’s readings will be read out and will help facilitate discussion among the class through the use of questions, prompts, or activities
+- Around half of the class time will be used to present it
+- 
