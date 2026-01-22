@@ -123,3 +123,34 @@ $$
 - Ferrite
 ```
 
+### Hexagonal Close-Packed Structure (HCP)
+
+
+
+**Coordination #** = 12
+
+**Atoms/Unit Cell** = 6
+
+**APF** = 0.74
+
+**$c/a$** = 1.633
+
+```ad-example
+- Cadmium
+- Mg
+- Ti
+- Zn
+```
+
+## Metal Theoretical Density, $\rho$
+
+$$\text{Density} = \rho = \frac{\text{Mass of Atoms in Unit Cell}}{\text{Total Volume of Unit Cell}}$$
+$$
+\rho = \frac{nA}{V_{C}N_{A}}
+$$
+where:
+- $n$ = number of atoms/unit cell
+- $A$ = atomic weight
+- $V_C$ = Volume of unit cell = $a^3$ for cubic
+- $N_A$ = Avogadro’s Number = $6.022\times 10^{23}$ atoms/mol
+
