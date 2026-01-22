@@ -14,3 +14,7 @@ collapse: open
 ```
 
 
+# Syllabus
+
+![[Syllabus, PenTest S2026.pdf]]
+
