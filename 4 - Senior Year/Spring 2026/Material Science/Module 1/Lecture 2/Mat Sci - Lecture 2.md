@@ -92,4 +92,13 @@ There is 14 types of unit cells, but they are not as prevalent as the big three
 **Atoms/unit**: 4
 
 $$6 \text{ face} \times \frac{1}{2} + 8 \text{ corners} \times \frac{1}{8}$$
+**Close-Packed Directions:** $a = 2\sqrt{2 }R$
 
+**APF**:
+
+$$
+APF = \frac{4 (\frac{4}{3} \pi R^3)}{a^3}
+$$
+$$
+APF \approxeq 0.74
+$$
