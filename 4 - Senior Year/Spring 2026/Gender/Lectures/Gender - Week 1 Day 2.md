@@ -21,4 +21,24 @@ collapse: open
 
 # Unit 1: Chapter 1 Critical Introduction to the Field
 
+**Bechtel Test**: a measure used to evaluate the representation of women in fiction, particularly in films and television
+- Roughly 57-60% of the movies listed pass all three criteria.
+
+*Examples*:
+- Quiet Place Day One → NO
+- Godzilla x Kong: New Empire → YES!
+- Furiosa: A Mad Max Saga → YES!
+- Cocaine Bear → YES!
+
+*Yearly Trends*:
+- More recent films tend to perform slightly better
+- Reflects growth of gender awareness and representation
+- Still a lot of media fails
+
+*Genre Differences*: Some genres are more likely to pass than others:
+- Pass: Rom coms and dramas
+- Fail: Action films, science fiction, and big-budget blockbusters
+
+**Reverse Bechdel Test**: Selects movies written by women and for women as evidence of “reverse sexism”
+- BOOOOO these guys stink
 
