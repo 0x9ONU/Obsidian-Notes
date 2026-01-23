@@ -7,10 +7,6 @@ File Folder: Wireless Sensors
 title: Today's Topics
 collapse: open
 
-- Topic1
-- Topic2
-- Topic3
+- Introduction
 
 ```
-
-
