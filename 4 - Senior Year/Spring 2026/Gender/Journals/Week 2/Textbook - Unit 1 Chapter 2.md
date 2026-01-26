@@ -5,4 +5,9 @@ File Folder: Week 2
 
 # Theorizing Lived Experiences
 
+```ad-summary
+title: Definition
+**Socially-lived Thoerizing**: Creating feminist theories and knowledge from the actual day-to-day experiences of groups of people who have raditionally been excluded from the production of academic knowledge.
+```
+
 
