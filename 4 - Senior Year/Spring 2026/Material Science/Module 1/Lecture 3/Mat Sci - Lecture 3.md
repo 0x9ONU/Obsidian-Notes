@@ -60,10 +60,37 @@ Dislocations allow crystals to deform rather than fracture
 - This makes the shaping of metals practical
 - Heat treatment or cold working can strengthen a material to prevent further dislocation motion (processing)
 
+### Interfacial Defects
+
+**Solidification**: Results of casting of a molten material
+- Nuclei form
+- Nuclei grow to form crystals - creating a grain structure
+
+*Grain Boundary*: crystals grow until they meet each other
+- Low density in grain boundaires
+- High mobility and high chemical reactivity
+- Block dislocation motion
+- Inperfections
+- more susceptible to etching
+- may be revealed as dark lines
+- Change in crystal orienation across the boundary
+
+$$
+N = 2^{n-1}
+$$
+
+![[Pasted image 20260127174330.png]]
+
+#### Microscopic Examination
+
+- Crystallizes and grain boundaries can vary considerably in size and can be quite large.
+- Grains can also be quite small, which needs a microscope.
 
 
+**Optical Microscopy**
+- Useful up to 2000x magnification
+- Polishing removes surface features
+- Etching is a chemical process used to reveal microstructures
+	- Changes reflectance, depending on crystal orientation.
 
-
-
-
-
+![[Pasted image 20260127175121.png]]
