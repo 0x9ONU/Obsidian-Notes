@@ -34,4 +34,3 @@ The additive model does not take into account of how shared cultural ideas of ge
 
 **Assemblage**: considers the categories of events, actions, and encounters between bodies rather than attributes
 - Empathizes how relations, patterns, and connections between concepts give concepts their meaning.
-- 
