@@ -15,7 +15,7 @@ A mode of analysis integral to woemn, gneder, sexuality studies. Identities are 
 - Forgets to account of how various cultural contexts shape the identities of the people in the area.
 - ex. women across the world share similar experiences, but they are not always the same as it lacks to consider other identities
 
-**Additive Model of Identity**: adds together privleged and disadvantaged identities
+**Additive Model of Identity**: adds together privileged and disadvantaged identities
 - Creates a slightly more complex picture
 - ex. a Black man may experience some advantages being a male, but have the limitations provided by his race.
 - Exemplified with race and gender wage gaps.
