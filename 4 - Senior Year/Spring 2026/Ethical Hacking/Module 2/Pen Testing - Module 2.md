@@ -13,4 +13,6 @@ File Folder: Module 2
 2. Describe the role of each virtual machine plays in a penetration testing lab
 3. Describe how to set up a virtual machine
 
+# Lab Setup with Bridge/Router
 
+![[Pen Testing - Module 2 2026-01-29 09.13.42.excalidraw]]
