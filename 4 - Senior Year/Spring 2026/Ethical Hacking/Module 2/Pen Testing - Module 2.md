@@ -23,11 +23,14 @@ File Folder: Module 2
 Done on PC-21
 ```
 
-1. *Task 1*: Windows 10 → set IP dynamicallmy
+1. *Task 1*: Windows 10 → set IP dynamicaly
 	- IP address: 10.10.21.129
 2. *Task 2*: Check IP of Kali
 	- 10.10.21.135
 3. *Task 3*: Install Windows 7
+	- 10.10.21.137
+	- Had to turn off firewalls
+	- From archive.org
 4. *Task 4*: Metasploitable 2
-
+	- 10.10.2.136
 
