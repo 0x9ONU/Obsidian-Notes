@@ -249,47 +249,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "floating": {
-    "id": "4d1a54ae71f52001",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8db9201eec608ef4",
-        "type": "window",
-        "children": [
-          {
-            "id": "6d6ad6e3e324f108",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b14c82e2e0a3cca8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Notes/Pen Testing - Module 2 2026-01-29 09.13.42.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Pen Testing - Module 2 2026-01-29 09.13.42.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1469,
-        "height": 862,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "b14c82e2e0a3cca8",
+  "active": "cf490e92e7dd3555",
   "lastOpenFiles": [
-    "4 - Senior Year/Spring 2026/Ethical Hacking/Module 2/Pen Testing - Module 2.md",
     "General Notes/Pen Testing - Module 2 2026-01-29 09.13.42.excalidraw.md",
+    "4 - Senior Year/Spring 2026/Ethical Hacking/Module 2/Pen Testing - Module 2.md",
     "4 - Senior Year/Spring 2026/Gender/Journals/Week 2/Textbook - Unit 1 Chapter 6.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 3/Mat Sci - Lecture 3.md",
     "General Notes/Pasted image 20260127175121.png",
