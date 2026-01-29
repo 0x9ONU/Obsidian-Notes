@@ -41,7 +41,7 @@ A set of diverse theories and analytical perspectives:
 US individuals are taught to think that people are self-activating and self-actualizing individuals.
 
 However, feminism believes that *agency* alone cannot determine an individual’s outcome
-- Can be limited or enhanced by their social position.\
+- Can be limited or enhanced by their social position.
 
 Experiences can be broken down into *four levels of analysis*:
 1. **Micro (self)**: what an individual lives through everyday
