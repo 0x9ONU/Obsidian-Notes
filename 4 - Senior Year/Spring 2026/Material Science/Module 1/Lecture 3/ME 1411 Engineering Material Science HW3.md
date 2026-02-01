@@ -23,7 +23,7 @@ $$
 (64) = 2^{n-1}
 $$
 $$
-\log_{64}(4)=n-1
+\log_{2}(64)=n-1
 $$
 $$
 8 = n-1
@@ -46,3 +46,27 @@ $$
 $$
 N = 64
 $$
+$$
+N = 2^{n-1}
+$$
+$$
+(64)=2^{n-1}
+$$
+$$
+\log_{2}(64)=n-1
+$$
+$$
+8 = n-1
+$$
+$$
+\boxed{n = 7}
+$$
+# Question 3
+
+```ad-question
+One group’s task was to observe the grain structure of low carbon steel. As shown below, the group counted **20** grains in the area observed under an optical microscope at **10x** magnification. The rectangular area is 0.0303 mm by 0.0423 mm. Please show all the steps of your work
+```
+
+## Part 1
+
+How many grains can be counted in a 1"x1" area at the 10x magnification for the material? Please be noted $1 $.
