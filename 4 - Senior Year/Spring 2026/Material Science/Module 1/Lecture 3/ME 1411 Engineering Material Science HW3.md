@@ -81,10 +81,10 @@ $$
 = 0.00128169 \text{mm}^2 \times \left( \frac{1 \text{ in}^2}{(25.4)^2 \text{ mm}^2} \right)
 $$
 $$
-A = 1.994 \times 10^{-6} \text{ in}^2
+A = 1.986\times 10^{-6} \text{ in}^2
 $$
 $$
-N_{10} = \frac{20 \text{ grains}}{1.994 \times 10^{-6} \text{ in}^2}
+N_{10} = \frac{20 \text{ grains}}{1.986 \times 10^{-6} \text{ in}^2}
 $$
 $$
 \boxed{N_{10}= 10030100 \quad \frac{\text{ grains}}{\text{ in}^2}}
@@ -118,4 +118,10 @@ $$
 $$
 $$
 \log_{2}(100301)=n-1
+$$
+$$
+16.614 = n-1
+$$
+$$
+\boxed{n = 15.614}
 $$
