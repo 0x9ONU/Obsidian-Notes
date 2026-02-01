@@ -11,7 +11,7 @@ Calculate the ASTM Grain Size Number for the following condition: Approximately 
 ```
 
 $$
-N = \text{Grains} \times \left(\frac{N_{mag}}{N_{100}}\right)^2
+N = \text{Grains} \times \left(\frac{mag_{100}}{mag_{100}}\right)^2
 $$
 $$
 N = 64 * \left( \frac{100}{100} \right)^2=64
@@ -38,7 +38,7 @@ Calculate the ASTM Grain Size Number for the following condition: Approximately 
 ```
 
 $$
-N = \text{Grains} \times \left (  \frac{N_{mag}}{N_{100}}  \right)^2
+N = \text{Grains} \times \left (  \frac{mag_{200}}{mag_{100}}  \right)^2
 $$
 $$
 = 16 \times \left( \frac{200}{100} \right)^2
@@ -89,9 +89,10 @@ $$
 $$
 \boxed{N_{10}= 10030100 \quad \frac{\text{ grains}}{\text{ in}^2}}
 $$
+## Part 2
+
+**How many grains can be counted in a 1x1” area at 100x magnification for the material?**
 
 $$
-
+N_{100} = N_{10} \times ()
 $$
-
-
