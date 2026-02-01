@@ -69,4 +69,10 @@ One group’s task was to observe the grain structure of low carbon steel. As sh
 
 ## Part 1
 
-How many grains can be counted in a 1"x1" area at the 10x magnification for the material? Please be noted $1 $.
+**How many grains can be counted in a 1"x1" area at the 10x magnification for the material? Please be noted $1 \text{ in} = 25.4 \text{ mm}$.**
+
+$$
+
+$$
+
+
