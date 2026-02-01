@@ -72,6 +72,18 @@ One group’s task was to observe the grain structure of low carbon steel. As sh
 **How many grains can be counted in a 1"x1" area at the 10x magnification for the material? Please be noted $1 \text{ in} = 25.4 \text{ mm}$.**
 
 $$
+A = L \times W
+$$
+$$
+A = (0.0303 \text{mm}) \times(0.0423 \text{mm})
+$$
+$$
+= 0.00128169 \text{mm}^2 \times \left( \frac{(25.4)^2 \text{ in}^2}{1 \text{ mm}^2} \right)
+$$
+$$
+A = 
+$$
+$$
 
 $$
 
