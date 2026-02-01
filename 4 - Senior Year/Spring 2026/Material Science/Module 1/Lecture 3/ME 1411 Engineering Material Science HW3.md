@@ -87,7 +87,7 @@ $$
 N_{10} = \frac{20 \text{ grains}}{1.986 \times 10^{-6} \text{ in}^2}
 $$
 $$
-\boxed{N_{10}= 10030100 \quad \frac{\text{ grains}}{\text{ in}^2}}
+\boxed{N_{10}= 10070493 \quad \frac{\text{ grains}}{\text{ in}^2}}
 $$
 ## Part 2
 
@@ -97,13 +97,13 @@ $$
 N_{100} = N_{10} \times \left( \frac{mag_{10}}{mag_{100}} \right)^2
 $$
 $$
-= 10030100 \times \left( \frac{10}{100} \right)^2
+= 10070493 \times \left( \frac{10}{100} \right)^2
 $$
 $$
-= 10030100 \times 0.01 
+= 10070493 \times 0.01 
 $$
 $$
-\boxed{N_{100}=100301 \quad \frac{\text{ grains}}{\text{in}^2}}
+\boxed{N_{100}=100704 \quad \frac{\text{ grains}}{\text{in}^2}}
 $$
 
 ## Part 3
