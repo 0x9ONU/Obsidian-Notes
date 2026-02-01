@@ -94,5 +94,28 @@ $$
 **How many grains can be counted in a 1x1” area at 100x magnification for the material?**
 
 $$
-N_{100} = N_{10} \times ()
+N_{100} = N_{10} \times \left( \frac{mag_{10}}{mag_{100}} \right)^2
+$$
+$$
+= 10030100 \times \left( \frac{10}{100} \right)^2
+$$
+$$
+= 10030100 \times 0.01 
+$$
+$$
+\boxed{N_{100}=100301 \quad \frac{\text{ grains}}{\text{in}^2}}
+$$
+
+## Part 3
+
+**Calculate the ASTM Grain Size Number**
+
+$$
+N = 2^{n-1}
+$$
+$$
+(100301)=2^{n-1}
+$$
+$$
+\log_{2}(100301)=n-1
 $$
