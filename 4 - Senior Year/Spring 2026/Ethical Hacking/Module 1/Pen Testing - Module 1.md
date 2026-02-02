@@ -114,7 +114,7 @@ Confidentiality must always be maintained
 
 # Pen-Test Teams and Other Stakeholders
 
-**Team Members**:
+**Team Members**:s
 1. Red Team: performs the security and pen testing
 2. Blue Team: attempts to detect or prevent red team activities
 3. Purple Team: data collection, analytics, facilitation of teams
@@ -123,6 +123,8 @@ Confidentiality must always be maintained
 - IT department
 - Management
 - Legal department
+
+![[Pasted image 20260202092734.png]]
 
 ## Red Team
 
