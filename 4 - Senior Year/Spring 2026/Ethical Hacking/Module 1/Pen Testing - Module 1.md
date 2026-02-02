@@ -184,6 +184,12 @@ Observes red and blue teams and guides them to a more effective test
 - Identifies logistics, teams, stakeholders, and expectations
 - Defines **roles of engagement (ROE)**
 
+```ad-example
+Colonial pipeline attack 
+- rainbow table plus duplicate passwords
+- caused a large data leak from a higher-up
+```
+
 **ROE**: defines the following information
 - How is sensitive information?
 - How will project updates be communicated?
@@ -206,6 +212,7 @@ Red team goal is finding useful information about the target
 
 Details from the previous phase are used to drive the attacks
 - Target configuration and status determine which attacks are used
+- *Make sure that you are not caught by obfuscating yourself*
 
 ```ad-example
 - Passsword cracking
