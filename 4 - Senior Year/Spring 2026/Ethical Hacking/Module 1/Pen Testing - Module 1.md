@@ -72,9 +72,19 @@ Penetration methodologies:
 One of the most well-known concepts and models in cyber security:
 1. **Confidentiality**: achieved using technology such as authentication, access control, and encryption
 2. **Integrity**: achieved using authentication, access control, and digital signatures
-3. **Availaiblity**: objects and services are accessible when required by those authorized.
+3. **Availability**: objects and services are accessible when required by those authorized.
 
 ![[Pasted image 20260126113456.png]]
+
+```ad-example
+1. **Confidentiality**
+	- Authentication
+	- Access control 
+	- Digital signatures
+2. **Availability**
+	- lack of DDoS
+	- Physical power
+```
 
 ## DAD Triad: Disclosure, Alteration, Destruction
 
