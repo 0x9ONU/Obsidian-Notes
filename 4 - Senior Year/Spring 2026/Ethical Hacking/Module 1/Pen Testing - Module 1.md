@@ -48,6 +48,7 @@ To discover vulnerabilities in targets before  a threat actor does
 	- Payment Card Industry Data Security Standard (PCI DSS)
 	- PCI DSS v4.0 Requirement 11
 	- “Test security systems and processes regularly”
+	-  [Cybersecurity Maturity Model Certification](https://www.federalregister.gov/documents/2024/10/15/2024-22905/cybersecurity-maturity-model-certification-cmmc-program) (CMMC0
 3. At other strategic times and as necessary, determined by the organization
 
 
