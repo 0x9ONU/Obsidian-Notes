@@ -201,3 +201,8 @@ Some semicrystalline polymers form **spherulite structures**
 - Block is easier than graft
 ```
 
+## Downsides to Polymers
+
+WE are identifying some negative results from the “plastics age”
+- Major pollution
+- Microplastics
