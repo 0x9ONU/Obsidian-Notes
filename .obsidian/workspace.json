@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Ethical Hacking/Module 1/Pen Testing - Module 1.md",
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 4/Amorphous and Semi-Crystalline Materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pen Testing - Module 1"
+              "title": "Amorphous and Semi-Crystalline Materials"
             }
           }
         ]
       },
       {
-        "id": "69a4d4beefac124e",
+        "id": "d42f87612f001af0",
         "type": "tabs",
         "children": [
           {
-            "id": "3353fcfed8d26379",
+            "id": "f4f17b9ba4a0f71e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Ethical Hacking/Module 1/Resources/Module 1 - Intro to Pen Testing.pdf"
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 4/4 - Polymer Structure.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Module 1 - Intro to Pen Testing"
+              "title": "4 - Polymer Structure"
             }
           }
         ]
@@ -268,13 +268,25 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3353fcfed8d26379",
+  "active": "8050a512db9b9673",
   "lastOpenFiles": [
+    "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 4/4 - Polymer Structure.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 4/Amorphous and Semi-Crystalline Materials.md",
+    "General Notes/Pasted image 20260203123904.png",
+    "General Notes/Pasted image 20260203123804.png",
+    "General Notes/Pasted image 20260203123756.png",
+    "General Notes/Pasted image 20260203123557.png",
+    "General Notes/Pasted image 20260203123452.png",
+    "General Notes/Pasted image 20260203122813.png",
+    "General Notes/Pasted image 20260203122800.png",
+    "General Notes/Pasted image 20260203122628.png",
+    "General Notes/Pasted image 20260203122530.png",
+    "General Notes/Pasted image 20260203122526.png",
+    "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 3/ME 1411 Engineering Material Science HW3.md",
+    "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 4",
     "4 - Senior Year/Spring 2026/Ethical Hacking/Module 1/Pen Testing - Module 1.md",
     "4 - Senior Year/Spring 2026/Ethical Hacking/Module 1/Resources/Module 1 - Intro to Pen Testing.pdf",
-    "General Notes/Pasted image 20260202092734.png",
     "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 3/3 - Imperfections.pdf",
-    "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 3/ME 1411 Engineering Material Science HW3.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 3/Mat Sci - Lecture 3.md",
     "4 - Senior Year/Spring 2026/Gender/Journals/Week 2/Textbook - Unit 1 Chapter 2.md",
     "4 - Senior Year/Spring 2026/Gender/Journals/Week 2/Textbook - Unit 1 Chapter 6.md",
@@ -288,19 +300,9 @@
     "4 - Senior Year/Spring 2026/Module 2 - Setting up Win7 and MSP2 Guidelines.pdf",
     "4 - Senior Year/Spring 2026/Unconfirmed 744660.crdownload",
     "General Notes/Pen Testing - Module 2 2026-01-29 09.13.42.excalidraw.md",
-    "General Notes/Pasted image 20260127175121.png",
-    "General Notes/Pasted image 20260127174330.png",
-    "General Notes/Pasted image 20260127174133.png",
-    "General Notes/Pasted image 20260127172735.png",
-    "General Notes/Pasted image 20260127171755.png",
-    "General Notes/Pasted image 20260127170131.png",
     "4 - Senior Year/Spring 2026/Material Science/Unconfirmed 103893.crdownload",
-    "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 3",
-    "General Notes/Pasted image 20260126114727.png",
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/University of Cincinnati Personal Statement.md",
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/Academic Statement of Purpose.md",
-    "General Notes/Pasted image 20260126113837.png",
-    "General Notes/Pasted image 20260126113456.png",
     "4 - Senior Year/Spring 2026/Wireless Sensors/Week 1/Wireless Sensor Networks - Week 1 Day 2.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md",
@@ -308,14 +310,12 @@
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md",
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/9-26-2025 Meeting.md",
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
-    "4 - Senior Year/Spring 2026/Wireless Sensors/Week 1",
     "Templates/Wireless Sensor Networks Template.md",
     "4 - Senior Year/Spring 2026/Gender/Lectures/Gender - Week 1 Day 2.md",
     "4 - Senior Year/Spring 2026/Gender/Lectures/Gender - Week 1 Day 1.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 1/Mat Sci - Lecture 1.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 2/Mat Sci - Lecture 2.md",
     "4 - Senior Year/Spring 2026/Ethical Hacking/_Syllabus/Pen Testing - Week 1 Day 1.md",
-    "Templates/Literature Review Template.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
