@@ -7,4 +7,3 @@ File Folder: Lectures
 
 ## Student Lecture
 
-
