@@ -7,3 +7,20 @@ File Folder: Lectures
 
 ## Student Lecture
 
+### Definitions
+
+**Social Structure**: A set of long-lasting social relations, practices, or institutions ingrained in society
+
+**Structures of Power**: A social structure that allows access to and through social institutions to some groups but not others and privileges, normalizes, and values certain identities over others
+
+
+```ad-example
+- Racism
+- Sexism
+- Genderism
+- Queerphobia
+- Albeism
+- Classism
+```
+
+
