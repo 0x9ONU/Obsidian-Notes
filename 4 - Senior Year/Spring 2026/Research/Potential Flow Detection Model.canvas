@@ -7,13 +7,12 @@
 		{"id":"ccf3c8716d805b3c","type":"text","text":"Read in Preferred Model.","x":0,"y":-165,"width":145,"height":55},
 		{"id":"fa9e4674aecd26b0","type":"text","text":"Wait for TXT Input","x":0,"y":-62,"width":145,"height":55},
 		{"id":"425735f8e4d9cda9","type":"text","text":"Convert TXT to CSV (from conversion script)","x":0,"y":40,"width":145,"height":55},
-		{"id":"6c5a20fd7dd6b2fa","type":"text","text":"Convert TXT to CSV (from conversion script)","x":0,"y":140,"width":145,"height":55},
 		{"id":"0c9b473646f7bd13","type":"text","text":"Read Second Synchronization Period","x":-220,"y":45,"width":145,"height":50},
-		{"id":"6f9f2ab55efd0dde","type":"text","text":"Read CSV into Model","x":0,"y":240,"width":145,"height":55},
-		{"id":"e63e571f2c954ab6","type":"text","text":"Predict Attack using Model\n","x":0,"y":350,"width":145,"height":55},
-		{"id":"96c0a18add5f7361","type":"text","text":"Raise Flag if it happens three times in a row","x":240,"y":350,"width":145,"height":55},
 		{"id":"b3d393f75f3527ef","type":"text","text":"Wait for TXT Input","x":0,"y":440,"width":145,"height":55},
-		{"id":"0ede96db35ed34af","type":"text","text":"Export as TXT","x":-220,"y":443,"width":145,"height":50}
+		{"id":"0ede96db35ed34af","type":"text","text":"Export as TXT","x":-220,"y":443,"width":145,"height":50},
+		{"id":"6f9f2ab55efd0dde","type":"text","text":"Read CSV into Model","x":0,"y":160,"width":145,"height":55},
+		{"id":"e63e571f2c954ab6","type":"text","text":"Predict Attack using Model\n","x":0,"y":295,"width":145,"height":55},
+		{"id":"96c0a18add5f7361","type":"text","text":"Raise Flag if it happens three times in a row","x":240,"y":295,"width":145,"height":55}
 	],
 	"edges":[
 		{"id":"b113eb92f806c801","fromNode":"4e6c5d1f09c8619c","fromSide":"bottom","toNode":"46e9be3d65213042","toSide":"top"},
@@ -23,12 +22,11 @@
 		{"id":"c435615d2b375573","fromNode":"56df961ecaacf27d","fromSide":"right","toNode":"fa9e4674aecd26b0","toSide":"left"},
 		{"id":"474ea155ee163a83","fromNode":"fa9e4674aecd26b0","fromSide":"bottom","toNode":"425735f8e4d9cda9","toSide":"top"},
 		{"id":"4fececc63ecfefcd","fromNode":"56df961ecaacf27d","fromSide":"bottom","toNode":"0c9b473646f7bd13","toSide":"top"},
-		{"id":"d1a6c3bad0929d9b","fromNode":"425735f8e4d9cda9","fromSide":"bottom","toNode":"6c5a20fd7dd6b2fa","toSide":"top"},
-		{"id":"3f8757e3f88e39c6","fromNode":"6c5a20fd7dd6b2fa","fromSide":"bottom","toNode":"6f9f2ab55efd0dde","toSide":"top"},
 		{"id":"dcfa1b879f1f8948","fromNode":"6f9f2ab55efd0dde","fromSide":"bottom","toNode":"e63e571f2c954ab6","toSide":"top"},
 		{"id":"5afe133af43e1221","fromNode":"e63e571f2c954ab6","fromSide":"right","toNode":"96c0a18add5f7361","toSide":"left","label":"if true"},
 		{"id":"c211c37cf92a22f6","fromNode":"e63e571f2c954ab6","fromSide":"bottom","toNode":"b3d393f75f3527ef","toSide":"top"},
 		{"id":"6f72d405321c950b","fromNode":"0c9b473646f7bd13","fromSide":"bottom","toNode":"0ede96db35ed34af","toSide":"top"},
-		{"id":"a66d1432cb557a17","fromNode":"0ede96db35ed34af","fromSide":"right","toNode":"b3d393f75f3527ef","toSide":"left"}
+		{"id":"a66d1432cb557a17","fromNode":"0ede96db35ed34af","fromSide":"right","toNode":"b3d393f75f3527ef","toSide":"left"},
+		{"id":"2ab734da4cc52c38","fromNode":"425735f8e4d9cda9","fromSide":"bottom","toNode":"6f9f2ab55efd0dde","toSide":"top"}
 	]
 }
