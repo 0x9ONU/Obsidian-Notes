@@ -25,3 +25,8 @@ File Folder: Lectures
 
 # Controlling National Borders by Controlling Reproduction
 
+Mohan Karki was deported by ICE and sent back to Butan, *without Nepali OR Butani  citizenship*. He now has nowhere to live and is a “stateless” citizen
+- Got denied by US citizenship because lawyers kept falsely saying he was from Nepal
+- Caught doing a petty crime and deported
+- Had to leave his family behind
+- Caught between the identity politics between multiple different nations.
