@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 2/Expert/Mat Sci - Module 2 Expert.md",
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/Lecture 5 - Stress-Strain Curve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mat Sci - Module 2 Expert"
+              "title": "Lecture 5 - Stress-Strain Curve"
+            }
+          },
+          {
+            "id": "a5ed92ea0cbbb0f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/5 - TheStressStrainCurve.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "5 - TheStressStrainCurve"
             }
           }
         ]
@@ -251,6 +263,8 @@
   },
   "active": "6b6dc96ce9668ccb",
   "lastOpenFiles": [
+    "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/5 - TheStressStrainCurve.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/Lecture 5 - Stress-Strain Curve.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 2/Expert/Mat Sci - Module 2 Expert.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 2/Expert",
     "4 - Senior Year/Spring 2026/Material Science/Module 3",
@@ -262,11 +276,9 @@
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md",
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/9-26-2025 Meeting.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/Lecture 5 - Stress-Strain Curve.md",
     "General Notes/Pasted image 20260205124443.png",
     "General Notes/Pasted image 20260205124038.png",
     "General Notes/Pasted image 20260205124001.png",
-    "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/5 - TheStressStrainCurve.pdf",
     "General Notes/Pasted image 20260205123645.png",
     "General Notes/Pasted image 20260205123615.png",
     "General Notes/Pasted image 20260205123556.png",
@@ -298,7 +310,6 @@
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/University of Cincinnati Personal Statement.md",
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/Academic Statement of Purpose.md",
     "4 - Senior Year/Spring 2026/Wireless Sensors/Week 1/Wireless Sensor Networks - Week 1 Day 2.md",
-    "Templates/Wireless Sensor Networks Template.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
