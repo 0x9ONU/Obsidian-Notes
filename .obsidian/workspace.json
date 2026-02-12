@@ -22,6 +22,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "12b3d39137fb68bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3dfd8d1e2077ed7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/6_More Elastic Properties.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "6_More Elastic Properties"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -251,10 +270,19 @@
   },
   "active": "f813bacef8d1e166",
   "lastOpenFiles": [
-    "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/Lecture 5 - Stress-Strain Curve.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/Lecture 6 - More Elastic Properties.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6",
+    "General Notes/Pasted image 20260212123524.png",
+    "General Notes/Pasted image 20260212123152.png",
+    "General Notes/Pasted image 20260212123142.png",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/6_More Elastic Properties.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/Lecture 6 - More Elastic Properties.md",
+    "General Notes/Pasted image 20260212122853.png",
+    "General Notes/Pasted image 20260212122704.png",
+    "General Notes/Pasted image 20260212122630.png",
+    "General Notes/Pasted image 20260212122225.png",
+    "General Notes/Pasted image 20260212121811.png",
+    "General Notes/Pasted image 20260212121753.png",
+    "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/Lecture 5 - Stress-Strain Curve.md",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7",
     "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/5 - TheStressStrainCurve.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 2/Expert/Mat Sci - Module 2 Expert.md",
@@ -270,14 +298,6 @@
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/9-26-2025 Meeting.md",
     "General Notes/Pasted image 20260205124443.png",
     "General Notes/Pasted image 20260205124038.png",
-    "General Notes/Pasted image 20260205124001.png",
-    "General Notes/Pasted image 20260205123645.png",
-    "General Notes/Pasted image 20260205123615.png",
-    "General Notes/Pasted image 20260205123556.png",
-    "General Notes/Pasted image 20260205123534.png",
-    "General Notes/Pasted image 20260205123431.png",
-    "General Notes/Pasted image 20260205123406.png",
-    "General Notes/Pasted image 20260205122936.png",
     "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5",
     "4 - Senior Year/Spring 2026/Material Science/Unconfirmed 365837.crdownload",
     "4 - Senior Year/Spring 2026/Research/Untitled Kanban.md",
@@ -298,7 +318,6 @@
     "4 - Senior Year/Spring 2026/Gender/Journals/Week 2/Textbook - Unit 1 Chapter 3.md",
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/University of Cincinnati Personal Statement.md",
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/Academic Statement of Purpose.md",
-    "4 - Senior Year/Spring 2026/Wireless Sensors/Week 1/Wireless Sensor Networks - Week 1 Day 2.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

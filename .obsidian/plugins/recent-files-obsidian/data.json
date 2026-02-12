@@ -5,6 +5,10 @@
       "path": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/Lecture 6 - More Elastic Properties.md"
     },
     {
+      "basename": "6_More Elastic Properties",
+      "path": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/6_More Elastic Properties.pdf"
+    },
+    {
       "basename": "Lecture 5 - Stress-Strain Curve",
       "path": "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/Lecture 5 - Stress-Strain Curve.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gender and Sexuality Template",
       "path": "Templates/Gender and Sexuality Template.md"
-    },
-    {
-      "basename": "1 - Introduction to Materials",
-      "path": "4 - Senior Year/Spring 2026/Material Science/Module 1/Lecture 1/1 - Introduction to Materials.pdf"
     }
   ],
   "omittedPaths": [],
