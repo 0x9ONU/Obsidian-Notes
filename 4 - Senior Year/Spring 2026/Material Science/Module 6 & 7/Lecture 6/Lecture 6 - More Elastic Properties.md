@@ -111,3 +111,78 @@ $$
 G = \frac{E}{2(1+\nu)}
 $$
 
+### Bulk Modulus
+
+```ad-summary
+Measures the resistance to bulk compression (i.e. pressure)
+```
+
+$$
+K = \frac{E}{3(1-2 \nu)}
+$$
+
+**Pressure**
+
+$$
+P = -K \frac{\Delta V}{V_{o}}
+$$
+
+![[Pasted image 20260212124631.png]]
+
+#### Why is Poisson’s Ratio Less than 0.5?
+
+When $\nu = 0.5$
+$$
+K = \frac{E}{3(1-2 \nu)}= \frac{E}{0} = \infty
+$$
+$$
+P = \infty \Rightarrow \text{Material is Incompresible}
+$$
+
+This is *not possible*!
+
+## True Stress-True Strain
+
+```ad-summary
+The geometry of the sample changes during testing. This is measured using *true* stress and strain
+```
+
+**True Stress**
+
+$$
+\sigma_{T}=\frac{P}{A_{i}}=\sigma(1+ \epsilon)
+$$
+**True Strain**
+
+$$
+\epsilon_{T}= \ln(1+ \epsilon)
+$$
+
+![[Pasted image 20260212125444.png]]
+
+```ad-note
+What happens if our strain is given in micro-strain?
+*Convert it to strain multiplying by it by $10^-6$ FIRST*
+```
+### When is it used?
+
+Primarily in certain manufacturing processes that use forces to permanently shape a material:
+
+![[Pasted image 20260212125621.png]]
+
+### Strain Hardening Exponent
+
+For some metals and alloys from onset plastic deformation (yielding) to the point at which necking begins ($N$) can be described with:
+
+$$
+\sigma_{T}= K \epsilon_{T}^n
+$$
+Where $n$ and $K$ are material constants:
+- A strain-hardening exponent
+- **WARNING** K is not the bulk modulus here
+
+A high $n$ means high form-ability
+- ie a great capacity to be formed
+- Ensures that materials can be bent and stretched in a stamping die
+
+
