@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ca0081591813c44",
+        "id": "bba3bfc227127150",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6dc96ce9668ccb",
+            "id": "f813bacef8d1e166",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/Lecture 5 - Stress-Strain Curve.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lecture 5 - Stress-Strain Curve"
-            }
-          },
-          {
-            "id": "a5ed92ea0cbbb0f2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/5 - TheStressStrainCurve.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "5 - TheStressStrainCurve"
+              "title": "New tab"
             }
           }
         ]
@@ -261,7 +245,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6b6dc96ce9668ccb",
+  "active": "f813bacef8d1e166",
   "lastOpenFiles": [
     "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/5 - TheStressStrainCurve.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/Lecture 5 - Stress-Strain Curve.md",
