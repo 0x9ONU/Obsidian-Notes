@@ -8,35 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f813bacef8d1e166",
+            "id": "f3dfd8d1e2077ed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/Lecture 6 - More Elastic Properties.md",
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 7/Lecture 7 - Units.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 6 - More Elastic Properties"
+              "title": "Lecture 7 - Units"
             }
           }
         ]
       },
       {
-        "id": "12b3d39137fb68bc",
+        "id": "9cb69a3d25fcbdde",
         "type": "tabs",
         "children": [
           {
-            "id": "f3dfd8d1e2077ed7",
+            "id": "f813bacef8d1e166",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/6_More Elastic Properties.pdf"
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 7/7 - Units and Proficincy Review.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "6_More Elastic Properties"
+              "title": "7 - Units and Proficincy Review"
             }
           }
         ]
@@ -270,6 +270,12 @@
   },
   "active": "f813bacef8d1e166",
   "lastOpenFiles": [
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/Lecture 6 - More Elastic Properties.md",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 7/Lecture 7 - Units.md",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 7/7 - Units and Proficincy Review.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/6_More Elastic Properties.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 7/Unconfirmed 64062.crdownload",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 7",
     "General Notes/Pasted image 20260212125621.png",
     "General Notes/Pasted image 20260212125612.png",
     "General Notes/Pasted image 20260212125444.png",
@@ -277,12 +283,9 @@
     "General Notes/Pasted image 20260212123524.png",
     "General Notes/Pasted image 20260212123152.png",
     "General Notes/Pasted image 20260212123142.png",
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/6_More Elastic Properties.pdf",
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/Lecture 6 - More Elastic Properties.md",
     "General Notes/Pasted image 20260212122853.png",
     "General Notes/Pasted image 20260212122704.png",
     "General Notes/Pasted image 20260212122630.png",
-    "General Notes/Pasted image 20260212122225.png",
     "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5/Lecture 5 - Stress-Strain Curve.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7",
@@ -298,11 +301,8 @@
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md",
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
     "4 - Senior Year/Summer 2025/Research/Meeting Minutes/9-26-2025 Meeting.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 5",
-    "4 - Senior Year/Spring 2026/Material Science/Unconfirmed 365837.crdownload",
     "4 - Senior Year/Spring 2026/Research/Untitled Kanban.md",
     "4 - Senior Year/Spring 2026/Research/Drawing 2026-02-04 13.40.45.excalidraw.md",
-    "4 - Senior Year/Spring 2026/Research",
     "4 - Senior Year/Spring 2026/Gender/Lectures/Gender - Week 3.md",
     "General Notes/Kanban/ShieldScatter Improving IoT Security with Backscatter Assistance.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
@@ -317,7 +317,6 @@
     "4 - Senior Year/Spring 2026/Gender/Lectures/Gender - Week 2.md",
     "4 - Senior Year/Spring 2026/Gender/Journals/Week 2/Textbook - Unit 1 Chapter 3.md",
     "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/University of Cincinnati Personal Statement.md",
-    "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/Academic Statement of Purpose.md",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
