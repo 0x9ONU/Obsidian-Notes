@@ -53,10 +53,14 @@ kanban-plugin: board
 - [ ] [[Machine learning for coverage optimization in wireless sensor networks a comprehensive review]]
 
 
+## TDMA SyncAttack
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
