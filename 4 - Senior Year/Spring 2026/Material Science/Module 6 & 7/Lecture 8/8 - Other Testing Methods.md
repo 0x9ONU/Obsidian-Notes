@@ -144,4 +144,45 @@ The resistance of a material to scratching, indentation, or penetration
 
 # Impact Testing
 
+## Impact
+
+Ability of a material to store energy, typically within the *elastic region*
+
+$$
+U_{r} \approxeq \frac{1}{2} \sigma_{y}\epsilon_{y}
+$$
+![[Pasted image 20260219124407.png]]
+
+## Toughness
+
+Energy to break a unit volume of the material
+- approximate by the AUC of the stress-strain
+
+![[Pasted image 20260219124443.png]]
+
+## Units
+
+$$
+\frac{J}{m^3} \text{ OR } \frac{in \space lb}{in^3}
+$$
+
+## Impact Loading
+
+- Severe testing case
+- Makes materials more brittle
+- Decreases toughness
+
+![[Pasted image 20260219124652.png]]
+
+## Temperature and Impact Energy
+
+Increasing temperature → %EL and $K_{c}$
+
+**Ductile-to_Brittle Transition Temperature (DBTT)**
+
+![[Pasted image 20260219124929.png]]
+
+```ad-important
+It is always best to stay above the DBTT depending on what is needed.
+```
 
