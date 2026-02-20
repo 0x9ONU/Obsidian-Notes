@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "02d653db05a4f14d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c7508b4724611865",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "8 - Other Testing Methods"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -268,11 +250,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c7508b4724611865",
+  "active": "a3f9c37b11bf29aa",
   "lastOpenFiles": [
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.md",
     "General Notes/Pasted image 20260219124929.png",
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.pdf",
     "General Notes/Pasted image 20260219124652.png",
     "General Notes/Pasted image 20260219124443.png",
     "General Notes/Pasted image 20260219124407.png",
