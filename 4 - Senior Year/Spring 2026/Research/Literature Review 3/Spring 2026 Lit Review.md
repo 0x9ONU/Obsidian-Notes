@@ -55,6 +55,10 @@ kanban-plugin: board
 
 ## TDMA SyncAttack
 
+- [ ] Benchmark for Non-reciprocal Attack Detection on Synchronization
+- [ ] Time Synchronization Attacks in Sensor Networks
+- [ ] Time Synchronization Attacks in IEEE802.15.4e Networks
+- [ ] Time Synchronization Attack Scenarios and Analysis of Effective Self-Detection Parameters in a Distributed Industrial Wireless Sensor Network
 
 
 
