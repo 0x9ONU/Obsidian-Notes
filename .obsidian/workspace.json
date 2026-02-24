@@ -45,29 +45,29 @@
             }
           },
           {
-            "id": "ddcef73528585a9e",
+            "id": "4ed2c9f75b9849a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md",
+                "file": "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes"
+              "title": "Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks"
             }
           },
           {
-            "id": "aaac0cdcca8e868d",
+            "id": "e46f0168ec990709",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf"
+                "file": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Impact_and_Countermeasures_of_Malware_Attacks_on_E.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Propagation_dynamics_of_malware_in_wireless_sensor"
+              "title": "Impact_and_Countermeasures_of_Malware_Attacks_on_E"
             }
           }
         ],
@@ -300,11 +300,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ddcef73528585a9e",
+  "active": "4ed2c9f75b9849a6",
   "lastOpenFiles": [
+    "General Notes/Pasted image 20260223135026.png",
+    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Impact_and_Countermeasures_of_Malware_Attacks_on_E.pdf",
+    "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
     "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
+    "General Notes/Pasted image 20260223133801.png",
+    "General Notes/Pasted image 20260223133753.png",
     "General Notes/Kanban/Securing Wireless Sensor Network Against Multi-Malware Threats A Comprehensive Modeling and Analysis Approach.md",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Securing_Wireless_Sensor_Network_Against_Multi-Mal.pdf",
     "General Notes/Pasted image 20260223131319.png",
@@ -317,20 +322,16 @@
     "4 - Senior Year/Spring 2026/Research/978-0-387-46276-9.pdf",
     "4 - Senior Year/Spring 2026/Research/Unconfirmed 677683.crdownload",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.pdf",
     "General Notes/Pasted image 20260219124929.png",
     "General Notes/Pasted image 20260219124652.png",
     "General Notes/Pasted image 20260219124443.png",
     "General Notes/Pasted image 20260219124407.png",
     "General Notes/Pasted image 20260219123430.png",
     "General Notes/Pasted image 20260219123404.png",
-    "General Notes/Pasted image 20260219123131.png",
-    "General Notes/Pasted image 20260219123105.png",
     "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "General Notes/Kanban/A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach.md",
     "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
     "General Notes/Kanban/Eternal-Thing 2.0 Analog-Trojan Resilient Ripple-Less Solar Harvesting System for Sustainable IoT.md",
-    "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md",
     "General Notes/Kanban/Machine Learning Enabled Techniques for Protecting Wireless Sensor Networks by Estimating Attack Prevalence and Device Deployment Strategy for 5G Networks.md",
     "General Notes/Kanban/Performance evaluation of deep learning techniques for DoS attacks detection in wireless sensor network.md",
     "General Notes/Kanban/Machine Learning Solutions for the Security of Wireless Sensor Networks A Review.md",
