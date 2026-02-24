@@ -1,0 +1,10 @@
+- **Name**: Amy McFlounder
+- **Gender**: She/Her
+- **Race**: Indian American
+- **Sexuality**: Bi (Woman Preference)
+- **Disability**: N/A
+- **Personality Traits**:
+	- Independent
+	- Hard-working
+	- Oblivious
+	- Down-to-Earth

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Netflix Character",
+      "path": "Netflix Character.md"
+    },
+    {
       "basename": "Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks",
       "path": "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Energy-Efficient and Secure Double RIS-Aided Wireless Sensor Networks A QoS-Aware Fuzzy Deep Reinforcement Learning Approach",
       "path": "General Notes/Kanban/Energy-Efficient and Secure Double RIS-Aided Wireless Sensor Networks A QoS-Aware Fuzzy Deep Reinforcement Learning Approach.md"
-    },
-    {
-      "basename": "EEMLCR Energy-Efficient Machine Learning-Based Clustering and Routing for Wireless Sensor Networks",
-      "path": "General Notes/Kanban/EEMLCR Energy-Efficient Machine Learning-Based Clustering and Routing for Wireless Sensor Networks.md"
     }
   ],
   "omittedPaths": [],
