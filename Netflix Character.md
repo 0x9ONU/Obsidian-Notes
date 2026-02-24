@@ -1,10 +1,10 @@
 - **Name**: Amy McFlounder
 - **Gender**: She/Her
-- **Race**: Indian American
+- **Race**: Indian American NOW WHITE WHAT
 - **Sexuality**: Bi (Woman Preference)
 - **Disability**: N/A
 - **Personality Traits**:
-	- Independent
-	- Hard-working
-	- Oblivious
-	- Down-to-Earth
+	- Overtly Sexual
+	- Villain
+	- Hard-Working to Bring Down the Company (evil)
+	- Played by a Celebrity
