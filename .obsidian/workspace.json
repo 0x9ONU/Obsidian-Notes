@@ -25,6 +25,20 @@
             "id": "a3f9c37b11bf29aa",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Eternal-Thing 2.0 Analog-Trojan Resilient Ripple-Less Solar Harvesting System for Sustainable IoT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eternal-Thing 2.0 Analog-Trojan Resilient Ripple-Less Solar Harvesting System for Sustainable IoT"
+            }
+          },
+          {
+            "id": "f6e6f0924fc37b09",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
@@ -43,49 +57,29 @@
               "icon": "lucide-trello",
               "title": "Spring 2026 Lit Review"
             }
-          },
-          {
-            "id": "4ed2c9f75b9849a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks"
-            }
-          },
-          {
-            "id": "e46f0168ec990709",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Impact_and_Countermeasures_of_Malware_Attacks_on_E.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Impact_and_Countermeasures_of_Malware_Attacks_on_E"
-            }
-          },
-          {
-            "id": "6e37977a75c5f41f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Netflix Character.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Netflix Character"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "97d8e6ff787abf4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2adef3dacd0aaa19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,21 +308,28 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6e37977a75c5f41f",
+  "active": "2adef3dacd0aaa19",
   "lastOpenFiles": [
-    "Netflix Character.md",
-    "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md",
-    "General Notes/Pasted image 20260223135026.png",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Impact_and_Countermeasures_of_Malware_Attacks_on_E.pdf",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
-    "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
-    "General Notes/Pasted image 20260223133801.png",
-    "General Notes/Pasted image 20260223133753.png",
+    "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
+    "General Notes/Kanban/Eternal-Thing 2.0 Analog-Trojan Resilient Ripple-Less Solar Harvesting System for Sustainable IoT.md",
+    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Impact_and_Countermeasures_of_Malware_Attacks_on_E.pdf",
+    "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md",
     "General Notes/Kanban/Securing Wireless Sensor Network Against Multi-Malware Threats A Comprehensive Modeling and Analysis Approach.md",
+    "General Notes/Pasted image 20260225132848.png",
+    "General Notes/Pasted image 20260225132842.png",
+    "General Notes/Pasted image 20260225132838.png",
+    "General Notes/Pasted image 20260225132828.png",
+    "General Notes/Pasted image 20260225132823.png",
+    "General Notes/Pasted image 20260225132819.png",
+    "General Notes/Pasted image 20260225132752.png",
+    "General Notes/Pasted image 20260225132743.png",
+    "General Notes/Pasted image 20260225132735.png",
+    "General Notes/Pasted image 20260225132719.png",
+    "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md",
+    "Netflix Character.md",
+    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Securing_Wireless_Sensor_Network_Against_Multi-Mal.pdf",
-    "General Notes/Pasted image 20260223131319.png",
-    "General Notes/Pasted image 20260223131030.png",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Benchmark_for_Non-reciprocal_Attack_Detection_on_S.pdf",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Unconfirmed 216018.crdownload",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Time Synchronization Attacks in Sensor Networks\n.pdf",
@@ -337,15 +338,8 @@
     "4 - Senior Year/Spring 2026/Research/978-0-387-46276-9.pdf",
     "4 - Senior Year/Spring 2026/Research/Unconfirmed 677683.crdownload",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.md",
-    "General Notes/Pasted image 20260219124929.png",
-    "General Notes/Pasted image 20260219124652.png",
-    "General Notes/Pasted image 20260219124443.png",
-    "General Notes/Pasted image 20260219124407.png",
-    "General Notes/Pasted image 20260219123430.png",
-    "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "General Notes/Kanban/A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach.md",
     "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
-    "General Notes/Kanban/Eternal-Thing 2.0 Analog-Trojan Resilient Ripple-Less Solar Harvesting System for Sustainable IoT.md",
     "General Notes/Kanban/Machine Learning Enabled Techniques for Protecting Wireless Sensor Networks by Estimating Attack Prevalence and Device Deployment Strategy for 5G Networks.md",
     "General Notes/Kanban/Performance evaluation of deep learning techniques for DoS attacks detection in wireless sensor network.md",
     "General Notes/Kanban/Machine Learning Solutions for the Security of Wireless Sensor Networks A Review.md",
@@ -362,7 +356,6 @@
     "General Notes/Kanban/Deep learning‑enabled energy optimization and intrusion detection for wireless sensor networks.md",
     "General Notes/Kanban/Deep Learning-Assisted Smart Process Planning, Robotic Wireless Sensor Networks, and Geospatial Big Data Management Algorithms in the Internet of Manufacturing Things.md",
     "General Notes/Kanban/Cooperative Reinforcement Learning for Energy Management in Multi-Hop Networks With Energy Harvesting.md",
-    "General Notes/Kanban/Comparative analysis of CatBoost, LightGBM, XGBoost, RF, and DT methods optimised with PSO to estimate the number of k‑barriers for intrusion detection in wireless sensor networks.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "Untitled 1.canvas",
