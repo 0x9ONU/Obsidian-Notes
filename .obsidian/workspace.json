@@ -22,6 +22,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "9ef9fb4e8416dde1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9fbadc8117daab4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatique and Time Dependant Properties.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "9 - Fatique and Time Dependant Properties"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -251,29 +270,30 @@
   },
   "active": "de9ae6f682703c82",
   "lastOpenFiles": [
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.md",
+    "General Notes/Pasted image 20260226123850.png",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatique and Time Dependant Properties.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
+    "General Notes/Pasted image 20260226123808.png",
+    "General Notes/Pasted image 20260226123304.png",
+    "General Notes/Pasted image 20260226122800.png",
+    "General Notes/Pasted image 20260226122130.png",
+    "General Notes/Pasted image 20260226122105.png",
+    "General Notes/Pasted image 20260226121954.png",
+    "General Notes/Pasted image 20260226121755.png",
+    "General Notes/Pasted image 20260226121611.png",
+    "General Notes/Pasted image 20260226121248.png",
+    "General Notes/Pasted image 20260226120933.png",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.md",
     "General Notes/Kanban/A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach.md",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
     "General Notes/Kanban/Eternal-Thing 2.0 Analog-Trojan Resilient Ripple-Less Solar Harvesting System for Sustainable IoT.md",
     "General Notes/Kanban/Securing Wireless Sensor Network Against Multi-Malware Threats A Comprehensive Modeling and Analysis Approach.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatique and Time Dependant Properties.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/Unconfirmed 271172.crdownload",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9",
     "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
     "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Impact_and_Countermeasures_of_Malware_Attacks_on_E.pdf",
     "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md",
-    "General Notes/Pasted image 20260225132848.png",
-    "General Notes/Pasted image 20260225132842.png",
-    "General Notes/Pasted image 20260225132838.png",
-    "General Notes/Pasted image 20260225132828.png",
-    "General Notes/Pasted image 20260225132823.png",
-    "General Notes/Pasted image 20260225132819.png",
-    "General Notes/Pasted image 20260225132752.png",
-    "General Notes/Pasted image 20260225132743.png",
-    "General Notes/Pasted image 20260225132735.png",
-    "General Notes/Pasted image 20260225132719.png",
     "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md",
     "Netflix Character.md",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
@@ -297,7 +317,6 @@
     "General Notes/Kanban/Deep Learning‑Infused Hybrid Security Model for Energy Optimization and Enhanced Security in Wireless Sensor Networks.md",
     "General Notes/Kanban/Deep learning‑enabled energy optimization and intrusion detection for wireless sensor networks.md",
     "General Notes/Kanban/Deep Learning-Assisted Smart Process Planning, Robotic Wireless Sensor Networks, and Geospatial Big Data Management Algorithms in the Internet of Manufacturing Things.md",
-    "General Notes/Kanban/Cooperative Reinforcement Learning for Energy Management in Multi-Hop Networks With Energy Harvesting.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "Untitled 1.canvas",
