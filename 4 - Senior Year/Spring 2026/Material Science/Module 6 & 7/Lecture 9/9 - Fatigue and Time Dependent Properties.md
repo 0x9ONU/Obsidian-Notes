@@ -174,3 +174,15 @@ $$
 | PVC               | +87         |
 | PS                | +100        |
 | PC                | +150        |
+### Influence of $T$ and Strain Rate
+
+Decreasing $T$
+- Increases $E$
+- Increases $S_{uts}$
+- Decreases $\%EL$
+
+Increasing Strain Rate
+- Same effects as decreasing $T$
+
+![[Pasted image 20260226124641.png]]
+
