@@ -57,29 +57,23 @@
               "icon": "lucide-trello",
               "title": "Spring 2026 Lit Review"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "97d8e6ff787abf4d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2adef3dacd0aaa19",
+            "id": "de9ae6f682703c82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
+                "file": "General Notes/Kanban/A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review"
+              "title": "A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -308,9 +302,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2adef3dacd0aaa19",
+  "active": "de9ae6f682703c82",
   "lastOpenFiles": [
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
+    "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
     "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "General Notes/Kanban/Eternal-Thing 2.0 Analog-Trojan Resilient Ripple-Less Solar Harvesting System for Sustainable IoT.md",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Impact_and_Countermeasures_of_Malware_Attacks_on_E.pdf",
@@ -339,7 +334,6 @@
     "4 - Senior Year/Spring 2026/Research/Unconfirmed 677683.crdownload",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.md",
     "General Notes/Kanban/A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach.md",
-    "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
     "General Notes/Kanban/Machine Learning Enabled Techniques for Protecting Wireless Sensor Networks by Estimating Attack Prevalence and Device Deployment Strategy for 5G Networks.md",
     "General Notes/Kanban/Performance evaluation of deep learning techniques for DoS attacks detection in wireless sensor network.md",
     "General Notes/Kanban/Machine Learning Solutions for the Security of Wireless Sensor Networks A Review.md",

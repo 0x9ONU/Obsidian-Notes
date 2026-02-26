@@ -25,5 +25,25 @@ Besides anti-malware usage for the eradication of malicious attacks, researchers
 
 ## Summary
 
-### Introduction
+Reviewed 71 experimental research studies on with malware in WSNs
+- Virus
+- Worm
+- Trojan
+- Botnets
+
+### Open Areas
+
+1. Communication Graph/Topology
+2. **Multigroup Modeling**
+3. Vertical/Horizontal Transmission
+4. Communication Range and Density
+5.  Patching
+6. Protocols
+7. Sensor Mobility
+8. Power/Energy
+9. Optimal Control/Cost
+10. Stability, Delay Analysis and Simulation
+
+
+
 
