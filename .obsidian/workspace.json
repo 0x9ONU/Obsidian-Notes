@@ -13,33 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
+                "file": "General Notes/Kanban/A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 - Fatigue and Time Dependent Properties"
+              "title": "A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach"
             }
-          }
-        ]
-      },
-      {
-        "id": "9ef9fb4e8416dde1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d9fbadc8117daab4",
+            "id": "4aa7eae9d128a4e1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "release-notes",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatique and Time Dependant Properties.pdf"
+                "currentVersion": "1.12.4"
               },
-              "icon": "lucide-file-text",
-              "title": "9 - Fatique and Time Dependant Properties"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -268,12 +262,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "de9ae6f682703c82",
+  "active": "4aa7eae9d128a4e1",
   "lastOpenFiles": [
+    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
+    "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
     "General Notes/Pasted image 20260226124641.png",
     "General Notes/Pasted image 20260226123850.png",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatique and Time Dependant Properties.pdf",
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
     "General Notes/Pasted image 20260226123808.png",
     "General Notes/Pasted image 20260226123304.png",
     "General Notes/Pasted image 20260226122800.png",
@@ -282,15 +278,12 @@
     "General Notes/Pasted image 20260226121954.png",
     "General Notes/Pasted image 20260226121755.png",
     "General Notes/Pasted image 20260226121611.png",
-    "General Notes/Pasted image 20260226121248.png",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.md",
     "General Notes/Kanban/A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach.md",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
     "General Notes/Kanban/Eternal-Thing 2.0 Analog-Trojan Resilient Ripple-Less Solar Harvesting System for Sustainable IoT.md",
     "General Notes/Kanban/Securing Wireless Sensor Network Against Multi-Malware Threats A Comprehensive Modeling and Analysis Approach.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/Unconfirmed 271172.crdownload",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9",
-    "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
     "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Impact_and_Countermeasures_of_Malware_Attacks_on_E.pdf",
     "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md",
