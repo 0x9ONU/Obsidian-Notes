@@ -33,8 +33,7 @@
               "title": "Release Notes 1.12.4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -262,7 +262,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4aa7eae9d128a4e1",
+  "active": "de9ae6f682703c82",
   "lastOpenFiles": [
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
     "General Notes/Kanban/Epidemic Models of Malicious‑Code Propagation and Control in Wireless Sensor Networks An Indepth Review.md",
