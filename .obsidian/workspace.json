@@ -39,10 +39,14 @@
             "id": "8c65a165b2821765",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lab 4/Mat Sci Lab 4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mat Sci Lab 4"
             }
           }
         ],
@@ -277,6 +281,8 @@
   },
   "active": "8c65a165b2821765",
   "lastOpenFiles": [
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lab 4/Mat Sci Lab 4.md",
+    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lab 4",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
     "General Notes/Kanban/A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach.md",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
@@ -307,7 +313,6 @@
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Benchmark_for_Non-reciprocal_Attack_Detection_on_S.pdf",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Unconfirmed 216018.crdownload",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Time Synchronization Attacks in Sensor Networks\n.pdf",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Time Synchronization Attacks in Sensor Networks\n.pdf",
     "General Notes/Kanban/Machine Learning Enabled Techniques for Protecting Wireless Sensor Networks by Estimating Attack Prevalence and Device Deployment Strategy for 5G Networks.md",
     "General Notes/Kanban/Performance evaluation of deep learning techniques for DoS attacks detection in wireless sensor network.md",
     "General Notes/Kanban/Machine Learning Solutions for the Security of Wireless Sensor Networks A Review.md",

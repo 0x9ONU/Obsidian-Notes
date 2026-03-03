@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mat Sci Lab 4",
+      "path": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lab 4/Mat Sci Lab 4.md"
+    },
+    {
       "basename": "9 - Fatigue and Time Dependent Properties",
       "path": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Forest fire detection system using wireless sensor networks and machine learning",
       "path": "General Notes/Kanban/Forest fire detection system using wireless sensor networks and machine learning.md"
-    },
-    {
-      "basename": "Evolving landscape of wireless sensor networks a survey of trends, timelines, and future perspectives",
-      "path": "General Notes/Kanban/Evolving landscape of wireless sensor networks a survey of trends, timelines, and future perspectives.md"
     }
   ],
   "omittedPaths": [],
