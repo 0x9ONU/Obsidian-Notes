@@ -84,3 +84,19 @@ When calculating the MIller inicides, choose a plane **NOT** passing through the
 5. Millers indices use parentheses (ex. $(111), (110)$)
 
 ![[Pasted image 20260317121806.png]]
+
+![[Pasted image 20260317122351.png]]
+
+## Family of Planes $\{ hkl \}$
+
+Contains all those planes that are crystallographically equivalent, i.e. having the *same atomic packing*
+
+![[Pasted image 20260317122442.png]]
+
+$$
+\text{Cubic Unit Cell Plane Family}: \{1 1 1 \}
+$$
+
+## Summary
+
+![[Pasted image 20260317122511.png]]
