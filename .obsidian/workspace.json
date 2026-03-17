@@ -8,73 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de9ae6f682703c82",
+            "id": "d65fce15ec008272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 2/Lecture 3/ME 1411 Engineering Material Science HW3.md",
+                "file": "4 - Senior Year/Fall 2025/Resume 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ME 1411 Engineering Material Science HW3"
-            }
-          },
-          {
-            "id": "4aa7eae9d128a4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9 - Fatigue and Time Dependent Properties"
-            }
-          },
-          {
-            "id": "8c65a165b2821765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lab 4/Mat Sci Lab 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mat Sci Lab 4"
-            }
-          },
-          {
-            "id": "b03334a7568c5b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/Lecture 6 - More Elastic Properties.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 6 - More Elastic Properties"
-            }
-          },
-          {
-            "id": "e1a85c6a7c6ffd92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8 - Other Testing Methods"
+              "title": "Resume 2025"
             }
           }
         ]
@@ -109,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soul",
+                "query": "resume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +84,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -305,15 +250,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "de9ae6f682703c82",
+  "active": "d65fce15ec008272",
   "lastOpenFiles": [
+    "4 - Senior Year/Spring 2026/Material Science/Module 2/Lecture 3/ME 1411 Engineering Material Science HW3.md",
     "General Notes/Kanban/A Study of the Dissemination of Malware and the Enhancement of the Lifespan of Rechargeable Wireless Sensor Networks An Epidemiological Approach.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lab 4/Mat Sci Lab 4.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 8/8 - Other Testing Methods.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 6/Lecture 6 - More Elastic Properties.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 4/Amorphous and Semi-Crystalline Materials.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 2/Lecture 3/ME 1411 Engineering Material Science HW3.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 2/Lecture 3/Mat Sci - Lecture 3.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 3/Lecture 4/4 - Polymer Structure.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 2/Lecture 2/Mat Sci - Lecture 2.md",
