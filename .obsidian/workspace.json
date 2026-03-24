@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "11 - Deformations"
             }
+          },
+          {
+            "id": "f84317bd5d603b2c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "84232360cb77af8a",
@@ -268,8 +281,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c2aab7fa336bc079",
+  "active": "f84317bd5d603b2c",
   "lastOpenFiles": [
+    "General Notes/Pasted image 20260319130513.png",
+    "General Notes/Pasted image 20260319130428.png",
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformation.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformations.md",
     "General Notes/Pasted image 20260319125647.png",
     "General Notes/Pasted image 20260319125538.png",
     "General Notes/Pasted image 20260319125259.png",
@@ -279,10 +296,6 @@
     "General Notes/Pasted image 20260319124920.png",
     "General Notes/Pasted image 20260319124809.png",
     "General Notes/Pasted image 20260319124759.png",
-    "General Notes/Pasted image 20260319124703.png",
-    "General Notes/Pasted image 20260319124618.png",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformation.pdf",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformations.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 3.md",

@@ -269,3 +269,22 @@ The fracture toughness of a mateiral changes as the geometry changes untila poin
 
 ![[Pasted image 20260319125647.png]]
 
+## Ceramic Brittle Fracture
+
+Characteristic Behavior:
+- Origin point
+- Initial region (mirror) is flat and smooth
+- After reaches critical velocity, the crack branches
+	- Mist
+	- Hackle
+
+![[Pasted image 20260319130428.png]]
+
+## Crazing During Fracture and Thermoplastic Polymers
+
+Craze formation prior to cracking
+- During crazing, plastic deformation of spherulites
+- Formaiton of microvoids and fibrillar bridges
+
+![[Pasted image 20260319130513.png]]
+
