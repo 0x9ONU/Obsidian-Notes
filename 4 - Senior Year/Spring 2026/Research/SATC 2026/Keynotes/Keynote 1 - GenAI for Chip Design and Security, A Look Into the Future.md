@@ -19,3 +19,12 @@ Forecast: GenAI-related revenue grwoth from $93B in 2023 to $1.6T by 2032 with 3
 - Most of it is on the backend for infrastructure
 ```
 
+## GenAI in Chip Design and Security
+
+```ad-warning
+**The Cost of Chips is Rising**
+- Chip design cost rises from $28M (65nm) to $540M (5nm)
+- Attack surface is expanding with complexity, reducing efficiency and security
+- GenAI targets the most labor-intensive stages of RTL development and verification
+```
+
