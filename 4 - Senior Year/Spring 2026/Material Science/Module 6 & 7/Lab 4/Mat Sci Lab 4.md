@@ -16,9 +16,9 @@ File Folder: Lab 4
 
 *Grip Separation: $104.02 \space mm$*
 
-| Sample | Temp                             | Noted Cross-section dimensions - width ($mm$) | Noted Cross-section dimensions - thickness ($mm$) |
-| ------ | -------------------------------- | --------------------------------------------- | ------------------------------------------------- |
-| 1      | Room                             | 12.33                                         | 3.12                                              |
-| 2      | Room                             | 12.31                                         | 3.11                                              |
-| 3      | Heated ($80 \degree C$)          | 12.36                                         | 3.12                                              |
-| 4      | Liquid Nitrogen ($80 \degree C$) | 12.39                                         | 3.09                                              |
+| Sample | Temp                    | Noted Cross-section dimensions - width ($mm$) | Noted Cross-section dimensions - thickness ($mm$) |
+| ------ | ----------------------- | --------------------------------------------- | ------------------------------------------------- |
+| 1      | Room                    | 12.33                                         | 3.12                                              |
+| 2      | Room                    | 12.31                                         | 3.11                                              |
+| 3      | Heated ($80 \degree C$) | 12.36                                         | 3.12                                              |
+| 4      | Heated ($80 \degree C$) | 12.39                                         | 3.09                                              |
