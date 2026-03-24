@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Keynote 3 - Hardware Security - Consumer vs. Military",
+      "path": "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 3 - Hardware Security - Consumer vs. Military.md"
+    },
+    {
       "basename": "Keynote 2 - VERIFY-CPS - Validation and Evaluation for Resilient and Integrity-Focused Cyber-Physical System",
       "path": "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 2 - VERIFY-CPS - Validation and Evaluation for Resilient and Integrity-Focused Cyber-Physical System.md"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "Untitled 5.md"
     },
     {
       "basename": "Keynote 1 - GenAI for Chip Design and Security, A Look Into the Future",
@@ -191,14 +199,6 @@
     {
       "basename": "EEMLCR_Energy-Efficient_Machine_Learning-Based_Clustering_and_Routing_for_Wireless_Sensor_Networks",
       "path": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/EEMLCR_Energy-Efficient_Machine_Learning-Based_Clustering_and_Routing_for_Wireless_Sensor_Networks.pdf"
-    },
-    {
-      "basename": "Energy-Efficient and Secure Double RIS-Aided Wireless Sensor Networks: A QoS-Aware Fuzzy Deep Reinforcement Learning Approach",
-      "path": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Energy-Efficient and Secure Double RIS-Aided Wireless Sensor Networks: A QoS-Aware Fuzzy Deep Reinforcement Learning Approach.pdf"
-    },
-    {
-      "basename": "Epidemic Models of Malicious‑Code Propagation and Control\nin Wireless Sensor Networks: An Indepth Review",
-      "path": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Epidemic Models of Malicious‑Code Propagation and Control\nin Wireless Sensor Networks: An Indepth Review.pdf"
     }
   ],
   "omittedPaths": [],
