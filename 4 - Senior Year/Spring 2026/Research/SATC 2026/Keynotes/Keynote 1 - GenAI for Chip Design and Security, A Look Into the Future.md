@@ -5,6 +5,9 @@ title: Author Information
 - ECE Department Chair at University of Florida
 ```
 
+# Abstract
+
+Designing functionally correct, high-performance, and provably secure system-on-chips (SoCs) has become a strategic imperative for modern computing infrastructure. However, escalating complexity, heterogeneous integration, and evolving security threats are pushing traditional design and verification methodologies beyond their practical limits. The emergence of large language models (LLMs) offers a transformative opportunity for SoC automation. Beyond code generation, LLMs enable architectural reasoning, specification refinement, vulnerability analysis, and design-space exploration. Yet chip design is inherently multidisciplinary and iterative, requiring more than a single monolithic model. An agentic paradigm-where specialized AI agents collaborate within a coordinated framework-enables modular reasoning, cross-layer verification, and adaptive security validation across the SoC lifecycle. This keynote introduces a multi-agent intelligent assistant system designed to automate and augment SoC design and security verification. By integrating synthesis, threat modeling, formal reasoning, runtime monitoring, and hardware-software co-verification, this framework moves us toward self-optimizing, security-aware, and continuously verified siliconredefining how next-generation microelectronic systems are conceived, built, and trusted.
 # Introduction: GenAI as a New Frontier
 
 ## Gen AI Market - 2024
