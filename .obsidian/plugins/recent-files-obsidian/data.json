@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Ohio University Personal Statement",
+      "path": "4 - Senior Year/Fall 2025/_College Applications/OU/Ohio University Personal Statement.md"
+    },
+    {
+      "basename": "University of Cincinnati Personal Statement",
+      "path": "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/University of Cincinnati Personal Statement.md"
+    },
+    {
+      "basename": "Mat Sci Lab 4",
+      "path": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lab 4/Mat Sci Lab 4.md"
+    },
+    {
       "basename": "Keynote 8 - Agent-Based Security Verification of SoCS",
       "path": "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 8 - Agent-Based Security Verification of SoCS.md"
     },
     {
       "basename": "Keynote 7 - Mathematical Modeling in Microelectronics",
       "path": "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 7 - Mathematical Modeling in Microelectronics.md"
-    },
-    {
-      "basename": "Mat Sci Lab 4",
-      "path": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lab 4/Mat Sci Lab 4.md"
     },
     {
       "basename": "Session Paper 1 - Maintaining SDN Controller High Availability Through Heartbeat Links - A Multi-SDN Solution",
@@ -191,14 +199,6 @@
     {
       "basename": "Advances in Energy Harvesting for Sustainable Wireless Sensor Networks: Challenges and Opportunities",
       "path": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Advances in Energy Harvesting for Sustainable Wireless Sensor Networks: Challenges and Opportunities.pdf"
-    },
-    {
-      "basename": "An hybrid machine learning and improved social spider optimization\nbased clustering and routing protocol for wireless sensor network",
-      "path": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/An hybrid machine learning and improved social spider optimization\nbased clustering and routing protocol for wireless sensor network.pdf"
-    },
-    {
-      "basename": "An_Enhanced_Energy_Optimization_Model_for_Industrial_Wireless_Sensor_Networks_Using_Machine_Learning",
-      "path": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/An_Enhanced_Energy_Optimization_Model_for_Industrial_Wireless_Sensor_Networks_Using_Machine_Learning.pdf"
     }
   ],
   "omittedPaths": [],
