@@ -1,4 +1,4 @@
-- [ ] Provide a justification for the above amount requested as if this scholarship were not expected (250 words)
+- [x] Provide a justification for the above amount requested as if this scholarship were not expected (250 words) ✅ 2026-03-26
 - [ ] Describe your experience serving in the role(s) you chose above (500 words)
 - [ ] Gather Campus Activities
 - [ ] Gather Community Involvement

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Money Requested Essay",
-      "path": "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Essays/Money Requested Essay.md"
+      "basename": "Involvement Essay (500 Words)",
+      "path": "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Essays/Involvement Essay (500 Words).md"
     },
     {
       "basename": "Theta Chi Scholarship To-Do",
       "path": "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Theta Chi Scholarship To-Do.md"
+    },
+    {
+      "basename": "Money Requested Essay",
+      "path": "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Essays/Money Requested Essay.md"
     },
     {
       "basename": "12 - Strengthening and Toughening",
@@ -195,10 +199,6 @@
     {
       "basename": "Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks",
       "path": "General Notes/Kanban/Impact and Countermeasures of Malware Attacks on Energy-Efficient Wireless Sensor Networks.md"
-    },
-    {
-      "basename": "Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes",
-      "path": "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md"
     }
   ],
   "omittedPaths": [],
