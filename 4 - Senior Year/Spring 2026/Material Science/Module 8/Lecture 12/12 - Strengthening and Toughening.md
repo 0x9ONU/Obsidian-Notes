@@ -141,7 +141,7 @@ The junction of two crystals which differ in lattice structure and composition
 
 ## Important Note $\star$
 
-**Toughening** lowers the stress concentration at the tip of the crack, leading to le
+**Toughening** lowers the stress concentration at the tip of the crack, leading to less crack propagation and a tougher material.
 # Metal Classifications
 
 **Engineering Metals**: Mechanical strength is needed
@@ -172,4 +172,33 @@ The junction of two crystals which differ in lattice structure and composition
 
 ![[Pasted image 20260326142204.png]]
 
+# Toughening Ceramics
+
+1. Introduce microposity to increase crack tip radius (blunting the crack tips)
+2. Add ductile phase to arrest cracks
+3. Develop compressive residual stress at the crack tip
+
+![[Pasted image 20260326142555.png]]
+
+![[Pasted image 20260326142600.png]]
+
+# Strengthening Polymers
+
+```ad-note
+*Two main strategies*:
+1. Increase the moldecular weight/increasing the chain length
+2. Increase the degree of crystallization (more aligned chains)
+```
+
+**Drawing**:
+- Stretches the polymer prior to use
+- Aligns chains in the stretching direction
+- *ex.*: monofilament fishline
+
+**Annealing**: 
+- Increase $E$ and $TS$, decrease $EL\%$ (opposite effect for metals)
+
+```ad-warning
+for semicrystalline polymers, annealing can lead to an increase in the percent crystallinity and in crystallite size and perfection, as well as modifications of then spherulite structure. Different mechanism from metal annealing 
+```
 
