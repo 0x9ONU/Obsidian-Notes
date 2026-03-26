@@ -47,3 +47,30 @@ Working a metal below its recyrstallization temperature results in *strain harde
 
 ![[Pasted image 20260326135603.png]]
 
+### What is Cold Work?
+
+- Room temperature deformations
+- Common forming operations change the *cross sectional area*
+- CW%:
+
+$$
+\%CW = \frac{A_{o}-A_{d}}{A_{o}}
+$$
+### Forging
+
+A metalworking process that shapes metals parts at near room temperature by applying compressive forces between dies. Often involves hammering/pounding of the workpiece.
+
+![[Pasted image 20260326135819.png]]
+
+### Rolling
+
+![[Pasted image 20260326135828.png]]
+
+### Drawing
+
+![[Pasted image 20260326135836.png]]
+
+### Extrusion
+
+![[Pasted image 20260326135845.png]]
+
