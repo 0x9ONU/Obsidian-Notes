@@ -141,7 +141,7 @@ The junction of two crystals which differ in lattice structure and composition
 
 ## Important Note $\star$
 
-**Toughening**:
+**Toughening** lowers the stress concentration at the tip of the crack, leading to le
 # Metal Classifications
 
 **Engineering Metals**: Mechanical strength is needed
