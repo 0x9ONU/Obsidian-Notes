@@ -123,6 +123,25 @@ Tensile strength and yield strength increases with a percentage of Ni
 
 ![[Pasted image 20260326141743.png]]
 
+## Strategy Four: Phase Boundary Strengthening
+
+```ad-summary
+title: Definition
+The junction of two crystals which differ in lattice structure and composition
+```
+
+- These different crystals are called *phases*
+- Phases are formed during the solidification of *an alloy*
+
+![[Pasted image 20260326142307.png]]
+
+## Strategy Five: Quenching
+
+![[Pasted image 20260326142353.png]]
+
+## Important Note $\star$
+
+**Toughening**:
 # Metal Classifications
 
 **Engineering Metals**: Mechanical strength is needed
@@ -135,5 +154,22 @@ Tensile strength and yield strength increases with a percentage of Ni
 
 - Pure iron has a low strength
 - Cast irons and steels are iron-based alloys that greatly increase its strength.
-- Addtion of a smalla mount of carbon can also strengthen the material greatly.
+- Addition of a small amount of carbon can also strengthen the material greatly.
+
+## Naming Systems for Irons and Steels
+
+**AISI/SAE Steel Designation System**
+
+![[Pasted image 20260326142037.png]]
+
+- First two digits indicates the alloy content other than carbon
+- ex. 10 → Plain carbon
+- The last two digits show the carbon content in hundredths of a percent
+
+![[Pasted image 20260326142121.png]]
+
+![[Pasted image 20260326142126.png]]
+
+![[Pasted image 20260326142204.png]]
+
 
