@@ -74,3 +74,13 @@ A metalworking process that shapes metals parts at near room temperature by appl
 
 ![[Pasted image 20260326135845.png]]
 
+### Disslocations During Cold Work
+
+The # increases and dislocations entangle with one another during cold work
+- Makes dislocation motion much more difficult
+
+![[Pasted image 20260326140237.png]]
+
+**As Cold Work Is Increased**
+- Yield strength ()
+
