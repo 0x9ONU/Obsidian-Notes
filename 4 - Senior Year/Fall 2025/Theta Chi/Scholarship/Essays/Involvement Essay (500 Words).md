@@ -1,2 +1,2 @@
 
-During my time in Theta Chi at Ohio Northern University, I have spent a lot of time
+During my time in Theta Chi at Ohio Northern University, I have spent a considerable amount of time, effort, and love into making our chapter the best it could possibly be. As a freshman, I was elected to be both the Historian and the Fundraising Chair for the chapter. During my term, I was able to raise $500 for our fraternity in the first semester and would improve our composite situation during a time where we had a vacancy in which company we went through. The following Spring semester, I was assigned to be the Alumni Chairman due to a vacancy in the position. I would choose to 
