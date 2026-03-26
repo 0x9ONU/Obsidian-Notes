@@ -47,7 +47,8 @@
               "title": "Tutoring 3-25-2026 AH"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,10 +277,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6c344016ef5f4b91",
+  "active": "2c722179bb1be281",
   "lastOpenFiles": [
-    "General Notes/Electronics - Week 9 Day 1 2024-03-25 13.25.58.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
+    "General Notes/Electronics - Week 9 Day 1 2024-03-25 13.25.58.excalidraw.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
     "Tutoring 3-25-2026 AH.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
