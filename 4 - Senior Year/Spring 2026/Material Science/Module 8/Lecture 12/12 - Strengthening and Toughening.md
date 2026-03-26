@@ -82,5 +82,27 @@ The # increases and dislocations entangle with one another during cold work
 ![[Pasted image 20260326140237.png]]
 
 **As Cold Work Is Increased**
-- Yield strength ()
+- Yield strength ($\sigma_{y}$) increases
+- Tensile strength ($TS$) increases
+- Ductility ($\%EL$ or $\%AR$) decreases
+
+![[Pasted image 20260326140436.png]]
+
+![[Pasted image 20260326140443.png]]
+
+### Effects of Heating After $\%CW$
+
+**Annealing**
+- Involves heating the material past the recyrstallizaion temperature
+- Around 1 hour treatment at $T_{anneal}$
+- Decreases $TS$
+- Increases $\%EL$
+- **Effects of cold work are reversed!**
+
+![[Pasted image 20260326140611.png]]
+
+![[Pasted image 20260326140622.png]]
+
+## Strategy Three: Strengthening by Alloys
+
 
