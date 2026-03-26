@@ -57,3 +57,15 @@ $$
 ```ad-important
 $$V_{ZT}=I_{ZT}+r_{z}I_z$$
 ```
+
+# 4.47
+
+![[Electronics - Week 9 Day 1 2024-03-25 13.25.58.excalidraw]]
+# 4.61
+
+```ad-note
+title: Hint
+you may use multiple diodes per diode type to get it up to the regulation voltage
+```
+
+
