@@ -105,4 +105,34 @@ The # increases and dislocations entangle with one another during cold work
 
 ## Strategy Three: Strengthening by Alloys
 
+An impurity atom distorts the lattice and generates stress
+- Stress can produce a barrier to dislocation motion
+- In small impurity, it generates local stress at vectors $\mathbf{A}$ and $\mathbf{B}$ that opposes dislocation motion to the right.
+- In a large impurity, it can generate even more local stress (in this case at $\mathbf{C}$ and $\mathbf{D}$) that opposes dislocation motion to the right
+
+![[Pasted image 20260326141422.png]]
+
+### Example: Strengthening Copper
+
+![[Pasted image 20260326141648.png]]
+
+Tensile strength and yield strength increases with a percentage of Ni
+- $\sigma_{y} \approx C^{1/2}$
+- Alloying increases $\sigma_{y}$ and $TS$
+- It also increases ductility
+
+![[Pasted image 20260326141743.png]]
+
+# Metal Classifications
+
+**Engineering Metals**: Mechanical strength is needed
+- Most widely used engineering metal: **Iron**
+- Iron based alloys: *Steel*
+
+**Metal Alloys**: Combination of two or more chemical elements where metal is the major constituent
+
+## Iron and Steels
+
+- Pure iron has a low strength
+- Cast irons and stees are iron-based alloys that greatl
 
