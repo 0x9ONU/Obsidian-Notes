@@ -134,5 +134,6 @@ Tensile strength and yield strength increases with a percentage of Ni
 ## Iron and Steels
 
 - Pure iron has a low strength
-- Cast irons and stees are iron-based alloys that greatl
+- Cast irons and steels are iron-based alloys that greatly increase its strength.
+- Addtion of a smalla mount of carbon can also strengthen the material greatly.
 
