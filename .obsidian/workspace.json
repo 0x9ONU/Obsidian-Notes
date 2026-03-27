@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "e06bc26c02dcf382",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c2bf36cc2ae96d1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 12/12 - strengthening and toughening.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "12 - strengthening and toughening"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
