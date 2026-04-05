@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "13 - Binary Phase Diagrams",
-      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.pdf"
+      "basename": "11 - Deformation",
+      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformation.pdf"
+    },
+    {
+      "basename": "11 - Deformations",
+      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformations.md"
+    },
+    {
+      "basename": "10 - Millers Indices",
+      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/10 - Millers Indices.pdf"
+    },
+    {
+      "basename": "Lecture 10 - Miller's Indices",
+      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/Lecture 10 - Miller's Indices.md"
+    },
+    {
+      "basename": "Exam2 Review",
+      "path": "4 - Senior Year/Spring 2026/Material Science/Exam 2/Exam2 Review.pdf"
     },
     {
       "basename": "13 - Binary Phase Diagrams",
       "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md"
+    },
+    {
+      "basename": "13 - Binary Phase Diagrams",
+      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.pdf"
     },
     {
       "basename": "12 - strengthening and toughening",
@@ -105,14 +125,6 @@
       "path": "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 1 - GenAI for Chip Design and Security, A Look Into the Future.md"
     },
     {
-      "basename": "11 - Deformations",
-      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformations.md"
-    },
-    {
-      "basename": "11 - Deformation",
-      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformation.pdf"
-    },
-    {
       "basename": "Electronics - Week 8 Day 1",
       "path": "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 1.md"
     },
@@ -123,14 +135,6 @@
     {
       "basename": "Electronics - Week 7 Day 2",
       "path": "2 - Sophomore Year/Spring 2024/Electronics/Week 7/Electronics - Week 7 Day 2.md"
-    },
-    {
-      "basename": "Lecture 10 - Miller's Indices",
-      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/Lecture 10 - Miller's Indices.md"
-    },
-    {
-      "basename": "10 - Millers Indices",
-      "path": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/10 - Millers Indices.pdf"
     },
     {
       "basename": "ME 1411 Engineering Material Science HW3",
@@ -195,10 +199,6 @@
     {
       "basename": "Securing Wireless Sensor Network Against Multi-Malware Threats A Comprehensive Modeling and Analysis Approach",
       "path": "General Notes/Kanban/Securing Wireless Sensor Network Against Multi-Malware Threats A Comprehensive Modeling and Analysis Approach.md"
-    },
-    {
-      "basename": "Potential Flow Detection Model",
-      "path": "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas"
     }
   ],
   "omittedPaths": [],
