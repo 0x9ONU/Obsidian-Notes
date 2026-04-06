@@ -18,33 +18,8 @@
               "icon": "lucide-file-text",
               "title": "11 - Deformation"
             }
-          },
-          {
-            "id": "0be0ad756bc66c7f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/10 - Millers Indices.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "10 - Millers Indices"
-            }
-          },
-          {
-            "id": "48400a4c6e3342f5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatique and Time Dependant Properties.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "9 - Fatique and Time Dependant Properties"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,14 +247,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0be0ad756bc66c7f",
+  "active": "b2a8ae3b3e6a1db7",
   "lastOpenFiles": [
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatique and Time Dependant Properties.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformation.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/10 - Millers Indices.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
     "4 - Senior Year/Spring 2026/Material Science/Exam 2/Exam2 Review.pdf",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformation.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformations.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/10 - Millers Indices.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/Lecture 10 - Miller's Indices.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.pdf",
