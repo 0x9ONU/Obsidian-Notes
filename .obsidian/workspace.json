@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "fc9fd162fd51e513",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37bf296dd3888c88",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "15 - FE-C Eutectoid Diagrams"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
