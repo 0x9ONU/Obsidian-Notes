@@ -11,12 +11,32 @@
             "id": "b2a8ae3b3e6a1db7",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15 - FE-C Eutectoid Diagrams"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fc9fd162fd51e513",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37bf296dd3888c88",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.pdf"
+                "file": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "13 - Binary Phase Diagrams"
+              "title": "15 - FE-C Eutectoid Diagrams"
             }
           }
         ]
@@ -86,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -249,6 +270,16 @@
   },
   "active": "b2a8ae3b3e6a1db7",
   "lastOpenFiles": [
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md",
+    "General Notes/Pasted image 20260416122144.png",
+    "General Notes/Pasted image 20260416122057.png",
+    "General Notes/Pasted image 20260416121810.png",
+    "General Notes/Pasted image 20260416121322.png",
+    "General Notes/Pasted image 20260416121156.png",
+    "General Notes/Pasted image 20260416120733.png",
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 12/12 - strengthening and toughening.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 14",
@@ -260,19 +291,11 @@
     "4 - Senior Year/Spring 2026/Material Science/Exam 2/Exam2 Review.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformations.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/Lecture 10 - Miller's Indices.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Exam 2",
     "General Notes/Pasted image 20260331123623.png",
     "General Notes/Pasted image 20260331123450.png",
     "General Notes/Pasted image 20260331123352.png",
     "General Notes/Pasted image 20260331123323.png",
-    "General Notes/Pasted image 20260331123102.png",
-    "General Notes/Pasted image 20260331122946.png",
-    "General Notes/Pasted image 20260331122909.png",
-    "General Notes/Pasted image 20260331122817.png",
-    "General Notes/Pasted image 20260331122705.png",
-    "General Notes/Pasted image 20260331122613.png",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13",
     "4 - Senior Year/Fall 2025/Resume 2025.md",
     "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Essays/Involvement Essay (500 Words).md",
     "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Theta Chi Scholarship To-Do.md",
@@ -280,7 +303,6 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
     "General Notes/Electronics - Week 9 Day 1 2024-03-25 13.25.58.excalidraw.md",
     "Tutoring 3-25-2026 AH.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 12",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
@@ -293,7 +315,6 @@
     "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 6 - AI and Edge Computing - Emerging Security Challenges in the New Era.md",
     "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 5- AI in Cybersecurity.md",
     "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 3 - Hardware Security - Consumer vs. Military.md",
-    "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 2 - VERIFY-CPS - Validation and Evaluation for Resilient and Integrity-Focused Cyber-Physical System.md",
     "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
