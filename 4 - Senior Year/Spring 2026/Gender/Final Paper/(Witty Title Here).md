@@ -3,13 +3,14 @@
 
 # Background
 
-## Queer Love Statistics
-
+## Album Information
 ## Artist Biography
 
-# Album Analysis
+## External Album Reviews
 
-## General Album Information
+# Album Review
+
+## Overview
 
 ## Song 1: \*untitled\*
 
@@ -57,6 +58,20 @@
 
 ### Part 7: Acceptance?
 
+# Theme Analysis
+
+## Addictions and Drug Abuse
+
+## Depression
+
+## Religion
+
+## Sexual Abuse
+
 # Comparison
+
+## Statistics Regarding LGBTQ+
+
+## Representation in Media
 
 # Conclusion
