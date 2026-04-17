@@ -1,4 +1,3 @@
-
 # Introduction
 
 # Background
@@ -75,3 +74,6 @@
 ## Representation in Media
 
 # Conclusion
+
+# Resources
+[1] 
