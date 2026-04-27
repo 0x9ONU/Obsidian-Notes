@@ -84,3 +84,7 @@
 [b1] Matthew 26:26-28
 
 [b2] Hebrews 4:12z
+
+[b3] Matthew 27:34
+
+[b4] John 6:51
