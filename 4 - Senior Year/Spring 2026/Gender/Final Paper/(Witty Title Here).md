@@ -1,6 +1,6 @@
 # Introduction
 
-`# Background
+# Background
 
 ## Album Information
 ## Artist Biography
