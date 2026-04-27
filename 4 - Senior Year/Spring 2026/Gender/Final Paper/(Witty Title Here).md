@@ -75,6 +75,8 @@
 
 ## Representation in Media
 
+## My Thoughts
+
 # Conclusion
 
 # Resources
