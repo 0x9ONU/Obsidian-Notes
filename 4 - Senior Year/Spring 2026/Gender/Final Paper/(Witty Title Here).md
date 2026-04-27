@@ -80,3 +80,7 @@
 # Resources
 
 [1] 
+
+[b1] Matthew 26:26-28
+
+[b2] Hebrews 4:12z
