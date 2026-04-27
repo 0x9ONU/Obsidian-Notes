@@ -3,6 +3,7 @@
 # Background
 
 ## Album Information
+
 ## Artist Biography
 
 ## External Album Reviews
