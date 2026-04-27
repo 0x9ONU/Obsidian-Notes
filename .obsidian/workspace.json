@@ -8,29 +8,64 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2a8ae3b3e6a1db7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/978-3-031-05640-6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "978-3-031-05640-6"
-            }
-          },
-          {
-            "id": "22f9df157d1f11a0",
+            "id": "34a16b1f98963f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
+                "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Project SPARK 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electronics - Week 10 Day 1"
+              "title": "Project SPARK 2025"
+            }
+          },
+          {
+            "id": "f966c07a5e6edee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/ADULT LGBT POPULATION in the United States.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADULT LGBT POPULATION in the United States"
+            }
+          },
+          {
+            "id": "5a16454bbff4b6a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/HCDVCC Report 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HCDVCC Report 2024"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1290d2801b846d85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98e0cfd7556390a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/DVAF-Annual-Report-2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DVAF-Annual-Report-2024"
             }
           }
         ]
@@ -261,25 +296,32 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b2a8ae3b3e6a1db7",
+  "active": "f966c07a5e6edee4",
   "lastOpenFiles": [
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Untitled.md",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/978-3-031-05640-6.pdf",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Project SPARK 2025.md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/HCDVCC Report 2024.md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/ADULT LGBT POPULATION in the United States.md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/DVAF-Annual-Report-2024.pdf",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/LGBT-Adult-US-Pop-Dec-2023.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Commentary_on_the_InVisibility_of_LGBTQ_Victims_in.pdf",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/ched-article-p124.pdf",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/6351-13-10605631-1-10-20250227.pdf",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/09728686261424064.pdf",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/MillsandOswin_FindingworkintheageofLGBTQequalities.docx",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Gender Based Violence - A Comprehensive Guide.pdf",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/2024-2025_HMS-National-Data-Report_Student.pdf",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Project SPARK 2025.pdf",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Commentary on the (In)Visibility of LGBTQ+ Victims in Domestic Violence Fatality Reviews.md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Awareness of LGBTQ+ health disparities - A survey study of complementary integrative health providers.md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/The Impact of Corporate Policies on LGBTQ+ Employee Well-being.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/(Witty Title Here).md",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Unconfirmed 669632.crdownload",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Unconfirmed 205866.crdownload",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Unconfirmed 418209.crdownload",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/The Impact of Corporate Policies on LGBTQ+ Employee Well-being.md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Use of Alcohol, Nicotine, and Drugs in Lesbian, Gay, and Bisexual Persons - Implications for Substance Use Disorders among Sexual Minorities.md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494).md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 10/Electronics - Week 10 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 3.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 1.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.pdf",
     "General Notes/Pasted image 20260416122144.png",
     "General Notes/Pasted image 20260416122057.png",
     "General Notes/Pasted image 20260416121810.png",
@@ -301,13 +343,6 @@
     "4 - Senior Year/Fall 2025/Theta Chi/Scholarship/Essays/Money Requested Essay.md",
     "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 1.md",
     "General Notes/Electronics - Week 9 Day 1 2024-03-25 13.25.58.excalidraw.md",
-    "Tutoring 3-25-2026 AH.md",
-    "2 - Sophomore Year/Spring 2024/Electronics/Week 9/Electronics - Week 9 Day 2.md",
-    "4 - Senior Year/Fall 2025/_College Applications/OU/Ohio University Personal Statement.md",
-    "4 - Senior Year/Fall 2025/_College Applications/Cincy (1-15-25)/Essay/University of Cincinnati Personal Statement.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lab 4/Mat Sci Lab 4.md",
-    "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 8 - Agent-Based Security Verification of SoCS.md",
-    "4 - Senior Year/Spring 2026/Research/SATC 2026/Keynotes/Keynote 7 - Mathematical Modeling in Microelectronics.md",
     "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
