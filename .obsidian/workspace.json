@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "HCDVCC Report 2024"
             }
+          },
+          {
+            "id": "a265364502025d5d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "1290d2801b846d85",
@@ -296,11 +306,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f966c07a5e6edee4",
+  "active": "a265364502025d5d",
   "lastOpenFiles": [
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Project SPARK 2025.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/HCDVCC Report 2024.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/ADULT LGBT POPULATION in the United States.md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Project SPARK 2025.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/DVAF-Annual-Report-2024.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/LGBT-Adult-US-Pop-Dec-2023.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Commentary_on_the_InVisibility_of_LGBTQ_Victims_in.pdf",

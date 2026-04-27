@@ -15,5 +15,4 @@ Interestingly, while transgender and cisgender adults reported **similar rates o
     - **42%** of transgender adults have attempted suicide, nearly four times the rate of cisgender adults (**11%**).
 
 **Non-Suicidal Self-Injury (NSSI):** Over half (**56%**) of transgender adults reported engaging in self-injury, compared to only **12%** of cisgender adults.
-    
 **Highest Risk Group:** Transgender **nonbinary** adults consistently reported the highest rates of both substance use and poor mental health within the community.
