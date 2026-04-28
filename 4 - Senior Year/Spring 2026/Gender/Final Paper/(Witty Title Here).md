@@ -6,7 +6,13 @@
 
 ## Artist Biography
 
-## External Album Reviews
+# Literature Review
+
+## Addictions and Drug Abuse
+
+## Depression
+
+## Domestic Abuse
 
 # Album Review
 
@@ -34,7 +40,7 @@
 
 ## Song XI: playing dead
 
-## Song XIII: revisted
+## Song XIII: revisited
 
 ### Part 1: Introduction
 
@@ -50,25 +56,9 @@
 
 ### Part 7: Acceptance?
 
-# Theme Analysis
-
-## Addictions and Drug Abuse
-
-## Depression
-
-## Religion
-
-## Domestic Abuse
-
-## Work
-
 # Comparison
 
-## Statistics Regarding LGBTQ+
 
-## Representation in Media
-
-## My Thoughts
 
 # Conclusion
 
