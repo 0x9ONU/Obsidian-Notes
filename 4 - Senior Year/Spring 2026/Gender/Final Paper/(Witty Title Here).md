@@ -34,8 +34,6 @@
 
 ### Part 3: “So Make it Work Tonight”
 
-## Song VIII: ❤️
-
 ## Song IX: lost in translation
 
 ## Song XI: playing dead
