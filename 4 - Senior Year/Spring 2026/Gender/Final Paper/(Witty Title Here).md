@@ -12,8 +12,6 @@
 
 ## Overview
 
-## Song 1: \*untitled\*
-
 ## Song II: stop calling
 
 ## Song III: dish rags
@@ -21,8 +19,6 @@
 ## Song IV: rosemary
 
 ## Song V: snowing in las vegas
-
-## Song VI: \*falling asleep on the phone\* 
 
 ## Song VII: wetdream
 
@@ -36,11 +32,7 @@
 
 ## Song IX: lost in translation
 
-## Song X: \*it merely marches forward \*
-
 ## Song XI: playing dead
-
-## Song XII: bury me
 
 ## Song XIII: revisted
 

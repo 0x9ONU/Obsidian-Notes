@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f2da52cd9a63f023",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "abab1620be188371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 17/17 - FE-C CCT Diagrams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17 - FE-C CCT Diagrams"
-            }
-          }
-        ]
-      },
-      {
         "id": "c36c9c597acdcbff",
         "type": "tabs",
         "children": [
@@ -96,33 +76,9 @@
               "icon": "lucide-file",
               "title": "(Witty Title Here)"
             }
-          },
-          {
-            "id": "c98e0cfd7556390a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/DVAF-Annual-Report-2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DVAF-Annual-Report-2024"
-            }
-          },
-          {
-            "id": "97b2673f6fb6cebb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 17/16 -  Fe-C CCT Diagrams.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "16 -  Fe-C CCT Diagrams"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -351,19 +306,19 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "97b2673f6fb6cebb",
+  "active": "e3adecc923ebbe47",
   "lastOpenFiles": [
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/DVAF-Annual-Report-2024.pdf",
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 17/16 -  Fe-C CCT Diagrams.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 17/17 - FE-C CCT Diagrams.md",
     "General Notes/Pasted image 20260428125324.png",
     "General Notes/Pasted image 20260428125208.png",
     "General Notes/Pasted image 20260428125143.png",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 17/16 -  Fe-C CCT Diagrams.pdf",
     "General Notes/Pasted image 20260428124617.png",
     "General Notes/Pasted image 20260428124610.png",
     "General Notes/Pasted image 20260428124425.png",
     "General Notes/Pasted image 20260428124317.png",
     "General Notes/Pasted image 20260428124259.png",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/DVAF-Annual-Report-2024.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Workplace Harassment of Transgender People - A Narrative Review.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/(Witty Title Here).md",
     "General Notes/Pasted image 20260428122945.png",
