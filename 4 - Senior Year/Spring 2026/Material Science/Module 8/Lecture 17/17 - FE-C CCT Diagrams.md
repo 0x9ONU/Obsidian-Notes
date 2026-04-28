@@ -117,5 +117,61 @@ Presence of intersitital carbon atoms in iron taht leads to tremendous lattice s
 - Leads to a super strong, but super brittle steel
 ```
 
-# NASA Video
+## Formationa and Tempering
 
+![[Pasted image 20260428124317.png]]
+
+$M$ = marensite is body centered tetragonal (BCT)
+- Tempering: Reheat martensite to $250\to650 \degree C$
+- Excess carbon precipitates out ot form fine particles of $Fe_3C$
+
+## Processing Options
+
+![[Pasted image 20260428124425.png]]
+
+# Continuous Cooling Transformation of Steels
+
+![[Pasted image 20260428124610.png]]
+
+![[Pasted image 20260428124617.png]]
+
+
+# Diversity of Properties for Steels
+
+
+![[Pasted image 20260428124259.png]]
+
+# Hardenability in Steels
+
+Measures the ability to form Martensite
+- Jominy end quench test to measure hardenability
+
+![[Pasted image 20260428125143.png]]
+
+```ad-important
+As you move away from the quenched end, the hardness decreases.
+```
+
+![[Pasted image 20260428125208.png]]
+
+## Quenching Medium & Geometry
+
+| Medium | Severity | Hardness |
+| ------ | -------- | -------- |
+| Air    | Low      | Low      |
+| Oil    | Moderate | Moderate |
+| Water  | High     | High     |
+
+**Effects of Geometry**
+- When surface-to-volume ratio increases
+- Cooling rate increases
+- Hardness increases
+
+![[Pasted image 20260428125324.png]]
+
+# Hard Turning 
+
+- Cutting hard materials is difficult
+- Grinding, themost popular method, is expensive, environmentally unfriendly, and inflexible
+- Diamond and CBN tools appear
+- Turning 
