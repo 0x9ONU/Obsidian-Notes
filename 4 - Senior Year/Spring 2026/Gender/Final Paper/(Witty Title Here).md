@@ -60,6 +60,12 @@
 
 # Conclusion
 
+## Future Work
+
+- Religion
+- Workplace
+- Disease/Healthcare
+
 # Resources
 
 [1] 
