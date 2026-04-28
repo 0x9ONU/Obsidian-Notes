@@ -69,15 +69,15 @@
 
 # Comparison
 
+- Is their work an accurate representation of the media 
 
-
-# Conclusion
-
-## Future Work
+# Future Work
 
 - Religion
 - Workplace
 - Disease/Healthcare
+
+# Conclusion
 
 # Resources
 
