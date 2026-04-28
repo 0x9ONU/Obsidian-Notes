@@ -91,3 +91,15 @@
 [b3] Matthew 27:34
 
 [b4] John 6:51
+
+[star] https://starstarer.bandcamp.com/
+
+[drug bug] https://drugbug1.bandcamp.com/
+
+[friends house records] https://friendshouserecords.bandcamp.com/
+
+[midwestern roadkill] https://midwesternroadkill.bandcamp.com/
+
+[squee] https://squeee.bandcamp.com/album/squee-2
+
+[willy + song] https://willyrodriguez.bandcamp.com/album/wetdream

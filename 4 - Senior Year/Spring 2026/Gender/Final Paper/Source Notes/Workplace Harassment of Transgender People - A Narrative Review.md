@@ -1,4 +1,4 @@
-# Introduction
+ # Introduction
 
 The narrative review **"Workplace Harassment of Transgender People" (2026)** synthesizes 63 studies from the past 25 years to highlight the pervasive and often "invisible" nature of harassment faced by gender minorities.
 
