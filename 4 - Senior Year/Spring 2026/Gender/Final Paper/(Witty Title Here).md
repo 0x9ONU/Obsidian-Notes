@@ -2,9 +2,21 @@
 
 # Background
 
-## Album Information
+
 
 ## Artist Biography
+
+- star starer /drug bug
+- 
+- Friends house records
+
+## Album Information
+
+- Release date
+- Release conditions (posthumerously)
+	- self-called “magnum opus”
+- Small amount of records
+- Popular far after release
 
 # Literature Review
 
