@@ -7,7 +7,7 @@
 ## Artist Biography
 
 - star starer /drug bug
-- 
+- midwestern roadkill/squee
 - Friends house records
 
 ## Album Information
