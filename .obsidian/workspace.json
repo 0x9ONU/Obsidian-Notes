@@ -355,51 +355,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "floating": {
-    "id": "6ab70f65fb5746c7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3be5a706093ae541",
-        "type": "window",
-        "children": [
-          {
-            "id": "70435d6ff8dd88a4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "43a056b1893b0bd1",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Project SPARK 2025.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Project SPARK 2025"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 727,
-        "height": 862,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
   "active": "049797e56fdbba51",
   "lastOpenFiles": [
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Project SPARK 2025.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/(Witty Title Here).md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Project SPARK 2025.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Use of Alcohol, Nicotine, and Drugs in Lesbian, Gay, and Bisexual Persons - Implications for Substance Use Disorders among Sexual Minorities.md",
+    "copilot/copilot-conversations/```_The_misuse_of_drugs_and_their_corresponding_addictions_often@20260429_142515.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/ADULT LGBT POPULATION in the United States.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/LGBT-Adult-US-Pop-Dec-2023.pdf",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Project SPARK 2025.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Use of Alcohol, Nicotine, and Drugs in Lesbian, Gay, and Bisexual Persons - Implications for Substance Use Disorders among Sexual Minorities.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Class Notes/Week 14.md",
     "copilot/copilot-conversations/The_various_qualities_a_person_has_can_determine_many_aspects@20260428_222544.md",
@@ -438,7 +402,6 @@
     "2 - Sophomore Year/Spring 2024/Electronics/Week 8/Electronics - Week 8 Day 2.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 12/12 - Strengthening and Toughening.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformations.md",
     "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
