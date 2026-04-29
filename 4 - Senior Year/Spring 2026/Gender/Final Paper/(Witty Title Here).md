@@ -92,12 +92,31 @@ Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Compre
 - [[Commentary on the (In)Visibility of LGBTQ+ Victims in Domestic Violence Fatality Reviews]]
 
 All these statistics reflect real, lived experiences of minority stress that media representations can either reinforce or challenge. When media portrays LGBTQ+ characters primarily through narratives of addiction, trauma, or self-destructive behavior without context or depth, it risks tokenism and symbolic annihilation. It is important to ensure the media we are critiquing is not continuing on this stereotype and rather either challenges it or provides a new way to express the real pain the author is feeling.
-# Album Review
+# Album Analysis
 
-Within the lens of gender and sexuality studies, each major song of the album will be discussed
+Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 5 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥” and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these five songs should be listened to; however, they are out of the scope of this analysis. Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song, it would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` is the three lines taken from the section.
 
 ## Song II: stop calling
 
+This song, often considered the opener of the album, outlines the relationship between the main narrator and their romantic interest. As the song moves along, the narrator becomes more desperate for the love, affection, and sexual attention of the 
+
+```ad-quote
+title: stop calling 1:1:2
+Fall into my arms, just don't you kiss and tell
+```
+
+```ad-quote
+title:stop calling 1:C:2-3
+'Cause dashers coming up
+'Cause dashers coming up
+```
+
+```ad-quote
+title: stop calling 1:O:1-3
+I need you more than you could know  
+It's what I need to show they're mine  
+Oh baby, don't go
+```
 ## Song III: dish rags
 
 ## Song IV: rosemary
@@ -110,7 +129,7 @@ Within the lens of gender and sexuality studies, each major song of the album wi
 
 ### Part 2: “Smoke Me Out”
 
-### Part 3: “So Make it Work Tonight”
+### Part 4: “So Make it Work Tonight”
 
 ## Song IX: lost in translation
 
