@@ -19,6 +19,7 @@
 
 # Literature Review
 
+To lay the necessary groundwork for uncovering the various themes found throughout WRWT's magnum opus, we must first discuss the literature surrounding gender theory, particularly as it relates to LGBTQ+ media representation. This section will introduce the critical terminology used throughout academic spaces, such as intersectionality, heteronormativity, and tokenism. Afterwards,  statistical trends are clarified regarding three risks the queer community disproportionately faces: drug abuse, depression, and domestic abuse. By situating these issues within existing research, we can later assess how the album's lyrics reflect, challenge, and stereotype the realities documented in the literature.
 ##  Terminology
 
 Before getting into specific topics, it is important to cover some critical terminology in determining whether media is a positive or negative representation of a specific minority:
@@ -34,6 +35,11 @@ Note that this is not necessarily an exhaustive list, but the following terms wi
 ```
 ## Addictions and Drug Abuse
 
+The misuse of drugs and their corresponding addictions often affects minority communities immensely. Unfortunately, the literature shows that LGBTQ+ individuals are not safe from this “fate.” The study found that these individuals exhibited statistically significant higher rates of alcohol use, cannabis use, nicotine dependence, and drug misuse compared to their cis and heterosexual counterparts. The statement relies on three studies and their datasets: the National Survey on Drug Use and Health (NSDUH) [1], The Trevor Project’s research brief on substance abuse [2], and UCLA’s Adult LGBT Population in the United States survey [3]. To explain this correlation, contributing factors are further discussed to gain insight into these results. 
+
+Ellis *et al.* [1] from California Northstate University compiled the data from the NSDUH regarding LGBTQ+ individuals. They found that there was nearly a double rate of addiction to alcohol (17.9% vs. 10.3%), a nearly triple rate of addiciton to cannabis (13.0% vs 4.7%) , and a generally high use of nicotine when compared to the rest of the population in the United States. Out of all the drugs survied, opoids were the only drug that was consistently decreasing across all populations. The survey found that youth (aged between 12 to 25) were typically also abusing substances at a higher rate than older adults. In line with social constructivism, the study interprets that these disparities to are caused by multiple contributing factors. Firstly, discrimination and stigmas around LGBTQ+ accessing healthcare and therapy makes it difficult to discover healthy coping mechanisms. It also pin-points that social spaces that are affirming often also center around substance abuse such as drinking. The researchers also blame COVID-19 in breaking down local social networks that young LGBTQ+ individuals rely on which may feed isolation, anxiety, and substance abuse.
+
+The *Substance Use, Minority Stress, and Mental Health among LGBTQ+ Young People* [2] research brief by the Trevor Project also shares a similar and more up-to-date view on 
 
 
 - [[ADULT LGBT POPULATION in the United States#Substance Abuse]]
@@ -44,6 +50,7 @@ Note that this is not necessarily an exhaustive list, but the following terms wi
 
 - [[Project SPARK 2025#Depression]]
 - [[ADULT LGBT POPULATION in the United States#Depression]]
+- [[Use of Alcohol, Nicotine, and Drugs in Lesbian, Gay, and Bisexual Persons - Implications for Substance Use Disorders among Sexual Minorities#Contributing Factors]]
 
 ## Domestic Abuse
 
@@ -101,7 +108,7 @@ Note that this is not necessarily an exhaustive list, but the following terms wi
 
 # Comparison
 
-- Is their work an accurate representation of the media 
+- Is their work an accurate representation of the media?
 
 # Future Work
 
