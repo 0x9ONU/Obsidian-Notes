@@ -21,6 +21,8 @@
 
 ##  Terminology
 
+
+
 - [[Week 9]]
 	- Systematic violence on women and minorities
 		- Proven by statistics on intimate partner violence
@@ -35,7 +37,8 @@
 	- Queer
 	- Social Constructionism
 	- Heteronomativity
-	- 
+	- Symbolic annihilation
+	- Tokenism
 
 ## Addictions and Drug Abuse
 
