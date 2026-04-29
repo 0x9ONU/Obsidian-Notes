@@ -21,15 +21,9 @@
 
 ##  Terminology
 
-
+Before getting into specific topics, it is important to cover some critical terminology in determining how to determine whether media is a good representation of a [Week 14].
 
 - [[Week 9]]
-	- Systematic violence on women and minorities
-		- Proven by statistics on intimate partner violence
-		- History of unfair laws
-	- *Battered Women’s Syndrome*
-	- **Transnational Feminist Solidarity**
-		- Critique on how neocolonial, classim, and casteist tropes are used on violence
 - [[Week 14]]
 	- Positive vs. negative media representation
 	- Intersectionality
@@ -56,6 +50,14 @@
 - [[HCDVCC Report 2024#Domestic Abuse]]
 - [[Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494)]]
 - [[Commentary on the (In)Visibility of LGBTQ+ Victims in Domestic Violence Fatality Reviews]]
+- [[Week 9]]
+		- Systematic violence on women and minorities
+		- Proven by statistics on intimate partner violence
+		- History of unfair laws
+		-  *Battered Women’s Syndrome*
+	- **Transnational Feminist Solidarity**
+		- Critique on how neocolonial, classim, and casteist tropes are used on violence
+
 
 # Album Review
 
