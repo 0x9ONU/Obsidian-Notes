@@ -111,9 +111,19 @@
               "icon": "lucide-file",
               "title": "Week 14"
             }
+          },
+          {
+            "id": "3bfb4be153d456ac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -311,8 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,10 +350,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "049797e56fdbba51",
+  "active": "45542af4def13431",
   "lastOpenFiles": [
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Class Notes/Week 14.md",
+    "copilot/copilot-conversations/The_various_qualities_a_person_has_can_determine_many_aspects@20260428_222544.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/(Witty Title Here).md",
+    "4 - Senior Year/Spring 2026/Gender/Final Paper/Class Notes/Week 14.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Class Notes/Week 9.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Workplace Harassment of Transgender People - A Narrative Review.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/ADULT LGBT POPULATION in the United States.md",
@@ -389,7 +398,6 @@
     "4 - Senior Year/Spring 2026/Material Science/Module 6 & 7/Lecture 9/9 - Fatigue and Time Dependent Properties.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 11/11 - Deformations.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 10/Lecture 10 - Miller's Indices.md",
-    "4 - Senior Year/Fall 2025/Resume 2025.md",
     "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",

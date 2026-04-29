@@ -16,7 +16,7 @@
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
-  "deepseekApiKey": "sk-6f3bd1621f0947afb6f492abaaa94341",
+  "deepseekApiKey": "sk-78024393c4464ebfb0067afa381dcf53",
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
@@ -257,6 +257,11 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "deepseek-v4-flash",
+      "provider": "deepseek",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [
@@ -360,7 +365,7 @@
   "autocompleteAcceptKey": "Tab",
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "3.2.7",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,

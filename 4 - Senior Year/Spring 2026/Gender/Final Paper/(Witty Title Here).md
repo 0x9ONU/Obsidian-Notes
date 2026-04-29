@@ -21,14 +21,17 @@
 
 ##  Terminology
 
-Before getting into specific topics, it is important to cover some critical terminology in determining whether media is a good representation of a specific minority [Week 14].
+Before getting into specific topics, it is important to cover some critical terminology in determining whether media is a positive or negative representation of a specific minority:
+- *Intersectionality* is a term that examines how multiple identities can be present at one time and how they can shape an individual’s life in terms of both oppression and privilege [Kimberlé Crenshaw]. The various qualities a person has can determine many aspects of their life such as work opportunities, likelihood of being at risk, . LGBTQ+ individuals are often faced with such a reality as described later.
+- *Social Constructionism* presents the idea that aspects of one’s identity are not based on nature, but nurtured through one’s environment and society [Big Book]. 
+- 
+
+[Week 14].
 
 - [[Week 9]]
 - [[Week 14]]
 	- Positive vs. negative media representation
 	- Intersectionality
-	- Male Gaze
-	- Queer
 	- Social Constructionism
 	- Heteronomativity
 	- Symbolic annihilation
