@@ -10,7 +10,3 @@ This study highlights that bisexual women experience some of the highest rates o
     - **Identity-Based Abuse:** Abusers often use "outing" (threatening to reveal a partner's identity to employers or family) as a primary tactic of control.
     - **Systemic Distrust:** Many survivors fear that reporting abuse will lead to further discrimination from the police or that mainstream shelters will not be "equipped" to handle their specific needs.
 
-```ad-note
-**Local Impact:** In areas like Houston/Harris County, domestic violence homicides **doubled** between 2019 and 2022, highlighting an urgent need for LGBTQ+-specific crisis resources like the Montrose Center.
-```
-

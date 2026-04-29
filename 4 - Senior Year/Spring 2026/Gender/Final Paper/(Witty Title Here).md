@@ -2,7 +2,11 @@
 
 # Background
 
+Before analyzing how WillyRodriguezWasTaken's _wetdream_ reflects or challenges the statistical realities outlined later, it is first necessary to understand the artist behind the project and the conditions under which the album was released. WillyRodriguezWasTaken was not a mainstream act; their work emerged from a tight-knit network of underground DIY musicians, each with their own distinct voice and raw, unfiltered approach to songwriting. By examining the artist's biography and the album's unusual release history, we can better situate the lyrics within the specific cultural and personal circumstances that shaped them. This context becomes essential groundwork for the literature review that follows, allowing us to later assess not just what the album says about addiction, depression, and abuse, but why those themes carry the weight they do.
+
 ## Artist Biography
+
+WIllyRodriguezWasTaken [willy + song] is a two-person band of different artists that collaborated together. Both of these individuals have a limited Internet footprint as much of their personal life has been either scrubbed or never posted. Both of the artists also often jump between  pseudonyms when they release their own music as well, which often makes it hard to describe exactly how they came to be for this album. However, this section will describe 
 
 - star starer /drug bug
 - midwestern roadkill/squee
@@ -48,29 +52,35 @@ The *Substance Use, Minority Stress, and Mental Health among LGBTQ+ Young People
 
 The prevalence of depression and its associated mental health burdens also affects LGBTQ+ youth negatively. Studies have found that these individuals exhibit statistically significant higher rates of major depressive episodes, persistent depressive disorder (PDD), and suicidal ideation compared to their cisgender and heterosexual counterparts. These statements are backed up by two major studies: Project SPARK’s 2025 Interim Report [1], and the Center for Disease Control and Prevention (CDC)’s Youth Risk Behavior Survey [2]. To explain this correlation, contributing factors are further discussed to gain insight into these results. 
 
-The interm report from the Trevor Project collected data from various surveys between 2023 and 2025 [1]. Primarily, they reported that depressive symptoms rose from 48% to 54%. More alarmingly, anxiety rose from 57% to 68% in only one year (2024-2025), while suicidal ideation also increased from 41% to 47%. From particular groups of LGBTQ+ individuals, transgender and nonbinary youth reported even worsening news: a 4% higher rates of depression and a 6% higher rate of suicidial thoughts. In comparison, cisgender peers saw only a 36% rate of depression and a 28% rate of suicidal thoughts respectively. To explain these alarmingly climbing rates, the study points out two primary causes. LGBTQ+ individuals often face a higher likelihood of not having their basic needs met, such as housing and food, due to their economic constraints. Additionally, with conversion therapy being re-legalized in many states, the threats and exposure to this disgusting practice 
+The interm report from the Trevor Project collected data from various surveys between 2023 and 2025 [1]. Primarily, they reported that depressive symptoms rose from 48% to 54%. More alarmingly, anxiety rose from 57% to 68% in only one year (2024-2025), while suicidal ideation also increased from 41% to 47%. From particular groups of LGBTQ+ individuals, transgender and nonbinary youth reported even worsening news: a 4% higher rates of depression and a 6% higher rate of suicidial thoughts. In comparison, cisgender peers saw only a 36% rate of depression and a 28% rate of suicidal thoughts respectively. To explain these alarmingly climbing rates, the study points out two primary causes. LGBTQ+ individuals often face a higher likelihood of not having their basic needs met, such as housing and food, due to their economic constraints. Additionally, with conversion therapy being re-legalized in many states, the threats and exposure to this disgusting practice have doubled with nearly 22% of LGBTQ+ youth being at risk of going to a conversion camp. Ultimately, these findings underscore a critical reality: the escalating mental health crisis among LGBTQ+ youth is not an inherent trait of their identity, but a direct consequence of systemic instability and the erosion of fundamental legal protections.
 
 ```ad-important
 title: Good News
 Despite worsening symptoms, **help-seeking behavior doubled**. The proportion of youth reaching out to mental health professionals during crises rose from **32% to 64%**, suggesting reduced stigma around seeking support [1].
 ```
 
+On the other hand, CDC’s *Youth Risk Behavior Survey (YRBS)* [2] sings an even bleaker reality. From 2023-2024, they highlight that nearly 70% of LGBTQ+ students found feelings of sadness or hopelessness, which is double that of their heterosexual and cisgender peers. From an intersecitonality perspective, 58.6% of black LGBTQ+ students screened positive to depression, which was given based on both racism and homophobia creating immense stress on these young individuals. School violence and bullying alongside anti-LGBTQ+ political discourse/legislation was placed as the main cause for the worsening mental health across the board.
 
 - [[Project SPARK 2025#Depression]]
 - CDC: Youth Risk Behavior Survey (YRBS)
 
 ## Domestic Abuse
 
+Domestic abuse and its associated interpersonal harms often affects minority communities immensely. Studies have found that these individuals report statistically significant higher rates of intimate partner violence, psychological coercion, and physical abuse compared to their cisgender and heterosexual counterparts. The following two studies cover domestic abuse across the community: the HCDVCC Report on LGBTQ+ domestic violence [1], and the analysis of systemic violence in *Gender-Based Violence: A Comprehensive Guide* Chapter 8.1 [2]. The correlations are then further explained by each study’s conclusions.
+
+Harris County Domestic Violence Assistance Fund published a report that contains information from 2023-2025 about domestic violence across Houston, TX [1]. Out of all the LGBTQ+, bisexual women faced some of the highest rates of intimate partner violence at 61.1%. This is followed by lesbian women at 43.8%, bisexual men at 37.3%, and gay men at 26%. All of these rates exceed that of dominant group, aka. heterosexual men. The survey outlines two unique barriers that make it difficult to prevent future violence. Abusers can take advantage of one’s identity by threatening to “out” their partner to those who do not know their secret to gain control. This has been coined by this study as *identity abuse*. On the other hand, survivors felt that they could trust the system. They fear that their report would lead to further discrimination by the police or mainstream shelters who could not handle their specific needs. 
+
+
+```ad-note
+**Local Impact:** In areas like Houston/Harris County, domestic violence homicides **doubled** between 2019 and 2022, which means this study focuses on a smaller scope than the other studies on this list [1].
+```
+
+Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Comprehensive Guide* that further defines many of the issues regarding LGBTQ+ and their struggles with domestic violence. The chapter specifies that LGBTQ+ people face an increased risk of experiencing domestic violence and abuse (DVA) when compared to their heterosexual and cisgender peers. Typically, psychological abuse is the prevalent form of abuse, but physical abuse can also be common. Victims often face mental health consequences such as anxiety, depression, PTSD, substance misuse, and suicidal ideation. The author points out that abuse typically manifests from *identity abuse*, with abusers often taking advantage of outing, undermining someone’s identity, deadnaming, and disrupting access to gener-affirming care. She also warns that heteronormative bias can often hurt the visibility of non-heterosexual DVA. This framework can invisibilize LGBTQ+ experiences and lead to myths that DVA in these communities is rare or less severe [3].
+
+
 - [[HCDVCC Report 2024#Domestic Abuse]]
 - [[Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494)]]
 - [[Commentary on the (In)Visibility of LGBTQ+ Victims in Domestic Violence Fatality Reviews]]
-- [[Week 9]]
-		- Systematic violence on women and minorities
-		- Proven by statistics on intimate partner violence
-		- History of unfair laws
-		-  *Battered Women’s Syndrome*
-	- **Transnational Feminist Solidarity**
-		- Critique on how neocolonial, classim, and casteist tropes are used on violence
 
 All these statistics reflect real, lived experiences of minority stress that media representations can either reinforce or challenge. When media portrays LGBTQ+ characters primarily through narratives of addiction, trauma, or self-destructive behavior without context or depth, it risks tokenism and symbolic annihilation. It is important to ensure the media we are critiquing is not continuing on this stereotype and rather either challenges it or provides a new way to express the real pain the author is feeling.
 # Album Review
