@@ -21,23 +21,15 @@
 
 ##  Terminology
 
-Before getting into specific topics, it is important to cover some critical terminology in determining whether media is a positive or negative representation of a specific minority:
+Before getting into specific topics, it is important to cover some critical terminology in determining whether media is a positive or negative representation of a specific minority. Note that this is not necessarily an exhaustive list, but is a large number of 
 - *Intersectionality* is a term that examines how multiple identities can be present at one time and how they can shape an individual’s life in terms of both oppression and privilege [Kimberlé Crenshaw]. The various qualities of a person determine many aspects of their life such as work opportunities, their likelihood of being at risk for mental health struggles, substance abuse, and domestic violence. LGBTQ+ individuals are often faced with such a reality as described later.
 - *Social Constructionism* presents the idea that aspects of one’s identity are not based on biological nature, but nurtured through one’s environment and society. It is important to never overgeneralize a group of people because social constructionism emphasizes that identities are shaped by diverse, context-dependent social factors rather than fixed, inherent traits [Big Book]. 
-- *Biological Determinism*: The flawed view that biology alone decides human behavior and is often used o justify gender and sexuality roles [Big Book].  
-- *Heteronormativity*: is a form of marginalization for LGBTQ+ identities and relationships, positioning heterosexuality as the default or natural standard. It often shapes how laws are passed, how narratives are woven, and how institutions are shaped [Big Book].
-- *Symbolic Annihilation*: 
+- *Biological Determinism* provides a flawed view that biology alone decides human behavior and is often used o justify gender and sexuality roles [Big Book].  
+- *Heteronormativity* is a form of marginalization for LGBTQ+ identities and relationships, positioning heterosexuality as the default or natural standard. It often shapes how laws are passed, how narratives are woven, and how institutions are shaped [Big Book].
+- *Symbolic Annihilation* is when privledge of a dominant group of people is used to trivialize, condemn, or silence smaller social groups using mass media [Big Book]. A great example of this comes from when transgender individuals are often demonized in the media, especially when it comes to participation in their preferred gender of sports  [transgender sports article].
+- *Tokenism* is the sanitized representation of a character in media. In particular, a character is represented in a way that a dominant audience does not challenge their beliefs or status quo. Using tokenism can hurt how communities are represented and change the perspective of broad audiences to believe in stereotyping [Big Book].
 
-[Week 14].
 
-- [[Week 9]]
-- [[Week 14]]
-	- Positive vs. negative media representation
-	- Intersectionality
-	- Social Constructionism
-	- Heteronomativity
-	- Symbolic annihilation
-	- Tokenism
 
 ## Addictions and Drug Abuse
 
