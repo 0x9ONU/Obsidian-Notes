@@ -8,7 +8,11 @@ Before analyzing how WillyRodriguezWasTaken's _wetdream_ reflects or challenge
 
 WIllyRodriguezWasTaken [willy + song] is a two-person band of different artists that collaborated together. Both of these individuals have a limited Internet footprint as much of their personal life has been either scrubbed or never posted. Both of the artists also often jump between  pseudonyms when they release their own music as well, which often makes it hard to describe exactly how they came to be for this album. However, this section will describe the information available about each artist and how they came together to form this band.
 
-Willy, which is also been known to be called “Gabe,” is a [midwestern roadkill-squee]
+Willy, which is also been known to be called “Gabe,” is a biracial american artist who is very private when it comes to online interactions. Before meeting the co-artist, he published his solo albums underneath the name “midwestern roadkill.” Today, he has abandoned this name and now publishes underneath the name “squee.” He often attributes himself to his distinct lyrics that share personal stories that others often fail to accomplish in the bedroom pop genre. This often attributes him to being the “face” of WRWT during their time together [midwestern roadkill-squee].
+
+Alex Amesbury, on the other hand, is a lot more vocal about his life. Hailing from Endmonton Alberta, this Canadian-American artist has an long-running history with music. Since the age of 14, he has been playing multiple instruments and is often attributed to the genius behind WRWT. Going under the pseudonym of “Star Starer”, he released two albums and various singles before and during his time as a duo act. However, while making music, he also has to balance his 40-hour work weeks being a full-time carpenter and framer. Today, he continues to release music under the “drug bug” name since 2023, which has seen massive success in the underground scene [star starer-drug bug].
+
+When it comes to the origin and dynamics of WRWT, the only reliable source comes from a short 30-minute interview with both of them on Youtube that was conducted in May of 2022. In the interview, the two describe how they met over Discord, where Willy tried to “troll” Star, which would eventually lead to them bonding over each other’s music. In a drunken stupor, the two decided on a name after Willy’s banned roblox account “WillyRodriguez” with “WasTaken” added afterwards to ensure it would be unique across multiple platforms. The band was made shortly afterwards, with one of their albums being released at the time of interview. Alex specifically calls himself the “glue” of the band as he handled all the production and instrumentation. Willy, on the other hand, always felt like he was not good enough for the band as his imposter syndrome was even evident at this time. This confict would continue throughout the rest of their music career as isolation between the two and tensions would increase [YOUTUBE INTERVIEW]. The duo would then disband a year later after releasing their second album, “Bad Therapists”, near Christmas time [bad therapists]. However, to the internet’s shock, this would not be the last time that they would release an album.
 
 - star starer /drug bug
 - midwestern roadkill/squee
@@ -17,6 +21,8 @@ Willy, which is also been known to be called “Gabe,” is a [midwestern roadki
 - https://www.youtube.com/watch?v=1buKzo_tAKY
 
 ## Album Information
+
+*wetdream* is the self-proclaimed magnum opus and final studio album by WillyRodriguezWasTaken. Released post-humorously on December 25th, 2023, it exploded the group’s popularity almost a year after the group was defunct.  From a production side, the project utilizes some of the most interesting aspects of noise rock, bedroom pop, and even lofi. The album would continue to explode in popularity with a remastered release on vinyl in December 2024, which sold out within hours [album source]. To this day, the combination of Willy’s raw and emotive vocal delivery and Alex’s instrumental mastery make this album a one-of-a-kind experience. That being said, the main focus on this paper is the many topics regarding what Willy felt as a minority and how he expresses them through each piece of the album and how it tells the story of longing, bodily disgust, drug abuse, and coping as a sexual assault victim [wetdream link].  
 
 - Release date
 - Release conditions (posthumerously)
@@ -88,7 +94,7 @@ Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Compre
 All these statistics reflect real, lived experiences of minority stress that media representations can either reinforce or challenge. When media portrays LGBTQ+ characters primarily through narratives of addiction, trauma, or self-destructive behavior without context or depth, it risks tokenism and symbolic annihilation. It is important to ensure the media we are critiquing is not continuing on this stereotype and rather either challenges it or provides a new way to express the real pain the author is feeling.
 # Album Review
 
-## Overview
+Within the lens of gender and sexuality studies, each major song of the album will be discussed
 
 ## Song II: stop calling
 
@@ -125,6 +131,10 @@ All these statistics reflect real, lived experiences of minority stress that med
 ### Part 6: Depression
 
 ### Part 7: Acceptance?
+
+## Overview
+
+  
 
 # Comparison
 
