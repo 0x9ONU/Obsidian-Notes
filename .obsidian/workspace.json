@@ -79,55 +79,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "87711ac45893364d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b487e3dda6281b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/HCDVCC Report 2024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HCDVCC Report 2024"
-            }
-          },
-          {
-            "id": "7b258389f499c463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494)"
-            }
-          },
-          {
-            "id": "5ddaf9b08f879cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Commentary on the (In)Visibility of LGBTQ+ Victims in Domestic Violence Fatality Reviews.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commentary on the (In)Visibility of LGBTQ+ Victims in Domestic Violence Fatality Reviews"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"

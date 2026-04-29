@@ -2,16 +2,19 @@
 
 # Background
 
-Before analyzing how WillyRodriguezWasTaken's _wetdream_ reflects or challenges the statistical realities outlined later, it is first necessary to understand the artist behind the project and the conditions under which the album was released. WillyRodriguezWasTaken was not a mainstream act; their work emerged from a tight-knit network of underground DIY musicians, each with their own distinct voice and raw, unfiltered approach to songwriting. By examining the artist's biography and the album's unusual release history, we can better situate the lyrics within the specific cultural and personal circumstances that shaped them. This context becomes essential groundwork for the literature review that follows, allowing us to later assess not just what the album says about addiction, depression, and abuse, but why those themes carry the weight they do.
+Before analyzing how WillyRodriguezWasTaken's _wetdream_ reflects or challenges the statistical realities outlined later, it is first necessary to understand the artist behind the project and the conditions under which the album was released. WillyRodriguezWasTaken was not a mainstream act; their work emerged from a tight-knit network of underground DIY musicians, each with their own distinct voice and raw, unfiltered approach to songwriting. By examining the artist's biography and the album's unusual release history, the lyrics can be better situated within the specific cultural and personal circumstances that shaped them. This context becomes essential groundwork for the literature review that follows, allowing us to later assess not just what the album says about addiction, depression, and abuse, but why those themes carry the weight they do.
 
 ## Artist Biography
 
-WIllyRodriguezWasTaken [willy + song] is a two-person band of different artists that collaborated together. Both of these individuals have a limited Internet footprint as much of their personal life has been either scrubbed or never posted. Both of the artists also often jump between  pseudonyms when they release their own music as well, which often makes it hard to describe exactly how they came to be for this album. However, this section will describe 
+WIllyRodriguezWasTaken [willy + song] is a two-person band of different artists that collaborated together. Both of these individuals have a limited Internet footprint as much of their personal life has been either scrubbed or never posted. Both of the artists also often jump between  pseudonyms when they release their own music as well, which often makes it hard to describe exactly how they came to be for this album. However, this section will describe the information available about each artist and how they came together to form this band.
+
+Willy, which is also been known to be called “Gabe,” is a [midwestern roadkill-squee]
 
 - star starer /drug bug
 - midwestern roadkill/squee
 - WillyRodreguizWasTaken
 - Friends house records
+- https://www.youtube.com/watch?v=1buKzo_tAKY
 
 ## Album Information
 
