@@ -21,7 +21,7 @@
 
 ##  Terminology
 
-Before getting into specific topics, it is important to cover some critical terminology in determining how to determine whether media is a good representation of a [Week 14].
+Before getting into specific topics, it is important to cover some critical terminology in determining whether media is a good representation of a specific minority [Week 14].
 
 - [[Week 9]]
 - [[Week 14]]
