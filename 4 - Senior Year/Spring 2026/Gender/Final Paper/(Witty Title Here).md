@@ -39,20 +39,17 @@ The misuse of drugs and their corresponding addictions often affects minority co
 
 Ellis *et al.* [1] from California Northstate University compiled the data from the NSDUH regarding LGBTQ+ individuals. They found that there was nearly a double rate of addiction to alcohol (17.9% vs. 10.3%), a nearly triple rate of addiciton to cannabis (13.0% vs 4.7%) , and a generally high use of nicotine when compared to the rest of the population in the United States. Out of all the drugs survied, opoids were the only drug that was consistently decreasing across all populations. The survey found that youth (aged between 12 to 25) were typically also abusing substances at a higher rate than older adults. In line with social constructivism, the study interprets that these disparities to are caused by multiple contributing factors. Firstly, discrimination and stigmas around LGBTQ+ accessing healthcare and therapy makes it difficult to discover healthy coping mechanisms. It also pin-points that social spaces that are affirming often also center around substance abuse such as drinking. The researchers also blame COVID-19 in breaking down local social networks that young LGBTQ+ individuals rely on which may feed isolation, anxiety, and substance abuse.
 
-The *Substance Use, Minority Stress, and Mental Health among LGBTQ+ Young People* [2] research brief by the Trevor Project also shares a similar and more up-to-date view on how substance abuse has affected specifically LGBTQ+ youth. They highlight that 54% of the population currently use at least one substance. The study also illustrates that the major driver for this uptick in substance use is due to discrimination and victimization as identity-based discrimination significantly increased the probability that an individual would use drugs or not.
+The *Substance Use, Minority Stress, and Mental Health among LGBTQ+ Young People* [2] research brief by the Trevor Project also shares a similar and more up-to-date view on how substance abuse has affected specifically LGBTQ+ youth. They highlight that 54% of the population currently use at least one substance. In particular, alcohol is used by 43%, cannabis at 25%, and nicotine at 17%. The study also illustrates that the major driver for this uptick in substance use is due to discrimination and victimization as identity-based discrimination significantly increased the probability that an individual would use drugs or not. Specifically, the cannabis and vaping group typically had higher rates of depression and suicidal thoughts, while those who used cigarettes or 
 
 
-
-
-- [[ADULT LGBT POPULATION in the United States#Substance Abuse]]
 - [[Project SPARK 2025#Substance Abuse]]
 - [[Use of Alcohol, Nicotine, and Drugs in Lesbian, Gay, and Bisexual Persons - Implications for Substance Use Disorders among Sexual Minorities]]
 
 ## Depression
 
 - [[Project SPARK 2025#Depression]]
-- [[ADULT LGBT POPULATION in the United States#Depression]]
 - [[Use of Alcohol, Nicotine, and Drugs in Lesbian, Gay, and Bisexual Persons - Implications for Substance Use Disorders among Sexual Minorities#Contributing Factors]]
+- 
 
 ## Domestic Abuse
 
