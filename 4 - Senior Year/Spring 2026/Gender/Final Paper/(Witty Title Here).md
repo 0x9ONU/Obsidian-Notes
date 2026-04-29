@@ -2,8 +2,6 @@
 
 # Background
 
-
-
 ## Artist Biography
 
 - star starer /drug bug
@@ -21,11 +19,26 @@
 
 # Literature Review
 
+## Key Terminology
+
+- 
+
 ## Addictions and Drug Abuse
+
+- [[ADULT LGBT POPULATION in the United States#Substance Abuse]]
+- [[Project SPARK 2025#Substance Abuse]]
+- [[Use of Alcohol, Nicotine, and Drugs in Lesbian, Gay, and Bisexual Persons - Implications for Substance Use Disorders among Sexual Minorities]]
 
 ## Depression
 
+- [[Project SPARK 2025#Depression]]
+- [[ADULT LGBT POPULATION in the United States#Depression]]
+
 ## Domestic Abuse
+
+- [[HCDVCC Report 2024#Domestic Abuse]]
+- [[Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494)]]
+- [[Commentary on the (In)Visibility of LGBTQ+ Victims in Domestic Violence Fatality Reviews]]
 
 # Album Review
 
