@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-04-29T17:55:38.244Z",
+      "total": 0,
+      "drafts": {
+        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2026-04-28T16:05:18.380Z",
       "total": 0,
       "drafts": {
@@ -287,16 +297,6 @@
     },
     {
       "start": "2026-02-19T17:01:16.402Z",
-      "total": 0,
-      "drafts": {
-        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-02-18T18:08:19.878Z",
       "total": 0,
       "drafts": {
         "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
