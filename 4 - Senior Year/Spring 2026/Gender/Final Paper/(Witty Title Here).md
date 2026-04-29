@@ -19,9 +19,23 @@
 
 # Literature Review
 
-## Key Terminology
+##  Terminology
 
-- 
+- [[Week 9]]
+	- Systematic violence on women and minorities
+		- Proven by statistics on intimate partner violence
+		- History of unfair laws
+	- *Battered Women’s Syndrome*
+	- **Transnational Feminist Solidarity**
+		- Critique on how neocolonial, classim, and casteist tropes are used on violence
+- [[Week 14]]
+	- Positive vs. negative media representation
+	- Intersectionality
+	- Male Gaze
+	- Queer
+	- Social Constructionism
+	- Heteronomativity
+	- 
 
 ## Addictions and Drug Abuse
 
