@@ -74,4 +74,4 @@ Emilia Pérez garnered acclaim for Karla Sofía Gascón's portrayal of a trans w
  
  **Tokenism:**
  - Queer theorists are often critical of "sanitized" representation—where a queer character is included only if they are "palatable" to a straight audience (e.g., the "gay best friend" who has no romantic life of his own).
- - jRepresentation is seen as a site of power that shapes how we perceive gender, sexuality, race, and identity.
+ - Representation is seen as a site of power that shapes how we perceive gender, sexuality, race, and identity.
