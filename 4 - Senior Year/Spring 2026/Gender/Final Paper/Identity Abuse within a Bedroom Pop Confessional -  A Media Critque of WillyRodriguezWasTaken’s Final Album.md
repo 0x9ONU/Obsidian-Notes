@@ -101,14 +101,14 @@ Within the lens of gender and sexuality studies, each major song of the album wi
 Though not the first track on the album, "stop calling" functions as its true emotional opener, establishing the dynamic between the narrator and his romantic interest that will haunt the rest of the record. The song traces a trajectory of escalating desperation: the narrator begins by seeking physical closeness but quickly spirals into a need for verbal affirmation, ownership, and ultimately a fear of abandonment. From a gender studies perspective, this arc reveals a deeply insecure narrator whose sense of self-worth is contingent upon being desired and claimed by another.
 
 ```ad-quote
-title: stop calling 1:1:2
+title: **stop calling**: 1:1:2
 Fall into my arms, just don't you kiss and tell
 ```
 
 The lines above are the first indication that the relationship between the narrator and their lover is one of ownership and power dynamics rather than love itself. Here, the narrator tells their lover that the details of their relationship should remain private. This is one of the very many instances throughout the album where *identity abuse* will be used by the lover, as he will use this as leverage to keep the narrator stuck in his grasp.
 
 ```ad-quote
-title:stop calling 1:C:1-4
+title:**stop calling**: 1:C:1-4
 Stop calling me when I'm all fucked and low  
 'Cause dashers coming up  
 'Cause dashers coming up  
@@ -118,7 +118,7 @@ To worry me tonight (What are you doing tonight?)
 The lines above establish the setting and time of the album and this specific song. Dasher, in this instance, refers to one of Santa’s reindeer who fly his magical sleigh. Combined with the release date of this album being on December 25th, it is clear that this takes place during the cold winter nights of December leading up to the holidays. The setting is a large part of the album with a few sections taking place outside in the snow. However, it is implied that the narrator is at home and is trying to get contacted by their lover instead, but does not want to leave due to the cold and a “worry” the narrator has meeting their lover alone.
 
 ```ad-quote
-title: stop calling 1:O:1-3
+title: **stop calling**: 1:O:1-3
 I need you more than you could know  
 It's what I need to show they're mine  
 Oh baby, don't go
@@ -127,8 +127,94 @@ Oh baby, don't go
 Here, the narrator's desire to "show they're mine" exposes an underlying anxiety about public perception, a need to perform ownership for an external audience. The narrator fears being unseen or invalidated unless his relationship is visibly claimed. The final "don't go" cements the power imbalance; he is dependent, fragile, and already anticipating loss. Overall, the first song makes it clear that the dynamics between these two characters do not start off on a good leg, and as the album progresses, it will continue to sour as more information is revealed about them.
 ## Song III: dish rags
 
+Coming from the last song, *dish rags* takes the uncertainty the narrator has with his 
 
+- The song has the narrator coming to terms with how their relationship with their lover has gotten sour overtime
+- The narrator thinks their partner has changed, but soon realizes that, regardless of how much they love them, he ends up getting abused both physically and mentally by the end of the song
 
+### Part I: The Shining “Son”
+
+```ad-quote
+title: **dish rags**: 1:I:1-4
+My son don't shine anymore
+His light of mine won’t flicker out for sure
+Tomorrow's supper the morning after
+Another dud, another
+```
+
+```ad-quote
+title: **dish rags**: 1:C:1-3
+Take this little piece of mind
+Remember this face of mine
+My baby, it's gone awry
+```
+
+```ad-quote
+title: **dish rags**: 1:C:4-6
+We’ll never die
+So break in, cleaning supplies
+And drink them 'til your skin turns white
+```
+
+```ad-quote
+title: **dish rags**: 1:1:1-2
+And If you wanted to, I'd stay the night
+To be so young and free but still alive
+```
+
+```ad-quote
+title: **dish rags**: 1:1:3-4
+I think you were happiest when we first met
+But now thesе screams I hear begun to makе a mess
+```
+
+```ad-quote
+title: **dish rags**: 1:R:1-2
+And now I don't know what to do *(x2)*
+```
+### Part II: A Rotting Love
+
+```ad-quote
+title: **dish rags**: 2:2:1-2
+Oh, it's under attack (*Oh, it's under attack at home*)
+In your home, it never was an escape (*Never was an escape from home*)
+```
+
+```ad-quote
+title: **dish rags**: 2:2:3-4
+From this harm, would you celebrate when I’m gone (_Would you celebrate when I’m gone?_)  
+Remember my name when we're done (_Remember my name when we are done_) 
+```
+
+```ad-quote
+title: **dish rags**: 2:2:5-6
+Never wanted to be so stuck (_Never wanted to be so stuck_)  
+Was this love that we made to rot? (_Was this love we made to rot?_)
+```
+
+### Part III: Giving Up
+
+```ad-quote
+title: **dish rags**: 3:O:1-2
+Wake me up when it’s time to go
+I've been beaten to a pulp
+```
+
+```ad-quote
+title: **dish rags**: 3:O:3-4
+My baby's giving up
+Can't keep on going anymore
+```
+
+```ad-quote
+title: **dish rags**: 3:O:5
+You live so long
+```
+
+```ad-quote
+title: **dish rags**: 3:O:6-9
+I wish I could have seen you grow *(x4)*
+```
 ## Song IV: rosemary
 
 ## Song V: snowing in las vegas
