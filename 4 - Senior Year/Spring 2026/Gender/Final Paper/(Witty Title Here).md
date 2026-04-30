@@ -124,7 +124,7 @@ It's what I need to show they're mine
 Oh baby, don't go
 ```
 
-Here, the narrator's desire to "show they're mine" exposes an underlying anxiety about public perception, a need to perform ownership for an external audience. The narrator fears being unseen or invalidated unless his relationship is visibly claimed. The final "don't go" cements the power imbalance; he is dependent, fragile, and already anticipating loss.
+Here, the narrator's desire to "show they're mine" exposes an underlying anxiety about public perception, a need to perform ownership for an external audience. The narrator fears being unseen or invalidated unless his relationship is visibly claimed. The final "don't go" cements the power imbalance; he is dependent, fragile, and already anticipating loss. Overall, the first song makes it clear that the dynamics between these two characters do not start off on a good leg, and as the album progresses, it will continue to sour as more information is revealed about them.
 ## Song III: dish rags
 
 
