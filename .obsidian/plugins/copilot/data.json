@@ -16,7 +16,7 @@
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
-  "deepseekApiKey": "",
+  "deepseekApiKey": "sk-78024393c4464ebfb0067afa381dcf53",
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
   "siliconflowApiKey": "",

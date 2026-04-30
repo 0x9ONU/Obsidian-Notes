@@ -98,18 +98,24 @@ Within the lens of gender and sexuality studies, each major song of the album wi
 
 ## Song II: stop calling
 
-This song, often considered the opener of the album, outlines the relationship between the main narrator and their romantic interest. As the song moves along, the narrator becomes more desperate for the love, affection, and sexual attention of the 
+Though not the first track on the album, "stop calling" functions as its true emotional opener, establishing the dynamic between the narrator and his romantic interest that will haunt the rest of the record. The song traces a trajectory of escalating desperation: the narrator begins by seeking physical closeness but quickly spirals into a need for verbal affirmation, ownership, and ultimately a fear of abandonment. From a gender studies perspective, this arc reveals a deeply insecure narrator whose sense of self-worth is contingent upon being desired and claimed by another.
 
 ```ad-quote
 title: stop calling 1:1:2
 Fall into my arms, just don't you kiss and tell
 ```
 
+The lines above are the first indication that the relationship between the narrator and their lover is one of ownership and power dynamics rather than love itself. Here, the narrator tells their lover that the details of their relationship should remain private. This is one of the very many instances throughout the album where *identity abuse* will be used by the lover, as he will use this as leverage to keep the narrator stuck in his grasp.
+
 ```ad-quote
-title:stop calling 1:C:2-3
-'Cause dashers coming up
-'Cause dashers coming up
+title:stop calling 1:C:1-4
+Stop calling me when I'm all fucked and low  
+'Cause dashers coming up  
+'Cause dashers coming up  
+To worry me tonight (What are you doing tonight?)
 ```
+
+The lines above establish the setting and time of the album and this specific song. Dasher, in this instance, refers to one of Santa’s reindeer who fly his magical sleigh. Combined with the release date of this album being on December 25th, it is clear that this takes place during the cold winter nights of December leading up to the holidays. The setting is a large part of the album with a few sections taking place outside in the snow. However, it is implied that the narrator is at home and is trying to get contacted by their lover instead, but does not want to leave due to the cold and a “worry” the narrator has meeting their lover alone.
 
 ```ad-quote
 title: stop calling 1:O:1-3
@@ -117,7 +123,11 @@ I need you more than you could know
 It's what I need to show they're mine  
 Oh baby, don't go
 ```
+
+Here, the narrator's desire to "show they're mine" exposes an underlying anxiety about public perception, a need to perform ownership for an external audience. The narrator fears being unseen or invalidated unless his relationship is visibly claimed. The final "don't go" cements the power imbalance; he is dependent, fragile, and already anticipating loss.
 ## Song III: dish rags
+
+
 
 ## Song IV: rosemary
 
