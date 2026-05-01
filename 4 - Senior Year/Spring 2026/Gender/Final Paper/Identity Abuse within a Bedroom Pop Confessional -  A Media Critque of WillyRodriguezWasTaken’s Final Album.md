@@ -19,6 +19,7 @@ When it comes to the origin and dynamics of WRWT, the only reliable source comes
 - WillyRodreguizWasTaken
 - Friends house records
 - https://www.youtube.com/watch?v=1buKzo_tAKY
+- **Pseudonyms is VERY Queer (FIND SOURCE)**
 
 ## Album Information
 
@@ -79,12 +80,11 @@ Domestic abuse and its associated interpersonal harms often affects minority com
 
 Harris County Domestic Violence Assistance Fund published a report that contains information from 2023-2025 about domestic violence across Houston, TX [1]. Out of all the LGBTQ+, bisexual women faced some of the highest rates of intimate partner violence at 61.1%. This is followed by lesbian women at 43.8%, bisexual men at 37.3%, and gay men at 26%. All of these rates exceed that of dominant group, aka. heterosexual men. The survey outlines two unique barriers that make it difficult to prevent future violence. Abusers can take advantage of one’s identity by threatening to “out” their partner to those who do not know their secret to gain control. This has been coined by this study as *identity abuse*. On the other hand, survivors felt that they could trust the system. They fear that their report would lead to further discrimination by the police or mainstream shelters who could not handle their specific needs. 
 
-
 ```ad-note
 **Local Impact:** In areas like Houston/Harris County, domestic violence homicides **doubled** between 2019 and 2022, which means this study focuses on a smaller scope than the other studies on this list [1].
 ```
 
-Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Comprehensive Guide* that further defines many of the issues regarding LGBTQ+ and their struggles with domestic violence. The chapter specifies that LGBTQ+ people face an increased risk of experiencing domestic violence and abuse (DVA) when compared to their heterosexual and cisgender peers. Typically, psychological abuse is the prevalent form of abuse, but physical abuse can also be common. Victims often face mental health consequences such as anxiety, depression, PTSD, substance misuse, and suicidal ideation. The author points out that abuse typically manifests from *identity abuse*, with abusers often taking advantage of outing, undermining someone’s identity, deadnaming, and disrupting access to gener-affirming care. She also warns that heteronormative bias can often hurt the visibility of non-heterosexual DVA. This framework can invisibilize LGBTQ+ experiences and lead to myths that DVA in these communities is rare or less severe [3].
+Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Comprehensive Guide* that further defines many of the issues regarding LGBTQ+ and their struggles with domestic violence. The chapter specifies that LGBTQ+ people face an increased risk of experiencing domestic violence and abuse (DVA) when compared to their heterosexual and cisgender peers. Typically, psychological abuse is the prevalent form of abuse, but physical abuse can also be common. Victims often face mental health consequences such as anxiety, depression, PTSD, substance misuse, and suicidal ideation. The author points out that abuse typically manifests from *identity abuse*, with abusers often taking advantage of outing, undermining someone’s identity, deadnaming, and disrupting access to gender-affirming care. She also warns that heteronormative bias can often hurt the visibility of non-heterosexual DVA. This framework can invisibilize LGBTQ+ experiences and lead to myths that DVA in these communities is rare or less severe [3].
 
 
 - [[HCDVCC Report 2024#Domestic Abuse]]
@@ -127,10 +127,7 @@ Oh baby, don't go
 Here, the narrator's desire to "show they're mine" exposes an underlying anxiety about public perception, a need to perform ownership for an external audience. The narrator fears being unseen or invalidated unless his relationship is visibly claimed. The final "don't go" cements the power imbalance; he is dependent, fragile, and already anticipating loss. Overall, the first song makes it clear that the dynamics between these two characters do not start off on a good leg, and as the album progresses, it will continue to sour as more information is revealed about them.
 ## Song III: dish rags
 
-Coming from the last song, *dish rags* takes the uncertainty the narrator has with his 
-
-- The song has the narrator coming to terms with how their relationship with their lover has gotten sour overtime
-- The narrator thinks their partner has changed, but soon realizes that, regardless of how much they love them, he ends up getting abused both physically and mentally by the end of the song
+Coming from the last song, *dish rags* takes the uncertainty the narrator has with his current relationship and makes it a reality. This song takes place towards the end of the relationship as they begin to realize how sour their relationship with their lover has gotten overtime. Broken up into three parts, the first part has hope that the lover can change back to how he was at the beginning of the relationship and would be willing to do anything in their power to make this a reality. However, the second part informs the audience that they see the writing on the wall as . During the last part, the narrator gives into coming back to meet with their lover, only for them to betray their trust and abuse them for yet another time as the narrator wishes to go home and never see them again. This continuous cycle of hurt is not exclusive to this song, but it is the first one to establish the more cynical nature that the lover has towards the narrator. Here, it is made clear that the lover is fully aware of the power imbalance he has over the narrator as he continuously exploits the one-way love for his own gain.
 
 ### Part I: The Shining “Son”
 
@@ -141,6 +138,8 @@ His light of mine won’t flicker out for sure
 Tomorrow's supper the morning after
 Another dud, another
 ```
+
+Here, the narrator 
 
 ```ad-quote
 title: **dish rags**: 1:C:1-3
@@ -172,6 +171,8 @@ But now thesе screams I hear begun to makе a mess
 title: **dish rags**: 1:R:1-2
 And now I don't know what to do *(x2)*
 ```
+
+Considering all the 
 ### Part II: A Rotting Love
 
 ```ad-quote
@@ -190,6 +191,12 @@ Remember my name when we're done (_Remember my name when we are done_)
 title: **dish rags**: 2:2:5-6
 Never wanted to be so stuck (_Never wanted to be so stuck_)  
 Was this love that we made to rot? (_Was this love we made to rot?_)
+```
+
+```ad-quote
+title: **dish rags**: 2:B:1-2
+In your arms, to be in your arms (*Never*)
+To be in your arms (*To be in your arms*)
 ```
 
 ### Part III: Giving Up
@@ -214,6 +221,10 @@ You live so long
 ```ad-quote
 title: **dish rags**: 3:O:6-9
 I wish I could have seen you grow *(x4)*
+```
+
+```ad-note
+After listening to the song on loop, it is clear that the song almost perfectly loops over itself to the point it is almost jarring when the first verse comes back in. This could be indicitive of the toxic relationship loop that the narrator is feeling as they keep going back to their abusive partner.
 ```
 ## Song IV: rosemary
 
