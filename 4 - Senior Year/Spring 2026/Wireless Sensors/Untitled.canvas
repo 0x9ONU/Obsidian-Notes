@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7db4a46ede454e5a","x":-340,"y":-140,"width":250,"height":60,"type":"text","text":"Raw .txt Files (20k Packets Each)"},
+		{"id":"9373bd2d3a26d982","x":-20,"y":-140,"width":250,"height":60,"type":"text","text":"Flow Converstion"},
+		{"id":"c11ca72229547ed4","x":300,"y":-140,"width":250,"height":60,"type":"text","text":"Data Preprocessing"},
+		{"id":"028ffcc6dd9f2594","x":620,"y":-140,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"8ada835813602da1","fromNode":"7db4a46ede454e5a","fromSide":"right","toNode":"9373bd2d3a26d982","toSide":"left"},
+		{"id":"b495bda41a9a62a9","fromNode":"9373bd2d3a26d982","fromSide":"right","toNode":"c11ca72229547ed4","toSide":"left"},
+		{"id":"53c6f8fce2bad97c","fromNode":"c11ca72229547ed4","fromSide":"right","toNode":"028ffcc6dd9f2594","toSide":"left"}
+	]
+}
