@@ -175,10 +175,10 @@ title: **dish rags**: 1:R:1-2
 And now I don't know what to do *(x2)*
 ```
 
-This reprise marks a moment of emotional exhaustion. The narrator, having cycled through hope and denial, now admits a complete loss of direction. The repetition of "I don't know what to do" underscores his paralysis. They are trapped between the desire to fix the relationship and the growing awareness that it cannot be saved. Further reinforced by the haunting yet amazing vocal screams, the narrator is indecisive as they given into the mental turmoil. This ambiguity sets the stage for the darker revelations of Part II.
-### Part II: A Rotting Love
+This reprise marks a moment of emotional exhaustion. The narrator, having cycled through hope and denial, now admits a complete loss of direction. The repetition of "I don't know what to do" underscores his paralysis. They are trapped between the desire to fix the relationship and the growing awareness that it cannot be saved. Further reinforced by the haunting yet amazing vocal screams, the narrator is indecisive as they given into the mental turmoil. This ambiguity sets the stage for the darker revelations of Part 2.
+### Part 2: A Rotting Love
 
-Following the reprise's admission of helplessness, Part II traces the narrator's final swing between insight and self‑destruction. The dual voices, one high, one low, externalize the internal debate: the cautious voice that sees the truth, and the desperate voice that refuses to let go. Over the course of this section, the narrator confronts the realization that the relationship was never a sanctuary, that his lover may not even mourn his absence, and that the love they built was destined to decay.  The voices slow converge together throughout the section, where they begin to agree that they need to leave their lover for their own sake. Yet in the bridge, the longing wins wins out. The climax, "In your arms," signals a last‑minute decision to return to their lover, setting the stage for Part III's brutal aftermath.
+Following the reprise's admission of helplessness, Part 2 traces the narrator's final swing between insight and self‑destruction. The dual voices, one high, one low, externalize the internal debate: the cautious voice that sees the truth, and the desperate voice that refuses to let go. Over the course of this section, the narrator confronts the realization that the relationship was never a sanctuary, that his lover may not even mourn his absence, and that the love they built was destined to decay.  The voices slow converge together throughout the section, where they begin to agree that they need to leave their lover for their own sake. Yet in the bridge, the longing wins wins out. The climax, "In your arms," signals a last‑minute decision to return to their lover, setting the stage for Part 3's brutal aftermath.
 
 ```ad-quote
 title: **dish rags**: 2:2:1-2
@@ -210,10 +210,10 @@ In your arms, to be in your arms (*Never*)
 To be in your arms (*To be in your arms*)
 ```
 
-The bridge delivers the song's emotional climax. As alluded to, the narrator suddenly changes their mind for one last time: they want to return to their partner at all costs. The dual-voice structure collapses into a singular, frantic plea. The parenthetical “_Never_” represents the cautious voice's final, desperate protest, a last gasp of reason acknowledging that returning is a mistake. Yet, it is immediately overridden as the final line signals the complete victory of longing over logic. The two voices converge not into the clarity of self-preservation, but into a unified, self-destructive desire to be loved again at any cost. Having just begun to express the faults of their relationship, the narrator abandons that fragile insight in favor of the addictive comfort their lover provides. This will lead to the narrator meeting with the lover once more as it transitions into Part III.
-### Part III: Giving Up
+The bridge delivers the song's emotional climax. As alluded to, the narrator suddenly changes their mind for one last time: they want to return to their partner at all costs. The dual-voice structure collapses into a singular, frantic plea. The parenthetical “_Never_” represents the cautious voice's final, desperate protest, a last gasp of reason acknowledging that returning is a mistake. Yet, it is immediately overridden as the final line signals the complete victory of longing over logic. The two voices converge not into the clarity of self-preservation, but into a unified, self-destructive desire to be loved again at any cost. Having just begun to express the faults of their relationship, the narrator abandons that fragile insight in favor of the addictive comfort their lover provides. This will lead to the narrator meeting with the lover once more as it transitions into Part 3.
+### Part 3: Giving Up
 
-If Part II traced the narrator's painful internal debate, Part III documents what comes after the decision is made. The dual voices that once warred against each other have collapsed into a single, broken perspective. The internal argument is over, not because the narrator has found clarity, but because he has been worn down into submission. This final section is not a resolution but a surrender, laying bare the physical and emotional toll of returning to a lover who never intended to change. It recounts the aftermath that the narrator faces after letting themselves go to their lover one last time, showing the regret in their actions and a glimmer of hope with a decisive choice at the end. 
+If Part 2 traced the narrator's painful internal debate, Part 3 documents what comes after the decision is made. The dual voices that once warred against each other have collapsed into a single, broken perspective. The internal argument is over, not because the narrator has found clarity, but because he has been worn down into submission. This final section is not a resolution but a surrender, laying bare the physical and emotional toll of returning to a lover who never intended to change. It recounts the aftermath that the narrator faces after letting themselves go to their lover one last time, showing the regret in their actions and a glimmer of hope with a decisive choice at the end. 
 
 ```ad-quote
 title: **dish rags**: 3:O:1-2
@@ -221,7 +221,7 @@ Wake me up when it’s time to go
 I've been beaten to a pulp
 ```
 
-These opening lines immediately dismantle the fragile fantasy of the bridge. Part III confronts the narrator with the brutal reality of physical violence. The blunt confession confirms that their earlier apprehension was wholly justified. The relationship he chose to return to has left them utterly broken. Their subsequent plea, "Wake me up when it's time to go," functions as a desperate act of dissociation. He does not ask to leave immediately, but instead requests to remain unconscious until the danger has passed. This is not a call for active rescue, but a surrender to passivity as they wait numbly for the abuse to run its course so he can finally escape.
+These opening lines immediately dismantle the fragile fantasy of the bridge. Part 3 confronts the narrator with the brutal reality of physical violence. The blunt confession confirms that their earlier apprehension was wholly justified. The relationship he chose to return to has left them utterly broken. Their subsequent plea, "Wake me up when it's time to go," functions as a desperate act of dissociation. He does not ask to leave immediately, but instead requests to remain unconscious until the danger has passed. This is not a call for active rescue, but a surrender to passivity as they wait numbly for the abuse to run its course so he can finally escape.
 
 ```ad-quote
 title: **dish rags**: 3:O:3-4
@@ -245,7 +245,7 @@ I wish I could have seen you grow *(x4)*
 
 Even after escaping such a terrible situation, the narrator still holds hope for the future of both themself and their abuser. After everything the abuser has done to them, the narrator still wants to see them grow and change into someone capable of love once again. They still see the abuser as human; a human who can change. In the narrator's eyes, they long to see the abuser transform back into the person they experienced at the beginning of the relationship.
 
-Taken as a whole, *dish rags* functions as a devastating case study in the mechanics of identity abuse within LGBTQ+ relationships. The song traces a complete cycle: from the narrator's desperate hope in Part I, through the painful internal reckoning of Part II, to the brutal physical aftermath of Part III. Throughout, the abuser weaponizes the narrator's vulnerabilities to maintain control: their need for escape from a hostile home environment, their fear of being forgotten, and their dependency on not being alone. This is identity abuse in its purest form, as defined by the HCDVCC report: the abuser exploits the narrator's marginalized identity not despite it, but because of it. The relationship began as a sanctuary from gendered abuse at home, yet the narrator simply traded one form of oppression for another, exemplifying the intersectional reality that LGBTQ+ individuals often face compounding vulnerabilities. The song also challenges heteronormative assumptions about domestic violence. The narrator's experience of physical abuse and psychological coercion mirrors the statistical realities outlined earlier, yet their story risks invisibility under frameworks that assume abuse follows heterosexual dynamics. By refusing to let the narrator simply walk away and alluding to the cycle continuing,  "dish rags" refuses tokenism. It offers no sanitized resolution and no easy redemption. Instead, it presents the painful truth that leaving an abusive relationship is rarely a single decision, but a prolonged, agonizing process that survivors must navigate without the support systems they deserve.
+Taken as a whole, *dish rags* functions as a devastating case study in the mechanics of identity abuse within LGBTQ+ relationships. The song traces a complete cycle: from the narrator's desperate hope in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]], through the painful internal reckoning of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 2 A Rotting Love|Part 2]], to the brutal physical aftermath of Part 3. Throughout, the abuser weaponizes the narrator's vulnerabilities to maintain control: their need for escape from a hostile home environment, their fear of being forgotten, and their dependency on not being alone. This is identity abuse in its purest form, as defined by the HCDVCC report: the abuser exploits the narrator's marginalized identity not despite it, but because of it. The relationship began as a sanctuary from gendered abuse at home, yet the narrator simply traded one form of oppression for another, exemplifying the intersectional reality that LGBTQ+ individuals often face compounding vulnerabilities. The song also challenges heteronormative assumptions about domestic violence. The narrator's experience of physical abuse and psychological coercion mirrors the statistical realities outlined earlier, yet their story risks invisibility under frameworks that assume abuse follows heterosexual dynamics. By refusing to let the narrator simply walk away and alluding to the cycle continuing,  "dish rags" refuses tokenism. It offers no sanitized resolution and no easy redemption. Instead, it presents the painful truth that leaving an abusive relationship is rarely a single decision, but a prolonged, agonizing process that survivors must navigate without the support systems they deserve.
 
 ```ad-note
 After listening to the song on loop, the song almost perfectly loops over itself to the point it is almost jarring when the first verse comes back in. This could be indicitive of the toxic relationship loop that the narrator is feeling as they keep going back to their abusive partner.
@@ -253,8 +253,45 @@ After listening to the song on loop, the song almost perfectly loops over itself
 ## Song IV: rosemary
 
 ```ad-quote
-title: *rosemary* 
+title: **rosemary** 1:1:1-4
+Can't stop now; my lungs will start to fail
+Don't you amuse me; this always persists through refrains
+I'm only trying to survive
+Lost in everyone's last goodbyes
 ```
+
+```ad-quote
+title: **rosemary** 1:C:1-3
+I really need you by my side  
+Just let me taste you one last time  
+Before I'm tearing up the floor
+```
+
+```ad-quote
+title: **rosemary** 1:C:4-5
+And if you want it more  
+Come try to get a score
+```
+
+```ad-quote
+title: **rosemary** 1:B:1-2
+Maybe it's over
+The last excuse before October
+```
+
+
+```ad-quote
+title: **rosemary** 1:B:3-4
+To live alone with the daffodils
+Don't resuscitate unless I'm feelin' ill
+```
+
+```ad-quote
+title: **rosemary** 1:B:5-6
+And you can undеrstand why we need to feel
+Like we'rе fallin' down twenty flights of stairs
+```
+
 
 ## Song V: snowing in las vegas
 
@@ -262,7 +299,7 @@ title: *rosemary*
 
 ### Part 1: “Terminal Lucidity”
 
-### Part 2: “Smoke Me Out”
+### Part 3: “Smoke Me Out”
 
 ### Part 4: “So Make it Work Tonight”
 
