@@ -2,10 +2,13 @@
 	"nodes":[
 		{"id":"7db4a46ede454e5a","x":-340,"y":-140,"width":250,"height":60,"type":"text","text":"Raw .txt Files (20k Packets Each)"},
 		{"id":"9373bd2d3a26d982","x":-20,"y":-140,"width":250,"height":60,"type":"text","text":"Flow Converstion"},
-		{"id":"c11ca72229547ed4","x":570,"y":-109,"width":250,"height":60,"type":"text","text":"Data Preprocessing"},
-		{"id":"3fb1cfafe4732bba","x":280,"y":120,"width":250,"height":279,"type":"text","text":"Raw .csv Files\n- Start\n- End\n- Interval Duration\n- Syncs\n- Acks\n- Data Packet Count\n- Missing Slots\n- Max Data Gap\n- Min Data Gap"},
-		{"id":"9beef98b7df24bdb","type":"text","text":"Processed .csv Files\n","x":820,"y":20,"width":250,"height":279},
-		{"id":"028ffcc6dd9f2594","x":1070,"y":-110,"width":250,"height":60,"type":"text","text":"Model Training"}
+		{"id":"9beef98b7df24bdb","type":"text","text":"Processed .csv Files\n- X_train\n- X_test\n- y_train\n- y_test","x":820,"y":20,"width":250,"height":279},
+		{"id":"3fb1cfafe4732bba","x":230,"y":20,"width":250,"height":279,"type":"text","text":"Raw .csv Files\n- Start\n- End\n- Interval Duration\n- Syncs\n- Acks\n- Data Packet Count\n- Missing Slots\n- Max Data Gap\n- Min Data Gap"},
+		{"id":"c11ca72229547ed4","x":520,"y":-140,"width":250,"height":60,"type":"text","text":"Data Preprocessing"},
+		{"id":"048742b9580fcc1a","x":1380,"y":41,"width":250,"height":238,"type":"text","text":"Models\n- Linear Regression\n- Random Forest\n- SVM\n- KNN\n- Naive Bayes"},
+		{"id":"028ffcc6dd9f2594","x":1100,"y":-140,"width":250,"height":60,"type":"text","text":"Model Training"},
+		{"id":"b30d3d4cd5c811c9","x":1700,"y":-140,"width":250,"height":60,"type":"text","text":"Model Testing"},
+		{"id":"f1870291abb9c6f8","x":2140,"y":-140,"width":250,"height":60,"type":"text","text":"Predictions on New Traffic"}
 	],
 	"edges":[
 		{"id":"8ada835813602da1","fromNode":"7db4a46ede454e5a","fromSide":"right","toNode":"9373bd2d3a26d982","toSide":"left"},
@@ -13,6 +16,13 @@
 		{"id":"7061c23f7fdbc874","fromNode":"9373bd2d3a26d982","fromSide":"bottom","toNode":"3fb1cfafe4732bba","toSide":"left"},
 		{"id":"d6e4e018304766e9","fromNode":"9373bd2d3a26d982","fromSide":"right","toNode":"c11ca72229547ed4","toSide":"left"},
 		{"id":"6e177a5c27594f66","fromNode":"3fb1cfafe4732bba","fromSide":"right","toNode":"c11ca72229547ed4","toSide":"bottom"},
-		{"id":"50b5b0914002004f","fromNode":"c11ca72229547ed4","fromSide":"bottom","toNode":"9beef98b7df24bdb","toSide":"left"}
+		{"id":"50b5b0914002004f","fromNode":"c11ca72229547ed4","fromSide":"bottom","toNode":"9beef98b7df24bdb","toSide":"left"},
+		{"id":"7fa4d6534b74365b","fromNode":"9beef98b7df24bdb","fromSide":"right","toNode":"028ffcc6dd9f2594","toSide":"bottom"},
+		{"id":"d5117e4fa0d05514","fromNode":"028ffcc6dd9f2594","fromSide":"bottom","toNode":"048742b9580fcc1a","toSide":"left"},
+		{"id":"b281abb14e1ff116","fromNode":"028ffcc6dd9f2594","fromSide":"right","toNode":"b30d3d4cd5c811c9","toSide":"left"},
+		{"id":"abf8a497b266e986","fromNode":"048742b9580fcc1a","fromSide":"right","toNode":"b30d3d4cd5c811c9","toSide":"bottom"},
+		{"id":"81eea7bfdf4f9864","fromNode":"9beef98b7df24bdb","fromSide":"bottom","toNode":"b30d3d4cd5c811c9","toSide":"bottom"},
+		{"id":"6ca0ec49184f0859","fromNode":"9373bd2d3a26d982","fromSide":"top","toNode":"b30d3d4cd5c811c9","toSide":"top"},
+		{"id":"ec677fd9c405f711","fromNode":"b30d3d4cd5c811c9","fromSide":"right","toNode":"f1870291abb9c6f8","toSide":"left"}
 	]
 }
