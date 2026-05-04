@@ -253,6 +253,14 @@ After listening to the song on loop, the song almost perfectly loops over itself
 
 ## Song V: snowing in las vegas
 
+```ad-quote
+title: **snowing in las vegas** 1:1:1-4
+My sweet surprise when I opened up my eyes  
+Met with the sky, sprinkle down the flurry's bite  
+In her eyelids  
+In her iris
+```
+
 ## Song VII: wetdream
 
 ### Part 1: “Terminal Lucidity”
