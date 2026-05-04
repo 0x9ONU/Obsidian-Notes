@@ -14,22 +14,11 @@ Alex Amesbury, on the other hand, is a lot more vocal about his life. Hailing fr
 
 When it comes to the origin and dynamics of WRWT, the only reliable source comes from a short 30-minute interview with both of them on Youtube that was conducted in May of 2022. In the interview, the two describe how they met over Discord, where Willy tried to “troll” Star, which would eventually lead to them bonding over each other’s music. In a drunken stupor, the two decided on a name after Willy’s banned roblox account “WillyRodriguez” with “WasTaken” added afterwards to ensure it would be unique across multiple platforms. The band was made shortly afterwards, with one of their albums being released at the time of interview. Alex specifically calls himself the “glue” of the band as he handled all the production and instrumentation. Willy, on the other hand, always felt like he was not good enough for the band as his imposter syndrome was even evident at this time. This confict would continue throughout the rest of their music career as isolation between the two and tensions would increase [YOUTUBE INTERVIEW]. The duo would then disband a year later after releasing their second album, “Bad Therapists”, near Christmas time [bad therapists]. However, to the internet’s shock, this would not be the last time that they would release an album.
 
-- star starer /drug bug
-- midwestern roadkill/squee
-- WillyRodreguizWasTaken
-- Friends house records
-- https://www.youtube.com/watch?v=1buKzo_tAKY
 - **Pseudonyms is VERY Queer (FIND SOURCE)**
 
 ## Album Information
 
 *wetdream* is the self-proclaimed magnum opus and final studio album by WillyRodriguezWasTaken. Released post-humorously on December 25th, 2023, it exploded the group’s popularity almost a year after the group was defunct.  From a production side, the project utilizes some of the most interesting aspects of noise rock, bedroom pop, and even lofi. The album would continue to explode in popularity with a remastered release on vinyl in December 2024, which sold out within hours [album source]. To this day, the combination of Willy’s raw and emotive vocal delivery and Alex’s instrumental mastery make this album a one-of-a-kind experience. That being said, the main focus on this paper is the many topics regarding what Willy felt as a minority and how he expresses them through each piece of the album and how it tells the story of longing, bodily disgust, drug abuse, and coping as a sexual assault victim [wetdream link].  
-
-- Release date
-- Release conditions (posthumerously)
-	- self-called “magnum opus”
-- Small amount of records
-- Popular far after release
 
 # Literature Review
 
@@ -139,7 +128,7 @@ Tomorrow's supper the morning after
 Another dud, another
 ```
 
-Here, the narrator 
+Here, the narrator utilizes a double entendre. 
 
 ```ad-quote
 title: **dish rags**: 1:C:1-3
