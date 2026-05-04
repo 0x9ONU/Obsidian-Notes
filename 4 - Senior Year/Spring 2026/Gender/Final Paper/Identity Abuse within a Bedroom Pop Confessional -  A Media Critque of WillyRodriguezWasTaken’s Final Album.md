@@ -188,7 +188,7 @@ From this harm, would you celebrate when I’m gone (_Would you celebrate when I
 Remember my name when we're done (_Remember my name when we are done_) 
 ```
 
-The desperate voice pulls back over as the narrator questions again if they can leave their lover. The narrator is afraid that their lover will just quickly move on to someone better than them and celebrate finding a new partner. As brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song II stop calling|stop calling]], the narrator is dependent on the relationship both internally and externally to function, so the thought of the lover being with another would severely hurt the narrator. They are further terrified of their lover forgetting them, reinforcing the themes from the chorus in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#part I]]. 
+The desperate voice pulls back over as the narrator questions again if they can leave their lover. The narrator is afraid that their lover will just quickly move on to someone better than them and celebrate finding a new partner. As brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song II stop calling|stop calling]], the narrator is dependent on the relationship both internally and externally to function, so the thought of the lover being with another would severely hurt the narrator. They are further terrified of their lover forgetting them, reinforcing the themes from the chorus in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]]. 
 
 ```ad-quote
 title: **dish rags**: 2:2:5-6
@@ -196,7 +196,7 @@ Never wanted to be so stuck (_Never wanted to be so stuck_)
 Was this love that we made to rot? (_Was this love we made to rot?_)
 ```
 
-
+The cautious voice of reason once again pulls back, much like a tug of war of the mind. The narrator realizes that 
 
 - Build up
 - This is where the narrator begins to realize that 
