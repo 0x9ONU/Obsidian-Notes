@@ -128,7 +128,7 @@ Tomorrow's supper the morning after
 Another dud, another
 ```
 
-Here, the narrator utilizes a double entendre. The word “son” is being compared to a “sun” the way the narrator sees this person as someone who shines and gives them the light throughout their day. However, when diving into by both of the first lines, it is clear that the narrator is starting to recognize that their partner is giving out on their relationship, but they refuse to let the memory of their lover’s lif
+In the introduction to the song, the narrator starts off by utilizing a double entendre. The word “son” is being compared to a “sun” the way the narrator sees this person as someone who shines and gives them the light in their life. To the narrator, their lover is the motivation that keeps them going and guides their life forward. However, when diving into the first two lines, it is clear that the narrator is starting to recognize that their partner is giving out on their relationship, but they refuse to let the memory of their lover’s light go. The next two lines outline how the narrator is trying to rekindle their relationship by doing nice actions for them, such as making dinner. The narrator’s actions are in vain; however, as the lover does not give back any of their love as the light continues to dim in their memory.
 
 ```ad-quote
 title: **dish rags**: 1:C:1-3
@@ -136,6 +136,8 @@ Take this little piece of mind
 Remember this face of mine
 My baby, it's gone awry
 ```
+
+The beginning of the 
 
 ```ad-quote
 title: **dish rags**: 1:C:4-6
