@@ -172,7 +172,7 @@ And now I don't know what to do *(x2)*
 This reprise marks a moment of emotional exhaustion. The narrator, having cycled through hope and denial, now admits a complete loss of direction. The repetition of "I don't know what to do" underscores his paralysis. They are trapped between the desire to fix the relationship and the growing awareness that it cannot be saved. Further reinforced by the haunting yet amazing vocal screams, the narrator is indecisive as they given into the mental turmoil. This ambiguity sets the stage for the darker revelations of Part II.
 ### Part II: A Rotting Love
 
-
+The second part of the song focuses on the narrator as they take 
 
 - Two voices, one high and one low
 - Representing two different voices from the narrator reinforcing the double thoughts that they have about the relationship coming together into one
@@ -183,13 +183,17 @@ Oh, it's under attack (*Oh, it's under attack at home*)
 In your home, it never was an escape (*Never was an escape from home*)
 ```
 
-- Used the relationshiop 
+- Used the relationship as a way to escape prosecution at home
+- Realized that they got hurt, just in a different way (gender discrimination vs. abuse)
 
 ```ad-quote
 title: **dish rags**: 2:2:3-4
 From this harm, would you celebrate when I’m gone (_Would you celebrate when I’m gone?_)  
 Remember my name when we're done (_Remember my name when we are done_) 
 ```
+
+- The narrator is afraid that their lover will just move on to someone better than them
+- Regardless of this, the narrator still wants them to remember them at all costs, reinforcing the lyrics earlier
 
 ```ad-quote
 title: **dish rags**: 2:2:5-6
@@ -198,6 +202,7 @@ Was this love that we made to rot? (_Was this love we made to rot?_)
 ```
 
 - Build up
+- This is where the narrator begins to realize that 
 
 ```ad-quote
 title: **dish rags**: 2:B:1-2
@@ -206,6 +211,7 @@ To be in your arms (*To be in your arms*)
 ```
 
 - Climax
+- In a last second decision, the narrator decides that they need to see their lover one last time
 ### Part III: Giving Up
 
 ```ad-quote
