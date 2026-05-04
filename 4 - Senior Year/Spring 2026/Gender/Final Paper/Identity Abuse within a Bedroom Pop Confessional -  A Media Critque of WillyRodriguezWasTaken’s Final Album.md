@@ -154,13 +154,15 @@ And If you wanted to, I'd stay the night
 To be so young and free but still alive
 ```
 
-Beginning of the first verse, the narrator toys with the possibility of returning to their partner and staying with them for just one more night in a desperate attempt to revive the relationship. Even though the narrator deep down knows it is a bad idea even bring up the idea of spending another night with their lover, they would do it if it meant to . This further continues as they reminisce on how 
+Beginning of the first verse, the narrator toys with the possibility of returning to their partner and staying with them for just one more night in a desperate attempt to revive the relationship. Even though the narrator deep down knows it is a bad idea to spend another night with their lover, they would do it if it meant their relationship would be fixed. This further continues as they reminisce on how happy they were before their relationship began to sour. Being “so young and free”, the narrator still thinks that they can spend a lot of time trying to get back to how the relationship was before it started to show its cracks.
 
 ```ad-quote
 title: **dish rags**: 1:1:3-4
 I think you were happiest when we first met
 But now thesе screams I hear begun to makе a mess
 ```
+
+The next line further cements that the relationship, rather than being like a roller coaster,
 
 ```ad-quote
 title: **dish rags**: 1:R:1-2
