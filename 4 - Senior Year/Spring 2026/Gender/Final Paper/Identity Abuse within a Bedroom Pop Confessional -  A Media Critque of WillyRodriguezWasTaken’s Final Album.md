@@ -154,7 +154,7 @@ And If you wanted to, I'd stay the night
 To be so young and free but still alive
 ```
 
-Beginning of the first verse, the narrator toys with the possibility of returning to their partner  
+Beginning of the first verse, the narrator toys with the possibility of returning to their partner and staying with them for just one more night in a desperate attempt to revive the relationship. Even though the narrator deep down knows it is a bad idea even bring up the idea of spending another night with thier lover, they would do it if it meant to . This further continues as they reminisce on how 
 
 ```ad-quote
 title: **dish rags**: 1:1:3-4
