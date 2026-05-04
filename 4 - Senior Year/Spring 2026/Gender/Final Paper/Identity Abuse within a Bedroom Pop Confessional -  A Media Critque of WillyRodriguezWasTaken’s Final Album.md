@@ -180,7 +180,7 @@ Oh, it's under attack (*Oh, it's under attack at home*)
 In your home, it never was an escape (*Never was an escape from home*)
 ```
 
-The narrator, in the first two lines of the second verse, reveals part of their lives in an un
+The narrator, in the first two lines of the second verse, reveals part of their lives in an unexpected way. They confess that they were partially using the relationship as an escape from their life at home. Being part of the LGBTQ, which is explicified later in the album, When looking back; however, they realize 
 
 - Used the relationship as a way to escape prosecution at home
 - Realized that they got hurt, just in a different way (gender discrimination vs. abuse)
