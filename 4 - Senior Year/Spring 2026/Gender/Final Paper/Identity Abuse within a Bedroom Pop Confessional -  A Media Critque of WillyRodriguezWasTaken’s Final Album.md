@@ -137,7 +137,7 @@ Remember this face of mine
 My baby, it's gone awry
 ```
 
-The beginning of the chorus finds the narrator pleading with his lover to hold onto both his words and his image, regardless of what becomes of their relationship. Here, the narrator is terrified of being forgotten; he desperately clings to the last good memories they shared together, as if preserving his face in the lover’s mind might somehow grant them permanence in a relationship that is already slipping away. At this point, the narrator is beginning to come to terms with the reality that their relationship has truly fallen apart. However even in this admission, he frames his own erasure as the primary loss, revealing a deeper fear of being rendered invisible by someone who once gave him meaning. 
+The beginning of the chorus finds the narrator pleading with their lover to hold onto both his words and his image, regardless of what becomes of their relationship. Here, the narrator is terrified of being forgotten; he desperately clings to the last good memories they shared together, as if preserving his face in the lover’s mind might somehow grant them permanence in a relationship that is already slipping away. At this point, the narrator is beginning to come to terms with the reality that their relationship has truly fallen apart. However even in this admission, he frames his own erasure as the primary loss, revealing a deeper fear of being rendered invisible by someone who once gave him meaning. 
 
 ```ad-quote
 title: **dish rags**: 1:C:4-6
@@ -162,7 +162,7 @@ I think you were happiest when we first met
 But now thesе screams I hear begun to makе a mess
 ```
 
-The end of the verse further cements that the relationship was a steep decline from the beginning. Unlike a normal relationship that have clear ups-and-downs like a roller coaster, this relationship was a slope straight down since they started dating. The narrator is stuck on the feeling that they had during their honeymoon phase, as much like an addiction. The narrator keeps on chasing the high that they had from when they “first met,” but it is clear that they are stuck and have not been able to replicate that feeling since then. Following the next line, the narrator reveals that as the relationship continues to fall apart, that their mental health is also rapidly declining. To them, it feels as if their own thoughts are screaming and kicking them down; their brain begs them to keep the relationship going at all costs even if it hurts them.
+The end of the verse further cements that the relationship was a steep decline from the beginning. Unlike a normal relationship that have clear ups-and-downs like a roller coaster, this relationship was a slope straight down since they started dating. The narrator is stuck on the feeling that they had during their honeymoon phase, as much like an addiction. The narrator keeps on chasing the high that they had from when they “first met,” but it is clear that they are stuck and have not been able to replicate that feeling since then. Following the next line, the narrator reveals that as the relationship continues to fall apart, that their mental health is also rapidly declining. To them, it feels as if their own thoughts are screaming and kicking them down; their brain begs them to keep the relationship going at all costs even if it hurts them. Musically, this section incorporates layered screams that evoke a ghostly, disembodied presence, thereby reinforcing the themes of decay and psychological turmoil present in the lyrics.
 
 ```ad-quote
 title: **dish rags**: 1:R:1-2
@@ -190,12 +190,15 @@ Never wanted to be so stuck (_Never wanted to be so stuck_)
 Was this love that we made to rot? (_Was this love we made to rot?_)
 ```
 
+- Build up
+
 ```ad-quote
 title: **dish rags**: 2:B:1-2
 In your arms, to be in your arms (*Never*)
 To be in your arms (*To be in your arms*)
 ```
 
+- Climax
 ### Part III: Giving Up
 
 ```ad-quote
