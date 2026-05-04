@@ -154,7 +154,7 @@ And If you wanted to, I'd stay the night
 To be so young and free but still alive
 ```
 
-Beginning of the first verse, the 
+Beginning of the first verse, the narrator toys with the possibility of returning to their partner  
 
 ```ad-quote
 title: **dish rags**: 1:1:3-4
