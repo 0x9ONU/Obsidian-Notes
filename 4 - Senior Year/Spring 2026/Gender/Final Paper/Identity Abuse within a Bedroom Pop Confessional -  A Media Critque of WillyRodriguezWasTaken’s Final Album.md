@@ -8,7 +8,7 @@ Before analyzing how WillyRodriguezWasTaken's _wetdream_ reflects or challenge
 
 WIllyRodriguezWasTaken [willy + song] is a two-person band of different artists that collaborated together. Both of these individuals have a limited Internet footprint as much of their personal life has been either scrubbed or never posted. Both of the artists also often jump between  pseudonyms when they release their own music as well, which often makes it hard to describe exactly how they came to be for this album. However, this section will describe the information available about each artist and how they came together to form this band.
 
-Willy, which is also been known to be called “Gabe,” is a biracial american artist who is very private when it comes to online interactions. Before meeting the co-artist, he published his solo albums underneath the name “midwestern roadkill.” Today, he has abandoned this name and now publishes underneath the name “squee.” He often attributes himself to his distinct lyrics that share personal stories that others often fail to accomplish in the bedroom pop genre. This often attributes him to being the “face” of WRWT during their time together [midwestern roadkill-squee].
+Willy, which is also been known to be called “Gabe,” is a biracial american artist who is very private when it comes to online interactions. Before meeting the co-artist, he published his solo albums underneath the name “midwestern roadkill.” Today, he has abandoned this name and now publishes underneath the name “squee.” He often attributes them-self to his distinct lyrics that share personal stories that others often fail to accomplish in the bedroom pop genre. This often attributes them to being the “face” of WRWT during their time together [midwestern roadkill-squee].
 
 Alex Amesbury, on the other hand, is a lot more vocal about his life. Hailing from Endmonton Alberta, this Canadian-American artist has an long-running history with music. Since the age of 14, he has been playing multiple instruments and is often attributed to the genius behind WRWT. Going under the pseudonym of “Star Starer”, he released two albums and various singles before and during his time as a duo act. However, while making music, he also has to balance his 40-hour work weeks being a full-time carpenter and framer. Today, he continues to release music under the “drug bug” name since 2023, which has seen massive success in the underground scene [star starer-drug bug].
 
@@ -137,7 +137,7 @@ Remember this face of mine
 My baby, it's gone awry
 ```
 
-The beginning of the chorus, the narrator pleads with the lover to, regardless of what their relationship will become, to both remember what they say and what they look like. Here, the narrator is terrified of being forgotten as he clings onto their last good memories together. At this point, the narrator starts to come with terms that their relationship truly has begun to fall apart.
+The beginning of the chorus finds the narrator pleading with his lover to hold onto both his words and his image, regardless of what becomes of their relationship. Here, the narrator is terrified of being forgotten; he desperately clings to the last good memories they shared together, as if preserving his face in the lover’s mind might somehow grant them permanence in a relationship that is already slipping away. At this point, the narrator is beginning to come to terms with the reality that their relationship has truly fallen apart. However even in this admission, he frames his own erasure as the primary loss, revealing a deeper fear of being rendered invisible by someone who once gave him meaning. 
 
 ```ad-quote
 title: **dish rags**: 1:C:4-6
@@ -145,6 +145,8 @@ We’ll never die
 So break in, cleaning supplies
 And drink them 'til your skin turns white
 ```
+
+Covering the rest of the chorus, the narrator immediately contradicts themself by trying to bargain with the lover. By stating that “we’ll never die,” the narrator makes it clear how they will make sure the relationship will never end, regardless of it being alive physically or only through the mind of the narra
 
 ```ad-quote
 title: **dish rags**: 1:1:1-2
