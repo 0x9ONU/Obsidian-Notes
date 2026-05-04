@@ -253,12 +253,15 @@ After listening to the song on loop, the song almost perfectly loops over itself
 
 ## Song V: snowing in las vegas
 
+Unlike the rest of the songs that were described up to this point, *snowing in las vegas* has a more slow and somber tone throughout the 
 
 
 ```ad-quote
 title: **snowing in las vegas** 1:2:1
 Down by the water, I murdered my father
 ```
+
+
 
 - Father represents both the abuser as a father figure and kind of like how the narrator treated his partner like a god “aka the Christian Father”
 - “Following the events of "dish rags" Part III, where the narrator is physically beaten, "I murdered my father" could be a symbolic reclamation of power. Having been passive and dissociative ("Wake me up when it's time to go"), the narrator now adopts the language of violence to describe breaking free — killing not a person, but the _role_ their abuser played in their life.”
