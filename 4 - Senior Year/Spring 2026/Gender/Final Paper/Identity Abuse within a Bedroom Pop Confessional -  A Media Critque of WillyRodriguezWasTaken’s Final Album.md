@@ -221,7 +221,7 @@ Wake me up when it’s time to go
 I've been beaten to a pulp
 ```
 
-The narrator, after a night of being with their lover, begs to keep on sleeping unless it is time for them to leave. Here, the narrator finally reveals why they have been so apprehensive about their relationship and going over to their partner’s house. After spending the night, the narrator was physically abused by their partner
+These opening lines immediately dismantle the fragile fantasy of the bridge. Part III confronts the narrator with the brutal reality of physical violence. The blunt confession confirms that their earlier apprehension was wholly justified. The relationship he chose to return to has left them utterly broken. Their subsequent plea, "Wake me up when it's time to go," functions as a desperate act of dissociation. He does not ask to leave immediately, but instead requests to remain unconscious until the danger has passed. This is not a call for active rescue, but a surrender to passivity as they wait numbly for the abuse to run its course so he can finally escape.
 
 ```ad-quote
 title: **dish rags**: 3:O:3-4
@@ -229,7 +229,7 @@ My baby's giving up
 Can't keep on going anymore
 ```
 
-
+The narrator The narrator realizes that what he said during the[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”| Part I]] has a
 
 ```ad-quote
 title: **dish rags**: 3:O:5
