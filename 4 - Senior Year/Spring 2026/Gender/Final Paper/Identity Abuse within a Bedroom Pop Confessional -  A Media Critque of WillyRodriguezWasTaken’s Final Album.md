@@ -180,10 +180,7 @@ Oh, it's under attack (*Oh, it's under attack at home*)
 In your home, it never was an escape (*Never was an escape from home*)
 ```
 
-The narrator, in the first two lines of the second verse, reveals part of their lives in an unexpected way. Being part of the LGBTQ, which is explicated later in the album, the narrator faces some pressures to move out from their parents house due to potentially gendered abuse. This line is the first time that they confess how the relationship was an escape from their home as their lover was like a sanctuary for them.  When looking back; however, they realize that this was never actually the truth and that being with them was more 
-
-- Used the relationship as a way to escape prosecution at home
-- Realized that they got hurt, just in a different way (gender discrimination vs. abuse)
+The narrator, in the first two lines of the second verse, reveals part of their lives in an unexpected way. Being part of the LGBTQ, which is explicated later in the album, the narrator faces some pressures to move out from their parents house due to potentially gendered abuse. This line is the first time that they confess how the relationship was an escape from their home as their lover was like a sanctuary for them.  When looking back; however, they realize that this was never actually the truth and that being with them was abusive in its own right as seen later.
 
 ```ad-quote
 title: **dish rags**: 2:2:3-4
@@ -191,8 +188,7 @@ From this harm, would you celebrate when I’m gone (_Would you celebrate when I
 Remember my name when we're done (_Remember my name when we are done_) 
 ```
 
-- The narrator is afraid that their lover will just move on to someone better than them
-- Regardless of this, the narrator still wants them to remember them at all costs, reinforcing the lyrics earlier
+The desperate voice pulls back over as the narrator questions again if they can leave their lover. The narrator is afraid that their lover will just quickly move on to someone better than them and celebrate finding a new partner. Regardless of this, the narrator still wants them to remember them at all costs as they a
 
 ```ad-quote
 title: **dish rags**: 2:2:5-6
