@@ -172,16 +172,15 @@ And now I don't know what to do *(x2)*
 This reprise marks a moment of emotional exhaustion. The narrator, having cycled through hope and denial, now admits a complete loss of direction. The repetition of "I don't know what to do" underscores his paralysis. They are trapped between the desire to fix the relationship and the growing awareness that it cannot be saved. Further reinforced by the haunting yet amazing vocal screams, the narrator is indecisive as they given into the mental turmoil. This ambiguity sets the stage for the darker revelations of Part II.
 ### Part II: A Rotting Love
 
-Following the reprise's admission of helplessness, Part II traces the narrator's final swing between insight and self‑destruction. The dual voices, one high, one low, externalize the internal debate: the cautious voice that sees the truth, and the desperate voice that refuses to let go. Over the course of this section, the narrator confronts the realization that the relationship was never a sanctuary, that his lover may not even mourn his absence, and that the love they built was destined to decay. Represented by how the voices slow converge together throughout the Yet in the bridge, the longing wins wins out. The climax, "In your arms," signals a last‑minute decision to return to their lover, setting the stage for Part III's brutal aftermath.
-
-- Two voices, one high and one low
-- Representing two different voices from the narrator reinforcing the double thoughts that they have about the relationship coming together into one
+Following the reprise's admission of helplessness, Part II traces the narrator's final swing between insight and self‑destruction. The dual voices, one high, one low, externalize the internal debate: the cautious voice that sees the truth, and the desperate voice that refuses to let go. Over the course of this section, the narrator confronts the realization that the relationship was never a sanctuary, that his lover may not even mourn his absence, and that the love they built was destined to decay.  The voices slow converge together throughout the section, where they begin to agree that they need to leave their lover for their own sake. Yet in the bridge, the longing wins wins out. The climax, "In your arms," signals a last‑minute decision to return to their lover, setting the stage for Part III's brutal aftermath.
 
 ```ad-quote
 title: **dish rags**: 2:2:1-2
 Oh, it's under attack (*Oh, it's under attack at home*)
 In your home, it never was an escape (*Never was an escape from home*)
 ```
+
+The narrator, in the first two lines of the second verse, reveals part of their lives in an un
 
 - Used the relationship as a way to escape prosecution at home
 - Realized that they got hurt, just in a different way (gender discrimination vs. abuse)
