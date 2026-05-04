@@ -162,7 +162,7 @@ I think you were happiest when we first met
 But now thesе screams I hear begun to makе a mess
 ```
 
-The next line further cements that the relationship, rather than being like a roller coaster,
+The next line further cements that the relationship was a steep decline from the beginning. Unlike a normal relationship that have clear ups-and-downs like a roller coaster, this relationship was a slope straight down since they started dating. The narrator is stuck on the feeling that they had during their honeymoon phase, as much like an addiction. The narrator keeps on chasing the high that they had from when they “first met,” but it is clear that they are stuck and have not been able to replicate that feeling since then. 
 
 ```ad-quote
 title: **dish rags**: 1:R:1-2
