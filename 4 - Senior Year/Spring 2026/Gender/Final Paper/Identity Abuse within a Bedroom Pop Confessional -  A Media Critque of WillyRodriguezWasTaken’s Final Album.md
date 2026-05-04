@@ -137,7 +137,7 @@ Remember this face of mine
 My baby, it's gone awry
 ```
 
-The beginning of the 
+The beginning of the chorus, the narrator pleads with the lover to, regardless of what their relationship will become, to both remember what they say and what they look like. Here, the narrator is terrified of being forgotten as he clings onto their last good memories together. At this point, the narrator starts to come with terms that their relationship truly has begun to fall apart.
 
 ```ad-quote
 title: **dish rags**: 1:C:4-6
@@ -215,7 +215,7 @@ I wish I could have seen you grow *(x4)*
 ```
 
 ```ad-note
-After listening to the song on loop, it is clear that the song almost perfectly loops over itself to the point it is almost jarring when the first verse comes back in. This could be indicitive of the toxic relationship loop that the narrator is feeling as they keep going back to their abusive partner.
+After listening to the song on loop, the song almost perfectly loops over itself to the point it is almost jarring when the first verse comes back in. This could be indicitive of the toxic relationship loop that the narrator is feeling as they keep going back to their abusive partner.
 ```
 ## Song IV: rosemary
 
