@@ -1,5 +1,11 @@
 # Introduction
 
+- Catchy beginning
+- Recount what is talked throughout the paper
+- Purpose of the presentation
+- Layout sections
+- Trigger warnings
+
 # Background
 
 Before analyzing how WillyRodriguezWasTaken's _wetdream_ reflects or challenges the statistical realities outlined later, it is first necessary to understand the artist behind the project and the conditions under which the album was released. WillyRodriguezWasTaken was not a mainstream act; their work emerged from a tight-knit network of underground DIY musicians, each with their own distinct voice and raw, unfiltered approach to songwriting. By examining the artist's biography and the album's unusual release history, the lyrics can be better situated within the specific cultural and personal circumstances that shaped them. This context becomes essential groundwork for the literature review that follows, allowing us to later assess not just what the album says about addiction, depression, and abuse, but why those themes carry the weight they do.
@@ -215,7 +221,7 @@ Wake me up when it’s time to go
 I've been beaten to a pulp
 ```
 
-The 
+The narrator, after a night of being with their lover, begs to keep on sleeping unless it is time for them to leave. Here, the narrator finally reveals why they have been so apprehensive about their relationship and going over to their partner’s house. After spending the night, the narrator was physically abused by their partner
 
 ```ad-quote
 title: **dish rags**: 3:O:3-4
@@ -223,15 +229,21 @@ My baby's giving up
 Can't keep on going anymore
 ```
 
+
+
 ```ad-quote
 title: **dish rags**: 3:O:5
 You live so long
 ```
 
+
+
 ```ad-quote
 title: **dish rags**: 3:O:6-9
 I wish I could have seen you grow *(x4)*
 ```
+
+
 
 ```ad-note
 After listening to the song on loop, the song almost perfectly loops over itself to the point it is almost jarring when the first verse comes back in. This could be indicitive of the toxic relationship loop that the narrator is feeling as they keep going back to their abusive partner.
