@@ -196,16 +196,15 @@ Never wanted to be so stuck (_Never wanted to be so stuck_)
 Was this love that we made to rot? (_Was this love we made to rot?_)
 ```
 
-The cautious voice of reason once again pulls back, much like a tug of war of the mind. The narrator realizes that 
-
-- Build up
-- This is where the narrator begins to realize that 
+The cautious voice of reason once again pulls back, much like a tug-of-war as the music begins to build towards its climax. The first line, "Never wanted to be so stuck", is a striking admission of entrapment. The narrator did not intend to become dependent on this relationship. The narrator realizes that they have been living through the same cycle of hope and disappointment since they first met. The second line asks the question that has been looming since Part I: "Was this love that we made to rot?" The use of "made" is deliberate as it implies a shared construction, a relationship that they made together that was explicitly made to fail from the start. The verb "rot" evokes decay from the inside, not a sudden death but a slow deterioration that the narrator is only now allowing themself to name. This moment marks a turning point: for the first time, the narrator explicitly questions whether his relationship was ever viable, rather than blaming himself for failing to save it. However, the fact that he phrases it as a question rather than a statement reveals that he is not ready to accept this truth. The rising tension in the instrumentation suggests that clarity will be followed not by action, but by a last-minute surrender.
 
 ```ad-quote
 title: **dish rags**: 2:B:1-2
 In your arms, to be in your arms (*Never*)
 To be in your arms (*To be in your arms*)
 ```
+
+
 
 - Climax
 - In a last second decision, the narrator decides that they need to see their lover one last time
