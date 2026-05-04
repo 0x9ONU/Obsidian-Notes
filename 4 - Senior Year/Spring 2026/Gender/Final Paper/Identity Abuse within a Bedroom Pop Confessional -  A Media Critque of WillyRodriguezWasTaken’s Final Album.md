@@ -89,7 +89,7 @@ Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Compre
 All these statistics reflect real, lived experiences of minority stress that media representations can either reinforce or challenge. When media portrays LGBTQ+ characters primarily through narratives of addiction, trauma, or self-destructive behavior without context or depth, it risks tokenism and symbolic annihilation. It is important to ensure the media we are critiquing is not continuing on this stereotype and rather either challenges it or provides a new way to express the real pain the author is feeling.
 # Album Analysis
 
-Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 5 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥” and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these five songs should be listened to even if they are out of the scope of this analysis. Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section.
+Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 5 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these six songs should be listened to even if they are out of the scope of this analysis. Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section.
 
 ## Song II: stop calling
 
@@ -245,53 +245,11 @@ I wish I could have seen you grow *(x4)*
 
 Even after escaping such a terrible situation, the narrator still holds hope for the future of both themself and their abuser. After everything the abuser has done to them, the narrator still wants to see them grow and change into someone capable of love once again. They still see the abuser as human; a human who can change. In the narrator's eyes, they long to see the abuser transform back into the person they experienced at the beginning of the relationship.
 
-Taken as a whole, *dish rags* functions as a devastating case study in the mechanics of identity abuse within LGBTQ+ relationships. The song traces a complete cycle: from the narrator's desperate hope in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]], through the painful internal reckoning of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 2 A Rotting Love|Part 2]], to the brutal physical aftermath of Part 3. Throughout, the abuser weaponizes the narrator's vulnerabilities to maintain control: their need for escape from a hostile home environment, their fear of being forgotten, and their dependency on not being alone. This is identity abuse in its purest form, as defined by the HCDVCC report: the abuser exploits the narrator's marginalized identity not despite it, but because of it. The relationship began as a sanctuary from gendered abuse at home, yet the narrator simply traded one form of oppression for another, exemplifying the intersectional reality that LGBTQ+ individuals often face compounding vulnerabilities. The song also challenges heteronormative assumptions about domestic violence. The narrator's experience of physical abuse and psychological coercion mirrors the statistical realities outlined earlier, yet their story risks invisibility under frameworks that assume abuse follows heterosexual dynamics. By refusing to let the narrator simply walk away and alluding to the cycle continuing,  "dish rags" refuses tokenism. It offers no sanitized resolution and no easy redemption. Instead, it presents the painful truth that leaving an abusive relationship is rarely a single decision, but a prolonged, agonizing process that survivors must navigate without the support systems they deserve.
+Taken as a whole, *dish rags* functions as a devastating case study in the mechanics of identity abuse within LGBTQ+ relationships. The song traces a complete cycle: from the narrator's desperate hope in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]], through the painful internal reckoning of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 2 A Rotting Love|Part 2]], to the brutal physical aftermath of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 3 Giving Up|Part 3]]. Throughout, the abuser weaponizes the narrator's vulnerabilities to maintain control: their need for escape from a hostile home environment, their fear of being forgotten, and their dependency on not being alone. This is identity abuse in its purest form, as defined by the HCDVCC report: the abuser exploits the narrator's marginalized identity not despite it, but because of it. The relationship began as a sanctuary from gendered abuse at home, yet the narrator simply traded one form of oppression for another, exemplifying the intersectional reality that LGBTQ+ individuals often face compounding vulnerabilities. The song also challenges heteronormative assumptions about domestic violence. The narrator's experience of physical abuse and psychological coercion mirrors the statistical realities outlined earlier, yet their story risks invisibility under frameworks that assume abuse follows heterosexual dynamics. By refusing to let the narrator simply walk away and alluding to the cycle continuing,  "dish rags" refuses tokenism. It offers no sanitized resolution and no easy redemption. Instead, it presents the painful truth that leaving an abusive relationship is rarely a single decision, but a prolonged, agonizing process that survivors must navigate without the support systems they deserve.
 
 ```ad-note
 After listening to the song on loop, the song almost perfectly loops over itself to the point it is almost jarring when the first verse comes back in. This could be indicitive of the toxic relationship loop that the narrator is feeling as they keep going back to their abusive partner.
 ```
-## Song IV: rosemary
-
-```ad-quote
-title: **rosemary** 1:1:1-4
-Can't stop now; my lungs will start to fail
-Don't you amuse me; this always persists through refrains
-I'm only trying to survive
-Lost in everyone's last goodbyes
-```
-
-```ad-quote
-title: **rosemary** 1:C:1-3
-I really need you by my side  
-Just let me taste you one last time  
-Before I'm tearing up the floor
-```
-
-```ad-quote
-title: **rosemary** 1:C:4-5
-And if you want it more  
-Come try to get a score
-```
-
-```ad-quote
-title: **rosemary** 1:B:1-2
-Maybe it's over
-The last excuse before October
-```
-
-
-```ad-quote
-title: **rosemary** 1:B:3-4
-To live alone with the daffodils
-Don't resuscitate unless I'm feelin' ill
-```
-
-```ad-quote
-title: **rosemary** 1:B:5-6
-And you can undеrstand why we need to feel
-Like we'rе fallin' down twenty flights of stairs
-```
-
 
 ## Song V: snowing in las vegas
 
