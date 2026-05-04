@@ -253,12 +253,42 @@ After listening to the song on loop, the song almost perfectly loops over itself
 
 ## Song V: snowing in las vegas
 
+
+
 ```ad-quote
-title: **snowing in las vegas** 1:1:1-4
-My sweet surprise when I opened up my eyes  
-Met with the sky, sprinkle down the flurry's bite  
-In her eyelids  
-In her iris
+title: **snowing in las vegas** 1:2:1
+Down by the water, I murdered my father
+```
+
+
+
+```ad-quote
+title: **snowing in las vegas** 1:2:2-3
+In red-colored liquor; I'll dye from exhaustion
+In the darkness, in the cold
+```
+
+
+
+```ad-quote
+title: **snowing in las vegas** 1:2:4
+I ripped out his organs to play in the snow
+```
+
+
+
+```ad-quote
+title: **snowing in las vegas** 1:C:1-2
+The stars all falling in sequence
+As I punch out all of your lights 
+```
+
+```ad-quote
+title: **snowing in las vegas** 1:C:3-6
+The blood starts running down quickly
+As I open the cut on your mouth
+The cut on your mouth
+The cut on your mouth
 ```
 
 ## Song VII: wetdream
