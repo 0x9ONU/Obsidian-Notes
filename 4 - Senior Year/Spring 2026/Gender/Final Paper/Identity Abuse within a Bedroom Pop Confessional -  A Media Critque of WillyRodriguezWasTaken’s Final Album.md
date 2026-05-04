@@ -236,15 +236,14 @@ title: **dish rags**: 3:O:5
 You live so long
 ```
 
-Out of all the lyrics in the song, this is one of the most harrowing. The narrator desperately cries out that the length of both of their lives feels like a curse. They are forced to acknowledge that they spent so long with his abusive partner and will now have to carry the rest of their life burdened by this trauma.
+Out of all the lyrics in the song, this is one of the most harrowing. The narrator desperately cries out that the length of both of their lives feels like a curse. They are forced to acknowledge that they spent so long with his abusive partner and will now have to carry the rest of their life burdened by this trauma. In a way, the narrator fears that their fragile mind will one day succumb to the damage it has taken throughout their life: from the abusive relationship to the gendered abuse they feel everyday.
 
 ```ad-quote
 title: **dish rags**: 3:O:6-9
 I wish I could have seen you grow *(x4)*
 ```
 
-
-
+Even after getting out of such a terrible spot, the narrator still has hope for the future of both themselves and their abuser. After everything that the abuser has done to them, the narrator still wants to see them grow and change into a person who can love once again. They saw that the abuser can truly be a caring and loving person, and would gain some sort of contentment out of seeing
 
 
 ```ad-note
