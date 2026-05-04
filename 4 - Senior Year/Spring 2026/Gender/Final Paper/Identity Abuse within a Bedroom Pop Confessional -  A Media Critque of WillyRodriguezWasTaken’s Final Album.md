@@ -180,7 +180,7 @@ Oh, it's under attack (*Oh, it's under attack at home*)
 In your home, it never was an escape (*Never was an escape from home*)
 ```
 
-The narrator, in the first two lines of the second verse, reveals part of their lives in an unexpected way. Being part of the LGBTQ, which is explicated later in the album, the narrator faces some pressures to move out from their parents house due to potentially gendered abuse. This line is the first time that they confess how the relationship was an escape from their home as their lover was like a sanctuary for them.  When looking back; however, they realize that this was never actually the truth and that being with them was abusive in its own right as seen later.
+The narrator, in the first two lines of the second verse, reveals part of their lives in an unexpected way. Being part of the LGBTQ, which is explicated later in the album, the narrator faces some pressures to move out from their parents house due to potentially gendered abuse. However, financial pressures and poor spending make it difficult for the narrator to move out on their own (see [wetdream](#)) This line is the first time that they confess how the relationship was an escape from their home as their lover was like a sanctuary for them.  When looking back; however, they realize that this was never actually the truth and that being with them was abusive in its own right as seen later.
 
 ```ad-quote
 title: **dish rags**: 2:2:3-4
@@ -188,13 +188,15 @@ From this harm, would you celebrate when I’m gone (_Would you celebrate when I
 Remember my name when we're done (_Remember my name when we are done_) 
 ```
 
-The desperate voice pulls back over as the narrator questions again if they can leave their lover. The narrator is afraid that their lover will just quickly move on to someone better than them and celebrate finding a new partner. Regardless of this, the narrator still wants them to remember them at all costs as they a
+The desperate voice pulls back over as the narrator questions again if they can leave their lover. The narrator is afraid that their lover will just quickly move on to someone better than them and celebrate finding a new partner. As brought up in *stop calling*, the narrator is dependent on the relationship both internally and externally to function, so the thought of the lover being with another would severely hurt the narrator. They are further terrified of their lover forgetting them, reinforcing the themes from the chorus in Part I. 
 
 ```ad-quote
 title: **dish rags**: 2:2:5-6
 Never wanted to be so stuck (_Never wanted to be so stuck_)  
 Was this love that we made to rot? (_Was this love we made to rot?_)
 ```
+
+
 
 - Build up
 - This is where the narrator begins to realize that 
