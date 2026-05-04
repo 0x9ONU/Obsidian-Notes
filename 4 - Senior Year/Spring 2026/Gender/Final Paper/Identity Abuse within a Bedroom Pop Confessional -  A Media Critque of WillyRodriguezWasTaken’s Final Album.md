@@ -169,14 +169,21 @@ title: **dish rags**: 1:R:1-2
 And now I don't know what to do *(x2)*
 ```
 
-Considering all the 
+This reprise marks a moment of emotional exhaustion. The narrator, having cycled through hope and denial, now admits a complete loss of direction. The repetition of "I don't know what to do" underscores his paralysis. They are trapped between the desire to fix the relationship and the growing awareness that it cannot be saved. Further reinforced by the haunting yet amazing vocal screams, the narrator is indecisive as they given into the mental turmoil. This ambiguity sets the stage for the darker revelations of Part II.
 ### Part II: A Rotting Love
+
+
+
+- Two voices, one high and one low
+- Representing two different voices from the narrator reinforcing the double thoughts that they have about the relationship coming together into one
 
 ```ad-quote
 title: **dish rags**: 2:2:1-2
 Oh, it's under attack (*Oh, it's under attack at home*)
 In your home, it never was an escape (*Never was an escape from home*)
 ```
+
+- Used the relationshiop 
 
 ```ad-quote
 title: **dish rags**: 2:2:3-4

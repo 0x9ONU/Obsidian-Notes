@@ -276,7 +276,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,7 +307,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "45542af4def13431",
+  "active": "88b20786bbfbf6ae",
   "lastOpenFiles": [
     "copilot/copilot-conversations/From_a_musical_perspective,_this_whole_section_has_a_bunch@20260504_122201.md",
     "copilot/copilot-conversations/```ad-quote_title_dish_rags_1C1-3_Take_this_little_piece@20260504_103111.md",
