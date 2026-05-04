@@ -229,7 +229,7 @@ My baby's giving up
 Can't keep on going anymore
 ```
 
-The narrator The narrator realizes that what he said during the[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”| Part I]] has a
+The narrator, not blinded by love anymore, realizes the mistake that he made. In[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”| Part I]], they believed that regardless of all the flaws their abuser had, they would one day come back around and love the narrator just like they did before. However, he now finally realizes that this relationship they have can no longer continue as their love as completely given up on them
 
 ```ad-quote
 title: **dish rags**: 3:O:5
