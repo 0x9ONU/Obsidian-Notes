@@ -213,7 +213,7 @@ Wake me up when it’s time to go
 I've been beaten to a pulp
 ```
 
-
+The third part of the song, as shown 
 
 ```ad-quote
 title: **dish rags**: 3:O:3-4
