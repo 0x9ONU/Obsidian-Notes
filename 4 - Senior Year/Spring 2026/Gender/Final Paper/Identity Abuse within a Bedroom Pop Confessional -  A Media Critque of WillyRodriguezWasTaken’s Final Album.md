@@ -180,7 +180,7 @@ Oh, it's under attack (*Oh, it's under attack at home*)
 In your home, it never was an escape (*Never was an escape from home*)
 ```
 
-The narrator, in the first two lines of the second verse, reveals part of their lives in an unexpected way. Being part of the LGBTQ, which is explicated later in the album, the narrator faces some pressures to move out from their parents house due to potentially gendered abuse. However, financial pressures and poor spending make it difficult for the narrator to move out on their own (see [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song VII wetdream |wetdream]]). This verse is the first time that they confess how the relationship was an escape from their home as their lover was like a sanctuary for them.  When looking back; however, they realize that this was never actually the truth and that being with them was abusive in its own right as seen throughout the album.
+The narrator, in the first two lines of the second verse, reveals part of their lives in an unexpected way. Being part of the LGBTQ, which is explicated later in the album, the narrator faces some pressures to move out from their parents house due to potentially gendered abuse. However, financial pressures and poor spending make it difficult for the narrator to move out on their own (see [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song VII wetdream |wetdream]]). This verse is the first time that they confess how the relationship was an escape from their home as their lover was like a sanctuary for them.  When looking back; however, they realize that this was never actually the truth and that being with them was abusive in its own right as seen throughout the album. Yet again, this is a prime example of identity abuse. Regardless of the lovers intentions until this point, the 
 
 ```ad-quote
 title: **dish rags**: 2:2:3-4
@@ -196,7 +196,7 @@ Never wanted to be so stuck (_Never wanted to be so stuck_)
 Was this love that we made to rot? (_Was this love we made to rot?_)
 ```
 
-The cautious voice of reason once again pulls back, much like a tug-of-war as the music begins to build towards its climax. The first line, "Never wanted to be so stuck", is a striking admission of entrapment. The narrator did not intend to become dependent on this relationship. The narrator realizes that they have been living through the same cycle of hope and disappointment since they first met. The second line asks the question that has been looming since Part I: "Was this love that we made to rot?" The use of "made" is deliberate as it implies a shared construction, a relationship that they made together that was explicitly made to fail from the start. The verb "rot" evokes decay from the inside, not a sudden death but a slow deterioration that the narrator is only now allowing themself to name. This moment marks a turning point: for the first time, the narrator explicitly questions whether his relationship was ever viable, rather than blaming himself for failing to save it. However, the fact that he phrases it as a question rather than a statement reveals that he is not ready to accept this truth. The rising tension in the instrumentation suggests that clarity will be followed not by action, but by a last-minute surrender.
+The cautious voice of reason once again pulls back, much like a tug-of-war as the music begins to build towards its climax. The first line, "Never wanted to be so stuck", is a striking admission of entrapment. The narrator did not intend to become dependent on this relationship. The narrator realizes that they have been living through the same cycle of hope and disappointment since they first met. The second line asks the question that has been looming since [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#]]: "Was this love that we made to rot?" The use of "made" is deliberate as it implies a shared construction, a relationship that they made together that was explicitly made to fail from the start. The verb "rot" evokes decay from the inside, not a sudden death but a slow deterioration that the narrator is only now allowing themself to name. This moment marks a turning point: for the first time, the narrator explicitly questions whether his relationship was ever viable, rather than blaming himself for failing to save it. However, the fact that he phrases it as a question rather than a statement reveals that he is not ready to accept this truth. The rising tension in the instrumentation suggests that clarity will be followed not by action, but by a last-minute surrender.
 
 ```ad-quote
 title: **dish rags**: 2:B:1-2
@@ -204,7 +204,7 @@ In your arms, to be in your arms (*Never*)
 To be in your arms (*To be in your arms*)
 ```
 
-
+As alluded to, the narrator suddenly changes their mind for one last time: they want to return to their partner at all costs. 
 
 - Climax
 - In a last second decision, the narrator decides that they need to see their lover one last time
