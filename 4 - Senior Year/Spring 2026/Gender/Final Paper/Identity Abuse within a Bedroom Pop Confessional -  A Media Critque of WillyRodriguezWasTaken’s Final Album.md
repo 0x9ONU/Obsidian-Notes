@@ -253,7 +253,7 @@ After listening to the song on loop, the song almost perfectly loops over itself
 
 ## Song V: snowing in las vegas
 
-Unlike the rest of the songs that were described up to this point, *snowing in las vegas* has a more slow and somber tone throughout the 
+Unlike the rest of the songs that were described up to this point, *snowing in las vegas* has a more slow and somber tone throughout the runtime as it slowly deliberates on its themes. In partciular, the whole song takes place during a small snowstorm outside. 
 
 
 ```ad-quote
