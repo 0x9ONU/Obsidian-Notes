@@ -196,7 +196,7 @@ Never wanted to be so stuck (_Never wanted to be so stuck_)
 Was this love that we made to rot? (_Was this love we made to rot?_)
 ```
 
-The cautious voice of reason once again pulls back, much like a tug-of-war as the music begins to build towards its climax. The first line, "Never wanted to be so stuck", is a striking admission of entrapment. The narrator did not intend to become dependent on this relationship. The narrator realizes that they have been living through the same cycle of hope and disappointment since they first met. The second line asks the question that has been looming since [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#]]: "Was this love that we made to rot?" The use of "made" is deliberate as it implies a shared construction, a relationship that they made together that was explicitly made to fail from the start. The verb "rot" evokes decay from the inside, not a sudden death but a slow deterioration that the narrator is only now allowing themself to name. This moment marks a turning point: for the first time, the narrator explicitly questions whether his relationship was ever viable, rather than blaming himself for failing to save it. However, the fact that he phrases it as a question rather than a statement reveals that he is not ready to accept this truth. The rising tension in the instrumentation suggests that clarity will be followed not by action, but by a last-minute surrender.
+The cautious voice of reason once again pulls back, much like a tug-of-war as the music begins to build towards its climax. The first line, "Never wanted to be so stuck", is a striking admission of entrapment. The narrator did not intend to become dependent on this relationship. The narrator realizes that they have been living through the same cycle of hope and disappointment since they first met. The second line asks the question that has been looming since [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]]: "Was this love that we made to rot?" The use of "made" is deliberate as it implies a shared construction, a relationship that they made together that was explicitly made to fail from the start. The verb "rot" evokes decay from the inside, not a sudden death but a slow deterioration that the narrator is only now allowing themself to name. This moment marks a turning point. For the first time, the narrator explicitly questions whether his relationship was ever viable, rather than blaming himself for failing to save it. However, the fact that he phrases it as a question rather than a statement reveals that he is not ready to accept this truth. The rising tension in the instrumentation suggests that clarity will be followed not by action, but by a last-minute surrender.
 
 ```ad-quote
 title: **dish rags**: 2:B:1-2
@@ -204,10 +204,7 @@ In your arms, to be in your arms (*Never*)
 To be in your arms (*To be in your arms*)
 ```
 
-The bridge delivers the song's emotional climax. As alluded to, the narrator suddenly changes their mind for one last time: they want to return to their partner at all costs. The dual-voice structure collapses into a singular, frantic plea. The parenthetical “_Never_” represents the cautious voice's final, desperate protest, a last gasp of reason acknowledging that returning is a mistake. Yet, it is immediately overridden as the final line signals the complete victory of longing over logic. The two voices converge not into the clarity of self-preservation, but into a unified, self-destructive desire to be loved again at any price. Having just begun to articulate the rot at the core of his relationship, the narrator abandons that fragile insight in favor of the addictive comfort his lover provides. This is not a triumph of hope, but a surrender to the cycle of abuse — and it sets the stage for Part III's brutal aftermath.
-
-- Climax
-- In a last second decision, the narrator decides that they need to see their lover one last time
+The bridge delivers the song's emotional climax. As alluded to, the narrator suddenly changes their mind for one last time: they want to return to their partner at all costs. The dual-voice structure collapses into a singular, frantic plea. The parenthetical “_Never_” represents the cautious voice's final, desperate protest, a last gasp of reason acknowledging that returning is a mistake. Yet, it is immediately overridden as the final line signals the complete victory of longing over logic. The two voices converge not into the clarity of self-preservation, but into a unified, self-destructive desire to be loved again at any cost. Having just begun to express the faults of their relationship, the narrator abandons that fragile insight in favor of the addictive comfort their lover provides. This will lead to the narrator meeting with the lover once more as it transitions into Part III.
 ### Part III: Giving Up
 
 ```ad-quote
@@ -215,6 +212,8 @@ title: **dish rags**: 3:O:1-2
 Wake me up when it’s time to go
 I've been beaten to a pulp
 ```
+
+
 
 ```ad-quote
 title: **dish rags**: 3:O:3-4
