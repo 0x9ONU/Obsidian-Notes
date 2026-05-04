@@ -146,13 +146,15 @@ So break in, cleaning supplies
 And drink them 'til your skin turns white
 ```
 
-Covering the rest of the chorus, the narrator immediately contradicts themself by trying to bargain with the lover. By stating that “we’ll never die,” the narrator makes it clear how they will make sure the relationship will never end, regardless of it being alive physically or only through the mind of the narrator. The next two lines, in particular, are intriguing. The use of a metaphor of drinking cleaning supplies matches how the narrator wants to change the relationship to make it. When it comes to clothes, cleaning supplies are used to clean any stains or messed that were made on them such that they look as if they were new. The narrator, in this context, wants the relationship to turn back 
+Covering the rest of the chorus, the narrator immediately contradicts themself by trying to bargain with the lover. By stating that “we’ll never die,” the narrator makes it clear how they will make sure the relationship will never end, regardless of it being alive physically or only through the mind of the narrator. The next two lines, in particular, are intriguing. The use of a metaphor of drinking cleaning supplies matches how the narrator wants to change the relationship to make it. When it comes to clothes, cleaning supplies are used to clean any stains or messed that were made on them such that they look as if they were new. The narrator, in this context, wants the relationship to be “bleached” back into how it was before their lover stopped reciprocating their love. In another interpretation, the narrator could also mean that being in the relationship feels as if they were drinking cleaning supplies, which is imperative of the toxic relationship they have buried themselves into.
 
 ```ad-quote
 title: **dish rags**: 1:1:1-2
 And If you wanted to, I'd stay the night
 To be so young and free but still alive
 ```
+
+Beginning of the first verse, the 
 
 ```ad-quote
 title: **dish rags**: 1:1:3-4
