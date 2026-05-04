@@ -276,7 +276,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,7 +307,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "45542af4def13431",
+  "active": "88b20786bbfbf6ae",
   "lastOpenFiles": [
     "Identity Abuse within a Bedroom Pop Confessional - A Media Critque of WillyRodriguezWasTaken’s Final Album.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md",

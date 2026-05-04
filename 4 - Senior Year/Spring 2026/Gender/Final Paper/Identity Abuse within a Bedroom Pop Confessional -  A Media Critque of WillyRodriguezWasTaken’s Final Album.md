@@ -207,13 +207,15 @@ To be in your arms (*To be in your arms*)
 The bridge delivers the song's emotional climax. As alluded to, the narrator suddenly changes their mind for one last time: they want to return to their partner at all costs. The dual-voice structure collapses into a singular, frantic plea. The parenthetical “_Never_” represents the cautious voice's final, desperate protest, a last gasp of reason acknowledging that returning is a mistake. Yet, it is immediately overridden as the final line signals the complete victory of longing over logic. The two voices converge not into the clarity of self-preservation, but into a unified, self-destructive desire to be loved again at any cost. Having just begun to express the faults of their relationship, the narrator abandons that fragile insight in favor of the addictive comfort their lover provides. This will lead to the narrator meeting with the lover once more as it transitions into Part III.
 ### Part III: Giving Up
 
+If Part II traced the narrator's painful internal debate, Part III documents what comes after the decision is made. The dual voices that once warred against each other have collapsed into a single, broken perspective. The internal argument is over, not because the narrator has found clarity, but because he has been worn down into submission. This final section is not a resolution but a surrender, laying bare the physical and emotional toll of returning to a lover who never intended to change. It recounts the aftermath that the narrator faces after letting themselves go to their lover one last time, showing the regret in their actions and a glimmer of hope with a decisive choice at the end. 
+
 ```ad-quote
 title: **dish rags**: 3:O:1-2
 Wake me up when it’s time to go
 I've been beaten to a pulp
 ```
 
-The third part of the song, as shown 
+The 
 
 ```ad-quote
 title: **dish rags**: 3:O:3-4
