@@ -128,7 +128,7 @@ Tomorrow's supper the morning after
 Another dud, another
 ```
 
-Here, the narrator utilizes a double entendre. 
+Here, the narrator utilizes a double entendre. The word “son” is being compared to a “sun” the way the narrator sees this person as someone who shines and gives them the light throughout their day. However, when diving into by both of the first lines, it is clear that the narrator is starting to recognize that their partner is giving out on their relationship, but they refuse to let the memory of their lover’s lif
 
 ```ad-quote
 title: **dish rags**: 1:C:1-3
