@@ -26,7 +26,7 @@ In an alloy, atoms tend to migrate from regions of high concentration to regions
 ## Rate of Diffusion
 
 $$
-J = \text{Flux} = \frac{\text{moles (or mass) transfer}}{(\text{surface area})(\text{time})} = \frac{mol}{m^2s}
+J = \text{Flux} = \frac{\text{moles (or mass) transfer}}{(\text{surface area})(\text{time})} = \frac{M}{A \times t}= \frac{mol}{m^2s}
 $$
 
 ### Steady-State Diffusion
