@@ -261,7 +261,7 @@ title: **snowing in las vegas** 1:2:1
 Down by the water, I murdered my father
 ```
 
-The first verse of the song starts out with the titular line of the song. If taken literally, the narrator recounts how, one night, he went and murdered his father on a cold winter night. However, if taken a step back considering the rest of the album, this song can be taken as a 
+The first verse of the song starts out with the titular line of the song. If taken literally, the narrator recounts how, one night, he went and murdered his father on a cold winter night. However, if taken a step back considering the rest of the album, this song can be taken as an internal battle that the narrator has. The “father,” in this case, represents the abuser as they acted like the narrator’s “father figure” throughout the album up to this point. 
 
 - Father represents both the abuser as a father figure and kind of like how the narrator treated his partner like a god “aka the Christian Father”
 - “Following the events of "dish rags" Part III, where the narrator is physically beaten, "I murdered my father" could be a symbolic reclamation of power. Having been passive and dissociative ("Wake me up when it's time to go"), the narrator now adopts the language of violence to describe breaking free — killing not a person, but the _role_ their abuser played in their life.”
