@@ -270,14 +270,14 @@ In red-colored liquor; I'll dye from exhaustion
 In the darkness, in the cold
 ```
 
-However, even as they try to kill the thought of their abuser from their mind for good, the narrator is still left with a haunting reality. The pun in the second line swaps out “die” for “dye” deliberately. The act of trying to forget about her abuser still continues to stain herself as she does not leave the encounter unharmed. This “killing” is not a triumphant one, but rather in one that comes from a mutual destruction on both sides. The abuser's control persists even in death as the narrator is still bleeding, still staining themselves with the relationship trauma. It is often that LGBTQ+ domestic abuse survivors often internalize their abuse, which can lead to self-destructive behavior and eve[DOMESTIC ABUSE CHAPTER] 
+However, even as they try to kill the thought of their abuser from their mind for good, the narrator is still left with a haunting reality. The pun in the second line swaps out “die” for “dye” deliberately. The act of trying to forget about her abuser still continues to stain herself as she does not leave the encounter unharmed. This “killing” is not a triumphant one, but rather in one that comes from a mutual destruction. The abuser's control persists even in “death” as the narrator is still bleeding, still staining themselves with the relationship trauma. It is often that LGBTQ+ domestic abuse survivors often internalize their abuse, which can lead to self-destructive behavior and PTSD [DOMESTIC ABUSE CHAPTER]. The abuser, even after coming this far, cannot just forget about the abuser and walk away; they are permanently “dyed” from the experience.
 
 ```ad-quote
 title: **snowing in las vegas** 1:2:4
 I ripped out his organs to play in the snow
 ```
 
-
+The further wordplay used here 
 
 ```ad-quote
 title: **snowing in las vegas** 1:C:1-2
