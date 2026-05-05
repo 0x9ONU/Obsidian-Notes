@@ -381,12 +381,6 @@ I got lost in between her legs
 ```
 
 ```ad-quote
-title: **wetdream** 3:B:3-4
-Oh god, did you see my face?
-I got lost in between her legs
-```
-
-```ad-quote
 title: **wetdream** 3:1:1-2
 Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
@@ -410,7 +404,7 @@ So smoke me out
 ### Part 4: “So Make it Work Tonight”
 
 ```ad-quote
-title: **wetdream** 4:1:1-4
+title: **wetdream** 4:1:1-5
 
 Come inside
 Let me lay on your shoulder
@@ -421,7 +415,7 @@ Then I'll throw my arms around her
 ```
 
 ```ad-quote
-title: **wetdream** 4:1:5-9
+title: **wetdream** 4:1:6-10
 You'd think it's pretty dumb
 If I said I really loved you all the time
 It's all the time (*x3*)
@@ -446,8 +440,49 @@ Dip my fingers to my tonsils and spill out bile (I love you, I love you)
 ```
 
 ```ad-quote
-title: **wetdream** 4:B:
+title: **wetdream** 4:B:3-4
+They said scars weren't genetic (I love you, I love you)
+Just some aforementioned tragedy (I love you, I love you)
 ```
+
+```ad-quote
+title: **wetdream** 4:PC:1-4
+Oh, I love you more than I got
+And I've had enough
+So if you want some piece of heaven
+You can find it at the corner store
+```
+
+```ad-quote
+title: **wetdream** 4:C:1-2
+'Cause I've been drinkin' all damn night  
+Just to repeat another "I love you" in spite
+```
+
+```ad-quote
+title: **wetdream** 4:C:3-4
+I dig my nails into my hands and squeeze them tight
+Just to remind myself I meant it once or twice
+```
+
+```ad-quote
+title: **wetdream** 4:R:1-2
+For seven years, I had to drink myself alive
+So I can work another boring 9 to 5
+```
+
+```ad-quote
+title: **wetdream** 4:R:3
+My body's failing me one sickle cell at a time
+```
+
+```ad-quote
+title: **wetdream** 4:R:4-6
+So make it work tonight (*x3*)
+```
+
+
+
 
 ## Song IX: lost in translation
 
