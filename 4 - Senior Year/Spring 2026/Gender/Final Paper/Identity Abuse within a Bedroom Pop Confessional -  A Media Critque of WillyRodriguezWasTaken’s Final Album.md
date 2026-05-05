@@ -277,7 +277,7 @@ title: **snowing in las vegas** 1:2:4
 I ripped out his organs to play in the snow
 ```
 
-The further wordplay used here 
+This line escalates the symbolic murder into grotesque desecration. Where the narrator had already been "dyed" by the act, they now linger over the corpse, dismantling it piece-by-piece. The word "play" is deliberately childlike, evoking innocence while describing the visceral scene. The narrator cannot simply walk away; they must reduce the abuser to objects that can be controlled, handled, and discarded in the snow. Yet the cold setting and the solitary nature of the act strip it of triumph. This is not catharsis but compulsion, a hollow reclamation that leaves the narrator alone in the dark with the pieces of what they destroyed.
 
 ```ad-quote
 title: **snowing in las vegas** 1:C:1-2
