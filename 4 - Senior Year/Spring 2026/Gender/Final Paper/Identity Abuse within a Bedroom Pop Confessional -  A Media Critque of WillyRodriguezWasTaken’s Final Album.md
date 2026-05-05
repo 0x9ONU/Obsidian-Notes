@@ -673,10 +673,62 @@ You'll strip your clothes and live with it
 ### Part 3: Denial
 
 ```ad-quote
-title: **revisited** 
+title: **revisited** 3:1:1-3
+God knows I've wronged
+Took many of my friends
+And traded 'em for drugs
 ```
 
+```ad-quote
+title: **revisited** 3:1:4-6
+I know I'm lost
+But it's been better just to sin
+'Cause it's to start up once again
+```
+
+```ad-quote
+title: **revisited** 3:1:8-9
+Who's to say I know myself
+When I've forgotten how to live
+```
+
+```ad-quote
+title: **revisited** 3:1:10
+With his love, with your ID
+```
+
+```ad-quote
+title: **revisited** 3:1:11-12
+Leave the vice on the couch
+So you can shoot it in our veins
+```
+
+```ad-quote
+title: **revisited** 3:B:1-4
+Hold somebody close
+'Cause I want to know
+Just once again
+The taste of his lips
+```
 ### Part 4: Anger
+
+```ad-quote
+title: **revisited** 4:1:1-2
+Read the words of all the pages you ripped out, oh
+I skimmed the lines and saw your legs about to give in
+```
+
+
+```ad-quote
+title: **revisited** 4:1:3
+Could have helped you, the voice that calls you his friend, oh
+```
+
+
+```ad-quote
+title: **revisited** 4:1:3
+Could have helped you, the voice that calls you his friend, oh
+```
 
 ### Part 5: Bargaining
 
