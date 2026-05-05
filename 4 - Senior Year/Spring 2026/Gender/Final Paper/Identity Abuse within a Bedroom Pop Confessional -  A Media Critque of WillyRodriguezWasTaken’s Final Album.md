@@ -288,6 +288,67 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 
 ### Part 1: “Terminal Lucidity”
 
+```ad-quote
+title: **wetdream** 1:1:1-2
+Tried all night to get you out my mind  
+I'm so tired; I couldn't shut my eyes
+```
+
+```ad-quote
+title: **wetdream** 1:1:3-6
+Rise and shine to vomit-stained carpets
+He might try to smoke you out a bit
+But I'll lie, sitting on my bedroom floor
+Thinking 'bout how long it took to wake him up
+```
+
+```ad-quote
+title: **wetdream** 1:C:1-2
+Let's head on back to sleep again
+I'm tired of waking up as friends
+```
+
+
+```ad-quote
+title: **wetdream** 1:C:3-4
+I just can't kill the thought of you
+Being with someone else I knew
+```
+
+```ad-quote
+title: **wetdream** 1:C:9-16
+Say that you love me
+Even if you're lying (Fuck you) (*x4*)
+```
+
+```ad-quote
+title: **wetdream** 1:2:1-6
+'Cause I've been wasting away
+Waiting for change
+Waiting for you to come and love me (*x2*)
+```
+
+```ad-quote
+title: **wetdream** 1:B:1-3
+It's so nice
+Pretending like
+Pretending like the silence is still alive
+```
+
+```ad-quote
+title: **wetdream** 1:B:4-7
+Bruising up your knee
+Bruising up your knee
+I've been kicking you for hours
+I guess you've gotten used to it
+```
+
+```ad-quote
+title: **wetdream** 1:B:8-9
+But I hope it never leaves
+That mark was made for me
+```
+
 ### Part 3: “Smoke Me Out”
 
 ### Part 4: “So Make it Work Tonight”
