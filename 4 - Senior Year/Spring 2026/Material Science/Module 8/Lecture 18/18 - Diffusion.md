@@ -38,5 +38,19 @@ $$
 $$
 J = -D \frac{dC}{dx}
 $$
-**
+*if linear*
+$$
+\frac{dC}{dx} \approx \frac{\Delta C}{\Delta x}
+$$
+
+### Factors Affecting the Rate of Diffusion
+
+
+### Nonsteady-State Diffusion
+
+```ad-warning
+The diffusion of atoms is dependent of time
+```
+
+
 
