@@ -253,7 +253,7 @@ After listening to the song on loop, the song almost perfectly loops over itself
 
 ## Song V: snowing in las vegas
 
-Unlike the rest of the songs that were described up to this point, *snowing in las vegas* has a more slow and somber tone throughout the runtime as it slowly deliberates on its themes. In partciular, the whole song takes place during a small snowstorm outside. 
+Coming from the end of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song III dish rags|dish rags]], *snowing in las vegas* opens with a jarring act of symbolic violence. Their fifth song trades the frantic and often hyper internal debate with a  more slow and somber reflection that takes place outside in a snowstorm rather than in a bedroom. This change in scenery, from the suffocating itimacy of a bedroom to a cold and exposed frozen landscape, 
 
 
 ```ad-quote
