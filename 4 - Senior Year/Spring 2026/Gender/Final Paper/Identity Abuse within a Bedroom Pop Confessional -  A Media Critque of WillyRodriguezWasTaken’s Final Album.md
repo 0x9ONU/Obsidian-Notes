@@ -734,9 +734,89 @@ Oh God, did you really have to hurt me so bad?
 
 ### Part 5: Bargaining
 
+```ad-quote
+title: **revisited** 5:1:1-2
+Waste of breath encoded in braille
+You're mangled to bits inside
+```
+
+```ad-quote
+title: **revisited** 5:1:7-8
+Along those lines of pearly white
+I stare so long, forgot to cry
+```
+
+```ad-quote
+title: **revisited** 5:1:9-10
+It's not your fault you lived this life (*x2*)
+```
 ### Part 6: Depression
 
+```ad-quote
+title: **revisited** 6:1:1
+Know you're semi-solid gold
+```
+
+
+```ad-quote
+title: **revisited** 6:1:2-3
+The way she used to touch you
+Made you feel so old
+```
+
+```ad-quote
+title: **revisited** 6:1:4-5
+Run your thumb across its surface tension
+To relive it all
+```
+
+
+```ad-quote
+title: **revisited** 6:1:6-9
+Oh my god, it never felt so wrong (*x4*)
+```
+
+- Climax of the album
+- Scariest screams tbh
+- Instrumentation almost fully drops away
+
+
+```ad-quote
+title: **revisited** 6:1:11-14
+Rip some holes
+Stretch away the dirt
+Wash that fold
+Then you'll know it worked
+```
+
+
+```ad-quote
+title: **revisited** 6:1:15-22
+Touch it 'til it burns
+Touch it 'til it burns
+Touch it 'til it hurts
+Touch it 'til it works
+Touch it 'til it works
+Touch it 'til it burns
+Touch it 'til it hurts
+Touch it 'til it works
+```
+
 ### Part 7: Acceptance?
+
+
+```ad-quote
+title: **revisited** 6:1:15-22
+Touch it 'til it burns
+Touch it 'til it burns
+Touch it 'til it hurts
+Touch it 'til it works
+Touch it 'til it works
+Touch it 'til it burns
+Touch it 'til it hurts
+Touch it 'til it works
+```
+
 
 # Comparison
 
