@@ -253,7 +253,7 @@ After listening to the song on loop, the song almost perfectly loops over itself
 
 ## Song V: snowing in las vegas
 
-Coming from the end of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song III dish rags|dish rags]], *snowing in las vegas* opens with a jarring act of symbolic violence. Their fifth song trades the frantic and often hyper internal debate with a  more slow and somber reflection that takes place outside in a snowstorm rather than in a bedroom. This change in scenery, from the suffocating itimacy of a bedroom to a cold and exposed frozen landscape, signals a detour the album takes. In its sparse instrumentation and deliberate pacing, the narrator begins to unfold a metaphor for reclaiming back their life. Murdering the perception that they have of their previous lover, it describes how their internal monologue takes retribution against the abuser who left them beaten. Breaking down the song bit-by-bit, #comebacklater 
+Coming from the end of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song III dish rags|dish rags]], *snowing in las vegas* opens with a jarring act of symbolic violence.  The frantic internal lwith a  more slow and somber reflection that takes place outside in a snowstorm rather than in a bedroom. This change in scenery, from the suffocating itimacy of a bedroom to a cold and exposed frozen landscape, signals a detour the album takes. In its sparse instrumentation and deliberate pacing, the narrator begins to unfold a metaphor for reclaiming back their life. Murdering the perception that they have of their previous lover, it describes how their internal monologue takes retribution against the abuser who left them beaten. This section will analyze how their  literalizes the psychological break that follows sustained identity abuse. By adopting the language of violence, the narrator attempts to narrate their own agency, but the fractured, repetitive delivery and the song's haunting emptiness suggest that the cost of this reclamation may be the narrator’s own sanity.
 
 
 ```ad-quote
@@ -261,10 +261,8 @@ title: **snowing in las vegas** 1:2:1
 Down by the water, I murdered my father
 ```
 
-The first verse of the song starts out with the titular line of the song. If taken literally, the narrator recounts how, one night, he went and murdered his father on a cold winter night. However, if taken a step back considering the rest of the album, this song can be taken as an internal battle that the narrator has. The “father,” in this case, represents the abuser as they acted like the narrator’s “father figure” throughout the album up to this point. 
+The first verse of the song starts out with the titular line of the song. If taken literally, the narrator recounts how, one night, he went and murdered his father on a cold winter night. However, if taken a step back considering the rest of the album, this song can be taken as an internal battle that the narrator has. The “father,” in this case, represents the abuser as they acted like the narrator’s “father figure” throughout the album up to this point. Being so dependent and scared to lose him up to this point, the narrator decides to adopt the language of violence as a way of breaking free from his oppressor. They are not necessarily killing them, but rather are assassinating the role that their abused played in their life.
 
-- Father represents both the abuser as a father figure and kind of like how the narrator treated his partner like a god “aka the Christian Father”
-- “Following the events of "dish rags" Part III, where the narrator is physically beaten, "I murdered my father" could be a symbolic reclamation of power. Having been passive and dissociative ("Wake me up when it's time to go"), the narrator now adopts the language of violence to describe breaking free — killing not a person, but the _role_ their abuser played in their life.”
 
 ```ad-quote
 title: **snowing in las vegas** 1:2:2-3
@@ -272,7 +270,7 @@ In red-colored liquor; I'll dye from exhaustion
 In the darkness, in the cold
 ```
 
-- Furthe
+
 
 ```ad-quote
 title: **snowing in las vegas** 1:2:4
@@ -295,6 +293,7 @@ The cut on your mouth
 The cut on your mouth
 ```
 
+- 
 ## Song VII: wetdream
 
 - Notes that the 2nd part is not included because it is purely instrumental
