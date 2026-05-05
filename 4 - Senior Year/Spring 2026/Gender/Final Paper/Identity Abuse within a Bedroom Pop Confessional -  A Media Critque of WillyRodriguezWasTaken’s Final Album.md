@@ -89,7 +89,7 @@ Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Compre
 All these statistics reflect real, lived experiences of minority stress that media representations can either reinforce or challenge. When media portrays LGBTQ+ characters primarily through narratives of addiction, trauma, or self-destructive behavior without context or depth, it risks tokenism and symbolic annihilation. It is important to ensure the media we are critiquing is not continuing on this stereotype and rather either challenges it or provides a new way to express the real pain the author is feeling.
 # Album Analysis
 
-Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 5 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these six songs should be listened to even if they are out of the scope of this analysis. Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section.
+Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 5 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, “lost in translation”, “playing dead”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these songs should be listened to and considered in the broader context of the whole album even if they are out of the scope of this analysis. Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section.
 
 ## Song II: stop calling
 
@@ -282,6 +282,8 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 *snowing in las vegas* is a portrait of the psychological aftermath that follows long-term identity abuse. This song translates the internal monologue of a victim overcoming a terrible relationship into a visceral, lived experience. The narrator's symbolic murder of the abuser is an act of desperate judgement rather than that of triumph. By the end, the narrator is left "dyed" by the encounter, which permanently stains them with trauma. Rather than offering a sanitized narrative of healing that would comfort a dominant audience, the song presents the messy, incomplete, and self-destructive reality of surviving abuse without adequate support systems. The narrator's isolated play in the snow, dismantling a corpse that will not stop bleeding, becomes a haunting metaphor for the way trauma lingers long after the abuser is gone.
 ## Song VII: wetdream
 
+
+
 - Notes that the 2nd part is not included because it is purely instrumental
 
 ### Part 1: “Terminal Lucidity”
@@ -289,10 +291,6 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 ### Part 3: “Smoke Me Out”
 
 ### Part 4: “So Make it Work Tonight”
-
-## Song IX: lost in translation
-
-## Song XI: playing dead
 
 ## Song XIII: revisited
 
