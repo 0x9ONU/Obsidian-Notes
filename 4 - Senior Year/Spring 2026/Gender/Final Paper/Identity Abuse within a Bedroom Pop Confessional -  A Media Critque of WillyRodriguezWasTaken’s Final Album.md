@@ -594,7 +594,37 @@ So why don't you love me too?
 
 ### Part 1: Introduction
 
+```ad-quote
+title: **revisited** 1:1:1
+*Here we go. I like you, Neil. I like you so much. When I really, really like someone... there's a way l show them how I feel. Shhh...*
+```
+
 ### Part 2: Admission
+
+```ad-quote
+title: **revisited** 2:1:1-3
+I've made up my mind
+I've let it go
+Too many times
+```
+
+```ad-quote
+title: **revisited** 2:1:5-8
+And the drugs you take are never enough (Oh, I)
+And the drugs you make are never enough (Oh, I) (*x2*)
+```
+
+```ad-quote
+title: **revisited** 2:1:9-10
+Rape me
+Your suicidе can't take me
+```
+
+```ad-quote
+title: **revisited** 2:1:11-12
+Could have felt so nice
+Don't make me if you feel too sore tonight
+```
 
 ### Part 3: Denial
 
