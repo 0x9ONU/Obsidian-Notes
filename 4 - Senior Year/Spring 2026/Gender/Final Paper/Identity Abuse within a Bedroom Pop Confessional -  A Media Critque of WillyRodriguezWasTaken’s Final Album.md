@@ -713,22 +713,24 @@ The taste of his lips
 ### Part 4: Anger
 
 ```ad-quote
-title: **revisited** 4:1:1-2
+title: **revisited** 4:1:1-3
 Read the words of all the pages you ripped out, oh
 I skimmed the lines and saw your legs about to give in
-```
-
-
-```ad-quote
-title: **revisited** 4:1:3
 Could have helped you, the voice that calls you his friend, oh
 ```
 
+```ad-quote
+title: **revisited** 4:1:7-9
+If you could see me tonight
+We'd make it work this time
+My baby, you'll always be mine
+```
 
 ```ad-quote
-title: **revisited** 4:1:3
-Could have helped you, the voice that calls you his friend, oh
+title: **revisited** 4:1:10
+Oh God, did you really have to hurt me so bad?
 ```
+
 
 ### Part 5: Bargaining
 
