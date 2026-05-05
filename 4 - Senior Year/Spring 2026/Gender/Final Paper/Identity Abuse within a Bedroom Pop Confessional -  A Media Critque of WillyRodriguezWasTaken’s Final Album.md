@@ -270,22 +270,14 @@ In red-colored liquor; I'll dye from exhaustion
 In the darkness, in the cold
 ```
 
-However, even as they try to kill the thought of their abuser from their mind for good, the narrator is still left with a haunting reality. The pun in the second line swaps out “die” for “dye” deliberately. The act of trying to forget about her abuser still continues to stain herself as she does not leave the encounter unharmed. This “killing” is not a triumphant one, but rather in one that comes from a mutual destruction. The abuser's control persists even in “death” as the narrator is still bleeding, still staining themselves with the relationship trauma. It is often that LGBTQ+ domestic abuse survivors often internalize their abuse, which can lead to self-destructive behavior and PTSD [DOMESTIC ABUSE CHAPTER]. This song is one of the best interpretations of internalized feelings regarding The abuser, even after coming this far, cannot just forget about the abuser and walk away; they are permanently “dyed” from the experience.
+However, even as they try to kill the thought of their abuser from their mind for good, the narrator is still left with a haunting reality. The pun in the second line swaps out “die” for “dye” deliberately. The act of trying to forget about her abuser still continues to stain herself as she does not leave the encounter unharmed. This “killing” is not a triumphant one, but rather in one that comes from a mutual destruction. The abuser's control persists even in “death” as the narrator is still bleeding, still staining themselves with the relationship trauma. It is often that LGBTQ+ domestic abuse survivors often internalize their abuse, which can lead to self-destructive behavior and PTSD [DOMESTIC ABUSE CHAPTER]. This song is one of the best interpretations of internalized feelings regarding an abusive relationship. The narrator, even after coming this far, cannot just forget about the abuser and walk away; they are permanently “dyed” from the experience as it is something they have to handle for the rest of their life.
 
 ```ad-quote
 title: **snowing in las vegas** 1:2:4
 I ripped out his organs to play in the snow
 ```
 
-This line escalates the symbolic murder into grotesque desecration. Where the narrator had already been "dyed" by the act, they now linger over the corpse, dismantling it. The word "play" is deliberately childlike, evoking innocence while describing the visceral scene. The narrator cannot simply walk away; they must reduce the abuser to objects that can be controlled, handled, and discarded in the snow. Breaking down the relationship and their lover piece-by-piece, they are able to reflect on what he did using the clean canvas of the snow. Yet, the cold setting and the solitary nature of the act strip it of triumph. Even though the narrator is able to see what the relationship has done to them, they are still left with a
-
-```ad-quote
-title: **snowing in las vegas** 1:C:3-6
-The blood starts running down quickly
-As I open the cut on your mouth
-The cut on your mouth
-The cut on your mouth
-```
+This line escalates the symbolic murder into grotesque desecration. Where the narrator had already been "dyed" by the act, they now linger over the corpse, dismantling it. The word "play" is deliberately childlike, evoking innocence while describing the visceral scene. The narrator cannot simply walk away; they must reduce the abuser to objects that can be controlled, handled, and discarded in the snow. Breaking down the relationship and their lover piece-by-piece, they are able to reflect on what he did using the clean canvas of the snow. Yet, the cold setting and the solitary nature of the act strip it of triumph. Even though the narrator is able to see what the relationship has done to them, they are still left with all the pieces scattered across the ground, bleeding their influence to the rest of the pure white snow below them.
 
 
 ## Song VII: wetdream
