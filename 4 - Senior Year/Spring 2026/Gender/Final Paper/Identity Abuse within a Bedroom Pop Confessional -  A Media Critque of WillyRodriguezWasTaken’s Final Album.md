@@ -89,7 +89,7 @@ Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Compre
 All these statistics reflect real, lived experiences of minority stress that media representations can either reinforce or challenge. When media portrays LGBTQ+ characters primarily through narratives of addiction, trauma, or self-destructive behavior without context or depth, it risks tokenism and symbolic annihilation. It is important to ensure the media we are critiquing is not continuing on this stereotype and rather either challenges it or provides a new way to express the real pain the author is feeling.
 # Album Analysis
 
-Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 5 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, “lost in translation”, “playing dead”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these songs should be listened to and considered in the broader context of the whole album even if they are out of the scope of this analysis. Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section.
+Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 5 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, “playing dead”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these songs should be listened to and considered in the broader context of the whole album even if they are out of the scope of this analysis. Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section.
 
 ## Song II: stop calling
 
@@ -410,7 +410,7 @@ So smoke me out
 ### Part 4: “So Make it Work Tonight”
 
 ```ad-quote
-title: **wetdream** 4:1:1-7
+title: **wetdream** 4:1:1-4
 
 Come inside
 Let me lay on your shoulder
@@ -418,10 +418,38 @@ We'll watch some shitty sitcom
 
 I'll kiss her on the mouth
 Then I'll throw my arms around her
-You'd think it's pretty dumb
-If I said I really loved you all the time
 ```
 
+```ad-quote
+title: **wetdream** 4:1:5-9
+You'd think it's pretty dumb
+If I said I really loved you all the time
+It's all the time (*x3*)
+```
+
+```ad-quote
+title: **wetdream** 4:2:1-2
+'Cause I've been lovesick all night  
+But these drugs make it fine
+```
+
+```ad-quote
+title: **wetdream** 4:2:3-4
+Tryna hide what's inside
+But it's eating me alive
+```
+
+```ad-quote
+title: **wetdream** 4:B:1-2
+You'd want to see me gag (I love you, I love you)
+Dip my fingers to my tonsils and spill out bile (I love you, I love you)
+```
+
+```ad-quote
+title: **wetdream** 4:B:
+```
+
+## Song IX: lost in translation
 
 ## Song XIII: revisited
 
