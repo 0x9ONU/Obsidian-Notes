@@ -284,7 +284,10 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 
 
 
-- Notes that the 2nd part is not included because it is purely instrumental
+- Realize that this might be another story from the other half the album (a different narrator and lover)
+	- Mainly the big change is the amount of drug use that has came up
+	- Different dynamic  
+- Note that the 2nd part is not included because it is purely instrumental
 
 ### Part 1: “Terminal Lucidity”
 
@@ -827,6 +830,18 @@ I love you more, abort your God
 ```ad-quote
 title: **revisited** 7:1:8
 The feeling's ill, the rape was wrong
+```
+
+```ad-quote
+title: **revisited** 7:1:9-11
+I know my worth, his special place
+That feeling stings, it goes away
+But not for long, it's staying shut
+```
+
+```ad-quote
+title: **revisited** 7:1:9-12
+The drug I feel I wouldn't want
 ```
 
 
