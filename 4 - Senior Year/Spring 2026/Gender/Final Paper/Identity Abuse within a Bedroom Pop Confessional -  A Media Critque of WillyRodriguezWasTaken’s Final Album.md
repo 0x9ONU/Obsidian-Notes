@@ -549,11 +549,45 @@ And burn all our clothes
 ```
 
 ```ad-quote
-title: **lost in translation** 1:3:4, 
-No hesitation
-I'll strip you to pieces
-And burn all our clothes
-'Til we fight, 'til we're screamin'
+title: **lost in translation** 1:3:4, 6-8
+This dumb temptation (I love you)
+...
+You love me so (I love you)
+It's gotta go (I love you)
+I feel so ugly (I love you)
+```
+
+```ad-quote
+title: **lost in translation** 1:3:4, 10-12
+I never felt the warmth of something so intense
+I wanna bury my head in the blankets we have
+Try to hide all the shame underneath all this fuss
+```
+
+```ad-quote
+title: **lost in translation** 1:3:4, 23-26
+'Cause I'm in a state of feeling called "euphoria"
+Caused by chemicals in the limbic system
+Similar to the use of drugs
+Or any prerequisite that matches lust
+```
+
+```ad-quote
+title: **lost in translation** 1:4:7-8
+And I waste away on summer nights
+Expecting you to say you're fine
+```
+
+```ad-quote
+title: **lost in translation** 1:4:9-10
+But all I get is brief replies
+Of I don't knows and so do I's
+```
+
+```ad-quote
+title: **lost in translation** 1:4:11-12
+You know I love you
+So why don't you love me too?
 ```
 
 ## Song XIII: revisited
