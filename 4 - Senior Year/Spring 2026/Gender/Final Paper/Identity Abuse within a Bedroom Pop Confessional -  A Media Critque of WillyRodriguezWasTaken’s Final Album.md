@@ -294,6 +294,8 @@ Tried all night to get you out my mind
 I'm so tired; I couldn't shut my eyes
 ```
 
+
+
 ```ad-quote
 title: **wetdream** 1:1:3-6
 Rise and shine to vomit-stained carpets
@@ -302,11 +304,14 @@ But I'll lie, sitting on my bedroom floor
 Thinking 'bout how long it took to wake him up
 ```
 
+
+
 ```ad-quote
 title: **wetdream** 1:C:1-2
 Let's head on back to sleep again
 I'm tired of waking up as friends
 ```
+
 
 
 ```ad-quote
@@ -315,11 +320,15 @@ I just can't kill the thought of you
 Being with someone else I knew
 ```
 
+
+
 ```ad-quote
 title: **wetdream** 1:C:9-16
 Say that you love me
 Even if you're lying (Fuck you) (*x4*)
 ```
+
+
 
 ```ad-quote
 title: **wetdream** 1:2:1-6
@@ -328,6 +337,8 @@ Waiting for change
 Waiting for you to come and love me (*x2*)
 ```
 
+
+
 ```ad-quote
 title: **wetdream** 1:B:1-3
 It's so nice
@@ -335,23 +346,82 @@ Pretending like
 Pretending like the silence is still alive
 ```
 
+
+
 ```ad-quote
-title: **wetdream** 1:B:4-7
+title: **wetdream** 1:B:5-8
 Bruising up your knee
 Bruising up your knee
 I've been kicking you for hours
 I guess you've gotten used to it
 ```
 
+
+
 ```ad-quote
-title: **wetdream** 1:B:8-9
+title: **wetdream** 1:B:9-10
 But I hope it never leaves
 That mark was made for me
 ```
 
+
+
 ### Part 3: “Smoke Me Out”
 
+```ad-quote
+title: **wetdream** 3:1:1-2
+Furry porn has destroyed my mind
+I fell in love for the millionth time
+```
+
+```ad-quote
+title: **wetdream** 3:B:3-4
+Oh god, did you see my face?
+I got lost in between her legs
+```
+
+```ad-quote
+title: **wetdream** 3:B:3-4
+Oh god, did you see my face?
+I got lost in between her legs
+```
+
+```ad-quote
+title: **wetdream** 3:1:1-2
+Pass out, my little Romeo
+Tried hard to get out the kitchen sink (So one more time!)
+```
+
+
+```ad-quote
+title: **wetdream** 3:1:4-5
+Just got a taste of her poison
+It's just a bong hit and a broken heart (So one more time!)
+```
+
+```ad-quote
+title: **wetdream** 3:1:6-9
+Now I'm a fag with some teary eyes
+So smoke me out
+So smoke me out
+*Smoke me out of all this shit*
+```
+
 ### Part 4: “So Make it Work Tonight”
+
+```ad-quote
+title: **wetdream** 4:1:1-7
+
+Come inside
+Let me lay on your shoulder
+We'll watch some shitty sitcom
+
+I'll kiss her on the mouth
+Then I'll throw my arms around her
+You'd think it's pretty dumb
+If I said I really loved you all the time
+```
+
 
 ## Song XIII: revisited
 
