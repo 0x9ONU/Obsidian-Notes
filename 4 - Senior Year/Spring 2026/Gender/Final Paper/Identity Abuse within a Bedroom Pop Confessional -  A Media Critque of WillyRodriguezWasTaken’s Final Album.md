@@ -481,10 +481,80 @@ title: **wetdream** 4:R:4-6
 So make it work tonight (*x3*)
 ```
 
-
-
+```ad-quote
+title: **wetdream** 4:O:1-2
+In time, we'll be fine
+Tomorrow's another day
+```
 
 ## Song IX: lost in translation
+
+```ad-quote
+title: **lost in translation** 1:1:1-4
+Oh god
+What did you see?
+When we kicked in our sheets
+Full of sweat and some semen
+```
+
+
+```ad-quote
+title: **lost in translation** 1:1:5-8
+So teach me how ugly
+How vile and disgusting
+These bodies could be
+Intertwined with our pulses
+```
+
+
+```ad-quote
+title: **lost in translation** 1:1:10-11
+If you do love me so (These drugs)
+I've picked the flower pedals (In the streets of living)
+```
+
+
+```ad-quote
+title: **lost in translation** 1:1:12-13
+And now I'm givin' up (You will show)
+So don't you ever stop (How you love)
+```
+
+```ad-quote
+title: **lost in translation** 1:2:1-2
+Blood down my throat
+Prayin' some kind of angel will slit it tonight
+```
+
+```ad-quote
+title: **lost in translation** 1:2:3-4
+But it's always a fight just to provе that I might
+Is all that is needed to fuck up my life
+```
+
+```ad-quote
+title: **lost in translation** 1:2:5-8
+Won't you sin for me, baby?
+'Causе God's only watching
+He like what he sees
+If he knew what you're feelin'
+```
+
+```ad-quote
+title: **lost in translation** 1:2:9-12
+No hesitation
+I'll strip you to pieces
+And burn all our clothes
+'Til we fight, 'til we're screamin'
+```
+
+```ad-quote
+title: **lost in translation** 1:3:4, 
+No hesitation
+I'll strip you to pieces
+And burn all our clothes
+'Til we fight, 'til we're screamin'
+```
 
 ## Song XIII: revisited
 
