@@ -253,7 +253,7 @@ After listening to the song on loop, the song almost perfectly loops over itself
 
 ## Song V: snowing in las vegas
 
-Coming from the end of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song III dish rags|dish rags]], *snowing in las vegas* opens with a jarring act of symbolic violence. Their fifth song trades the frantic and often hyper internal debate with a  more slow and somber reflection that takes place outside in a snowstorm rather than in a bedroom. This change in scenery, from the suffocating itimacy of a bedroom to a cold and exposed frozen landscape, 
+Coming from the end of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song III dish rags|dish rags]], *snowing in las vegas* opens with a jarring act of symbolic violence. Their fifth song trades the frantic and often hyper internal debate with a  more slow and somber reflection that takes place outside in a snowstorm rather than in a bedroom. This change in scenery, from the suffocating itimacy of a bedroom to a cold and exposed frozen landscape, signals a detour the album takes. In its sparse instrumentation and deliberate pacing, the narrator begins to unfold a metaphor for reclaiming back their life. Murdering the perception that they have of their previous lover, it describes how their internal monologue takes retribution against the abuser who left them beaten. 
 
 
 ```ad-quote
