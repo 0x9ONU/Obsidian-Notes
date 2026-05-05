@@ -806,15 +806,27 @@ Touch it 'til it works
 
 
 ```ad-quote
-title: **revisited** 6:1:15-22
-Touch it 'til it burns
-Touch it 'til it burns
-Touch it 'til it hurts
-Touch it 'til it works
-Touch it 'til it works
-Touch it 'til it burns
-Touch it 'til it hurts
-Touch it 'til it works
+title: **revisited** 7:1:1-4
+Worn, so torn
+Begot those measly words
+In sought of something more
+Leak out the reddish blush
+```
+
+```ad-quote
+title: **revisited** 7:1:5-6
+Once I'm high, I'll entourage
+That little sting to fuck me up
+```
+
+```ad-quote
+title: **revisited** 7:1:7
+I love you more, abort your God
+```
+
+```ad-quote
+title: **revisited** 7:1:8
+The feeling's ill, the rape was wrong
 ```
 
 
