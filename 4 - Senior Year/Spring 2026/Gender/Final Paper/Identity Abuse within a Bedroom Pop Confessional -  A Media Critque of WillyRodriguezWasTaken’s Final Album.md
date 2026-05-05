@@ -626,7 +626,55 @@ Could have felt so nice
 Don't make me if you feel too sore tonight
 ```
 
+```ad-quote
+title: **revisited** 2:1:13-14
+'Cause it's just about the time
+For you to strain the floors in white
+```
+
+```ad-quote
+title: **revisited** 2:1:15-17
+I lie
+Vacantly, that slab of meat
+That bloody taste, so violently
+```
+
+
+```ad-quote
+title: **revisited** 2:1:19-20
+I'll shut my eyes and open wide
+I'll swallow whole your sour wine
+```
+
+```ad-quote
+title: **revisited** 2:1:21
+That sickle cell that says you're mine
+```
+
+```ad-quote
+title: **revisited** 2:1:23
+The choice is yours to live with it
+```
+
+
+
+```ad-quote
+title: **revisited** 2:1:24-25
+You'll find it down between your legs
+When I touch you there, you seem to flinch
+```
+
+```ad-quote
+title: **revisited** 2:1:26-27
+Castrated boy, you filtered kid
+You'll strip your clothes and live with it
+```
+
 ### Part 3: Denial
+
+```ad-quote
+title: **revisited** 
+```
 
 ### Part 4: Anger
 
