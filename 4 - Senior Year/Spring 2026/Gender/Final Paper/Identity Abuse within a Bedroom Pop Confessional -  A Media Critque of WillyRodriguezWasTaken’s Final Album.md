@@ -325,13 +325,11 @@ The cut on your mouth
 
 ### Part 7: Acceptance?
 
-## Overview
-
-  
-
 # Comparison
 
-- Is their work an accurate representation of the media?
+- Is their work an accurate representation of culture?
+- Does it fall into any tokenism or biases?
+- Does it match any statistics, or does it propagate them?
 
 # Future Work
 
