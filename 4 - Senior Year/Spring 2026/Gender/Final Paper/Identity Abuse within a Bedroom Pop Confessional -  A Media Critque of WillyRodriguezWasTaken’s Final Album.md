@@ -504,7 +504,8 @@ Just some aforementioned tragedy (I love you, I love you)
 ```
 
 - Scars not being genetic means they have to come from somewhere
-- 
+- The protag was not destined to be with this person, but instead it was a tragedy of events that led him to being hurt and scarred by this toxic relationship
+- They do not blame fate, but rather blames themselves for getting to this point
 
 ```ad-quote
 title: **wetdream** 4:PC:1-4
@@ -543,15 +544,25 @@ For seven years, I had to drink myself alive
 So I can work another boring 9 to 5
 ```
 
+- [insert job thing here]
+- Drinking problem that goes very far back
+- Bad work environment that makes it hard to be independent
+
 ```ad-quote
 title: **wetdream** 4:R:3
 My body's failing me one sickle cell at a time
 ```
 
+- First time this is brought up
+- Sickle cell explanation here
+- However, it is not to b
+
 ```ad-quote
 title: **wetdream** 4:R:4-6
 So make it work tonight (*x3*)
 ```
+
+- He 
 
 ```ad-quote
 title: **wetdream** 4:O:1-2
