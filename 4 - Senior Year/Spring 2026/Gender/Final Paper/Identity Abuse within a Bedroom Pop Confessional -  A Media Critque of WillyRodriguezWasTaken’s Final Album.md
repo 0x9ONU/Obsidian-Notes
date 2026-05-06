@@ -938,7 +938,12 @@ Oh God, did you really have to hurt me so bad?
 - The family member is hurt and distraught after learning about the truth of the matter
 - The narrator is upset that their abuser hurt them, as they could have been a good relationship otherwise. They still care for the abuser since they have been manipulated into loving them. 
 	- Restates the conclusion of the third part
+- The narrator wishes that he did not have to go through any of the pain he felt and feels like a burden on having to come out with his family member as well
 ### Part 5: Bargaining
+
+- Happens right after breaking off with the abuser
+- (Probably with the help of the family)
+- Goes over the direct aftermath and not being able to de
 
 ```ad-quote
 title: **revisited** 5:1:1-2
@@ -947,6 +952,7 @@ You're mangled to bits inside
 ```
 
 - The narrator, so broken over what happened to them, cannot put into words about how bad the abuse was
+- Both physically and mentally, they are mangled and broken. They cannot figure out how to get put back together after what happened
 
 ```ad-quote
 title: **revisited** 5:1:7-8
@@ -1038,6 +1044,8 @@ Begot those measly words
 In sought of something more
 Leak out the reddish blush
 ```
+
+- 
 
 ```ad-quote
 title: **revisited** 7:1:5-6
