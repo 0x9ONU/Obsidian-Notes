@@ -351,7 +351,8 @@ Waiting for change
 Waiting for you to come and love me (*x2*)
 ```
 
-- 
+- The other person is infactuated with the other person to the point that they have been neglecting themselves
+- Comes further from the previous lines in the first verse
 
 ```ad-quote
 title: **wetdream** 1:B:1-3
@@ -360,7 +361,8 @@ Pretending like
 Pretending like the silence is still alive
 ```
 
-- The voice changes from the narrator to the crush for the bridge
+- Still wants be delusional even though the crush does not share the feelings with the protagonist
+- They still think that they will be able to get together 
 
 ```ad-quote
 title: **wetdream** 1:B:5-8
