@@ -943,7 +943,7 @@ Oh God, did you really have to hurt me so bad?
 
 - Happens right after breaking off with the abuser
 - (Probably with the help of the family)
-- Goes over the direct aftermath and not being able to de
+- Goes over the direct aftermath and not being able to describe the pain to his family and potentially authorities
 
 ```ad-quote
 title: **revisited** 5:1:1-2
