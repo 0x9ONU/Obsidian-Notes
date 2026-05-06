@@ -1047,13 +1047,17 @@ Leak out the reddish blush
 
 - These final lines capture the narrator's attempt to speak his truth after a lifetime of silence. The words are small and inadequate (“measly”), but they are all he has. The truth leaks out involuntarily — blood and shame mixed together — and he is left “worn, so torn,” still searching for something more than survival. It is not an ending of triumph, but of fragile, unresolved honesty.
 - The bleeding from the wounds continue as many more are added (self-harm)
-- They are fi
+- They are finally able to find the words to explain the SA, but still are not good enough
 
 ```ad-quote
 title: **revisited** 7:1:5-6
 Once I'm high, I'll entourage
 That little sting to fuck me up
 ```
+
+- This line actually means a few things at once
+	- Self-harm
+	- Pain found remembering 
 
 ```ad-quote
 title: **revisited** 7:1:7
