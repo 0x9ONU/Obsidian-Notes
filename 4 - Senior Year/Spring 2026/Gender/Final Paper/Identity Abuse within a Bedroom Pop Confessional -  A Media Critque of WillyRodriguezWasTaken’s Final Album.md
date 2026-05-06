@@ -279,7 +279,9 @@ I ripped out his organs to play in the snow
 
 This line escalates the symbolic murder into grotesque desecration. Where the narrator had already been "dyed" by the act, they now linger over the corpse, dismantling it. The word "play" is deliberately childlike, evoking innocence while describing the visceral scene. The narrator cannot simply walk away; they must reduce the abuser to objects that can be controlled, handled, and discarded in the snow. Breaking down the relationship and their lover piece-by-piece, they are able to reflect on what he did using the clean canvas of the snow. Yet, the cold setting and the solitary nature of the act strip it of triumph. Even though the narrator is able to see what the relationship has done to them, they are still left with all the pieces scattered across the ground, bleeding their influence to the rest of the pure white snow below them.
 
-*snowing in las vegas* is a portrait of the psychological aftermath that follows long-term identity abuse. This song translates the internal monologue of a victim overcoming a terrible relationship into a visceral, lived experience. The narrator's symbolic murder of the abuser is an act of desperate judgement rather than that of triumph. By the end, the narrator is left "dyed" by the encounter, which permanently stains them with trauma. Rather than offering a sanitized narrative of healing that would comfort a dominant audience, the song presents the messy, incomplete, and self-destructive reality of surviving abuse without adequate support systems. The narrator's isolated play in the snow, dismantling a corpse that will not stop bleeding, becomes a haunting metaphor for the way trauma lingers long after the abuser is gone.
+*snowing in las vegas* is a portrait of the psychological aftermath that follows long-term identity abuse. This song translates the internal monologue of a victim overcoming a terrible relationship into a visceral, lived experience. The narrator's symbolic murder of the abuser is an act of desperate judgement rather than that of triumph. By the end, the narrator is left "dyed" by the encounter, which permanently stains them with trauma. Rather than offering a sanitized narrative of healing that would comfort a dominant audience, the song presents the messy, incomplete, and self-destructive reality of surviving abuse without adequate support systems. The narrator's isolated play in the snow, dismantling a corpse that will not stop bleeding, becomes a haunting metaphor for the way trauma lingers long after the abuser is gone. 
+
+As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. 
 ## Song VII: wetdream
 
 
@@ -300,7 +302,7 @@ I'm so tired; I couldn't shut my eyes
 
 
 ```ad-quote
-title: **wetdream** 1:1:3-6
+title: **wetdream** 1:1:5-8
 Rise and shine to vomit-stained carpets
 He might try to smoke you out a bit
 But I'll lie, sitting on my bedroom floor
