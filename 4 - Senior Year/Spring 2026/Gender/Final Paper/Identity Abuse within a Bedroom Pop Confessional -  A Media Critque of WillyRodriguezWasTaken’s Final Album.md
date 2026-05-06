@@ -903,7 +903,7 @@ The taste of his lips
 - Even if they would with another person (“somebody”), they still continue to fantasize what it would have been like if it was with their abuser instead
 ### Part 4: Anger
 
-- In this section, it starts out 
+- In this section, it starts out from the perspective of a family member, and then moves back 
 
 ```ad-quote
 title: **revisited** 4:1:1-3
