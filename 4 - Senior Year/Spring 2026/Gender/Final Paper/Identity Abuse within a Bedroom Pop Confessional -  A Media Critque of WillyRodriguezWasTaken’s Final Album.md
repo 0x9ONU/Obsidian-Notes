@@ -393,7 +393,8 @@ Furry porn has destroyed my mind
 I fell in love for the millionth time
 ```
 
-- 
+- This is the first hint to how the new protag has a severe porn addicition
+- Falling in love for the millionth time references how much they have seen, which completely warped their perception of love
 
 ```ad-quote
 title: **wetdream** 3:B:3-4
