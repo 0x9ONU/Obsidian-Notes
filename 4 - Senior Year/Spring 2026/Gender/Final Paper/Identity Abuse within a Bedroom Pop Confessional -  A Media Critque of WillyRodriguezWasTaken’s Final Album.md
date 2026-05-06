@@ -281,9 +281,9 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 
 *snowing in las vegas* is a portrait of the psychological aftermath that follows long-term identity abuse. This song translates the internal monologue of a victim overcoming a terrible relationship into a visceral, lived experience. The narrator's symbolic murder of the abuser is an act of desperate judgement rather than that of triumph. By the end, the narrator is left "dyed" by the encounter, which permanently stains them with trauma. Rather than offering a sanitized narrative of healing that would comfort a dominant audience, the song presents the messy, incomplete, and self-destructive reality of surviving abuse without adequate support systems. The narrator's isolated play in the snow, dismantling a corpse that will not stop bleeding, becomes a haunting metaphor for the way trauma lingers long after the abuser is gone. 
 
-As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. This narrator, over these four songs, the narrator longs for their love to continue, 
+## Intermission I: \*falling asleep on the phone\*
 
-The following songs, even though they also focus on relationship drama, there are key differences that should be considered. 
+Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that should be considered. 
 ## Song VII: wetdream
 
 
