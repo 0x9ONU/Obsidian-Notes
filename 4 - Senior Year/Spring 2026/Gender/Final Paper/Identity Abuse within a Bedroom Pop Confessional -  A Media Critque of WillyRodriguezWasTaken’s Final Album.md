@@ -1067,7 +1067,7 @@ The feeling's ill, the rape was wrong
 ```
 
 - It is the first time that the narrator is finally calling out the deed by its name as something that he did not have control over
-- He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt 
+- He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt by his abuser to get him to the point of distruction
 
 ```ad-quote
 title: **revisited** 7:1:9-11
@@ -1085,7 +1085,9 @@ title: **revisited** 7:1:9-12
 The drug I feel I wouldn't want
 ```
 
-- When compared to the rest of the drugs that 
+- When compared to the rest of the drugs that he has done up to this point (cigarettes, weed, and even opoids) there is a drug that they continuously feel as well
+- As stated earlier the narrator kept equating his love to drugs throughout
+- The drug he feels right now is the withdrawal of what he thought was love
 # Comparison
 
 - Is their work an accurate representation of culture?
