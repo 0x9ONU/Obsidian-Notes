@@ -846,7 +846,7 @@ You'll live with it (*x4*)
 	- Statistics here regarding sexual abuse
 	- Recognize that transmen are even more transparent than other demographics due to heteronormativity
 - Filtered kid refers to HRT/hormone blockers
-- 
+- You’ll live with it repeating 
 
 ### Part 3: Denial
 
