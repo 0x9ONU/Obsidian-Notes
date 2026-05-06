@@ -1057,17 +1057,23 @@ That little sting to fuck me up
 
 - This line actually means a few things at once
 	- Self-harm
-	- Pain found remembering 
+	- Pain found remembering what happened when they get touched by someone else
+	- A needle for continued opioid abuse
 
 ```ad-quote
 title: **revisited** 7:1:7
 I love you more, abort your God
 ```
 
+- 
+
 ```ad-quote
 title: **revisited** 7:1:8
 The feeling's ill, the rape was wrong
 ```
+
+- It is the first time that the narrator is finally calling out the deed by its name as something that he did not have control over
+- He begins to realize that 
 
 ```ad-quote
 title: **revisited** 7:1:9-11
@@ -1076,12 +1082,16 @@ That feeling stings, it goes away
 But not for long, it's staying shut
 ```
 
+- He starts to recognize the power dynamic that he had with his abuser
+- The guilt begins to come back in waves rather than permanent
+- Even if the narrator is doing better, he still continues to struggle with the pain he feels throughout the rest of your life.
+
 ```ad-quote
 title: **revisited** 7:1:9-12
 The drug I feel I wouldn't want
 ```
 
-
+- When compared to the rest of the drugs that 
 # Comparison
 
 - Is their work an accurate representation of culture?
