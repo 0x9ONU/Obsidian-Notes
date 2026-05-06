@@ -475,6 +475,7 @@ title: **wetdream** 4:2:1-2
 But these drugs make it fine
 ```
 
+- Coming back to the earlier line how they were staying up all night thinking
 - Using drugs to cover up feelings
 
 ```ad-quote
@@ -483,7 +484,7 @@ Tryna hide what's inside
 But it's eating me alive
 ```
 
-- 
+- Trying to suppress the feelings 
 
 ```ad-quote
 title: **wetdream** 4:B:1-2
@@ -519,13 +520,18 @@ title: **wetdream** 4:C:1-2
 Just to repeat another "I love you" in spite
 ```
 
-- 
+- Using drugs to hide the trama he has built up with their abuser just so they can keep lying to themselves that they actually love them
+- The only way they can forget about the awful things they did to them
 
 ```ad-quote
 title: **wetdream** 4:C:3-4
 I dig my nails into my hands and squeeze them tight
 Just to remind myself I meant it once or twice
 ```
+
+- There was a point in their relationship that  was healthy or at least neutral
+- However, he is reminiscing on this time as a way to keep pushing through the toxic and abusive parts of the relationship
+- Blinded by stockholm syndrome and love-bombing
 
 ```ad-quote
 title: **wetdream** 4:R:1-2
