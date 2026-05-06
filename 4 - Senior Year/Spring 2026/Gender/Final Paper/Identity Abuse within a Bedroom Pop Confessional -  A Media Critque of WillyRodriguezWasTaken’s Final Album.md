@@ -475,7 +475,7 @@ title: **wetdream** 4:2:1-2
 But these drugs make it fine
 ```
 
-- Coming back to the earlier line how they were staying up all night thinking
+- Coming back to the earlier line how they were staying up all night thinking about their abuser
 - Using drugs to cover up feelings
 
 ```ad-quote
