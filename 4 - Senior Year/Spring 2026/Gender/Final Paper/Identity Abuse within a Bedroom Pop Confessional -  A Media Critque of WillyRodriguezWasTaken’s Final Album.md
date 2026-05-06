@@ -637,7 +637,8 @@ But it's always a fight just to provе that I might
 Is all that is needed to fuck up my life
 ```
 
-- 
+- hese lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuser (or the social system) holds the power to destroy it with a single word. The “fight” is not for love, but for survival — and he’s losing.
+- A mere accusation of him trying to pull away from the relationship from his abuser will make him spiral further into depression.
 
 ```ad-quote
 title: **lost in translation** 1:2:5-8
@@ -647,7 +648,8 @@ He like what he sees
 If he knew what you're feelin'
 ```
 
-- 
+- Trying to convince
+- Important later for the final song (abort your God)
 
 ```ad-quote
 title: **lost in translation** 1:2:9-12
@@ -668,20 +670,27 @@ It's gotta go (I love you)
 I feel so ugly (I love you)
 ```
 
+- Along with the line “This dumb temptation” and the I love yous, this could be in reference to how many victims of sexual abuse feel like their body is worthless or ugly without that abuse.
+- He feels so ugly being without his abuser, as the I love you’s continue to trickle in through the rest of the verse
+
 ```ad-quote
-title: **lost in translation** 1:3:4, 10-12
+title: **lost in translation** 1:3: 10-12
 I never felt the warmth of something so intense
 I wanna bury my head in the blankets we have
 Try to hide all the shame underneath all this fuss
 ```
 
+- 
+
 ```ad-quote
-title: **lost in translation** 1:3:4, 23-26
+title: **lost in translation** 1:3:23-26
 'Cause I'm in a state of feeling called "euphoria"
 Caused by chemicals in the limbic system
 Similar to the use of drugs
 Or any prerequisite that matches lust
 ```
+
+- 
 
 ```ad-quote
 title: **lost in translation** 1:4:7-8
