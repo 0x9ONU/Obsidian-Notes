@@ -283,7 +283,7 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 
 ## Intermission I: \*falling asleep on the phone\*
 
-Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that should be considered. 
+Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that specifically split the album into two stories. This contrast will be highlighted throughout the rest of this analysis, starting with the titular, and most popular, song of the album.
 ## Song VII: wetdream
 
 
@@ -301,7 +301,8 @@ Tried all night to get you out my mind
 I'm so tired; I couldn't shut my eyes
 ```
 
-
+- Sets the scene of the song (bedroom again shocker)
+- Stayed up all night thinking about their lover
 
 ```ad-quote
 title: **wetdream** 1:1:5-8
@@ -311,7 +312,9 @@ But I'll lie, sitting on my bedroom floor
 Thinking 'bout how long it took to wake him up
 ```
 
-
+- Rise and shine is a contrast to the disgusting living conditions they are in
+- Smoke you out a bit (like bees and that type of such) as the lover might often try to get the narrator out of the bedroom (bc of depression or something idk)
+- The narrator decides to not listen and will continue to lay on the floor until further notice
 
 ```ad-quote
 title: **wetdream** 1:C:1-2
