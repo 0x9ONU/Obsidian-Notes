@@ -723,7 +723,8 @@ I can't live without you (To live without you)
 - He is so dependent on her that he can no longer with without them
 ## Song XIII: revisited
 
-- This is the part of the album where the narrator tears all the 
+- This is the part of the album where the narrator tears all the curtains back and reveals to the audience on what they have experienced
+- The climax and uncomfy resolution of the albu
 
 ### Part 1: Introduction
 
