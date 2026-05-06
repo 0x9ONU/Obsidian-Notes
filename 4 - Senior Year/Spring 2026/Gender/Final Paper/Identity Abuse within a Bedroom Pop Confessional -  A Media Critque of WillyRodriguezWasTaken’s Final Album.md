@@ -812,14 +812,17 @@ That sickle cell that says you're mine
 ```
 
 - Going back to wetdream
-- Going back to the debate whether or not 
+- Going back to the debate whether or not some things are nature and are hereditary vs. nurture and happened because of the choices he made
+	- Was he destined to lean on drugs, was that his choice, or was it a tragedy?
+	- Was he destined to get hurt, was that his choice, or was it a tragedy?
 
 ```ad-quote
 title: **revisited** 2:1:23
 The choice is yours to live with it
 ```
 
-- 
+- One of the strongest hitting lines when combined with the ending of the second part
+- Even though the abuser decided to do this, the narrator retaliates saying that they will have to live with the guilt that 
 
 ```ad-quote
 title: **revisited** 2:1:24-25
