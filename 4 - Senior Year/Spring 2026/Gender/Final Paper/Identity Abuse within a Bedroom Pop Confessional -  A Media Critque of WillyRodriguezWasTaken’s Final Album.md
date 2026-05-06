@@ -1087,7 +1087,10 @@ The drug I feel I wouldn't want
 
 - When compared to the rest of the drugs that he has done up to this point (cigarettes, weed, and even opoids) there is a drug that they continuously feel as well
 - As stated earlier the narrator kept equating his love to drugs throughout
+	- lost in translation (1:1:10-11)
+	- lost in translation (1:3:23-26)
 - The drug he feels right now is the withdrawal of what he thought was love
+- The stings can also relate to the withdrawals
 # Comparison
 
 - Is their work an accurate representation of culture?
