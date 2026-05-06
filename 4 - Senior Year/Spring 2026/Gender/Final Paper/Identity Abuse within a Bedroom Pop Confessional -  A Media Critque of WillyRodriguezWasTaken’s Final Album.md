@@ -322,7 +322,8 @@ Let's head on back to sleep again
 I'm tired of waking up as friends
 ```
 
-
+- Realizes that the feelings are one-sided OR that they are just friends-with-benefits
+- The narrator, on the other hand, wants it to be more than just that
 
 ```ad-quote
 title: **wetdream** 1:C:3-4
@@ -330,7 +331,8 @@ I just can't kill the thought of you
 Being with someone else I knew
 ```
 
-
+- Commitment issues
+- Afraid of letting his friend love someone else
 
 ```ad-quote
 title: **wetdream** 1:C:9-16
@@ -338,7 +340,9 @@ Say that you love me
 Even if you're lying (Fuck you) (*x4*)
 ```
 
-
+- Trying to bargain with their crush
+- They want it to be something, but would be okay if they did not reciprocate and just played along
+- Would rather be under an illusion than not be with them
 
 ```ad-quote
 title: **wetdream** 1:2:1-6
@@ -347,7 +351,7 @@ Waiting for change
 Waiting for you to come and love me (*x2*)
 ```
 
-
+- 
 
 ```ad-quote
 title: **wetdream** 1:B:1-3
@@ -356,7 +360,7 @@ Pretending like
 Pretending like the silence is still alive
 ```
 
-
+- The voice changes from the narrator to the crush for the bridge
 
 ```ad-quote
 title: **wetdream** 1:B:5-8
@@ -366,7 +370,7 @@ I've been kicking you for hours
 I guess you've gotten used to it
 ```
 
-
+- 
 
 ```ad-quote
 title: **wetdream** 1:B:9-10
@@ -374,7 +378,7 @@ But I hope it never leaves
 That mark was made for me
 ```
 
-
+- 
 
 ### Part 3: “Smoke Me Out”
 
