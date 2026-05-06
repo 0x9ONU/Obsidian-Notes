@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5cbd748248b5b9c0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "2af5a17c9b3256d8",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

@@ -876,16 +876,15 @@ Who's to say I know myself
 When I've forgotten how to live
 ```
 
-```ad-quote
-title: **revisited** 3:1:10
-With his love, with your ID
-```
+- They were so reliant
 
 ```ad-quote
 title: **revisited** 3:1:11-12
 Leave the vice on the couch
 So you can shoot it in our veins
 ```
+
+
 
 ```ad-quote
 title: **revisited** 3:B:1-4
