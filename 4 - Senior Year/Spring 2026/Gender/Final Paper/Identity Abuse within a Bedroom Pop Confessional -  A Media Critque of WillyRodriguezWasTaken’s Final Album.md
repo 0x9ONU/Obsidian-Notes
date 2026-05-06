@@ -405,7 +405,6 @@ I got lost in between her legs
 - The narrator is afraid of the other person forgetting who they are because they were too busy giving them head
 - Goes back into the theme of not wanting to be forgotten
 - It also goes into how the protag could not treat the other person as a human, but rather an outlet for lust as he could not stop staring at “the prize”
-- 
 
 ```ad-quote
 title: **wetdream** 3:1:1-2
@@ -413,7 +412,10 @@ Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
 ```
 
-- 
+- Reference to Romeo & Juliet
+	- Age gap, first reference on what happens later in the album
+	- Romeo is the abuser
+- Doing everything to make them love them, but in a way likes when the protag does that to try and lead him on (furthering abuse)
 
 ```ad-quote
 title: **wetdream** 3:1:4-5
