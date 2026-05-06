@@ -620,7 +620,7 @@ And now I'm givin' up (You will show)
 So don't you ever stop (How you love)
 ```
 
-- 
+- Here, the narrator wants to give up, however, at the slight talking of his abuser in the back of his mind, he immediately gives back into begging for the cycle to continue
 
 ```ad-quote
 title: **lost in translation** 1:2:1-2
@@ -628,7 +628,7 @@ Blood down my throat
 Prayin' some kind of angel will slit it tonight
 ```
 
-- 
+- The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure — a stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
 
 ```ad-quote
 title: **lost in translation** 1:2:3-4

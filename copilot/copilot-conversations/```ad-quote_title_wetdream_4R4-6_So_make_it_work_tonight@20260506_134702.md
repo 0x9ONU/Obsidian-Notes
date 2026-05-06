@@ -116,3 +116,68 @@ This ties directly into themes that run through the album:
 
 So to answer your question directly: **Yes, he is ashamed — but not of his appearance. He's ashamed of having been *seen* in the act of sex itself, of being witnessed in a state that feels ugly, desperate, and dirty.** The opening lines set up the song's central tension: the conflict between the physical desire for intimacy and the psychological disgust that follows.
 [Timestamp: 2026/05/06 13:54:37]
+
+**user**: 
+```ad-quote
+title: **lost in translation** 1:1:12-13
+And now I'm givin' up (You will show)
+So don't you ever stop (How you love)
+```
+
+[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
+[Timestamp: 2026/05/06 14:04:52]
+
+**ai**: The lines **“And now I'm givin' up (You will show) / So don't you ever stop (How you love)”** capture a moment of **resignation mixed with desperate clinging** — a hallmark of the toxic cycle the narrator is trapped in.
+
+Let’s break it down:
+
+1. **“And now I'm givin' up”** — This is the narrator’s admission of defeat. After cataloging the shame, the bodily disgust, and the emotional chaos of the relationship, he finally concedes that he can’t fight it anymore. He’s exhausted. This echoes the same fatigue from *dish rags* (“Now I don't know what to do”) and *wetdream* (“So make it work tonight”). The cycle has worn him down to the point of surrender.
+
+2. **“(You will show)”** — This parenthetical replies to his own giving up. It could be:
+   - The **internal rationalization**: *“I'm giving up… but you will show me that you still care, right?”*
+   - Or the **abuser’s voice** projected: *“You will show how you love me.”*  
+   Either way, it’s a desperate hope that the lover will *prove* their love through action, even though the narrator knows that “love” in this context means abuse, manipulation, or empty gestures.
+
+3. **“So don't you ever stop”** — The narrator begs the cycle to continue. He cannot bear the thought of being alone, forgotten, or unloved — even if the “love” he receives is destructive. This directly mirrors *stop calling* (“I need you more than you could know”) and *wetdream* (“Say that you love me / Even if you're lying”). He would rather have the illusion of love than nothing at all.
+
+4. **“(How you love)”** — This parenthesis qualifies *how* the lover loves: through possessiveness, through identity abuse, through physical coercion. Yet the narrator still clings to it because it’s the only form of love he knows. The phrasing is almost clinical — “how you love” — as if he’s trying to understand and accept the pattern even as it destroys him.
+
+### Connection to the album’s themes
+
+This is **identity abuse** in action. The narrator has been conditioned to believe that the abuser’s version of love — controlling, demanding, and violent — is all he deserves. He “gives up” the fight for a healthier relationship and instead begs the abuser to never stop the cycle. The parentheticals show the internal split: one part of him knows he’s giving up, but another part still hopes for validation through the abuser’s twisted expression of love.
+
+Following the drug metaphor in *lost in translation* (line 1:1:10-11: “If you do love me so (These drugs)”), the narrator has now fully substituted love with addiction. Giving up means surrendering to the addiction, and begging the abuser “don't you ever stop” is like a junkie begging for another fix — even though the drug is poison.
+[Timestamp: 2026/05/06 14:05:07]
+
+**user**: 
+```ad-quote
+title: **lost in translation** 1:2:1-2
+Blood down my throat
+Prayin' some kind of angel will slit it tonight
+```
+
+okay next verse
+[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
+[Timestamp: 2026/05/06 14:07:40]
+
+**ai**: These lines **“Blood down my throat / Prayin' some kind of angel will slit it tonight”** mark a sharp escalation into **suicidal ideation** — the narrator’s desire for a violent, final escape from the shame and abuse he’s been documenting.
+
+Let’s break it down:
+
+1. **“Blood down my throat”** — This is deliberately ambiguous. It could be:
+   - A reference to **forced oral sex** (blood from violence during the act), continuing the sexual shame from the opening lines.
+   - A **self-harm image** — he’s already bleeding internally, and the blood is filling his throat, choking him.
+   - A **religious echo** — “blood of Christ” imagery, turned grotesque. Instead of salvation, the blood is a suffocating presence.
+
+2. **“Prayin' some kind of angel will slit it tonight”** — This is a **death wish expressed through religious language**. Key points:
+   - “Angel” is ironic — angels are supposed to protect, not kill. The narrator is so desperate that he prays for a **fatal “mercy kill”** from a celestial being. But given the album’s context, the “angel” could also be a twisted reference to the **abuser**, whom the narrator has idealized as a savior figure (see *dish rags*: “In your arms” as a sanctuary that turned violent).
+   - “Slit it” — cut his throat, ending the pain. It’s a graphic, violent suicide fantasy, not a passive wish to die in sleep. He wants **action**, a physical end.
+
+### How this fits the album’s trajectory:
+
+- In *wetdream*, the narrator used drugs to “smoke out” the pain. Now in *lost in translation*, the drugs aren’t enough — he’s moved to **wanting total annihilation**.
+- This echoes the statistical reality from your Literature Review: LGBTQ+ youth facing identity abuse have **higher rates of suicidal ideation** (47% in Project SPARK 2025). The narrator’s prayer for death is not just personal despair — it’s a symptom of systemic failure: no safe home, no affirming partner, no way out.
+- The line also prefigures *revisited* Part 2: **“Rape me / Your suicide can't take me”** — where the narrator weaponizes suicidal language against the abuser. Here, he’s still praying *for* death; by *revisited*, he’ll be accusing the abuser of stealing even that escape.
+
+**In short:** The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure — a stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
+[Timestamp: 2026/05/06 14:08:00]
