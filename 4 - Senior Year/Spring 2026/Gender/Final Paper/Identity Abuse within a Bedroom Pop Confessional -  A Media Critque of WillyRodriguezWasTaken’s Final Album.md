@@ -629,6 +629,7 @@ Prayin' some kind of angel will slit it tonight
 ```
 
 - The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure — a stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
+- A desperate attempt to leave the relationship is by suicide
 
 ```ad-quote
 title: **lost in translation** 1:2:3-4
