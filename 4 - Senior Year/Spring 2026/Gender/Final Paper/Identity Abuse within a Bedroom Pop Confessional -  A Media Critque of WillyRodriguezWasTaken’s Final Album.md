@@ -287,7 +287,6 @@ Even though I will not cover the intermission directly, it does have an importan
 ## Song VII: wetdream
 
 
-
 - Realize that this might be another story from the other half the album (a different narrator and lover)
 	- Mainly the big change is the amount of drug use that has came up
 	- Different dynamic  
@@ -300,6 +299,8 @@ title: **wetdream** 1:1:1-2
 Tried all night to get you out my mind  
 I'm so tired; I couldn't shut my eyes
 ```
+
+The beginning of the second half of the album establishes the new character, which will be called the protagonist, and 
 
 - Sets the scene of the song (bedroom again shocker)
 - Stayed up all night thinking about their lover
