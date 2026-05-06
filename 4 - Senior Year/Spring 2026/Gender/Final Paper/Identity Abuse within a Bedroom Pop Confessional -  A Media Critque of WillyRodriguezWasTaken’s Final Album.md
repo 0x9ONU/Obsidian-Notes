@@ -878,6 +878,8 @@ When I've forgotten how to live
 
 - He was so reliant on their abuser to provide their identity that they lost their identity himself
 - He needs someone to give him meaning after being manipulated for so long 
+- It is also a way for the abuser to control their life, as they started to lose their friends
+- If anything, even if the narrator does not know this, it is a clear deliberate attempt by the abuser to get him to this point 
 
 ```ad-quote
 title: **revisited** 3:1:11-12
@@ -897,7 +899,7 @@ Just once again
 The taste of his lips
 ```
 
-- 
+- Even after all of this, as seen many times throughout the album, the victim keeps getting pulled into the potential of being with 
 ### Part 4: Anger
 
 ```ad-quote
