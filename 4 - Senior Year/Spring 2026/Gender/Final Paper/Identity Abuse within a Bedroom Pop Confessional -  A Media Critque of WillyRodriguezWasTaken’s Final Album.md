@@ -766,7 +766,8 @@ Your suicidе can't take me
 ```
 
 - The first reveal that the abuser went all the way 
-- 
+- A challenge against the abuser and a way to reclaim agency
+- Will not let the suicide of the abuser to let them hurt them anymore
 
 ```ad-quote
 title: **revisited** 2:1:11-12
@@ -783,6 +784,9 @@ title: **revisited** 2:1:13-14
 For you to strain the floors in white
 ```
 
+- Realizing that it is around the time the abuser will begin to start making moves on the victim
+- He begins to recognize the cycle of abuse and does not want it to happen
+
 ```ad-quote
 title: **revisited** 2:1:15-17
 I lie
@@ -790,6 +794,9 @@ Vacantly, that slab of meat
 That bloody taste, so violently
 ```
 
+- The offender doesn’t see the person they’ve assaulted as human, referring to them as “meat.” 
+- It’s common for people who rape or murder to see others as lesser beings.
+- The narrator begins to realize that they were being used 
 
 ```ad-quote
 title: **revisited** 2:1:19-20
