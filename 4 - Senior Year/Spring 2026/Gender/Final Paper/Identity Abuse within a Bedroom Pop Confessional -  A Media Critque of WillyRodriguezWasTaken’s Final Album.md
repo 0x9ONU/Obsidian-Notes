@@ -925,14 +925,19 @@ My baby, you'll always be mine
 ```
 
 - links back to the song “wetdream” where the singer repeats “So make it work tonight” 3 times over at the end of the song.
-- Yet again, the narrator is trying to find a world where 
+- Yet again, the narrator is grasping at straws trying to find out how to make their relationship after everything that has happened
+- Yet again, the push and pull dynamic pulls the narrator back to the abuser, as they start to feel the pressure of someone on the outside helping again
+- Mentioned in an earlier part regarding how they push all their friends and loved ones away to get closer to their abuser
 
 ```ad-quote
 title: **revisited** 4:1:10
 Oh God, did you really have to hurt me so bad?
 ```
 
-
+- Double meaning
+- The family member is hurt and distraught after learning about the truth of the matter
+- The narrator is upset that their abuser hurt them, as they could have been a good relationship otherwise. They still care for the abuser since they have been manipulated into loving them. 
+	- Restates the conclusion of the third part
 ### Part 5: Bargaining
 
 ```ad-quote
@@ -940,6 +945,8 @@ title: **revisited** 5:1:1-2
 Waste of breath encoded in braille
 You're mangled to bits inside
 ```
+
+- The narrator, so broken
 
 ```ad-quote
 title: **revisited** 5:1:7-8
