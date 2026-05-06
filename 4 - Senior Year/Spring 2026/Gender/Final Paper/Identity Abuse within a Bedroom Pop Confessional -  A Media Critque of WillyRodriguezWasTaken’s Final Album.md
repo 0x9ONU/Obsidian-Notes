@@ -903,7 +903,7 @@ The taste of his lips
 - Even if they would with another person (“somebody”), they still continue to fantasize what it would have been like if it was with their abuser instead
 ### Part 4: Anger
 
-- 
+- A brief 
 
 ```ad-quote
 title: **revisited** 4:1:1-3
@@ -912,7 +912,10 @@ I skimmed the lines and saw your legs about to give in
 Could have helped you, the voice that calls you his friend, oh
 ```
 
-- The narrator describes the time where 
+- The narrator introduces a family/friend character here that found the diary pages that revealed the SA that they were going through
+- Ripped out because they did not want the constant reminders of the past
+- This is close to reality as confessions often happen through paper and not verbally
+- The family member feels guilty about not knowing sooner or being able to help out sooner
 
 ```ad-quote
 title: **revisited** 4:1:7-9
@@ -920,6 +923,9 @@ If you could see me tonight
 We'd make it work this time
 My baby, you'll always be mine
 ```
+
+- links back to the song “wetdream” where the singer repeats “So make it work tonight” 3 times over at the end of the song.
+- Yet again, the narrator is trying to find a world where 
 
 ```ad-quote
 title: **revisited** 4:1:10
