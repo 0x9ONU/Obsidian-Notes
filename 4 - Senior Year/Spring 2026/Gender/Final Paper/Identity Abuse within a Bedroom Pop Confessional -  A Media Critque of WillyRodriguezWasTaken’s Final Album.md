@@ -900,7 +900,7 @@ The taste of his lips
 ```
 
 - Even after all of this, as seen many times throughout the album, the victim keeps getting pulled back
-- Even with them being with another person, they still continue 
+- Even with them being with another person (“somebody”), they still continue  
 ### Part 4: Anger
 
 ```ad-quote
