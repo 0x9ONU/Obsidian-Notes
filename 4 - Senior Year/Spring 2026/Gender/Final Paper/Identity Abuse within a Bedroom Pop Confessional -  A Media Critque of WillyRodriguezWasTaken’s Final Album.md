@@ -1036,6 +1036,7 @@ Touch it 'til it works
 - A sad, but growing process
 ### Part 7: Acceptance?
 
+- Even later after their last sexual encounter after leaving their abuser 
 
 ```ad-quote
 title: **revisited** 7:1:1-4
@@ -1061,19 +1062,12 @@ That little sting to fuck me up
 	- A needle for continued opioid abuse
 
 ```ad-quote
-title: **revisited** 7:1:7
-I love you more, abort your God
-```
-
-- 
-
-```ad-quote
 title: **revisited** 7:1:8
 The feeling's ill, the rape was wrong
 ```
 
 - It is the first time that the narrator is finally calling out the deed by its name as something that he did not have control over
-- He begins to realize that 
+- He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt 
 
 ```ad-quote
 title: **revisited** 7:1:9-11
