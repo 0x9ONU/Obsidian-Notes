@@ -846,7 +846,7 @@ You'll live with it (*x4*)
 	- Statistics here regarding sexual abuse
 	- Recognize that transmen are even more transparent than other demographics due to heteronormativity
 - Filtered kid refers to HRT/hormone blockers
-- You’ll live with it repeating 
+- You’ll live with it repeating reinforces the statement from earlier
 
 ### Part 3: Denial
 
@@ -857,12 +857,18 @@ Took many of my friends
 And traded 'em for drugs
 ```
 
+- “The singer turned to drugs as a way to escape their emotional pain, eventually falling into addiction. This struggle caused many of their friends to drift away, leaving behind the impression that they had traded meaningful relationships for their reliance on substances.”
+- Addictions do not help your social life, which further leads the protag into depression and self-loathing
+
 ```ad-quote
 title: **revisited** 3:1:4-6
 I know I'm lost
 But it's been better just to sin
 'Cause it's to start up once again
 ```
+
+- No more friends also makes it a lot harder to pivot away from their abusive lover
+- It is much easier to stay in the pit rather than trying to pull himself out of it.
 
 ```ad-quote
 title: **revisited** 3:1:8-9
