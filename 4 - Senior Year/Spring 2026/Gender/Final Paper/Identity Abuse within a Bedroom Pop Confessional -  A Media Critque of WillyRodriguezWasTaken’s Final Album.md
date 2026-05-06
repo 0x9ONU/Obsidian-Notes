@@ -822,7 +822,8 @@ The choice is yours to live with it
 ```
 
 - One of the strongest hitting lines when combined with the ending of the second part
-- Even though the abuser decided to do this, the narrator retaliates saying that they will have to live with the guilt that 
+- Even though the abuser decided to do this, the narrator retaliates saying that they will have to live with the guilt for what they did one day
+- It is a desperate attempt to hope that they will get karamed back
 
 ```ad-quote
 title: **revisited** 2:1:24-25
@@ -830,7 +831,8 @@ You'll find it down between your legs
 When I touch you there, you seem to flinch
 ```
 
-- 
+- The abuser touching them on their legs reminds them of what has happened before or after
+- The flinch is a physical response of that
 
 ```ad-quote
 title: **revisited** 2:1:26-31
@@ -840,6 +842,10 @@ You'll strip your clothes and live with it
 You'll live with it (*x4*)
 ```
 
+- Specifically calls out that the narrator is a trans man for the first time in teh whole album
+	- Statistics here regarding sexual abuse
+	- Recognize that transmen are even more transparent than other demographics due to heteronormativity
+- Filtered kid refers to HRT/hormone blockers
 - 
 
 ### Part 3: Denial
