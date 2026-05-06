@@ -730,7 +730,10 @@ title: **revisited** 1:1:1
 *Here we go. I like you, Neil. I like you so much. When I really, really like someone... there's a way l show them how I feel. Shhh...*
 ```
 
-- A direct audio sample from 
+- A direct audio sample from the movie Mysterious Skin (2004). 
+- The lines are said by a Little League coach, played by Bill Sage, as he’s about to sexually abuse the character Neil McCormick, played in this scene by Chase Ellison.
+- It deals directly with pedophilia and sexual assault. It is a difficult watch, intended to be provocative and deeply emotional rather than exploitative.
+- As the film progresses, their paths converge as Brian seeks the truth about his past and Neil is forced to confront the reality of the abuse he normalized.
 ### Part 2: Admission
 
 ```ad-quote
@@ -739,6 +742,8 @@ I've made up my mind
 I've let it go
 Too many times
 ```
+
+- The narrator keeps trying t
 
 ```ad-quote
 title: **revisited** 2:1:5-8
