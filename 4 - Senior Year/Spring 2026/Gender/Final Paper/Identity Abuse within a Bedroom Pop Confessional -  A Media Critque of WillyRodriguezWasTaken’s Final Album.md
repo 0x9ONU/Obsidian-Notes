@@ -968,7 +968,9 @@ It's not your fault you lived this life (*x2*)
 - Making the best of the shitty situation is one of the few silver linings in the whole song
 ### Part 6: Depression
 
-- The climax of the album and the final cry for help
+- The climax of the album
+- A set amount of time after the abuse and moving on
+- Realizing that all he does reminds him of his abuser, and that he cannot move on even after finding  new romantic interests.
 
 ```ad-quote
 title: **revisited** 6:1:1
@@ -996,6 +998,8 @@ To relive it all
 ```
 
 - Build up to the climax of the album
+- Surface tension referring to what is left of the healing scars
+- The relief is the tension that has been built up with years of tramua
 
 ```ad-quote
 title: **revisited** 6:1:6-9
@@ -1005,18 +1009,9 @@ Oh my god, it never felt so wrong (*x4*)
 - Climax of the album
 - Scariest screams tbh
 - Instrumentation almost fully drops away
-- Even as they try to move onto new intimate partners, the 
-
-
-```ad-quote
-title: **revisited** 6:1:11-14
-Rip some holes
-Stretch away the dirt
-Wash that fold
-Then you'll know it worked
-```
-
-- 
+- Even as they try to move onto new intimate partners, they cannot get past their past relationship
+- No matter what he does, everything reminds them of the pain they endured
+- He is  so distraught because he, as stated throughout the song, wants to move on, but he cannot as it has left such an impression on him.
 
 ```ad-quote
 title: **revisited** 6:1:15-22
@@ -1030,7 +1025,9 @@ Touch it 'til it hurts
 Touch it 'til it works
 ```
 
-- 
+- The trauma of that feeling, since the previous lyric talks about ripping holes, and a lot of people who experience SA have a sex repulsion because every time they or someone else touches there it brings back memories. So the burning is the memories reopening and sometimes with trauma like that, you feel the pain again too, and the hurts is that pain and the works is trying to get over it.
+- It is the slow process of getting over what has happened to finally feel safe with another person again
+- A sad, but growing process
 ### Part 7: Acceptance?
 
 
