@@ -775,7 +775,7 @@ Don't make me if you feel too sore tonight
 ```
 
 - It could have felt so nice if it was done with consent and with proper love instead of hate
-- Now instead, the narrator pleas to no
+- Now instead, the narrator pleas to not have any sexual encounters tonight and hopes that the abuser is finally too sore/tired to do anything
 
 ```ad-quote
 title: **revisited** 2:1:13-14
