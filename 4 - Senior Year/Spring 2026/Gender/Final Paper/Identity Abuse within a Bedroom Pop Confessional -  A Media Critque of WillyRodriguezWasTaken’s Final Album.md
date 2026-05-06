@@ -695,7 +695,7 @@ And I waste away on summer nights
 Expecting you to say you're fine
 ```
 
-- 
+- The protag is constantly worried
 
 ```ad-quote
 title: **lost in translation** 1:4:9-10
@@ -704,13 +704,14 @@ Of I don't knows and so do I's
 ```
 
 - Realizes that the abuser, even after all of this, barely cares to even give proper replies to their victim
-- Keeps on leading them on 
 
 ```ad-quote
 title: **lost in translation** 1:4:11-12
 You know I love you
 So why don't you love me too?
 ```
+
+- At this point, he realizes that the abuser, regardless of how much effort he puts in, will always keep on leading him on
 
 ```ad-quote
 title: **lost in translation** 1:O:4-5
