@@ -412,6 +412,7 @@ Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
 ```
 
+- From the abuser’s POV
 - Reference to Romeo & Juliet
 	- Age gap, first reference on what happens later in the album
 	- Romeo is the abuser
@@ -423,6 +424,10 @@ Just got a taste of her poison
 It's just a bong hit and a broken heart (So one more time!)
 ```
 
+- Continue reference to how Romeo drinks poison to commit suicide
+- Getting a taste of her poison has led the protag to begin to poison him
+- A “death” in a way of neglecting themselves due to drug abuse and a broken heart from what was left of the toxic relationship
+
 ```ad-quote
 title: **wetdream** 3:1:6-9
 Now I'm a fag with some teary eyes
@@ -431,6 +436,10 @@ So smoke me out
 *Smoke me out of all this shit*
 ```
 
+- Double entendre to the slur and a cigarette
+	- The narrator feels this way about himself because he is crying over a girl
+	- This goes with the next line of smoking out
+- Alludes to the narrator’s drug abuse with both weed and cigarettes and how he uses them to “smoke out” the bad memories he had with his abuser to help him forget
 ### Part 4: “So Make it Work Tonight”
 
 ```ad-quote
