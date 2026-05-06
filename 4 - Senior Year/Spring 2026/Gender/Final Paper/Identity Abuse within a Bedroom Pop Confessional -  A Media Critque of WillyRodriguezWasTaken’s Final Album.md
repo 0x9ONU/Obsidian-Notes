@@ -566,7 +566,8 @@ So make it work tonight (*x3*)
 
 - A moment of desperate surrender
 - Even though he wants to pull away, his body does not let him, as he resigns back into the toxic cycle.
-- He wants one more nigh where the relationship feel functional, even if he has to use the durgs and alcohol to get there.
+- He wants one more nigh where the relationship feel functional, even if he has to use the drugs and alcohol to get there.
+- 
 
 ```ad-quote
 title: **wetdream** 4:O:1-2
@@ -574,7 +575,10 @@ In time, we'll be fine
 Tomorrow's another day
 ```
 
-- 
+- A final line that sends off the song on a hollow, self-soothing mantra
+- The nail in the coffin where the narrator convinces himself to stay with the hope of it getting better by tomorrow.
+- A mask of positivity that covers all the exhaustion, denial, and the tragedy of loving someone who hurts you.
+-  I will endure today, and tomorrow I’ll have to endure again.
 ## Song IX: lost in translation
 
 ```ad-quote
@@ -585,6 +589,7 @@ When we kicked in our sheets
 Full of sweat and some semen
 ```
 
+- 
 
 ```ad-quote
 title: **lost in translation** 1:1:5-8
@@ -594,6 +599,7 @@ These bodies could be
 Intertwined with our pulses
 ```
 
+- Goes into how even though humans have sex to feel good, it can be considered very disgusting when looked from the outside
 
 ```ad-quote
 title: **lost in translation** 1:1:10-11
@@ -601,12 +607,15 @@ If you do love me so (These drugs)
 I've picked the flower pedals (In the streets of living)
 ```
 
+- “loves me, loves me not”
 
 ```ad-quote
 title: **lost in translation** 1:1:12-13
 And now I'm givin' up (You will show)
 So don't you ever stop (How you love)
 ```
+
+
 
 ```ad-quote
 title: **lost in translation** 1:2:1-2
