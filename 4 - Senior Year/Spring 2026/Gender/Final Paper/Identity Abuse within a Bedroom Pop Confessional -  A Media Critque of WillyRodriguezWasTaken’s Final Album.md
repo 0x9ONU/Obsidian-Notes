@@ -484,7 +484,7 @@ Tryna hide what's inside
 But it's eating me alive
 ```
 
-- Trying to suppress the feelings 
+- Trying to suppress the feelings, but it is actively destroying their mental health
 
 ```ad-quote
 title: **wetdream** 4:B:1-2
@@ -492,7 +492,10 @@ You'd want to see me gag (I love you, I love you)
 Dip my fingers to my tonsils and spill out bile (I love you, I love you)
 ```
 
-- 
+- Immediately goes into intimate thoughts where the protag is getting “dommed” by their abuser
+-  It is very graphic and gives a glimpse of what abuse he is getting
+- Started out normal with gagging (which can be a kink for some), but it always ends up going so far that he pukes
+- Could also be a reference to anorexia (stretch tho)
 
 ```ad-quote
 title: **wetdream** 4:B:3-4
@@ -500,6 +503,7 @@ They said scars weren't genetic (I love you, I love you)
 Just some aforementioned tragedy (I love you, I love you)
 ```
 
+- Scars not being genetic means they have to come from somewhere
 - 
 
 ```ad-quote
