@@ -796,7 +796,7 @@ That bloody taste, so violently
 
 - The offender doesn’t see the person they’ve assaulted as human, referring to them as “meat.” 
 - It’s common for people who rape or murder to see others as lesser beings.
-- The narrator begins to realize that they were being used 
+- The narrator begins to realize that they were being used more as an object rather than a person and how violently they were abused
 
 ```ad-quote
 title: **revisited** 2:1:19-20
@@ -804,17 +804,22 @@ I'll shut my eyes and open wide
 I'll swallow whole your sour wine
 ```
 
+- Recounting the events
+
 ```ad-quote
 title: **revisited** 2:1:21
 That sickle cell that says you're mine
 ```
+
+- Going back to wetdream
+- Going back to the debate whether or not 
 
 ```ad-quote
 title: **revisited** 2:1:23
 The choice is yours to live with it
 ```
 
-
+- 
 
 ```ad-quote
 title: **revisited** 2:1:24-25
@@ -822,11 +827,17 @@ You'll find it down between your legs
 When I touch you there, you seem to flinch
 ```
 
+- 
+
 ```ad-quote
-title: **revisited** 2:1:26-27
+title: **revisited** 2:1:26-31
 Castrated boy, you filtered kid
 You'll strip your clothes and live with it
+
+You'll live with it (*x4*)
 ```
+
+- 
 
 ### Part 3: Denial
 
