@@ -440,6 +440,7 @@ So smoke me out
 	- The narrator feels this way about himself because he is crying over a girl
 	- This goes with the next line of smoking out
 - Alludes to the narrator’s drug abuse with both weed and cigarettes and how he uses them to “smoke out” the bad memories he had with his abuser to help him forget
+- Better to be always not sober than facing their feelings
 ### Part 4: “So Make it Work Tonight”
 
 ```ad-quote
@@ -453,6 +454,11 @@ I'll kiss her on the mouth
 Then I'll throw my arms around her
 ```
 
+- Reminiscing on the more simple parts of romance
+- Instead of being forced into more sexual encounters, the narrator really just wants the more simple stuff
+- The narrator wants it to be how it used to be
+
+
 ```ad-quote
 title: **wetdream** 4:1:6-10
 You'd think it's pretty dumb
@@ -460,11 +466,16 @@ If I said I really loved you all the time
 It's all the time (*x3*)
 ```
 
+- And regardless of what the abuser has done to the narrator, they still continue to love her
+- The triple all the time brings out that they 
+
 ```ad-quote
 title: **wetdream** 4:2:1-2
 'Cause I've been lovesick all night  
 But these drugs make it fine
 ```
+
+- Using drugs to cover up feelings
 
 ```ad-quote
 title: **wetdream** 4:2:3-4
@@ -472,17 +483,23 @@ Tryna hide what's inside
 But it's eating me alive
 ```
 
+- 
+
 ```ad-quote
 title: **wetdream** 4:B:1-2
 You'd want to see me gag (I love you, I love you)
 Dip my fingers to my tonsils and spill out bile (I love you, I love you)
 ```
 
+- 
+
 ```ad-quote
 title: **wetdream** 4:B:3-4
 They said scars weren't genetic (I love you, I love you)
 Just some aforementioned tragedy (I love you, I love you)
 ```
+
+- 
 
 ```ad-quote
 title: **wetdream** 4:PC:1-4
@@ -492,11 +509,17 @@ So if you want some piece of heaven
 You can find it at the corner store
 ```
 
+- Gave too much love and never got enough back
+- Corner store is often where cigs and alcohol are sold
+- Heaven is being equated to drugs
+
 ```ad-quote
 title: **wetdream** 4:C:1-2
 'Cause I've been drinkin' all damn night  
 Just to repeat another "I love you" in spite
 ```
+
+- 
 
 ```ad-quote
 title: **wetdream** 4:C:3-4
