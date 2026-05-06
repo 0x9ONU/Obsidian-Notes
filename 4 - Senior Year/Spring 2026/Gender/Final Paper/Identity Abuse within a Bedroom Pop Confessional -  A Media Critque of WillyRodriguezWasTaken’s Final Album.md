@@ -679,15 +679,6 @@ I feel so ugly (I love you)
 - He feels so ugly being without his abuser, as the I love you’s continue to trickle in through the rest of the verse
 
 ```ad-quote
-title: **lost in translation** 1:3: 10-12
-I never felt the warmth of something so intense
-I wanna bury my head in the blankets we have
-Try to hide all the shame underneath all this fuss
-```
-
-- 
-
-```ad-quote
 title: **lost in translation** 1:3:23-26
 'Cause I'm in a state of feeling called "euphoria"
 Caused by chemicals in the limbic system
@@ -695,7 +686,8 @@ Similar to the use of drugs
 Or any prerequisite that matches lust
 ```
 
-- 
+- Second comparison to the feeling of love/lust and how drugs make the protag feel
+- In a more scientific way this time tho
 
 ```ad-quote
 title: **lost in translation** 1:4:7-8
@@ -703,11 +695,16 @@ And I waste away on summer nights
 Expecting you to say you're fine
 ```
 
+- 
+
 ```ad-quote
 title: **lost in translation** 1:4:9-10
 But all I get is brief replies
 Of I don't knows and so do I's
 ```
+
+- Realizes that the abuser, even after all of this, barely cares to even give proper replies to their victim
+- Keeps on leading them on 
 
 ```ad-quote
 title: **lost in translation** 1:4:11-12
@@ -715,6 +712,14 @@ You know I love you
 So why don't you love me too?
 ```
 
+```ad-quote
+title: **lost in translation** 1:O:4-5
+Used to love me (I'm trying)
+I can't live without you (To live without you)
+```
+
+- Even after all this time, the narrator keeps on trying to convince himself that their abuser still actually loves them
+- He is so dependent on her that he can no longer with without them
 ## Song XIII: revisited
 
 ### Part 1: Introduction
