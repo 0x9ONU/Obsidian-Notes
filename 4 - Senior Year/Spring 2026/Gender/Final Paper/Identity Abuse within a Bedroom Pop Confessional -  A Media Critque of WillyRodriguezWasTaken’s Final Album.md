@@ -362,7 +362,7 @@ Pretending like the silence is still alive
 ```
 
 - Still wants be delusional even though the crush does not share the feelings with the protagonist
-- They still think that they will be able to get together 
+- They still think that they will be able to get together regardless of the feelings being reciprocated or not
 
 ```ad-quote
 title: **wetdream** 1:B:5-8
@@ -372,7 +372,8 @@ I've been kicking you for hours
 I guess you've gotten used to it
 ```
 
-- 
+- The protagonist gets significantly beat both physically and emotionally by their toxic crush
+- It happens so often that the protag just kind understands it to be the normal
 
 ```ad-quote
 title: **wetdream** 1:B:9-10
@@ -380,7 +381,9 @@ But I hope it never leaves
 That mark was made for me
 ```
 
-- 
+- Regardless of this, the scars that were given to them acts as a physical reminder as the healing/fading of the scar reminds them of their crush
+- Alludes to the artist needing to move on
+- However, it also further adds to the desperation the protag has to keep their memories alive with this person
 
 ### Part 3: “Smoke Me Out”
 
@@ -390,11 +393,15 @@ Furry porn has destroyed my mind
 I fell in love for the millionth time
 ```
 
+- 
+
 ```ad-quote
 title: **wetdream** 3:B:3-4
 Oh god, did you see my face?
 I got lost in between her legs
 ```
+
+- 
 
 ```ad-quote
 title: **wetdream** 3:1:1-2
