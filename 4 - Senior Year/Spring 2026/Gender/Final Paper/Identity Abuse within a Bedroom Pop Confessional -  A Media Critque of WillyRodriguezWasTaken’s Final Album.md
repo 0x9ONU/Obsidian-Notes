@@ -946,7 +946,7 @@ Waste of breath encoded in braille
 You're mangled to bits inside
 ```
 
-- The narrator, so broken
+- The narrator, so broken over what happened to them, cannot put into words about how bad the abuse was
 
 ```ad-quote
 title: **revisited** 5:1:7-8
@@ -954,23 +954,37 @@ Along those lines of pearly white
 I stare so long, forgot to cry
 ```
 
+- Referring to the scars that they got from their abuser
+- Pearly white means that they are starting to heal
+- Staring so long at them, absolutely distraught at how much they hurt
+
 ```ad-quote
 title: **revisited** 5:1:9-10
 It's not your fault you lived this life (*x2*)
 ```
+
+- One of my favorite lyrics off of the album
+- Regardless of the cards that were dealt, a person has to live through with them and deal with it. 
+- Making the best of the shitty situation is one of the few silver linings in the whole song
 ### Part 6: Depression
+
+- The climax of the album and the final cry for help
 
 ```ad-quote
 title: **revisited** 6:1:1
 Know you're semi-solid gold
 ```
 
+- Semi solid gold means jewelry that has a partially hollow interior. Here it could be a metaphor for how trauma can make someone feel like they lost a part of themselves leaving them feeling “partially hollow”.
 
 ```ad-quote
 title: **revisited** 6:1:2-3
 The way she used to touch you
 Made you feel so old
 ```
+
+- Referring to pedophillia
+- First time that it is established that 
 
 ```ad-quote
 title: **revisited** 6:1:4-5
