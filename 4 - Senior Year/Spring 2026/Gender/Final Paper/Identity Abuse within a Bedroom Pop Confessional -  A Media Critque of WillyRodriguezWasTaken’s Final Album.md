@@ -402,6 +402,9 @@ Oh god, did you see my face?
 I got lost in between her legs
 ```
 
+- The narrator is afraid of the other person forgetting who they are because they were too busy giving them head
+- Goes back into the theme of not wanting to be forgotten
+- It also goes into how the protag could not treat the other person as a human, but rather an outlet for lust as he could not stop staring at “the prize”
 - 
 
 ```ad-quote
@@ -410,6 +413,7 @@ Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
 ```
 
+- 
 
 ```ad-quote
 title: **wetdream** 3:1:4-5
