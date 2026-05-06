@@ -900,8 +900,10 @@ The taste of his lips
 ```
 
 - Even after all of this, as seen many times throughout the album, the victim keeps getting pulled back
-- Even if they would with another person (“somebody”), they still continue to fantasize with 
+- Even if they would with another person (“somebody”), they still continue to fantasize what it would have been like if it was with their abuser instead
 ### Part 4: Anger
+
+- In this section, it starts out 
 
 ```ad-quote
 title: **revisited** 4:1:1-3
@@ -909,6 +911,8 @@ Read the words of all the pages you ripped out, oh
 I skimmed the lines and saw your legs about to give in
 Could have helped you, the voice that calls you his friend, oh
 ```
+
+- 
 
 ```ad-quote
 title: **revisited** 4:1:7-9
