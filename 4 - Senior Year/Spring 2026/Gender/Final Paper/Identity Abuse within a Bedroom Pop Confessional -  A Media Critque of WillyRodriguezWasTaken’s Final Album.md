@@ -724,7 +724,7 @@ I can't live without you (To live without you)
 ## Song XIII: revisited
 
 - This is the part of the album where the narrator tears all the curtains back and reveals to the audience on what they have experienced
-- The climax and uncomfy resolution of the albu
+- The climax and uncomfy resolution of the album
 
 ### Part 1: Introduction
 
@@ -755,6 +755,8 @@ title: **revisited** 2:1:5-8
 And the drugs you take are never enough (Oh, I)
 And the drugs you make are never enough (Oh, I) (*x2*)
 ```
+
+- Starting the realize that regardless of how many drugs they take to forget 
 
 ```ad-quote
 title: **revisited** 2:1:9-10
