@@ -975,7 +975,9 @@ title: **revisited** 6:1:1
 Know you're semi-solid gold
 ```
 
-- Semi solid gold means jewelry that has a partially hollow interior. Here it could be a metaphor for how trauma can make someone feel like they lost a part of themselves leaving them feeling “partially hollow”.
+- Semi solid gold means jewelry that has a partially hollow interior. Here it could be a metaphor for how trauma can make someone feel like they lost a part of themselves leaving them feeling “partially hollow”
+- The abuser, as stated earlier, removed the meaning from his life and removed everything he had to the point he does not know who he is anymore.
+- Gold, being a desirable look, prob relates to how he looks okay on the outside, but he has nothing left on the inside.
 
 ```ad-quote
 title: **revisited** 6:1:2-3
@@ -983,8 +985,9 @@ The way she used to touch you
 Made you feel so old
 ```
 
-- Referring to pedophillia
-- First time that it is established that 
+- Referring to pedophilia
+- First time that it is established that there is a significant age gap and that this is actually statutory rape
+- NOTE: I did not realize that this was the case until looking closer into the album
 
 ```ad-quote
 title: **revisited** 6:1:4-5
@@ -992,6 +995,7 @@ Run your thumb across its surface tension
 To relive it all
 ```
 
+- Build up to the climax of the album
 
 ```ad-quote
 title: **revisited** 6:1:6-9
@@ -1001,6 +1005,7 @@ Oh my god, it never felt so wrong (*x4*)
 - Climax of the album
 - Scariest screams tbh
 - Instrumentation almost fully drops away
+- Even as they try to move onto new intimate partners, the 
 
 
 ```ad-quote
@@ -1011,6 +1016,7 @@ Wash that fold
 Then you'll know it worked
 ```
 
+- 
 
 ```ad-quote
 title: **revisited** 6:1:15-22
@@ -1024,6 +1030,7 @@ Touch it 'til it hurts
 Touch it 'til it works
 ```
 
+- 
 ### Part 7: Acceptance?
 
 
