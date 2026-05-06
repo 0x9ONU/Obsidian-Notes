@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -229,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,7 +261,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "45542af4def13431",
+  "active": "2af5a17c9b3256d8",
   "lastOpenFiles": [
     "copilot/copilot-conversations/```ad-quote_title_wetdream_4R4-6_So_make_it_work_tonight@20260506_134702.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 18/18 - Diffusion.md",

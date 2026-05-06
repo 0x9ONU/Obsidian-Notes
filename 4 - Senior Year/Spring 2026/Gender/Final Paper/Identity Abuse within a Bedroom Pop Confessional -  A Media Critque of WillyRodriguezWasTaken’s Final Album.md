@@ -723,6 +723,8 @@ I can't live without you (To live without you)
 - He is so dependent on her that he can no longer with without them
 ## Song XIII: revisited
 
+- This is the part of the album where the narrator tears all the 
+
 ### Part 1: Introduction
 
 ```ad-quote
@@ -743,7 +745,9 @@ I've let it go
 Too many times
 ```
 
-- The narrator keeps trying t
+- The narrator keeps trying to let go of the feelings he has over and over again
+- However, they keep coming back into his mind and ends up making him suffer over it.
+- Creates a vicious cycle that this album is known for
 
 ```ad-quote
 title: **revisited** 2:1:5-8
