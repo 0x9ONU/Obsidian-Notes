@@ -756,7 +756,8 @@ And the drugs you take are never enough (Oh, I)
 And the drugs you make are never enough (Oh, I) (*x2*)
 ```
 
-- Starting the realize that regardless of how many drugs they take to forget 
+- Starting the realize that regardless of how many drugs they take to forget their trauma and abuse, it keeps coming back to them
+- It is a lost cause to hide it, as he is about to reveal the truth
 
 ```ad-quote
 title: **revisited** 2:1:9-10
@@ -764,11 +765,17 @@ Rape me
 Your suicidе can't take me
 ```
 
+- The first reveal that the abuser went all the way 
+- 
+
 ```ad-quote
 title: **revisited** 2:1:11-12
 Could have felt so nice
 Don't make me if you feel too sore tonight
 ```
+
+- It could have felt so nice if it was done with consent and with proper love instead of hate
+- Now instead, the narrator pleas to no
 
 ```ad-quote
 title: **revisited** 2:1:13-14
