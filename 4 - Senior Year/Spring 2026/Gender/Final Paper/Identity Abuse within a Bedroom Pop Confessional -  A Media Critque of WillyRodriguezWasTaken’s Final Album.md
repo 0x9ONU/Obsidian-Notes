@@ -555,14 +555,18 @@ My body's failing me one sickle cell at a time
 
 - First time this is brought up
 - Sickle cell explanation here
-- However, it is not to b
+- However, it is not to be taken literally
+- Even though his strife was not predetermined, his coping mechanisms and reactions are hereditary (prob from bad parents)
+- He wants to turn back and leave as he knows that it is not right, but his body is failing him to turn back around as there is something deep inside that keeps him from acting
 
 ```ad-quote
 title: **wetdream** 4:R:4-6
 So make it work tonight (*x3*)
 ```
 
-- He 
+- A moment of desperate surrender
+- Even though he wants to pull away, his body does not let him, as he resigns back into the toxic cycle.
+- He wants one more nigh where the relationship feel functional, even if he has to use the durgs and alcohol to get there.
 
 ```ad-quote
 title: **wetdream** 4:O:1-2
@@ -570,6 +574,7 @@ In time, we'll be fine
 Tomorrow's another day
 ```
 
+- 
 ## Song IX: lost in translation
 
 ```ad-quote
