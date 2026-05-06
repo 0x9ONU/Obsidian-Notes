@@ -648,8 +648,11 @@ He like what he sees
 If he knew what you're feelin'
 ```
 
-- Trying to convince
+- Turns over to the abuser talking
+- Trying to convince the narrator that what they are doing is normal by using religion as a leverage
 - Important later for the final song (abort your God)
+- the abuser weaponizes not just the narrator's identity (sexual/gender) but also his spiritual beliefs, making the abuse feel cosmically sanctioned.
+- Intersectional vulnerability
 
 ```ad-quote
 title: **lost in translation** 1:2:9-12
@@ -659,7 +662,9 @@ And burn all our clothes
 'Til we fight, 'til we're screamin'
 ```
 
-- 
+- These lines capture the moment where the relationship has become purely destructive — the abuser has given up on love and instead embraces violence as the only remaining form of intimacy. The fight and the screaming become the relationship itself.
+- The phrase "burn all our clothes" is particularly important: clothes represent identity, performance, and social presentation. In the context of LGBTQ+ identity abuse, clothes can be a marker of gender expression. Burning them could symbolize the abuser's attempt to erase the narrator's identity entirely, or the narrator's own desire to be stripped of everything that ties him to this abusive relationship
+- The abuser does not care about what the narrator has deep down, they only see them as a sexual and abuse output
 
 ```ad-quote
 title: **lost in translation** 1:3:4, 6-8
