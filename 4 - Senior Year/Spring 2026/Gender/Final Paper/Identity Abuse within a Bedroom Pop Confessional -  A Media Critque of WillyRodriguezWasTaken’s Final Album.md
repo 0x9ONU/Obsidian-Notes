@@ -876,7 +876,8 @@ Who's to say I know myself
 When I've forgotten how to live
 ```
 
-- They were so reliant
+- He was so reliant on their abuser to provide their identity that they lost their identity himself
+- He needs someone to give him meaning after being manipulated for so long 
 
 ```ad-quote
 title: **revisited** 3:1:11-12
@@ -884,7 +885,9 @@ Leave the vice on the couch
 So you can shoot it in our veins
 ```
 
-
+- First time a harder drug was mentioned on the album
+- Assuming the time this came out, this is most likely some sort of opioid 
+- [opiod crisis here]
 
 ```ad-quote
 title: **revisited** 3:B:1-4
@@ -893,6 +896,8 @@ Hold somebody close
 Just once again
 The taste of his lips
 ```
+
+- 
 ### Part 4: Anger
 
 ```ad-quote
