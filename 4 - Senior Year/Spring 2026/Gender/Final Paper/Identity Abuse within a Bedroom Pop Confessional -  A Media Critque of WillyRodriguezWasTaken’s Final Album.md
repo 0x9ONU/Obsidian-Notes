@@ -695,7 +695,7 @@ And I waste away on summer nights
 Expecting you to say you're fine
 ```
 
-- The protag is constantly worried
+- The protag is constantly worried about his abuser not reciprocating feelings and keeps on wasting away his life waiting to hear back from them
 
 ```ad-quote
 title: **lost in translation** 1:4:9-10
@@ -730,6 +730,7 @@ title: **revisited** 1:1:1
 *Here we go. I like you, Neil. I like you so much. When I really, really like someone... there's a way l show them how I feel. Shhh...*
 ```
 
+- A direct audio sample from 
 ### Part 2: Admission
 
 ```ad-quote
