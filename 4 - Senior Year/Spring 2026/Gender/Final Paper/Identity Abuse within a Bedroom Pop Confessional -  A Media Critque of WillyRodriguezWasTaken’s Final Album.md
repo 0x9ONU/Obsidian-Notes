@@ -492,17 +492,15 @@ I dig my nails into my hands and squeeze them tight
 Just to remind myself I meant it once or twice
 ```
 
-Here, he admits that there was once a point in their relationship where it was healthy
-
-- There was a point in their relationship that  was healthy or at least neutral
-- However, he is reminiscing on this time as a way to keep pushing through the toxic and abusive parts of the relationship
-- Blinded by stockholm syndrome and love-bombing
+Here, he admits that there was once a point in their relationship where it was healthy and that he genuinely enjoyed being with this person. However, it is clear that he is reminiscing on this time as a coping mechanism to push himself through the abuse he endures. The saddest part about this is that it is very likely that he is also a victim of love-bombing. The abuser overwhelmed him with a ton of affection during the early stages of a relationship, which he continues to yearn for.
 
 ```ad-quote
 title: **wetdream** 4:R:1-2
 For seven years, I had to drink myself alive
 So I can work another boring 9 to 5
 ```
+
+For the first time in the album, the protagonist solidifies two things: the length of his drug addictio
 
 - [insert job thing here]
 - Drinking problem that goes very far back
