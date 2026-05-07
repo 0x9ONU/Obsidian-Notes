@@ -366,10 +366,7 @@ I've been kicking you for hours
 I guess you've gotten used to it
 ```
 
-This is the exact moment where the narrator finally lets part of his mask slip, pulling back the curtain on the true nature of his relationship dynamic. It is revealed, much like the first main character, that the protagonist is also physically abused by the person he longs for. The last line of the segment even implies that the protagonist sees this as a normal action that happens between the two of them. This twist re-contextualizes the rest of the song up to this point: the protagonist is longing for a love that is best left forgotten. 
-
-- The protagonist gets significantly beat both physically and emotionally by their toxic crush
-- It happens so often that the protag just kind understands it to be the normal
+This is the exact moment where the narrator finally lets part of his mask slip, pulling back the curtain on the true nature of his relationship dynamic. It is revealed, much like the first main character, that the protagonist is also physically abused by the person he longs for. The last line of the segment even implies that the protagonist sees this as a normal action that happens between the two of them. This twist re-contextualizes the rest of the song up to this point: the protagonist is longing for a love that is best left forgotten. The romantic haze of the track evaporates, leaving the listener to realize that what sounded like passion was just the beginning of an emotional spiral.
 
 ```ad-quote
 title: **wetdream** 1:B:9-10
@@ -377,7 +374,7 @@ But I hope it never leaves
 That mark was made for me
 ```
 
-
+In a turn of irony, healing itself becomes its own kind of heartbreak as the protagonist realizes that a fading scar is just another way of losing the person who gave it to him. The desperation to keep the memories that he has with this person becomes evident as he holds onto every remaining piece of his love. The lover has effectively weaponized the narrator’s devotion, gaslighting him into believing these marks are signatures of affection rather than symptoms of abuse. This emotional manipulation, even as seen by the audience, is yet to be seen by the protagonist as he continues to 
 
 - Regardless of this, the scars that were given to them acts as a physical reminder as the healing/fading of the scar reminds them of their lover
 - However, it also further adds to the desperation the protag has to keep their memories alive with this person
