@@ -314,7 +314,7 @@ But I'll lie, sitting on my bedroom floor
 Thinking 'bout how long it took to wake him up
 ```
 
-Often when waking up, the phrase “rise and shine” is used to signal waking up in a positive way to a great day. However,  this phrase is then immediately contradicted by gross carpets that remind the narrator of what he did last night. This contrast sets a tone of bitter irony: there is nothing bright about this morning. Then, the first time the other character is mentioned in the 6th line. Here, the protagonist, much like how a beekeeper smokes out bees, is afraid that she is attempting to force the narrator out of the bedroom.  Yet he resists. He chooses to remain on the floor, paralyzed by exhaustion, waiting for his friend to awaken so he can continue his day. This opening verse establishes the narrator's passive refusal to engage with the world outside his bedroom, even as the squalor around him signals a troublesome life.
+Often when waking up, the phrase “rise and shine” is used to signal waking up in a positive way to a great day. However,  this phrase is then immediately contradicted by gross carpets that remind the protagonist of what he did last night. This contrast sets a tone of bitter irony: there is nothing bright about this morning. Then, the first time the other character is mentioned in the 6th line. Here, the protagonist, much like how a beekeeper smokes out bees, is afraid that she is attempting to force the protagonist out of the bedroom.  Yet he resists. He chooses to remain on the floor, paralyzed by exhaustion, waiting for his friend to awaken so he can continue his day. This opening verse establishes the protagonist's passive refusal to engage with the world outside his bedroom, even as the squalor around him signals a troublesome life.
 
 ```ad-quote
 title: **wetdream** 1:C:1-2
@@ -322,7 +322,7 @@ Let's head on back to sleep again
 I'm tired of waking up as friends
 ```
 
-The beginning of the chorus serves as the song's emotional thesis and the narrator's first explicit admission of his romantic predicament. The desire to "head on back to sleep" is a wish to return to the safety of unconsciousness, where he does not have to confront the painful reality of his life. However, “sleep" is also a common euphemism for sex, and the narrator is caught in a cycle of physical intimacy that lacks the emotional commitment he craves. He is tired of the morning after, when the illusion of closeness fades and he is reminded that their connection is defined by sex, not love. The narrator desperately wants to be more than just a casual hookup, but he feels powerless to change the terms of their relationship. This tension, between wanting real love and settling for whatever scraps of attention he can get, is a core theme throughout the entire album.
+The beginning of the chorus serves as the song's emotional thesis and the protagonist's first explicit admission of his romantic predicament. The desire to "head on back to sleep" is a wish to return to the safety of unconsciousness, where he does not have to confront the painful reality of his life. However, “sleep" is also a common euphemism for sex, and the protagonist is caught in a cycle of physical intimacy that lacks the emotional commitment he craves. He is tired of the morning after, when the illusion of closeness fades and he is reminded that their connection is defined by sex, not love. The protagonist desperately wants to be more than just a casual hookup, but he feels powerless to change the terms of their relationship. This tension, between wanting real love and settling for whatever scraps of attention he can get, is a core theme throughout the entire album.
 
 ```ad-quote
 title: **wetdream** 1:C:3-4
@@ -330,7 +330,7 @@ I just can't kill the thought of you
 Being with someone else I knew
 ```
 
-These lines reveal the narrator's painful awareness that his connection with the lover is fragile and undefined. The first phrase exposes his obsessive fear of abandonment and replacement. Even though they are not in a committed relationship, the narrator still craves emotional exclusivity. He wants to be move on from just just a sexual outlet and aspires to be valued as a partner instead. The inability to "kill the thought" suggests that this anxiety is constant, intrusive, and unshakable. It speaks to a deeper insecurity rooted in past trauma, which he will elaborate throughout the rest of this album. He is terrified of being deemed not good enough, of being replaced by someone who can offer what he cannot. 
+These lines reveal the protagonist's painful awareness that his connection with the lover is fragile and undefined. The first phrase exposes his obsessive fear of abandonment and replacement. Even though they are not in a committed relationship, the protagonist still craves emotional exclusivity. He wants to be move on from just just a sexual outlet and aspires to be valued as a partner instead. The inability to "kill the thought" suggests that this anxiety is constant, intrusive, and unshakable. It speaks to a deeper insecurity rooted in past trauma, which he will elaborate throughout the rest of this album. He is terrified of being deemed not good enough, of being replaced by someone who can offer what he cannot. 
 
 ```ad-quote
 title: **wetdream** 1:C:9-16
@@ -338,7 +338,7 @@ Say that you love me
 Even if you're lying (Fuck you) (*x4*)
 ```
 
-In a desperate attempt to feel love, the protagonist comes up with a compromise with his love. He would be okay if the love continued to be one-sided as long as his crush pretended to love him back. Even though it would be devastating if he found out, he would rather be lied into an illusion and not receive reciprocation rather than leaving. The parenthetical “Fuck you” punctuating each plea is the narrator’s own internal voice of self‑loathing and a flash of awareness that he is debasing himself. Even as he begs for the illusion of love, a part of him knows how pathetic this bargain is. This internal conflict reveals that the narrator is not delusional; he knows the truth, but he chooses the lie because the alternative as being alone and unloved is unbearable to him. 
+In a desperate attempt to feel love, the protagonist comes up with a compromise with his love. He would be okay if the love continued to be one-sided as long as his crush pretended to love him back. Even though it would be devastating if he found out, he would rather be lied into an illusion and not receive reciprocation rather than leaving. The parenthetical “Fuck you” punctuating each plea is the protagonist’s own internal voice of self‑loathing and a flash of awareness that he is debasing himself. Even as he begs for the illusion of love, a part of him knows how pathetic this bargain is. This internal conflict reveals that the protagonist is not delusional; he knows the truth, but he chooses the lie because the alternative as being alone and unloved is unbearable to him. 
 
 ```ad-quote
 title: **wetdream** 1:2:1-6
@@ -356,7 +356,7 @@ Pretending like
 Pretending like the silence is still alive
 ```
 
-Even after no response, he continues to be hopeful and daydreams about how it was before his lover stopped giving interest in him. He wants to continue to be disillusioned to his own perfect version of his relationship, even with the clear problems the relationship had. The lover's refusal to reciprocate, the lack of response, the absence of emotional connection are all signs that the relationship is dead. But instead of accepting this, the narrator pretends that the silence itself is alive. He doesn't pretend the lover is speaking; he pretends the absence of speech still has life, still holds meaning, still offers a future, and provides a way to continue. He gains comfort in this lie, which will hurt him once the illusion starts to fall apart.
+Even after no response, he continues to be hopeful and daydreams about how it was before his lover stopped giving interest in him. He wants to continue to be disillusioned to his own perfect version of his relationship, even with the clear problems the relationship had. The lover's refusal to reciprocate, the lack of response, the absence of emotional connection are all signs that the relationship is dead. But instead of accepting this, the protagonist pretends that the silence itself is alive. He doesn't pretend the lover is speaking; he pretends the absence of speech still has life, still holds meaning, still offers a future, and provides a way to continue. He gains comfort in this lie, which will hurt him once the illusion starts to fall apart.
 
 ```ad-quote
 title: **wetdream** 1:B:5-8
@@ -366,7 +366,7 @@ I've been kicking you for hours
 I guess you've gotten used to it
 ```
 
-This is the exact moment where the narrator finally lets part of his mask slip, pulling back the curtain on the true nature of his relationship dynamic. It is revealed, much like the first main character, that the protagonist is also physically abused by the person he longs for. The last line of the segment even implies that the protagonist sees this as a normal action that happens between the two of them. This twist re-contextualizes the rest of the song up to this point: the protagonist is longing for a love that is best left forgotten. The romantic haze of the track evaporates, leaving the listener to realize that what sounded like passion was just the beginning of an emotional spiral.
+This is the exact moment where the protagonist finally lets part of his mask slip, pulling back the curtain on the true nature of his relationship dynamic. It is revealed, much like the first main character, that the protagonist is also physically abused by the person he longs for. The last line of the segment even implies that the protagonist sees this as a normal action that happens between the two of them. This twist re-contextualizes the rest of the song up to this point: the protagonist is longing for a love that is best left forgotten. The romantic haze of the track evaporates, leaving the listener to realize that what sounded like passion was just the beginning of an emotional spiral.
 
 ```ad-quote
 title: **wetdream** 1:B:9-10
@@ -393,7 +393,7 @@ Oh god, did you see my face?
 I got lost in between her legs
 ```
 
-This moment in the track serves as a frantic, claustrophobic collision between the narrator's crushing insecurity and his dehumanizing addiction. He exposes a deep-seated terror of being erased even in the middle of an intimate act; he is terrified that he has become so invisible that his partner might forget he’s even there. It reinforces the recurring theme of his desperate need to be remembered and loved, yet it is undercut by a cold detachment. He admits that his actions are not out of genuine connection, but because he has been reduced to a mere "prize" to be used. In this state, he isn't a person to her, but a physical outlet for a lust. It’s a tragic irony: he is begging to be seen by someone who is currently  failing to see him as a human.
+This moment in the track serves as a frantic, claustrophobic collision between the protagonist's crushing insecurity and his dehumanizing addiction. He exposes a deep-seated terror of being erased even in the middle of an intimate act; he is terrified that he has become so invisible that his partner might forget he’s even there. It reinforces the recurring theme of his desperate need to be remembered and loved, yet it is undercut by a cold detachment. He admits that his actions are not out of genuine connection, but because he has been reduced to a mere "prize" to be used. In this state, he isn't a person to her, but a physical outlet for a lust. It’s a tragic irony: he is begging to be seen by someone who is currently  failing to see him as a human.
 
 ```ad-quote
 title: **wetdream** 3:1:1-2
@@ -401,7 +401,7 @@ Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
 ```
 
-With this shift, the track invokes a classic tragedy, Romeo & Juliet [ROMEO AND JUILET SOURCE]. By labeling the lover as "Romeo," the lyrics hint at a a power imbalance that will eventually define the album’s tragic arc. The protagonist, occupying the vulnerable "Juliet" role, is forced to try and . Further, “everything but the kitchen sink” is a idiom where almost everything is taken, whether needed or not. “Get out the kitchen sink” implies that the lover is asking the protagonist to do everything in his power to secure her love. However, this love is fundamentally built on exploitation as she continues to lead him, almost like looking at a circus performance in the distance. 
+With this shift, the track invokes a classic tragedy, Romeo & Juliet [ROMEO AND JUILET SOURCE]. By labeling the lover as "Romeo," the lyrics hint at a a power imbalance that will eventually define the album’s tragic arc. The protagonist, occupying the vulnerable "Juliet" role, is forced to fill his role but keeps getting pushed further and further from “Romeo”. Further, “everything but the kitchen sink” is a idiom where almost everything is taken out for a project, whether needed or not. “Get out the kitchen sink” implies that the lover is asking the protagonist to go beyond and do everything in his power to secure her love. However, this love is fundamentally built on exploitation as she continues to lead him, almost like looking at a circus performance in the distance. 
 
 ```ad-quote
 title: **wetdream** 3:1:4-5
@@ -419,7 +419,7 @@ So smoke me out
 *Smoke me out of all this shit*
 ```
 
-
+The track reaches its first peak with a jarring double entendre that cuts through the haze of the instrumental. By weaponizing a slur against himself, the narrator shows his vulnerability as he cries over a girl who broke him. Feeling disposable and burnt-out like a used cigarette, the  This imagery leads seamlessly into the desperate plea to "smoke me out," a phrase that functions as both a literal surrender to his drug abuse and a metaphorical cry for erasure. He isn't just looking for a high; he is demanding to be extinguished. To him, the smoke from his weed and cigarettes acts as a chemical veil, a way to physically shroud the "shit" and "bad memories" of his abuser until they are unrecognizable. It is the ultimate admission of defeat: he has reached a point where the suffocating fog of permanent intoxication is infinitely more welcoming than the clarity of facing his own feelings.
 
 - Double entendre to the slur and a cigarette
 	- The narrator feels this way about himself because he is crying over a girl
