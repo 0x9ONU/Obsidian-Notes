@@ -433,11 +433,7 @@ I'll kiss her on the mouth
 Then I'll throw my arms around her
 ```
 
-After the large instrumentals of the third part secede, the fourth part begins with a slow ballad that begin to illustrate the protagonist’s true desires. The narrator begins to reminisce on the more simple parts of romance: watching shows together, cuddling on the couch, and sharing small gestures of love with each other. Deep down, it illustrates how the narrator is interested in the more quiet parts of a relationship. They want to replace their sexual encounters that they have faced 
-
-- Reminiscing on the more simple parts of romance
-- Instead of being forced into more sexual encounters, the narrator really just wants the more simple stuff
-- The narrator wants it to be how it used to be
+After the large instrumentals of the third part secede, the fourth part begins with a slow ballad that begin to illustrate the protagonist’s true desires. The narrator begins to reminisce on the more simple parts of romance: watching shows together, cuddling on the couch, and sharing small gestures of love with each other. It illustrates how the protagonist, deep-down, is interested in the more quiet parts of a relationship. He wants to have more relationships with meaning rather than letting himself be an object. He also further yearns for how his relationship used to be before it began to sour.
 
 
 ```ad-quote
@@ -446,6 +442,8 @@ You'd think it's pretty dumb
 If I said I really loved you all the time
 It's all the time (*x3*)
 ```
+
+
 
 - And regardless of what the abuser has done to the narrator, they still continue to love her
 - The triple all the time brings out that he is genuine in his statement
