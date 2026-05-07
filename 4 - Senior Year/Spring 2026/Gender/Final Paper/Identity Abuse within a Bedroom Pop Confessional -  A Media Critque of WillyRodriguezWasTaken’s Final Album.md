@@ -393,7 +393,7 @@ Oh god, did you see my face?
 I got lost in between her legs
 ```
 
-This moment in the track serves as a frantic, claustrophobic collision between the narrator's crushing insecurity and his dehumanizing addiction. He exposes a deep-seated terror of being erased even in the middle of an intimate act; he is terrified that he has become so invisible that his partner might forget he’s even there. It reinforces the recurring theme of his desperate need to be remembered and loved, yet it is undercut by a cold detachment. He admits that his actions are not out of genuine connection, but because he has reduced his partner to a mere "prize" to be consumed. In this state, she isn't a person to him, but a physical outlet for a lust so consuming that he loses his own sense of self in the process. It’s a tragic irony: he is begging to be seen by someone he is currently failing to see as human.
+This moment in the track serves as a frantic, claustrophobic collision between the narrator's crushing insecurity and his dehumanizing addiction. He exposes a deep-seated terror of being erased even in the middle of an intimate act; he is terrified that he has become so invisible that his partner might forget he’s even there. It reinforces the recurring theme of his desperate need to be remembered and loved, yet it is undercut by a cold detachment. He admits that his actions are not out of genuine connection, but because he has been reduced to a mere "prize" to be used. In this state, he isn't a person to her, but a physical outlet for a lust. It’s a tragic irony: he is begging to be seen by someone who is currently  failing to see him as a human.
 
 ```ad-quote
 title: **wetdream** 3:1:1-2
