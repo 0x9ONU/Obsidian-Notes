@@ -401,7 +401,7 @@ Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
 ```
 
- 
+With this shift, the track invokes a classic tragedy, Romeo & Juliet [ROMEO AND JUILET SOURCE]. By labeling the lover as "Romeo," the lyrics hint at a a power imbalance that will eventually define the album’s tragic arc. The protagonist, occupying the vulnerable "Juliet" role, is forced into a desperate performance. “Get out the kitchen sink” is a literary device that hints the user is trying  They are forced to do everything in their power to secure a love that is fundamentally built on exploitation. 
 
 - Reference to Romeo & Juliet
 	- Age gap, first reference on what happens later in the album
