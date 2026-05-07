@@ -476,7 +476,7 @@ They said scars weren't genetic (I love you, I love you)
 Just some aforementioned tragedy (I love you, I love you)
 ```
 
-The second line provides an important theme that is mentioned throughout the rest of the album’s runtime: the battle between destiny vs. tragedy. Up to this point, the protagonist thought that it was destiny to fall in love and get hurt by his abuse; almost as if it was in his nature to end up how he was. However, in a glimpse of sobriety, he instead realizes that a string of unfortunate choices and events led him to where he is. He does not blame fate; rather, he blames himself for letting this happen. His thoughts are reinforced by the first line as he admits that he was not born with scars as he was
+The second line provides an important theme that is mentioned throughout the rest of the album’s runtime: the battle between destiny vs. tragedy. Up to this point, the protagonist thought that it was destiny to fall in love and get hurt by his abuse; almost as if it was in his nature to end up how he was. However, in a glimpse of sobriety, he instead realizes that a string of unfortunate choices and events led him to where he is. He does not blame fate; rather, he blames himself for letting this happen. His thoughts are reinforced by the first line as he admits that he was not born with the scars that he was given. In particular, this section of the song introduces the a nature vs. nuture debate: was he predetermined to be abused because of how he was born, or was  [English Men of Science: Their Nature and Nurture]. This has a lot of implications that will be discussed at the end of this part.
 
 ```ad-quote
 title: **wetdream** 4:PC:1-4
