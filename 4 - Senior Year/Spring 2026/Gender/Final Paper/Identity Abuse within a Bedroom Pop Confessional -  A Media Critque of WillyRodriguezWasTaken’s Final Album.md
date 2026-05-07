@@ -374,7 +374,7 @@ But I hope it never leaves
 That mark was made for me
 ```
 
-In a turn of irony, healing itself becomes its own kind of heartbreak as the protagonist realizes that a fading scar is just another way of losing the person who gave it to him. The desperation to keep the memories that he has with this person becomes evident as he holds onto every remaining piece of his love. The lover has effectively weaponized the narrator’s devotion, gaslighting him into believing these marks are signatures of affection rather than symptoms of abuse. This emotional manipulation, even as seen by the audience, is yet to be seen by the protagonist as he continues to fall for her.
+In a turn of irony, healing itself becomes its own kind of heartbreak as the protagonist realizes that his fading scar acts like a t. The desperation to keep the memories that he has with this person becomes evident as he holds onto every remaining piece of his love. The lover has effectively weaponized the narrator’s devotion, gaslighting him into believing these marks are signatures of affection rather than symptoms of abuse. This emotional manipulation, even as seen by the audience, is yet to be seen by the protagonist as he continues to fall for her.
 
 ### Part 3: “Smoke Me Out”
 
@@ -384,7 +384,7 @@ Furry porn has destroyed my mind
 I fell in love for the millionth time
 ```
 
-Starting out the third part of the song after a long instrumental break, the protagonist yells at the top of his lungs about one of his major vulnerabilities: his severe porn addiction. He has watched so much of it to the point his perception of love has been entirely hollowed out, replaced by a hyper-fixated, simulated intimacy that he can’t replicate in the real world.  He is references the sheer volume of his consumption in the second line; it's a tragic admission where he admits he no long knows what love actually is. 
+Starting out the third part of the song after a long instrumental break, the protagonist yells at the top of his lungs about one of his major vulnerabilities: his severe porn addiction. He has watched so much of it to the point his perception of love has been replaced by a simulated intimacy that he can’t replicate in the real world.  He is references the sheer volume of his consumption in the second line. His hyper-sexuality, as seen in Part 1, has hurt his relationship with others and makes it very difficult for him to form proper bounds with other people. This theme will continue throughout the album going forward.
 
 
 ```ad-quote
@@ -393,7 +393,7 @@ Oh god, did you see my face?
 I got lost in between her legs
 ```
 
-This moment in the track serves as an admission protagonist's crushing insecurity. He exposes a terror of being erased even in the middle of an intimate act; he is terrified that he has become so invisible that his partner might forget he’s even there. It reinforces the recurring theme of his desperate need to be remembered and loved, yet it is undercut by a cold detachment. He admits that his actions are not out of genuine connection, but because he has been reduced to a mere "prize" to be used. In this state, he isn't a person to her, but a physical outlet for a lust. It’s a tragic irony: he is begging to be seen by someone who is currently  failing to see him as a human.
+This moment in the track serves as an admission protagonist's crushing insecurity. He finds terror of in erased even in the middle of an intimate act. It reinforces the recurring theme of his desperate need to be remembered and loved, yet it is undercut by a cold detachment. He admits that his actions are not out of genuine connection, but because he has been reduced to a mere "prize" to be used. In this state, he isn't a person to her, but a physical outlet for a lust. It’s a tragic irony: he is begging to be seen by someone who is currently  failing to see him as a human.
 
 ```ad-quote
 title: **wetdream** 3:1:1-2
