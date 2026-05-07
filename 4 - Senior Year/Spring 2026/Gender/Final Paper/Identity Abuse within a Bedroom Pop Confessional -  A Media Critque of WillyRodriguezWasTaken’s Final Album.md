@@ -301,7 +301,7 @@ Tried all night to get you out my mind
 I'm so tired; I couldn't shut my eyes
 ```
 
-The first lines of the song set the scene for where most of the album takes place and a core theme throughout the album: a lack of sleep caused by anxiety. The protagonist, within his own house, stayed up all night in an attempt to 
+The first lines of the song set the scene for where most of the album takes place and a core theme throughout the album: a lack of sleep caused by anxiety. The protagonist is found within his own house, waking up after a long night of overthinking and not able to sleep.
 
 - Sets the scene of the song (bedroom again shocker)
 - Stayed up all night thinking about their lover

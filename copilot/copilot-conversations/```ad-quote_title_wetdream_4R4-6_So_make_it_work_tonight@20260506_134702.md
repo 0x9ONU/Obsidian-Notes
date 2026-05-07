@@ -508,3 +508,26 @@ As the first major song following the intermission, *wetdream* marks a distinct 
 
 The song is structured in four parts, though the 2nd part is purely instrumental and will not be covered in this analysis. Across the remaining three sections — "Terminal Lucidity," "Smoke Me Out," and "So Make it Work Tonight" — the album's titular track explores themes of unreciprocated love, physical abuse, porn addiction, and the desperate use of drugs to numb emotional pain.
 [Timestamp: 2026/05/06 19:39:31]
+
+**user**: 
+```ad-quote
+title: **wetdream** 1:1:1-2
+Tried all night to get you out my mind  
+I'm so tired; I couldn't shut my eyes
+```
+
+The first lines of the song set the scene for where most of the album takes place and a core theme throughout the album: a lack of sleep caused by anxiety. The protagonist is found within his own house, waking up after a long night of overthinking and not able to sleep.
+
+- Sets the scene of the song (bedroom again shocker)
+- Stayed up all night thinking about their lover
+
+slight add tot his pargraph and finish it
+[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
+[Timestamp: 2026/05/06 20:26:22]
+
+**ai**: Here's a slightly expanded and finished version of your paragraph:
+
+---
+
+The first lines of the song set the scene for where most of the album takes place and introduce a core theme that runs throughout the record: a lack of sleep caused by anxiety and obsessive rumination. The protagonist is found within his own bedroom — the same suffocating domestic space that has anchored the album's intimate confessions — waking up after a long night of overthinking, unable to silence his thoughts long enough to rest. The admission "I'm so tired; I couldn't shut my eyes" immediately establishes both his physical exhaustion and the mental grip his lover has over him. Rather than finding peace in sleep, he has spent the night desperately trying to push this person from his mind, only to fail. The bedroom, meant to be a sanctuary of rest, becomes yet another site of emotional turmoil and longing.
+[Timestamp: 2026/05/06 20:26:36]
