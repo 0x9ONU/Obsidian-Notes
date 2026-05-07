@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album"
             }
-          },
-          {
-            "id": "fac5b68d074b01f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13 - Binary Phase Diagrams"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -264,10 +250,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fac5b68d074b01f5",
+  "active": "2af5a17c9b3256d8",
   "lastOpenFiles": [
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md",
+    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 16/16 - Composites.md",
     "4 - Senior Year/Spring 2026/Material Science/Final Exam/Mat Sci - Final Exam.md",
     "4 - Senior Year/Spring 2026/Material Science/Final Exam",
