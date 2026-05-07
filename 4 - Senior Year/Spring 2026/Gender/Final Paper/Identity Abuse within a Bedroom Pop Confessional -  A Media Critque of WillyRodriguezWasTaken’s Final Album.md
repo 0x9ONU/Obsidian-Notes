@@ -330,11 +330,11 @@ I just can't kill the thought of you
 Being with someone else I knew
 ```
 
-Even though they are not necessarily in a relationship with one another, the narrator still craves that person
+These lines reveal the narrator's painful awareness that his connection with the lover is fragile and undefined. The first phrase exposes his obsessive fear of abandonment and replacement. Even though they are not in a committed relationship, the narrator still craves emotional exclusivity. He wants to be move on from just just a sexual outlet and aspires to be valued for his love instead. The inability to "kill the thought" suggests that this anxiety is constant, intrusive, and unshakable. It speaks to a deeper insecurity rooted in past trauma: the narrator has likely been discarded or used before, and now projects that fear onto every relationship. He is terrified of being deemed not good enough, of being replaced by someone who can offer what he cannot. This fear of emotional disposability is a hallmark of identity abuse, where the victim's sense of worth is contingent on the abuser's validation. The narrator cannot simply enjoy the present moment because his mind is already anticipating the pain of being left behind.
 
 - Commitment issues
 - Afraid of letting his friend love someone else
-- They want to be loved as a person, and not as a 
+- He wants to be mutually exclusive and not to be used as someone that is only felt love during sex
 - Comes from trauma, as it will be explained later
 
 ```ad-quote
