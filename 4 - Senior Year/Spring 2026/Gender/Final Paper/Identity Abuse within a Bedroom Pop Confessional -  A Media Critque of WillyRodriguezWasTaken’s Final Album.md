@@ -286,6 +286,7 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that specifically split the album into two stories. This contrast will be highlighted throughout the rest of this analysis, starting with the titular, and most popular, song of the album.
 ## Song VII: wetdream
 
+The beginning of the second half of the album establishes the new character in the album. To ensure that there is no confusion with the previous main character, this character will be referred to as the protagonist with he/him pronouns.  
 
 - Realize that this might be another story from the other half the album (a different narrator and lover)
 	- Mainly the big change is the amount of drug use that has came up
@@ -300,7 +301,7 @@ Tried all night to get you out my mind
 I'm so tired; I couldn't shut my eyes
 ```
 
-The beginning of the second half of the album establishes the new character, which will be called the protagonist, and 
+The first lines of the song set the scene for where most of the album takes place and a core theme throughout the album: a lack of sleep caused by anxiety. The protagonist, within his own house, stayed up all night in an attempt to 
 
 - Sets the scene of the song (bedroom again shocker)
 - Stayed up all night thinking about their lover
