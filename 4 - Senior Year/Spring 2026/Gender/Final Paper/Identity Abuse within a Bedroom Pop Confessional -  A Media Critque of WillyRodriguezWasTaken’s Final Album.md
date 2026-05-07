@@ -653,16 +653,11 @@ Expecting you to say you're fine
 title: **lost in translation** 1:4:9-10
 But all I get is brief replies
 Of I don't knows and so do I's
-```
-
-- Realizes that the abuser, even after all of this, barely cares to even give proper replies to their victim
-
-```ad-quote
-title: **lost in translation** 1:4:11-12
 You know I love you
 So why don't you love me too?
 ```
 
+- Realizes that the abuser, even after all of this, barely cares to even give proper replies to their victim
 - At this point, he realizes that the abuser, regardless of how much effort he puts in, will always keep on leading him on
 
 ```ad-quote
