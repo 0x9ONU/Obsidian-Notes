@@ -505,10 +505,6 @@ So I can work another boring 9 to 5
 
 For the first time in the album, the protagonist solidifies two things: (1) the length of his drug addiction, and (2) the amount of time he has been in the relationship. Assuming he started abusing drugs around the same time his relationship started to sour, this means that this relationship has been contaminating his life for many years. Such a long history of abuse puts into context that the protagonist has been in a constant battle for many years. Additionally, his dependence on this abuser could be further explained by his economic shortcomings as he might not have enough money to move out on his own. In particular, LGBTQ+ people often have a more difficult time finding and keeping full-filling jobs due to homophobia and workplace discrimination [job source]. Once again, intersectionalism hurts the protagonist of the story as his multiple identities and traits makes him more vulnerable to multiple risks in his life. 
 
-- [insert job thing here]
-- Drinking problem that goes very far back
-- Bad work environment that makes it hard to be independent
-
 ```ad-quote
 title: **wetdream** 4:R:3
 My body's failing me one sickle cell at a time
@@ -533,8 +529,7 @@ The track concludes with a final line that sends off the song on a hollow mantra
 
 ### Summary and Connections
 
-
-
+"wetdream" dissects the compounded harms of identity abuse, addiction, and depression within a single toxic relationship. The song spirals from desperate denial to a drug-fueled self-erasure to a final resignation where drinking becomes the only way to endure almost a decade of abuse. The abuser weaponizes every vulnerability the protagonist possesses: his LGBTQ+ identity, his porn‑addled understanding of intimacy, his economic precarity, and his terror of being alone. This aligns with the HCDVCC report's definition of identity abuse: the abuser exploits marginalization because of it [REPORT]. Statistically, the protagonist mirrors the Trever Project's findings regarding substance abuse and the CDC's data where most queer youth feel hopeless in their life. Yet the song refuses to reduce him to a statistic. It instead stages a wrenching nature vs. nurture debate through the sickle cell metaphor and the . He wavers between blaming an inherited predisposition and recognizing his suffering as a socially constructed tragedy. The scars are not genetic—they were inflicted—but his inability to act on that knowledge reveals how systemic oppression can be internalized until survival feels like a biological sentence. By denying the protagonist redemption and letting the track close on the hollow lie "Tomorrow's another day," "wetdream" dodges tokenism. It presents abuse and addiction not as a single crisis but as a daily war—one that substances make survivable but never winnable.
 ## Song IX: lost in translation
 
 ```ad-quote
