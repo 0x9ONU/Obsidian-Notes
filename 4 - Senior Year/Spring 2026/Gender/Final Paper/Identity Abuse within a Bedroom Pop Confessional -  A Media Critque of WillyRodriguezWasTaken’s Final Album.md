@@ -366,7 +366,7 @@ I've been kicking you for hours
 I guess you've gotten used to it
 ```
 
-Here is the line where the narrator starts to pull back part of the curtains he puts 
+This is the exact moment where the narrator finally lets part of his mask slip, pulling back the curtain on the true nature of his relationship dynamic. It is revealed, much like the first main character, that the protagonist is also physically abused by the person he longs for. The last line of the segment even implies that the protagonist sees this as a normal action that happens between the two of them. This twist re-contextualizes the rest of the song up to this point: the protagonist is longing for a love that is best left forgotten. 
 
 - The protagonist gets significantly beat both physically and emotionally by their toxic crush
 - It happens so often that the protag just kind understands it to be the normal
