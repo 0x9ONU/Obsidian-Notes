@@ -531,3 +531,22 @@ slight add tot his pargraph and finish it
 
 The first lines of the song set the scene for where most of the album takes place and introduce a core theme that runs throughout the record: a lack of sleep caused by anxiety and obsessive rumination. The protagonist is found within his own bedroom — the same suffocating domestic space that has anchored the album's intimate confessions — waking up after a long night of overthinking, unable to silence his thoughts long enough to rest. The admission "I'm so tired; I couldn't shut my eyes" immediately establishes both his physical exhaustion and the mental grip his lover has over him. Rather than finding peace in sleep, he has spent the night desperately trying to push this person from his mind, only to fail. The bedroom, meant to be a sanctuary of rest, becomes yet another site of emotional turmoil and longing.
 [Timestamp: 2026/05/06 20:26:36]
+
+**user**: 
+```ad-quote
+title: **wetdream** 1:1:5-8
+Rise and shine to vomit-stained carpets
+He might try to smoke you out a bit
+But I'll lie, sitting on my bedroom floor
+Thinking 'bout how long it took to wake him up
+```
+
+Often when waking up, the phrase “rise and shine” is used to signal waking up in a positive way to a great day. However,  this phrase is then immediately contradicted by gross carpets that remind the narrator of what he did last night.
+
+- Rise and shine is a contrast to the disgusting living conditions they are in
+- Smoke you out a bit (like bees and that type of such) as the lover might often try to get the narrator out of the bedroom (bc of depression or something idk)
+- The narrator decides to not listen and will continue to lay on the floor until further notice
+
+can you finish my thoughts here please
+[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
+[Timestamp: 2026/05/06 20:36:58]

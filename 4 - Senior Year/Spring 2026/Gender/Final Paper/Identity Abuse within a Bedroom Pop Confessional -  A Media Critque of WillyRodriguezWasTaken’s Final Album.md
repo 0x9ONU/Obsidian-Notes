@@ -301,7 +301,7 @@ Tried all night to get you out my mind
 I'm so tired; I couldn't shut my eyes
 ```
 
-The first lines of the song set the scene for where most of the album takes place and introduce a core theme that runs throughout the record: a lack of sleep caused by anxiety and obsessive rumination. The protagonist is found within his own bedroom, waking up after a long night of overthinking, unable to silence his thoughts long enough to rest. The bedroom, meant to be a sanctuary of rest, becomes yet another site of emotional turmoil and longing.
+The first lines of the song set the scene for where most of the album takes place and introduce a core theme that runs throughout the record: a lack of sleep caused by anxiety and obsessive rumination. The protagonist is found within his own bedroom, waking up after a long night of overthinking, unable to silence his thoughts long enough to rest. The bedroom, meant to be a sanctuary of rest, becomes yet another site of emotional turmoil and longing. As the protagonist “wakes up” from his rest, the audience can immediately tell the mood he is going to be in.
 
 - Sets the scene of the song (bedroom again shocker)
 - Stayed up all night thinking about their lover
@@ -314,7 +314,7 @@ But I'll lie, sitting on my bedroom floor
 Thinking 'bout how long it took to wake him up
 ```
 
-Often when the 
+Often when waking up, the phrase “rise and shine” is used to signal waking up in a positive way to a great day. However,  this phrase is then immediately contradicted by gross carpets that remind the narrator of what he did last night.
 
 - Rise and shine is a contrast to the disgusting living conditions they are in
 - Smoke you out a bit (like bees and that type of such) as the lover might often try to get the narrator out of the bedroom (bc of depression or something idk)
