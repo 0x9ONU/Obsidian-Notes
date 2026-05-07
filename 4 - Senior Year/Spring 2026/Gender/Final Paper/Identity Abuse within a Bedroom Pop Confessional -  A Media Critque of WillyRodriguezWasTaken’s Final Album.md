@@ -347,10 +347,7 @@ Waiting for change
 Waiting for you to come and love me (*x2*)
 ```
 
-The infatuation with his lover has gotten to the point where he has begun to neglect himself. He waits on his bedroom floor, wasting away as he waits for his lover to reciprocate his love. When combined with first verse explaining his living conditions, the protagonist has clearly not been taking care of himself as he can barely move. The phrase is repeated twice in a row as, like a black-hole, he does not receive any response and pleads once again to the void with some hope that  
-
-- The other person is infactuated with the other person to the point that they have been neglecting themselves
-- Comes further from the previous lines in the first verse
+The infatuation with his lover has gotten to the point where he has begun to neglect himself. He waits on his bedroom floor, wasting away as he waits for his lover to reciprocate his love. When combined with first verse explaining his living conditions, the protagonist has clearly not been taking care of himself as he can barely move. The phrase is repeated twice in a row as, like a black-hole, he does not receive any response and pleads once again to the void with some hope that maybe his lover will change his mind. 
 
 ```ad-quote
 title: **wetdream** 1:B:1-3
@@ -359,7 +356,7 @@ Pretending like
 Pretending like the silence is still alive
 ```
 
-Even after no response, he continues to be hopeful and daydreams about how it was before 
+Even after no response, he continues to be hopeful and daydreams about how it was before his lover stopped giving interest in him. He wants to continue to be disillusioned to his own perfect version of his relationship and does not consider any of the various problems the relationship might have had. 
 
 - Still wants be delusional even though the crush does not share the feelings with the protagonist
 - They still think that they will be able to get together regardless of the feelings being reciprocated or not
@@ -372,6 +369,8 @@ I've been kicking you for hours
 I guess you've gotten used to it
 ```
 
+
+
 - The protagonist gets significantly beat both physically and emotionally by their toxic crush
 - It happens so often that the protag just kind understands it to be the normal
 
@@ -380,6 +379,8 @@ title: **wetdream** 1:B:9-10
 But I hope it never leaves
 That mark was made for me
 ```
+
+
 
 - Regardless of this, the scars that were given to them acts as a physical reminder as the healing/fading of the scar reminds them of their crush
 - Alludes to the artist needing to move on
