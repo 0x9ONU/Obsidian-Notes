@@ -532,40 +532,35 @@ The track concludes with a final line that sends off the song on a hollow mantra
 "wetdream" dissects the compounded harms of identity abuse, addiction, and depression within a single toxic relationship. The song spirals from desperate denial to a drug-fueled self-erasure to a final resignation where drinking becomes the only way to endure almost a decade of abuse. The abuser weaponizes every vulnerability the protagonist possesses: his LGBTQ+ identity, his porn‑addled understanding of intimacy, his economic precarity, and his terror of being alone. This aligns with the HCDVCC report's definition of identity abuse: the abuser exploits marginalization because of it [REPORT]. Statistically, the protagonist mirrors the Trever Project's findings regarding substance abuse and the CDC's data where most queer youth feel hopeless in their life. Yet the song refuses to reduce him to a statistic. It instead stages a wrenching nature vs. nurture debate through the sickle cell metaphor and the events of tragedy that led him up to this point. He wavers between blaming an inherited predisposition and recognizing his suffering as a socially constructed tragedy. His abuse scars are not genetic, but he lacks the ability understand how systemic oppression can be internalized until survival feels like a biological response. By denying the protagonist redemption and not letting the track result, "wetdream" dodges tokenism. It presents abuse and addiction not as a single crisis but as a daily struggle where substances make survivable it, but never winnable.
 ## Song IX: lost in translation
 
+
+
 ```ad-quote
-title: **lost in translation** 1:1:1-4
+title: **lost in translation** 1:1:1-8
 Oh god
 What did you see?
 When we kicked in our sheets
 Full of sweat and some semen
-```
-
-
-
-- Post-coital shame
-- Fear of being seen and showing the raw, vulnerable, and messy state after sex
-
-```ad-quote
-title: **lost in translation** 1:1:5-8
 So teach me how ugly
 How vile and disgusting
 These bodies could be
 Intertwined with our pulses
 ```
 
+
+
+- Post-coital shame
+- Fear of being seen and showing the raw, vulnerable, and messy state after sex
 - Goes into how even though humans have sex to feel good, it can be considered very disgusting when looked from the outside
 - The conflict between the physical desire for intimacy and the psychological disgust
 - He wants to connect with his partner like this, but he is ashamed about showing his true self to his lover.
 
 ```ad-quote
-title: **lost in translation** 1:1:10-11
+title: **lost in translation** 1:1:10
 If you do love me so (These drugs)
-I've picked the flower pedals (In the streets of living)
 ```
 
 - Here is the first time where the narrator begins to equate drugs with the feeling of love
 - He used drugs so much to cover up the shame, abuse, and more to the point he equates the feelings he gets with them with love itself, much like how porn has messed up his perception
-- “loves me, loves me not”
 
 ```ad-quote
 title: **lost in translation** 1:1:12-13
