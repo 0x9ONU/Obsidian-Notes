@@ -384,10 +384,8 @@ Furry porn has destroyed my mind
 I fell in love for the millionth time
 ```
 
-Starting out the third part of the song after a long instrumental break, the protagonist yells at the top of his lungs about one of his major vulnerabilities: his severe porn addiction. He has watched so much of it to the point his perception of love has been entirely hollowed out, replaced by a hyper-fixated, simulated intimacy that he can’t replicate in the real world.  He is references the sheer volume of his consumption in the second line; it's a tragic admission where he 
+Starting out the third part of the song after a long instrumental break, the protagonist yells at the top of his lungs about one of his major vulnerabilities: his severe porn addiction. He has watched so much of it to the point his perception of love has been entirely hollowed out, replaced by a hyper-fixated, simulated intimacy that he can’t replicate in the real world.  He is references the sheer volume of his consumption in the second line; it's a tragic admission where he admits he no long knows what love actually is. 
 
-- This is the first hint to how the new protag has a severe porn addicition
-- Falling in love for the millionth time references how much they have seen, which completely warped their perception of love
 
 ```ad-quote
 title: **wetdream** 3:B:3-4
@@ -395,15 +393,15 @@ Oh god, did you see my face?
 I got lost in between her legs
 ```
 
-- The narrator is afraid of the other person forgetting who they are because they were too busy giving them head
-- Goes back into the theme of not wanting to be forgotten
-- It also goes into how the protag could not treat the other person as a human, but rather an outlet for lust as he could not stop staring at “the prize”
+This moment in the track serves as a frantic, claustrophobic collision between the narrator's crushing insecurity and his dehumanizing addiction. He exposes a deep-seated terror of being erased even in the middle of an intimate act; he is terrified that he has become so invisible that his partner might forget he’s even there. It reinforces the recurring theme of his desperate need to be remembered and loved, yet it is undercut by a cold detachment. He admits that his actions are not out of genuine connection, but because he has reduced his partner to a mere "prize" to be consumed. In this state, she isn't a person to him, but a physical outlet for a lust so consuming that he loses his own sense of self in the process. It’s a tragic irony: he is begging to be seen by someone he is currently failing to see as human.
 
 ```ad-quote
 title: **wetdream** 3:1:1-2
 Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
 ```
+
+
 
 - From the abuser’s POV
 - Reference to Romeo & Juliet
