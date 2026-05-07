@@ -532,7 +532,7 @@ The track concludes with a final line that sends off the song on a hollow mantra
 "wetdream" dissects the compounded harms of identity abuse, addiction, and depression within a single toxic relationship. The song spirals from desperate denial to a drug-fueled self-erasure to a final resignation where drinking becomes the only way to endure almost a decade of abuse. The abuser weaponizes every vulnerability the protagonist possesses: his LGBTQ+ identity, his porn‑addled understanding of intimacy, his economic precarity, and his terror of being alone. This aligns with the HCDVCC report's definition of identity abuse: the abuser exploits marginalization because of it [REPORT]. Statistically, the protagonist mirrors the Trever Project's findings regarding substance abuse and the CDC's data where most queer youth feel hopeless in their life. Yet the song refuses to reduce him to a statistic. It instead stages a wrenching nature vs. nurture debate through the sickle cell metaphor and the events of tragedy that led him up to this point. He wavers between blaming an inherited predisposition and recognizing his suffering as a socially constructed tragedy. His abuse scars are not genetic, but he lacks the ability understand how systemic oppression can be internalized until survival feels like a biological response. By denying the protagonist redemption and not letting the track result, "wetdream" dodges tokenism. It presents abuse and addiction not as a single crisis but as a daily struggle where substances make survivable it, but never winnable.
 ## Song IX: lost in translation
 
-
+- Introduction about song here
 
 ```ad-quote
 title: **lost in translation** 1:1:1-8
@@ -546,7 +546,7 @@ These bodies could be
 Intertwined with our pulses
 ```
 
-
+The song starts out immediately about a 
 
 - Post-coital shame
 - Fear of being seen and showing the raw, vulnerable, and messy state after sex
@@ -585,7 +585,7 @@ But it's always a fight just to provе that I might
 Is all that is needed to fuck up my life
 ```
 
-- hese lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuser (or the social system) holds the power to destroy it with a single word. The “fight” is not for love, but for survival — and he’s losing.
+- These lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuser (or the social system) holds the power to destroy it with a single word. The “fight” is not for love, but for survival — and he’s losing.
 - A mere accusation of him trying to pull away from the relationship from his abuser will make him spiral further into depression.
 
 ```ad-quote
@@ -610,7 +610,9 @@ And burn all our clothes
 'Til we fight, 'til we're screamin'
 ```
 
-- These lines capture the moment where the relationship has become purely destructive — the abuser has given up on love and instead embraces violence as the only remaining form of intimacy. The fight and the screaming become the relationship itself.
+- These lines capture the moment where the relationship has become purely destructive. 
+- The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
+- The fight and the screaming become the relationship itself.
 - The phrase "burn all our clothes" is particularly important: clothes represent identity, performance, and social presentation. In the context of LGBTQ+ identity abuse, clothes can be a marker of gender expression. Burning them could symbolize the abuser's attempt to erase the narrator's identity entirely, or the narrator's own desire to be stripped of everything that ties him to this abusive relationship
 - The abuser does not care about what the narrator has deep down, they only see them as a sexual and abuse output
 
@@ -948,6 +950,7 @@ Made you feel so old
 
 - Referring to pedophilia
 - First time that it is established that there is a significant age gap and that this is actually statutory rape
+- Reminder of the Romeo and Juliet metaphor
 - NOTE: I did not realize that this was the case until looking closer into the album
 
 ```ad-quote
