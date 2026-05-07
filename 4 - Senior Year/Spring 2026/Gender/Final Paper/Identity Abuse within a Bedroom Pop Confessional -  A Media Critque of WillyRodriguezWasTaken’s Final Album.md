@@ -669,6 +669,7 @@ I can't live without you (To live without you)
 
 - Even after all this time, the narrator keeps on trying to convince himself that their abuser still actually loves them
 - He is so dependent on her that he can no longer with without them
+- The final cut off from the abuser
 - This is where the loop cuts before the final song
 ## Song XIII: revisited
 
@@ -754,6 +755,7 @@ I'll swallow whole your sour wine
 ```
 
 - Recounting the events
+- Giving into the abuse and letting it flow over
 
 ```ad-quote
 title: **revisited** 2:1:21
@@ -791,7 +793,7 @@ You'll strip your clothes and live with it
 You'll live with it (*x4*)
 ```
 
-- Specifically calls out that the narrator is a trans man for the first time in teh whole album
+- Specifically calls out that the narrator is a trans man for the first time in the whole album
 	- Statistics here regarding sexual abuse
 	- Recognize that transmen are even more transparent than other demographics due to heteronormativity
 - Filtered kid refers to HRT/hormone blockers
@@ -806,7 +808,7 @@ Took many of my friends
 And traded 'em for drugs
 ```
 
-- “The singer turned to drugs as a way to escape their emotional pain, eventually falling into addiction. This struggle caused many of their friends to drift away, leaving behind the impression that they had traded meaningful relationships for their reliance on substances.”
+- “The singer turned to drugs as a way to escape their emotional pain, eventually falling into addiction. This struggle caused many of their friends to drift away, leaving behind the impression that they had traded meaningful relationships for their reliance on substances.” - something my brother brought up
 - Addictions do not help your social life, which further leads the protag into depression and self-loathing
 
 ```ad-quote
@@ -838,6 +840,7 @@ So you can shoot it in our veins
 
 - First time a harder drug was mentioned on the album
 - Assuming the time this came out, this is most likely some sort of opioid 
+- Shooting into the veins is a needle
 - [opiod crisis here]
 
 ```ad-quote
@@ -848,11 +851,12 @@ Just once again
 The taste of his lips
 ```
 
+- Happens as the narrator drifts back from the opoid high
 - Even after all of this, as seen many times throughout the album, the victim keeps getting pulled back
 - Even if they would with another person (“somebody”), they still continue to fantasize what it would have been like if it was with their abuser instead
 ### Part 4: Anger
 
-- A brief 
+- The reveal to the family
 
 ```ad-quote
 title: **revisited** 4:1:1-3
@@ -884,8 +888,8 @@ Oh God, did you really have to hurt me so bad?
 ```
 
 - Double meaning
-- The family member is hurt and distraught after learning about the truth of the matter
-- The narrator is upset that their abuser hurt them, as they could have been a good relationship otherwise. They still care for the abuser since they have been manipulated into loving them. 
+- The family member speaking: they are hurt and distraught after learning about the truth of the matter
+- The narrator: he is upset that their abuser hurt them, as they could have been a good relationship otherwise. They still care for the abuser since they have been manipulated into loving them. 
 	- Restates the conclusion of the third part
 - The narrator wishes that he did not have to go through any of the pain he felt and feels like a burden on having to come out with his family member as well
 ### Part 5: Bargaining
@@ -925,7 +929,7 @@ It's not your fault you lived this life (*x2*)
 
 - The climax of the album
 - A set amount of time after the abuse and moving on
-- Realizing that all he does reminds him of his abuser, and that he cannot move on even after finding  new romantic interests.
+- Realizing that all he does reminds him of his abuser, and that he cannot move on even after finding new romantic interests.
 
 ```ad-quote
 title: **revisited** 6:1:1
