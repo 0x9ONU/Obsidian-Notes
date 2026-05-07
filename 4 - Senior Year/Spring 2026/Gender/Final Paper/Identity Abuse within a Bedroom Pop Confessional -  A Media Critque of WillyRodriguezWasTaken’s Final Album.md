@@ -433,7 +433,7 @@ I'll kiss her on the mouth
 Then I'll throw my arms around her
 ```
 
-After the large instrumentals of the third part secede, the fourth part begins with a slow ballad that begin to illustrate the protagonist’s true desires. The narrator begins to reminicise on the more simple parts of romance: watching shows together, laying next to each other, 
+After the large instrumentals of the third part secede, the fourth part begins with a slow ballad that begin to illustrate the protagonist’s true desires. The narrator begins to reminisce on the more simple parts of romance: watching shows together, cuddling on the couch, and sharing small gestures of love with each other. Deep down, it illustrates how the narrator is interested in the more quiet parts of a relationship. They want to replace their sexual encounters that they have faced 
 
 - Reminiscing on the more simple parts of romance
 - Instead of being forced into more sexual encounters, the narrator really just wants the more simple stuff
