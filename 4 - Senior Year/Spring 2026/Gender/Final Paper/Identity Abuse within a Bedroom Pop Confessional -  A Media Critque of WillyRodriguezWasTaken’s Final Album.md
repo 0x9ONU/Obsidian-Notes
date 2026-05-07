@@ -322,7 +322,7 @@ Let's head on back to sleep again
 I'm tired of waking up as friends
 ```
 
-The beginning of the chorus serves as the song's emotional thesis and the narrator's first explicit admission of his romantic predicament. The desire to "head on back to sleep" is a wish to return to the safety of unconsciousness, where he does not have to confront the painful reality of his life. However, “sleep" is also a common euphemism for sex, and the narrator is caught in a cycle of physical intimacy that lacks the emotional commitment he craves. He is tired of the morning after, when the illusion of closeness fades and he is reminded that their connection is defined by sex, not love. The narrator desperately wants to be more than just a casual hookup, but he feels powerless to change the terms of their relationship. This tension, between wanting real love and settling for whatever scraps of attention he can get, will b the narrator's arc throughout the rest of the album.
+The beginning of the chorus serves as the song's emotional thesis and the narrator's first explicit admission of his romantic predicament. The desire to "head on back to sleep" is a wish to return to the safety of unconsciousness, where he does not have to confront the painful reality of his life. However, “sleep" is also a common euphemism for sex, and the narrator is caught in a cycle of physical intimacy that lacks the emotional commitment he craves. He is tired of the morning after, when the illusion of closeness fades and he is reminded that their connection is defined by sex, not love. The narrator desperately wants to be more than just a casual hookup, but he feels powerless to change the terms of their relationship. This tension, between wanting real love and settling for whatever scraps of attention he can get, is a core theme throughout the entire album.
 
 ```ad-quote
 title: **wetdream** 1:C:3-4
@@ -334,7 +334,7 @@ Even though they are not necessarily in a relationship with one another, the nar
 
 - Commitment issues
 - Afraid of letting his friend love someone else
-- They want to be loved, but they cannot 
+- They want to be loved as a person, and not as a 
 - Comes from trauma, as it will be explained later
 
 ```ad-quote
