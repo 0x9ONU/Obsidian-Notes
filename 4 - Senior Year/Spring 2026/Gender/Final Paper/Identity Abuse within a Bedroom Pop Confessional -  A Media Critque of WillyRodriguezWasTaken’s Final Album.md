@@ -711,6 +711,7 @@ I can't live without you (To live without you)
 
 - Even after all this time, the narrator keeps on trying to convince himself that their abuser still actually loves them
 - He is so dependent on her that he can no longer with without them
+- This is where the loop cuts before the final song
 ## Song XIII: revisited
 
 - This is the part of the album where the narrator tears all the curtains back and reveals to the audience on what they have experienced
