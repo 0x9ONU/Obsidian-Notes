@@ -314,17 +314,15 @@ But I'll lie, sitting on my bedroom floor
 Thinking 'bout how long it took to wake him up
 ```
 
-Often when waking up, the phrase “rise and shine” is used to signal waking up in a positive way to a great day. However,  this phrase is then immediately contradicted by gross carpets that remind the narrator of what he did last night.
-
-- Rise and shine is a contrast to the disgusting living conditions they are in
-- Smoke you out a bit (like bees and that type of such) as the lover might often try to get the narrator out of the bedroom (bc of depression or something idk)
-- The narrator decides to not listen and will continue to lay on the floor until further notice
+Often when waking up, the phrase “rise and shine” is used to signal waking up in a positive way to a great day. However,  this phrase is then immediately contradicted by gross carpets that remind the narrator of what he did last night. This contrast sets a tone of bitter irony: there is nothing bright about this morning. Then, the first time the protagonist’s lover is mentioned in the 6th line. Here, the protagonist, much like how a beekeeper smokes out bees, is afraid that the lover attempting to force the narrator out of the bedroom.  Yet the narrator resists. He chooses to remain on the floor, paralyzed by exhaustion, waiting for his lover to awaken so he can continue his day. This opening verse establishes the narrator's passive refusal to engage with the world outside his bedroom, even as the squalor around him signals a troublesome life.
 
 ```ad-quote
 title: **wetdream** 1:C:1-2
 Let's head on back to sleep again
 I'm tired of waking up as friends
 ```
+
+
 
 - Realizes that the feelings are one-sided OR that they are just friends-with-benefits
 - The narrator, on the other hand, wants it to be more than just that
