@@ -283,7 +283,7 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 
 ## Intermission I: \*falling asleep on the phone\*
 
-Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that specifically split the album into two stories. In particular, the second main character has a lot more nuance when it comes to his actions and choices throughout his section of the story. Unlike the black-and-white case seen before, the new character . This contrast will be highlighted throughout the rest of this analysis, starting with the titular, and most popular, song of the album.
+Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that specifically split the album into two stories. In particular, the second main character has a lot more nuance when it comes to his actions and choices throughout his section of the story. Unlike the black-and-white case seen before, the new character also . This contrast will be highlighted throughout the rest of this analysis, starting with the titular, and most popular, song of the album.
 ## Song VII: wetdream
 
 The beginning of the second half of the album establishes the new character in the album. To ensure that there is no confusion with the previous main character, this character will be referred to as the protagonist with he/him pronouns.  
@@ -443,10 +443,7 @@ If I said I really loved you all the time
 It's all the time (*x3*)
 ```
 
-Here, the protagonist cries out how he still genuinely loves his abuser. Him admitting that he is “dumb” in doing so further cements how, in this moment of clarity, he realizes that she is flawed and not a good partner for him. He is fully aware of the absurdity of his devotion, acknowledging that loving someone who leaves bruises is not right. Yet, he continuously reassures himself in the last three lines. Even though everything that happened to him, he even loves her at the worst point of the relationship. The rhythmic repetition of "it's all the time" transforms the sentiment from a romantic confession into a haunting psychological sentence; it suggests that his love isn't a choice, but a chronic condition that persists through the trauma, the drugs, and the "poison." He is anchored to his own destruction, trapped in a loop where his heart refuses to catch up to the reality of his scars.
-
-- And regardless of what the abuser has done to the narrator, they still continue to love her
-- The triple all the time brings out that he is genuine in his statement
+Here, the protagonist cries out how he still genuinely loves his abuser. Him admitting that he is “dumb” in doing so further cements how, in this moment of clarity, he realizes that she is flawed and not a good partner for him. He is fully aware of the absurdity of his devotion, acknowledging that loving someone who leaves bruises is not right. Yet, he continuously reassures himself in the last three lines. The rhythmic repetition of "it's all the time" transforms the sentiment from a romantic confession into a haunting psychological sentence; it suggests that his love isn't a choice, but a chronic condition that persists through the trauma, the drugs, and the "poison." He is anchored to his own destruction, trapped in a loop where his heart refuses to catch up to the reality of his scars.
 
 ```ad-quote
 title: **wetdream** 4:2:1-2
@@ -454,7 +451,7 @@ title: **wetdream** 4:2:1-2
 But these drugs make it fine
 ```
 
-
+Coming to this realization, the protagonist yet again is stuck awake at night thinking about what their relationship could have been. 
 
 - Coming back to the earlier line how they were staying up all night thinking about their abuser
 - Using drugs to cover up feelings
@@ -465,7 +462,7 @@ Tryna hide what's inside
 But it's eating me alive
 ```
 
-- Trying to suppress the feelings, but it is actively destroying their mental health
+By trying to suppress the feelings, it is actively destroying his mental health from the inside out. There comes to a point where he has to be honest with himself
 
 ```ad-quote
 title: **wetdream** 4:B:1-2
