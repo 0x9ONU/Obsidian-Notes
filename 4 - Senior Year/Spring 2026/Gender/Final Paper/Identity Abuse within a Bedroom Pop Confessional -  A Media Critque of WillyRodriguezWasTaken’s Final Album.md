@@ -401,9 +401,8 @@ Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
 ```
 
+ 
 
-
-- From the abuser’s POV
 - Reference to Romeo & Juliet
 	- Age gap, first reference on what happens later in the album
 	- Romeo is the abuser
