@@ -356,10 +356,7 @@ Pretending like
 Pretending like the silence is still alive
 ```
 
-Even after no response, he continues to be hopeful and daydreams about how it was before his lover stopped giving interest in him. He wants to continue to be disillusioned to his own perfect version of his relationship and does not consider any of the various problems the relationship might have had. 
-
-- Still wants be delusional even though the crush does not share the feelings with the protagonist
-- They still think that they will be able to get together regardless of the feelings being reciprocated or not
+Even after no response, he continues to be hopeful and daydreams about how it was before his lover stopped giving interest in him. He wants to continue to be disillusioned to his own perfect version of his relationship, even with the clear problems the relationship had. The lover's refusal to reciprocate, the lack of response, the absence of emotional connection are all signs that the relationship is dead. But instead of accepting this, the narrator pretends that the silence itself is alive. He doesn't pretend the lover is speaking; he pretends the absence of speech still has life, still holds meaning, still offers a future, and provides a way to continue. He gains comfort in this lie, which will hurt him once the illusion starts to fall apart.
 
 ```ad-quote
 title: **wetdream** 1:B:5-8
@@ -369,7 +366,7 @@ I've been kicking you for hours
 I guess you've gotten used to it
 ```
 
-
+Here is the line where the narrator starts to pull back part of the 
 
 - The protagonist gets significantly beat both physically and emotionally by their toxic crush
 - It happens so often that the protag just kind understands it to be the normal
@@ -382,8 +379,7 @@ That mark was made for me
 
 
 
-- Regardless of this, the scars that were given to them acts as a physical reminder as the healing/fading of the scar reminds them of their crush
-- Alludes to the artist needing to move on
+- Regardless of this, the scars that were given to them acts as a physical reminder as the healing/fading of the scar reminds them of their lover
 - However, it also further adds to the desperation the protag has to keep their memories alive with this person
 
 ### Part 3: “Smoke Me Out”
