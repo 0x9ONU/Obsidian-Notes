@@ -511,25 +511,22 @@ title: **wetdream** 4:R:3
 My body's failing me one sickle cell at a time
 ```
 
-Sickle cell disease (SCD) is a genetic blood disorder where abnormal hemoglobin is generated in blood cells, which ultimately leads to organ failure and a shortened lifespan [Sickle Cell Source]. However, the author here does not mean for this section to be taken literally. SCD is instead used as a metaphor for hereditary behaviors. Even though the strife he faces was not predetermined, he feels the way he reacts and copes with the the problems in his life is built into his blood. He knows that this relationship is terrible and that he wants to turn back. However, it is as if his body almost stops him in his tracks; almost as if something deep inside him is preventing him from acting. The protagonist pulls back on the argument and blames nature for where he is right now. In this moment he believes he is born to . 
+Sickle cell disease (SCD) is a genetic blood disorder where abnormal hemoglobin is generated in blood cells, which ultimately leads to organ failure and a shortened lifespan [Sickle Cell Source]. However, the author here does not mean for this section to be taken literally. SCD is instead used as a metaphor for hereditary behaviors. Even though the strife he faces was not predetermined, he feels the way he reacts and copes with the the problems in his life is built into his blood. He knows that this relationship is terrible and that he wants to turn back. However, it is as if his body almost stops him in his tracks; almost as if something deep inside him is preventing him from acting. The protagonist pulls back on the argument and blames nature for where he is right now. In this moment he believes he is born to fall into this trap, rather than him being lead there by circumstance. 
 
 ```ad-quote
 title: **wetdream** 4:R:4-6
 So make it work tonight (*x3*)
 ```
 
-This represents a desperate surrender into 
-
-- A moment of desperate surrender
-- Even though he wants to pull away, his body does not let him, as he resigns back into the toxic cycle.
-- He wants one more nigh where the relationship feel functional, even if he has to use the drugs and alcohol to get there.
-- 
+This represents a desperate surrender into his abuser once more. Even though, with the full and sober intentions to pull away, his body does not let him as he resigns back into the toxic cycle once more. He begs for one more night to where the relationship feels functional again, even if he has to continuously drown himself in alcohol to get there. 
 
 ```ad-quote
 title: **wetdream** 4:O:1-2
 In time, we'll be fine
 Tomorrow's another day
 ```
+
+
 
 - A final line that sends off the song on a hollow, self-soothing mantra
 - The nail in the coffin where the narrator convinces himself to stay with the hope of it getting better by tomorrow.
