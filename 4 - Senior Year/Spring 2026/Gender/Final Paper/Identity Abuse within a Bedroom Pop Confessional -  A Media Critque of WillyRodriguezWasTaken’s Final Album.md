@@ -347,7 +347,7 @@ Waiting for change
 Waiting for you to come and love me (*x2*)
 ```
 
-The infatuation with his lover has gotten to the point where he has begun to neglect himself. He waits on his bedroom floor, wasting away as he waits for his lover to reciprocate his love. When combined with first verse explaining his living conditions, the protagonist has clearly not been taki
+The infatuation with his lover has gotten to the point where he has begun to neglect himself. He waits on his bedroom floor, wasting away as he waits for his lover to reciprocate his love. When combined with first verse explaining his living conditions, the protagonist has clearly not been taking care of himself as he can barely move. The phrase is repeated twice in a row as, like a black-hole, he does not receive any response and pleads once again to the void with some hope that  
 
 - The other person is infactuated with the other person to the point that they have been neglecting themselves
 - Comes further from the previous lines in the first verse
@@ -358,6 +358,8 @@ It's so nice
 Pretending like
 Pretending like the silence is still alive
 ```
+
+Even after no response, he continues to be hopeful and daydreams about how it was before 
 
 - Still wants be delusional even though the crush does not share the feelings with the protagonist
 - They still think that they will be able to get together regardless of the feelings being reciprocated or not
