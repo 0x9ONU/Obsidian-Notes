@@ -601,3 +601,23 @@ Even though they are not necessarily in a relationship with one another, the nar
 
 These lines reveal the narrator's painful awareness that his connection with the lover is fragile and undefined. The phrase "I just can't kill the thought of you / Being with someone else I knew" exposes his obsessive fear of abandonment and replacement. Even though they are not in a committed relationship, the narrator still craves emotional exclusivity — he wants to be more than just a sexual outlet, someone who is only valued for the physical intimacy they provide. The inability to "kill the thought" suggests that this anxiety is constant, intrusive, and unshakeable. It speaks to a deeper insecurity rooted in past trauma: the narrator has likely been discarded or used before, and now projects that fear onto every relationship. He is terrified of being deemed not good enough, of being replaced by someone who can offer what he cannot. This fear of emotional disposability is a hallmark of identity abuse, where the victim's sense of worth is contingent on the abuser's validation. The narrator cannot simply enjoy the present moment because his mind is already anticipating the pain of being left behind.
 [Timestamp: 2026/05/06 20:59:39]
+
+**user**: 
+```ad-quote
+title: **wetdream** 1:C:9-16
+Say that you love me
+Even if you're lying (Fuck you) (*x4*)
+```
+
+In a desperate attempt to feel love, the protagonist comes up with a compromise with his crush. He would be okay if the love continued to be one-sided as long as his crush pretended to love him back. Even though it would be devastating if he found out, he would rather be lied into an illusion and not receive reciprocation rather than leaving.
+
+- Trying to bargain with their crush
+- They want it to be something, but would be okay if they did not reciprocate and just played along
+- Would rather be under an illusion than not be with them
+
+finish paragraph by addressing the (fuck yous) and how this bheavior is relevant
+[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
+[Timestamp: 2026/05/06 21:12:18]
+
+**ai**: The parenthetical “Fuck you” punctuating each plea is the narrator’s own internal voice of self‑loathing — a flash of awareness that he is debasing himself. Even as he begs for the illusion of love, a part of him knows how pathetic this bargain is. The “Fuck you” could be directed at the abuser for creating this dynamic, at the situation that has reduced him to this, or at himself for being willing to accept a lie. This internal conflict reveals that the narrator is not delusional; he knows the truth, but he chooses the lie because the alternative — being alone and unloved — is unbearable. This bargaining behavior is a classic symptom of identity abuse: the abuser has systematically eroded the narrator’s sense of self‑worth to the point where he believes he does not deserve authentic love. He is willing to accept a performance of affection, even a mocking one, because the abuser has convinced him that this is all he can hope for. The repeated “Fuck you” also echoes the cycle of abuse itself — a moment of clarity and self‑disgust that is immediately overridden by desperate longing. By the end of the chorus, the narrator has fully surrendered to the illusion, preferring a fabricated love to the void of rejection.
+[Timestamp: 2026/05/06 21:12:41]
