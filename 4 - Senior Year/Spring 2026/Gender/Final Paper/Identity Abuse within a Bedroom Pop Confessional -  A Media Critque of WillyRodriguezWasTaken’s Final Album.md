@@ -419,13 +419,7 @@ So smoke me out
 *Smoke me out of all this shit*
 ```
 
-The track reaches its first peak with a jarring double entendre that cuts through the haze of the instrumental. By weaponizing a slur against himself, the narrator shows his vulnerability as he cries over a girl who broke him. Feeling disposable and burnt-out like a used cigarette, the  This imagery leads seamlessly into the desperate plea to "smoke me out," a phrase that functions as both a literal surrender to his drug abuse and a metaphorical cry for erasure. He isn't just looking for a high; he is demanding to be extinguished. To him, the smoke from his weed and cigarettes acts as a chemical veil, a way to physically shroud the "shit" and "bad memories" of his abuser until they are unrecognizable. It is the ultimate admission of defeat: he has reached a point where the suffocating fog of permanent intoxication is infinitely more welcoming than the clarity of facing his own feelings.
-
-- Double entendre to the slur and a cigarette
-	- The narrator feels this way about himself because he is crying over a girl
-	- This goes with the next line of smoking out
-- Alludes to the narrator’s drug abuse with both weed and cigarettes and how he uses them to “smoke out” the bad memories he had with his abuser to help him forget
-- Better to be always not sober than facing their feelings
+The track reaches its first peak with a jarring double entendre that cuts through the haze of the instrumental. By weaponizing a slur against himself, the narrator shows his vulnerability as he cries over a girl who broke him. Feeling disposable and burnt-out like a used cigarette, he pleas to be “smoked out”, a phrase that functions as both a literal surrender to his drug abuse and a metaphorical cry for erasure. To him, the smoke from his weed and cigarettes acts as a veil, a way to physically shroud the bad memories of his lover until they are unrecognizable. It is the ultimate admission of defeat: he has reached a point where the suffocating fog of permanent intoxication is far more welcoming than the clarity of facing his own feelings. 
 ### Part 4: “So Make it Work Tonight”
 
 ```ad-quote
@@ -438,6 +432,8 @@ We'll watch some shitty sitcom
 I'll kiss her on the mouth
 Then I'll throw my arms around her
 ```
+
+After the large instrumentals of the third part secede, the fourth part begins with a slow ballad that begin to illustrate the protagonist’s true desires. The narrator begins to reminicise on the more simple parts of romance: watching shows together, laying next to each other, 
 
 - Reminiscing on the more simple parts of romance
 - Instead of being forced into more sexual encounters, the narrator really just wants the more simple stuff
