@@ -500,7 +500,7 @@ For seven years, I had to drink myself alive
 So I can work another boring 9 to 5
 ```
 
-For the first time in the album, the protagonist solidifies two things: (1) the length of his drug addiction, and (2) the amount of time he has been in the relationship. Assuming he started abusing drugs around the same time his relationship started to sour, . Additionally, his dependence on this abuser could be further explained by his economic shortcomings as he might not have enough money to move out on his own. In particular, LGBTQ+ people often have a more difficult time finding and keeping full-filling jobs due to homophobia and workplace discrimination [job source]. Once again, intersectionalism hurts the protagonist of the story as his multiple identities and traits makes him more vulnerable to multiple risks in his life.
+For the first time in the album, the protagonist solidifies two things: (1) the length of his drug addiction, and (2) the amount of time he has been in the relationship. Assuming he started abusing drugs around the same time his relationship started to sour, this means that this relationship has been contaminating his life for many years. Such a long history of abuse puts into context that the protagonist has been in a constant battle for many years. Additionally, his dependence on this abuser could be further explained by his economic shortcomings as he might not have enough money to move out on his own. In particular, LGBTQ+ people often have a more difficult time finding and keeping full-filling jobs due to homophobia and workplace discrimination [job source]. Once again, intersectionalism hurts the protagonist of the story as his multiple identities and traits makes him more vulnerable to multiple risks in his life. 
 
 - [insert job thing here]
 - Drinking problem that goes very far back
@@ -510,6 +510,8 @@ For the first time in the album, the protagonist solidifies two things: (1) the 
 title: **wetdream** 4:R:3
 My body's failing me one sickle cell at a time
 ```
+
+Sickle cell disease is a genetic blood disorder where abnormal hemoglobin is generated in blood cells, which ultimately leads to organ failure and a shortened lifespan [Sickle Cell Source]. However, the author here does not mean for this section to be taken literally. 
 
 - First time this is brought up
 - Sickle cell explanation here
