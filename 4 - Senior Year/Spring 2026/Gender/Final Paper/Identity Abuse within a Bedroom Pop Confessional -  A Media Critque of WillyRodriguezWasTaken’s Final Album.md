@@ -401,7 +401,7 @@ Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
 ```
 
-With this shift, the track invokes a classic tragedy, Romeo & Juliet [ROMEO AND JUILET SOURCE]. By labeling the lover as "Romeo," the lyrics hint at a a power imbalance that will eventually define the album’s tragic arc. The protagonist, occupying the vulnerable "Juliet" role, is forced into a desperate performance. Further, “everything but the kitchen sink” is a idiom where almost everything is taken, whether needed or not. “Get out the kitchen sink” implies that the lover is asking the protagonist to do everything in his power to secure her love. However, this love is fundamentally built on exploitation as she continues to lead him, almost like looking at a circus performance in the distance. 
+With this shift, the track invokes a classic tragedy, Romeo & Juliet [ROMEO AND JUILET SOURCE]. By labeling the lover as "Romeo," the lyrics hint at a a power imbalance that will eventually define the album’s tragic arc. The protagonist, occupying the vulnerable "Juliet" role, is forced to try and . Further, “everything but the kitchen sink” is a idiom where almost everything is taken, whether needed or not. “Get out the kitchen sink” implies that the lover is asking the protagonist to do everything in his power to secure her love. However, this love is fundamentally built on exploitation as she continues to lead him, almost like looking at a circus performance in the distance. 
 
 ```ad-quote
 title: **wetdream** 3:1:4-5
@@ -409,9 +409,7 @@ Just got a taste of her poison
 It's just a bong hit and a broken heart (So one more time!)
 ```
 
-- Continue reference to how Romeo drinks poison to commit suicide
-- Getting a taste of her poison has led the protag to begin to poison him
-- A “death” in a way of neglecting themselves due to drug abuse and a broken heart from what was left of the toxic relationship
+The Romeo & Juliet metaphor further leans into the inevitable "suicide" that follows such a volatile connection. In the play, Romeo, consumed by grief, ends up taking his own life with poison after thinking that Juliet was killed. It’s at this very moment the protagonist becomes infected by the very toxicity that broke him, beginning the slow process of poisoning himself from the inside out. This isn't a romantic sacrifice, but a "death" through total self-neglect. He trades his agency for the numbness as he uses drug abuse to hollow out the space where his lover used to be. The demand to go “one more time” serves as a haunting refrain. Even though he acknowledges the substances and the relationship are killing him, he is too far gone to reach for anything other than another dose of his own destruction.
 
 ```ad-quote
 title: **wetdream** 3:1:6-9
@@ -420,6 +418,8 @@ So smoke me out
 So smoke me out
 *Smoke me out of all this shit*
 ```
+
+
 
 - Double entendre to the slur and a cigarette
 	- The narrator feels this way about himself because he is crying over a girl
