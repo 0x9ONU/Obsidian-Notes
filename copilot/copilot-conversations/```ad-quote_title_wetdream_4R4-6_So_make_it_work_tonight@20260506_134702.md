@@ -571,3 +571,10 @@ I'm tired of waking up as friends
 - The narrator, on the other hand, wants it to be more than just that
 [Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
 [Timestamp: 2026/05/06 20:42:08]
+
+**ai**: This is a sharp reading. Let me expand it into a finished paragraph that connects to the album's broader themes:
+
+---
+
+The line "Let's head on back to sleep again / I'm tired of waking up as friends" serves as the song's emotional thesis and the narrator's first explicit admission of his romantic predicament. The desire to "head on back to sleep" is a wish to return to the safety of unconsciousness, where he does not have to confront the painful reality of his relationship. But there is also a double meaning here: "sleep" is a common euphemism for sex, and the narrator is caught in a cycle of physical intimacy that lacks the emotional commitment he craves. He is "tired of waking up as friends" — tired of the morning after, when the illusion of closeness fades and he is reminded that their connection is defined by sex, not love. The narrator desperately wants to be more than just a casual hookup, but he feels powerless to change the terms of their relationship. Rather than confronting his lover directly, he retreats into the temporary comfort of sleep — or into the drug-induced haze that numbs him to the loneliness he feels at dawn. This tension, between wanting real love and settling for whatever scraps of attention he can get, will define the narrator's arc throughout the song.
+[Timestamp: 2026/05/06 20:42:28]

@@ -301,7 +301,7 @@ Tried all night to get you out my mind
 I'm so tired; I couldn't shut my eyes
 ```
 
-The first lines of the song set the scene for where most of the album takes place and introduce a core theme that runs throughout the record: a lack of sleep caused by anxiety and obsessive rumination. The protagonist is found within his own bedroom, waking up after a long night of overthinking, unable to silence his thoughts long enough to rest. The bedroom, meant to be a sanctuary of rest, becomes yet another site of emotional turmoil and longing. As the protagonist “wakes up” from his rest, the audience can immediately tell the mood he is going to be in.
+The first lines of the song set the scene for where most of the album takes place and introduce a core theme that runs throughout the record: a lack of sleep caused by anxiety and being obsessed over someone. The protagonist is found within his own bedroom, waking up after a long night of overthinking, unable to silence his thoughts long enough to rest. The bedroom, meant to be a sanctuary of rest, becomes yet another site of emotional turmoil and longing. As the protagonist “wakes up” from his rest, the audience can immediately tell the mood he is going to be in.
 
 - Sets the scene of the song (bedroom again shocker)
 - Stayed up all night thinking about their lover
@@ -314,7 +314,7 @@ But I'll lie, sitting on my bedroom floor
 Thinking 'bout how long it took to wake him up
 ```
 
-Often when waking up, the phrase “rise and shine” is used to signal waking up in a positive way to a great day. However,  this phrase is then immediately contradicted by gross carpets that remind the narrator of what he did last night. This contrast sets a tone of bitter irony: there is nothing bright about this morning. Then, the first time the protagonist’s lover is mentioned in the 6th line. Here, the protagonist, much like how a beekeeper smokes out bees, is afraid that the lover attempting to force the narrator out of the bedroom.  Yet the narrator resists. He chooses to remain on the floor, paralyzed by exhaustion, waiting for his lover to awaken so he can continue his day. This opening verse establishes the narrator's passive refusal to engage with the world outside his bedroom, even as the squalor around him signals a troublesome life.
+Often when waking up, the phrase “rise and shine” is used to signal waking up in a positive way to a great day. However,  this phrase is then immediately contradicted by gross carpets that remind the narrator of what he did last night. This contrast sets a tone of bitter irony: there is nothing bright about this morning. Then, the first time one of the protagonist’s flings is mentioned in the 6th line. Here, the protagonist, much like how a beekeeper smokes out bees, is afraid that his fling is attempting to force the narrator out of the bedroom.  Yet he resists. He chooses to remain on the floor, paralyzed by exhaustion, waiting for his to awaken so he can continue his day. This opening verse establishes the narrator's passive refusal to engage with the world outside his bedroom, even as the squalor around him signals a troublesome life.
 
 ```ad-quote
 title: **wetdream** 1:C:1-2
@@ -322,16 +322,15 @@ Let's head on back to sleep again
 I'm tired of waking up as friends
 ```
 
-
-
-- Realizes that the feelings are one-sided OR that they are just friends-with-benefits
-- The narrator, on the other hand, wants it to be more than just that
+The beginning of the chorus serves as the song's emotional thesis and the narrator's first explicit admission of his romantic predicament. The desire to "head on back to sleep" is a wish to return to the safety of unconsciousness, where he does not have to confront the painful reality of his life. However, “sleep" is also a common euphemism for sex, and the narrator is caught in a cycle of physical intimacy that lacks the emotional commitment he craves. He is tired of the morning after, when the illusion of closeness fades and he is reminded that their connection is defined by sex, not love. The narrator desperately wants to be more than just a casual hookup, but he feels powerless to change the terms of their relationship. This tension, between wanting real love and settling for whatever scraps of attention he can get, will define the narrator's arc throughout the rest of the album.
 
 ```ad-quote
 title: **wetdream** 1:C:3-4
 I just can't kill the thought of you
 Being with someone else I knew
 ```
+
+Even though they are not necessarily in a relationship with one another 
 
 - Commitment issues
 - Afraid of letting his friend love someone else
