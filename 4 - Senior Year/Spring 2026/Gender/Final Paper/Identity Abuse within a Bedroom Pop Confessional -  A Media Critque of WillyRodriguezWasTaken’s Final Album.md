@@ -376,6 +376,8 @@ That mark was made for me
 
 In a turn of irony, healing itself becomes its own kind of heartbreak as the protagonist realizes that a fading scar is just another way of losing the person who gave it to him. The desperation to keep the memories that he has with this person becomes evident as he holds onto every remaining piece of his love. The lover has effectively weaponized the narrator’s devotion, gaslighting him into believing these marks are signatures of affection rather than symptoms of abuse. This emotional manipulation, even as seen by the audience, is yet to be seen by the protagonist as he continues to fall for her.
 
+Part 1 of "wetdream" functions as a devastating case study in the psychological mechanics of abuse within LGBTQ+ relationships, particularly for trans individuals. The song traces a single morning's cycle: from the protagonist's inability to sleep due to obsessive longing, through his desperate bargain to be lied to if it means hearing "I love you," to the sudden reveal that the lover he pines for is the same person kicking him for hours on end. Throughout, the abuser weaponizes the protagonist's vulnerabilities to maintain control: his fear of being forgotten, his porn-addled perception of love, his economic precarity (alluded to later in the track), and his desperate need to be claimed by someone. This aligns directly with the statistical realities outlined earlier—the Trevor Project reports that 54% of LGBTQ+ youth currently use at least one substance to cope, and depressive symptoms rose from 48% to 54% between 2023 and 2025. The protagonist's reliance on drugs ("these drugs make it fine") and his refusal to leave mirror these findings: like the 70% of LGBTQ+ students reporting persistent sadness in the CDC's YRBS data, he is not suffering from an inherent flaw, but from a cycle of abuse he has been conditioned to normalize. The line "I guess you've gotten used to it" chillingly confirms that this violence is routine, echoing the HCDVCC report's finding that psychological abuse is the most prevalent form of DVA in LGBTQ+ communities. Yet the song refuses tokenism: the protagonist is not a passive victim, but an active participant in his own delusion. He knows the silence is dead—he just pretends it isn't. He knows the bruises are abuse—he just hopes they never heal. By refusing to offer a clear moment of escape or redemption, "wetdream" avoids the sanitized narratives that would comfort a dominant audience. Instead, it presents the uncomfortable truth that for many survivors, love and abuse become so entangled that leaving is not a single decision, but a war fought every morning on a vomit-stained bedroom floor.
+
 ### Part 3: “Smoke Me Out”
 
 ```ad-quote
@@ -451,10 +453,8 @@ title: **wetdream** 4:2:1-2
 But these drugs make it fine
 ```
 
-Coming to this realization, the protagonist yet again is stuck awake at night thinking about what their relationship could have been. 
+Coming to this realization, the protagonist yet again is stuck awake at night thinking about what their relationship could have been. This time; however, he states explicitly that he is using his drugs of choice to forget about his longing and abuse he felt during the relationship.
 
-- Coming back to the earlier line how they were staying up all night thinking about their abuser
-- Using drugs to cover up feelings
 
 ```ad-quote
 title: **wetdream** 4:2:3-4
@@ -462,7 +462,7 @@ Tryna hide what's inside
 But it's eating me alive
 ```
 
-By trying to suppress the feelings, it is actively destroying his mental health from the inside out. There comes to a point where he has to be honest with himself
+By trying to suppress the feelings, it is actively destroying his mental health from the inside out. 
 
 ```ad-quote
 title: **wetdream** 4:B:1-2
