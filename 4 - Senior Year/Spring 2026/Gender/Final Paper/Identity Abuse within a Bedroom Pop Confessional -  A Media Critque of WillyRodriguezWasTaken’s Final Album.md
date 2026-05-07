@@ -476,25 +476,15 @@ They said scars weren't genetic (I love you, I love you)
 Just some aforementioned tragedy (I love you, I love you)
 ```
 
-The second line provides an important theme that is mentioned throughout the rest of the album’s runtime: the battle between destiny vs. tragedy. Up to this point, the protagonist thought that it was destiny to fall in love and get hurt by his abuse; almost as if it was in his nature to end up how he was. However, in a glimpse of sobriety, he instead realizes that a string of unfortunate choices and events led him to where he is. He does not blame fate; rather, he blames himself for letting this happen. His thoughts are reinforced by the first line as he admits that he was not born with the scars that he was given. In particular, this section of the song introduces the a nature vs. nuture debate: was he predetermined to be abused because of how he was born, or was  [English Men of Science: Their Nature and Nurture]. This has a lot of implications that will be discussed at the end of this part.
-
-```ad-quote
-title: **wetdream** 4:PC:1-4
-Oh, I love you more than I got
-And I've had enough
-So if you want some piece of heaven
-You can find it at the corner store
-```
-
-- Gave too much love and never got enough back
-- Corner store is often where cigs and alcohol are sold
-- Heaven is being equated to drugs
+The second line provides an important theme that is mentioned throughout the rest of the album’s runtime: the battle between destiny vs. tragedy. Up to this point, the protagonist thought that it was destiny to fall in love and get hurt by his abuse; almost as if it was in his nature to end up how he was. However, in a glimpse of sobriety, he instead realizes that a string of unfortunate choices and events led him to where he is. He does not blame fate; rather, he blames himself for letting this happen. His thoughts are reinforced by the first line as he admits that he was not born with the scars that he was given. In particular, this section of the song introduces the a nature vs. nuture debate: was he abused because of the traits he was born with, or was he abused because of the actions he took? [English Men of Science: Their Nature and Nurture]. This has a lot of implications that will be discussed at the end of this part.
 
 ```ad-quote
 title: **wetdream** 4:C:1-2
 'Cause I've been drinkin' all damn night  
 Just to repeat another "I love you" in spite
 ```
+
+Coming off this realization, the narrator begins to 
 
 - Using drugs to hide the trama he has built up with their abuser just so they can keep lying to themselves that they actually love them
 - The only way they can forget about the awful things they did to them
