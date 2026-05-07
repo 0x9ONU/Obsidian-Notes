@@ -401,12 +401,7 @@ Pass out, my little Romeo
 Tried hard to get out the kitchen sink (So one more time!)
 ```
 
-With this shift, the track invokes a classic tragedy, Romeo & Juliet [ROMEO AND JUILET SOURCE]. By labeling the lover as "Romeo," the lyrics hint at a a power imbalance that will eventually define the album’s tragic arc. The protagonist, occupying the vulnerable "Juliet" role, is forced into a desperate performance. “Get out the kitchen sink” is a literary device that hints the user is trying  They are forced to do everything in their power to secure a love that is fundamentally built on exploitation. 
-
-- Reference to Romeo & Juliet
-	- Age gap, first reference on what happens later in the album
-	- Romeo is the abuser
-- Doing everything to make them love them, but in a way likes when the protag does that to try and lead him on (furthering abuse)
+With this shift, the track invokes a classic tragedy, Romeo & Juliet [ROMEO AND JUILET SOURCE]. By labeling the lover as "Romeo," the lyrics hint at a a power imbalance that will eventually define the album’s tragic arc. The protagonist, occupying the vulnerable "Juliet" role, is forced into a desperate performance. Further, “everything but the kitchen sink” is a idiom where almost everything is taken, whether needed or not. “Get out the kitchen sink” implies that the lover is asking the protagonist to do everything in his power to secure her love. However, this love is fundamentally built on exploitation as she continues to lead him, almost like looking at a circus performance in the distance. 
 
 ```ad-quote
 title: **wetdream** 3:1:4-5
