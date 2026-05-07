@@ -283,7 +283,7 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 
 ## Intermission I: \*falling asleep on the phone\*
 
-Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that specifically split the album into two stories. This contrast will be highlighted throughout the rest of this analysis, starting with the titular, and most popular, song of the album.
+Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that specifically split the album into two stories. In particular, the second main character has a lot more nuance when it comes to his actions and choices throughout his section of the story. Unlike the black-and-white case seen before, the new character . This contrast will be highlighted throughout the rest of this analysis, starting with the titular, and most popular, song of the album.
 ## Song VII: wetdream
 
 The beginning of the second half of the album establishes the new character in the album. To ensure that there is no confusion with the previous main character, this character will be referred to as the protagonist with he/him pronouns.  
@@ -374,10 +374,7 @@ But I hope it never leaves
 That mark was made for me
 ```
 
-In a turn of irony, healing itself becomes its own kind of heartbreak as the protagonist realizes that a fading scar is just another way of losing the person who gave it to him. The desperation to keep the memories that he has with this person becomes evident as he holds onto every remaining piece of his love. The lover has effectively weaponized the narrator’s devotion, gaslighting him into believing these marks are signatures of affection rather than symptoms of abuse. This emotional manipulation, even as seen by the audience, is yet to be seen by the protagonist as he continues to 
-
-- Regardless of this, the scars that were given to them acts as a physical reminder as the healing/fading of the scar reminds them of their lover
-- However, it also further adds to the desperation the protag has to keep their memories alive with this person
+In a turn of irony, healing itself becomes its own kind of heartbreak as the protagonist realizes that a fading scar is just another way of losing the person who gave it to him. The desperation to keep the memories that he has with this person becomes evident as he holds onto every remaining piece of his love. The lover has effectively weaponized the narrator’s devotion, gaslighting him into believing these marks are signatures of affection rather than symptoms of abuse. This emotional manipulation, even as seen by the audience, is yet to be seen by the protagonist as he continues to fall for her.
 
 ### Part 3: “Smoke Me Out”
 
@@ -386,6 +383,8 @@ title: **wetdream** 3:1:1-2
 Furry porn has destroyed my mind
 I fell in love for the millionth time
 ```
+
+Starting out the third part of the song after a long instrumental break, the protagonist yells at the top of his lungs about one of his major 
 
 - This is the first hint to how the new protag has a severe porn addicition
 - Falling in love for the millionth time references how much they have seen, which completely warped their perception of love
