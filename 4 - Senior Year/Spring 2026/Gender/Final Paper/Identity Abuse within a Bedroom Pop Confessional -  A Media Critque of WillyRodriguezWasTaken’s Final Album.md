@@ -468,15 +468,15 @@ You'd want to see me gag (I love you, I love you)
 Dip my fingers to my tonsils and spill out bile (I love you, I love you)
 ```
 
-The track immediately plunges back into the graphic reality that the protagonist has to face. He offers a glimpse into the physical demands that the abuser has on him. While the act of being “gagged” can be a consensual shared kink, the lines here are intentionally blurred. The abuser seems to be not satisfied until he physically purges his bowel
-
-The track’s brief flirtation with normalcy is shattered as the lyrics plunge back into the graphic reality of the narrator's subjection. Here, the protagonist offers a harrowing glimpse into the physical demands of his abuser, where the lines between sexual intimacy and abuse are intentionally blurred. While the act of "gagging" might initially present as a shared kink, it is quickly pushed past the point of pleasure. The narrator illustrates how the abuser is not satisfied until it induces a physical purge of his bowels; it is a visceral, stomach-churning metaphor for how much of himself he is forced to give up. Even the possibility of an anorexia reference lingers in the subtext, suggesting a protagonist so desperate for control or approval that he is willing to hollow himself out entirely. Most chillingly, these descriptions are punctuated by the frantic, whispered parentheticals of "I love you," creating a sickening juxtaposition where the narrator’s profession of devotion is directly triggered by his own degradation.
+The track immediately plunges back into the graphic reality that the protagonist has to face. He offers a glimpse into the physical demands that the abuser has on him. While the act of being “gagged” can be a consensual shared kink, the lines here are intentionally blurred. The abuser seems to be not satisfied until he physically purges his bowels, which could be a metaphor for how much of himself he has to give up for her “love”. Most chillingly, these descriptions are laid out with the words “I love you” sprinkled throughout. Even though he realizes that the act is going too far, the protagonist keeps trying to reassure himself that his own degradation is normal.
 
 ```ad-quote
 title: **wetdream** 4:B:3-4
 They said scars weren't genetic (I love you, I love you)
 Just some aforementioned tragedy (I love you, I love you)
 ```
+
+The second line provides an important theme that is mentioned throughout the rest of the album’s runtime: the battle between destiny vs. tragedy. It is here that the protagonist realizes 
 
 - Scars not being genetic means they have to come from somewhere
 - The protag was not destined to be with this person, but instead it was a tragedy of events that led him to being hurt and scarred by this toxic relationship
