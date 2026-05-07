@@ -384,7 +384,7 @@ Furry porn has destroyed my mind
 I fell in love for the millionth time
 ```
 
-Starting out the third part of the song after a long instrumental break, the protagonist yells at the top of his lungs about one of his major vulnerabilities: his severe porn addiction. He has watched so much of it to the point his perception of love has been 
+Starting out the third part of the song after a long instrumental break, the protagonist yells at the top of his lungs about one of his major vulnerabilities: his severe porn addiction. He has watched so much of it to the point his perception of love has been entirely hollowed out, replaced by a hyper-fixated, simulated intimacy that he can’t replicate in the real world.  He is references the sheer volume of his consumption in the second line; it's a tragic admission where he 
 
 - This is the first hint to how the new protag has a severe porn addicition
 - Falling in love for the millionth time references how much they have seen, which completely warped their perception of love
