@@ -330,18 +330,15 @@ I just can't kill the thought of you
 Being with someone else I knew
 ```
 
-These lines reveal the narrator's painful awareness that his connection with the lover is fragile and undefined. The first phrase exposes his obsessive fear of abandonment and replacement. Even though they are not in a committed relationship, the narrator still craves emotional exclusivity. He wants to be move on from just just a sexual outlet and aspires to be valued for his love instead. The inability to "kill the thought" suggests that this anxiety is constant, intrusive, and unshakable. It speaks to a deeper insecurity rooted in past trauma: the narrator has likely been discarded or used before, and now projects that fear onto every relationship. He is terrified of being deemed not good enough, of being replaced by someone who can offer what he cannot. This fear of emotional disposability is a hallmark of identity abuse, where the victim's sense of worth is contingent on the abuser's validation. The narrator cannot simply enjoy the present moment because his mind is already anticipating the pain of being left behind.
-
-- Commitment issues
-- Afraid of letting his friend love someone else
-- He wants to be mutually exclusive and not to be used as someone that is only felt love during sex
-- Comes from trauma, as it will be explained later
+These lines reveal the narrator's painful awareness that his connection with the lover is fragile and undefined. The first phrase exposes his obsessive fear of abandonment and replacement. Even though they are not in a committed relationship, the narrator still craves emotional exclusivity. He wants to be move on from just just a sexual outlet and aspires to be valued as a partner instead. The inability to "kill the thought" suggests that this anxiety is constant, intrusive, and unshakable. It speaks to a deeper insecurity rooted in past trauma, which he will elaborate throughout the rest of this album. He is terrified of being deemed not good enough, of being replaced by someone who can offer what he cannot. 
 
 ```ad-quote
 title: **wetdream** 1:C:9-16
 Say that you love me
 Even if you're lying (Fuck you) (*x4*)
 ```
+
+In a desperate attempt to feel love, the protagonist comes up with a compromise with his crush. He would be okay if the love that
 
 - Trying to bargain with their crush
 - They want it to be something, but would be okay if they did not reciprocate and just played along
@@ -353,6 +350,8 @@ title: **wetdream** 1:2:1-6
 Waiting for change
 Waiting for you to come and love me (*x2*)
 ```
+
+
 
 - The other person is infactuated with the other person to the point that they have been neglecting themselves
 - Comes further from the previous lines in the first verse
