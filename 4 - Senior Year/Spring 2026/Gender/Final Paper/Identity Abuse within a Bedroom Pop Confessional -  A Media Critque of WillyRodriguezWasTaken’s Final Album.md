@@ -476,7 +476,7 @@ They said scars weren't genetic (I love you, I love you)
 Just some aforementioned tragedy (I love you, I love you)
 ```
 
-The second line provides an important theme that is mentioned throughout the rest of the album’s runtime: the battle between destiny vs. tragedy. Up to this point, the protagonist thought that it was destiny to fall in love and get hurt by his abuse; almost as if it was in his nature to end up how he was. However, in a glimpse of sobriety, he instead realizes that a string of unfortunate choices and events led him to where he is. He does not blame fate; rather, he blames himself for letting this happen. His thoughts are reinforced by the first line as he admits that he was not born with the scars that he was given. In particular, this section of the song introduces the a nature vs. nuture debate: was he abused because of the traits he was born with, or was he abused because of the actions he took? [English Men of Science: Their Nature and Nurture]. This has a lot of implications that will be discussed at the end of this part.
+The second line provides an important theme that is mentioned throughout the rest of the album’s runtime: the battle between destiny vs. tragedy. Up to this point, the protagonist thought that it was destiny to fall in love and get hurt by his abuse; almost as if it was in his nature to end up how he was. However, in a glimpse of sobriety, he instead realizes that a string of unfortunate choices and events led him to where he is. He does not blame fate; rather, he blames himself for letting this happen. His thoughts are reinforced by the first line as he admits that he was not born with the scars that he was given. In particular, this section of the song introduces the a nature vs. nurture debate: was he abused because of the traits he was born with, or was he abused because of the actions he took? [English Men of Science: Their Nature and Nurture]. This has a lot of implications that will be discussed at the end of this part.
 
 ```ad-quote
 title: **wetdream** 4:C:1-2
@@ -484,16 +484,15 @@ title: **wetdream** 4:C:1-2
 Just to repeat another "I love you" in spite
 ```
 
-Coming off this realization, the narrator begins to 
-
-- Using drugs to hide the trama he has built up with their abuser just so they can keep lying to themselves that they actually love them
-- The only way they can forget about the awful things they did to them
+Coming off this realization, the protagonist continues to come to his senses as he stops lying to himself about how his relationship was. To try and hid the trauma he got from his abuser, he would once again use drugs as a vice. He has reached a state of trauma-induced clarity where he can only utter 'I love you' while submerged in the very substance that is destroying him.
 
 ```ad-quote
 title: **wetdream** 4:C:3-4
 I dig my nails into my hands and squeeze them tight
 Just to remind myself I meant it once or twice
 ```
+
+Here, he admits that there was once a point in their relationship where it was healthy
 
 - There was a point in their relationship that  was healthy or at least neutral
 - However, he is reminiscing on this time as a way to keep pushing through the toxic and abusive parts of the relationship
