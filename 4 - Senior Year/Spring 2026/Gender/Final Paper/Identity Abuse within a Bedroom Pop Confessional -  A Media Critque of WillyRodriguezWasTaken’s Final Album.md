@@ -366,7 +366,7 @@ I've been kicking you for hours
 I guess you've gotten used to it
 ```
 
-Here is the line where the narrator starts to pull back part of the 
+Here is the line where the narrator starts to pull back part of the curtains he puts 
 
 - The protagonist gets significantly beat both physically and emotionally by their toxic crush
 - It happens so often that the protag just kind understands it to be the normal
