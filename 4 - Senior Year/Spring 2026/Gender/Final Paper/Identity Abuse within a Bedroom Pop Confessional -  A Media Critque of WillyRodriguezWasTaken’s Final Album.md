@@ -338,7 +338,7 @@ Say that you love me
 Even if you're lying (Fuck you) (*x4*)
 ```
 
-In a desperate attempt to feel love, the protagonist comes up with a compromise with his love. He would be okay if the love continued to be one-sided as long as his crush pretended to love him back. Even though it would be devastating if he found out, he would rather be lied into an illusion and not receive reciprocation rather than leaving. The parenthetical “Fuck you” punctuating each plea is the protagonist’s own internal voice of self‑loathing and a flash of awareness that he is debasing himself. Even as he begs for the illusion of love, a part of him knows how pathetic this bargain is. This internal conflict reveals that the protagonist is not delusional; he knows the truth, but he chooses the lie because the alternative as being alone and unloved is unbearable to him. 
+In a desperate attempt to feel love, the protagonist comes up with a compromise. He would be okay if the love continued to be one-sided as long as his crush pretended to love him back. Even though it would be devastating if he found out, he would rather be lied into an illusion and not receive reciprocation rather than leaving. The parenthetical “Fuck you” punctuating each plea is the protagonist’s own internal voice of self‑loathing and a flash of awareness that he is debasing himself. Even as he begs for the illusion of love, a part of him knows how pathetic this bargain is. This internal conflict reveals that the protagonist is not delusional; he knows the truth, but he chooses the lie because the alternative as being alone and unloved is unbearable to him. 
 
 ```ad-quote
 title: **wetdream** 1:2:1-6
@@ -374,7 +374,7 @@ But I hope it never leaves
 That mark was made for me
 ```
 
-In a turn of irony, healing itself becomes its own kind of heartbreak as the protagonist realizes that his fading scar acts like a t. The desperation to keep the memories that he has with this person becomes evident as he holds onto every remaining piece of his love. The lover has effectively weaponized the narrator’s devotion, gaslighting him into believing these marks are signatures of affection rather than symptoms of abuse. This emotional manipulation, even as seen by the audience, is yet to be seen by the protagonist as he continues to fall for her.
+In a turn of irony, healing itself becomes its own kind of heartbreak as the protagonist realizes that his fading scar is one of the last memories he has of his abuser. The lover has effectively weaponized the narrator’s devotion by gaslighting him into believing these marks are signatures of affection rather than symptoms of abuse. This emotional manipulation, even as seen by the audience, is yet to be seen by the protagonist as he continues to fall for her.
 
 ### Part 3: “Smoke Me Out”
 
@@ -467,6 +467,8 @@ title: **wetdream** 4:B:1-2
 You'd want to see me gag (I love you, I love you)
 Dip my fingers to my tonsils and spill out bile (I love you, I love you)
 ```
+
+The track immediately plunges back into the graphic reality that the protagonist has to face. He offers a glimpse into the physical demands that the abuser has on him. While the act of being “gagged” can be a consensual shared kink, the lines here are intentionally blurred. The abuser seems to be not satisfied until he physically purges his bowel
 
 The track’s brief flirtation with normalcy is shattered as the lyrics plunge back into the graphic reality of the narrator's subjection. Here, the protagonist offers a harrowing glimpse into the physical demands of his abuser, where the lines between sexual intimacy and abuse are intentionally blurred. While the act of "gagging" might initially present as a shared kink, it is quickly pushed past the point of pleasure. The narrator illustrates how the abuser is not satisfied until it induces a physical purge of his bowels; it is a visceral, stomach-churning metaphor for how much of himself he is forced to give up. Even the possibility of an anorexia reference lingers in the subtext, suggesting a protagonist so desperate for control or approval that he is willing to hollow himself out entirely. Most chillingly, these descriptions are punctuated by the frantic, whispered parentheticals of "I love you," creating a sickening juxtaposition where the narrator’s profession of devotion is directly triggered by his own degradation.
 
