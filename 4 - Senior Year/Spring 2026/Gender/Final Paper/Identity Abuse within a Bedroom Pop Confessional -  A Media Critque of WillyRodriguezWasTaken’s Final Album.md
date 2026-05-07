@@ -476,11 +476,7 @@ They said scars weren't genetic (I love you, I love you)
 Just some aforementioned tragedy (I love you, I love you)
 ```
 
-The second line provides an important theme that is mentioned throughout the rest of the album’s runtime: the battle between destiny vs. tragedy. It is here that the protagonist realizes 
-
-- Scars not being genetic means they have to come from somewhere
-- The protag was not destined to be with this person, but instead it was a tragedy of events that led him to being hurt and scarred by this toxic relationship
-- They do not blame fate, but rather blames themselves for getting to this point
+The second line provides an important theme that is mentioned throughout the rest of the album’s runtime: the battle between destiny vs. tragedy. Up to this point, the protagonist thought that it was destiny to fall in love and get hurt by his abuse; almost as if it was in his nature to end up how he was. However, in a glimpse of sobriety, he instead realizes that a string of unfortunate choices and events led him to where he is. He does not blame fate; rather, he blames himself for letting this happen. His thoughts are reinforced by the first line as he admits that he was not born with scars as he was
 
 ```ad-quote
 title: **wetdream** 4:PC:1-4
