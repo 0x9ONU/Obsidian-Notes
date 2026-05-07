@@ -443,7 +443,7 @@ If I said I really loved you all the time
 It's all the time (*x3*)
 ```
 
-
+Here, the protagonist cries out how he still genuinely loves his abuser. Him admitting that he is “dumb” in doing so further cements how, in this moment of clarity, he realizes that she is flawed and not a good partner for him. He is fully aware of the absurdity of his devotion, acknowledging that loving someone who leaves bruises is not right. Yet, he continuously reassures himself in the last three lines. Even though everything that happened to him, he even loves her at the worst point of the relationship. The rhythmic repetition of "it's all the time" transforms the sentiment from a romantic confession into a haunting psychological sentence; it suggests that his love isn't a choice, but a chronic condition that persists through the trauma, the drugs, and the "poison." He is anchored to his own destruction, trapped in a loop where his heart refuses to catch up to the reality of his scars.
 
 - And regardless of what the abuser has done to the narrator, they still continue to love her
 - The triple all the time brings out that he is genuine in his statement
@@ -453,6 +453,8 @@ title: **wetdream** 4:2:1-2
 'Cause I've been lovesick all night  
 But these drugs make it fine
 ```
+
+
 
 - Coming back to the earlier line how they were staying up all night thinking about their abuser
 - Using drugs to cover up feelings
