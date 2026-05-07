@@ -384,7 +384,7 @@ Furry porn has destroyed my mind
 I fell in love for the millionth time
 ```
 
-Starting out the third part of the song after a long instrumental break, the protagonist yells at the top of his lungs about one of his major 
+Starting out the third part of the song after a long instrumental break, the protagonist yells at the top of his lungs about one of his major vulnerabilities: his severe porn addiction. He has watched so much of it to the point his perception of love has been 
 
 - This is the first hint to how the new protag has a severe porn addicition
 - Falling in love for the millionth time references how much they have seen, which completely warped their perception of love
@@ -460,7 +460,7 @@ It's all the time (*x3*)
 ```
 
 - And regardless of what the abuser has done to the narrator, they still continue to love her
-- The triple all the time brings out that they 
+- The triple all the time brings out that he is genuine in his statement
 
 ```ad-quote
 title: **wetdream** 4:2:1-2
