@@ -41,5 +41,13 @@ File Folder: Final Exam
 
 **Question Types**: Multiple choice, fill in the blank, true/false, etc.
 
-## Challenging
+## Challenging Questions
+- Find composition
+- Eutetic
+	- Weight fraction of primary alpha or beta
+	- Weight fraction of eutectic alpha and eutectic beta
+- Fe-C
+	- Weight fraction of primary ferrite or cementite
+	- Weight fraction of pearlite
+
 
