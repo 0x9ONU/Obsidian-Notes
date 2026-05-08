@@ -735,24 +735,19 @@ The choice is yours to live with it
 Coming off the confession, the protagonist says one of the strongest hitting lines of the whole album. Even though the abuser decided to hurt him so badly, he retaliates by implying they will have to live with the guilt for the rest of their life. Like a psychological mirror, the abuser inflicting violence upon the victim will inevitably rebound as mental trauma. Even if the pain is not equally distributed, the protagonist accepts that, in time, life might take revenge on his abuser for him. The “choice” he offers is an acknowledgement that it was her fault as well, which contrasts the previous line of the song.
 
 ```ad-quote
-title: **revisited** 2:1:24-25
+title: **revisited** 2:1:24-31
 You'll find it down between your legs
 When I touch you there, you seem to flinch
-```
-
-
-
-- The abuser touching them on their legs reminds them of what has happened before or after
-- The flinch is a physical response of that
-
-```ad-quote
-title: **revisited** 2:1:26-31
 Castrated boy, you filtered kid
 You'll strip your clothes and live with it
 
 You'll live with it (*x4*)
 ```
 
+The protagonist acknowledges, that even to this day, anyone who remotely gets intimate with him will 
+
+- The abuser touching them on their legs reminds them of what has happened before or after
+- The flinch is a physical response of that
 - Specifically calls out that the narrator is a trans man for the first time in the whole album
 	- Statistics here regarding sexual abuse
 	- Recognize that transmen are even more transparent than other demographics due to heteronormativity
