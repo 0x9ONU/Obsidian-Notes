@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"7db4a46ede454e5a","x":-340,"y":-140,"width":250,"height":60,"type":"text","text":"Raw .txt Files (20k Packets Each)"},
-		{"id":"9373bd2d3a26d982","x":-20,"y":-140,"width":250,"height":60,"type":"text","text":"Flow Converstion"},
+		{"id":"7db4a46ede454e5a","type":"text","text":"Raw .txt Files (20k Packets Each)","x":-340,"y":-140,"width":250,"height":60},
+		{"id":"9373bd2d3a26d982","type":"text","text":"Flow Converstion","x":-20,"y":-140,"width":250,"height":60},
 		{"id":"9beef98b7df24bdb","type":"text","text":"Processed .csv Files\n- X_train\n- X_test\n- y_train\n- y_test","x":820,"y":20,"width":250,"height":279},
-		{"id":"3fb1cfafe4732bba","x":230,"y":20,"width":250,"height":279,"type":"text","text":"Raw .csv Files\n- Start\n- End\n- Interval Duration\n- Syncs\n- Acks\n- Data Packet Count\n- Missing Slots\n- Max Data Gap\n- Min Data Gap"},
-		{"id":"c11ca72229547ed4","x":520,"y":-140,"width":250,"height":60,"type":"text","text":"Data Preprocessing"},
-		{"id":"048742b9580fcc1a","x":1380,"y":41,"width":250,"height":238,"type":"text","text":"Models\n- Linear Regression\n- Random Forest\n- SVM\n- KNN\n- Naive Bayes"},
-		{"id":"028ffcc6dd9f2594","x":1100,"y":-140,"width":250,"height":60,"type":"text","text":"Model Training"},
-		{"id":"b30d3d4cd5c811c9","x":1700,"y":-140,"width":250,"height":60,"type":"text","text":"Model Testing"},
-		{"id":"f1870291abb9c6f8","x":2140,"y":-140,"width":250,"height":60,"type":"text","text":"Predictions on New Traffic"}
+		{"id":"3fb1cfafe4732bba","type":"text","text":"Raw .csv Files\n- Start\n- End\n- Interval Duration\n- Syncs\n- Acks\n- Data Packet Count\n- Missing Slots\n- Max Data Gap\n- Min Data Gap","x":230,"y":20,"width":250,"height":279},
+		{"id":"c11ca72229547ed4","type":"text","text":"Data Preprocessing","x":520,"y":-140,"width":250,"height":60},
+		{"id":"048742b9580fcc1a","type":"text","text":"Models\n- Linear Regression\n- Random Forest\n- SVM\n- KNN\n- Naive Bayes","x":1380,"y":41,"width":250,"height":238},
+		{"id":"028ffcc6dd9f2594","type":"text","text":"Model Training","x":1100,"y":-140,"width":250,"height":60},
+		{"id":"b30d3d4cd5c811c9","type":"text","text":"Model Testing","x":1700,"y":-140,"width":250,"height":60},
+		{"id":"f1870291abb9c6f8","type":"text","text":"Predictions on New Traffic","x":2140,"y":-140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8ada835813602da1","fromNode":"7db4a46ede454e5a","fromSide":"right","toNode":"9373bd2d3a26d982","toSide":"left"},
