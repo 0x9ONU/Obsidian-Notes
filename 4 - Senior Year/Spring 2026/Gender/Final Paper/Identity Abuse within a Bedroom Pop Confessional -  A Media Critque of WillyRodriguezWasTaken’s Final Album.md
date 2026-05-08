@@ -548,7 +548,7 @@ These bodies could be
 Intertwined with our pulses
 ```
 
-The beginning verse of the song starts of strong by setting the scene for the rest of the song. The protagonist is set in the bedroom thinking about when him and his abuser had sexual relations with each other. Here, a primary theme of this song is laid out: a feeling of post-coital shame. The protagonist has an explicit fear of being seen in such a raw, vulnerable, and messy state after sex. He is trying to feel the pleasure from doing such an act, but the thought of how it looks from the outside makes him feel exposed and ugly. He wants to connect with his partner on a level like this, but he is ultimately ashamed of showing his true self to his lover. Note how the protagonist is still caught up on the more intimate parts of his relationship. In a way, he is covering up the negative parts of his relationship with the feelings of 
+The beginning verse of the song starts of strong by setting the scene for the rest of the song. The protagonist is set in the bedroom thinking about when him and his abuser had sexual relations with each other. Here, a primary theme of this song is laid out: a feeling of post-coital shame. The protagonist has an explicit fear of being seen in such a raw, vulnerable, and messy state after sex. He is trying to feel the pleasure from doing such an act, but the thought of how it looks from the outside makes him feel exposed and ugly. He wants to connect with his partner on a level like this, but he is ultimately ashamed of showing his true self to his lover. Note how the protagonist is still caught up on the more intimate parts of his relationship. In a way, he is masking the more negative parts of the relationship, much like how he cannot show his true self around his abuser.
 
 - Post-coital shame
 - Fear of being seen and showing the raw, vulnerable, and messy state after sex
@@ -561,7 +561,7 @@ title: **lost in translation** 1:1:10
 If you do love me so (These drugs)
 ```
 
-
+It is at this point in the album where the audience can start to see the consequences of the protagonist’s drug abuse. He has begun to equate drugs with the feeling of love itself. As seen before in “[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song VII wetdream|wetdream]]”, he ends up using both alcohol, cannabis, and nicotine to cover up 
 
 - Here is the first time where the narrator begins to equate drugs with the feeling of love
 - He used drugs so much to cover up the shame, abuse, and more to the point he equates the feelings he gets with them with love itself, much like how porn has messed up his perception
@@ -580,8 +580,9 @@ Blood down my throat
 Prayin' some kind of angel will slit it tonight
 ```
 
-- The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure — a stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
+- The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure.  A stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
 - A desperate attempt to leave the relationship is by suicide
+- He thinks the only way to leave is by ending it all because he could not take the shame and hurt from letting it end
 
 ```ad-quote
 title: **lost in translation** 1:2:3-4
