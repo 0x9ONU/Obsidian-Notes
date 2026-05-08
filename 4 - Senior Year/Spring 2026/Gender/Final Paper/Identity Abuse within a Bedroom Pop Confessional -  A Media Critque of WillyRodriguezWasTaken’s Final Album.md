@@ -667,15 +667,7 @@ title: **revisited** 1:1:1
 *Here we go. I like you, Neil. I like you so much. When I really, really like someone... there's a way l show them how I feel. Shhh...*
 ```
 
-The beginning of the song begins with an audio sample taken from the movie Mysterious Skin (2004). This coming-of-age story directed by Gregg Araki is special as it has a dark twist when compared to other movies around the time: Neil McCormick and Brian Lackey, the two main characters, were victims of sexual abuse. Much like this album, the film follows two characters who have to face sexual abuse in their own way. For the lines specifically, it comes from a scene where Neil’s Little League coach is about to sexually abuse him. By substituting words with media, the protagonist signals that the magnitude of his trauma has rendered conventional language insufficient to articulate his experience.
-
-
-[SOURCE]
-
-- A direct audio sample from the movie Mysterious Skin (2004). 
-- The lines are said by a Little League coach, played by Bill Sage, as he’s about to sexually abuse the character Neil McCormick, played in this scene by Chase Ellison.
-- It deals directly with pedophilia and sexual assault. It is a difficult watch, intended to be provocative and deeply emotional rather than exploitative.
-- As the film progresses, their paths converge as Brian seeks the truth about his past and Neil is forced to confront the reality of the abuse he normalized.
+The beginning of the song begins with an audio sample taken from the movie Mysterious Skin (2004). This coming-of-age story directed by Gregg Araki is special as it has a dark twist when compared to other movies that came before it: Neil McCormick and Brian Lackey, the two main characters, were victims of sexual abuse. Much like this album, the film follows two characters who have to face sexual abuse by either drowning themselves in substances . It is a difficult watch for most as it is intended to be provocative and shows the reality of how abuse at a young age shapes a person for the worst. For the lines specifically, it comes from a scene where Neil’s Little League coach is about to sexually abuse him. By utilizing a clip of media, the protagonist signals that words alone cannot describe his trauma [SOURCE].
 ### Part 2: Admission
 
 ```ad-quote
