@@ -674,6 +674,9 @@ You know I love you
 So why don't you love me too?
 ```
 
+The protagonist exists in a state of stagnant decay as he waits for a validation that is strategically withheld. He is constantly worried about his abuser not reciprocating feelings 
+
+
 - The protag is constantly worried about his abuser not reciprocating feelings and keeps on wasting away his life waiting to hear back from them
 - Realizes that the abuser, even after all of this, barely cares to even give proper replies to their victim
 - At this point, he realizes that the abuser, regardless of how much effort he puts in, will always keep on leading him on
@@ -1083,6 +1086,7 @@ The drug I feel I wouldn't want
 - Religion
 - Workplace
 - Disease/Healthcare
+- Musicality
 
 # Conclusion
 
