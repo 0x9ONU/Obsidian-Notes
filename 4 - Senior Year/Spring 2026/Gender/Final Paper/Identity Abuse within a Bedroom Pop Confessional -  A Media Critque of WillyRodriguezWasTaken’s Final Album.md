@@ -629,7 +629,7 @@ And burn all our clothes
 'Til we fight, 'til we're screamin'
 ```
 
-Ending off the second verse, the abuser’s voice begins to become purely destructive, which is also indicative of his perception of his relationship. The protagonist begins to break down as he realizes that deep down his abuser did not care about him; rather, that he was only seen as an object of lust. One last time, she tries to sexually assault him once more through his own thoughts as she forces him to strip down to his bare-self and emotions. The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. Taken from an identity abuse standpoint, clothes also in particular are a huge part of how people express both their gender and social identity. The burning of clothes could represent how the abuser wants to erase the protagonist’s identity entirely 
+Ending off the second verse, the abuser’s voice begins to become purely destructive, which is also indicative of his perception of his relationship. The protagonist begins to break down as he realizes that deep down his abuser did not care about him; rather, that he was only seen as an object of lust. One last time, she tries to sexually assault him once more through his own thoughts as she forces him to strip down to his bare-self and emotions. The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. Taken from an identity abuse standpoint, clothes also in particular are a huge part of how people express both their gender and social identity. The burning of clothes could represent how the abuser wants to erase the protagonist’s identity entirely at all costs. This allowed her to forcibly replace all he had left with her. This idea will be explored later on as well, which further validates this theory.
 
 - These lines capture the moment where the relationship has become purely destructive. 
 - The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
@@ -645,6 +645,8 @@ You love me so (I love you)
 It's gotta go (I love you)
 I feel so ugly (I love you)
 ```
+
+After the break down, the abuser’s voice tries to reconcile with the protagonist, but repeating the words “I love you” over and over again throughout the verse. As the voice pleads for forgiveness, the protagonist himself feeling so ugly and worthless as he is tempted to continue th
 
 - Along with the line “This dumb temptation” and the I love yous, this could be in reference to how many victims of sexual abuse feel like their body is worthless or ugly without that abuse.
 - He feels so ugly being without his abuser, as the I love you’s continue to trickle in through the rest of the verse
