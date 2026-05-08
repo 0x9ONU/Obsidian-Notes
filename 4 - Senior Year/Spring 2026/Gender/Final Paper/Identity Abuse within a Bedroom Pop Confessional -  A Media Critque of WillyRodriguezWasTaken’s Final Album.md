@@ -718,20 +718,14 @@ I'll shut my eyes and open wide
 I'll swallow whole your sour wine
 ```
 
-The callback continues as he begins to deconstruct exactly what happened to him. He remembers when he began to recognize the cycle of abuse when his abuser would make it a continuous occurrence. He begins to realize that he gave up his autonomy to become his abuser’s object rather than a person, leading her to hurting him to the point of being bloody. 
-
-- Realizing that it is around the time the abuser will begin to start making moves on the victim
-- He begins to recognize the cycle of abuse and does not want it to happen
-- The offender doesn’t see the person they’ve assaulted as human, referring to them as “meat.” 
-- It’s common for people who rape or murder to see others as lesser beings.
-- The narrator begins to realize that they were being used more as an object rather than a person and how violently they were abuse.
-- Recounting the events
-- Giving into the abuse and letting it flow over
+The callback continues as he begins to deconstruct exactly what happened to him. He remembers when he began to recognize the cycle of abuse when his abuser would make it a continuous occurrence. He begins to realize that he gave up his autonomy to become his abuser’s object rather than a person, leading her to hurting him to the point of being bloody. Powerless and fully given to her, he remembers just getting into the routine of following her orders regardless of how much it hurt him both physically and mentally.
 
 ```ad-quote
 title: **revisited** 2:1:21
 That sickle cell that says you're mine
 ```
+
+This line is a reference back to the debate brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 4 “So Make it Work Tonight”| Part 4 of “wetdream”]]: was the protagonist hereditarily destined to get hurt and give into drug addiction, or was it the choices that he made that led him here? Once again, the scales tip back towards nature as he re-affirms that it is his inherited traits that keep bringing him back to the abuser. 
 
 - Going back to wetdream
 - Going back to the debate whether or not some things are nature and are hereditary vs. nurture and happened because of the choices he made
