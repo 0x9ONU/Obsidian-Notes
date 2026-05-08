@@ -646,7 +646,7 @@ It's gotta go (I love you)
 I feel so ugly (I love you)
 ```
 
-After the break down, the abuser’s voice tries to reconcile with the protagonist, but repeating the words “I love you” over and over again throughout the verse. As the voice pleads for forgiveness, the protagonist himself feeling so ugly and worthless as he is tempted to continue th
+After the break down, the abuser’s voice tries to reconcile with the protagonist, but repeating the words “I love you” over and over again throughout the verse. As the voice pleads for forgiveness, the protagonist himself feeling so ugly and worthless as he is tempted to continue the cycle once again. Often, victims of sexual abuse feel the pull back towards their abusers as they feel empty without them, which is known as Stockholm syndrome [SOURCE]. With this pain, he contemplates going back.
 
 - Along with the line “This dumb temptation” and the I love yous, this could be in reference to how many victims of sexual abuse feel like their body is worthless or ugly without that abuse.
 - He feels so ugly being without his abuser, as the I love you’s continue to trickle in through the rest of the verse
@@ -658,6 +658,8 @@ Caused by chemicals in the limbic system
 Similar to the use of drugs
 Or any prerequisite that matches lust
 ```
+
+Bridging the gap between biological impulse and psychological ruin, the protagonist maneuvers through a deconstruction of his own emotions. By framing his euphoria through the lens of the limbic system, he equates his connection with his abuser to only chemical signals flashing in his brain. Not only does he compares love to his drug addiction, he also 
 
 - Second comparison to the feeling of love/lust and how drugs make the protag feel
 - In a more scientific way this time tho
