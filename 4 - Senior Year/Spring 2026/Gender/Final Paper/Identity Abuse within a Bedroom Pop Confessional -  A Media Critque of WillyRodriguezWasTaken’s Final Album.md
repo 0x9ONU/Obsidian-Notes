@@ -771,18 +771,15 @@ Who's to say I know myself
 When I've forgotten how to live
 ```
 
-Here, the protagonist really puts into perspective how badly he has been manipulated by his abuser. He was so reliant on his abuser to provide their identity that he lost his identity himself. Even if the narrator does not realize this right now, this behavior is a clear deliberate attempt 
-
-- He was so reliant on their abuser to provide their identity that they lost their identity himself
-- He needs someone to give him meaning after being manipulated for so long 
-- It is also a way for the abuser to control their life, as they started to lose their friends
-- If anything, even if the narrator does not know this, it is a clear deliberate attempt by the abuser to get him to this point 
+Here, the protagonist really puts into perspective how badly he has been manipulated by his abuser. He was so reliant on his abuser to provide their identity that he lost his identity himself. Even if the narrator does not realize this right now, this behavior is a clear deliberate attempt by the abuser to get him to this point. The abuser sought control over his life as his friends began to leave him. She recognized this distinction and used it to strip him entirely of who he was in an attempt to get more out of him.
 
 ```ad-quote
 title: **revisited** 3:1:11-12
 Leave the vice on the couch
 So you can shoot it in our veins
 ```
+
+Based on the specific usage words here, this is the first time album mentioned a drug that is more dangerous and prolific than anything else: opi
 
 - First time a harder drug was mentioned on the album
 - Assuming the time this came out, this is most likely some sort of opioid 
