@@ -658,7 +658,7 @@ Struggling against his deep attachment, the protagonist tries to hold onto the l
 
 ## Song XIII: revisited
 
-This 20-minute masterpiece is what rounds off the struggles for the protagonist. It is where the artist blows all the smoke out of the way and reveals to the audience what he has experienced. Broken up into seven parts, it represents multiple different parts of the protagonists life as he experiences 
+This 20-minute masterpiece is what rounds off the struggles for the protagonist. It is where the artist blows all the smoke out of the way and reveals to the audience what he has experienced. Broken up into seven parts, it represents different parts of the protagonists life as he recounts his experiences with one of the worst situations a person could ever go through: statutory rape as a young child. This conclusionary song both opens and closes 
 
 - This is the part of the album where the narrator tears all the curtains back and reveals to the audience on what they have experienced
 - The climax and uncomfy resolution of the album
