@@ -704,10 +704,7 @@ Could have felt so nice
 Don't make me if you feel too sore tonight
 ```
 
-However, the cycle once again turns over once again as the protagon
-
-- It could have felt so nice if it was done with consent and with proper love instead of hate
-- Now instead, the narrator pleas to not have any sexual encounters tonight and hopes that the abuser is finally too sore/tired to do anything
+However, the cycle once again turns over once again as the protagonist reminisces on his past love. He wishes that it did not turn out this way as their relationship could have flourished if it was different. He wishes he could have had the opportunity to build the relationship up to the point where he could have healthily consented. Instead, the protagonist remembers the pleas he had to make and the hope that she is too tired to do anything to him.
 
 
 ```ad-quote
@@ -720,6 +717,8 @@ That bloody taste, so violently
 I'll shut my eyes and open wide
 I'll swallow whole your sour wine
 ```
+
+The callb
 
 - Realizing that it is around the time the abuser will begin to start making moves on the victim
 - He begins to recognize the cycle of abuse and does not want it to happen
