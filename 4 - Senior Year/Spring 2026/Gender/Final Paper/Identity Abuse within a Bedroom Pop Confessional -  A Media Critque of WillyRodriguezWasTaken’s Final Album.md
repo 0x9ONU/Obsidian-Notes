@@ -587,7 +587,7 @@ Blood down my throat
 Prayin' some kind of angel will slit it tonight
 ```
 
-Starting the next verse, the protagonist tries to find other ways out of the cycle he put himself into. Out of desperation, he chooses to attempt self-deliverance. He is  After the attempt, he feels the damage he did as blood drains down his esophagus. Out of fear, he begs for someone to fisish the job he started. The angel, in this, is a stand-in for a rescue 
+Starting the next verse, the protagonist tries to find other ways out of the cycle he put himself into. Out of desperation, he chooses to attempt self-deliverance. He is so overcome with shame and longing, at this point, he believes that this was the only way out.  After the attempt, he feels the damage he did as blood drains down his esophagus. Out of fear, he begs for someone to finish the job he started. The angel he prays to is a stand-in for a rescue that never comes by his side. He wants someone to make the pain end at all costs, even if that pain is ended by tragedy.
 
 - The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure.  A stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
 - A desperate attempt to leave the relationship is by suicide
@@ -599,8 +599,12 @@ But it's always a fight just to provе that I might
 Is all that is needed to fuck up my life
 ```
 
-- These lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuser (or the social system) holds the power to destroy it with a single word. The “fight” is not for love, but for survival — and he’s losing.
-- A mere accusation of him trying to pull away from the relationship from his abuser will make him spiral further into depression.
+
+
+- These lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuser (or the social system) holds the power to destroy it with a single word. 
+- The “fight” is not for love, but for survival
+- It is a losing battle
+- A mere accusation of him trying to pull away from the relationship from his abuser will make him spiral further into depression and self-harm.
 
 ```ad-quote
 title: **lost in translation** 1:2:5-8
