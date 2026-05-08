@@ -685,7 +685,7 @@ And the drugs you take are never enough (Oh, I)
 And the drugs you make are never enough (Oh, I) (*x2*)
 ```
 
-Up to this point, the protagonist would lean on their drug addiction to help them forget about their past. Howe
+Up to this point, the protagonist would lean on their drug addiction to help them forget about their past. However, regardless of how large their doses get, the thoughts keep on resurfacing as he struggles to cope with them. He also begins to realize that it is a lost cause to keep the thoughts away as he is about to reveal the truth throughout the rest of the song.
 
 - Starting the realize that regardless of how many drugs they take to forget their trauma and abuse, it keeps coming back to them
 - It is a lost cause to hide it, as he is about to reveal the truth
@@ -695,6 +695,8 @@ title: **revisited** 2:1:9-10
 Rape me
 Your suicidе can't take me
 ```
+
+The first half of the secret is revealed on this line: the protagonist 
 
 - The first reveal that the abuser went all the way 
 - A challenge against the abuser and a way to reclaim agency
