@@ -744,15 +744,7 @@ You'll strip your clothes and live with it
 You'll live with it (*x4*)
 ```
 
-The protagonist acknowledges, that even to this day, anyone who remotely gets intimate with him reminds them of their abuser. The way he flinches, as brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song IX lost in translation|“lost in translation”]], has hurt any further relations he has had with other people because he cannot look past the traumatic sexual experiences he had. On another hand, this section is particularly important since this is the first time that the album acknowledges that second character is a trans man. 
-
-- The abuser touching them on their legs reminds them of what has happened before or after
-- The flinch is a physical response of that
-- Specifically calls out that the narrator is a trans man for the first time in the whole album
-	- Recognize that transmen are even more transparent than other demographics due to heteronormativity
-- Filtered kid refers to HRT/hormone blockers
-- You’ll live with it repeating reinforces the statement from earlier
-
+The protagonist acknowledges, that even to this day, anyone who remotely gets intimate with him reminds them of their abuser. The way he flinches, as brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song IX lost in translation|“lost in translation”]], has hurt any further relations he has had with other people because he cannot look past the traumatic sexual experiences he had. On another hand, this section is particularly important since this is the first time that the album acknowledges that second character is a trans man. The filtering, in this case, refers to how he is on hormone replacement therapy (HRT) and/or hormone blockers as castrated means he still has the genitals he was assigned at birth. This particularly gives a lot of context as, out of everyone in the LGBTQ+ community, trans men are often even more transparent when it comes to abuse due to them being men [SOURCE]. They often fall onto the heteronormative spectrum just as normal men do and suffer the same consequence: a lack of support systems. Finally, this section of the song ends off repeating the same line from earlier, meaning that the protagonist has begun to find solace in the idea of karma on day returning its favor. 
 ### Part 3: Denial
 
 ```ad-quote
@@ -761,6 +753,8 @@ God knows I've wronged
 Took many of my friends
 And traded 'em for drugs
 ```
+
+
 
 - “The singer turned to drugs as a way to escape their emotional pain, eventually falling into addiction. This struggle caused many of their friends to drift away, leaving behind the impression that they had traded meaningful relationships for their reliance on substances.” - something my brother brought up
 - Addictions do not help your social life, which further leads the protag into depression and self-loathing
