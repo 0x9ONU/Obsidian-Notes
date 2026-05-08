@@ -696,7 +696,7 @@ Rape me
 Your suicidе can't take me
 ```
 
-The first half of the secret is revealed on this line: the protagonist 
+The first half of the secret is revealed on this line: the abuser forcibly assaulted the protagonist.
 
 - The first reveal that the abuser went all the way 
 - A challenge against the abuser and a way to reclaim agency
