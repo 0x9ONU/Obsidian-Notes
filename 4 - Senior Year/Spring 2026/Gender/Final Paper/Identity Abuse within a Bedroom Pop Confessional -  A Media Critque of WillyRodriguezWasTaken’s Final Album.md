@@ -599,7 +599,7 @@ But it's always a fight just to provе that I might
 Is all that is needed to fuck up my life
 ```
 
-At this point, the protagonist acknowledges that the mere accusation of him trying to pull away from his abusive relationship would make him spiral further into depression and substance abuse. He is too terrified to admit that the longing and yearning he has for his abuser is not love, but rather has become necessary for his survival. He conflates this feeling of loss with the loss of control and comfort in his own life. Coming back from [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 4 “So Make it Work Tonight” | Part 4 of “wetdream”]],  
+At this point, the protagonist acknowledges that the mere accusation of him trying to pull away from his abusive relationship would make him spiral further into depression and substance abuse. He is too terrified to admit that the longing and yearning he has for his abuser is not love, but rather has become necessary for his survival. He conflates this feeling of loss with the loss of control and comfort in his own life. Coming back from[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 1 “Terminal Lucidity”| Part 1 of “wetdream”]], he is so deep in his own illusion that he has fully close himself off from reality. If this illusion fades, he is afraid of his life fully falling apart into nothing.
 
 - These lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuse holds the power to destroy it with a single word. 
 - The “fight” is not for love, but for survival
@@ -614,8 +614,9 @@ He like what he sees
 If he knew what you're feelin'
 ```
 
+Suddenly, the song turns back over to the abuser’s voice as the protagonist is brought further into the lie. The voice tries to convince the protagonist that what they are doing is normal by using religion as a leverage. Based on his own internal monologue, it is evident that the abuser not only weaponized his identity, but also his spiritual beliefs in an attempt to keep him trapped. 
+
 - Turns over to the abuser talking
-- Trying to convince the narrator that what they are doing is normal by using religion as a leverage
 - Important later for the final song (abort your God)
 - the abuser weaponizes not just the narrator's identity (sexual/gender) but also his spiritual beliefs, making the abuse feel cosmically sanctioned.
 - Intersectional vulnerability
