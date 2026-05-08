@@ -659,27 +659,22 @@ Similar to the use of drugs
 Or any prerequisite that matches lust
 ```
 
-Bridging the gap between biological impulse and psychological ruin, the protagonist maneuvers through a deconstruction of his own emotions. By framing his euphoria through the lens of the limbic system, he equates his connection with his abuser to only chemical signals flashing in his brain. Not only does he compares love to his drug addiction, he also 
+Bridging the gap between biological impulse and psychological ruin, the protagonist maneuvers through a deconstruction of his own emotions. By framing his euphoria through the lens of the limbic system, he equates his connection with his abuser to only chemical signals flashing in his brain. It is the first time he juxtaposes drugs and lust as equals. The addiction he feels for substances is not only a physical pull caused by chemical compounds, but it is also a side effect of years of abuse.  
 
 - Second comparison to the feeling of love/lust and how drugs make the protag feel
 - In a more scientific way this time tho
 
 ```ad-quote
-title: **lost in translation** 1:4:7-8
+title: **lost in translation** 1:4:4-10
 And I waste away on summer nights
 Expecting you to say you're fine
-```
-
-- The protag is constantly worried about his abuser not reciprocating feelings and keeps on wasting away his life waiting to hear back from them
-
-```ad-quote
-title: **lost in translation** 1:4:9-10
 But all I get is brief replies
 Of I don't knows and so do I's
 You know I love you
 So why don't you love me too?
 ```
 
+- The protag is constantly worried about his abuser not reciprocating feelings and keeps on wasting away his life waiting to hear back from them
 - Realizes that the abuser, even after all of this, barely cares to even give proper replies to their victim
 - At this point, he realizes that the abuser, regardless of how much effort he puts in, will always keep on leading him on
 
