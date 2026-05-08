@@ -1,18 +1,18 @@
 {
 	"nodes":[
 		{"id":"4e6c5d1f09c8619c","type":"text","text":"1st Process: Reading Data","x":-220,"y":-260,"width":145,"height":50},
-		{"id":"46e9be3d65213042","type":"text","text":"Read First Synchronization Period","x":-220,"y":-160,"width":145,"height":50},
+		{"id":"46e9be3d65213042","type":"text","text":"Read First Synchronization Period","x":-220,"y":-160,"width":145,"height":80},
 		{"id":"56df961ecaacf27d","type":"text","text":"Export as TXT","x":-220,"y":-60,"width":145,"height":50},
 		{"id":"16d40b59fa551bcf","type":"text","text":"2nd Process: Testing Data","x":0,"y":-260,"width":145,"height":50},
-		{"id":"ccf3c8716d805b3c","type":"text","text":"Read in Preferred Model.","x":0,"y":-165,"width":145,"height":55},
+		{"id":"ccf3c8716d805b3c","type":"text","text":"Read in Preferred Model.","x":0,"y":-165,"width":145,"height":85},
 		{"id":"fa9e4674aecd26b0","type":"text","text":"Wait for TXT Input","x":0,"y":-62,"width":145,"height":55},
-		{"id":"425735f8e4d9cda9","type":"text","text":"Convert TXT to CSV (from conversion script)","x":0,"y":40,"width":145,"height":55},
-		{"id":"0c9b473646f7bd13","type":"text","text":"Read Second Synchronization Period","x":-220,"y":45,"width":145,"height":50},
+		{"id":"425735f8e4d9cda9","type":"text","text":"Convert TXT to CSV (from conversion script)","x":0,"y":40,"width":145,"height":80},
+		{"id":"0c9b473646f7bd13","type":"text","text":"Read Second Synchronization Period","x":-220,"y":45,"width":145,"height":75},
 		{"id":"b3d393f75f3527ef","type":"text","text":"Wait for TXT Input","x":0,"y":440,"width":145,"height":55},
 		{"id":"0ede96db35ed34af","type":"text","text":"Export as TXT","x":-220,"y":443,"width":145,"height":50},
-		{"id":"6f9f2ab55efd0dde","type":"text","text":"Read CSV into Model","x":0,"y":160,"width":145,"height":55},
-		{"id":"e63e571f2c954ab6","type":"text","text":"Predict Attack using Model\n","x":0,"y":295,"width":145,"height":55},
-		{"id":"96c0a18add5f7361","type":"text","text":"Raise Flag if it happens three times in a row","x":240,"y":295,"width":145,"height":55}
+		{"id":"6f9f2ab55efd0dde","type":"text","text":"Read CSV into Model","x":0,"y":160,"width":145,"height":80},
+		{"id":"e63e571f2c954ab6","type":"text","text":"Predict Attack using Model\n","x":0,"y":295,"width":145,"height":85},
+		{"id":"96c0a18add5f7361","type":"text","text":"Raise Flag if it happens three times in a row","x":240,"y":295,"width":145,"height":85}
 	],
 	"edges":[
 		{"id":"b113eb92f806c801","fromNode":"4e6c5d1f09c8619c","fromSide":"bottom","toNode":"46e9be3d65213042","toSide":"top"},

@@ -6,7 +6,11 @@
   "sessionStorage": "data",
   "sessions": [
     {
+<<<<<<< HEAD
       "start": "2026-05-08T19:19:08.661Z",
+=======
+      "start": "2026-05-08T14:58:33.507Z",
+>>>>>>> origin/main
       "total": 0,
       "drafts": {
         "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {

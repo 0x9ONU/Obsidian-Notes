@@ -70,7 +70,8 @@
               "title": "Spring 2026 Lit Review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
+                "file": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +247,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Spring 2026 Lit Review"
             }
           },
           {
@@ -255,12 +256,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
+                "file": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Spring 2026 Lit Review"
             }
           }
         ],
@@ -315,14 +316,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6bb1c82a913f32e3",
+  "active": "53d05f7e649d30cb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
-    "4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md",
@@ -346,7 +348,6 @@
     "().md",
     "w.md",
     "copilot/copilot-conversations/From_a_musical_perspective,_this_whole_section_has_a_bunch@20260504_122201.md",
-    "copilot/copilot-conversations/```ad-quote_title_dish_rags_1C1-3_Take_this_little_piece@20260504_103111.md",
     "4 - Senior Year/Spring 2026/Wireless Sensors/Untitled",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/DVAF-Annual-Report-2024.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Commentary_on_the_InVisibility_of_LGBTQ_Victims_in.pdf",
