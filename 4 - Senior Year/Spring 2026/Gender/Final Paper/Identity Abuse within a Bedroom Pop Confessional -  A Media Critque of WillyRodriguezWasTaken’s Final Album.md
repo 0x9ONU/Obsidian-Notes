@@ -677,6 +677,8 @@ I've let it go
 Too many times
 ```
 
+At this point, the protagonist wants to let go of the feelings that he has. However, 
+
 - The narrator keeps trying to let go of the feelings he has over and over again
 - However, they keep coming back into his mind and ends up making him suffer over it.
 - Creates a vicious cycle that this album is known for
