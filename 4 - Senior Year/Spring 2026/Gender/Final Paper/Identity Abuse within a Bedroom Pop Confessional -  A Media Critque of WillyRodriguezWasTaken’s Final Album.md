@@ -658,10 +658,7 @@ Struggling against his deep attachment, the protagonist tries to hold onto the l
 
 ## Song XIII: revisited
 
-This 20-minute masterpiece is what rounds off the struggles for the protagonist. It is where the artist blows all the smoke out of the way and reveals to the audience what he has experienced. In this song, he recounts his experiences with one of the worst situations a person could ever go through: statutory rape as a young child.  Each of the seven parts of the song represent a different part in the protagonist’s life as he copes with lifelong wreckage of his stolen autonomy and the lingering distortion of his own identity.. Throughout each part, this conclusionary song resolves some story questions while also propagating new ones.
-
-- This is the part of the album where the narrator tears all the curtains back and reveals to the audience on what they have experienced
-- The climax and uncomfy resolution of the album
+This 20-minute masterpiece is what rounds off the struggles for the protagonist. It is where the artist blows all the smoke out of the way and reveals to the audience what he has experienced. In this song, he recounts his experiences with one of the worst situations a person could ever go through: statutory rape as a young child.  Each of the seven parts of the song represent a different part in the protagonist’s life as he copes with lifelong trauma of his stolen autonomy and the lingering distortion of his own identity.. Throughout each part, this conclusionary song resolves some story questions while also propagating new ones, which makes it particularly difficult to analyze. However, by using the previous songs, a definitive reasoning can be provided to what happens to the protagonist by the end. 
 
 ### Part 1: Introduction
 
@@ -669,6 +666,11 @@ This 20-minute masterpiece is what rounds off the struggles for the protagonist.
 title: **revisited** 1:1:1
 *Here we go. I like you, Neil. I like you so much. When I really, really like someone... there's a way l show them how I feel. Shhh...*
 ```
+
+The beginning of the song begins with an audio sample taken from the movie Mysterious Skin (2004). This coming-of-age story directed by Gregg Araki is special as it has a dark twist when compared to other movies around the time: Neil McCormick and Brian Lackey, the two main characters, were victims of sexual abuse. Much like this album, 
+
+
+[SOURCE]
 
 - A direct audio sample from the movie Mysterious Skin (2004). 
 - The lines are said by a Little League coach, played by Bill Sage, as he’s about to sexually abuse the character Neil McCormick, played in this scene by Chase Ellison.
