@@ -614,7 +614,7 @@ He like what he sees
 If he knew what you're feelin'
 ```
 
-Suddenly, the song turns back over to the abuser’s voice as the protagonist is brought further into the lie. The voice tries to convince the protagonist that what they are doing is normal by using religion as a leverage. Based on his own internal monologue, it is evident that the abuser not only weaponized his identity, but also his spiritual beliefs in an attempt to keep him trapped. 
+Suddenly, the song turns back over to the abuser’s voice as the protagonist is brought further into the lie. The voice tries to convince the protagonist that what they are doing is normal by using religion as a leverage. Based on his own internal monologue, it is evident that the abuser not only used to weaponized his identity, but also his spiritual beliefs in an attempt to keep him trapped. The intersectionality crossroads of sexuality, gender, and religion come together at a crack. Where all of the protagonist’s traits come together, this is an intersectional vulnerability that makes him specifically at risk to certain behaviors. The abuser knows this and used it to build a power structure around him
 
 - Turns over to the abuser talking
 - Important later for the final song (abort your God)
@@ -628,6 +628,8 @@ I'll strip you to pieces
 And burn all our clothes
 'Til we fight, 'til we're screamin'
 ```
+
+
 
 - These lines capture the moment where the relationship has become purely destructive. 
 - The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
