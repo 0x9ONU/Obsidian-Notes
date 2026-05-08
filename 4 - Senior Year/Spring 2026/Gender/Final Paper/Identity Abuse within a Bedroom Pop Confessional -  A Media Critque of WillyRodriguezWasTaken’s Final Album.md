@@ -572,15 +572,15 @@ And now I'm givin' up (You will show)
 So don't you ever stop (How you love)
 ```
 
-Yet again, another first occurrence of a theme of the album occurs: the difficulty of leaving behind an abusive relationship. The protagonist, after such a long time, is starting to debate on giving up on the remaining feelings he has for the abuser and to move on. However, the background voice of his mind immediately pulls him back into the cycle. He yearns for love as the manifestation of his abuser orders him to show how much he loves her. After she is almost gone, the protagonist still feels a duty to listen to her every command; even if that command is one that he made up in his head.
-
-- Here, the narrator wants to give up, however, at the slight talking of his abuser in the back of his mind, he immediately gives back into begging for the cycle to continue
+Yet again, another first occurrence of a theme of the album occurs: the difficulty of leaving behind an abusive relationship. The protagonist, after such a long time, is starting to debate on giving up on the remaining feelings he has for the abuser and to move on. Unfortunately, the background voice of his mind immediately pulls him back into the cycle. He yearns for love as the manifestation of his abuser orders him to show how much he loves her. Even after she is nearly gone, he feels bound by a duty to obey her every command. In her absence, however, he continues to invent this commands as a guidance that is deeply engrained into his conscious.
 
 ```ad-quote
 title: **lost in translation** 1:2:1-2
 Blood down my throat
 Prayin' some kind of angel will slit it tonight
 ```
+
+Starting the next verse, the protagonist tries to find other ways out of the cycle he put himself into. Out of desperation, he 
 
 - The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure.  A stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
 - A desperate attempt to leave the relationship is by suicide
