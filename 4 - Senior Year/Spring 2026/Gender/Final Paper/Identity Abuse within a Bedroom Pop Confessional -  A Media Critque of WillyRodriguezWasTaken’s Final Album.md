@@ -763,16 +763,15 @@ But it's been better just to sin
 'Cause it's to start up once again
 ```
 
-The other vicious side-effect rears its ugly head 
-
-- No more friends also makes it a lot harder to pivot away from their abusive lover
-- It is much easier to stay in the pit rather than trying to pull himself out of it.
+The other vicious side-effect rears its ugly head when these lines are put into context. As the protagonist starts to loose more of their friends, he also becomes more reliant on his abuser to keep him company, even when she was just a voice in his head. Instead of trying to pull himself out of the pit; however, the protagonist wants to stay where he is at because of how much it would hurt to finally face his fears. 
 
 ```ad-quote
 title: **revisited** 3:1:8-9
 Who's to say I know myself
 When I've forgotten how to live
 ```
+
+Here, the protagonist really puts into perspective how badly he has been manipulated by his abuser. He was so reliant on his abuser to provide their identity that he lost his identity himself. Even if the narrator does not realize this right now, this behavior is a clear deliberate attempt 
 
 - He was so reliant on their abuser to provide their identity that they lost their identity himself
 - He needs someone to give him meaning after being manipulated for so long 
