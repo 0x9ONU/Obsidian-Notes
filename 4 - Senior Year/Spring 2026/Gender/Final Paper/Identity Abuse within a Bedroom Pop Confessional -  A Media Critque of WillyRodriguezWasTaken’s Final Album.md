@@ -629,7 +629,7 @@ And burn all our clothes
 'Til we fight, 'til we're screamin'
 ```
 
-Ending off the second verse, the abuser’s voice begins to become purely destructive, which is also indicative of his perception of his relationship. The protagonist begins to break down as he realizes that deep down his abuser did not care about him; rather, that he was only seen as an object of lust. One last time, she tries to sexually assault him once more through his own thoughts as she forces him to strip down to his bare-self and emotions. The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
+Ending off the second verse, the abuser’s voice begins to become purely destructive, which is also indicative of his perception of his relationship. The protagonist begins to break down as he realizes that deep down his abuser did not care about him; rather, that he was only seen as an object of lust. One last time, she tries to sexually assault him once more through his own thoughts as she forces him to strip down to his bare-self and emotions. The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. Taken from an identity abuse standpoint, clothes also in particular are a huge part of how people express both their gender and social identity. The burning of clothes could represent how the abuser wants to erase the protagonist’s identity entirely 
 
 - These lines capture the moment where the relationship has become purely destructive. 
 - The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
@@ -1067,7 +1067,10 @@ The drug I feel I wouldn't want
 	- lost in translation (1:1:10-11)
 	- lost in translation (1:3:23-26)
 - The drug he feels right now is the withdrawal of what he thought was love
+- The drug that can only satisfy his cravings is a final solutions: death
 - The stings can also relate to the withdrawals
+- Mention how the instrumentals after this part just begin to chug along and fall apart as it goes along
+- Mention the bird that I hate [source that fucking bird]
 
 ## Summary and Connections
 # Comparison
