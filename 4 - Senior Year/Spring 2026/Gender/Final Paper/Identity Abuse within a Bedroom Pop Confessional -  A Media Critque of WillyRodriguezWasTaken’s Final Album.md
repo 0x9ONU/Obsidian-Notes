@@ -677,17 +677,15 @@ I've let it go
 Too many times
 ```
 
-At this point, the protagonist wants to let go of the feelings that he has. However, 
-
-- The narrator keeps trying to let go of the feelings he has over and over again
-- However, they keep coming back into his mind and ends up making him suffer over it.
-- Creates a vicious cycle that this album is known for
+At this point, the protagonist wants to let go of the feelings that he has. However, they keep coming back to his mind in cycles over and over again, which keeps him in a loop of suffering. This alludes back to the vicious cycle of longing that is seen throughout the album.
 
 ```ad-quote
 title: **revisited** 2:1:5-8
 And the drugs you take are never enough (Oh, I)
 And the drugs you make are never enough (Oh, I) (*x2*)
 ```
+
+Up to this point, the protagonist would lean on their drug addiction to help them forget about their past. Howe
 
 - Starting the realize that regardless of how many drugs they take to forget their trauma and abuse, it keeps coming back to them
 - It is a lost cause to hide it, as he is about to reveal the truth
