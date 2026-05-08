@@ -744,12 +744,11 @@ You'll strip your clothes and live with it
 You'll live with it (*x4*)
 ```
 
-The protagonist acknowledges, that even to this day, anyone who remotely gets intimate with him will 
+The protagonist acknowledges, that even to this day, anyone who remotely gets intimate with him reminds them of their abuser. The way he flinches, as brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song IX lost in translation|“lost in translation”]], has hurt any further relations he has had with other people because he cannot look past the traumatic sexual experiences he had. On another hand, this section is particularly important since this is the first time that the album acknowledges that second character is a trans man. 
 
 - The abuser touching them on their legs reminds them of what has happened before or after
 - The flinch is a physical response of that
 - Specifically calls out that the narrator is a trans man for the first time in the whole album
-	- Statistics here regarding sexual abuse
 	- Recognize that transmen are even more transparent than other demographics due to heteronormativity
 - Filtered kid refers to HRT/hormone blockers
 - You’ll live with it repeating reinforces the statement from earlier
