@@ -696,17 +696,15 @@ Rape me
 Your suicidе can't take me
 ```
 
-The first half of the secret is revealed on this line: the abuser forcibly assaulted the protagonist.
-
-- The first reveal that the abuser went all the way 
-- A challenge against the abuser and a way to reclaim agency
-- Will not let the suicide of the abuser to let them hurt them anymore
+The first half of the secret is revealed on this line: the abuser forcibly assaulted the protagonist. This line alone clears up a lot about why he feels this way about his abuser. She did an unspeakable act to him and then manipulated him into not letting anyone know by taking advantage of him. However, the protagonist has started to come to his senses as rather than breaking down, he challenges the abuser in a way to start reclaiming his agency. He will not let the threats from the abuser let him hurt him anymore as he could care less about what the abuser does at this point.
 
 ```ad-quote
 title: **revisited** 2:1:11-12
 Could have felt so nice
 Don't make me if you feel too sore tonight
 ```
+
+However, the cycle once again turns over once again as the protagon
 
 - It could have felt so nice if it was done with consent and with proper love instead of hate
 - Now instead, the narrator pleas to not have any sexual encounters tonight and hopes that the abuser is finally too sore/tired to do anything
