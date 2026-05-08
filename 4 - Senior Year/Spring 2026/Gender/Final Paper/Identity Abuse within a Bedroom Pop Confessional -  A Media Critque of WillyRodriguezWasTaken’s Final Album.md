@@ -614,7 +614,7 @@ He like what he sees
 If he knew what you're feelin'
 ```
 
-Suddenly, the song turns back over to the abuser’s voice as the protagonist is brought further into the lie. The voice tries to convince the protagonist that what they are doing is normal by using religion as a leverage. Based on his own internal monologue, it is evident that the abuser not only used to weaponized his identity, but also his spiritual beliefs in an attempt to keep him trapped. The intersectionality crossroads of sexuality, gender, and religion come together at a crack. Where all of the protagonist’s traits come together, this is an intersectional vulnerability that makes him specifically at risk to certain behaviors. The abuser knows this and used it to build a power structure around him
+Suddenly, the song turns back over to the abuser’s voice as the protagonist is brought further into the lie. The voice tries to convince the protagonist that what they are doing is normal by using religion as a leverage. Based on his own internal monologue, it is evident that the abuser not only used to weaponized his identity, but also his spiritual beliefs in an attempt to keep him trapped. The intersectionality crossroads of sexuality, gender, and religion come together at a crack. Where all of the protagonist’s traits come together, this is an intersectional vulnerability that makes him specifically at risk to certain behaviors. The abuser knows this and used it to build a power structure around him, which continues to control him in her absence.
 
 - Turns over to the abuser talking
 - Important later for the final song (abort your God)
@@ -629,7 +629,7 @@ And burn all our clothes
 'Til we fight, 'til we're screamin'
 ```
 
-
+Ending off the second verse, the abuser’s voice begins to become purely destructive, which is also indicative of his perception of his relationship. The protagonist begins to break down as 
 
 - These lines capture the moment where the relationship has become purely destructive. 
 - The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
@@ -689,6 +689,11 @@ I can't live without you (To live without you)
 - He is so dependent on her that he can no longer with without them
 - The final cut off from the abuser
 - This is where the loop cuts before the final two songs
+
+### Summary and Connections
+
+
+
 ## Song XIII: revisited
 
 - This is the part of the album where the narrator tears all the curtains back and reveals to the audience on what they have experienced
