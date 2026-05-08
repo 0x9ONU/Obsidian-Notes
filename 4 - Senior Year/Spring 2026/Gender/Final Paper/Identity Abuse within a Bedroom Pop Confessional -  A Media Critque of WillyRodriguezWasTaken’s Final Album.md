@@ -674,12 +674,7 @@ You know I love you
 So why don't you love me too?
 ```
 
-The protagonist exists in a state of stagnant decay as he waits for a validation that is strategically withheld. He is constantly worried about his abuser not reciprocating feelings 
-
-
-- The protag is constantly worried about his abuser not reciprocating feelings and keeps on wasting away his life waiting to hear back from them
-- Realizes that the abuser, even after all of this, barely cares to even give proper replies to their victim
-- At this point, he realizes that the abuser, regardless of how much effort he puts in, will always keep on leading him on
+The protagonist exists in a state of stagnant decay as he waits for a validation that is strategically withheld. He is constantly worried about his abuser not reciprocating feelings and would rather waste his life away rather than moving on. This cycle is fueled by the abuser’s calculated use non-committal responses to keep the protagonist in a state of perpetual longing. He then realizes that the abuser, regardless of what he does, will never love him back the way she used to. 
 
 ```ad-quote
 title: **lost in translation** 1:O:4-5
@@ -687,10 +682,7 @@ Used to love me (I'm trying)
 I can't live without you (To live without you)
 ```
 
-- Even after all this time, the narrator keeps on trying to convince himself that their abuser still actually loves them
-- He is so dependent on her that he can no longer with without them
-- The final cut off from the abuser
-- This is where the loop cuts before the final songs
+Struggling against his deep attachment, the protagonist tries to hold onto the last memories he has of his abuser. He has become so dependent on her validation that he cannot function without her. The internal dialogue reveals a breaking point: he is caught between the addiction of the past and the agonizing reality of the future. As the cycle finally begins to fracture, the protagonist is forced to confront the reality of his own erasure. This moment of total dependency acts as the final point before the loop cuts, leaving him suspended in the terrifying void between his abuser’s control and the ruins of his own autonomy.
 
 ### Summary and Connections
 
