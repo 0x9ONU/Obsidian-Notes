@@ -11,21 +11,17 @@
             "id": "6bb1c82a913f32e3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
+                "viewState": {
+                  "x": 549.1422155817775,
+                  "y": 348.37615379665795,
+                  "zoom": 0.32879702791028226
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Summer 2025 Lit Review Survey Attacks"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -171,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
+                "file": "4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Summer 2025 Lit Review Survey Attacks"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -288,11 +284,11 @@
   },
   "active": "6bb1c82a913f32e3",
   "lastOpenFiles": [
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Summer 2025/Research/Literature Review 2/Security in Energy Harvesting Networks Summary.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review 2/Summer 2025 Lit Review Survey Attacks.md",
+    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md",
