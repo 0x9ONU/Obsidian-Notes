@@ -539,7 +539,7 @@ The track concludes with a final line that sends off the song on a hollow mantra
 "wetdream" dissects the compounded harms of identity abuse, addiction, and depression within a single toxic relationship. The song spirals from desperate denial to a drug-fueled self-erasure to a final resignation where drinking becomes the only way to endure almost a decade of abuse. The abuser weaponizes every vulnerability the protagonist possesses: his LGBTQ+ identity, his porn‑addled understanding of intimacy, his economic precarity, and his terror of being alone. This aligns with the HCDVCC report's definition of identity abuse: the abuser exploits marginalization because of it [REPORT]. Statistically, the protagonist mirrors the Trever Project's findings regarding substance abuse and the CDC's data where most queer youth feel hopeless in their life. Yet the song refuses to reduce him to a statistic. It instead stages a wrenching nature vs. nurture debate through the sickle cell metaphor and the events of tragedy that led him up to this point. He wavers between blaming an inherited predisposition and recognizing his suffering as a socially constructed tragedy. His abuse scars are not genetic, but he lacks the ability understand how systemic oppression can be internalized until survival feels like a biological response. By denying the protagonist redemption and not letting the track result, "wetdream" dodges tokenism. It presents abuse and addiction not as a single crisis but as a daily struggle where substances make survivable it, but never winnable.
 ## Song IX: lost in translation
 
-- Introduction about song here
+After 
 
 ```ad-quote
 title: **lost in translation** 1:1:1-8
@@ -555,11 +555,6 @@ Intertwined with our pulses
 
 The beginning verse of the song starts of strong by setting the scene for the rest of the song. The protagonist is set in the bedroom thinking about when him and his abuser had sexual relations with each other. Here, a primary theme of this song is laid out: a feeling of post-coital shame. The protagonist has an explicit fear of being seen in such a raw, vulnerable, and messy state after sex. He is trying to feel the pleasure from doing such an act, but the thought of how it looks from the outside makes him feel exposed and ugly. He wants to connect with his partner on a level like this, but he is ultimately ashamed of showing his true self to his lover. Note how the protagonist is still caught up on the more intimate parts of his relationship. In a way, he is masking the more negative parts of the relationship, much like how he cannot show his true self around his abuser.
 
-- Post-coital shame
-- Fear of being seen and showing the raw, vulnerable, and messy state after sex
-- Goes into how even though humans have sex to feel good, it can be considered very disgusting when looked from the outside
-- The conflict between the physical desire for intimacy and the psychological disgust
-- He wants to connect with his partner like this, but he is ashamed about showing his true self to his lover.
 
 ```ad-quote
 title: **lost in translation** 1:1:10
@@ -567,9 +562,6 @@ If you do love me so (These drugs)
 ```
 
 It is at this point in the album where the audience can start to see the consequences of the protagonist’s drug abuse. He has begun to equate drugs with the feeling of love itself. As seen before in “[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song VII wetdream|wetdream]]”, he ends up using both alcohol, cannabis, and nicotine to cover up the negative parts in his relationship and life. Much like how porn has shifted his perception of love, drugs have shifted how he feels love. The feelings he gets when he is under the influence is not only equated to love, but it has acted like a replacement for love itself in the absence of a partner. This will continue to develop for the rest of the album going forward, which becomes a severe issue for him.
-
-- Here is the first time where the narrator begins to equate drugs with the feeling of love
-- He used drugs so much to cover up the shame, abuse, and more to the point he equates the feelings he gets with them with love itself, much like how porn has messed up his perception
 
 ```ad-quote
 title: **lost in translation** 1:1:12-15
@@ -589,10 +581,6 @@ Prayin' some kind of angel will slit it tonight
 
 Starting the next verse, the protagonist tries to find other ways out of the cycle he put himself into. Out of desperation, he chooses to attempt self-deliverance. He is so overcome with shame and longing, at this point, he believes that this was the only way out.  After the attempt, he feels the damage he did as blood drains down his esophagus. Out of fear, he begs for someone to finish the job he started. The angel he prays to is a stand-in for a rescue that never comes by his side. He wants someone to make the pain end at all costs, even if that pain is ended by tragedy.
 
-- The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure.  A stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
-- A desperate attempt to leave the relationship is by suicide
-- He thinks the only way to leave is by ending it all because he could not take the shame and hurt from letting it end
-
 ```ad-quote
 title: **lost in translation** 1:2:3-4
 But it's always a fight just to provе that I might
@@ -600,11 +588,6 @@ Is all that is needed to fuck up my life
 ```
 
 At this point, the protagonist acknowledges that the mere accusation of him trying to pull away from his abusive relationship would make him spiral further into depression and substance abuse. He is too terrified to admit that the longing and yearning he has for his abuser is not love, but rather has become necessary for his survival. He conflates this feeling of loss with the loss of control and comfort in his own life. Coming back from[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 1 “Terminal Lucidity”| Part 1 of “wetdream”]], he is so deep in his own illusion that he has fully close himself off from reality. If this illusion fades, he is afraid of his life fully falling apart into nothing.
-
-- These lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuse holds the power to destroy it with a single word. 
-- The “fight” is not for love, but for survival
-- It is a losing battle
-- A mere accusation of him trying to pull away from the relationship from his abuser will make him spiral further into depression and self-harm.
 
 ```ad-quote
 title: **lost in translation** 1:2:5-8
@@ -616,11 +599,6 @@ If he knew what you're feelin'
 
 Suddenly, the song turns back over to the abuser’s voice as the protagonist is brought further into the lie. The voice tries to convince the protagonist that what they are doing is normal by using religion as a leverage. Based on his own internal monologue, it is evident that the abuser not only used to weaponized his identity, but also his spiritual beliefs in an attempt to keep him trapped. The intersectionality crossroads of sexuality, gender, and religion come together at a crack. Where all of the protagonist’s traits come together, this is an intersectional vulnerability that makes him specifically at risk to certain behaviors. The abuser knows this and used it to build a power structure around him, which continues to control him in her absence.
 
-- Turns over to the abuser talking
-- Important later for the final song (abort your God)
-- the abuser weaponizes not just the narrator's identity (sexual/gender) but also his spiritual beliefs, making the abuse feel cosmically sanctioned.
-- Intersectional vulnerability
-
 ```ad-quote
 title: **lost in translation** 1:2:9-12
 No hesitation
@@ -630,12 +608,6 @@ And burn all our clothes
 ```
 
 Ending off the second verse, the abuser’s voice begins to become purely destructive, which is also indicative of his perception of his relationship. The protagonist begins to break down as he realizes that deep down his abuser did not care about him; rather, that he was only seen as an object of lust. One last time, she tries to sexually assault him once more through his own thoughts as she forces him to strip down to his bare-self and emotions. The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. Taken from an identity abuse standpoint, clothes also in particular are a huge part of how people express both their gender and social identity. The burning of clothes could represent how the abuser wants to erase the protagonist’s identity entirely at all costs. This allowed her to forcibly replace all he had left with her. This idea will be explored later on as well, which further validates this theory.
-
-- These lines capture the moment where the relationship has become purely destructive. 
-- The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
-- The fight and the screaming become the relationship itself.
-- The phrase "burn all our clothes" is particularly important: clothes represent identity, performance, and social presentation. In the context of LGBTQ+ identity abuse, clothes can be a marker of gender expression. Burning them could symbolize the abuser's attempt to erase the narrator's identity entirely, or the narrator's own desire to be stripped of everything that ties him to this abusive relationship
-- The abuser does not care about what the narrator has deep down, they only see them as an object for lust
 
 ```ad-quote
 title: **lost in translation** 1:3:4, 6-8
@@ -648,9 +620,6 @@ I feel so ugly (I love you)
 
 After the break down, the abuser’s voice tries to reconcile with the protagonist, but repeating the words “I love you” over and over again throughout the verse. As the voice pleads for forgiveness, the protagonist himself feeling so ugly and worthless as he is tempted to continue the cycle once again. Often, victims of sexual abuse feel the pull back towards their abusers as they feel empty without them, which is known as Stockholm syndrome [SOURCE]. With this pain, he contemplates going back.
 
-- Along with the line “This dumb temptation” and the I love yous, this could be in reference to how many victims of sexual abuse feel like their body is worthless or ugly without that abuse.
-- He feels so ugly being without his abuser, as the I love you’s continue to trickle in through the rest of the verse
-
 ```ad-quote
 title: **lost in translation** 1:3:23-26
 'Cause I'm in a state of feeling called "euphoria"
@@ -660,9 +629,6 @@ Or any prerequisite that matches lust
 ```
 
 Bridging the gap between biological impulse and psychological ruin, the protagonist maneuvers through a deconstruction of his own emotions. By framing his euphoria through the lens of the limbic system, he equates his connection with his abuser to only chemical signals flashing in his brain. It is the first time he juxtaposes drugs and lust as equals. The addiction he feels for substances is not only a physical pull caused by chemical compounds, but it is also a side effect of years of abuse.  
-
-- Second comparison to the feeling of love/lust and how drugs make the protag feel
-- In a more scientific way this time tho
 
 ```ad-quote
 title: **lost in translation** 1:4:4-10
@@ -682,7 +648,7 @@ Used to love me (I'm trying)
 I can't live without you (To live without you)
 ```
 
-Struggling against his deep attachment, the protagonist tries to hold onto the last memories he has of his abuser. He has become so dependent on her validation that he cannot function without her. The internal dialogue reveals a breaking point: he is caught between the addiction of the past and the agonizing reality of the future. As the cycle finally begins to fracture, the protagonist is forced to confront the reality of his own erasure. This moment of total dependency acts as the final point before the loop cuts, leaving him suspended in the terrifying void between his abuser’s control and the ruins of his own autonomy.
+Struggling against his deep attachment, the protagonist tries to hold onto the last memories he has of his abuser. He has become so dependent on her validation that he cannot function without her. The internal dialogue reveals a breaking point: he is caught between the addiction of the past and the agonizing reality of the future. As the cycle finally begins to fracture, the protagonist is forced to confront the reality of his own erasure. This moment acts as the final point before the loop cuts as he is left suspended with no aspirations and nowhere to go.
 
 ### Summary and Connections
 
