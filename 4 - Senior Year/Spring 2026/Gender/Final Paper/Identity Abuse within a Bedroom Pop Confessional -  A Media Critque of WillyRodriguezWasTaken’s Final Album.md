@@ -1,3 +1,8 @@
+```ad-warning
+title: Trigger Warnings
+Drug Abuse, Domestic Violence, R---, Suicide, and graphic depictions of harm
+```
+
 # Introduction
 
 - Catchy beginning
@@ -570,6 +575,8 @@ It is at this point in the album where the audience can start to see the consequ
 title: **lost in translation** 1:1:12-13
 And now I'm givin' up (You will show)
 So don't you ever stop (How you love)
+You're my only one
+You're my only one
 ```
 
 Yet again, another first occurrence of a theme of the album occurs: the difficulty of leaving behind an abusive relationship. The protagonist, after such a long time, is starting to debate on giving up on the remaining feelings he has for the abuser and to move on. Unfortunately, the background voice of his mind immediately pulls him back into the cycle. He yearns for love as the manifestation of his abuser orders him to show how much he loves her. Even after she is nearly gone, he feels bound by a duty to obey her every command. In her absence, however, he continues to invent this commands as a guidance that is deeply engrained into his conscious.
@@ -580,7 +587,7 @@ Blood down my throat
 Prayin' some kind of angel will slit it tonight
 ```
 
-Starting the next verse, the protagonist tries to find other ways out of the cycle he put himself into. Out of desperation, he 
+Starting the next verse, the protagonist tries to find other ways out of the cycle he put himself into. Out of desperation, he chooses to attempt self-deliverance. After the attempt, he feels the damage he did as blood drains down his esophagus. To scared to finish the job
 
 - The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure.  A stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
 - A desperate attempt to leave the relationship is by suicide
