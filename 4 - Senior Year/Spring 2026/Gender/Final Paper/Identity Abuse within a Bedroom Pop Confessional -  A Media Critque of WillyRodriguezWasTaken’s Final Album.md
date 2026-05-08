@@ -548,7 +548,7 @@ These bodies could be
 Intertwined with our pulses
 ```
 
-
+The beginning verse of the song starts of strong by setting the scene for the rest of the song. The protagonist is set in the bedroom with a partner shortly after they had sexual relations with each other. Here, a primary theme of this song is laid out: a feeling of post-coital shame. The protagonist here fears of being seen in such a raw, vulnerable and messy state aft 
 
 - Post-coital shame
 - Fear of being seen and showing the raw, vulnerable, and messy state after sex
