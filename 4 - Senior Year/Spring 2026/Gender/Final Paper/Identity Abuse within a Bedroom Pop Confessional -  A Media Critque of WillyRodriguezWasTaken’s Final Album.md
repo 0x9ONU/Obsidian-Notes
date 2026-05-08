@@ -548,7 +548,7 @@ These bodies could be
 Intertwined with our pulses
 ```
 
-The beginning verse of the song starts of strong by setting the scene for the rest of the song. The protagonist is set in the bedroom with a partner shortly after they had sexual relations with each other. Here, a primary theme of this song is laid out: a feeling of post-coital shame. The protagonist here fears of being seen in such a raw, vulnerable and messy state aft 
+The beginning verse of the song starts of strong by setting the scene for the rest of the song. The protagonist is set in the bedroom thinking about when him and his abuser had sexual relations with each other. Here, a primary theme of this song is laid out: a feeling of post-coital shame. The protagonist has an explicit fear of being seen in such a raw, vulnerable, and messy state after sex. He is trying to feel the pleasure from doing such an act, but the thought of how it looks from the outside makes him feel exposed and ugly. He wants to connect with his partner on a level like this, but he is ultimately ashamed of showing his true self to his lover. Note how the protagonist is still caught up on the more intimate parts of his relationship. In a way, he is covering up the negative parts of his relationship with the feelings of 
 
 - Post-coital shame
 - Fear of being seen and showing the raw, vulnerable, and messy state after sex
@@ -560,6 +560,8 @@ The beginning verse of the song starts of strong by setting the scene for the re
 title: **lost in translation** 1:1:10
 If you do love me so (These drugs)
 ```
+
+
 
 - Here is the first time where the narrator begins to equate drugs with the feeling of love
 - He used drugs so much to cover up the shame, abuse, and more to the point he equates the feelings he gets with them with love itself, much like how porn has messed up his perception
