@@ -599,9 +599,9 @@ But it's always a fight just to provе that I might
 Is all that is needed to fuck up my life
 ```
 
+At this point, the protagonist acknowledges that the mere accusation of him trying to pull away from his abusive relationship would make him spiral further into depression and substance abuse. He is too terrified to admit that the longing and yearning he has for his abuser is not love, but rather has become necessary for his survival. He conflates this feeling of loss with the loss of control and comfort in his own life. Coming back from [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 4 “So Make it Work Tonight” | Part 4 of “wetdream”]],  
 
-
-- These lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuser (or the social system) holds the power to destroy it with a single word. 
+- These lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuse holds the power to destroy it with a single word. 
 - The “fight” is not for love, but for survival
 - It is a losing battle
 - A mere accusation of him trying to pull away from the relationship from his abuser will make him spiral further into depression and self-harm.
