@@ -718,7 +718,7 @@ I'll shut my eyes and open wide
 I'll swallow whole your sour wine
 ```
 
-The callb
+The callback continues as he begins to deconstruct exactly what happened to him. He remembers when he began to recognize the cycle of abuse when his abuser would make it a continuous occurrence. He begins to realize that he gave up his autonomy to become his abuser’s object rather than a person, leading her to hurting him to the point of being bloody. 
 
 - Realizing that it is around the time the abuser will begin to start making moves on the victim
 - He begins to recognize the cycle of abuse and does not want it to happen
