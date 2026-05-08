@@ -572,10 +572,10 @@ It is at this point in the album where the audience can start to see the consequ
 - He used drugs so much to cover up the shame, abuse, and more to the point he equates the feelings he gets with them with love itself, much like how porn has messed up his perception
 
 ```ad-quote
-title: **lost in translation** 1:1:12-13
+title: **lost in translation** 1:1:12-15
 And now I'm givin' up (You will show)
 So don't you ever stop (How you love)
-You're my only one
+You're my only one (In the house we squatted)
 You're my only one
 ```
 
@@ -587,7 +587,7 @@ Blood down my throat
 Prayin' some kind of angel will slit it tonight
 ```
 
-Starting the next verse, the protagonist tries to find other ways out of the cycle he put himself into. Out of desperation, he chooses to attempt self-deliverance. After the attempt, he feels the damage he did as blood drains down his esophagus. To scared to finish the job
+Starting the next verse, the protagonist tries to find other ways out of the cycle he put himself into. Out of desperation, he chooses to attempt self-deliverance. He is  After the attempt, he feels the damage he did as blood drains down his esophagus. Out of fear, he begs for someone to fisish the job he started. The angel, in this, is a stand-in for a rescue 
 
 - The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure.  A stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
 - A desperate attempt to leave the relationship is by suicide
