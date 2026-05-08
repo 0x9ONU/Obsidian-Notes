@@ -561,7 +561,7 @@ title: **lost in translation** 1:1:10
 If you do love me so (These drugs)
 ```
 
-It is at this point in the album where the audience can start to see the consequences of the protagonist’s drug abuse. He has begun to equate drugs with the feeling of love itself. As seen before in “[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song VII wetdream|wetdream]]”, he ends up using both alcohol, cannabis, and nicotine to cover up 
+It is at this point in the album where the audience can start to see the consequences of the protagonist’s drug abuse. He has begun to equate drugs with the feeling of love itself. As seen before in “[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song VII wetdream|wetdream]]”, he ends up using both alcohol, cannabis, and nicotine to cover up the negative parts in his relationship and life. Much like how porn has shifted his perception of love, drugs have shifted how he feels love. The feelings he gets when he is under the influence is not only equated to love, but it has acted like a replacement for love itself in the absence of a partner. This will continue to develop for the rest of the album going forward, which becomes a severe issue for him.
 
 - Here is the first time where the narrator begins to equate drugs with the feeling of love
 - He used drugs so much to cover up the shame, abuse, and more to the point he equates the feelings he gets with them with love itself, much like how porn has messed up his perception
@@ -571,6 +571,8 @@ title: **lost in translation** 1:1:12-13
 And now I'm givin' up (You will show)
 So don't you ever stop (How you love)
 ```
+
+Yet again, another first occurrence of a theme of the album occurs: the difficulty of leaving such a 
 
 - Here, the narrator wants to give up, however, at the slight talking of his abuser in the back of his mind, he immediately gives back into begging for the cycle to continue
 
