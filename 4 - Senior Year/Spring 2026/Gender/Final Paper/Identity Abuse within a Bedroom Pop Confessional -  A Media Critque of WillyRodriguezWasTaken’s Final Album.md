@@ -667,7 +667,7 @@ title: **revisited** 1:1:1
 *Here we go. I like you, Neil. I like you so much. When I really, really like someone... there's a way l show them how I feel. Shhh...*
 ```
 
-The beginning of the song begins with an audio sample taken from the movie Mysterious Skin (2004). This coming-of-age story directed by Gregg Araki is special as it has a dark twist when compared to other movies around the time: Neil McCormick and Brian Lackey, the two main characters, were victims of sexual abuse. Much like this album, the film covers how. In particular, these lines are said by a Little League coach right before he sexually abuses Neil as a young child. If interpreted, 
+The beginning of the song begins with an audio sample taken from the movie Mysterious Skin (2004). This coming-of-age story directed by Gregg Araki is special as it has a dark twist when compared to other movies around the time: Neil McCormick and Brian Lackey, the two main characters, were victims of sexual abuse. Much like this album, the film follows two. In particular, these lines are said by a Little League coach right before he sexually abuses Neil as a young child. If interpreted, the protagonist 
 
 
 [SOURCE]
@@ -1034,7 +1034,7 @@ The drug I feel I wouldn't want
 - Film to album
 	- Protagonist finds it difficult to be able to truely explain how the abuse happened using
 	- He used the film segment as a way to explain what he felt without using his own words
-	- In a way, this album 
+	- In a way, this album might be a way for the artist to cope with his own experiences as he cannot put his abuse into words as well
 # Comparison
 
 - Is their work an accurate representation of culture?
