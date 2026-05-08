@@ -629,7 +629,7 @@ And burn all our clothes
 'Til we fight, 'til we're screamin'
 ```
 
-Ending off the second verse, the abuser’s voice begins to become purely destructive, which is also indicative of his perception of his relationship. The protagonist begins to break down as 
+Ending off the second verse, the abuser’s voice begins to become purely destructive, which is also indicative of his perception of his relationship. The protagonist begins to break down as he realizes that deep down his abuser did not care about him; rather, that he was only seen as an object of lust. One last time, she tries to sexually assault him once more through his own thoughts as she forces him to strip down to his bare-self and emotions. The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
 
 - These lines capture the moment where the relationship has become purely destructive. 
 - The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
@@ -688,7 +688,7 @@ I can't live without you (To live without you)
 - Even after all this time, the narrator keeps on trying to convince himself that their abuser still actually loves them
 - He is so dependent on her that he can no longer with without them
 - The final cut off from the abuser
-- This is where the loop cuts before the final two songs
+- This is where the loop cuts before the final songs
 
 ### Summary and Connections
 
