@@ -711,32 +711,23 @@ Don't make me if you feel too sore tonight
 - It could have felt so nice if it was done with consent and with proper love instead of hate
 - Now instead, the narrator pleas to not have any sexual encounters tonight and hopes that the abuser is finally too sore/tired to do anything
 
+
 ```ad-quote
-title: **revisited** 2:1:13-14
+title: **revisited** 2:1:13-20
 'Cause it's just about the time
 For you to strain the floors in white
-```
-
-- Realizing that it is around the time the abuser will begin to start making moves on the victim
-- He begins to recognize the cycle of abuse and does not want it to happen
-
-```ad-quote
-title: **revisited** 2:1:15-17
 I lie
 Vacantly, that slab of meat
 That bloody taste, so violently
-```
-
-- The offender doesn’t see the person they’ve assaulted as human, referring to them as “meat.” 
-- It’s common for people who rape or murder to see others as lesser beings.
-- The narrator begins to realize that they were being used more as an object rather than a person and how violently they were abused
-
-```ad-quote
-title: **revisited** 2:1:19-20
 I'll shut my eyes and open wide
 I'll swallow whole your sour wine
 ```
 
+- Realizing that it is around the time the abuser will begin to start making moves on the victim
+- He begins to recognize the cycle of abuse and does not want it to happen
+- The offender doesn’t see the person they’ve assaulted as human, referring to them as “meat.” 
+- It’s common for people who rape or murder to see others as lesser beings.
+- The narrator begins to realize that they were being used more as an object rather than a person and how violently they were abuse.
 - Recounting the events
 - Giving into the abuse and letting it flow over
 
@@ -1018,7 +1009,7 @@ But not for long, it's staying shut
 - Even if the narrator is doing better, he still continues to struggle with the pain he feels throughout the rest of your life.
 
 ```ad-quote
-title: **revisited** 7:1:9-12
+title: **revisited** 7:1:12
 The drug I feel I wouldn't want
 ```
 
