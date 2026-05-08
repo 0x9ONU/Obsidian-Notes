@@ -296,6 +296,8 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that specifically split the album into two stories. In particular, the second main character has a lot more nuance when it comes to his actions and choices throughout his section of the story. Unlike the black-and-white case seen before, the new character commits some actions that are morally gray. This contrast will be highlighted throughout the rest of this analysis, starting with the titular song of the album: *wetdream*.
 ## Song VII: wetdream
 
+#comebacklater 
+
 The beginning of the second half of the album establishes the new character in the album. To ensure that there is no confusion with the previous main character, this character will be referred to as the protagonist with he/him pronouns.  
 
 - Realize that this might be another story from the other half the album (a different narrator and lover)
@@ -539,7 +541,7 @@ The track concludes with a final line that sends off the song on a hollow mantra
 "wetdream" dissects the compounded harms of identity abuse, addiction, and depression within a single toxic relationship. The song spirals from desperate denial to a drug-fueled self-erasure to a final resignation where drinking becomes the only way to endure almost a decade of abuse. The abuser weaponizes every vulnerability the protagonist possesses: his LGBTQ+ identity, his porn‑addled understanding of intimacy, his economic precarity, and his terror of being alone. This aligns with the HCDVCC report's definition of identity abuse: the abuser exploits marginalization because of it [REPORT]. Statistically, the protagonist mirrors the Trever Project's findings regarding substance abuse and the CDC's data where most queer youth feel hopeless in their life. Yet the song refuses to reduce him to a statistic. It instead stages a wrenching nature vs. nurture debate through the sickle cell metaphor and the events of tragedy that led him up to this point. He wavers between blaming an inherited predisposition and recognizing his suffering as a socially constructed tragedy. His abuse scars are not genetic, but he lacks the ability understand how systemic oppression can be internalized until survival feels like a biological response. By denying the protagonist redemption and not letting the track result, "wetdream" dodges tokenism. It presents abuse and addiction not as a single crisis but as a daily struggle where substances make survivable it, but never winnable.
 ## Song IX: lost in translation
 
-After 
+#comebacklater 
 
 ```ad-quote
 title: **lost in translation** 1:1:1-8
@@ -652,9 +654,11 @@ Struggling against his deep attachment, the protagonist tries to hold onto the l
 
 ### Summary and Connections
 
-
+#comebacklater 
 
 ## Song XIII: revisited
+
+This 20-minute masterpiece is what rounds off the struggles for the protagonist. It is where the artist blows all the smoke out of the way and reveals to the audience what he has experienced. Broken up into seven parts, it represents multiple different parts of the protagonists life as he experiences 
 
 - This is the part of the album where the narrator tears all the curtains back and reveals to the audience on what they have experienced
 - The climax and uncomfy resolution of the album
