@@ -885,8 +885,6 @@ Touch it 'til it works
 Suddenly, most of the instruments drop away as Willy, the main singer on the album, lets out some of the most emotional lines as the whole album leads to its climax. Even as he tries to move onto new intimate partners, he cannot get past how it feels to be touched by another person. No matter what anyone does, everything reminds them of the pain he endured. He is  so distraught because he wants to move on, but he cannot as it has left such an impression on him. Even after trying everything and getting into a consensual relationship, he might always have a little bit of the feeling in the back of his mind. The following lines illustrate the constant cycle of trying over and over again to feel better, but he keeps getting stuck on that feeling. His memories and his scars keep on reopening as he keeps living through the pain on repeat. 
 ### Part 7: Acceptance?
 
-- Even later after their last sexual encounter after leaving their abuser 
-
 ```ad-quote
 title: **revisited** 7:1:1-4
 Worn, so torn
@@ -902,10 +900,7 @@ title: **revisited** 7:1:8
 The feeling's ill, the rape was wrong
 ```
 
-This line is the first time that the narrator is directly calling out the deed by its name as something that he did not have control over. He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt by his abuser to get him to the point of destruction. This lyric, with the help of previous parts, buries the hatchet once and for all. It was not neither in his nature or his nurture that led him to despair, rather 
-
-- It is the first time that the narrator is finally calling out the deed by its name as something that he did not have control over
-- He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt by his abuser to get him to the point of distruction
+This line is the first time that the narrator is directly calling out the deed by its name as something that he did not have control over. He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt by his abuser to get him to the point of destruction. This lyric, with the help of previous parts, buries the hatchet once and for all. It was not neither in his nature or his nurture that led him to despair, rather a calculated move of cruelty designed by his abuser. This realization shifts the narrative burden from a fated tragedy to a deliberate crime, finally allowing the protagonist to detach his identity from the false belief that his suffering was an inherent flaw in his own existence.
 
 ```ad-quote
 title: **revisited** 7:1:9-11
@@ -914,14 +909,14 @@ That feeling stings, it goes away
 But not for long, it's staying shut
 ```
 
-- He starts to recognize the power dynamic that he had with his abuser
-- The guilt begins to come back in waves rather than permanent
-- Even if the narrator is doing better, he still continues to struggle with the pain he feels throughout the rest of your life.
+Once he comes to this realization, he starts to recognize the power dynamic that his abuser had over him and how it makes him feel guilty for what happened. As he moves away, he still feels the guilt come back and forth in waves, which will continue to give him pain and struggles throughout the rest of his life.
 
 ```ad-quote
 title: **revisited** 7:1:12
 The drug I feel I wouldn't want
 ```
+
+Unlike any other drug the narrator has taken up to this point, th
 
 - When compared to the rest of the drugs that he has done up to this point (cigarettes, weed, and even opoids) there is a drug that they continuously feel as well
 - As stated earlier the narrator kept equating his love to drugs throughout
