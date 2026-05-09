@@ -789,11 +789,8 @@ Just once again
 The taste of his lips
 ```
 
-As the protagonist sobers up from his opoid high, he feels the pull of his abuser’s manipulation. Even if he would be with another person, he would still continue to fantasize what it would if it was with his abuser instead. Once again, he loops back into the unfortunate cycle that he has been placed on as he ca
+As the protagonist sobers up from his opoid high, he feels the pull of his abuser’s manipulation. Even if he would be with another person, he would still continue to fantasize what it would if it was with his abuser instead. He inevitably regresses into the established cycle of trauma, having reached a point of psychological erosion where he can no longer distinguish the genuine potential of new intimacy from the chemical pull of addiction and his doomed attachment.
 
-- Happens as the narrator drifts back from the opoid high
-- Even after all of this, as seen many times throughout the album, the victim keeps getting pulled back
-- Even if they would with another person (“somebody”), they still continue to fantasize what it would have been like if it was with their abuser instead
 ### Part 4: Anger
 
 - The reveal to the family
@@ -804,6 +801,8 @@ Read the words of all the pages you ripped out, oh
 I skimmed the lines and saw your legs about to give in
 Could have helped you, the voice that calls you his friend, oh
 ```
+
+The protagonist, in a way to cope with what he feels, wrote is feelings down into a dairy. However, those pages were not meant to stick. He rips them out and throws them away as he does not want constant reminders of what happened whenever he goes to write about his day. However, for the first time in awhile, a new character is introduced in this section. A family member found the ripped-out pages and the leg scars on the protagonist. 
 
 - The narrator introduces a family/friend character here that found the diary pages that revealed the SA that they were going through
 - Ripped out because they did not want the constant reminders of the past
