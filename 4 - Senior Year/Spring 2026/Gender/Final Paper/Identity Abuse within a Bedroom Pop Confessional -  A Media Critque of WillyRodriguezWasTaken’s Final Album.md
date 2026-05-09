@@ -831,25 +831,14 @@ Along those lines of pearly white
 I stare so long, forgot to cry
 ```
 
-Part 5 begins with the direct aftermath of breaking everything off with the abuser. The protagonist struggles to communicate the pain to those he loves and potentially the authorities. He, broken over what happened, cannot put into words about how bad the abuse was. He is left both physically and mentally mangled and broken as they cannot figure out how to get put back together after what happened. The protagonist then looks down at the scars that have just started to heal as he 
-
-- Happens right after breaking off with the abuser
-- (Probably with the help of the family)
-- Goes over the direct aftermath and not being able to describe the pain to his family and potentially authorities
-- The narrator, so broken over what happened to them, cannot put into words about how bad the abuse was
-- Both physically and mentally, they are mangled and broken. They cannot figure out how to get put back together after what happened
-- Referring to the scars that they got from their abuser
-- Pearly white means that they are starting to heal
-- Staring so long at them, absolutely distraught at how much they hurt
+Part 5 begins with the direct aftermath of breaking everything off with the abuser. The protagonist struggles to communicate the pain to those he loves and potentially the authorities. He, broken over what happened, cannot put into words about how bad the abuse was. He is left both physically and mentally mangled and broken as they cannot figure out how to get put back together after what happened. The protagonist then looks down at the scars that have just started to heal, absolutely paralyzed on how much they remind him of her.
 
 ```ad-quote
 title: **revisited** 5:1:9-10
 It's not your fault you lived this life (*x2*)
 ```
 
-- One of my favorite lyrics off of the album
-- Regardless of the cards that were dealt, a person has to live through with them and deal with it. 
-- Making the best of the shitty situation is one of the few silver linings in the whole song
+Regardless of this, the protagonist tries to cheer himself on with a single simple sentence: “It's not your fault you lived this life.” Regardless of the cards that were dealt, a person has to live through with them to the best of their ability. It is one of the few silver linings in the whole album that gives hope to the protagonist. In a sense, this is where he begins to understand his own intersectionality and put blame on his abuser. He is beginning to realize that there are forces outside of his control that are not necessary biolog
 ### Part 6: Depression
 
 - The climax of the album
