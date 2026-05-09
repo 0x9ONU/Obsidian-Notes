@@ -940,7 +940,7 @@ In terms of cultural representation, the album captures what it means to face an
 
 The album refuses tokenism to the highest degree, challenges heteronormative assumptions, and avoids symbolic annihilation. It does not offer a redemptive arc, a heroic survivor narrative, or a tidy resolution. The Kauaʻi ʻōʻō ending ensures that his survival is not a triumphant victory. Instead, it challenges the expectation that LGBTQ+ characters must be resilient role models or cautionary tales. The protagonist, in this case, is simply a person enduring trauma without the adequate support provided by others. As for the dynamic, the use of a woman as the abuser and a trans man as the victim inverts the heteronormative dynamics of domestic violence. Not all abusers are men; not all victims are women. In terms of symbolic annihilation, the album ensures that the audience knows that the protagonist struggles because of systematic failures rather than a set of individual moral failings. Economic discrimination, lack of affirming healthcare, and isolation from family all combine together to create a support system that bottomed out when the protagonist needed it the most. 
 
-The piece of media is also able to teeter on the fine line of accuracy and propagation. While the album matches the statistical likelihoods of many risks the community faces, it deconstructs them rather than propagating them. When it comes to substance abuse, 
+The piece of media is also able to teeter on the fine line of accuracy and propagation. While the album matches the statistical likelihoods of many risks the community faces, it deconstructs them rather than propagating them. When it comes to substance abuse, the album shows why substance use is a coping mechanism for trauma and discrimination and not a lifestyle choice for young queers. This avoids the "addicted queer" stereotype by providing psychological depth. As for depression and suicidal thoughts, the protagonist has these thoughts throughout the album. However, the last ultimate refusal at the end of the album reflects the literature. Even though so many queer individuals face so many mental health hardships, help-seeking behavior has nearly doubled as more youth are aware of therapy services [Trevor]. This album does a great job ensuring suicide is not romantized, like “Romeo and Juilet”
 
 However, the album’s raw and graphic content could reinforce the stereotypes of LGBTQ+ as people who are inherently damaged. Detailed depictions of self-harm, sexual violence, and drug use all could be considered stereotypical behavior of queer individuals looking from the inside out. It could also teach younger individuals in the community that this is behavior that should be normalized or replicated. However, it is evident that the suffering throughout this album is a consequence of abuse, not inherently connected to the queer identity. The protagonist lives through this terrible nightmare because someone purposefully got him to this point. He did not chose to live this life or was he genetically disposed to getting abused. The statistics regarding LGBTQ+ people are so high because people often are too quick to place blame on who they are rather than how they got there. People should never be labeled as self- destructive, sexually deviant, or addicts due to a system that ultimately failed them for thousands of years.
 
@@ -950,10 +950,7 @@ Overall,
 - Does it fall into any tokenism or biases?
 - Does it match any statistics, or does it propagate them?
 
-- Film to album
-	- Protagonist finds it difficult to be able to truely explain how the abuse happened using
-	- He used the film segment as a way to explain what he felt without using his own words
-	- In a way, this album might be a way for the artist to cope with his own experiences as he cannot put his abuse into words as well
+- 
 # Future Work
 
 
@@ -962,6 +959,11 @@ Overall,
 - Workplace
 - Disease/Healthcare
 - Musicality
+- More songs
+- Film to album to artist
+	- Protagonist finds it difficult to be able to truely explain how the abuse happened using
+	- He used the film segment as a way to explain what he felt without using his own words
+	- In a way, this album might be a way for the artist to cope with his own experiences as he cannot put his abuse into words as well
 
 # Conclusion
 
