@@ -942,7 +942,7 @@ The album refuses tokenism to the highest degree, challenges heteronormative ass
 
 The piece of media is also able to teeter on the fine line of accuracy and propagation. While the album matches the statistical likelihood of victims returning to their abusers, it deconstructs them rather than propagating them.
 
-However, the album’s raw and graphic content could reinforce the stereotypes of LGBTQ+ as people who are inherently damaged. Detailed depictions of self-harm, sexual violence, and drug use all could be considered stereotypical behavior of queer individuals looking from the inside out. It could also teach younger individuals in the community that this is behavior th
+However, the album’s raw and graphic content could reinforce the stereotypes of LGBTQ+ as people who are inherently damaged. Detailed depictions of self-harm, sexual violence, and drug use all could be considered stereotypical behavior of queer individuals looking from the inside out. It could also teach younger individuals in the community that this is behavior that should be normalized or replicated. However, it is evident that the suffering throughout this album is a consequence of abuse, not inherently connected to the queer identity. The protagonist lives through this terrible nightmare because someone purposefully got him to this point. He did not chose to live this life or was he genetically disposed to getting abused. The statistics regarding LGBTQ+ people are so high because people often are too quick to place blame on who they are rather than how they go there. 
 
 Overall, 
 
