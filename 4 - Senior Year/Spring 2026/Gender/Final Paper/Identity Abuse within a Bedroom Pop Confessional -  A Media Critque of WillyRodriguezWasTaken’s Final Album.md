@@ -918,18 +918,7 @@ The drug I feel I wouldn't want
 
 Unlike any other drug the narrator has taken up to this point, he is referring to a metaphor instead. As stated throughout[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song IX lost in translation| “lost in translation”]] and this song, the narrator would often keep on equating his love to drugs throughout. This drug that he feels right now is the final withdrawals for an abusive love, the want to pass away. It is the fear of not being able to find a healthy partner again and to not be able to fully heal from such a tragedy that pushes him closer and closer to the edge. However, in spite of everything, the protagonist boldly pushes away from the thought has he does not want to take the final dose. As mentioned in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 1 Introduction |Part 1]], he wants to continue living in spite of the cards he was dealt, in spite of the choice someone else made, in spite of everything. Done all for the hope that one day, he might be able to get his version of a happy ending. 
 
-However, this last idea is ripped away from the audience as the instrumentals begin to chug along and fall apart as it moves along. Then, during the last 33 seconds of the album, the instrumentals drop and fall to the recording of a songbird. However, this is not an ordinary song bird call. It was the final recording of the last Kauaʻi ʻōʻō, a Hawaiian bird that went fully extinct shortly after he could no longer find a mate. The bird continues to call desperately for someone to return his mating call, but it is lost to the void of the forest as no one would ever respond to him. This marked the last remaining species of the honeyeaters family (Meliphagidae) to go extinct [https://dlnr.hawaii.gov/wildlife/birds/kauai-oo/]. If interpreted in the context of the album, 
-
-- When compared to the rest of the drugs that he has done up to this point (cigarettes, weed, and even opoids) there is a drug that they continuously feel as well
-- As stated earlier the narrator kept equating his love to drugs throughout
-	- lost in translation (1:1:10-11)
-	- lost in translation (1:3:23-26)
-- The drug he feels right now is the withdrawal of what he thought was love
-- The drug that can only satisfy his cravings is a final solutions: death
-- The stings can also relate to the withdrawals
-- Mention how the instrumentals after this part just begin to chug along and fall apart as it goes along
-- Mention the bird that I hate [source that fucking bird]
-
+However, this last idea is ripped away from the audience as the instrumentals begin to chug along and fall apart as it moves along. Then, during the last 33 seconds of the album, the instrumentals drop and fall to the recording of a songbird. However, this is not an ordinary song bird call. It was the final recording of the last Kauaʻi ʻōʻō, a Hawaiian bird that went fully extinct shortly after he could no longer find a mate. The bird continues to call desperately for someone to return his mating call, but it is lost to the void of the forest as no one would ever respond to him. This marked the last remaining species of the honeyeaters family (Meliphagidae) to go extinct [https://dlnr.hawaii.gov/wildlife/birds/kauai-oo/]. If interpreted in the context of the album, the protagonist feels that he is destined to the same fate of the Kauaʻi ʻōʻō. Desperately calling out for a love to save him, no one returns his calls. Deep-down, it reveals one of his true fears: the fear that he will die alone and be the last of the bloodline in his family. The album concludes with a total collapse in hope as the protagonist surrenders that this is his extinction.
 ## Summary and Connections
 
 - Film to album
