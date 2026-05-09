@@ -818,7 +818,7 @@ title: **revisited** 4:1:10
 Oh God, did you really have to hurt me so bad?
 ```
 
-The final line of the fourth part 
+The final line of the fourth part is another line that could have two distinct meanings: is it 
 
 - Double meaning
 - The family member speaking: they are hurt and distraught after learning about the truth of the matter
