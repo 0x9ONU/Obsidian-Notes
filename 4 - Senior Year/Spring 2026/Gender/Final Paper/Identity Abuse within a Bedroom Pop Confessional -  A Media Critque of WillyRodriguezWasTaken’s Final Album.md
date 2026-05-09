@@ -858,7 +858,7 @@ The way she used to touch you
 Made you feel so old
 ```
 
-This is the only time where the true nature of the crime is revealed. It is established that the narrator and their abuser have a significant age gap and that what the protagonist endured was actually
+This is the only time where the true nature of the crime is revealed. It is established that the narrator and their abuser have a significant age gap and that what the protagonist endured was actually statutory rape. This claim is further backed up by both the “Romeo and Juilet” reference from [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 3 “Smoke Me Out”| Part 3 of “wetdream”]] and [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 1 Introduction|Part 1]] of this song. Even though not explicitly confirmed, scholars often agree that there was also a large age gap between Romeo and Juilet, where Romeo (the abuser) is older than Juliet (the protagonist). Additionally, the first 
 
 - Referring to pedophilia
 - First time that it is established that there is a significant age gap and that this is actually statutory rape
