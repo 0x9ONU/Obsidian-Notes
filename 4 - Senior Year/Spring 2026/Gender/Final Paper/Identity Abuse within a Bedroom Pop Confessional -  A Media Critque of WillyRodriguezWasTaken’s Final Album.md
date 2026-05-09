@@ -934,7 +934,7 @@ However, this last idea is ripped away from the audience as the instrumentals be
 
 # Comparison
 
-
+To establish the work's cultural legitimacy, this analysis began by interrogating three core questions designed to determine whether the album serves as an authentic reflection of the LGBTQ+ experience or inadvertently reinforces harmful stereotypes. The first question asks if this media is a good representation of queer culture, making sure it follows what is expected to come out of the community. The second question ensures that the media does not fall into any potential tokenism or biases, which would further degrade both the legitimacy of the media and 
 
 - Is their work an accurate representation of culture?
 - Does it fall into any tokenism or biases?
