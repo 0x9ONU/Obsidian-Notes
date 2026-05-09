@@ -858,19 +858,17 @@ The way she used to touch you
 Made you feel so old
 ```
 
-This is the only time where the true nature of the crime is revealed. It is established that the narrator and their abuser have a significant age gap and that what the protagonist endured was actually statutory rape. This claim is further backed up by both the “Romeo and Juilet” reference from [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 3 “Smoke Me Out”| Part 3 of “wetdream”]] and [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 1 Introduction|Part 1]] of this song. Even though not explicitly confirmed, scholars often agree that there was also a large age gap between Romeo and Juilet, where Romeo (the abuser) is older than Juliet (the protagonist). Additionally, the first 
-
-- Referring to pedophilia
-- First time that it is established that there is a significant age gap and that this is actually statutory rape
-- Reminder of the Romeo and Juliet metaphor
-- Reminder of the beginning of the album
-- NOTE: I did not realize that this was the case until looking closer into the album
+This is the only time where the true nature of the crime is revealed. It is established that the narrator and their abuser have a significant age gap and that what the protagonist endured was actually statutory rape. This claim is further backed up by both the “Romeo and Juilet” reference from [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 3 “Smoke Me Out”| Part 3 of “wetdream”]] and [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 1 Introduction|Part 1]] of this song. Even though not explicitly confirmed, scholars often agree that there was also a large age gap between Romeo and Juilet, where Romeo (the abuser) is older than Juliet (the protagonist). Additionally, the abuser/victim dynamic from the beginning of the album was also explicitly between a minor and an adult. Regardless, in this context, this line is shivering in how it is delivered and hurts to listen to on every relisten…
 
 ```ad-quote
 title: **revisited** 6:1:4-5
 Run your thumb across its surface tension
 To relive it all
 ```
+
+As the song begins to build towards its climax, the protagonist begins to 
+
+#comebacklater 
 
 - Build up to the climax of the album
 - Surface tension referring to what is left of the healing scars
@@ -880,6 +878,8 @@ To relive it all
 title: **revisited** 6:1:6-9
 Oh my god, it never felt so wrong (*x4*)
 ```
+
+Suddenly, most of the instruments drop away as Willy, the main singer on the album, lets out some of the most emotional lines as the whole album leads to its climax. Even as he tries to move onto new intimate partners, he cannot get past how it feels to be touched by another person. No matter what anyone does, everything reminds them of the pain he endured. He is  so distraught because he, as stated throughout the song, wants to move on, but he cannot as it has left such an impression on him.
 
 - Climax of the album
 - Scariest screams tbh
