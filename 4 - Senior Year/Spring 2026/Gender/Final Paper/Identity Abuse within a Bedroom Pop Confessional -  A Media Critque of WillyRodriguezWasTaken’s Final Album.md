@@ -831,14 +831,14 @@ Along those lines of pearly white
 I stare so long, forgot to cry
 ```
 
-Part 5 begins with the direct aftermath of breaking everything off with the abuser. The protagonist struggles to communicate the pain to those he loves and potentially the authorities. He, broken over what happened, cannot put into words about how bad the abuse was. He is left both physically and mentally mangled and broken as they cannot figure out how to get put back together after what happened. The protagonist then looks down at the scars that have just started to heal, absolutely paralyzed on how much they remind him of her.
+Part 5 begins with the direct aftermath of breaking everything off with the abuser. The protagonist struggles to communicate the pain to those he loves and potentially the authorities. He cannot put into words about how bad the abuse was. He is left both physically and mentally mangled and broken as they cannot figure out how to get put back together after what happened. The protagonist then looks down at the scars that have just started to heal, absolutely paralyzed on how much they remind him of her.
 
 ```ad-quote
 title: **revisited** 5:1:9-10
 It's not your fault you lived this life (*x2*)
 ```
 
-Regardless of this, the protagonist tries to cheer himself on with a single simple sentence: “It's not your fault you lived this life.” Regardless of the cards that were dealt, a person has to live through with them to the best of their ability. It is one of the few silver linings in the whole album that gives hope to the protagonist. In a sense, this is where he begins to understand his own intersectionality and put blame on his abuser. He is beginning to realize that there are forces outside of his control that are not necessary biolog
+Regardless of this, the protagonist tries to cheer himself on with a single simple sentence: “It's not your fault you lived this life.” Regardless of the cards that were dealt, a person has to live through with them to the best of their ability. It is one of the few silver linings in the whole album that gives hope to the protagonist. In a sense, this is where he begins to understand his own intersectionality and put blame on his abuser. He is beginning to realize that there are forces outside of his control that are not necessary biologically, but rather are socially placed on him. It is not his fault of being born into this faulty body after all. It is the social system that failed him to get out before it was too late. It is the single terrible person that got him to the brink of destruction.
 ### Part 6: Depression
 
 - The climax of the album
@@ -850,15 +850,15 @@ title: **revisited** 6:1:1
 Know you're semi-solid gold
 ```
 
-- Semi solid gold means jewelry that has a partially hollow interior. Here it could be a metaphor for how trauma can make someone feel like they lost a part of themselves leaving them feeling “partially hollow”
-- The abuser, as stated earlier, removed the meaning from his life and removed everything he had to the point he does not know who he is anymore.
-- Gold, being a desirable look, prob relates to how he looks okay on the outside, but he has nothing left on the inside.
+Here, semi-solid gold refers to jewelry that has a partially hollow interior. It is a metaphor for how trauma can make someone feel like they lost a part of themselves and are not truly whole anymore. This ties back to [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 3 Denial|Part 3]], where the abuser removed the meaning from his life and destroyed his social connections in order to gain control.
 
 ```ad-quote
 title: **revisited** 6:1:2-3
 The way she used to touch you
 Made you feel so old
 ```
+
+
 
 - Referring to pedophilia
 - First time that it is established that there is a significant age gap and that this is actually statutory rape
