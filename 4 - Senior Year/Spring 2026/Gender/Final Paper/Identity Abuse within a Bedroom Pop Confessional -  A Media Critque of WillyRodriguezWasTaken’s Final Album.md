@@ -94,10 +94,18 @@ Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Compre
 All these statistics reflect real, lived experiences of minority stress that media representations can either reinforce or challenge. When media portrays LGBTQ+ characters primarily through narratives of addiction, trauma, or self-destructive behavior without context or depth, it risks tokenism and symbolic annihilation. It is important to ensure the media we are critiquing is not continuing on this stereotype and rather either challenges it or provides a new way to express the real pain the author is feeling.
 # Album Analysis
 
-Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 7 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, “playing dead”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these songs should be listened to and considered in the broader context of the whole album even if they are out of the scope of this analysis. From there, the significant lyric from each song are outlined and analyzed for two main purposes: (1) to outline the story told throughout the album, and (2) compared to the current statistics and literature surrounding LGBTQ+ individuals. This way, any potential tokenism and biases can be confirmed or denied. Is this media a good representation of LGBTQ+ struggles, or is it a way to propagate statistics? Also, it is recommended listening to the whole album before continuing as everything from here on out spoils the twists towards the later-half of the album.
+Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 7 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, “playing dead”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these songs should be listened to and considered in the broader context of the whole album even if they are out of the scope of this analysis. From there, the significant lyric from each song are outlined and analyzed for two main purposes: (1) to outline the story told throughout the album, and (2) compared to the current statistics and literature surrounding LGBTQ+ individuals. This way, any potential tokenism and biases can be confirmed or denied. Is this media a good representation of LGBTQ+ struggles, or is it a way to propagate statistics? Therefore, the following three questions will be asked to ensure this is good LGBTQ+ media:
 
-Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section.
+1. Is their work an accurate representation of culture?
+2. Does it fall into any tokenism or biases?
+3. Is it an accurate representation of the statistics, or does it propagate them?
 
+Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section. 
+
+```ad-danger
+title: Warning
+Also, it is recommended **listening to the whole album** before continuing as everything from here on out spoils the twists towards the later-half of the album.
+```
 ## Song II: stop calling
 
 Though not the first track on the album, "stop calling" functions as its true emotional opener, establishing the dynamic between the narrator and his romantic interest that will haunt the rest of the record. The song traces a trajectory of escalating desperation: the narrator begins by seeking physical closeness but quickly spirals into a need for verbal affirmation, ownership, and ultimately a fear of abandonment. From a gender studies perspective, this arc reveals a deeply insecure narrator whose sense of self-worth is contingent upon being desired and claimed by another.
@@ -923,17 +931,22 @@ However, this last idea is ripped away from the audience as the instrumentals be
 
 “revisited” functions as the album’s devastating climax, tracing an arc across seven parts while refusing the closure at the last second. The Mysterious Skin (2004) sample immediately signals that the trauma is sexual and that the protagonist cannot verbalize it directly. Part 2 delivers the long‑withheld revelation of rape and the first acknowledgment that the protagonist is a trans man, recontextualizing every prior song as a symptom of stolen adolescence. Part 3 details how the abuser isolated him by replacing friends with opioids. Part 6 then escalates into a visceral loop of triggered memories where even consensual touch feels wrong.  Part 7 finally breaks the nature‑vs‑nurture debate from earlier songs: it was never destiny or tragedy, but a deliberate crime caused by the abuser. Yet the song does not end in triumph. Even though the protagonist rejects suicide, the album closes with the last call of the extinct Kauaʻi ʻōʻō, a metaphor for surviving alone. This aligns with the HCDVCC report on identity abuse as the abuser clearly weaponsizes his age, his identity, and his relgious guilt to manipulate him. The Trevor Project’s data on substance use as insufficient coping is also on full display here. Finally, CDC’s statistics on persistent hopelessness among LGBTQ+ youth is also present as the final minute of the song provides no hope for the protagonist [ALL SOURCES HERE]. By offering no redemption, “revisited” rejects tokenism. There are no happy endings, and the main character does not fall into any stereotypes as it tells a tragic tale through-and-through. It also fights against heteronormative stereotypes by pushing a narrative that trans men, two traits that often intersect at weak social support, can also face domestic abuse just like anyone else.
 
-- Film to album
-	- Protagonist finds it difficult to be able to truely explain how the abuse happened using
-	- He used the film segment as a way to explain what he felt without using his own words
-	- In a way, this album might be a way for the artist to cope with his own experiences as he cannot put his abuse into words as well
+
 # Comparison
+
+
 
 - Is their work an accurate representation of culture?
 - Does it fall into any tokenism or biases?
 - Does it match any statistics, or does it propagate them?
 
+- Film to album
+	- Protagonist finds it difficult to be able to truely explain how the abuse happened using
+	- He used the film segment as a way to explain what he felt without using his own words
+	- In a way, this album might be a way for the artist to cope with his own experiences as he cannot put his abuse into words as well
 # Future Work
+
+
 
 - Religion
 - Workplace
