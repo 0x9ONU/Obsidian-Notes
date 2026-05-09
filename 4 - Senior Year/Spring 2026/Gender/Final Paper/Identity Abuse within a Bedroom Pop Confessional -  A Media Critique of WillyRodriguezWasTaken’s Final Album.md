@@ -945,9 +945,7 @@ The piece of media is also able to teeter on the fine line of accuracy and propa
 However, the album’s raw and graphic content could reinforce the stereotypes of LGBTQ+ as people who are inherently damaged. Detailed depictions of self-harm, sexual violence, and drug use all could be considered stereotypical behavior of queer individuals looking from the inside out. It could also teach younger individuals in the community that this is behavior that should be normalized or replicated. However, it is evident that the suffering throughout this album is a consequence of abuse, not inherently connected to the queer identity. The protagonist lives through this terrible nightmare because someone purposefully got him to this point. He did not chose to live this life or was he genetically disposed to getting abused. The statistics regarding LGBTQ+ people are so high because people often are too quick to place blame on who they are rather than how they got there. People should never be labeled as self- destructive, sexually deviant, or addicts due to a system that ultimately failed them for thousands of years.
 # Future Work
 
-[b1-b2] 
-
-[Workplace Harassment of Transgender People - A Narrative Review]
+Even with this massive paper, there are still some key themes that were not covered. Firstly, Christianity has a lot of references throughout the album, with the blood and body of Christ being eaten multiple times throughout the album [b1-b2]. Workplace harrassment could also be a reason why the protagonist is homeless and relies on his abuser to for shelter [Workplace Harassment of Transgender People - A Narrative Review]. Additionally, the terrible healthcare system could propagate the protagonist’s lack of support for their depression, transition, and substance abuse. Musicality, the songs also have plenty of themes as melodies are re-used multiple times as motifs throughout the album’s runtime. Finally, the connection between Mysterious Skin, the album, and both  could also be further explored. There is a chance that both characters are 
 
 - Religion
 - Workplace
