@@ -811,17 +811,14 @@ We'd make it work this time
 My baby, you'll always be mine
 ```
 
-Yet again, even after beginning to come to terms with everything, the protagonist is grasping at straws trying to find out how to make their relationship after everything that has happened. As a reference to [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 4 “So Make it Work Tonight”|Part 4 of “wetdream”]], he begins to try an
-
-- links back to the song “wetdream” where the singer repeats “So make it work tonight” 3 times over at the end of the song.
-- Yet again, the narrator is grasping at straws trying to find out how to make their relationship after everything that has happened
-- Yet again, the push and pull dynamic pulls the narrator back to the abuser, as they start to feel the pressure of someone on the outside helping again
-- Mentioned in an earlier part regarding how they push all their friends and loved ones away to get closer to their abuser
+Yet again, even after beginning to come to terms with everything, the protagonist is grasping at straws trying to find out how to make their relationship after everything that has happened. As a reference to [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 4 “So Make it Work Tonight”|Part 4 of “wetdream”]], he begins to confide in the abuser once again as he starts to feel the pressure of someone from the outside trying to break what is left of her. The protagonist, used to pushing all his friends and loved ones away, is panicking since he did not think anyone might be able to save him.
 
 ```ad-quote
 title: **revisited** 4:1:10
 Oh God, did you really have to hurt me so bad?
 ```
+
+The final line of the fourth part 
 
 - Double meaning
 - The family member speaking: they are hurt and distraught after learning about the truth of the matter
