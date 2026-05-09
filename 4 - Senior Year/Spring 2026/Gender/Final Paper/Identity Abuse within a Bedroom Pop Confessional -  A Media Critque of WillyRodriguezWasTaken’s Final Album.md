@@ -818,7 +818,7 @@ title: **revisited** 4:1:10
 Oh God, did you really have to hurt me so bad?
 ```
 
-The final line of the fourth part is another line that could have two distinct meanings: is it 
+The final line of the fourth part is another line that could have two distinct meanings: is it (1) taken from the perspective the family member, or (2) taken from the perspective of the protagonist? The family member might be describing how hurt and distraught after learning about the truth of the matter. As a loved-one, they feel like they failed and should have been there earlier. However, the latter argument has more validity. The protagonist is upset that the abuser hurt him in the first place, hoping that they could have had an amazing relationship otherwise. 
 
 - Double meaning
 - The family member speaking: they are hurt and distraught after learning about the truth of the matter
