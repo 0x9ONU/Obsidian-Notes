@@ -802,12 +802,7 @@ I skimmed the lines and saw your legs about to give in
 Could have helped you, the voice that calls you his friend, oh
 ```
 
-The protagonist, in a way to cope with what he feels, wrote is feelings down into a dairy. However, those pages were not meant to stick. He rips them out and throws them away as he does not want constant reminders of what happened whenever he goes to write about his day. However, for the first time in awhile, a new character is introduced in this section. A family member found the ripped-out pages and the leg scars on the protagonist. 
-
-- The narrator introduces a family/friend character here that found the diary pages that revealed the SA that they were going through
-- Ripped out because they did not want the constant reminders of the past
-- This is close to reality as confessions often happen through paper and not verbally
-- The family member feels guilty about not knowing sooner or being able to help out sooner
+The protagonist, in a way to cope with what he feels, wrote is feelings down into a dairy. However, those pages were not meant to stick. He rips them out and throws them away as he does not want constant reminders of what happened whenever he goes to write about his day. However, for the first time in awhile, a new character is introduced in this section. A family member found the ripped-out pages and the leg scars on the protagonist. After discovering the dark secret, the family member is left in despair as they felt that they could have stopped it if only they knew. 
 
 ```ad-quote
 title: **revisited** 4:1:7-9
@@ -815,6 +810,8 @@ If you could see me tonight
 We'd make it work this time
 My baby, you'll always be mine
 ```
+
+Yet again, even after beginning to come to terms with everything, the protagonist is grasping at straws trying to find out how to make their relationship after everything that has happened. As a reference to [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 4 “So Make it Work Tonight”|Part 4 of “wetdream”]], he begins to try an
 
 - links back to the song “wetdream” where the singer repeats “So make it work tonight” 3 times over at the end of the song.
 - Yet again, the narrator is grasping at straws trying to find out how to make their relationship after everything that has happened
