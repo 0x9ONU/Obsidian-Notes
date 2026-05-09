@@ -866,30 +866,12 @@ Run your thumb across its surface tension
 To relive it all
 ```
 
-As the song begins to build towards its climax, the protagonist begins to 
-
-#comebacklater 
-
-- Build up to the climax of the album
-- Surface tension referring to what is left of the healing scars
-- The relief is the tension that has been built up with years of tramua
+As the song begins to build towards its climax, the protagonist begins to feel his own history, using the surface tension of his healing scars as a physical record of his endurance. This reference to tension functions as a dual metaphor for both the literal skin stretched over a wound and the immense psychological pressure accumulated through years of suppressed trauma. This signals the final rupture of the album’s narrative, transforming his scars from silent evidence of victimization into the primary conductors for a release that is as violent as it is necessary.
 
 ```ad-quote
-title: **revisited** 6:1:6-9
+title: **revisited** 6:1:6-9, 15-22
 Oh my god, it never felt so wrong (*x4*)
-```
 
-Suddenly, most of the instruments drop away as Willy, the main singer on the album, lets out some of the most emotional lines as the whole album leads to its climax. Even as he tries to move onto new intimate partners, he cannot get past how it feels to be touched by another person. No matter what anyone does, everything reminds them of the pain he endured. He is  so distraught because he, as stated throughout the song, wants to move on, but he cannot as it has left such an impression on him.
-
-- Climax of the album
-- Scariest screams tbh
-- Instrumentation almost fully drops away
-- Even as they try to move onto new intimate partners, they cannot get past their past relationship
-- No matter what he does, everything reminds them of the pain they endured
-- He is  so distraught because he, as stated throughout the song, wants to move on, but he cannot as it has left such an impression on him.
-
-```ad-quote
-title: **revisited** 6:1:15-22
 Touch it 'til it burns
 Touch it 'til it burns
 Touch it 'til it hurts
@@ -900,9 +882,7 @@ Touch it 'til it hurts
 Touch it 'til it works
 ```
 
-- The trauma of that feeling, since the previous lyric talks about ripping holes, and a lot of people who experience SA have a sex repulsion because every time they or someone else touches there it brings back memories. So the burning is the memories reopening and sometimes with trauma like that, you feel the pain again too, and the hurts is that pain and the works is trying to get over it.
-- It is the slow process of getting over what has happened to finally feel safe with another person again
-- A sad, but growing process
+Suddenly, most of the instruments drop away as Willy, the main singer on the album, lets out some of the most emotional lines as the whole album leads to its climax. Even as he tries to move onto new intimate partners, he cannot get past how it feels to be touched by another person. No matter what anyone does, everything reminds them of the pain he endured. He is  so distraught because he wants to move on, but he cannot as it has left such an impression on him. Even after trying everything and getting into a consensual relationship, he might always have a little bit of the feeling in the back of his mind. The following lines illustrate the constant cycle of trying over and over again to feel better, but he keeps getting stuck on that feeling. His memories and his scars keep on reopening as he keeps living through the pain on repeat. 
 ### Part 7: Acceptance?
 
 - Even later after their last sexual encounter after leaving their abuser 
@@ -914,6 +894,8 @@ Begot those measly words
 In sought of something more
 Leak out the reddish blush
 ```
+
+These final introductory lines 
 
 - These final lines capture the narrator's attempt to speak his truth after a lifetime of silence. The words are small and inadequate (“measly”), but they are all he has. The truth leaks out involuntarily — blood and shame mixed together — and he is left “worn, so torn,” still searching for something more than survival. It is not an ending of triumph, but of fragile, unresolved honesty.
 - The bleeding from the wounds continue as many more are added (self-harm)
