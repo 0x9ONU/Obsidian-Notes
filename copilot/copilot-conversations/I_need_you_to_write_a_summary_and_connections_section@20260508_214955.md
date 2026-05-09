@@ -26,7 +26,7 @@ Coming from the last song, *dish rags* takes the uncertainty the narrator has wi
 ```
 
 don't be afraid to do another paragraph just for the connection bullets points here
-[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
+[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album.md]
 [Timestamp: 2026/05/08 21:49:55]
 
 **ai**: ## Summary and Connections
@@ -51,7 +51,7 @@ In sum, “revisited” is not a conclusion but a threshold. It names the crime,
 [Timestamp: 2026/05/08 21:50:25]
 
 **user**: shorter overall. One paragraph for a brief summary and the connections, while another paragraph for how the film, album, and artist are intrinsically connected
-[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
+[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album.md]
 [Timestamp: 2026/05/08 21:51:52]
 
 **ai**: ## Summary and Connections
@@ -68,7 +68,7 @@ The film, album, and artist are intrinsically connected through a shared inabili
 - Does it match any statistics, or does it propagate them?
 
 can you help make some bullet points for this based on what I have so far? There is a lot and I could use some pointers
-[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
+[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album.md]
 [Timestamp: 2026/05/08 22:01:24]
 
 **ai**: Based on your extensive analysis, here are some structured bullet points for the **Comparison** section. I've drawn from the themes, statistical alignments, and critical terminology you've already established.
@@ -102,3 +102,30 @@ can you help make some bullet points for this based on what I have so far? There
 
 Would you like me to expand any of these points into prose paragraphs for your paper, or adjust the focus toward a particular argument (e.g., stronger defense against tokenism, tighter statistical alignment)?
 [Timestamp: 2026/05/08 22:01:46]
+
+**user**: # Future Work
+
+
+
+- Religion
+- Workplace
+- Disease/Healthcare
+- Musicality
+- More songs
+- Film to album to artist
+	- Protagonist finds it difficult to be able to truely explain how the abuse happened using
+	- He used the film segment as a way to explain what he felt without using his own words
+	- In a way, this album might be a way for the artist to cope with his own experiences as he cannot put his abuse into words as well
+
+flesh this out a bit so I can write the rest
+[Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album.md]
+[Timestamp: 2026/05/08 23:00:33]
+
+**ai**: 
+<errorChunk>Something went wrong. Please check if you have set your API key.
+Path: Settings > copilot plugin > Basic Tab > Set Keys.
+Or check model config
+Error Details: 401 Authentication Fails, Your api key: ****25d4 is invalid
+
+</errorChunk>
+[Timestamp: 2026/05/08 23:00:35]
