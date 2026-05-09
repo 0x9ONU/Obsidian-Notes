@@ -105,7 +105,7 @@ rewrite the paragraph above completely, but this time for domestic abuse. Change
 [Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/(Witty Title Here).md]
 [Timestamp: 2026/04/29 16:03:23]
 
-**ai**: Based on your existing structure in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album]], here's a opening paragraph for the Background section that introduces the artist biography and album information while framing why that context matters before the literature review:
+**ai**: Based on your existing structure in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album]], here's a opening paragraph for the Background section that introduces the artist biography and album information while framing why that context matters before the literature review:
 
 ---
 
