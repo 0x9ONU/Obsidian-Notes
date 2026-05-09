@@ -895,27 +895,14 @@ In sought of something more
 Leak out the reddish blush
 ```
 
-These final introductory lines 
-
-- These final lines capture the narrator's attempt to speak his truth after a lifetime of silence. The words are small and inadequate (“measly”), but they are all he has. The truth leaks out involuntarily — blood and shame mixed together — and he is left “worn, so torn,” still searching for something more than survival. It is not an ending of triumph, but of fragile, unresolved honesty.
-- The bleeding from the wounds continue as many more are added (self-harm)
-- They are finally able to find the words to explain the SA, but still are not good enough
-
-```ad-quote
-title: **revisited** 7:1:5-6
-Once I'm high, I'll entourage
-That little sting to fuck me up
-```
-
-- This line actually means a few things at once
-	- Self-harm
-	- Pain found remembering what happened when they get touched by someone else
-	- A needle for continued opioid abuse
+These final introductory lines capture the narrator’s attempt to speak his truth after a lifetime of silence. When compared to earlier in the album, the little words he can say come out involuntarily as he is left battered and defeated. Even though he found some of the words to explain his feeling, he still left distraught as his scars begin to bleed once more due to his own self-harm.
 
 ```ad-quote
 title: **revisited** 7:1:8
 The feeling's ill, the rape was wrong
 ```
+
+This line is the first time that the narrator is directly calling out the deed by its name as something that he did not have control over. He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt by his abuser to get him to the point of destruction. This lyric, with the help of previous parts, buries the hatchet once and for all. It was not neither in his nature or his nurture that led him to despair, rather 
 
 - It is the first time that the narrator is finally calling out the deed by its name as something that he did not have control over
 - He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt by his abuser to get him to the point of distruction
