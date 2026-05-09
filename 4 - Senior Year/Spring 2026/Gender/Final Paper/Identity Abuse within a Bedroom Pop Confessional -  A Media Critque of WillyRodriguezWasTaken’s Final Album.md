@@ -916,7 +916,7 @@ title: **revisited** 7:1:12
 The drug I feel I wouldn't want
 ```
 
-Unlike any other drug the narrator has taken up to this point, th
+Unlike any other drug the narrator has taken up to this point, he is referring to a metaphor instead. As stated throughout [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song IX lost in translation| “lost in translation”]] and this song, the narrator would often keep on equating his love to drugs throughout. This drug that he feels right now is the final withdrawals for an abusive love, the want to pass away. It is the fear of not being able to find a healthy partner again and to not be able to fully heal from such a tragedy that pushes him closer and closer to the edge.  
 
 - When compared to the rest of the drugs that he has done up to this point (cigarettes, weed, and even opoids) there is a drug that they continuously feel as well
 - As stated earlier the narrator kept equating his love to drugs throughout
