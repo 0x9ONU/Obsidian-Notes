@@ -818,18 +818,9 @@ title: **revisited** 4:1:10
 Oh God, did you really have to hurt me so bad?
 ```
 
-The final line of the fourth part is another line that could have two distinct meanings: is it (1) taken from the perspective the family member, or (2) taken from the perspective of the protagonist? The family member might be describing how hurt and distraught after learning about the truth of the matter. As a loved-one, they feel like they failed and should have been there earlier. However, the latter argument has more validity. The protagonist is upset that the abuser hurt him in the first place, hoping that they could have had an amazing relationship otherwise. 
-
-- Double meaning
-- The family member speaking: they are hurt and distraught after learning about the truth of the matter
-- The narrator: he is upset that their abuser hurt them, as they could have been a good relationship otherwise. They still care for the abuser since they have been manipulated into loving them. 
-	- Restates the conclusion of the third part
-- The narrator wishes that he did not have to go through any of the pain he felt and feels like a burden on having to come out with his family member as well
+The final line of the fourth part is another line that could have two distinct meanings: is it (1) taken from the perspective the family member, or (2) taken from the perspective of the protagonist? The family member might be describing how hurt and distraught after learning about the truth of the matter. As a loved-one, they feel like they failed and should have been there earlier. However, the latter argument has more validity. The protagonist is upset that the abuser hurt him in the first place, hoping that they could have had normal relationship otherwise. The narrator also wishes to not put burden on the family member that learned the truth.
 ### Part 5: Bargaining
 
-- Happens right after breaking off with the abuser
-- (Probably with the help of the family)
-- Goes over the direct aftermath and not being able to describe the pain to his family and potentially authorities
 
 ```ad-quote
 title: **revisited** 5:1:1-2, 7-8
@@ -840,6 +831,11 @@ Along those lines of pearly white
 I stare so long, forgot to cry
 ```
 
+Part 5 begins with the direct aftermath of breaking everything off with the abuser. The protagonist struggles to communicate the pain to those he loves and potentially the authorities. He, broken over what happened, cannot put into words about how bad the abuse was. He is left both physically and mentally mangled and broken as they cannot figure out how to get put back together after what happened. The protagonist then looks down at the scars that have just started to heal as he 
+
+- Happens right after breaking off with the abuser
+- (Probably with the help of the family)
+- Goes over the direct aftermath and not being able to describe the pain to his family and potentially authorities
 - The narrator, so broken over what happened to them, cannot put into words about how bad the abuse was
 - Both physically and mentally, they are mangled and broken. They cannot figure out how to get put back together after what happened
 - Referring to the scars that they got from their abuser
