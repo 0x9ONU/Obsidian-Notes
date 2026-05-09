@@ -1,6 +1,6 @@
 ```ad-warning
 title: Trigger Warnings
-Drug Abuse, Domestic Violence, R---, Suicide, and graphic depictions of harm
+Drug Abuse, Domestic Violence, R---, Suicide, and graphic depictions of harm.
 ```
 
 # Introduction
@@ -94,7 +94,7 @@ Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Compre
 All these statistics reflect real, lived experiences of minority stress that media representations can either reinforce or challenge. When media portrays LGBTQ+ characters primarily through narratives of addiction, trauma, or self-destructive behavior without context or depth, it risks tokenism and symbolic annihilation. It is important to ensure the media we are critiquing is not continuing on this stereotype and rather either challenges it or provides a new way to express the real pain the author is feeling.
 # Album Analysis
 
-Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 7 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, “playing dead”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these songs should be listened to and considered in the broader context of the whole album even if they are out of the scope of this analysis. From there, the significant lyric from each song are outlined and analyzed for two main purposes: (1) to outline the story told throughout the album, and (2) compared to the current statistics and literature surrounding LGBTQ+ individuals. This way, any potential tokenism and biases can be confirmed or denied. Is this media a good representation of LGBTQ+ struggles, or is it a way to propagate statistics?
+Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 7 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, “playing dead”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these songs should be listened to and considered in the broader context of the whole album even if they are out of the scope of this analysis. From there, the significant lyric from each song are outlined and analyzed for two main purposes: (1) to outline the story told throughout the album, and (2) compared to the current statistics and literature surrounding LGBTQ+ individuals. This way, any potential tokenism and biases can be confirmed or denied. Is this media a good representation of LGBTQ+ struggles, or is it a way to propagate statistics? Also, it is recommended listening to the whole album before continuing as everything from here on out spoils the twists towards the later-half of the album.
 
 Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section.
 
@@ -858,11 +858,12 @@ The way she used to touch you
 Made you feel so old
 ```
 
-
+This is the only time where the true nature of the crime is revealed. It is established that the narrator and their abuser have a significant age gap and that what the protagonist endured was actually
 
 - Referring to pedophilia
 - First time that it is established that there is a significant age gap and that this is actually statutory rape
 - Reminder of the Romeo and Juliet metaphor
+- Reminder of the beginning of the album
 - NOTE: I did not realize that this was the case until looking closer into the album
 
 ```ad-quote
