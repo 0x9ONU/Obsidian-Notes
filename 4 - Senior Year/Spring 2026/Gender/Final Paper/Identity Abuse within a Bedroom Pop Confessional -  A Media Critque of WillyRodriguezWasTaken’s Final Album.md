@@ -934,7 +934,9 @@ However, this last idea is ripped away from the audience as the instrumentals be
 
 # Comparison
 
-To establish the work's cultural legitimacy, this analysis began by interrogating three core questions designed to determine whether the album serves as an authentic reflection of the LGBTQ+ experience or inadvertently reinforces harmful stereotypes. The first question asks if this media is a good representation of queer culture, making sure it follows what is expected to come out of the community. The second question ensures that the media does not fall into any potential tokenism or biases, which would further degrade both the legitimacy of the media and 
+To establish the work's cultural legitimacy, this analysis began by interrogating three core questions designed to determine whether the album serves as an authentic reflection of the LGBTQ+ experience or inadvertently reinforces harmful stereotypes. The first question asks if this media is a good representation of queer culture, making sure it follows what is expected to come out of the community. The second question ensures that the media does not fall into any potential tokenism or biases, which would further degrade both the legitimacy of the media and the community as a whole. Finally, it is critical that all the risks and struggles brought up in the media are accurate to what the LGBTQ+ population faces as that could risk propagating a false narrative to someone who takes it out of context.
+
+In terms of cultural representation, the album captures what it means to face an intersectional reality everyday. In particular, both characters outline the compounded vulnerabilities of being a young trans man: finding LGBTQ+ identity, avoiding economic issues, not overcoming to religious guilt, and 
 
 - Is their work an accurate representation of culture?
 - Does it fall into any tokenism or biases?
