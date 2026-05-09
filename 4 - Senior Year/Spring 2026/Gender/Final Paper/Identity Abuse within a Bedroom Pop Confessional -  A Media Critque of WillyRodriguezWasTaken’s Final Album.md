@@ -921,6 +921,8 @@ Unlike any other drug the narrator has taken up to this point, he is referring t
 However, this last idea is ripped away from the audience as the instrumentals begin to chug along and fall apart as it moves along. Then, during the last 33 seconds of the album, the instrumentals drop and fall to the recording of a songbird. However, this is not an ordinary song bird call. It was the final recording of the last Kauaʻi ʻōʻō, a Hawaiian bird that went fully extinct shortly after he could no longer find a mate. The bird continues to call desperately for someone to return his mating call, but it is lost to the void of the forest as no one would ever respond to him. This marked the last remaining species of the honeyeaters family (Meliphagidae) to go extinct [https://dlnr.hawaii.gov/wildlife/birds/kauai-oo/]. If interpreted in the context of the album, the protagonist feels that he is destined to the same fate of the Kauaʻi ʻōʻō. Desperately calling out for a love to save him, no one returns his calls. Deep-down, it reveals one of his true fears: the fear that he will die alone and be the last of the bloodline in his family. The album concludes with a total collapse in hope as the protagonist surrenders that this is his extinction.
 ## Summary and Connections
 
+
+
 - Film to album
 	- Protagonist finds it difficult to be able to truely explain how the abuse happened using
 	- He used the film segment as a way to explain what he felt without using his own words
