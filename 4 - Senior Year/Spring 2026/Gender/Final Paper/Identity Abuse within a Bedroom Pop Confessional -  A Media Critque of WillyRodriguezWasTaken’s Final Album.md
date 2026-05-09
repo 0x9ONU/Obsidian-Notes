@@ -779,12 +779,7 @@ Leave the vice on the couch
 So you can shoot it in our veins
 ```
 
-Based on the specific usage words here, this is the first time album mentioned a drug that is more dangerous and prolific than anything else: opioids. This classification of depressant drugs are known to relieve pain and release dopamine by acting on receptors in the brain [OPIOD SOURCE]. Even though they have their medical use in surgery and patients going through immense pain, they are known to be incredibly addictive and can even lead to death if dosed incorrectly. From a narrative perspective, shooting opiods
-
-- First time a harder drug was mentioned on the album
-- Assuming the time this came out, this is most likely some sort of opioid 
-- Shooting into the veins is a needle
-- [opiod crisis here]
+Based on the specific usage words here, this is the first time album mentioned a drug that is more dangerous and prolific than anything else: opioids. This classification of depressant drugs are known to relieve pain and release dopamine by acting on receptors in the brain [OPIOD SOURCE]. Even though they have their medical use in surgery and patients going through immense pain, they are known to be incredibly addictive and can even lead to death if dosed incorrectly. In particular, shooting opiods using a needle is often done by recreational users rather than prescribed users. From a narrator perspective, the protagonist is utilizing potent painkillers as a way to fully flush out the deafening trauma he feels on a daily basis. This not only changes a lot going forward, it also affects the previous songs as he utilized drugs extensively through them.
 
 ```ad-quote
 title: **revisited** 3:B:1-4
@@ -793,6 +788,8 @@ Hold somebody close
 Just once again
 The taste of his lips
 ```
+
+As the protagonist sobers up from his opoid high, he feels the pull of his abuser’s manipulation. Even if he would be with another person, he would still continue to fantasize what it would if it was with his abuser instead. Once again, he loops back into the unfortunate cycle that he has been placed on as he ca
 
 - Happens as the narrator drifts back from the opoid high
 - Even after all of this, as seen many times throughout the album, the victim keeps getting pulled back
@@ -842,20 +839,16 @@ Oh God, did you really have to hurt me so bad?
 - Goes over the direct aftermath and not being able to describe the pain to his family and potentially authorities
 
 ```ad-quote
-title: **revisited** 5:1:1-2
+title: **revisited** 5:1:1-2, 7-8
 Waste of breath encoded in braille
 You're mangled to bits inside
-```
 
-- The narrator, so broken over what happened to them, cannot put into words about how bad the abuse was
-- Both physically and mentally, they are mangled and broken. They cannot figure out how to get put back together after what happened
-
-```ad-quote
-title: **revisited** 5:1:7-8
 Along those lines of pearly white
 I stare so long, forgot to cry
 ```
 
+- The narrator, so broken over what happened to them, cannot put into words about how bad the abuse was
+- Both physically and mentally, they are mangled and broken. They cannot figure out how to get put back together after what happened
 - Referring to the scars that they got from their abuser
 - Pearly white means that they are starting to heal
 - Staring so long at them, absolutely distraught at how much they hurt
