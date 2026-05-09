@@ -779,7 +779,7 @@ Leave the vice on the couch
 So you can shoot it in our veins
 ```
 
-Based on the specific usage words here, this is the first time album mentioned a drug that is more dangerous and prolific than anything else: opi
+Based on the specific usage words here, this is the first time album mentioned a drug that is more dangerous and prolific than anything else: opioids. This classification of depressant drugs are known to relieve pain and release dopamine by acting on receptors in the brain [OPIOD SOURCE]. Even though they have their medical use in surgery and patients going through immense pain, they are known to be incredibly addictive and can even lead to death if dosed incorrectly. From a narrative perspective, shooting opiods
 
 - First time a harder drug was mentioned on the album
 - Assuming the time this came out, this is most likely some sort of opioid 
