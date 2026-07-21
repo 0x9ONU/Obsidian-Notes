@@ -11,75 +11,15 @@
             "id": "ede700bbefcb54ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Senior Year/Fall 2025/Resume 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resume 2025"
-            }
-          },
-          {
-            "id": "49f61c8484725530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes"
-            }
-          },
-          {
-            "id": "3814b67707833a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Survey of Wireless Sensor Network and Its Types"
-            }
-          },
-          {
-            "id": "1c42d8d242229ae8",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Securing_Wireless_Sensor_Network_Against_Multi-Mal.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Securing_Wireless_Sensor_Network_Against_Multi-Mal"
-            }
-          },
-          {
-            "id": "71c4a13a331d9fcd",
-            "type": "leaf",
-            "dimension": 25,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Propagation_dynamics_of_malware_in_wireless_sensor"
+              "title": "A Brief Discussion of Security Aspects of Clock"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +78,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
         ]
@@ -175,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
+                "file": "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Propagation_dynamics_of_malware_in_wireless_sensor"
+              "title": "Outline of A Brief Comparison of Security Aspects of Time"
             }
           },
           {
@@ -204,8 +144,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -214,8 +154,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -224,8 +164,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           },
           {
@@ -234,8 +174,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -270,6 +210,16 @@
               "icon": "links-going-out",
               "title": "Outgoing links from A Comparison of Philosophers and the Soul - A Comparison of Nature Versus Nuture"
             }
+          },
+          {
+            "id": "456886995eed95f1",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 1
@@ -282,13 +232,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -297,12 +240,19 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-daily-notes-opener:Open today's daily note in new pane": false,
       "obsidian-daily-notes-viewer:Open Viewer": false,
       "media-extended:Open media": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-projects:Open projects": false,
       "obsidian42-brat:BRAT": false,
       "copilot:Open Copilot Chat": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -310,14 +260,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "71c4a13a331d9fcd",
+  "active": "ede700bbefcb54ae",
   "lastOpenFiles": [
-    "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md",
-    "4 - Senior Year/Fall 2025/Resume 2025.md",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Securing_Wireless_Sensor_Network_Against_Multi-Mal.pdf",
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf",
     "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
+    "4 - Senior Year/Fall 2025/Resume 2025.md",
+    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
+    "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md",
+    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Securing_Wireless_Sensor_Network_Against_Multi-Mal.pdf",
+    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 1/Module 1_Lab.pdf",
     "4 - Senior Year/Spring 2026/Material Science/Module 1/Untitled.pdf",
@@ -325,18 +279,15 @@
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Evaluation of deep learning approaches for oil & gas pipeline leak detection using wireless sensor networks.pdf",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Deep Learning-Assisted Smart Process Planning, Robotic Wireless Sensor Networks, and Geospatial Big Data Management Algorithms in the Internet of Manufacturing Things.pdf",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/An_Enhanced_Energy_Optimization_Model_for_Industrial_Wireless_Sensor_Networks_Using_Machine_Learning.pdf",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
     "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
     "General Notes/Kanban/Securing Wireless Sensor Network Against Multi-Malware Threats A Comprehensive Modeling and Analysis Approach.md",
     "General Notes/Kanban/Deep Learning-Assisted Smart Process Planning, Robotic Wireless Sensor Networks, and Geospatial Big Data Management Algorithms in the Internet of Manufacturing Things.md",
     "Rock Creek Library Letter of Interest.md",
     "conflict-files-obsidian-git.md",
     "4 - Senior Year/Summer 2025/Grad School Search/Graduate School Application Overview.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md",
     "copilot/copilot-conversations/I_need_you_to_write_a_summary_and_connections_section@20260508_214955.md",
     "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Gender Based Violence - A Comprehensive Guide.pdf",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494).md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md",
     "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md",
