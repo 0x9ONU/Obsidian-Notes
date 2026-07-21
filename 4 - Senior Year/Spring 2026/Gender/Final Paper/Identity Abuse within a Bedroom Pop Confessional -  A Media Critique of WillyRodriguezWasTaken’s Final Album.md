@@ -1,3 +1,8 @@
+```ad-warning
+title: Trigger Warnings
+Drug Abuse, Domestic Violence, R---, Suicide, and graphic depictions of harm.
+```
+
 # Introduction
 
 - Catchy beginning
@@ -89,10 +94,18 @@ Kirsty McGregor [2] wrote a chapter in the book *Gender-Based Violence: A Compre
 All these statistics reflect real, lived experiences of minority stress that media representations can either reinforce or challenge. When media portrays LGBTQ+ characters primarily through narratives of addiction, trauma, or self-destructive behavior without context or depth, it risks tokenism and symbolic annihilation. It is important to ensure the media we are critiquing is not continuing on this stereotype and rather either challenges it or provides a new way to express the real pain the author is feeling.
 # Album Analysis
 
-Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 7 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, “playing dead”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these songs should be listened to and considered in the broader context of the whole album even if they are out of the scope of this analysis. From there, the significant lyric from each song are outlined and analyzed for two main purposes: (1) to outline the story told throughout the album, and (2) compared to the current statistics and literature surrounding LGBTQ+ individuals. This way, any potential tokenism and biases can be confirmed or denied. Is this media a good representation of LGBTQ+ struggles, or is it a way to propagate statistics?
+Within the lens of gender and sexuality studies, each major song of the album will be discussed in order of their appearance on the tracklist. To ensure brevity in the review, 7 of the songs off the 13 song album will be ommitted. Three of the songs, which have asterisk around them, act as interludes to the album and are purely instrumental with no significant motifs or themes. “♥”, “rosemary”, “playing dead”, and “bury me” are also excluded as they only reinforce context that was already provided by previous songs. All of these songs should be listened to and considered in the broader context of the whole album even if they are out of the scope of this analysis. From there, the significant lyric from each song are outlined and analyzed for two main purposes: (1) to outline the story told throughout the album, and (2) compared to the current statistics and literature surrounding LGBTQ+ individuals. This way, any potential tokenism and biases can be confirmed or denied. Is this media a good representation of LGBTQ+ struggles, or is it a way to propagate statistics? Therefore, the following three questions will be asked to ensure this is good LGBTQ+ media:
 
-Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section.
+1. Is their work an accurate representation of culture?
+2. Does it fall into any tokenism or biases?
+3. Is it an accurate representation of the statistics, or does it propagate them?
 
+Additionally, quote blocks will provided alongside the analysis with the following format: `Part:Section:Line(s)`. For example, if three lines from the top of the 1st verse of the second part of the song are quoted, they would be denoted by `2:1:1-3`, where `2` is the part, `1` is the *first* verse, and `1-3` are the three lines taken from the section. 
+
+```ad-danger
+title: Warning
+Also, it is recommended **listening to the whole album** before continuing as everything from here on out spoils the twists towards the later-half of the album.
+```
 ## Song II: stop calling
 
 Though not the first track on the album, "stop calling" functions as its true emotional opener, establishing the dynamic between the narrator and his romantic interest that will haunt the rest of the record. The song traces a trajectory of escalating desperation: the narrator begins by seeking physical closeness but quickly spirals into a need for verbal affirmation, ownership, and ultimately a fear of abandonment. From a gender studies perspective, this arc reveals a deeply insecure narrator whose sense of self-worth is contingent upon being desired and claimed by another.
@@ -188,7 +201,7 @@ Oh, it's under attack (*Oh, it's under attack at home*)
 In your home, it never was an escape (*Never was an escape from home*)
 ```
 
-The narrator, in the first two lines of the second verse, reveals part of their lives in an unexpected way. Being part of the LGBTQ+, which is explicated later in the album, the narrator faces some pressures to move out from their parents house due to potentially gendered abuse. Additionally, financial pressures and poor spending make it difficult for the narrator to move out on their own as well (see [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song VII wetdream |wetdream]]). This verse is the first time that they confess how the relationship was an escape from their home as their lover was like a sanctuary for them.  When looking back; however, they realize that this was never actually the truth and that being with them was abusive in its own right as seen throughout the album. Yet again, this is a prime example of identity abuse. Regardless of the lovers intentions until this point, they still took advantage of the discrimination that they had by their parents to fast-track their relationship into the bedroom. From a heteronormative perspective, they might been seen as a creepy or downright abusive thing for a cis man to offer such a proposition to a cis woman. However, under these circumstances and the light of at-home gender discrimination, such an action can become normalized and leads to the narrator being invisible in their struggles.
+The narrator, in the first two lines of the second verse, reveals part of their lives in an unexpected way. Being part of the LGBTQ+, which is explicated later in the album, the narrator faces some pressures to move out from their parents house due to potentially gendered abuse. Additionally, financial pressures and poor spending make it difficult for the narrator to move out on their own as well (see [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Song VII wetdream|wetdream]]). This verse is the first time that they confess how the relationship was an escape from their home as their lover was like a sanctuary for them.  When looking back; however, they realize that this was never actually the truth and that being with them was abusive in its own right as seen throughout the album. Yet again, this is a prime example of identity abuse. Regardless of the lovers intentions until this point, they still took advantage of the discrimination that they had by their parents to fast-track their relationship into the bedroom. From a heteronormative perspective, they might been seen as a creepy or downright abusive thing for a cis man to offer such a proposition to a cis woman. However, under these circumstances and the light of at-home gender discrimination, such an action can become normalized and leads to the narrator being invisible in their struggles.
 
 ```ad-quote
 title: **dish rags**: 2:2:3-4
@@ -196,7 +209,7 @@ From this harm, would you celebrate when I’m gone (_Would you celebrate when I
 Remember my name when we're done (_Remember my name when we are done_) 
 ```
 
-The desperate voice pulls back over as the narrator questions again if they can leave their lover. The narrator is afraid that their lover will just quickly move on to someone better than them and celebrate finding a new partner. As brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song II stop calling|stop calling]], the narrator is dependent on the relationship both internally and externally to function, so the thought of the lover being with another would severely hurt the narrator. They are further terrified of their lover forgetting them, reinforcing the themes from the chorus in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]]. 
+The desperate voice pulls back over as the narrator questions again if they can leave their lover. The narrator is afraid that their lover will just quickly move on to someone better than them and celebrate finding a new partner. As brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Song II stop calling|stop calling]], the narrator is dependent on the relationship both internally and externally to function, so the thought of the lover being with another would severely hurt the narrator. They are further terrified of their lover forgetting them, reinforcing the themes from the chorus in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]]. 
 
 ```ad-quote
 title: **dish rags**: 2:2:5-6
@@ -204,7 +217,7 @@ Never wanted to be so stuck (_Never wanted to be so stuck_)
 Was this love that we made to rot? (_Was this love we made to rot?_)
 ```
 
-The cautious voice of reason once again pulls back, much like a tug-of-war as the music begins to build towards its climax. The first line, "Never wanted to be so stuck", is a striking admission of entrapment. The narrator did not intend to become dependent on this relationship. The narrator realizes that they have been living through the same cycle of hope and disappointment since they first met. The second line asks the question that has been looming since [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]]: "Was this love that we made to rot?" The use of "made" is deliberate as it implies a shared construction, a relationship that they made together that was explicitly made to fail from the start. The verb "rot" evokes decay from the inside, not a sudden death but a slow deterioration that the narrator is only now allowing themself to name. This moment marks a turning point. For the first time, the narrator explicitly questions whether his relationship was ever viable, rather than blaming themself for failing to save it. However, the fact that he phrases it as a question rather than a statement reveals that he is not ready to accept this truth. The rising tension in the instrumentation suggests that clarity will be followed not by action, but by a last-minute surrender.
+The cautious voice of reason once again pulls back, much like a tug-of-war as the music begins to build towards its climax. The first line, "Never wanted to be so stuck", is a striking admission of entrapment. The narrator did not intend to become dependent on this relationship. The narrator realizes that they have been living through the same cycle of hope and disappointment since they first met. The second line asks the question that has been looming since [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]]: "Was this love that we made to rot?" The use of "made" is deliberate as it implies a shared construction, a relationship that they made together that was explicitly made to fail from the start. The verb "rot" evokes decay from the inside, not a sudden death but a slow deterioration that the narrator is only now allowing themself to name. This moment marks a turning point. For the first time, the narrator explicitly questions whether his relationship was ever viable, rather than blaming themself for failing to save it. However, the fact that he phrases it as a question rather than a statement reveals that he is not ready to accept this truth. The rising tension in the instrumentation suggests that clarity will be followed not by action, but by a last-minute surrender.
 
 ```ad-quote
 title: **dish rags**: 2:B:1-2
@@ -231,7 +244,7 @@ My baby's giving up
 Can't keep on going anymore
 ```
 
-The narrator, not blinded by love anymore, realizes the mistake that he made. In[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”| Part I]], they believed that regardless of all the flaws their abuser had, they would one day come back around and love the narrator just like they did before. However, he now finally realizes that this relationship they have can no longer continue as they cannot keep giving so much to their abuser for the little love that they get in return. It is here that the narrator further realizes that the light their lover used to provided to them has fully extinguished as they are left alone to fend for themselves.
+The narrator, not blinded by love anymore, realizes the mistake that he made. In[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”| Part I]], they believed that regardless of all the flaws their abuser had, they would one day come back around and love the narrator just like they did before. However, he now finally realizes that this relationship they have can no longer continue as they cannot keep giving so much to their abuser for the little love that they get in return. It is here that the narrator further realizes that the light their lover used to provided to them has fully extinguished as they are left alone to fend for themselves.
 
 ```ad-quote
 title: **dish rags**: 3:O:5
@@ -253,10 +266,10 @@ After listening to the song on loop, the song almost perfectly loops over itself
 
 ### Summary and Connections
 
-Taken as a whole, *dish rags* functions as a devastating case study in the mechanics of identity abuse within LGBTQ+ relationships. The song traces a complete cycle: from the narrator's desperate hope in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]], through the painful internal reckoning of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 2 A Rotting Love|Part 2]], to the brutal physical aftermath of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part 3 Giving Up|Part 3]]. Throughout, the abuser weaponizes the narrator's vulnerabilities to maintain control: their need for escape from a hostile home environment, their fear of being forgotten, and their dependency on not being alone. This is identity abuse in its purest form, as defined by the HCDVCC report: the abuser exploits the narrator's marginalized identity not despite it, but because of it [HCDVCC SOURCE]. The relationship began as a sanctuary from gendered abuse at home, yet the narrator simply traded one form of oppression for another, exemplifying the intersectional reality that LGBTQ+ individuals often face compounding vulnerabilities. The song also challenges heteronormative assumptions about domestic violence. The narrator's experience of physical abuse and psychological coercion mirrors the statistical realities outlined earlier, yet their story risks invisibility under frameworks that assume abuse follows heterosexual dynamics. By refusing to let the narrator simply walk away and alluding to the cycle continuing,  "dish rags" refuses tokenism. It offers no sanitized resolution and no easy redemption. Instead, it presents the painful truth that leaving an abusive relationship is rarely a single decision, but a prolonged, agonizing process that survivors must navigate without the support systems they deserve.
+Taken as a whole, *dish rags* functions as a devastating case study in the mechanics of identity abuse within LGBTQ+ relationships. The song traces a complete cycle: from the narrator's desperate hope in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”|Part I]], through the painful internal reckoning of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part 2 A Rotting Love|Part 2]], to the brutal physical aftermath of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part 3 Giving Up|Part 3]]. Throughout, the abuser weaponizes the narrator's vulnerabilities to maintain control: their need for escape from a hostile home environment, their fear of being forgotten, and their dependency on not being alone. This is identity abuse in its purest form, as defined by the HCDVCC report: the abuser exploits the narrator's marginalized identity not despite it, but because of it [HCDVCC SOURCE]. The relationship began as a sanctuary from gendered abuse at home, yet the narrator simply traded one form of oppression for another, exemplifying the intersectional reality that LGBTQ+ individuals often face compounding vulnerabilities. The song also challenges heteronormative assumptions about domestic violence. The narrator's experience of physical abuse and psychological coercion mirrors the statistical realities outlined earlier, yet their story risks invisibility under frameworks that assume abuse follows heterosexual dynamics. By refusing to let the narrator simply walk away and alluding to the cycle continuing,  "dish rags" refuses tokenism. It offers no sanitized resolution and no easy redemption. Instead, it presents the painful truth that leaving an abusive relationship is rarely a single decision, but a prolonged, agonizing process that survivors must navigate without the support systems they deserve.
 ## Song V: snowing in las vegas
 
-Coming from the end of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Song III dish rags|dish rags]], *snowing in las vegas* opens with a jarring act of symbolic violence.  The frantic internal panic is replaced with a more slow and somber reflection that takes place outside in a snowstorm rather than in a bedroom. This change in scenery, from the suffocating itimacy of a bedroom to a cold and exposed frozen landscape, signals a detour the album takes. In its sparse instrumentation and deliberate pacing, the narrator begins to unfold a metaphor for reclaiming back their life. Murdering the perception that they have of their previous lover, it describes how their internal monologue takes retribution against the abuser who left them beaten. This section will analyze how the fifth song of the album literates the psychological break that follows sustained identity abuse. By adopting the language of violence, the narrator attempts to narrate their own agency at the cost of their own sanity. 
+Coming from the end of [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Song III dish rags|dish rags]], *snowing in las vegas* opens with a jarring act of symbolic violence.  The frantic internal panic is replaced with a more slow and somber reflection that takes place outside in a snowstorm rather than in a bedroom. This change in scenery, from the suffocating itimacy of a bedroom to a cold and exposed frozen landscape, signals a detour the album takes. In its sparse instrumentation and deliberate pacing, the narrator begins to unfold a metaphor for reclaiming back their life. Murdering the perception that they have of their previous lover, it describes how their internal monologue takes retribution against the abuser who left them beaten. This section will analyze how the fifth song of the album literates the psychological break that follows sustained identity abuse. By adopting the language of violence, the narrator attempts to narrate their own agency at the cost of their own sanity. 
 
 
 ```ad-quote
@@ -290,6 +303,8 @@ This line escalates the symbolic murder into grotesque desecration. Where the na
 
 Even though I will not cover the intermission directly, it does have an important symbolism in the album. As the first intermission song follows after this song, it can be interpreted that this ends this story line for this specific character. Over these four songs, the narrator longs for their love to continue, but realizes that their love was made to fail by design. But, in a last minute attempt to feel validated by their partner, the narrator takes the monkey’s paw. They were able to return to their love but ended up getting hurt once again in the end. It ends with the narrator finally “killing” the memories of their abuser, but realize that their blood will stain deep in their head forever. The following songs, even though they also focus on relationship drama, there are key differences that specifically split the album into two stories. In particular, the second main character has a lot more nuance when it comes to his actions and choices throughout his section of the story. Unlike the black-and-white case seen before, the new character commits some actions that are morally gray. This contrast will be highlighted throughout the rest of this analysis, starting with the titular song of the album: *wetdream*.
 ## Song VII: wetdream
+
+#comebacklater 
 
 The beginning of the second half of the album establishes the new character in the album. To ensure that there is no confusion with the previous main character, this character will be referred to as the protagonist with he/him pronouns.  
 
@@ -505,7 +520,7 @@ For seven years, I had to drink myself alive
 So I can work another boring 9 to 5
 ```
 
-For the first time in the album, the protagonist solidifies two things: (1) the length of his drug addiction, and (2) the amount of time he has been in the relationship. Assuming he started abusing drugs around the same time his relationship started to sour, this means that this relationship has been contaminating his life for many years. Such a long history of abuse puts into context that the protagonist has been in a constant battle for many years. Additionally, his dependence on this abuser could be further explained by his economic shortcomings as he might not have enough money to move out on his own. In particular, LGBTQ+ people often have a more difficult time finding and keeping full-filling jobs due to homophobia and workplace discrimination [job source]. Once again, intersectionalism hurts the protagonist of the story as his multiple identities and traits makes him more vulnerable to multiple risks in his life. 
+For the first time in the album, the protagonist solidifies two things: (1) the length of his drug addiction, and (2) the amount of time he has been in the relationship. Assuming he started abusing drugs around the same time his relationship started to sour, this means that this relationship has been contaminating his life for many years. Such a long history of abuse puts into context that the protagonist has been in a constant battle for many years. Additionally, his dependence on this abuser could be further explained by his economic shortcomings as he might not have enough money to move out on his own. In particular, LGBTQ+ people often have a more difficult time finding and keeping full-filling jobs due to homophobia and workplace discrimination [job source]. Once again, intersectionality hurts the protagonist of the story as his multiple identities and traits makes him more vulnerable to multiple risks in his life. 
 
 ```ad-quote
 title: **wetdream** 4:R:3
@@ -534,7 +549,7 @@ The track concludes with a final line that sends off the song on a hollow mantra
 "wetdream" dissects the compounded harms of identity abuse, addiction, and depression within a single toxic relationship. The song spirals from desperate denial to a drug-fueled self-erasure to a final resignation where drinking becomes the only way to endure almost a decade of abuse. The abuser weaponizes every vulnerability the protagonist possesses: his LGBTQ+ identity, his porn‑addled understanding of intimacy, his economic precarity, and his terror of being alone. This aligns with the HCDVCC report's definition of identity abuse: the abuser exploits marginalization because of it [REPORT]. Statistically, the protagonist mirrors the Trever Project's findings regarding substance abuse and the CDC's data where most queer youth feel hopeless in their life. Yet the song refuses to reduce him to a statistic. It instead stages a wrenching nature vs. nurture debate through the sickle cell metaphor and the events of tragedy that led him up to this point. He wavers between blaming an inherited predisposition and recognizing his suffering as a socially constructed tragedy. His abuse scars are not genetic, but he lacks the ability understand how systemic oppression can be internalized until survival feels like a biological response. By denying the protagonist redemption and not letting the track result, "wetdream" dodges tokenism. It presents abuse and addiction not as a single crisis but as a daily struggle where substances make survivable it, but never winnable.
 ## Song IX: lost in translation
 
-- Introduction about song here
+#comebacklater 
 
 ```ad-quote
 title: **lost in translation** 1:1:1-8
@@ -548,29 +563,25 @@ These bodies could be
 Intertwined with our pulses
 ```
 
+The beginning verse of the song starts of strong by setting the scene for the rest of the song. The protagonist is set in the bedroom thinking about when him and his abuser had sexual relations with each other. Here, a primary theme of this song is laid out: a feeling of post-coital shame. The protagonist has an explicit fear of being seen in such a raw, vulnerable, and messy state after sex. He is trying to feel the pleasure from doing such an act, but the thought of how it looks from the outside makes him feel exposed and ugly. He wants to connect with his partner on a level like this, but he is ultimately ashamed of showing his true self to his lover. Note how the protagonist is still caught up on the more intimate parts of his relationship. In a way, he is masking the more negative parts of the relationship, much like how he cannot show his true self around his abuser.
 
-
-- Post-coital shame
-- Fear of being seen and showing the raw, vulnerable, and messy state after sex
-- Goes into how even though humans have sex to feel good, it can be considered very disgusting when looked from the outside
-- The conflict between the physical desire for intimacy and the psychological disgust
-- He wants to connect with his partner like this, but he is ashamed about showing his true self to his lover.
 
 ```ad-quote
 title: **lost in translation** 1:1:10
 If you do love me so (These drugs)
 ```
 
-- Here is the first time where the narrator begins to equate drugs with the feeling of love
-- He used drugs so much to cover up the shame, abuse, and more to the point he equates the feelings he gets with them with love itself, much like how porn has messed up his perception
+It is at this point in the album where the audience can start to see the consequences of the protagonist’s drug abuse. He has begun to equate drugs with the feeling of love itself. As seen before in “[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Song VII wetdream|wetdream]]”, he ends up using both alcohol, cannabis, and nicotine to cover up the negative parts in his relationship and life. Much like how porn has shifted his perception of love, drugs have shifted how he feels love. The feelings he gets when he is under the influence is not only equated to love, but it has acted like a replacement for love itself in the absence of a partner. This will continue to develop for the rest of the album going forward, which becomes a severe issue for him.
 
 ```ad-quote
-title: **lost in translation** 1:1:12-13
+title: **lost in translation** 1:1:12-15
 And now I'm givin' up (You will show)
 So don't you ever stop (How you love)
+You're my only one (In the house we squatted)
+You're my only one
 ```
 
-- Here, the narrator wants to give up, however, at the slight talking of his abuser in the back of his mind, he immediately gives back into begging for the cycle to continue
+Yet again, another first occurrence of a theme of the album occurs: the difficulty of leaving behind an abusive relationship. The protagonist, after such a long time, is starting to debate on giving up on the remaining feelings he has for the abuser and to move on. Unfortunately, the background voice of his mind immediately pulls him back into the cycle. He yearns for love as the manifestation of his abuser orders him to show how much he loves her. Even after she is nearly gone, he feels bound by a duty to obey her every command. In her absence, however, he continues to invent this commands as a guidance that is deeply engrained into his conscious.
 
 ```ad-quote
 title: **lost in translation** 1:2:1-2
@@ -578,8 +589,7 @@ Blood down my throat
 Prayin' some kind of angel will slit it tonight
 ```
 
-- The narrator has graduated from shame to active death wish. The “angel” he prays to is a desperate, ironic figure — a stand-in for the rescue that never comes, or for the abuser whose love he’s still conflating with salvation. The blood in his throat is both the physical evidence of abuse and the choking reality of being trapped with no exit.
-- A desperate attempt to leave the relationship is by suicide
+Starting the next verse, the protagonist tries to find other ways out of the cycle he put himself into. Out of desperation, he chooses to attempt self-deliverance. He is so overcome with shame and longing, at this point, he believes that this was the only way out.  After the attempt, he feels the damage he did as blood drains down his esophagus. Out of fear, he begs for someone to finish the job he started. The angel he prays to is a stand-in for a rescue that never comes by his side. He wants someone to make the pain end at all costs, even if that pain is ended by tragedy.
 
 ```ad-quote
 title: **lost in translation** 1:2:3-4
@@ -587,8 +597,7 @@ But it's always a fight just to provе that I might
 Is all that is needed to fuck up my life
 ```
 
-- These lines reveal that the narrator’s life is a precarious performance of worthiness, and the abuser (or the social system) holds the power to destroy it with a single word. The “fight” is not for love, but for survival — and he’s losing.
-- A mere accusation of him trying to pull away from the relationship from his abuser will make him spiral further into depression.
+At this point, the protagonist acknowledges that the mere accusation of him trying to pull away from his abusive relationship would make him spiral further into depression and substance abuse. He is too terrified to admit that the longing and yearning he has for his abuser is not love, but rather has become necessary for his survival. He conflates this feeling of loss with the loss of control and comfort in his own life. Coming back from[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part 1 “Terminal Lucidity”| Part 1 of “wetdream”]], he is so deep in his own illusion that he has fully close himself off from reality. If this illusion fades, he is afraid of his life fully falling apart into nothing.
 
 ```ad-quote
 title: **lost in translation** 1:2:5-8
@@ -598,11 +607,7 @@ He like what he sees
 If he knew what you're feelin'
 ```
 
-- Turns over to the abuser talking
-- Trying to convince the narrator that what they are doing is normal by using religion as a leverage
-- Important later for the final song (abort your God)
-- the abuser weaponizes not just the narrator's identity (sexual/gender) but also his spiritual beliefs, making the abuse feel cosmically sanctioned.
-- Intersectional vulnerability
+Suddenly, the song turns back over to the abuser’s voice as the protagonist is brought further into the lie. The voice tries to convince the protagonist that what they are doing is normal by using religion as a leverage. Based on his own internal monologue, it is evident that the abuser not only used to weaponized his identity, but also his spiritual beliefs in an attempt to keep him trapped. The intersectionality crossroads of sexuality, gender, and religion come together at a crack. Where all of the protagonist’s traits come together, this is an intersectional vulnerability that makes him specifically at risk to certain behaviors. The abuser knows this and used it to build a power structure around him, which continues to control him in her absence.
 
 ```ad-quote
 title: **lost in translation** 1:2:9-12
@@ -612,11 +617,7 @@ And burn all our clothes
 'Til we fight, 'til we're screamin'
 ```
 
-- These lines capture the moment where the relationship has become purely destructive. 
-- The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. 
-- The fight and the screaming become the relationship itself.
-- The phrase "burn all our clothes" is particularly important: clothes represent identity, performance, and social presentation. In the context of LGBTQ+ identity abuse, clothes can be a marker of gender expression. Burning them could symbolize the abuser's attempt to erase the narrator's identity entirely, or the narrator's own desire to be stripped of everything that ties him to this abusive relationship
-- The abuser does not care about what the narrator has deep down, they only see them as an object for lust
+Ending off the second verse, the abuser’s voice begins to become purely destructive, which is also indicative of his perception of his relationship. The protagonist begins to break down as he realizes that deep down his abuser did not care about him; rather, that he was only seen as an object of lust. One last time, she tries to sexually assault him once more through his own thoughts as she forces him to strip down to his bare-self and emotions. The abuser has given up on love and instead embraces violence as the only remaining form of intimacy. Taken from an identity abuse standpoint, clothes also in particular are a huge part of how people express both their gender and social identity. The burning of clothes could represent how the abuser wants to erase the protagonist’s identity entirely at all costs. This allowed her to forcibly replace all he had left with her. This idea will be explored later on as well, which further validates this theory.
 
 ```ad-quote
 title: **lost in translation** 1:3:4, 6-8
@@ -627,8 +628,7 @@ It's gotta go (I love you)
 I feel so ugly (I love you)
 ```
 
-- Along with the line “This dumb temptation” and the I love yous, this could be in reference to how many victims of sexual abuse feel like their body is worthless or ugly without that abuse.
-- He feels so ugly being without his abuser, as the I love you’s continue to trickle in through the rest of the verse
+After the break down, the abuser’s voice tries to reconcile with the protagonist, but repeating the words “I love you” over and over again throughout the verse. As the voice pleads for forgiveness, the protagonist himself feeling so ugly and worthless as he is tempted to continue the cycle once again. Often, victims of sexual abuse feel the pull back towards their abusers as they feel empty without them, which is known as Stockholm syndrome [SOURCE]. With this pain, he contemplates going back.
 
 ```ad-quote
 title: **lost in translation** 1:3:23-26
@@ -638,27 +638,19 @@ Similar to the use of drugs
 Or any prerequisite that matches lust
 ```
 
-- Second comparison to the feeling of love/lust and how drugs make the protag feel
-- In a more scientific way this time tho
+Bridging the gap between biological impulse and psychological ruin, the protagonist maneuvers through a deconstruction of his own emotions. By framing his euphoria through the lens of the limbic system, he equates his connection with his abuser to only chemical signals flashing in his brain. It is the first time he juxtaposes drugs and lust as equals. The addiction he feels for substances is not only a physical pull caused by chemical compounds, but it is also a side effect of years of abuse.  
 
 ```ad-quote
-title: **lost in translation** 1:4:7-8
+title: **lost in translation** 1:4:4-10
 And I waste away on summer nights
 Expecting you to say you're fine
-```
-
-- The protag is constantly worried about his abuser not reciprocating feelings and keeps on wasting away his life waiting to hear back from them
-
-```ad-quote
-title: **lost in translation** 1:4:9-10
 But all I get is brief replies
 Of I don't knows and so do I's
 You know I love you
 So why don't you love me too?
 ```
 
-- Realizes that the abuser, even after all of this, barely cares to even give proper replies to their victim
-- At this point, he realizes that the abuser, regardless of how much effort he puts in, will always keep on leading him on
+The protagonist exists in a state of stagnant decay as he waits for a validation that is strategically withheld. He is constantly worried about his abuser not reciprocating feelings and would rather waste his life away rather than moving on. This cycle is fueled by the abuser’s calculated use non-committal responses to keep the protagonist in a state of perpetual longing. He then realizes that the abuser, regardless of what he does, will never love him back the way she used to. 
 
 ```ad-quote
 title: **lost in translation** 1:O:4-5
@@ -666,14 +658,15 @@ Used to love me (I'm trying)
 I can't live without you (To live without you)
 ```
 
-- Even after all this time, the narrator keeps on trying to convince himself that their abuser still actually loves them
-- He is so dependent on her that he can no longer with without them
-- The final cut off from the abuser
-- This is where the loop cuts before the final two songs
+Struggling against his deep attachment, the protagonist tries to hold onto the last memories he has of his abuser. He has become so dependent on her validation that he cannot function without her. The internal dialogue reveals a breaking point: he is caught between the addiction of the past and the agonizing reality of the future. As the cycle finally begins to fracture, the protagonist is forced to confront the reality of his own erasure. This moment acts as the final point before the loop cuts as he is left suspended with no aspirations and nowhere to go.
+
+### Summary and Connections
+
+#comebacklater 
+
 ## Song XIII: revisited
 
-- This is the part of the album where the narrator tears all the curtains back and reveals to the audience on what they have experienced
-- The climax and uncomfy resolution of the album
+This 20-minute masterpiece is what rounds off the struggles for the protagonist. It is where the artist blows all the smoke out of the way and reveals to the audience what he has experienced. In this song, he recounts his experiences with one of the worst situations a person could ever go through: statutory rape as a young child.  Each of the seven parts of the song represent a different part in the protagonist’s life as he copes with lifelong trauma of his stolen autonomy and the lingering distortion of his own identity.. Throughout each part, this conclusionary song resolves some story questions while also propagating new ones, which makes it particularly difficult to analyze. However, by using the previous songs, a definitive reasoning can be provided to what happens to the protagonist by the end. 
 
 ### Part 1: Introduction
 
@@ -682,10 +675,7 @@ title: **revisited** 1:1:1
 *Here we go. I like you, Neil. I like you so much. When I really, really like someone... there's a way l show them how I feel. Shhh...*
 ```
 
-- A direct audio sample from the movie Mysterious Skin (2004). 
-- The lines are said by a Little League coach, played by Bill Sage, as he’s about to sexually abuse the character Neil McCormick, played in this scene by Chase Ellison.
-- It deals directly with pedophilia and sexual assault. It is a difficult watch, intended to be provocative and deeply emotional rather than exploitative.
-- As the film progresses, their paths converge as Brian seeks the truth about his past and Neil is forced to confront the reality of the abuse he normalized.
+The beginning of the song begins with an audio sample taken from the movie Mysterious Skin (2004). This coming-of-age story directed by Gregg Araki is special as it has a dark twist when compared to other movies that came before it: Neil McCormick and Brian Lackey, the two main characters, were victims of sexual abuse. Much like this album, the film follows two characters who have to face sexual abuse by either drowning themselves in substances . It is a difficult watch for most as it is intended to be provocative and shows the reality of how abuse at a young age shapes a person for the worst. For the lines specifically, it comes from a scene where Neil’s Little League coach is about to sexually abuse him. By utilizing a clip of media, the protagonist signals that words alone cannot describe his trauma [SOURCE].
 ### Part 2: Admission
 
 ```ad-quote
@@ -695,15 +685,15 @@ I've let it go
 Too many times
 ```
 
-- The narrator keeps trying to let go of the feelings he has over and over again
-- However, they keep coming back into his mind and ends up making him suffer over it.
-- Creates a vicious cycle that this album is known for
+At this point, the protagonist wants to let go of the feelings that he has. However, they keep coming back to his mind in cycles over and over again, which keeps him in a loop of suffering. This alludes back to the vicious cycle of longing that is seen throughout the album.
 
 ```ad-quote
 title: **revisited** 2:1:5-8
 And the drugs you take are never enough (Oh, I)
 And the drugs you make are never enough (Oh, I) (*x2*)
 ```
+
+Up to this point, the protagonist would lean on their drug addiction to help them forget about their past. However, regardless of how large their doses get, the thoughts keep on resurfacing as he struggles to cope with them. He also begins to realize that it is a lost cause to keep the thoughts away as he is about to reveal the truth throughout the rest of the song.
 
 - Starting the realize that regardless of how many drugs they take to forget their trauma and abuse, it keeps coming back to them
 - It is a lost cause to hide it, as he is about to reveal the truth
@@ -714,9 +704,7 @@ Rape me
 Your suicidе can't take me
 ```
 
-- The first reveal that the abuser went all the way 
-- A challenge against the abuser and a way to reclaim agency
-- Will not let the suicide of the abuser to let them hurt them anymore
+The first half of the secret is revealed on this line: the abuser forcibly assaulted the protagonist. This line alone clears up a lot about why he feels this way about his abuser. She did an unspeakable act to him and then manipulated him into not letting anyone know by taking advantage of him. However, the protagonist has started to come to his senses as rather than breaking down, he challenges the abuser in a way to start reclaiming his agency. He will not let the threats from the abuser let him hurt him anymore as he could care less about what the abuser does at this point.
 
 ```ad-quote
 title: **revisited** 2:1:11-12
@@ -724,80 +712,47 @@ Could have felt so nice
 Don't make me if you feel too sore tonight
 ```
 
-- It could have felt so nice if it was done with consent and with proper love instead of hate
-- Now instead, the narrator pleas to not have any sexual encounters tonight and hopes that the abuser is finally too sore/tired to do anything
+However, the cycle once again turns over once again as the protagonist reminisces on his past love. He wishes that it did not turn out this way as their relationship could have flourished if it was different. He wishes he could have had the opportunity to build the relationship up to the point where he could have healthily consented. Instead, the protagonist remembers the pleas he had to make and the hope that she is too tired to do anything to him.
+
 
 ```ad-quote
-title: **revisited** 2:1:13-14
+title: **revisited** 2:1:13-20
 'Cause it's just about the time
 For you to strain the floors in white
-```
-
-- Realizing that it is around the time the abuser will begin to start making moves on the victim
-- He begins to recognize the cycle of abuse and does not want it to happen
-
-```ad-quote
-title: **revisited** 2:1:15-17
 I lie
 Vacantly, that slab of meat
 That bloody taste, so violently
-```
-
-- The offender doesn’t see the person they’ve assaulted as human, referring to them as “meat.” 
-- It’s common for people who rape or murder to see others as lesser beings.
-- The narrator begins to realize that they were being used more as an object rather than a person and how violently they were abused
-
-```ad-quote
-title: **revisited** 2:1:19-20
 I'll shut my eyes and open wide
 I'll swallow whole your sour wine
 ```
 
-- Recounting the events
-- Giving into the abuse and letting it flow over
+The callback continues as he begins to deconstruct exactly what happened to him. He remembers when he began to recognize the cycle of abuse when his abuser would make it a continuous occurrence. He begins to realize that he gave up his autonomy to become his abuser’s object rather than a person, leading her to hurting him to the point of being bloody. Powerless and fully given to her, he remembers just getting into the routine of following her orders regardless of how much it hurt him both physically and mentally.
 
 ```ad-quote
 title: **revisited** 2:1:21
 That sickle cell that says you're mine
 ```
 
-- Going back to wetdream
-- Going back to the debate whether or not some things are nature and are hereditary vs. nurture and happened because of the choices he made
-	- Was he destined to lean on drugs, was that his choice, or was it a tragedy?
-	- Was he destined to get hurt, was that his choice, or was it a tragedy?
+This line is a reference back to the debate brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part 4 “So Make it Work Tonight”| Part 4 of “wetdream”]]: was the protagonist hereditarily destined to get hurt and give into drug addiction, or was it the choices that he made that led him here? Once again, the scales tip back towards nature as he re-affirms that it is his inherited traits that keep bringing him back to the abuser. By framing his subjugation as genetic, he suggests that his bond to the abuser is not a series of failures, but a biological pull in his blood. It shifts the blame away from himself and the abuser, but rather, it reaffirms that it was a destined encounter due to who he was from birth. In a way, the protagonist is actively denying his intersectionality: he believes a single, inevitable attribute is the cause for all his problems rather than a web of characteristics.   
 
 ```ad-quote
 title: **revisited** 2:1:23
 The choice is yours to live with it
 ```
 
-- One of the strongest hitting lines when combined with the ending of the second part
-- Even though the abuser decided to do this, the narrator retaliates saying that they will have to live with the guilt for what they did one day
-- It is a desperate attempt to hope that they will get karamed back
+Coming off the confession, the protagonist says one of the strongest hitting lines of the whole album. Even though the abuser decided to hurt him so badly, he retaliates by implying they will have to live with the guilt for the rest of their life. Like a psychological mirror, the abuser inflicting violence upon the victim will inevitably rebound as mental trauma. Even if the pain is not equally distributed, the protagonist accepts that, in time, life might take revenge on his abuser for him. The “choice” he offers is an acknowledgement that it was her fault as well, which contrasts the previous line of the song.
 
 ```ad-quote
-title: **revisited** 2:1:24-25
+title: **revisited** 2:1:24-31
 You'll find it down between your legs
 When I touch you there, you seem to flinch
-```
-
-- The abuser touching them on their legs reminds them of what has happened before or after
-- The flinch is a physical response of that
-
-```ad-quote
-title: **revisited** 2:1:26-31
 Castrated boy, you filtered kid
 You'll strip your clothes and live with it
 
 You'll live with it (*x4*)
 ```
 
-- Specifically calls out that the narrator is a trans man for the first time in the whole album
-	- Statistics here regarding sexual abuse
-	- Recognize that transmen are even more transparent than other demographics due to heteronormativity
-- Filtered kid refers to HRT/hormone blockers
-- You’ll live with it repeating reinforces the statement from earlier
-
+The protagonist acknowledges, that even to this day, anyone who remotely gets intimate with him reminds them of their abuser. The way he flinches, as brought up in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Song IX lost in translation|“lost in translation”]], has hurt any further relations he has had with other people because he cannot look past the traumatic sexual experiences he had. On another hand, this section is particularly important since this is the first time that the album acknowledges that second character is a trans man. The filtering, in this case, refers to how he is on hormone replacement therapy (HRT) and/or hormone blockers as castrated means he still has the genitals he was assigned at birth. This particularly gives a lot of context as, out of everyone in the LGBTQ+ community, trans men are often even more transparent when it comes to abuse due to them being men [SOURCE]. They often fall onto the heteronormative spectrum just as normal men do and suffer the same consequence: a lack of support systems. Finally, this section of the song ends off repeating the same line from earlier, meaning that the protagonist has begun to find solace in the idea of karma on day returning its favor. 
 ### Part 3: Denial
 
 ```ad-quote
@@ -807,8 +762,7 @@ Took many of my friends
 And traded 'em for drugs
 ```
 
-- “The singer turned to drugs as a way to escape their emotional pain, eventually falling into addiction. This struggle caused many of their friends to drift away, leaving behind the impression that they had traded meaningful relationships for their reliance on substances.” - something my brother brought up
-- Addictions do not help your social life, which further leads the protag into depression and self-loathing
+As the protagonist fell more into drug addictions to cope with his trauma, he began to realize that all his friends began to drift away. As all his meaningful relationships were traded for substances, his social life took a great downturn, which further harmed his social support systems and probably had an effect on both his depression and self-loathing seen throughout the album.
 
 ```ad-quote
 title: **revisited** 3:1:4-6
@@ -817,8 +771,7 @@ But it's been better just to sin
 'Cause it's to start up once again
 ```
 
-- No more friends also makes it a lot harder to pivot away from their abusive lover
-- It is much easier to stay in the pit rather than trying to pull himself out of it.
+The other vicious side-effect rears its ugly head when these lines are put into context. As the protagonist starts to loose more of their friends, he also becomes more reliant on his abuser to keep him company, even when she was just a voice in his head. Instead of trying to pull himself out of the pit; however, the protagonist wants to stay where he is at because of how much it would hurt to finally face his fears. 
 
 ```ad-quote
 title: **revisited** 3:1:8-9
@@ -826,10 +779,7 @@ Who's to say I know myself
 When I've forgotten how to live
 ```
 
-- He was so reliant on their abuser to provide their identity that they lost their identity himself
-- He needs someone to give him meaning after being manipulated for so long 
-- It is also a way for the abuser to control their life, as they started to lose their friends
-- If anything, even if the narrator does not know this, it is a clear deliberate attempt by the abuser to get him to this point 
+Here, the protagonist really puts into perspective how badly he has been manipulated by his abuser. He was so reliant on his abuser to provide their identity that he lost his identity himself. Even if the narrator does not realize this right now, this behavior is a clear deliberate attempt by the abuser to get him to this point. The abuser sought control over his life as his friends began to leave him. She recognized this distinction and used it to strip him entirely of who he was in an attempt to get more out of him.
 
 ```ad-quote
 title: **revisited** 3:1:11-12
@@ -837,10 +787,7 @@ Leave the vice on the couch
 So you can shoot it in our veins
 ```
 
-- First time a harder drug was mentioned on the album
-- Assuming the time this came out, this is most likely some sort of opioid 
-- Shooting into the veins is a needle
-- [opiod crisis here]
+Based on the specific usage words here, this is the first time album mentioned a drug that is more dangerous and prolific than anything else: opioids. This classification of depressant drugs are known to relieve pain and release dopamine by acting on receptors in the brain [OPIOD SOURCE]. Even though they have their medical use in surgery and patients going through immense pain, they are known to be incredibly addictive and can even lead to death if dosed incorrectly. In particular, shooting opiods using a needle is often done by recreational users rather than prescribed users. From a narrator perspective, the protagonist is utilizing potent painkillers as a way to fully flush out the deafening trauma he feels on a daily basis. This not only changes a lot going forward, it also affects the previous songs as he utilized drugs extensively through them.
 
 ```ad-quote
 title: **revisited** 3:B:1-4
@@ -850,9 +797,8 @@ Just once again
 The taste of his lips
 ```
 
-- Happens as the narrator drifts back from the opoid high
-- Even after all of this, as seen many times throughout the album, the victim keeps getting pulled back
-- Even if they would with another person (“somebody”), they still continue to fantasize what it would have been like if it was with their abuser instead
+As the protagonist sobers up from his opoid high, he feels the pull of his abuser’s manipulation. Even if he would be with another person, he would still continue to fantasize what it would if it was with his abuser instead. He inevitably regresses into the established cycle of trauma, having reached a point of psychological erosion where he can no longer distinguish the genuine potential of new intimacy from the chemical pull of addiction and his doomed attachment.
+
 ### Part 4: Anger
 
 - The reveal to the family
@@ -864,10 +810,7 @@ I skimmed the lines and saw your legs about to give in
 Could have helped you, the voice that calls you his friend, oh
 ```
 
-- The narrator introduces a family/friend character here that found the diary pages that revealed the SA that they were going through
-- Ripped out because they did not want the constant reminders of the past
-- This is close to reality as confessions often happen through paper and not verbally
-- The family member feels guilty about not knowing sooner or being able to help out sooner
+The protagonist, in a way to cope with what he feels, wrote is feelings down into a dairy. However, those pages were not meant to stick. He rips them out and throws them away as he does not want constant reminders of what happened whenever he goes to write about his day. However, for the first time in awhile, a new character is introduced in this section. A family member found the ripped-out pages and the leg scars on the protagonist. After discovering the dark secret, the family member is left in despair as they felt that they could have stopped it if only they knew. 
 
 ```ad-quote
 title: **revisited** 4:1:7-9
@@ -876,54 +819,34 @@ We'd make it work this time
 My baby, you'll always be mine
 ```
 
-- links back to the song “wetdream” where the singer repeats “So make it work tonight” 3 times over at the end of the song.
-- Yet again, the narrator is grasping at straws trying to find out how to make their relationship after everything that has happened
-- Yet again, the push and pull dynamic pulls the narrator back to the abuser, as they start to feel the pressure of someone on the outside helping again
-- Mentioned in an earlier part regarding how they push all their friends and loved ones away to get closer to their abuser
+Yet again, even after beginning to come to terms with everything, the protagonist is grasping at straws trying to find out how to make their relationship after everything that has happened. As a reference to [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part 4 “So Make it Work Tonight”|Part 4 of “wetdream”]], he begins to confide in the abuser once again as he starts to feel the pressure of someone from the outside trying to break what is left of her. The protagonist, used to pushing all his friends and loved ones away, is panicking since he did not think anyone might be able to save him.
 
 ```ad-quote
 title: **revisited** 4:1:10
 Oh God, did you really have to hurt me so bad?
 ```
 
-- Double meaning
-- The family member speaking: they are hurt and distraught after learning about the truth of the matter
-- The narrator: he is upset that their abuser hurt them, as they could have been a good relationship otherwise. They still care for the abuser since they have been manipulated into loving them. 
-	- Restates the conclusion of the third part
-- The narrator wishes that he did not have to go through any of the pain he felt and feels like a burden on having to come out with his family member as well
+The final line of the fourth part is another line that could have two distinct meanings: is it (1) taken from the perspective the family member, or (2) taken from the perspective of the protagonist? The family member might be describing how hurt and distraught after learning about the truth of the matter. As a loved-one, they feel like they failed and should have been there earlier. However, the latter argument has more validity. The protagonist is upset that the abuser hurt him in the first place, hoping that they could have had normal relationship otherwise. The narrator also wishes to not put burden on the family member that learned the truth.
 ### Part 5: Bargaining
 
-- Happens right after breaking off with the abuser
-- (Probably with the help of the family)
-- Goes over the direct aftermath and not being able to describe the pain to his family and potentially authorities
 
 ```ad-quote
-title: **revisited** 5:1:1-2
+title: **revisited** 5:1:1-2, 7-8
 Waste of breath encoded in braille
 You're mangled to bits inside
-```
 
-- The narrator, so broken over what happened to them, cannot put into words about how bad the abuse was
-- Both physically and mentally, they are mangled and broken. They cannot figure out how to get put back together after what happened
-
-```ad-quote
-title: **revisited** 5:1:7-8
 Along those lines of pearly white
 I stare so long, forgot to cry
 ```
 
-- Referring to the scars that they got from their abuser
-- Pearly white means that they are starting to heal
-- Staring so long at them, absolutely distraught at how much they hurt
+Part 5 begins with the direct aftermath of breaking everything off with the abuser. The protagonist struggles to communicate the pain to those he loves and potentially the authorities. He cannot put into words about how bad the abuse was. He is left both physically and mentally mangled and broken as they cannot figure out how to get put back together after what happened. The protagonist then looks down at the scars that have just started to heal, absolutely paralyzed on how much they remind him of her.
 
 ```ad-quote
 title: **revisited** 5:1:9-10
 It's not your fault you lived this life (*x2*)
 ```
 
-- One of my favorite lyrics off of the album
-- Regardless of the cards that were dealt, a person has to live through with them and deal with it. 
-- Making the best of the shitty situation is one of the few silver linings in the whole song
+Regardless of this, the protagonist tries to cheer himself on with a single simple sentence: “It's not your fault you lived this life.” Regardless of the cards that were dealt, a person has to live through with them to the best of their ability. It is one of the few silver linings in the whole album that gives hope to the protagonist. In a sense, this is where he begins to understand his own intersectionality and put blame on his abuser. He is beginning to realize that there are forces outside of his control that are not necessary biologically, but rather are socially placed on him. It is not his fault of being born into this faulty body after all. It is the social system that failed him to get out before it was too late. It is the single terrible person that got him to the brink of destruction.
 ### Part 6: Depression
 
 - The climax of the album
@@ -935,9 +858,7 @@ title: **revisited** 6:1:1
 Know you're semi-solid gold
 ```
 
-- Semi solid gold means jewelry that has a partially hollow interior. Here it could be a metaphor for how trauma can make someone feel like they lost a part of themselves leaving them feeling “partially hollow”
-- The abuser, as stated earlier, removed the meaning from his life and removed everything he had to the point he does not know who he is anymore.
-- Gold, being a desirable look, prob relates to how he looks okay on the outside, but he has nothing left on the inside.
+Here, semi-solid gold refers to jewelry that has a partially hollow interior. It is a metaphor for how trauma can make someone feel like they lost a part of themselves and are not truly whole anymore. This ties back to [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part 3 Denial|Part 3]], where the abuser removed the meaning from his life and destroyed his social connections in order to gain control.
 
 ```ad-quote
 title: **revisited** 6:1:2-3
@@ -945,10 +866,7 @@ The way she used to touch you
 Made you feel so old
 ```
 
-- Referring to pedophilia
-- First time that it is established that there is a significant age gap and that this is actually statutory rape
-- Reminder of the Romeo and Juliet metaphor
-- NOTE: I did not realize that this was the case until looking closer into the album
+This is the only time where the true nature of the crime is revealed. It is established that the narrator and their abuser have a significant age gap and that what the protagonist endured was actually statutory rape. This claim is further backed up by both the “Romeo and Juilet” reference from [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part 3 “Smoke Me Out”| Part 3 of “wetdream”]] and [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part 1 Introduction|Part 1]] of this song. Even though not explicitly confirmed, scholars often agree that there was also a large age gap between Romeo and Juilet, where Romeo (the abuser) is older than Juliet (the protagonist). Additionally, the abuser/victim dynamic from the beginning of the album was also explicitly between a minor and an adult. Regardless, in this context, this line is shivering in how it is delivered and hurts to listen to on every relisten…
 
 ```ad-quote
 title: **revisited** 6:1:4-5
@@ -956,24 +874,12 @@ Run your thumb across its surface tension
 To relive it all
 ```
 
-- Build up to the climax of the album
-- Surface tension referring to what is left of the healing scars
-- The relief is the tension that has been built up with years of tramua
+As the song begins to build towards its climax, the protagonist begins to feel his own history, using the surface tension of his healing scars as a physical record of his endurance. This reference to tension functions as a dual metaphor for both the literal skin stretched over a wound and the immense psychological pressure accumulated through years of suppressed trauma. This signals the final rupture of the album’s narrative, transforming his scars from silent evidence of victimization into the primary conductors for a release that is as violent as it is necessary.
 
 ```ad-quote
-title: **revisited** 6:1:6-9
+title: **revisited** 6:1:6-9, 15-22
 Oh my god, it never felt so wrong (*x4*)
-```
 
-- Climax of the album
-- Scariest screams tbh
-- Instrumentation almost fully drops away
-- Even as they try to move onto new intimate partners, they cannot get past their past relationship
-- No matter what he does, everything reminds them of the pain they endured
-- He is  so distraught because he, as stated throughout the song, wants to move on, but he cannot as it has left such an impression on him.
-
-```ad-quote
-title: **revisited** 6:1:15-22
 Touch it 'til it burns
 Touch it 'til it burns
 Touch it 'til it hurts
@@ -984,12 +890,8 @@ Touch it 'til it hurts
 Touch it 'til it works
 ```
 
-- The trauma of that feeling, since the previous lyric talks about ripping holes, and a lot of people who experience SA have a sex repulsion because every time they or someone else touches there it brings back memories. So the burning is the memories reopening and sometimes with trauma like that, you feel the pain again too, and the hurts is that pain and the works is trying to get over it.
-- It is the slow process of getting over what has happened to finally feel safe with another person again
-- A sad, but growing process
+Suddenly, most of the instruments drop away as Willy, the main singer on the album, lets out some of the most emotional lines as the whole album leads to its climax. Even as he tries to move onto new intimate partners, he cannot get past how it feels to be touched by another person. No matter what anyone does, everything reminds them of the pain he endured. He is  so distraught because he wants to move on, but he cannot as it has left such an impression on him. Even after trying everything and getting into a consensual relationship, he might always have a little bit of the feeling in the back of his mind. The following lines illustrate the constant cycle of trying over and over again to feel better, but he keeps getting stuck on that feeling. His memories and his scars keep on reopening as he keeps living through the pain on repeat. 
 ### Part 7: Acceptance?
-
-- Even later after their last sexual encounter after leaving their abuser 
 
 ```ad-quote
 title: **revisited** 7:1:1-4
@@ -999,28 +901,14 @@ In sought of something more
 Leak out the reddish blush
 ```
 
-- These final lines capture the narrator's attempt to speak his truth after a lifetime of silence. The words are small and inadequate (“measly”), but they are all he has. The truth leaks out involuntarily — blood and shame mixed together — and he is left “worn, so torn,” still searching for something more than survival. It is not an ending of triumph, but of fragile, unresolved honesty.
-- The bleeding from the wounds continue as many more are added (self-harm)
-- They are finally able to find the words to explain the SA, but still are not good enough
-
-```ad-quote
-title: **revisited** 7:1:5-6
-Once I'm high, I'll entourage
-That little sting to fuck me up
-```
-
-- This line actually means a few things at once
-	- Self-harm
-	- Pain found remembering what happened when they get touched by someone else
-	- A needle for continued opioid abuse
+These final introductory lines capture the narrator’s attempt to speak his truth after a lifetime of silence. When compared to earlier in the album, the little words he can say come out involuntarily as he is left battered and defeated. Even though he found some of the words to explain his feeling, he still left distraught as his scars begin to bleed once more due to his own self-harm.
 
 ```ad-quote
 title: **revisited** 7:1:8
 The feeling's ill, the rape was wrong
 ```
 
-- It is the first time that the narrator is finally calling out the deed by its name as something that he did not have control over
-- He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt by his abuser to get him to the point of distruction
+This line is the first time that the narrator is directly calling out the deed by its name as something that he did not have control over. He begins to realize that everything that happened was not a pre-determined destiny or a tragedy, it was a deliberate attempt by his abuser to get him to the point of destruction. This lyric, with the help of previous parts, buries the hatchet once and for all. It was not neither in his nature or his nurture that led him to despair, rather a calculated move of cruelty designed by his abuser. This realization shifts the narrative burden from a fated tragedy to a deliberate crime, finally allowing the protagonist to detach his identity from the false belief that his suffering was an inherent flaw in his own existence.
 
 ```ad-quote
 title: **revisited** 7:1:9-11
@@ -1029,34 +917,45 @@ That feeling stings, it goes away
 But not for long, it's staying shut
 ```
 
-- He starts to recognize the power dynamic that he had with his abuser
-- The guilt begins to come back in waves rather than permanent
-- Even if the narrator is doing better, he still continues to struggle with the pain he feels throughout the rest of your life.
+Once he comes to this realization, he starts to recognize the power dynamic that his abuser had over him and how it makes him feel guilty for what happened. As he moves away, he still feels the guilt come back and forth in waves, which will continue to give him pain and struggles throughout the rest of his life.
 
 ```ad-quote
-title: **revisited** 7:1:9-12
+title: **revisited** 7:1:12
 The drug I feel I wouldn't want
 ```
 
-- When compared to the rest of the drugs that he has done up to this point (cigarettes, weed, and even opoids) there is a drug that they continuously feel as well
-- As stated earlier the narrator kept equating his love to drugs throughout
-	- lost in translation (1:1:10-11)
-	- lost in translation (1:3:23-26)
-- The drug he feels right now is the withdrawal of what he thought was love
-- The stings can also relate to the withdrawals
+Unlike any other drug the narrator has taken up to this point, he is referring to a metaphor instead. As stated throughout[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Song IX lost in translation| “lost in translation”]] and this song, the narrator would often keep on equating his love to drugs throughout. This drug that he feels right now is the final withdrawals for an abusive love, the want to pass away. It is the fear of not being able to find a healthy partner again and to not be able to fully heal from such a tragedy that pushes him closer and closer to the edge. However, in spite of everything, the protagonist boldly pushes away from the thought has he does not want to take the final dose. As mentioned in [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part 1 Introduction|Part 1]], he wants to continue living in spite of the cards he was dealt, in spite of the choice someone else made, in spite of everything. Done all for the hope that one day, he might be able to get his version of a happy ending. 
 
+However, this last idea is ripped away from the audience as the instrumentals begin to chug along and fall apart as it moves along. Then, during the last 33 seconds of the album, the instrumentals drop and fall to the recording of a songbird. However, this is not an ordinary song bird call. It was the final recording of the last Kauaʻi ʻōʻō, a Hawaiian bird that went fully extinct shortly after he could no longer find a mate. The bird continues to call desperately for someone to return his mating call, but it is lost to the void of the forest as no one would ever respond to him. This marked the last remaining species of the honeyeaters family (Meliphagidae) to go extinct [https://dlnr.hawaii.gov/wildlife/birds/kauai-oo/]. If interpreted in the context of the album, the protagonist feels that he is destined to the same fate of the Kauaʻi ʻōʻō. Desperately calling out for a love to save him, no one returns his calls. Deep-down, it reveals one of his true fears: the fear that he will die alone and be the last of the bloodline in his family. The album concludes with a total collapse in hope as the protagonist surrenders that this is his extinction.
 ## Summary and Connections
+
+“revisited” functions as the album’s devastating climax, tracing an arc across seven parts while refusing the closure at the last second. The Mysterious Skin (2004) sample immediately signals that the trauma is sexual and that the protagonist cannot verbalize it directly. Part 2 delivers the long‑withheld revelation of rape and the first acknowledgment that the protagonist is a trans man, recontextualizing every prior song as a symptom of stolen adolescence. Part 3 details how the abuser isolated him by replacing friends with opioids. Part 6 then escalates into a visceral loop of triggered memories where even consensual touch feels wrong.  Part 7 finally breaks the nature‑vs‑nurture debate from earlier songs: it was never destiny or tragedy, but a deliberate crime caused by the abuser. Yet the song does not end in triumph. Even though the protagonist rejects suicide, the album closes with the last call of the extinct Kauaʻi ʻōʻō, a metaphor for surviving alone. This aligns with the HCDVCC report on identity abuse as the abuser clearly weaponsizes his age, his identity, and his relgious guilt to manipulate him. The Trevor Project’s data on substance use as insufficient coping is also on full display here. Finally, CDC’s statistics on persistent hopelessness among LGBTQ+ youth is also present as the final minute of the song provides no hope for the protagonist [ALL SOURCES HERE]. By offering no redemption, “revisited” rejects tokenism. There are no happy endings, and the main character does not fall into any stereotypes as it tells a tragic tale through-and-through. It also fights against heteronormative stereotypes by pushing a narrative that trans men, two traits that often intersect at weak social support, can also face domestic abuse just like anyone else.
+
+
 # Comparison
 
-- Is their work an accurate representation of culture?
-- Does it fall into any tokenism or biases?
-- Does it match any statistics, or does it propagate them?
+To establish the work's cultural legitimacy, this analysis began by interrogating three core questions designed to determine whether the album serves as an authentic reflection of the LGBTQ+ experience or inadvertently reinforces harmful stereotypes. The first question asks if this media is a good representation of queer culture, making sure it follows what is expected to come out of the community. The second question ensures that the media does not fall into any potential tokenism or biases, which would further degrade both the legitimacy of the media and the community as a whole. Finally, it is critical that all the risks and struggles brought up in the media are accurate to what the LGBTQ+ population faces as that could risk propagating a false narrative to someone who takes it out of context.
 
+In terms of cultural representation, the album captures what it means to face an intersectional reality everyday. In particular, both characters outline the compounded vulnerabilities of being a young trans man: finding LGBTQ+ identity, avoiding economic issues, not overcoming to religious guilt, and living with childhood sexual abuse. This closely aligns with Kimberlé Crenshaw's framework of intersectionality. Multiple identities create unique and layered oppressions rather thana single axis of struggle. This is further validated by a primary theme throughout the story: the battle between nature vs. nurture. By the end of the story, the protagonist realizes biology or choice alone was not to blame, but rather a layering of societal pressures and failures that led him to where he is now. The abuser is also a clear example of how powerful identity abuse can be against young queer people. The abuser weaponizes the protagonist’s transmasculinity, his need to escape from hostile parents, and his own religion to maintain control. This is a multi-level abusive framework that is not simplified for the audience. Specifically, the album’s depiction of the trans man perspective has to be one of the best in media I have ever seen. It is often in media that trans women get a spotlight for better and worse. However, this often leaves trans men to be invisible by broader society. By centering a trans male survivor of domestic and sexual violence, the album fills a gap in cultural narratives that either ignore trans men or portray them solely through the lens of gender transition rather than interpersonal trauma.  The protagonist's body dysphoria, shame, and history of abuse are related to each other, but his transness is not a cause of it. It is just one of the multiple vulnerabilities this minority has to face as the world changes day-by-day.
+
+The album refuses tokenism to the highest degree, challenges heteronormative assumptions, and avoids symbolic annihilation. It does not offer a redemptive arc, a heroic survivor narrative, or a tidy resolution. The Kauaʻi ʻōʻō ending ensures that his survival is not a triumphant victory. Instead, it challenges the expectation that LGBTQ+ characters must be resilient role models or cautionary tales. The protagonist, in this case, is simply a person enduring trauma without the adequate support provided by others. As for the dynamic, the use of a woman as the abuser and a trans man as the victim inverts the heteronormative dynamics of domestic violence. Not all abusers are men; not all victims are women. In terms of symbolic annihilation, the album ensures that the audience knows that the protagonist struggles because of systematic failures rather than a set of individual moral failings. Economic discrimination, lack of affirming healthcare, and isolation from family all combine together to create a support system that bottomed out when the protagonist needed it the most. 
+
+The piece of media is also able to teeter on the fine line of accuracy and propagation. While the album matches the statistical likelihoods of many risks the community faces, it deconstructs them rather than propagating them. When it comes to substance abuse, the album shows why substance use is a coping mechanism for trauma and discrimination and not a lifestyle choice for young queers. This avoids the "addicted queer" stereotype by providing psychological depth. As for depression and suicidal thoughts, the protagonist has these thoughts throughout the album. However, the last ultimate refusal at the end of the album reflects the literature. Even though so many queer individuals face so many mental health hardships, help-seeking behavior has nearly doubled as more youth are aware of therapy services [Trevor]. This album does a great job ensuring suicide is not romantized, like “Romeo and Juilet” [R&J], but instead shows it as a temptation born from exhaustion and weak support systems. As for domestic/sexual violence, the album does a fantastic job of carefully describing a realistic use of identity abuse to further one’s desires. Every major song includes ways that the abuser uses to place both physical and psychological abuse to keep the protagonist in control. The album propagates statistics in a positive light: it tells a specific story that resonates with statistical realities without reducing the protagonist to a data point. It also further avoids the pitfall of making abuse seem inevitable by showing that the abuser's actions were deliberate choices, not fate.
+
+However, the album’s raw and graphic content could reinforce the stereotypes of LGBTQ+ as people who are inherently damaged. Detailed depictions of self-harm, sexual violence, and drug use all could be considered stereotypical behavior of queer individuals looking from the inside out. It could also teach younger individuals in the community that this is behavior that should be normalized or replicated. However, it is evident that the suffering throughout this album is a consequence of abuse, not inherently connected to the queer identity. The protagonist lives through this terrible nightmare because someone purposefully got him to this point. He did not chose to live this life or was he genetically disposed to getting abused. The statistics regarding LGBTQ+ people are so high because people often are too quick to place blame on who they are rather than how they got there. People should never be labeled as self- destructive, sexually deviant, or addicts due to a system that ultimately failed them for thousands of years.
 # Future Work
+
+Even with this massive paper, there are still some key themes that were not covered. Firstly, Christianity has a lot of references throughout the album, with the blood and body of Christ being eaten multiple times throughout the album [b1-b2]. Workplace harrassment could also be a reason why the protagonist is homeless and relies on his abuser to for shelter [Workplace Harassment of Transgender People - A Narrative Review]. Additionally, the terrible healthcare system could propagate the protagonist’s lack of support for their depression, transition, and substance abuse. Musicality, the songs also have plenty of themes as melodies are re-used multiple times as motifs throughout the album’s runtime. Finally, the connection between Mysterious Skin, the album, and both  could also be further explored. There is a chance that both characters are 
 
 - Religion
 - Workplace
 - Disease/Healthcare
+- Musicality
+- More songs
+- Film to album to artist
+	- Protagonist finds it difficult to be able to truely explain how the abuse happened using
+	- He used the film segment as a way to explain what he felt without using his own words
+	- In a way, this album might be a way for the artist to cope with his own experiences as he cannot put his abuse into words as well
 
 # Conclusion
 

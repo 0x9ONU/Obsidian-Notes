@@ -15,7 +15,7 @@
   "prevConfig": {
     "pageSize": "Letter",
     "marginType": "3",
-    "showTitle": true,
+    "showTitle": false,
     "open": true,
     "scale": 85,
     "landscape": false,

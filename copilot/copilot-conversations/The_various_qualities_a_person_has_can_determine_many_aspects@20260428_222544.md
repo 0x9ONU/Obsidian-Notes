@@ -35,7 +35,7 @@ Error Details: 401 Authentication Fails, Your api key: ****4341 is invalid
 [Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/(Witty Title Here).md]
 [Timestamp: 2026/04/28 22:32:27]
 
-**ai**: Test received! The context from your note **[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album]]** is loaded and ready. If you have any questions about the paper (terminology, album review structure, literature review, etc.) or need help drafting sections, let me know.
+**ai**: Test received! The context from your note **[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album]]** is loaded and ready. If you have any questions about the paper (terminology, album review structure, literature review, etc.) or need help drafting sections, let me know.
 [Timestamp: 2026/04/28 22:32:30]
 
 **user**: - *Intersectionality* is a term that examines how multiple identities can be present at one time and how they can shape an individual’s life in terms of both oppression and privilege [Kimberlé Crenshaw]. The various qualities a person has can determine many aspects of their life such as work opportunities, likelihood of being at risk, . LGBTQ+ individuals are often faced with such a reality as described later.

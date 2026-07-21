@@ -208,7 +208,7 @@ If Part II traced the narrator's painful internal debate, Part III documents wha
 These opening lines immediately dismantle the fragile fantasy of the bridge. Where the narrator had just begged to be "in your arms," Part III confronts him with the brutal reality of physical violence. The blunt confession, "I've been beaten to a pulp," confirms that his earlier apprehension was wholly justified — the relationship he chose to return to has left him utterly broken. His subsequent plea, "Wake me up when it's time to go," functions as a desperate act of dissociation. He does not ask to leave immediately, but instead requests to remain unconscious until the danger has passed. This is not a call for active rescue, but a surrender to passivity — waiting numbly for the abuse to run its course so he can finally escape.
 [Timestamp: 2026/05/04 14:04:45]
 
-**user**: The narrator, not blinded by love anymore, realizes the mistake that he made. In[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”| Part I]], they believed that regardless of all the flaws their abuser had, they would one day come back around and love the narrator just like they did before. However, he now finally realizes that this relationship they have can no longer continue as they cannot keep giving so much to their abuser for the little love that they get in return. 
+**user**: The narrator, not blinded by love anymore, realizes the mistake that he made. In[[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part I The Shining “Son”| Part I]], they believed that regardless of all the flaws their abuser had, they would one day come back around and love the narrator just like they did before. However, he now finally realizes that this relationship they have can no longer continue as they cannot keep giving so much to their abuser for the little love that they get in return. 
 
 what else can I discuss here?
 [Context: Notes: 4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md]
@@ -290,7 +290,7 @@ Let me know if you'd like to shorten this or adjust the focus on specific termin
 
 **1. A literal father / parental figure**
 
-Given that [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album#Part II A Rotting Love|Part II of "dish rags"]] reveals the narrator faced "gendered abuse" at home and used the relationship as an escape, "father" could be a literal reference to a parent — specifically the source of that home-based discrimination. The line "I murdered my father" would then function as a metaphorical killing, representing the narrator severing ties with their oppressive family.
+Given that [[Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album#Part II A Rotting Love|Part II of "dish rags"]] reveals the narrator faced "gendered abuse" at home and used the relationship as an escape, "father" could be a literal reference to a parent — specifically the source of that home-based discrimination. The line "I murdered my father" would then function as a metaphorical killing, representing the narrator severing ties with their oppressive family.
 
 **2. A metaphorical father figure (similar to "son"/"sun" in "dish rags")**
 
