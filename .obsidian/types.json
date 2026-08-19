@@ -46,6 +46,9 @@
     "TQ_show_urgency": "checkbox",
     "deadline": "date",
     "type": "text",
-    "status": "multitext"
+    "status": "multitext",
+    "excalidraw-export-internal-links": "checkbox",
+    "excalidraw-embed-md": "checkbox",
+    "TQ_show_toolbar": "checkbox"
   }
 }
