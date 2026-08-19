@@ -70,4 +70,22 @@ Check detailed handout in email for more information
 	- Then add enough self-study to reach 15 credits
 - Self-Study Research
 	- a “fake” course to get you up to 15 hours lol
-- After getting a research advisor, MS/PhD students should take 
+- After getting a research advisor, MS/PhD students should take Thesis/Dissertation Research credits under their advisor, NOT self-study research
+
+# Academic/Research Advisors
+
+- Every grad student must have an *academic advisor*
+- Every MS/PhD student must have a thesis/dissertation *research advisor*, who is also usually the academic advisor 
+
+```ad-note
+Only different if they are outside of the department
+```
+
+- Need to get one by the end of Spring/Summer
+- Kicked out if you don’t get an advisor by then
+
+# Change of Degree
+
+- Can change if necessary
+- GIA will be dropped if applicable
+- 
