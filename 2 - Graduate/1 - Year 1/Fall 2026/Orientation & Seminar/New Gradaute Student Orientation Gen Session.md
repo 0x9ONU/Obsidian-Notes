@@ -42,4 +42,37 @@ ORDER THEM ONLINE!
 | Reading Days                       | #comebacklater           |
 # Health Insurance
 
--
+- Automatically added
+- **Questions**: studins@ucmail.uc.edu
+
+# Course Registration
+
+- Talk to advisor to check
+- Always keep your advisor up-to-date about academic progress and research
+- Must be registered every year
+	- At least *1 credit hour*
+- Students recieve an RA/GA/TA and are using CEAS facilities **must be full time**
+- 
+
+```ad-warning
+Must be within the college for set degree requirements
+- Needs to be **formally requested**
+- Form within CEAS portal under "Approval for Courses Outside CEAS"
+- Approved by advisor and the main office
+- **Could kill your GIA**
+```
+
+# CEAS Student Portal
+
+```ad-note
+Available after 2 weeks after classes start
+```
+
+**Main forms**:
+1. Change Forms
+	- Advisor change
+	- Status, program, or requirement change
+2. Graduate Study Forms
+3. Graduation Forms
+
+
