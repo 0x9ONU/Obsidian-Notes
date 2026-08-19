@@ -108,12 +108,14 @@ C-->D(Department Head)
 E(Scholarships, Registration, Graduation)-->F(Graduate Studies Office)
 F-->G(Associate Dean)
 G-->H(Dean of CEAS)
-B-->F
-C-->G
-D-->H
+B<-->F
+C<-->G
+D<-->H
 ```
 
 # Orientation Reminders
 
-- [ ] ⏫ Complete the online Check-in
+- [ ] ⏫ Complete the online Check-in → https://www.ceas3.uc.edu/CeasStudentPortal/uploadacceptoffer
 - [ ] Register and get the GIA award
+
+
