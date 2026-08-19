@@ -165,3 +165,34 @@ Make sure to foster relationships whenever possible
 
 ## Guides for Research & Courses
 
+- guides.libraries.uc.edu
+- Information resoruces for CEAS
+- Find databases and resources 
+- *Libguides*
+- Find places to publish to! (**open access is big**)
+	- Must be a current UC faculty or staff
+	- Submitted with the campus email!
+
+**Can help with**:
+1. Data management
+2. AI in research
+3. Data analytics
+	- GIS services
+	- Statistical Analysis
+	- R programing
+4. Transparent and reproducible research
+	- Equitable and Responsible Data Practices
+	- Open Science practices
+5. Impact thorugh research output sharing
+	- Repos
+	- ORCID
+6. Library Workshops
+	- Python
+	- GitHub
+	- LaTeX
+	- MatLab
+
+$$
+	
+$$
+
