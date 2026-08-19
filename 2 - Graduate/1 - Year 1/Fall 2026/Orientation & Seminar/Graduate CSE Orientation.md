@@ -32,9 +32,28 @@ Total # of credits based on degree
 - *Require Courses*
 	- 7001 Fall Seminar & 7002 Spring Seminar (in year 1)
 	- 7004 Practical Experience (after research advisor)
-		- Fullfilled by RA/TA
+		- **Fullfilled by RA/TA**
 - Require compleiton of an MS Thesis or Doctoral Proposal and DOctoral Dissertation.
 
 ```ad-warning
 ECE does not have a lot of 7000 level courses in the fall
 ```
+
+# Tracks
+
+- EE-Sensor and Microsystems (EE MS/PHD)
+- EE-Systems (EE MS/PhD)
+- Computer Engineering (CompE MS/PhD)
+- VLSI (any MS/PhD)
+- Intelligent Systems and Robotics (CompE MS, CSE-PhD)
+- Cyberseucrity (CSE-PhD; EE PhD with permission)
+
+```ad-warning
+Try to stick to it if possible, but don't be afraid to select any right away.
+```
+
+```ad-important
+Check detailed handout in email for more information
+```
+
+
