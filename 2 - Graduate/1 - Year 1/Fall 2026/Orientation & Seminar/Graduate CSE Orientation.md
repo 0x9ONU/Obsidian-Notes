@@ -98,7 +98,7 @@ Only different if they are outside of the department
 
 # Next Steps
 
-- [ ] Fill out program of study ⏫ 
+- [ ] Fill out program of study ⏫ (VLSI)
 - [ ] After approved, sign up for classes asap🔼 
 - [ ] Change courses if capacity too high, OR email to find openings
 - [ ] Watch for emails from CEAS and ECE
