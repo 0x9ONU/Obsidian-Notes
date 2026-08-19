@@ -5,8 +5,6 @@ File Folder: Orientation & Seminar
 
 # Introduction
 
-
-
 ## Office Staff
 
 ```ad-info
