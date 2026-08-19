@@ -11,13 +11,24 @@
             "id": "a27ee9af83353e61",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "mx-welcome",
+              "state": {},
+              "icon": "home",
+              "title": "Onboarding - Media Extended"
+            }
+          },
+          {
+            "id": "d52cf370882988e6",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Day Planner Release 0.33.0"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,6 +240,16 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "eb8c047417a82036",
+            "type": "leaf",
+            "state": {
+              "type": "planner-time-tracker",
+              "state": {},
+              "icon": "timer",
+              "title": "Time Tracker"
+            }
           }
         ],
         "currentTab": 10
@@ -239,6 +260,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -255,7 +278,6 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-daily-notes-opener:Open today's daily note in new pane": false,
       "obsidian-daily-notes-viewer:Open Viewer": false,
-      "media-extended:Open media": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
@@ -268,7 +290,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a27ee9af83353e61",
+  "active": "d52cf370882988e6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Untitled 6.md",
