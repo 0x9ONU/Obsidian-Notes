@@ -13,15 +13,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering"
             }
+          },
+          {
+            "id": "cd69d6cdfda9aeca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +52,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -123,7 +136,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering"
+              "title": "Outline"
             }
           },
           {
@@ -261,7 +274,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ede700bbefcb54ae",
+  "active": "cd69d6cdfda9aeca",
   "lastOpenFiles": [
     "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf",
     "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf",
