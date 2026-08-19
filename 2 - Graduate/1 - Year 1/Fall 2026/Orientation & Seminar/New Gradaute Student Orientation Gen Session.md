@@ -208,7 +208,10 @@ title: **Amy Blankenship**
 - Sexual and Gender-Based Violence Support
 - Care Management
 - Psychological Assessment
-- Crisis
+- Crisis ← on the back of the *bearcat card*
+- Group Therapies
+- **225 Calhoun (near the small Target), Suite 200**
+- **Student Wellness Center 480 Steger Student Life Center**
 
 ## RAC
 
@@ -223,3 +226,22 @@ Always free counseling
 ## Negative Trends in Engineering
 
 *Look out for*:
+1. Negative perfectionism
+2. Childhood trauma
+3. Black and white thinking
+4. Over thinking
+5. Desire for social connection
+6. Autism spectrum ← damn
+7. Identifying and communicating feelings
+8. Strategies
+	- Stress management
+	- Organization
+	- Anxiety
+	- Depression
+	- Interpersonal communication
+
+## QPR (pretty cool)
+
+- [ ] Look into signing up
+
+
