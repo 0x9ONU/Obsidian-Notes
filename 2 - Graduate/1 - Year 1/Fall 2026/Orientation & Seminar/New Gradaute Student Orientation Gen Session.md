@@ -118,4 +118,18 @@ D<-->H
 - [ ] ⏫ Complete the online Check-in → https://www.ceas3.uc.edu/CeasStudentPortal/uploadacceptoffer
 - [ ] Register and get the GIA award
 
+# Amanda McLaughlin - Career Development
 
+- Career Fiar prep
+- Resume
+- etc.
+- **Coursera**
+- Monthly CEAS grad email
+
+```ad-warning
+Make sure you check your email a lot!
+```
+
+## Career Fair Dates
+
+- Business Day: uesda
