@@ -98,4 +98,22 @@ Available after 2 weeks after classes start
 - MUST complete an *online application* in the term you wish to gradaute
 - Early in the semester!
 
+# Contact Graph
 
+```mermaid
+flowchart TD
+A(Ciurriculum, Research, Graduate Assistantship, Fellowship)-->B(Academic Advisor)
+B-->C(Graduate Program Director)
+C-->D(Department Head)
+E(Scholarships, Registration, Graduation)-->F(Graduate Studies Office)
+F-->G(Associate Dean)
+G-->H(Dean of CEAS)
+B-->F
+C-->G
+D-->H
+```
+
+# Orientation Reminders
+
+- [ ] ⏫ Complete the online Check-in
+- [ ] Register and get the GIA award
