@@ -15,6 +15,9 @@ File Folder: Orientation & Seminar
 - Dr. Zhou - ECE MEng & Ai Graduate Program Director
 	- zhoxu@ucmail.uc.edu
 
+**Internship Info**
+- Amanda McLaughlin
+- Julie Steimle
 # List of Courses
 
 - Found online in the same email as the student handbook
@@ -72,6 +75,9 @@ Check detailed handout in email for more information
 	- a “fake” course to get you up to 15 hours lol
 - After getting a research advisor, MS/PhD students should take Thesis/Dissertation Research credits under their advisor, NOT self-study research
 
+```ad-important
+If you need to add a course, add *then* drop
+```
 # Academic/Research Advisors
 
 - Every grad student must have an *academic advisor*
@@ -102,4 +108,8 @@ Only different if they are outside of the department
 - Come with first-year PhD Students
 - Comes with no RA position
 - *Already good with this one*
+
+# Help and Advice
+
+**See above** [[Graduate CSE Orientation#Contacts]]
 
