@@ -147,4 +147,21 @@ Make sure you check your email a lot!
 Make sure to foster relationships whenever possible
 ```
 
+# Libraries
+
+- 8th floor, BaldwinHall
+- libraries.uc.edu/ceas
+- 513-556-1550
+
+**Library Directors**:
+- Ted Baldwin → Biomedical & Chemical
+- **Aja Bettencour** → Elecricla & Computer
+- **Mark Chalmers** → Comp. Sci
+
+**Operational Staff**:
+ - Craig Person ← *Reach out for jobs*
+ - Julie Carr-Trebelhorn
+ - Sam Helmrath
+
+## Guides for Research & Courses
 
