@@ -82,10 +82,24 @@ Only different if they are outside of the department
 ```
 
 - Need to get one by the end of Spring/Summer
-- Kicked out if you don’t get an advisor by then
+- ***Kicked out if you don’t get an advisor by then***
 
 # Change of Degree
 
 - Can change if necessary
 - GIA will be dropped if applicable
-- 
+- No guarantee
+
+# Next Steps
+
+- [ ] Fill out program of study ⏫ 
+- [ ] After approved, sign up for classes asap🔼 
+- [ ] Change courses if capacity too 
+- [ ] Watch for emails from CEAS and ECE
+
+# TA Assistantships
+
+- Come with first-year PhD Students
+- Comes with no RA position
+- *Already good with this one*
+
