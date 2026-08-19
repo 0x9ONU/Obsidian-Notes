@@ -100,9 +100,12 @@ Only different if they are outside of the department
 
 - [ ] Fill out program of study ⏫ 
 - [ ] After approved, sign up for classes asap🔼 
-- [ ] Change courses if capacity too 
+- [ ] Change courses if capacity too high, OR email to find openings
 - [ ] Watch for emails from CEAS and ECE
 
+```ad-warning
+Send *direct emails* with a good header text
+```
 # TA Assistantships
 
 - Come with first-year PhD Students
@@ -148,4 +151,49 @@ Only different if they are outside of the department
 - Microelectronics
 - Semiconductors
 
+## Yeongin Kim
 
+- Small sensors
+## Tao Li
+
+- Small sensor
+- Bio
+
+## Ali A. Minai
+
+- Straight AI
+
+## Ankit Mittal
+
+- Energy-efficient connectivity
+- RF
+
+## Vesna Novak
+
+- Human experiments
+- Exo-skeletons
+- Exercise games
+- Rehab
+- Ethics
+
+## Max Rabiee
+
+- Controls
+- Drives
+- Digital elecronics
+
+## Ranga Vemuri
+
+- Hardware security
+- VLSI
+
+## Boyang Wang
+
+- Cybersecurity
+- Machine learning
+
+## Frank Zhou
+
+- Computer vision
+- Image processing
+- Signal processing
