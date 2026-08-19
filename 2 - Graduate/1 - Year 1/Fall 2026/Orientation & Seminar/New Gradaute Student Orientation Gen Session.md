@@ -192,7 +192,9 @@ Make sure to foster relationships whenever possible
 	- LaTeX
 	- MatLab
 
-$$
-	
-$$
+# Academic Integrity & Plagarism
+
+*don’t be stupid lol*
+
+# 
 
