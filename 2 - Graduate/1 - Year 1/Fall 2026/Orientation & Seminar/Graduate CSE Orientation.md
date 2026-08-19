@@ -113,3 +113,39 @@ Only different if they are outside of the department
 
 **See above** [[Graduate CSE Orientation#Contacts]]
 
+# Professors
+
+## Chong H. Ahn
+
+- Professor
+- ahnch@ucmail.uc.edu
+- Biosensors
+
+## Rui Dai
+
+- Assocaite
+- Multimedia Netowrking and Comms
+
+## Zachariah Fuchs
+
+- Game-theory
+- Autnomous Robtic Systems
+- Defense contracts
+
+## John C. Gallagher
+
+- Cyberphysical systems
+- Robots, worms, etc.
+- Machine learning
+
+## Daewoo Han
+
+- Nanomaterials
+- Biosensors
+
+## Rashmi Jha
+
+- Microelectronics
+- Semiconductors
+
+
