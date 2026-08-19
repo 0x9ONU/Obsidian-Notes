@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Graduate/1 - Year 1/Fall 2026/Orientation & Seminar/New Gradaute Student Orientation Gen Session.md",
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/Orientation & Seminar/Graduate CSE Orientation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Gradaute Student Orientation Gen Session"
+              "title": "Graduate CSE Orientation"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -288,6 +287,7 @@
   "active": "bc111a116acbbbdd",
   "lastOpenFiles": [
     "2 - Graduate/1 - Year 1/Fall 2026/Orientation & Seminar/New Gradaute Student Orientation Gen Session.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/Orientation & Seminar/Graduate CSE Orientation.md",
     "2 - Graduate/1 - Year 1/Fall 2026/Orientation & Seminar",
     "2 - Graduate/1 - Year 1/Fall 2026",
     "2 - Graduate/1 - Year 1",
@@ -324,7 +324,6 @@
     "copilot/copilot-conversations/```ad-quote_title_wetdream_1B1-3_It's_so_nice_Pretending_like@20260506_212834.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/copilot-conversations/```ad-quote_title_wetdream_4R4-6_So_make_it_work_tonight@20260506_134702.md",
-    "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 18/18 - Diffusion.md",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
     "General Notes/Pasted image 20260428125324.png",
     "General Notes/Pasted image 20260428125208.png",
