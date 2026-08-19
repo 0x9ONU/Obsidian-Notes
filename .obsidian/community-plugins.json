@@ -24,6 +24,7 @@
   "obsidian-link-embed",
   "obsidian-living-graph",
   "longform",
+  "media-extended",
   "obsidian-minimal-settings",
   "url-into-selection",
   "obsidian-reading-time",
@@ -34,6 +35,7 @@
   "dataview",
   "calendar",
   "obsidian-day-planner",
+  "better-export-pdf",
   "obsidian-advanced-slides",
   "recent-files-obsidian",
   "obsidian-importer",
@@ -44,5 +46,5 @@
   "obsidian42-brat",
   "copilot",
   "pdf-plus",
-  "handwritten-notes"
+  "obsidian-zotero-desktop-connector"
 ]

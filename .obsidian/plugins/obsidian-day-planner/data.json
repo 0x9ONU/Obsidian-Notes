@@ -15,6 +15,7 @@
   "timelineEndColor": "#4d194d",
   "timestampFormat": "hh:mm a",
   "hourFormat": "h",
+  "dataviewSource": "",
   "extendDurationUntilNext": false,
   "defaultDurationMinutes": 30,
   "minimalDurationMinutes": 10,
@@ -23,7 +24,7 @@
   "showUnscheduledNestedTasks": true,
   "showNow": true,
   "showNext": true,
-  "pluginVersion": "0.33.0",
+  "pluginVersion": "0.28.0",
   "showCompletedTasks": true,
   "showSubtasksInTaskBlocks": true,
   "icals": [
@@ -55,13 +56,6 @@
   "sortTasksInPlanAfterEdit": false,
   "firstDayOfWeek": "monday",
   "multiDayRange": "3-days",
-  "showTimelineInSidebar": true,
-  "showActiveClockInStatusBar": true,
-  "timelineColumns": {
-    "planner": true,
-    "timeTracker": false
-  },
-  "dataviewSource": "",
   "showTimeTracker": false,
   "showActiveClocks": false,
   "editMode": "simple",

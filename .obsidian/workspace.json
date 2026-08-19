@@ -8,47 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ede700bbefcb54ae",
+            "id": "a27ee9af83353e61",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering"
-            }
-          },
-          {
-            "id": "cd69d6cdfda9aeca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
-          },
-          {
-            "id": "98a70e5f9ac452cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +115,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -251,9 +219,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "4e6ed2f9cc9606f9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -290,7 +268,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "98a70e5f9ac452cb",
+  "active": "a27ee9af83353e61",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Untitled 6.md",
