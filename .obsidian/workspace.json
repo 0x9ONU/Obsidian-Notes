@@ -8,27 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a27ee9af83353e61",
+            "id": "bc111a116acbbbdd",
             "type": "leaf",
             "state": {
-              "type": "mx-welcome",
-              "state": {},
-              "icon": "home",
-              "title": "Onboarding - Media Extended"
-            }
-          },
-          {
-            "id": "d52cf370882988e6",
-            "type": "leaf",
-            "state": {
-              "type": "planner-release-notes",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/Orientation & Seminar/New Gradaute Student Orientation Gen Session.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Day Planner Release 0.33.0"
+              "title": "New Gradaute Student Orientation Gen Session"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -256,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,47 +285,47 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d52cf370882988e6",
+  "active": "bc111a116acbbbdd",
   "lastOpenFiles": [
+    "2 - Graduate/1 - Year 1/Fall 2026/Orientation & Seminar/New Gradaute Student Orientation Gen Session.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/Orientation & Seminar",
+    "2 - Graduate/1 - Year 1/Fall 2026",
+    "2 - Graduate/1 - Year 1",
+    "2 - Graduate",
+    "1 - Undergrad",
     "conflict-files-obsidian-git.md",
     "Untitled 6.md",
     "Excalidraw/Drawing 2026-07-20 22.43.31.excalidraw.md",
     "2026-07-21.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf",
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf",
-    "4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
-    "4 - Senior Year/Summer 2025/Grad School Search/Graduate School Application Overview.md",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
+    "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A_Survey_of_Wireless_Sensor_Network_and_its_types.pdf",
+    "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Discussion of Security Aspects of Clock.pdf",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
+    "1 - Undergrad/4 - Senior Year/Summer 2025/Grad School Search/Graduate School Application Overview.md",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critique of WillyRodriguezWasTaken’s Final Album.md",
+    "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Papers/A Brief Comparison of Security Aspects of Time.pdf",
     "General Notes/Kanban/A Survey of Wireless Sensor Network and Its Types.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
-    "4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
-    "4 - Senior Year/Fall 2025/Resume 2025.md",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
+    "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Summer 2025 Research Literature Review.md",
+    "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
+    "1 - Undergrad/4 - Senior Year/Fall 2025/Resume 2025.md",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Propagation_dynamics_of_malware_in_wireless_sensor.pdf",
     "General Notes/Kanban/Propagation dynamics of malware in wireless sensor networks with node sleep-active scheduling based on simplicial complexes.md",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Securing_Wireless_Sensor_Network_Against_Multi-Mal.pdf",
-    "4 - Senior Year/Spring 2026/Material Science/Module 1/Module 1_Lab.pdf",
-    "4 - Senior Year/Spring 2026/Material Science/Module 1/Untitled.pdf",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Machine_Learning_Solutions_for_the_Security_of_Wireless_Sensor_Networks_A_Review.pdf",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Evaluation of deep learning approaches for oil & gas pipeline leak detection using wireless sensor networks.pdf",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Deep Learning-Assisted Smart Process Planning, Robotic Wireless Sensor Networks, and Geospatial Big Data Management Algorithms in the Internet of Manufacturing Things.pdf",
-    "4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Literature Review 3/Papers/Securing_Wireless_Sensor_Network_Against_Multi-Mal.pdf",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
     "General Notes/Kanban/Securing Wireless Sensor Network Against Multi-Malware Threats A Comprehensive Modeling and Analysis Approach.md",
     "General Notes/Kanban/Deep Learning-Assisted Smart Process Planning, Robotic Wireless Sensor Networks, and Geospatial Big Data Management Algorithms in the Internet of Manufacturing Things.md",
     "Rock Creek Library Letter of Interest.md",
     "4 - Senior Year/Spring 2026/Gender/Final Paper/Identity Abuse within a Bedroom Pop Confessional -  A Media Critque of WillyRodriguezWasTaken’s Final Album.md",
     "copilot/copilot-conversations/I_need_you_to_write_a_summary_and_connections_section@20260508_214955.md",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494).md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 16/16 - Composites.md",
-    "4 - Senior Year/Spring 2026/Material Science/Final Exam/Mat Sci - Final Exam.md",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494).md",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 16/16 - Composites.md",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Final Exam/Mat Sci - Final Exam.md",
     "copilot/copilot-conversations/```ad-quote_title_wetdream_1B1-3_It's_so_nice_Pretending_like@20260506_212834.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/copilot-conversations/```ad-quote_title_wetdream_4R4-6_So_make_it_work_tonight@20260506_134702.md",
-    "4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 18/18 - Diffusion.md",
-    "4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/ADULT LGBT POPULATION in the United States.md",
-    "4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 18/18 - Diffusion.md",
+    "1 - Undergrad/4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
     "General Notes/Pasted image 20260428125324.png",
     "General Notes/Pasted image 20260428125208.png",
     "General Notes/Pasted image 20260428125143.png",
@@ -341,7 +336,7 @@
     "General Notes/Pasted image 20260428124259.png",
     "General Notes/Pasted image 20260428122945.png",
     "General Notes/Pasted image 20260428122940.png",
-    "4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
+    "1 - Undergrad/4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

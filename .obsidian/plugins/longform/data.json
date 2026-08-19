@@ -6,54 +6,14 @@
   "sessionStorage": "data",
   "sessions": [
     {
-<<<<<<< HEAD
-      "start": "2026-08-19T12:58:57.678Z",
-=======
-      "start": "2026-08-19T12:24:58.572Z",
+      "start": "2026-08-19T14:31:33.011Z",
       "total": 0,
       "drafts": {
         "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
           "total": 0,
           "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-07-21T12:24:51.505Z",
->>>>>>> origin/main
-      "total": 0,
-      "drafts": {
-        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-07-20T18:08:53.981Z",
-      "total": 0,
-      "drafts": {
-        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-05-29T22:03:06.041Z",
-      "total": 0,
-      "drafts": {
-        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-05-14T19:27:11.680Z",
-      "total": 0,
-      "drafts": {
-        "4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+        },
+        "1 - Undergrad/4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
           "total": 0,
           "scenes": {}
         }
