@@ -5,13 +5,16 @@ File Folder: Orientation & Seminar
 
 # Introduction
 
+
+
+## Office Staff
+
 ```ad-info
 title: Speaker
 **Name:** Julie Steimle
 **Position**: Graduate Studies Office for CEAS
 ```
 
-## Office Staff
 
 - **Dr. Art Helmicki**: Assocaite Dean for Graduate Studies
 - **Amanda McLaughlin**: Associate Director, Career Development
@@ -74,5 +77,27 @@ Available after 2 weeks after classes start
 	- Status, program, or requirement change
 2. Graduate Study Forms
 3. Graduation Forms
+4. Traveling Stipend for Conferences
+
+# Office of College Computing - Mantei Center 636
+
+- Open 8am-5pm
+- ceas-userhelp@listserv.uc.edu
+- *some* are 24/7
+- **printers**
+
+# GIA
+
+- Appears as the *”Graduate Incentive Scholarship”*
+- Tuition scholarship funded by the University
+- Policy guidelines
+	- Must be signed and abided by
+- 15 credit hours minimum!
+- No more than 18
+
+# Graduation
+
+- MUST complete an *online application* in the term you wish to gradaute
+- Early in the semester!
 
 
