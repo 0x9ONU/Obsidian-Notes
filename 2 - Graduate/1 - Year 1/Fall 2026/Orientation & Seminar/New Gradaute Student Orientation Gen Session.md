@@ -132,4 +132,18 @@ Make sure you check your email a lot!
 
 ## Career Fair Dates
 
-- Business Day: uesda
+- Part-Time Job Fair: Sept. 3rd 1pm-4pm
+- Business Day: Sept. 15th 10am-3pm
+- Engineering & IT Day 1: Sept. 16th 10am-3pm
+- Eingeering & IT Day 2: Sept. 17 10am-3pm
+
+## Networking Events
+
+- Augsut 19th Coffee 8-9:30am 100 Broadway St.
+- August 20th: Agentic AI 3-5pm 3080 Exploration Ave. 
+- Midwestcon 2026: Sept. 8-11th *Free general pass with volunteer work*
+
+```ad-important
+Make sure to foster relationships whenever possible
+```
+
