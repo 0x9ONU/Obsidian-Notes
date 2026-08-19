@@ -196,5 +196,30 @@ Make sure to foster relationships whenever possible
 
 *don’t be stupid lol*
 
-# 
+# Counseling & Psychological Services (CAPS)
 
+```ad-info
+title: **Amy Blankenship**
+- CEAS - embedded clincial Counselor
+```
+
+*Includes*:
+- Individual and Group Therapy
+- Sexual and Gender-Based Violence Support
+- Care Management
+- Psychological Assessment
+- Crisis
+
+## RAC
+
+Always free counseling
+- Telehealth Available
+- **Non-medical model** → No diagnosis required!
+- Trauma informed approch
+- Student is the expert
+- Confidentiality
+- Embedded benefits
+
+## Negative Trends in Engineering
+
+*Look out for*:
