@@ -20,6 +20,9 @@
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
+  "githubCopilotAccessToken": "",
+  "githubCopilotToken": "",
+  "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
   "defaultModelKey": "deepseek-v4-flash|deepseek",
   "embeddingModelKey": "text-embedding-3-small|openai",
@@ -34,7 +37,7 @@
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": true,
   "generateAIChatTitleOnSave": true,
-  "includeActiveNoteAsContext": true,
+  "autoAddActiveContentToContext": true,
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot/copilot-custom-prompts",
@@ -45,8 +48,8 @@
   "chatNoteContextTags": [],
   "enableIndexSync": true,
   "debug": false,
-  "enableEncryption": false,
   "maxSourceChunks": 15,
+  "enableInlineCitations": true,
   "groqApiKey": "",
   "activeModels": [
     {
@@ -62,7 +65,7 @@
       ]
     },
     {
-      "name": "google/gemini-2.5-flash-lite",
+      "name": "google/gemini-2.5-flash",
       "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
@@ -73,7 +76,27 @@
       ]
     },
     {
-      "name": "google/gemini-2.5-flash",
+      "name": "gpt-5.5",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5.4-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-flash-lite",
       "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
@@ -296,6 +319,14 @@
       "dimensions": 512
     },
     {
+      "name": "openai/text-embedding-3-small",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
       "name": "text-embedding-3-small",
       "provider": "openai",
       "enabled": true,
@@ -305,6 +336,14 @@
     },
     {
       "name": "gemini-embedding-001",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
+      "name": "gemini-embedding-2-preview",
       "provider": "google",
       "enabled": true,
       "isBuiltIn": true,
@@ -358,18 +397,29 @@
   "lexicalSearchRamLimit": 100,
   "promptUsageTimestamps": {},
   "promptSortStrategy": "timestamp",
+  "chatHistorySortStrategy": "recent",
+  "projectListSortStrategy": "recent",
+  "projectsFolder": "copilot/projects",
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "enableAutocomplete": false,
-  "autocompleteAcceptKey": "Tab",
-  "allowAdditionalContext": true,
-  "enableWordCompletion": false,
   "lastDismissedVersion": "3.2.8",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
   "enableSemanticSearchV3": false,
+  "enableSelfHostMode": false,
+  "enableMiyo": false,
+  "miyoSearchAll": false,
+  "selfHostModeValidatedAt": null,
+  "selfHostValidationCount": 0,
+  "selfHostUrl": "",
+  "selfHostApiKey": "",
+  "miyoServerUrl": "",
+  "selfHostSearchProvider": "firecrawl",
+  "firecrawlApiKey": "",
+  "perplexityApiKey": "",
+  "supadataApiKey": "",
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": true,
   "autonomousAgentMaxIterations": 4,
@@ -379,8 +429,8 @@
     "webSearch",
     "pomodoro",
     "youtubeTranscription",
-    "writeToFile",
-    "replaceInFile",
+    "writeFile",
+    "editFile",
     "updateMemory"
   ],
   "reasoningEffort": "low",
@@ -390,5 +440,18 @@
   "maxRecentConversations": 30,
   "enableSavedMemory": true,
   "quickCommandIncludeNoteContext": true,
-  "autoIncludeTextSelection": false
+  "autoIncludeTextSelection": false,
+  "autoAddSelectionToContext": false,
+  "autoAcceptEdits": false,
+  "diffViewMode": "split",
+  "userSystemPromptsFolder": "copilot/system-prompts",
+  "defaultSystemPromptTitle": "",
+  "autoCompactThreshold": 128000,
+  "convertedDocOutputFolder": "",
+  "includeActiveNoteAsContext": true,
+  "enableAutocomplete": false,
+  "autocompleteAcceptKey": "Tab",
+  "allowAdditionalContext": true,
+  "enableWordCompletion": false,
+  "_keychainVaultId": "61f3ba71"
 }
