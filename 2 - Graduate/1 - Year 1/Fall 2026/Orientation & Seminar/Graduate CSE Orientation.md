@@ -56,4 +56,18 @@ Try to stick to it if possible, but don't be afraid to select any right away.
 Check detailed handout in email for more information
 ```
 
+# Preliminary Program of Study
 
+- Guide the student throughout the first year
+- FIll out a preliminary Plan of Study for Year 1 *based on the program/track they were ammitted to*
+- Send the form to Dr. Novak ASAP
+- Must register for *at least 15 credit hours* each semester
+- For guidance, find what is needed
+- **Recommendations**
+	- 3 courses (approx. 9 course credits of 7000+ in the spring)
+	- 1 hour of Graduate Seminar
+	- If you have an advisor, do Practical Experience in Spring
+	- Then add enough self-study to reach 15 credits
+- Self-Study Research
+	- a “fake” course to get you up to 15 hours lol
+- After getting a research advisor, MS/PhD students should take 
