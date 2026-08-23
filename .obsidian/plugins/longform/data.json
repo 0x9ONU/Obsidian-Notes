@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-08-23T22:09:44.860Z",
+      "total": 0,
+      "drafts": {
+        "1 - Undergrad/4 - Senior Year/Fall 2025/Ancient Philosophy/Week 9/Ancient Philosophy - Week 9.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2026-08-20T16:48:29.500Z",
       "total": 0,
       "drafts": {
