@@ -6,5 +6,5 @@
 		- How do you plan to contribute to the student community in Penn Engineering while you’re here?
 		- Why will you succeed in the program?
 		- What will you do/accomplish once you have completed the program?
-- [ ] Community Statement
+- [x] Community Statement ✅ 2026-08-24
 	- How will you explore community at Penn? Consider how Penn will help shape your perspective, and how your experiences and perspective will help shape Penn. (150-200 words)

@@ -6,52 +6,52 @@ kanban-plugin: board
 
 ## Original Papers
 
-- [ ] [[A Survey of Wireless Sensor Network and Its Types]]
+- [x] [[A Survey of Wireless Sensor Network and Its Types]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-04
-- [ ] [[An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks]]
+- [x] [[An Energy-Efficient TDMA Algorithm for Energy Harvesting Wireless Sensor Networks]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks]]
+- [x] [[A TDMA Algorithm for Dual-Hop Energy Harvesting Wireless Sensor Networks]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[DIGI XBEEE S2C 802.15.4 RF Modules]]
+- [x] [[DIGI XBEEE S2C 802.15.4 RF Modules]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] https://drive.google.com/drive/u/0/folders/1N5Gfyok4b0GMRxHff1BNWHzBF1VYVi7G
+- [x] https://drive.google.com/drive/u/0/folders/1N5Gfyok4b0GMRxHff1BNWHzBF1VYVi7G ✅ 2026-08-24
 
 
 ## Attacks on TDMA
 
-- [ ] [[JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs]]
+- [x] [[JAMMY A Distributed and Dynamic Solution to Selective Jamming Attack in TDMA WSNs]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING]]
+- [x] [[IMPACT OF AN ATTACK ON A NETWORK EXECUTING DISTRIBUTED COMPUTING]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols]]
+- [x] [[A Brief Comparison of Security Aspects of Time Synchronization in Networked Control Systems using CSMA CD versus TDMA Protocols]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems]]
+- [x] [[A Brief Discussion of Security Aspects of Clock Synchronization in Networked Control Systems]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
 
 
 ## Security on TDMA
 
-- [ ] [[A dynamic TDMA based scheme for securing query processing in WSN]]
+- [x] [[A dynamic TDMA based scheme for securing query processing in WSN]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes]]
+- [x] [[QoS-Aware Enhanced-Security for TDMA Transmissions from Buffered Source Nodes]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes]]
+- [x] [[On the Delay Throughput-Security Tradeoff in Wiretap TDMA Networks With Buffered Nodes]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering]]
+- [x] [[Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks]]
+- [x] [[Implementation of LoRa TDMA-Based Mobile Cell Broadcast Protocol for Vehicular Networks]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio]]
+- [x] [[Employing Game Theory and TDMA Protocol to Enhance Security and Manage Power Consumption in WSNs-Based Cognitive Radio]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-06
-- [ ] [[An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks]]
+- [x] [[An Ensemble-Based Machine Learning Approach for Cyber-Attacks Detection in Wireless Sensor Networks]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
 
 
 ## PUFs
 
-- [ ] [[Physical One-Way Functions]]
+- [x] [[Physical One-Way Functions]] ✅ 2026-08-24
 	- [x] Reviewed? ✅ 2025-06-05
-- [ ] [[Physical unclonable functions]]
+- [x] [[Physical unclonable functions]] ✅ 2026-08-24
 	- [x] Reviewed ✅ 2025-06-05
 
 

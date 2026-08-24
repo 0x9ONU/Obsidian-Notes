@@ -115,8 +115,8 @@ D<-->H
 
 # Orientation Reminders
 
-- [ ] ⏫ Complete the online Check-in → https://www.ceas3.uc.edu/CeasStudentPortal/uploadacceptoffer
-- [ ] Register and get the GIA award
+- [x] ⏫ Complete the online Check-in → https://www.ceas3.uc.edu/CeasStudentPortal/uploadacceptoffer ✅ 2026-08-24
+- [x] Register and get the GIA award ✅ 2026-08-24
 
 # Amanda McLaughlin - Career Development
 
@@ -242,6 +242,6 @@ Always free counseling
 
 ## QPR (pretty cool)
 
-- [ ] Look into signing up
+- [x] Look into signing up ✅ 2026-08-24
 
 

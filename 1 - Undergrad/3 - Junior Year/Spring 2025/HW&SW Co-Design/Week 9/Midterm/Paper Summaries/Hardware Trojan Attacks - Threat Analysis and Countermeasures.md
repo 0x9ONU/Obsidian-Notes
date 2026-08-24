@@ -120,9 +120,9 @@ Hardware Trojans represent a critical threat to IC security, demanding multi-lay
 
 **Key References**:
 
-- [4] IC fingerprinting via power analysis.
+- [x] IC fingerprinting via power analysis. ✅ 2026-08-24
     
-- [8] MERO: Statistical logic testing for rare triggers.
+- [x] MERO: Statistical logic testing for rare triggers. ✅ 2026-08-24
     
 - [49] Hardware obfuscation techniques.
     

@@ -72,7 +72,7 @@ Hardware Trojans pose a critical threat, requiring multi-layered countermeasures
 
 **Key References**:
 
-- [3] DARPA’s TIC program highlights global concerns.
+- [x] DARPA’s TIC program highlights global concerns. ✅ 2026-08-24
     
 - [20] MERO: Statistical logic testing for rare triggers.
     

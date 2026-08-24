@@ -3,7 +3,7 @@
 
 ### Experiences
 
-- [ ] Get a letter form an executive board member as proof of your appointed office.
+- [x] Get a letter form an executive board member as proof of your appointed office. ✅ 2026-08-24
 
 ## Area II: Professional Development
 
@@ -15,14 +15,14 @@
 ## Area III: The Assisting Hand
 
 - [x] Proof of helping plan RTT or Cafe Theta Chi ✅ 2024-09-04
-- [ ] Provide proof of your presentation to non-members regarding benefits of fraternity membership
+- [x] Provide proof of your presentation to non-members regarding benefits of fraternity membership ✅ 2026-08-24
 - [x] Proof of highway cleanup ✅ 2024-09-04
 - [x] Proof of registration to vote ✅ 2024-09-04
 - [x] Proof of being at the BOD Meeting ✅ 2024-09-04
 
 ## Final Application Requirements
 
-- [ ] Cover Letter
-- [ ] Chapter President Letter
-- [ ] Letter of Recommendation from Mentor (Austin)
+- [x] Cover Letter ✅ 2026-08-24
+- [x] Chapter President Letter ✅ 2026-08-24
+- [x] Letter of Recommendation from Mentor (Austin) ✅ 2026-08-24
 

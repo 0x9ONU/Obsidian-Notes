@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Lecture 1 - Syllabus & Course Outcomes",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Intro & Syllabus/Lecture 1 - Syllabus & Course Outcomes.md"
+    },
+    {
+      "basename": "Lecture 1 - Syllabus and Notes",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lecture 1 - Syllabus and Notes.md"
+    },
+    {
+      "basename": "Lecture 2 - Switching Circuits and Switching Expressions",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Lecture 1 - Course Outcomes and Syllabus",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/0 - Intro & Syllabus/Lecture 1 - Course Outcomes and Syllabus.md"
+    },
+    {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
+      "basename": "2026-08-24",
+      "path": "2026-08-24.md"
+    },
+    {
+      "basename": "switches",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Materials/switches.pdf"
+    },
+    {
+      "basename": "Lecture 2 - Switching Circuits and Switching Expressions 2026-08-24 13.39.31.excalidraw",
+      "path": "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-24 13.39.31.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 2 - Switching Circuits and Switching Expressions 2026-08-24 13.21.24.excalidraw",
+      "path": "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-24 13.21.24.excalidraw.md"
+    },
+    {
+      "basename": "6080-F26-syllabus",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/0 - Intro & Syllabus/6080-F26-syllabus.pdf"
+    },
+    {
+      "basename": "2026-Fall-EECE-6029-(20)-001-(16970)-Distributed-Operating-Systems-and-Algorithms",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/2026-Fall-EECE-6029-(20)-001-(16970)-Distributed-Operating-Systems-and-Algorithms.pdf"
+    },
+    {
       "basename": "Intro to VLSI Template",
       "path": "Templates/Grad Templates/Intro to VLSI Template.md"
     },
@@ -15,14 +63,6 @@
     {
       "basename": "Ancient Philosophy Template",
       "path": "Templates/Undergrad Templates/Ancient Philosophy Template.md"
-    },
-    {
-      "basename": "2026-Fall-EECE-6029-(20)-001-(16970)-Distributed-Operating-Systems-and-Algorithms",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/2026-Fall-EECE-6029-(20)-001-(16970)-Distributed-Operating-Systems-and-Algorithms.pdf"
-    },
-    {
-      "basename": "6080-F26-syllabus",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/0 - Intro & Syllabus/6080-F26-syllabus.pdf"
     },
     {
       "basename": "Graduate CSE Orientation",
@@ -159,46 +199,6 @@
     {
       "basename": "Gender Based Violence - A Comprehensive Guide",
       "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Gender Based Violence - A Comprehensive Guide.pdf"
-    },
-    {
-      "basename": "13 - Binary Phase Diagrams",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 13/13 - Binary Phase Diagrams.md"
-    },
-    {
-      "basename": "15 - FE-C Eutectoid Diagrams",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 15/15 - FE-C Eutectoid Diagrams.md"
-    },
-    {
-      "basename": "16 - Composites",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 16/16 - Composites.md"
-    },
-    {
-      "basename": "Mat Sci - Final Exam",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Final Exam/Mat Sci - Final Exam.md"
-    },
-    {
-      "basename": "18 - Diffusion",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Material Science/Module 8/Lecture 18/18 - Diffusion.md"
-    },
-    {
-      "basename": "ADULT LGBT POPULATION in the United States",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/ADULT LGBT POPULATION in the United States.md"
-    },
-    {
-      "basename": "HCDVCC Report 2024",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/HCDVCC Report 2024.md"
-    },
-    {
-      "basename": "Identity",
-      "path": "Identity.md"
-    },
-    {
-      "basename": "[[Identity",
-      "path": "[[Identity.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
     }
   ],
   "omittedPaths": [],

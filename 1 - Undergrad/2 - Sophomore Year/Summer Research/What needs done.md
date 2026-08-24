@@ -19,5 +19,5 @@
 
 - [x] make web attack and overall summary one paragraph ✅ 2023-08-28
 
-- [ ] Reword traffic capture results
+- [x] Reword traffic capture results ✅ 2026-08-24
 

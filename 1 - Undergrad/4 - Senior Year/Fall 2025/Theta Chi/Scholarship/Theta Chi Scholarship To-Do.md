@@ -1,12 +1,12 @@
 - [x] Provide a justification for the above amount requested as if this scholarship were not expected (250 words) ✅ 2026-03-26
-- [ ] Describe your experience serving in the role(s) you chose above (500 words)
-- [ ] Gather Campus Activities
-- [ ] Gather Community Involvement
-- [ ] Gather Honors and Awards
-- [ ] Gather Work Experience
-- [ ] Personal Statements
-	- [ ] Reflect on a specific instance where you demonstrated leadership or initiative. How did this experience shape your involvement in Theta Chi, on campus, or in the community? (500 words)
-	- [ ] Discuss a moment or project where you made a meaningful impact on a group or organization. How did this experience contribute to your personal and professi`onal development? (500 words)
-	- [ ] Consider a particular skill or quality you have developed through your experiences in Theta Chi, on campus, or in the community. How do you plan to apply this skill in your future endeavors, including any further education or career goals? (500 words)
+- [x] Describe your experience serving in the role(s) you chose above (500 words) ✅ 2026-08-24
+- [x] Gather Campus Activities ✅ 2026-08-24
+- [x] Gather Community Involvement ✅ 2026-08-24
+- [x] Gather Honors and Awards ✅ 2026-08-24
+- [x] Gather Work Experience ✅ 2026-08-24
+- [x] Personal Statements ✅ 2026-08-24
+	- [x] Reflect on a specific instance where you demonstrated leadership or initiative. How did this experience shape your involvement in Theta Chi, on campus, or in the community? (500 words) ✅ 2026-08-24
+	- [x] Discuss a moment or project where you made a meaningful impact on a group or organization. How did this experience contribute to your personal and professi`onal development? (500 words) ✅ 2026-08-24
+	- [x] Consider a particular skill or quality you have developed through your experiences in Theta Chi, on campus, or in the community. How do you plan to apply this skill in your future endeavors, including any further education or career goals? (500 words) ✅ 2026-08-24
 - [x] Upload Official Transcript ✅ 2026-01-20
 - [x] Upload Enrollment Verification ✅ 2026-01-20

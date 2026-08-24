@@ -98,9 +98,9 @@ Only different if they are outside of the department
 
 # Next Steps
 
-- [ ] Fill out program of study ⏫ (VLSI)
-- [ ] After approved, sign up for classes asap🔼 
-- [ ] Change courses if capacity too high, OR email to find openings
+- [x] Fill out program of study ⏫ (VLSI) ✅ 2026-08-24
+- [x] After approved, sign up for classes asap 🔼 ✅ 2026-08-24
+- [x] Change courses if capacity too high, OR email to find openings ✅ 2026-08-24
 - [ ] Watch for emails from CEAS and ECE
 
 ```ad-warning

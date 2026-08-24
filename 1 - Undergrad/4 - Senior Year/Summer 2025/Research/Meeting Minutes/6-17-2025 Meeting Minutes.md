@@ -20,14 +20,14 @@ File Folder: Meeting Minutes
 5. Replay
 6. Closing
 # Action Items
-- [ ] Testing (4 trials each, 20,000 packets)
-	- [ ] Normal Tests
+- [x] Testing (4 trials each, 20,000 packets) ✅ 2026-08-24
+	- [x] Normal Tests ✅ 2026-08-24
 		- [x] 100% ✅ 2025-06-19
-		- [ ] 80%
-		- [ ] 40%
-	- [ ] Malicious (100% energy)
-		- [ ] 100%
-		- [ ] 80%
-		- [ ] 40%
-- [ ] Try to implement the detection
-- [ ] Change to Malicious (make it so it burstSend is delayed)
+		- [x] 80% ✅ 2026-08-24
+		- [x] 40% ✅ 2026-08-24
+	- [x] Malicious (100% energy) ✅ 2026-08-24
+		- [x] 100% ✅ 2026-08-24
+		- [x] 80% ✅ 2026-08-24
+		- [x] 40% ✅ 2026-08-24
+- [x] Try to implement the detection ✅ 2026-08-24
+- [x] Change to Malicious (make it so it burstSend is delayed) ✅ 2026-08-24

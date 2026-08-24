@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e5a351c3f44e327c",
+        "id": "8929157bad6d488b",
         "type": "tabs",
         "children": [
           {
-            "id": "bc111a116acbbbdd",
+            "id": "21303c38009f636d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Grad Templates/Intro to VLSI Template.md",
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Intro & Syllabus/Lecture 1 - Syllabus & Course Outcomes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to VLSI Template"
+              "title": "Lecture 1 - Syllabus & Course Outcomes"
             }
           }
         ]
@@ -82,8 +82,18 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+              "icon": "longform",
+              "title": "Longform"
+            }
+          },
+          {
+            "id": "a7a07fbf6d1ed7b8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
             }
           }
         ]
@@ -152,16 +162,6 @@
             }
           },
           {
-            "id": "8b895bd010de2708",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
             "id": "8ea7f87c5570b971",
             "type": "leaf",
             "state": {
@@ -215,16 +215,6 @@
             }
           },
           {
-            "id": "456886995eed95f1",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
             "id": "4e6ed2f9cc9606f9",
             "type": "leaf",
             "state": {
@@ -235,7 +225,17 @@
             }
           },
           {
-            "id": "eb8c047417a82036",
+            "id": "9735fab3dd6876d3",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "65f48fcae552fa62",
             "type": "leaf",
             "state": {
               "type": "planner-time-tracker",
@@ -245,7 +245,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -281,60 +281,62 @@
       "copilot:Open Copilot Chat": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "copilot:Open Copilot Agent Chat": false,
+      "obsidian-importer:Import notes": false
     }
   },
   "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
-    "2 - Graduate/1 - Year 1/Fall 2026/4 - TA Work/Operating Systems",
-    "2 - Graduate/1 - Year 1/Fall 2026/4 - TA Work/Data Structures",
-    "2 - Graduate/1 - Year 1/Fall 2026/4 - TA Work",
-    "Templates/Grad Templates/Distributed Operating Systems Template.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lecture 1 - Syllabus and Notes.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md",
+    "Tasks.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Intro & Syllabus/Lecture 1 - Syllabus & Course Outcomes.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/0 - Intro & Syllabus/Lecture 1 - Course Outcomes and Syllabus.md",
+    "test.md",
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/json-canvas/references",
+    "copilot/skills/json-canvas",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/LICENSE",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/obsidian-markdown/references",
+    "copilot/skills/symposium-publish/SKILL.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "copilot/skills/copilot-read-pdf/SKILL.md",
+    "copilot/skills/copilot-web-fetch/SKILL.md",
+    "copilot/skills/copilot-web-search/SKILL.md",
+    "2026-08-24.md",
+    "General Notes/Pasted image 20260824134825.png",
+    "General Notes/Pasted image 20260824134447.png",
+    "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-24 13.39.31.excalidraw.md",
+    "General Notes/Pasted image 20260824133650.png",
+    "General Notes/Pasted image 20260824133242.png",
+    "General Notes/Pasted image 20260824132449.png",
+    "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-24 13.21.24.excalidraw.md",
+    "General Notes/Pasted image 20260824132234.png",
+    "General Notes/Pasted Image 20260824132127_968.png",
+    "General Notes/Pasted image 20260824131921.png",
+    "General Notes/Pasted image 20260824131234.png",
+    "General Notes/Pasted image 20260824125317.png",
     "Templates/Grad Templates/Intro to VLSI Template.md",
-    "Templates/Grad Templates/Database Theory Template.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/Test.md",
-    "Templates/Undergrad Templates/Ancient Philosophy Template.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/2026-Fall-EECE-6029-(20)-001-(16970)-Distributed-Operating-Systems-and-Algorithms.pdf",
-    "Templates/Grad Templates",
-    "Templates/Undergrad Templates/Republic Source Template.md",
-    "Templates/Undergrad Templates/Operating Systems Template.md",
-    "Templates/Undergrad Templates/Mat Sci Template.md",
-    "Templates/Undergrad Templates/Literature Review Template.md",
-    "Templates/Undergrad Templates/Grad School Template.md",
-    "Templates/Undergrad Templates/Gender and Sexuality Template.md",
-    "Templates/Undergrad Templates/Ethical and Penetration Template.md",
-    "Templates/Undergrad Templates/Environmental Issues Template.md",
-    "Templates/Undergrad Templates/Differential Equations Template.md",
-    "Templates/Undergrad Templates/Computer Security Template.md",
-    "Templates/Undergrad Templates/Wireless Sensor Networks Template.md",
-    "Templates/Undergrad Templates/Professional Ethics/Professional Ethics Template.md",
-    "Templates/Undergrad Templates/Professional Ethics",
-    "Templates/Undergrad Templates/Physics 2/Physics 2 Template.md",
-    "Templates/Undergrad Templates/Physics 2",
-    "Templates/Undergrad Templates/Physics 1 template/Physics 1 Template.md",
-    "Templates/Undergrad Templates/Physics 1 template",
-    "Templates/Undergrad Templates/Number Theory/Number Theory Template.md",
-    "Templates/Undergrad Templates/Number Theory",
-    "Templates/Undergrad Templates/Networks/Networks Template.md",
-    "Templates/Undergrad Templates/Networks",
-    "Templates/Undergrad Templates/Maker Engineering/Maker Engineering Template.md",
-    "Templates/Undergrad Templates/Maker Engineering",
-    "Templates/Undergrad Templates/Machine Learning/Machine Learning Template.md",
-    "Templates/Undergrad Templates/Interactive Fiction/Interactive Fiction Template.md",
-    "Templates/Undergrad Templates/Hardware Security/Hardware Security Template.md",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
-    "General Notes/Pasted image 20260428125324.png",
-    "General Notes/Pasted image 20260428125208.png",
-    "General Notes/Pasted image 20260428125143.png",
-    "General Notes/Pasted image 20260428124617.png",
-    "General Notes/Pasted image 20260428124610.png",
-    "General Notes/Pasted image 20260428124425.png",
-    "General Notes/Pasted image 20260428124317.png",
-    "General Notes/Pasted image 20260428124259.png",
-    "General Notes/Pasted image 20260428122945.png",
-    "General Notes/Pasted image 20260428122940.png",
     "1 - Undergrad/4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

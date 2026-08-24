@@ -47,10 +47,10 @@ You can use the whole property, just one room, or something in-between
 
 ## Deadlines
 
-- [ ] Need to have a rough draft/demo (minimum viable project)📅 2023-02-27 
-- [ ] Each person will need to demo a second draft of their game, **using transcript mode**, at the table to the other students 2023-03-01
-- [ ] Provide critique feedback 📅 2023-03-03
-- [ ] Part A is due 📅 2023-03-06
+- [x] Need to have a rough draft/demo (minimum viable project) 📅 2023-02-27 ✅ 2026-08-24
+- [x] Each person will need to demo a second draft of their game, **using transcript mode**, at the table to the other students 2023-03-01 ✅ 2026-08-24
+- [x] Provide critique feedback 📅 2023-03-03 ✅ 2026-08-24
+- [x] Part A is due 📅 2023-03-06 ✅ 2026-08-24
 
 #tasks 
 
