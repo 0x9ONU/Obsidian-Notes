@@ -117,7 +117,7 @@ Global distributed systems and global clocks are super important. We must keep t
 - Tron: Eras
 - Loki → Time branches and TVA
 # 3. Action Items & Follow-Up
-- [ ] Re-read the course detail description
-- [ ] Choose either 1 exam or 2 exams
-- [ ] Think about project
-- [ ] Download books to tablet
+- [x] Re-read the course detail description ✅ 2026-08-24
+- [x] Choose either 1 exam or 2 exams ✅ 2026-08-24
+- [x] Think about project ✅ 2026-08-24
+- [x] Download books to tablet ✅ 2026-08-25

@@ -1,0 +1,8 @@
+- [x] #textbooks Database System Concepts | 7th Edition (9789390727506) ✅ 2026-08-24
+- [x] #textbooks Database Systems: The Complete Book (9780131354289) ✅ 2026-08-24
+- [x] #textbooks Digital Integrated Circuits: A Design Perspective 2nd Edition ✅ 2026-08-24
+- [x] #textbooks Principles of CMOS VLSI Design : A Circuits and Systems Perspective 4th Edition ✅ 2026-08-24
+- [x] #textbooks Distributed Operating Systems & Algorithms (9780201498387) ✅ 2026-08-24
+- [x] #textbooks Distributed Operating Systems: Concepts and Design (9780780311190) ✅ 2026-08-24
+- [x] #textbooks Distributed Systems: Principles and Paradigms (9780130888938) ✅ 2026-08-24
+- [ ] Setup Zybooks

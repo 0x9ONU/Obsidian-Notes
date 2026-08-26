@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Lecture 1 - Syllabus & Course Outcomes",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Intro & Syllabus/Lecture 1 - Syllabus & Course Outcomes.md"
-    },
-    {
-      "basename": "Lecture 1 - Syllabus and Notes",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lecture 1 - Syllabus and Notes.md"
-    },
-    {
-      "basename": "Lecture 2 - Switching Circuits and Switching Expressions",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md"
+      "basename": "Lecture 2 - Formal Relational Query Language",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 2 - Formal Relational Query Language.md"
     },
     {
       "basename": "Tasks",
       "path": "Tasks.md"
     },
     {
+      "basename": "New Gradaute Student Orientation Gen Session",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/New Gradaute Student Orientation Gen Session.md"
+    },
+    {
+      "basename": "02-relational-model",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/02-relational-model.pdf"
+    },
+    {
+      "basename": "Lecture 1 - Syllabus & Course Outcomes",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Intro & Syllabus/Lecture 1 - Syllabus & Course Outcomes.md"
+    },
+    {
+      "basename": "Lecture 2 - Switching Circuits and Switching Expressions",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md"
+    },
+    {
       "basename": "Lecture 1 - Course Outcomes and Syllabus",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/0 - Intro & Syllabus/Lecture 1 - Course Outcomes and Syllabus.md"
+    },
+    {
+      "basename": "Lecture 2 - Switching Circuits and Switching Expressions 2026-08-25 15.22.26.excalidraw",
+      "path": "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-25 15.22.26.excalidraw.md"
+    },
+    {
+      "basename": "How the Graduate College can Help You",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/How the Graduate College can Help You.md"
+    },
+    {
+      "basename": "Books Needed",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - ETC/Books Needed.md"
+    },
+    {
+      "basename": "Intro to VLSI Template",
+      "path": "Templates/Grad Templates/Intro to VLSI Template.md"
+    },
+    {
+      "basename": "Graduate CSE Orientation",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Graduate CSE Orientation.md"
+    },
+    {
+      "basename": "Lecture 1 - Syllabus and Notes",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lecture 1 - Syllabus and Notes.md"
     },
     {
       "basename": "test",
@@ -49,10 +81,6 @@
       "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/2026-Fall-EECE-6029-(20)-001-(16970)-Distributed-Operating-Systems-and-Algorithms.pdf"
     },
     {
-      "basename": "Intro to VLSI Template",
-      "path": "Templates/Grad Templates/Intro to VLSI Template.md"
-    },
-    {
       "basename": "Distributed Operating Systems Template",
       "path": "Templates/Grad Templates/Distributed Operating Systems Template.md"
     },
@@ -65,16 +93,8 @@
       "path": "Templates/Undergrad Templates/Ancient Philosophy Template.md"
     },
     {
-      "basename": "Graduate CSE Orientation",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Graduate CSE Orientation.md"
-    },
-    {
       "basename": "Untitled 6",
       "path": "Untitled 6.md"
-    },
-    {
-      "basename": "New Gradaute Student Orientation Gen Session",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/New Gradaute Student Orientation Gen Session.md"
     },
     {
       "basename": "Energy Efficient TDMA and Secure Based MAC Protocol for WSN Using AQL Coding and ASGWI Clustering",
@@ -179,26 +199,6 @@
     {
       "basename": "Use of Alcohol, Nicotine, and Drugs in Lesbian, Gay, and Bisexual Persons - Implications for Substance Use Disorders among Sexual Minorities",
       "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Use of Alcohol, Nicotine, and Drugs in Lesbian, Gay, and Bisexual Persons - Implications for Substance Use Disorders among Sexual Minorities.md"
-    },
-    {
-      "basename": "Project SPARK 2025",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Project SPARK 2025.md"
-    },
-    {
-      "basename": "Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494)",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Gender-Based Violence Chapter 8.1 - Domestic Violence and Abuse in LGBTQ+ Communities (pg 473-494).md"
-    },
-    {
-      "basename": "Commentary on the (In)Visibility of LGBTQ+ Victims in Domestic Violence Fatality Reviews",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Source Notes/Commentary on the (In)Visibility of LGBTQ+ Victims in Domestic Violence Fatality Reviews.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas"
-    },
-    {
-      "basename": "Gender Based Violence - A Comprehensive Guide",
-      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Gender/Final Paper/Sources/Gender Based Violence - A Comprehensive Guide.pdf"
     }
   ],
   "omittedPaths": [],

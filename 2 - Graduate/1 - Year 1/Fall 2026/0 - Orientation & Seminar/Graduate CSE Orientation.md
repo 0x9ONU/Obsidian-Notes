@@ -101,7 +101,7 @@ Only different if they are outside of the department
 - [x] Fill out program of study ⏫ (VLSI) ✅ 2026-08-24
 - [x] After approved, sign up for classes asap 🔼 ✅ 2026-08-24
 - [x] Change courses if capacity too high, OR email to find openings ✅ 2026-08-24
-- [ ] Watch for emails from CEAS and ECE
+- [x] Watch for emails from CEAS and ECE ✅ 2026-08-24
 
 ```ad-warning
 Send *direct emails* with a good header text

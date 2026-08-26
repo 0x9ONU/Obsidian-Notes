@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8929157bad6d488b",
+        "id": "5b2bc9aeb0662366",
         "type": "tabs",
         "children": [
           {
-            "id": "21303c38009f636d",
+            "id": "bb3b0cff9aeac293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Intro & Syllabus/Lecture 1 - Syllabus & Course Outcomes.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - Syllabus & Course Outcomes"
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "0a20a69a5d6851bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 2 - Formal Relational Query Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 2 - Formal Relational Query Language"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,6 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 2 - Formal Relational Query Language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,12 +261,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +290,8 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-projects:Open projects": false,
       "obsidian42-brat:BRAT": false,
-      "copilot:Open Copilot Chat": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -286,13 +299,30 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "20fa6d1f814f2ed8",
+  "active": "0a20a69a5d6851bd",
   "lastOpenFiles": [
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lecture 1 - Syllabus and Notes.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md",
     "Tasks.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/New Gradaute Student Orientation Gen Session.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 2 - Formal Relational Query Language.md",
+    "General Notes/Pasted image 20260826093552.png",
+    "General Notes/Pasted image 20260826093323.png",
+    "General Notes/Pasted image 20260826092728.png",
+    "General Notes/Pasted image 20260826092631.png",
+    "General Notes/Pasted image 20260826092006.png",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/02-relational-model.pdf",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/03-formal-relational-query-language-RA.pdf",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials",
     "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Intro & Syllabus/Lecture 1 - Syllabus & Course Outcomes.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/0 - Intro & Syllabus/Lecture 1 - Course Outcomes and Syllabus.md",
+    "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-25 15.22.26.excalidraw.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/How the Graduate College can Help You.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - ETC/Books Needed.md",
+    "Templates/Grad Templates/Intro to VLSI Template.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Graduate CSE Orientation.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lecture 1 - Syllabus and Notes.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - ETC",
     "test.md",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
@@ -303,37 +333,19 @@
     "copilot/skills/json-canvas/references",
     "copilot/skills/json-canvas",
     "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-bases/references",
-    "copilot/skills/obsidian-bases",
     "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/LICENSE",
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/obsidian-markdown/references",
     "copilot/skills/symposium-publish/SKILL.md",
     "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
-    "copilot/skills/copilot-read-pdf/SKILL.md",
-    "copilot/skills/copilot-web-fetch/SKILL.md",
-    "copilot/skills/copilot-web-search/SKILL.md",
-    "2026-08-24.md",
     "General Notes/Pasted image 20260824134825.png",
     "General Notes/Pasted image 20260824134447.png",
-    "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-24 13.39.31.excalidraw.md",
     "General Notes/Pasted image 20260824133650.png",
     "General Notes/Pasted image 20260824133242.png",
     "General Notes/Pasted image 20260824132449.png",
-    "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-24 13.21.24.excalidraw.md",
-    "General Notes/Pasted image 20260824132234.png",
-    "General Notes/Pasted Image 20260824132127_968.png",
-    "General Notes/Pasted image 20260824131921.png",
-    "General Notes/Pasted image 20260824131234.png",
-    "General Notes/Pasted image 20260824125317.png",
-    "Templates/Grad Templates/Intro to VLSI Template.md",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",

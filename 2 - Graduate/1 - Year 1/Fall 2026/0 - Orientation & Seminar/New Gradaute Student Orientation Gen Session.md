@@ -244,4 +244,9 @@ Always free counseling
 
 - [x] Look into signing up ✅ 2026-08-24
 
+## More orientation tasks
+
+- [ ] Get ID
+- [ ] Do the tightrope stuff 📅 (2026-09-23)
+
 

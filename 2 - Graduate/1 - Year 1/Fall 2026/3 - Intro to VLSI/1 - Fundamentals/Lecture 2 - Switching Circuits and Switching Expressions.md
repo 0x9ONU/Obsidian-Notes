@@ -158,6 +158,8 @@ $$
 $$
 **Switches
 
+![[Lecture 2 - Switching Circuits and Switching Expressions 2026-08-25 15.22.26.excalidraw]]
+
 ### *Practice*: Implication
 
 ```ad-question
@@ -319,8 +321,44 @@ $$
 
 ```ad-question
 Design a series-parallel swithcing circui to check for the *equivalence* of two 8-bit binary numbers
-- $A, B$ #comebacklater 
+- $A, B$ are two 8-bit vectors
+- $F(A, B) = 1$ ONLY IF A=B
 ```
+
+**Logic Table**
+
+*for each bit*
+
+| $A_{i}$ | $B_{i}$ | $F_{i}$ |
+| ------- | ------- | ------- |
+| 0       | 0       | 1       |
+| 0       | 1       | 0       |
+| 1       | 0       | 0       |
+| 1       | 1       | 1       |
+
+
+**Function**
+
+
+$$
+F_{i}= \bar{A_{i}}\times\bar{B_{i}}+A_{i}\times B_{i}
+$$
+SO for every, you would have
+
+$$
+F = (\bar{A_{0}}\times\bar{B_{0}}+A_{0}\times B_{0})(\bar{A_{1}}\times\bar{B_{1}}+A_{1}\times B_{1})(\bar{A_{2}}\times\bar{B_{2}}+A_{2}\times B_{2})(\bar{A_{3}}\times\bar{B_{3}}+A_{3}\times B_{3})
+$$
+$$
+(\bar{A_{4}}\times\bar{B_{4}}+A_{4}\times B_{4})(\bar{A_{5}}\times\bar{B_{5}}+A_{5}\times B_{5})
+(\bar{A_{6}}\times\bar{B_{6}}+A_{6}\times B_{6})
+(\bar{A_{7}}\times\bar{B_{7}}+A_{7}\times B_{7})
+$$
+
+Four gates per group
+
+$$
+\text{Gates}=4*8 = 32
+$$
 
 ## Subcircuit Connection
 
@@ -390,9 +428,9 @@ The best medium that optimizes all these metrics for circuits at the moment are 
 
 ![[Pasted image 20260824134825.png]]
 # 3. Action Items & Follow-Up
-- [ ] Review Lecture
-- [ ] **QUIZ**: SW-1 
+- [x] Review Lecture ✅ 2026-08-24
+- [x] **QUIZ**: SW-1 ✅ 2026-08-25
 - [ ] *practice*: Implication on slide 6
-- [ ] **QUIZ**: SW-2 ⏫ 
-- [ ] **QUIZ**: SW-3 ⏫ 
+- [x] **QUIZ**: SW-2 ⏫ ✅ 2026-08-25
+- [x] **QUIZ**: SW-3 ⏫ ✅ 2026-08-25
 - [ ] *practice*: Serial parity detector

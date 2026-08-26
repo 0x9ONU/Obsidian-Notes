@@ -94,4 +94,4 @@ Will be brought up throughout the course, with the first three homeworks introdu
 
 Meet 30 minutes-1 hour for the first 7 weeks, which will then become work time afterwards
 # 3. Action Items & Follow-Up
-- [ ] Get the Digital Integrated Circuits textbook for reference
+- [x] Get the Digital Integrated Circuits textbook for reference ✅ 2026-08-25
