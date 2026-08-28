@@ -5,4 +5,4 @@
 - [x] #textbooks Distributed Operating Systems & Algorithms (9780201498387) ✅ 2026-08-24
 - [x] #textbooks Distributed Operating Systems: Concepts and Design (9780780311190) ✅ 2026-08-24
 - [x] #textbooks Distributed Systems: Principles and Paradigms (9780130888938) ✅ 2026-08-24
-- [ ] Setup Zybooks
+- [x] Setup Zybooks ✅ 2026-08-28

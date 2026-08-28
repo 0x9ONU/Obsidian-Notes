@@ -252,4 +252,4 @@ First half is hands-on, and the second half is more theory-based
 # 3. Action Items & Follow-Up
 - [ ] Prepare group of 3
 - [ ] Record the team at the discussion board
-- [ ] Basic SQL Review
+- [ ] Basic SQL Review ⏫ 📅 2026-08-31 

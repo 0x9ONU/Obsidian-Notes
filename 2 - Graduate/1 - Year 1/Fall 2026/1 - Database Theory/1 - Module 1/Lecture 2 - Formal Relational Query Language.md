@@ -41,7 +41,7 @@ What is a query language?
 	- Ex. Java, C++
 2. **Functional**: The computation is expressed as the evaluation of functions
 	- Relational algebra (RA) forms the theoretical basis of SQL
-3. **Declarative**: The suer describes he desired information without a specific seuqence of steps or function calls
+3. **Declarative**: The user describes he desired information without a specific seuqence of steps or function calls
 	- SQL is based upon this
 
 ### Main Parts of a Query Language
@@ -199,18 +199,52 @@ For $r \cup s$ to be valid:
 1. $r, s$ muast have the *same* **ariy** (# of attributes)
 2. The attribute domains must be **union compatible**
    - 2nd column of $r$ deals iwht the same type of values as does the 2nd column of $s$
+
+Without it, we have no idea how to properly match each feature to one-another
+```
+
+##### Example 1
+
+```ad-question
+Find all courses taught in Fall 2009 semester, or in the Spring 2010 semester, or in both
 ```
 
 
+**Steps**:
+1. Select rows where semester, and years for Fall 2009 
+2. Select rows where semester, and years for Spring 2010
+3. Union them together
+4. Prod out only the course ids of the unioned table
+
+*Step 1*
+$$
+\sigma_{semester=\text{"}fall\text{"}, year= \text{"}2009 \text{"} }(\sec tion)
+$$
+*Step 2*
+$$
+\sigma_{semester=\text{"}spring\text{"}, year= \text{"}2010 \text{"} } (\sec tion)
+$$
+*Step 3*
+
+$$
+\sigma_{semester=\text{"}fall\text{"}, year= \text{"}2009 \text{"} }(\sec tion) \cup \sigma_{semester=\text{"}spring\text{"}, year= \text{"}2010 \text{"} } (\sec tion)
+$$
+*Step 4*:
 
 
+$$
+\Pi_{course\_id} (\sigma_{semester=\text{"}fall\text{"}, year= \text{"}2009 \text{"} }(section)) \cup (\Pi_{course\_id} \sigma_{semester=\text{"}spring\text{"}, year= \text{"}2010 \text{"} } (section))
+$$
+
+```ad-warning
+Be careful of when you use each operator, as order is important in terms of prod and union
+```
 
 
 ### Why is RA Important?
 
 1. Strong formal foundation that is fairly simple
 2. Widely used for query optimization
-3. 
 # 3. Action Items & Follow-Up
 - [ ] Form Groups 🔼 📅 2026-08-31 
-- [ ] Review lecture 2 for databases
+- [x] Review lecture 2 for databases 📅 (2026-08-28) ✅ 2026-08-28
