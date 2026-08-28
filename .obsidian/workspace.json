@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "52ff0902e8b2986d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 3 - Operating Systems Fundamentals Day 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 3 - Operating Systems Fundamentals Day 2"
+            }
+          },
+          {
             "id": "dd6d506440366b5f",
             "type": "leaf",
             "state": {
@@ -34,8 +48,35 @@
               "icon": "lucide-file",
               "title": "Tasks"
             }
+          },
+          {
+            "id": "74fbd74711247868",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/03-formal-relational-query-language-RA.pdf",
+                "page": 5,
+                "left": -14,
+                "top": 149,
+                "zoom": 1.0757575757575757
+              },
+              "icon": "lucide-file-text",
+              "title": "03-formal-relational-query-language-RA"
+            }
+          },
+          {
+            "id": "a281bd330e17ffeb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -300,35 +340,81 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "0a20a69a5d6851bd",
+  "floating": {
+    "id": "5a5c520a76616158",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fe7d1ceef139dfce",
+        "type": "window",
+        "children": [
+          {
+            "id": "a82be249a5165cfe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "13eeb4f8703fe062",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/03-formal-relational-query-language-RA.pdf",
+                    "page": 61,
+                    "left": -229,
+                    "top": 65,
+                    "zoom": 1.1
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "03-formal-relational-query-language-RA"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 16,
+        "y": 10,
+        "width": 1683,
+        "height": 996,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "52ff0902e8b2986d",
   "lastOpenFiles": [
+    "General Notes/Lecture 3 - Operating Systems Fundamentals Day 2 2026-08-28 10.30.04.excalidraw.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 3 - Operating Systems Fundamentals Day 2.md",
+    "General Notes/Pasted image 20260828102622.png",
     "Tasks.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 3 - CMOS Transistors.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 3 - Formal Relational Query Language Part 2.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Pre-Readings",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/03-formal-relational-query-language-RA.pdf",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Pre-Readings",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lectures",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Materials",
+    "General Notes/Pasted image 20260828095814.png",
+    "General Notes/Pasted image 20260828095806.png",
+    "General Notes/Pasted image 20260828095210.png",
     "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 2 - Formal Relational Query Language.md",
+    "General Notes/Pasted image 20260828094612.png",
+    "General Notes/Pasted image 20260828094449.png",
+    "General Notes/Pasted image 20260828092901.png",
+    "General Notes/Pasted image 20260828092833.png",
+    "General Notes/Pasted image 20260828092446.png",
+    "General Notes/Pasted image 20260828092145.png",
+    "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/New Gradaute Student Orientation Gen Session.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 3 - CMOS Transistors.md",
     "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Lecture 1 - Projects found in the CS World.md",
     "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Untitled",
-    "General Notes/Pasted image 20260826134538.png",
-    "General Notes/Pasted image 20260826134042.png",
-    "General Notes/Pasted image 20260826133813.png",
-    "General Notes/Pasted image 20260826133351.png",
-    "General Notes/Pasted image 20260826133053.png",
-    "General Notes/Pasted image 20260826133020.png",
-    "General Notes/Pasted image 20260826132645.png",
-    "General Notes/Pasted image 20260826132524.png",
-    "General Notes/Pasted image 20260826132045.png",
-    "General Notes/Pasted image 20260826131504.png",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Materials/cmos-transistors-presentation-notes.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lecture 2 - Operating System Fundamentals.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 2 - Operating System Fundamentals.md",
     "General Notes/Lecture 2 - Operating System Fundamentals 2026-08-26 10.13.31.excalidraw.md",
     "General Notes/Lecture 2 - Operating System Fundamentals 2026-08-26 10.33.38.excalidraw.md",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Materials/sl1.pdf",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Materials",
     "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Intro & Syllabus/Lecture 1 - Syllabus & Course Outcomes.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/New Gradaute Student Orientation Gen Session.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/02-relational-model.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/03-formal-relational-query-language-RA.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/0 - Intro & Syllabus/Lecture 1 - Course Outcomes and Syllabus.md",
     "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-25 15.22.26.excalidraw.md",
@@ -336,18 +422,13 @@
     "2 - Graduate/1 - Year 1/Fall 2026/5 - ETC/Books Needed.md",
     "Templates/Grad Templates/Intro to VLSI Template.md",
     "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Graduate CSE Orientation.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lecture 1 - Syllabus and Notes.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - ETC",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lectures/Lecture 1 - Syllabus and Notes.md",
     "test.md",
     "copilot/skills/obsidian-cli/SKILL.md",
-    "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/SKILL.md",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",

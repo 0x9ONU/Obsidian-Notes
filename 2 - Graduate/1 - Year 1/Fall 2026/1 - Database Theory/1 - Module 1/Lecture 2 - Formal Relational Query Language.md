@@ -18,6 +18,7 @@ title: Summary
 - Domain Relational Calc
 ```
 
+![[03-formal-relational-query-language-RA.pdf]]
 ## Pre-Class Notes
 
 - Need to go over SQL still see the previous task.
@@ -125,8 +126,8 @@ More examples can be found in the slides
 $$
 \Pi_{A_{1}, A_{2}, \dots, A_{k}}(r)
 $$
-The result is defined as the relation of $k$ columns obtained by erasing the columns that are not listed
-- **Duplicate roews removed** from the result, since relations are *sets*
+The result is defined as the relation of $k$ columns obtained by erasing the columns that are not listed 
+- **Duplicate rows removed** from the result, since relations are *sets*
 - Some tuples may be the same (two of the same names) but may have a different title
 - Be careful because you may loose data
 - Returns a set of tuples over the select operators over the subscript of the given operator as long as the tuple exceeds the table
@@ -164,7 +165,7 @@ Find the name of all instructors in the Physics department
 
 
 $$
-\Pi_{name}(\sigma_{dept\_name="{physics}"}(instructor))
+\Pi_{name}(\sigma_{dept\_name=\text{"}{physics}\text{"}}(instructor))
 $$
 ```ad-note
 **RelaX**: the Relational Algebra Calculator
@@ -233,13 +234,18 @@ $$
 
 
 $$
-\Pi_{course\_id} (\sigma_{semester=\text{"}fall\text{"}, year= \text{"}2009 \text{"} }(section)) \cup (\Pi_{course\_id} \sigma_{semester=\text{"}spring\text{"}, year= \text{"}2010 \text{"} } (section))
+\Pi_{course\_id} (\sigma_{semester=\text{"}fall\text{"}, year= \text{"}2009 \text{"} }(section)) \cup \Pi_{course\_id}( \sigma_{semester=\text{"}spring\text{"}, year= \text{"}2010 \text{"} } (section))
 $$
 
 ```ad-warning
 Be careful of when you use each operator, as order is important in terms of prod and union
 ```
 
+![[Pasted image 20260828091325.png]]
+
+**Follow up in the next lecture**:
+
+[[Lecture 3 - Formal Relational Query Language Part 2]]
 
 ### Why is RA Important?
 
