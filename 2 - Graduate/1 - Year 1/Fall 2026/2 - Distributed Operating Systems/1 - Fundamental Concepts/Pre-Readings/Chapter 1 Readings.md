@@ -1,0 +1,22 @@
+- An operating system is software that manages the computer hardware, as well as providing an environment for application programs to run.
+- Interrupts are a key way in which hardware interacts with the operating system. A hardware device triggers an interrupt by sending a signal to the CPU to alert the CPU that some event requires attention. The interrupt is managed by the interrupt handler.
+- For a computer to do its job of executing programs, the programs must be in main memory, which is the only large storage area that the processor can access directly.
+- The main memory is usually a volatile storage device that loses its contents when power is turned off or lost.
+- Nonvolatile storage is an extension of main memory and is capable of holding large quantities of data permanently.
+- The most common nonvolatile storage device is a hard disk, which can provide storage of both programs and data.
+- The wide variety of storage systems in a computer system can be organized in a hierarchy according to speed and cost. The higher levels are expensive, but they are fast. As we move down the hierarchy, the cost per bit generally decreases, whereas the access time generally increases.
+- Modern computer architectures are multiprocessor systems in which each CPU contains several computing cores.
+- To best utilize the CPU, modern operating systems employ multiprogramming, which allows several jobs to be in memory at the same time, thus ensuring that the CPU always has a job to execute.
+- Multitasking is an extension of multiprogramming wherein CPU scheduling algorithms rapidly switch between processes, providing users with a fast response time.
+- To prevent user programs from interfering with the proper operation of the system, the system hardware has two modes: user mode and kernel mode.
+- Various instructions are privileged and can be executed only in kernel mode. Examples include the instruction to switch to kernel mode, I/O control, timer management, and interrupt management.
+- A process is the fundamental unit of work in an operating system. Process management includes creating and deleting processes and providing mechanisms for processes to communicate and synchronize with each other.
+- An operating system manages memory by keeping track of what parts of memory are being used and by whom. It is also responsible for dynamically allocating and freeing memory space.
+- Storage space is managed by the operating system; this includes providing file systems for representing files and directories and managing space on mass-storage devices.
+- Operating systems provide mechanisms for protecting and securing the operating system and users. Protection measures control the access of processes or users to the resources made available by the computer system.
+- Virtualization involves abstracting a computer's hardware into several different execution environments.
+- Data structures that are used in an operating system include lists, stacks, queues, trees, and maps.
+- Computing takes place in a variety of environments, including traditional computing, mobile computing, client-server systems, peer-to-peer systems, cloud computing, and real-time embedded systems.
+- Free and open-source operating systems are available in source-code format. Free software is licensed to allow no-cost use, redistribution, and modification. GNU/Linux, FreeBSD, and Solaris are examples of popular open-source systems.
+
+See Zotero for more!

@@ -19,5 +19,5 @@ Estimated annual deadlines for the top venues used by CSRankings.org
 Table includes what type of converences, their estimated submissiond deadlines, and how many rounds/notes they have
 
 # Tasks
-- [ ] Download PDF with conference deadlines📅 2026-08-31 
+- [x] Download PDF with conference deadlines 📅 2026-08-31 ✅ 2026-08-31
 

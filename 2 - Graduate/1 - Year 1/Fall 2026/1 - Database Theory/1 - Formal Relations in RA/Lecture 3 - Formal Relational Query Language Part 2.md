@@ -187,6 +187,7 @@ Find the **largest salary** in the university
 
 ![[Pasted image 20260828095814.png]]
 
+Continued in: [[Lecture 4 - Formal Relational Query Language Part 3]]
 # 3. Action Items & Follow-Up
-- [ ] Review Notes📅 2026-08-31 
-- [ ] 
+- [x] Review Notes 📅 2026-08-31 ✅ 2026-08-31
+- [x]  ✅ 2026-08-31

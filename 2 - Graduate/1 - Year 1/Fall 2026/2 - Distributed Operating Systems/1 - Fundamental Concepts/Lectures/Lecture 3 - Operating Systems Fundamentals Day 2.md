@@ -112,8 +112,6 @@ There are *three* clocks:
 
 Clocks need to associated with events/threads to ensure proper timing
 
-
-
 ### Universal Times
 
 There is a universal time that needs to be pasted to all systems to ensure proper synchronization
@@ -144,4 +142,4 @@ Read the definitions!
 - If I get bored or something
 
 # 3. Action Items & Follow-Up
-- [ ] Get ch1 and ch2 zotero notes into obsidian 📅 2026-08-31 
+- [x] Get ch1 and ch2 zotero notes into obsidian 📅 2026-08-31 ✅ 2026-08-31
