@@ -1,8 +1,144 @@
 {
   "recentFiles": [
     {
+      "basename": "Lecture 8 -",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 8 -.md"
+    },
+    {
+      "basename": "04-SQL-intermediate",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Materials/04-SQL-intermediate.pdf"
+    },
+    {
+      "basename": "Lecture 7 - Combined Operations on RA",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 7 - Combined Operations on RA.md"
+    },
+    {
+      "basename": "03-formal-relational-query-language-RA",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Materials/03-formal-relational-query-language-RA.pdf"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "HERTZ 2026 Summary",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Summary.md"
+    },
+    {
+      "basename": "NDSEG Summary",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG Summary.md"
+    },
+    {
+      "basename": "GRFP Summary",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NSF GRFP/GRFP Summary.md"
+    },
+    {
+      "basename": "GRFP 2026 Schedule",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NSF GRFP/GRFP 2026 Schedule.md"
+    },
+    {
+      "basename": "CSGF 2026 Summary",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/CSGF 2026 Summary.md"
+    },
+    {
+      "basename": "CSGF 2026 Schedule",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/CSGF 2026 Schedule.md"
+    },
+    {
+      "basename": "Lecture 6 - Gate Sizing and Performance Metrics",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 6 - Gate Sizing and Performance Metrics.md"
+    },
+    {
+      "basename": "NDSEG 2026 Schedule",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG 2026 Schedule.md"
+    },
+    {
+      "basename": "Lecture 6 - Extended Relational Algebra Operations",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 6 - Extended Relational Algebra Operations.md"
+    },
+    {
+      "basename": "Lecture 5 - Even Even More Formal RA Operations",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 5 - Even Even More Formal RA Operations.md"
+    },
+    {
+      "basename": "Lecture 4 - Even More Formal RA Operations",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 4 - Even More Formal RA Operations.md"
+    },
+    {
+      "basename": "Lecture 2 - Basic Formal Relational Query Functions",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 2 - Basic Formal Relational Query Functions.md"
+    },
+    {
+      "basename": "Lecture 3 - More Formal Relational Query Operations",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 3 - More Formal Relational Query Operations.md"
+    },
+    {
+      "basename": "Lecture 3 - Ali Jannesari & GNN HPC-AI Applications",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Lecture 3 - Ali Jannesari & GNN HPC-AI Applications.md"
+    },
+    {
+      "basename": "Lecture 6 - Gate Sizing and Performance Metrics 2026-09-10 10.53.10.excalidraw",
+      "path": "General Notes/Lecture 6 - Gate Sizing and Performance Metrics 2026-09-10 10.53.10.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 6 - Gate Sizing and Performance Metrics 2026-09-10 10.20.45.excalidraw",
+      "path": "General Notes/Lecture 6 - Gate Sizing and Performance Metrics 2026-09-10 10.20.45.excalidraw.md"
+    },
+    {
+      "basename": "HWSW - Week 10 Day 3",
+      "path": "1 - Undergrad/3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 10/HWSW - Week 10 Day 3.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.circuit-sketcher"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.circuit-sketcher"
+    },
+    {
       "basename": "Lecture 5 - CMOS Design Part 2",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 5 - CMOS Design Part 2.md"
+    },
+    {
+      "basename": "HERTZ 2026 Schedule",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Schedule.md"
+    },
+    {
+      "basename": "Lecture 7 - Inter-Process Communication",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 7 - Inter-Process Communication.md"
+    },
+    {
+      "basename": "Lecture 7 - Inter-Process Communication 2026-09-09 10.39.42.excalidraw",
+      "path": "General Notes/Lecture 7 - Inter-Process Communication 2026-09-09 10.39.42.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 7 - 2026-09-09 10.25.32.excalidraw",
+      "path": "General Notes/Lecture 7 - 2026-09-09 10.25.32.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 6 - D-OS Gaps",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 6 - D-OS Gaps.md"
+    },
+    {
+      "basename": "Lecture 5 - Basic D-OS Fundamentals",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 5 - Basic D-OS Fundamentals.md"
+    },
+    {
+      "basename": "Lecture 6 - D-OS Gaps 2026-09-04 10.50.25.excalidraw",
+      "path": "General Notes/Lecture 6 - D-OS Gaps 2026-09-04 10.50.25.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.37.00.excalidraw",
+      "path": "General Notes/Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.37.00.excalidraw.md"
+    },
+    {
+      "basename": "2026-09-03",
+      "path": "2026-09-03.md"
+    },
+    {
+      "basename": "Lecture 2 - Scientific Visualization",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Lecture 2 - Scientific Visualization.md"
     },
     {
       "basename": "cmos-gates-shell",
@@ -21,16 +157,8 @@
       "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 4 - CMOS Design.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
       "basename": "Chapter 4 Readings",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Pre-Readings/Chapter 4 Readings.md"
-    },
-    {
-      "basename": "Lecture 5 - Basic D-OS Fundamentals",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 5 - Basic D-OS Fundamentals.md"
     },
     {
       "basename": "Untitled 7",
@@ -53,24 +181,8 @@
       "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Pre-Readings/Chapter 1 Readings.md"
     },
     {
-      "basename": "03-formal-relational-query-language-RA",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Materials/03-formal-relational-query-language-RA.pdf"
-    },
-    {
       "basename": "Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.46.37.excalidraw",
       "path": "General Notes/Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.46.37.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.37.00.excalidraw",
-      "path": "General Notes/Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.37.00.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 5 - Formal Relational Query Language Part 4",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 5 - Formal Relational Query Language Part 4.md"
-    },
-    {
-      "basename": "Lecture 4 - Formal Relational Query Language Part 3",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 4 - Formal Relational Query Language Part 3.md"
     },
     {
       "basename": "Lecture 4 - CMOS Design 2026-09-01 12.30.20.excalidraw",
@@ -87,118 +199,6 @@
     {
       "basename": "08-26-2026-cmos-gates - class-notes",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Materials/08-26-2026-cmos-gates - class-notes.pdf"
-    },
-    {
-      "basename": "Lecture 4 - CMOS Design 2026-08-31 14.31.54.excalidraw",
-      "path": "General Notes/Lecture 4 - CMOS Design 2026-08-31 14.31.54.excalidraw.md"
-    },
-    {
-      "basename": "cmos-transistors-presentation-notes",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Materials/cmos-transistors-presentation-notes.pdf"
-    },
-    {
-      "basename": "switches",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Materials/switches.pdf"
-    },
-    {
-      "basename": "Lecture 3 - CMOS Transistors",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 3 - CMOS Transistors.md"
-    },
-    {
-      "basename": "Lecture 4 - Operating Systems Fundamentals Day 3 2026-08-31 10.46.58.excalidraw",
-      "path": "General Notes/Lecture 4 - Operating Systems Fundamentals Day 3 2026-08-31 10.46.58.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 4 - Operating Systems Fundamentals Day 3 2026-08-31 10.14.43.excalidraw",
-      "path": "General Notes/Lecture 4 - Operating Systems Fundamentals Day 3 2026-08-31 10.14.43.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 3 - Operating Systems Fundamentals Day 2",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 3 - Operating Systems Fundamentals Day 2.md"
-    },
-    {
-      "basename": "Lecture 2 - Formal Relational Query Language",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 2 - Formal Relational Query Language.md"
-    },
-    {
-      "basename": "Lecture 3 - Formal Relational Query Language Part 2",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 3 - Formal Relational Query Language Part 2.md"
-    },
-    {
-      "basename": "02-relational-model",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Materials/02-relational-model.pdf"
-    },
-    {
-      "basename": "Lecture 3 - Operating Systems Fundamentals Day 2 2026-08-28 10.30.04.excalidraw",
-      "path": "General Notes/Lecture 3 - Operating Systems Fundamentals Day 2 2026-08-28 10.30.04.excalidraw.md"
-    },
-    {
-      "basename": "New Gradaute Student Orientation Gen Session",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/New Gradaute Student Orientation Gen Session.md"
-    },
-    {
-      "basename": "Lecture 1 - Projects found in the CS World",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Lecture 1 - Projects found in the CS World.md"
-    },
-    {
-      "basename": "Lecture 2 - Operating System Fundamentals",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 2 - Operating System Fundamentals.md"
-    },
-    {
-      "basename": "Lecture 2 - Operating System Fundamentals 2026-08-26 10.13.31.excalidraw",
-      "path": "General Notes/Lecture 2 - Operating System Fundamentals 2026-08-26 10.13.31.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 2 - Operating System Fundamentals 2026-08-26 10.33.38.excalidraw",
-      "path": "General Notes/Lecture 2 - Operating System Fundamentals 2026-08-26 10.33.38.excalidraw.md"
-    },
-    {
-      "basename": "sl1",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Materials/sl1.pdf"
-    },
-    {
-      "basename": "Lecture 1 - Syllabus & Course Outcomes",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Syllabus/Lecture 1 - Syllabus & Course Outcomes.md"
-    },
-    {
-      "basename": "Lecture 2 - Switching Circuits and Switching Expressions",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md"
-    },
-    {
-      "basename": "Lecture 1 - Course Outcomes and Syllabus",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/0 - Intro & Syllabus/Lecture 1 - Course Outcomes and Syllabus.md"
-    },
-    {
-      "basename": "Lecture 2 - Switching Circuits and Switching Expressions 2026-08-25 15.22.26.excalidraw",
-      "path": "General Notes/Lecture 2 - Switching Circuits and Switching Expressions 2026-08-25 15.22.26.excalidraw.md"
-    },
-    {
-      "basename": "How the Graduate College can Help You",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/How the Graduate College can Help You.md"
-    },
-    {
-      "basename": "Books Needed",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - ETC/Books Needed.md"
-    },
-    {
-      "basename": "Intro to VLSI Template",
-      "path": "Templates/Grad Templates/Intro to VLSI Template.md"
-    },
-    {
-      "basename": "Graduate CSE Orientation",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Graduate CSE Orientation.md"
-    },
-    {
-      "basename": "Lecture 1 - Syllabus and Notes",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/0 - Intro & Syllabus/Lectures/Lecture 1 - Syllabus and Notes.md"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
-    },
-    {
-      "basename": "2026-08-24",
-      "path": "2026-08-24.md"
     }
   ],
   "omittedPaths": [],

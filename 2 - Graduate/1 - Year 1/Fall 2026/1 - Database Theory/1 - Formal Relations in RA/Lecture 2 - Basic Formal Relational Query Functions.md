@@ -245,12 +245,12 @@ Be careful of when you use each operator, as order is important in terms of prod
 
 **Follow up in the next lecture**:
 
-[[Lecture 3 - Formal Relational Query Language Part 2]]
+[[Lecture 3 - More Formal Relational Query Operations]]
 
 ### Why is RA Important?
 
 1. Strong formal foundation that is fairly simple
 2. Widely used for query optimization
 # 3. Action Items & Follow-Up
-- [ ] Form Groups 🔼 📅 2026-08-31 
+- [x] Form Groups 🔼 📅 2026-08-31 ✅ 2026-09-09
 - [x] Review lecture 2 for databases 📅 (2026-08-28) ✅ 2026-08-28

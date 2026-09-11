@@ -160,7 +160,7 @@ Both conditions hold:
 	- $t_{r}[R-S]=t$
 
 
-#### Example
+#### Example 1
 
 Let $r(ID, course\_id) = \Pi_{ID, course\_id (takes)}$ and $s(course\_id)=\Pi_{course\_id}(\sigma_{dept\_name = \text{"}Biology\text{"}}(course))$
 → $r \div s =$ the students who have taken **all** courses in the Biology department 
@@ -190,6 +190,31 @@ $$
 This logic matters because when you write a SQL query, you *must* take this route since there is **no division operator** in native SQL
 ```
 
+#### Example 2
+
+```ad-question
+Return the name of all persons who read all newspapers
+```
+
+![[Pasted image 20260904085642.png]]
+
+
+$$
+E_{1} = \Pi_{name}(reads)
+$$
+$$
+E_{2} = \Pi_{name}((E_{1} \times newspaper) - \Pi_{name, newspaper}(reads \bowtie newspaper))
+$$
+$$
+reads \div newspaper = E_{1}-E_{2}
+$$
+$$
+[reads \div newspaper]=\{ (Alice) \}
+$$
+```ad-important
+The one relationship schema should be a **subset** of the other to perform division.
+```
+
 # 3. Action Items & Follow-Up
-- [ ] Review Lecture 5 for Databases 📅 2026-09-04
-- [ ] *practice* Figure out View2 [[Lecture 5 - Formal Relational Query Language Part 4#SQL Example]] 📅 2026-09-04
+- [x] Review Lecture 5 for Databases 📅 2026-09-04 ✅ 2026-09-04
+- [x] *practice* Figure out View2 [[Lecture 5 - Even Even More Formal RA Operations#SQL Example]] 📅 2026-09-04 ✅ 2026-09-04

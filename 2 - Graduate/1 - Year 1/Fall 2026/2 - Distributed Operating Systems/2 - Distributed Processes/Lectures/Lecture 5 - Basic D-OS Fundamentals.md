@@ -44,9 +44,6 @@ title: Summary
 All the parallel programming languages listed are **conservative** (less overhead) then compared to ORCA and LINDA
 ```
 
-```ad-important
-
-```
 #### Security Protocols
 
 ```ad-note
@@ -71,7 +68,6 @@ Procedure is a piece of code that needs to be run on an operating system. Become
 
 Request Procedure Call (*RPC*): 
 1. Ping operation
-2. 
 
 ##### Client-Server Model
 
@@ -148,8 +144,8 @@ Define concurrency vs. transparency
 Check the announcements for the good example
 ```
 # 3. Action Items & Follow-Up
-- [ ] D-OS Chapter 3 & 4 Pre-Reading🔼 📅 2026-09-04
+- [x] D-OS Chapter 3 & 4 Pre-Reading 🔼 📅 2026-09-04 ✅ 2026-09-03
 - [x] Copy fundamentals for chapters 1-4 into obsidian 🔼 📅 2026-09-04 ✅ 2026-09-02
-- [ ] Review D-OS Lecture 5 📅 2026-09-04 
+- [x] Review D-OS Lecture 5 📅 2026-09-04 ✅ 2026-09-04
 - [x] Do today’s HW [[Lecture 5 - Basic D-OS Fundamentals#Today’s HW]] ⏫ 📅 2026-09-04 ✅ 2026-09-02
 - [ ] D-OS Assignment 1 ⏫ 📅 2026-10-2

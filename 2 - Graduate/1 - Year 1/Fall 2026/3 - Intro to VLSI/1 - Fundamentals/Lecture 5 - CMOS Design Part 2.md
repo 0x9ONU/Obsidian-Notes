@@ -240,13 +240,75 @@ Then, add a clock to all of them and make them edge-triggered to make them flip-
 
 ![[Pasted image 20260902131417.png]]
 
+#### Part 1
+
+The steady state of $V_{B}$ will follow such that B is direclty connected to ground, making $V_{B}=0$. The p-type transistor will be in cutoff, while the n-type will be in saturation until $V_{B}=0$, where it will go into cutoff
+
+#### Part 2
+
+The steady state of operation of $V_{B}$ is $V_{B}=5V$. The p-type transistor will be in saturation, while the  n-type will be in cutoff
+
 ### CKT-6
 
 ```ad-question
 Implement the follwoing truth-table with as few stages as possible. Which design is correct?
 ```
 
-![[Pasted image 20260902131525.png]]
+
+| $a$ | $b$ | $c$ | $f$ |
+| --- | --- | --- | --- |
+| 0   | 0   | 0   | 1   |
+| 0   | 0   | 1   | 1   |
+| 0   | 1   | 0   | 1   |
+| 0   | 1   | 1   | 0   |
+| 1   | 0   | 0   | 0   |
+| 1   | 0   | 1   | 0   |
+| 1   | 1   | 0   | 0   |
+| 1   | 1   | 1   | 0   |
+
+$$
+f=\overline{abc}+\overline{ab}c+\bar{a}b\bar{c}
+$$
+
+$$
+f = \overline{ab}(\bar{c}+c)+\bar{a}b\bar{c}
+$$
+```ad-note
+Remember complement rule
+```
+
+$$
+f = \overline{ab}(1)+\bar{a}b\bar{c}
+$$
+
+$$
+f = \bar{a}(\bar{b}+b \bar{c})
+$$
+```ad-note
+Absorption law
+```
+$$
+f = \bar{a}(\bar{b}+\bar{c})
+$$
+
+**PUN**
+
+a in series with b + c in parallel
+
+
+**PDN**
+
+*take the complement*
+
+$$
+\bar{f}=a+bc
+$$
+
+
+$$
+\therefore \text{Circuit 2 is correct and minimize}
+$$
+
 
 ![[Pasted image 20260902131554.png]]
 
@@ -262,12 +324,23 @@ A designer claimed that the follwing CMOS gate implements the minority funcitno 
 This is from class lolll
 ```
 
+The following does implement the minority function. Even though they are not structrual complements, they are *logical* complements.
+
+$$
+f_{PUN} = \overline{ab}+\overline{bc}+\overline{ac}
+$$
+
+$$
+f_{PDN} = ab+bc+ac
+$$
+
 ### CKT-8
 
 ```ad-question
 How many levels of static logic are sufficient to implement any Boolean function. Provide proof!
 ```
 
+Only two levels of static logic are sufficient to implement any boolean function because all functions can be composed as a sum of products (OR of multiple AND terms), or a product of sums (AND of multiple OR terms). Therefore, we can implement any boolean function by using one layer of an inverted sum-of-products or product-of-sums complex function combined with a layer of inverters. Each inverter provides both the normal and inverted signal to drive the complex function.
 ### Practice - Full-Adder
 
 Implement the sum output of a full-adder in static CMOS using as few stages as possible
@@ -329,23 +402,88 @@ The rate of time delay between getting an input and raising an output.
 ```
 
 *NOTE*: there needs to be some delay as we cannot find the difference between the input and the output otherwise.
-
-
 ## Fall Time-Linear Approximations
 
 ```ad-note
 Unlike SPICE, this is a **worse** approximation since it is linear. However, it is a good enough approximation if we need to do it by hand.
 ```
 
+### On the Gate…
+
 ![[Pasted image 20260902133212.png]]
 
+- $L_{n}$ is the length of the gate
+	- **This can be controlled**
+	- $L_{n}>L_{min}$ ← $L_{min}$ is dictated by the manufacturing process
+- $W_{n}$ is the width of the gate
+	- **This can be controlled**
+	- $W_{n}>W_{min}$ ← $W_{min}$ is dictated by the manufacturing process
+- $t_{ox}$ is the thickness of silicon dioxide ($SiO_{2}$)
+	- Fixed for a given manufacturing process
+	- We don’t control this
 
+### Inverter Example
+
+![[Pasted image 20260902133710.png]]
+
+```ad-note
+A stepping signal switching as fast as possible is applied to $A$ to determine the slew rate of $B$
+```
+
+On the *rise*: $A=1$, the load capacitance discharge from $5V\to 0V$ due to it already being charged
+
+On the *fall*: $A=0$, the load capacitance charges from $0V \to 5V$ due to it being discharged before
+
+#### Linear Approximation
+
+```ad-summary
+We select a fixed resistance value $R_n$. This is not accurate since the resistance changes dramatically depending on the state of the transistor
+```
+
+![[Pasted image 20260902133942.png]]
+
+### Linear Approximation Graph
+
+![[Pasted image 20260902134117.png]]
+
+### Linear Approximation Formula
+
+$$
+t_{f} \space \alpha\space R_{n}*C_{L}
+$$
+- The time constant: $\tau = R*C$
+
+$$
+\boxed{R_{n} \space \alpha \space \frac{L_{n}}{W_{n}} * \frac{1}{V_{DD}} * \frac{1}{K_{n}}}
+$$
+Resistance is linearly:
+1. Inversly proportion to the length/width ratio
+2. Proportional to the Supply Voltage 
+3. Proportional to the Process Gain Factor
+
+**Process Gain Factor**: 
+$$
+K_{n} = \frac{\mu_{n}t_{SiO_{2}}}{t_{ox}}
+$$
+- $\mu_{n}$ - mobility of electrons
+- $t_{SiO_{2}}$ - Permittivity of $SiO_{2}$
+- $t_{ox}$ - The thickness of $SiO_{2}$
+
+```ad-warning
+- Controlled completely by the factory
+- It is often common to fix the length
+```
+
+```ad-important
+title: Important $\star$
+We need to increase the width of transistor to decrease the fall time
+```
 # 3. Action Items & Follow-Up
-- [ ] Review Notes for VLSI Lecture 5 📅 2026-09-09
-- [ ] Find the truth to this answer [[Lecture 5 - CMOS Design Part 2#How many level so static logic are sufficient to implement any Boolean function?]] 📅 2026-09-09 
-- [ ] Do memory practice for VLSI 📅 2026-09-09 🔼 
-- [ ] VLSI CKT-5 Quiz [[Lecture 5 - CMOS Design Part 2#CKT-5]] 📅 2026-09-09 ⏫ 
-- [ ] VLSI CKT-6 Quiz [[Lecture 5 - CMOS Design Part 2#CKT-6]] 📅 2026-09-09 ⏫ 
-- [ ] VLSI CKT-7 Quiz [[Lecture 5 - CMOS Design Part 2#CKT-7]] 📅 2026-09-09 ⏫ 
-- [ ] VLSI CKT-8 Quiz [[Lecture 5 - CMOS Design Part 2#CKT-8]] 📅 2026-09-09 ⏫ 
-- [ ] *practice*: [[Lecture 5 - CMOS Design Part 2#Practice - Full-Adder]] 📅 2026-09-09 🔼 
+- [x] Review Notes for VLSI Lecture 5 📅 2026-09-09 ✅ 2026-09-09
+- [x] Find the truth to this answer [[Lecture 5 - CMOS Design Part 2#How many level so static logic are sufficient to implement any Boolean function?]] 📅 2026-09-09 ✅ 2026-09-03
+- [x] Do memory practice for VLSI 🔼 📅 2026-09-09 ✅ 2026-09-10
+- [x] VLSI CKT-5 Quiz [[Lecture 5 - CMOS Design Part 2#CKT-5]] ⏫ 📅 2026-09-09 ✅ 2026-09-03
+- [x] VLSI CKT-6 Quiz [[Lecture 5 - CMOS Design Part 2#CKT-6]] ⏫ 📅 2026-09-09 ✅ 2026-09-03
+- [x] VLSI CKT-7 Quiz [[Lecture 5 - CMOS Design Part 2#CKT-7]] ⏫ 📅 2026-09-09 ✅ 2026-09-03
+- [x] VLSI CKT-8 Quiz [[Lecture 5 - CMOS Design Part 2#CKT-8]] ⏫ 📅 2026-09-09 ✅ 2026-09-03
+- [x] *practice*: [[Lecture 5 - CMOS Design Part 2#Practice - Full-Adder]] 🔼 📅 2026-09-09 ✅ 2026-09-10
