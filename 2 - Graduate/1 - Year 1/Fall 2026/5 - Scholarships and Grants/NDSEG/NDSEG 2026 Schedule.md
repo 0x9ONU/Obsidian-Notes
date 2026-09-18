@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Next
 
+- [ ] - [ ] Register in NDSEG Portal
 
 
 ## Upcoming

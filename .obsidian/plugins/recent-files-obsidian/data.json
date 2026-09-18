@@ -1,60 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Lecture 8 -",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 8 -.md"
+      "basename": "Lecture 11 - In Class Activity 2 SQL Querying",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 11 - In Class Activity 2 SQL Querying.md"
     },
     {
-      "basename": "04-SQL-intermediate",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Materials/04-SQL-intermediate.pdf"
+      "basename": "Lecture 10 - Transactions",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 10 - Transactions.md"
     },
     {
-      "basename": "Lecture 7 - Combined Operations on RA",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 7 - Combined Operations on RA.md"
+      "basename": "Lecture 8 - Views",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 8 - Views.md"
     },
     {
-      "basename": "03-formal-relational-query-language-RA",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Materials/03-formal-relational-query-language-RA.pdf"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "HERTZ 2026 Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Summary.md"
-    },
-    {
-      "basename": "NDSEG Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG Summary.md"
-    },
-    {
-      "basename": "GRFP Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NSF GRFP/GRFP Summary.md"
-    },
-    {
-      "basename": "GRFP 2026 Schedule",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NSF GRFP/GRFP 2026 Schedule.md"
-    },
-    {
-      "basename": "CSGF 2026 Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/CSGF 2026 Summary.md"
+      "basename": "Lecture 6 - Extended Relational Algebra Operations",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 6 - Extended Relational Algebra Operations.md"
     },
     {
       "basename": "CSGF 2026 Schedule",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/CSGF 2026 Schedule.md"
     },
     {
-      "basename": "Lecture 6 - Gate Sizing and Performance Metrics",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 6 - Gate Sizing and Performance Metrics.md"
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "HERTZ 2026 Schedule",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Schedule.md"
     },
     {
       "basename": "NDSEG 2026 Schedule",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG 2026 Schedule.md"
     },
     {
-      "basename": "Lecture 6 - Extended Relational Algebra Operations",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 6 - Extended Relational Algebra Operations.md"
+      "basename": "GRFP 2026 Schedule",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NSF GRFP/GRFP 2026 Schedule.md"
+    },
+    {
+      "basename": "NDSEG Summary",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG Summary.md"
+    },
+    {
+      "basename": "CSGF 2026 Summary",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/CSGF 2026 Summary.md"
+    },
+    {
+      "basename": "Lecture 6 - Gate Sizing and Performance Metrics",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 6 - Gate Sizing and Performance Metrics.md"
+    },
+    {
+      "basename": "Lecture 7 - Art of Layout",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 7 - Art of Layout.md"
     },
     {
       "basename": "Lecture 5 - Even Even More Formal RA Operations",
@@ -65,12 +61,76 @@
       "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 4 - Even More Formal RA Operations.md"
     },
     {
+      "basename": "Lecture 3 - More Formal Relational Query Operations",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 3 - More Formal Relational Query Operations.md"
+    },
+    {
       "basename": "Lecture 2 - Basic Formal Relational Query Functions",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 2 - Basic Formal Relational Query Functions.md"
     },
     {
-      "basename": "Lecture 3 - More Formal Relational Query Operations",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 3 - More Formal Relational Query Operations.md"
+      "basename": "Lecture 8 - Topology-to-Layout Methodologies",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 8 - Topology-to-Layout Methodologies.md"
+    },
+    {
+      "basename": "Lecture 9 - In Class Activity 1",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 9 - In Class Activity 1.md"
+    },
+    {
+      "basename": "Lecture 10 - Scheduling on D-OS",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 10 - Scheduling on D-OS.md"
+    },
+    {
+      "basename": "Lecture 10 - Scheduling on D-OS 2026-09-16 10.53.37.excalidraw",
+      "path": "General Notes/Lecture 10 - Scheduling on D-OS 2026-09-16 10.53.37.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 9 - Process Models",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 9 - Process Models.md"
+    },
+    {
+      "basename": "04-SQL-intermediate",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Materials/04-SQL-intermediate.pdf"
+    },
+    {
+      "basename": "Lecture 8 - Scheduling Algorithms",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 8 - Scheduling Algorithms.md"
+    },
+    {
+      "basename": "05-advanced-SQL",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Materials/05-advanced-SQL.pdf"
+    },
+    {
+      "basename": "sl3-3",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Materials/sl3-3.pdf"
+    },
+    {
+      "basename": "sl2-3",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Materials/sl2-3.pdf"
+    },
+    {
+      "basename": "sl4",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Materials/sl4.pdf"
+    },
+    {
+      "basename": "Lecture 7 - Inter-Process Communication",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 7 - Inter-Process Communication.md"
+    },
+    {
+      "basename": "Lecture 7 - Combined Operations on RA",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 7 - Combined Operations on RA.md"
+    },
+    {
+      "basename": "03-formal-relational-query-language-RA",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Materials/03-formal-relational-query-language-RA.pdf"
+    },
+    {
+      "basename": "HERTZ 2026 Summary",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Summary.md"
+    },
+    {
+      "basename": "GRFP Summary",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NSF GRFP/GRFP Summary.md"
     },
     {
       "basename": "Lecture 3 - Ali Jannesari & GNN HPC-AI Applications",
@@ -98,15 +158,7 @@
     },
     {
       "basename": "Lecture 5 - CMOS Design Part 2",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 5 - CMOS Design Part 2.md"
-    },
-    {
-      "basename": "HERTZ 2026 Schedule",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Schedule.md"
-    },
-    {
-      "basename": "Lecture 7 - Inter-Process Communication",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 7 - Inter-Process Communication.md"
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 5 - CMOS Design Part 2.md"
     },
     {
       "basename": "Lecture 7 - Inter-Process Communication 2026-09-09 10.39.42.excalidraw",
@@ -147,58 +199,6 @@
     {
       "basename": "Lecture 5 - CMOS Design Part 2 2026-09-02 13.03.48.excalidraw",
       "path": "General Notes/Lecture 5 - CMOS Design Part 2 2026-09-02 13.03.48.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 4 - CMOS Design 2026-08-31 14.40.45.excalidraw",
-      "path": "General Notes/Lecture 4 - CMOS Design 2026-08-31 14.40.45.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 4 - CMOS Design",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 4 - CMOS Design.md"
-    },
-    {
-      "basename": "Chapter 4 Readings",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Pre-Readings/Chapter 4 Readings.md"
-    },
-    {
-      "basename": "Untitled 7",
-      "path": "Untitled 7.md"
-    },
-    {
-      "basename": "Chapter 3 Readings",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Pre-Readings/Chapter 3 Readings.md"
-    },
-    {
-      "basename": "Chapter 2 Readings",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Pre-Readings/Chapter 2 Readings.md"
-    },
-    {
-      "basename": "Lecture 4 - Operating Systems Fundamentals Day 3",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 4 - Operating Systems Fundamentals Day 3.md"
-    },
-    {
-      "basename": "Chapter 1 Readings",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Pre-Readings/Chapter 1 Readings.md"
-    },
-    {
-      "basename": "Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.46.37.excalidraw",
-      "path": "General Notes/Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.46.37.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 4 - CMOS Design 2026-09-01 12.30.20.excalidraw",
-      "path": "General Notes/Lecture 4 - CMOS Design 2026-09-01 12.30.20.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2026-07-20 22.43.31.excalidraw",
-      "path": "Excalidraw/Drawing 2026-07-20 22.43.31.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 4 - CMOS Design 2026-09-01 12.01.39.excalidraw",
-      "path": "General Notes/Lecture 4 - CMOS Design 2026-09-01 12.01.39.excalidraw.md"
-    },
-    {
-      "basename": "08-26-2026-cmos-gates - class-notes",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Materials/08-26-2026-cmos-gates - class-notes.pdf"
     }
   ],
   "omittedPaths": [],

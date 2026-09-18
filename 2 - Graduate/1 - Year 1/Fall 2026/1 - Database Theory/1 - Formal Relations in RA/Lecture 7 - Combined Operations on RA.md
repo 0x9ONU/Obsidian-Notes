@@ -156,4 +156,4 @@ WITH RECURSIVE(...)
 ```
 # 3. Action Items & Follow-Up
 - [x] Review Lecture 7 for Database 📅 2026-09-11 ✅ 2026-09-11
-- [ ] Find out meeting time for group 📅 2026-09-11
+- [x] Find out meeting time for group 📅 2026-09-11 ✅ 2026-09-16

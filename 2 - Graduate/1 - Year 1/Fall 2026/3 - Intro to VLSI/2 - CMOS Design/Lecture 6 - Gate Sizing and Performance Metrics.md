@@ -617,6 +617,6 @@ $$
 | $D$        | $2 \times 23$ |
 
 # 3. Action Items & Follow-Up
-- [ ] Review Lecture 6 for VLSI 📅 2026-09-11
+- [x] Review Lecture 6 for VLSI 📅 2026-09-11 ✅ 2026-09-15
 - [x] **QUIZ** Sizing-1 VLSI [[Lecture 6 - Gate Sizing and Performance Metrics#Sizing-1 Quiz]] ⏫ 📅 2026-09-14 ✅ 2026-09-10
 - [x] **QUIZ** Sizing-2 VLSI [[Lecture 6 - Gate Sizing and Performance Metrics#Sizing-2 Quiz]] ⏫ 📅 2026-09-14 ✅ 2026-09-10

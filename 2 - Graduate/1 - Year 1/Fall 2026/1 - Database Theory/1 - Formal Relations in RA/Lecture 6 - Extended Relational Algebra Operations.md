@@ -47,7 +47,7 @@ title: Objectives
 
 ### Option Two: Fix and Win
 
-- Pick a state of the algorithm form a full research paper published within 10 years
+- Pick a state of the art algorithm form a full research paper published within 10 years
 - Show where it does not actually work (incorrectness, inefficiency, etc.)
 - Propose and implement your solution
 - Experimentally demonstrate your solution
