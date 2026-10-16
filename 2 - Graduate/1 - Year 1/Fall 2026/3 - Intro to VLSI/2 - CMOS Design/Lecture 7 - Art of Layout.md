@@ -300,4 +300,4 @@ $$
 	- Used to reduce the amount of poly that needs to be ran when compared to single diffusion
 # 3. Action Items & Follow-Up
 - [x] Review Art of Layout for VLSI 📅 2026-09-16 ✅ 2026-09-16
-- [ ] *Practice* NOR layout [[Lecture 7 - Art of Layout#NOR]]📅 2026-09-16 
+- [x] *Practice* NOR layout [[Lecture 7 - Art of Layout#NOR]] 📅 2026-09-16 ✅ 2026-09-18

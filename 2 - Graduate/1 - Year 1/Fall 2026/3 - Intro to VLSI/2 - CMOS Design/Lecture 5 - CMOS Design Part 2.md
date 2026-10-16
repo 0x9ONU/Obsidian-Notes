@@ -108,9 +108,6 @@ We can *also* do it backwards starting with a pull-up network by applying **DeMo
 ```
 
 
-
-
-
 ### Minority of 3 in Static CMOS
 
 $$
@@ -223,6 +220,9 @@ To add a clk signal, add two AND gates before S&R
 - Vdd and GND must be routed to *each* gate
 
 ## Practice
+
+#comebacklater 
+_Practice_: Design a JK-Latch, D-Latch, T-Latch using static CMOS. Then, add a clock to all of them and make them edge-triggered to make them flip-flops (JK, D, and T flip flops)
 
 Design the following:
 1. JK-Latch

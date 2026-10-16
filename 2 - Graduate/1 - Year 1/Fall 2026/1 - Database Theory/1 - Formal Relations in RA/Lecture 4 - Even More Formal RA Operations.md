@@ -207,5 +207,5 @@ $$
 r \fullouterjoin s = (r \bowtie s) \cup ((r - \Pi_{R}(r \bowtie s)) \times \{(null, \dots , null) \}) \cup (\{ null, \dots, null\} \times (s - \Pi_{s}(r \bowtie s)))
 $$
 # 3. Action Items & Follow-Up
-- [ ] Bring potential other solutions to the opening question in class 📅 (2026-09-02) 
+- [x] Bring potential other solutions to the opening question in class 📅 (2026-09-02) ✅ 2026-09-28
 - [x] Review Lecture 4 for Databases 📅 (2026-09-02) ✅ 2026-09-01

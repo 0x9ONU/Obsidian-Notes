@@ -16,6 +16,5 @@ sort by due
 - [x] Get the stuff sorted for VLSI lab 📅 2026-09-03 ✅ 2026-09-03
 - [x] Start HERTZ 📅 2026-09-08 ✅ 2026-09-11
 - [x] Start DOE CSGF 📅 2026-09-08 ✅ 2026-09-11
-- [ ] Prepare CV 📅 2026-09-28 ⏫ 
-- [ ] Write Background for Henry’s Campaign 🔼  📅 2026-09-21 
-- [ ] 
+- [x] Prepare CV ⏫ 📅 2026-09-28 ✅ 2026-09-23
+- [x] Write Background for Henry’s Campaign 🔼 📅 2026-09-21 ✅ 2026-09-25

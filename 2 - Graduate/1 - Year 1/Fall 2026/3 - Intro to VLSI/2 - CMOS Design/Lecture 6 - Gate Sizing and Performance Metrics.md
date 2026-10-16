@@ -8,7 +8,7 @@ tags:
   - status/todo
 author: Ethan Berei
 ---
-# 1. Introduction / Pre-Class Notes
+t# 1. Introduction / Pre-Class Notes
 
 ```ad-abstract
 title: Summary
@@ -53,11 +53,11 @@ $$
 K_{p} = \frac{\mu_{p}\epsilon_{SiO_{2}}}{t_{ox}}
 $$
 ```ad-note
-Mobility of holes ($\mu_p$) vs. the mobility of electrons ($\mu_n$) because the CMOS uses a p-type istead of an n-type transistor during fall time
+Mobility of holes ($\mu_p$) vs. the mobility of electrons ($\mu_n$) because the CMOS uses a p-type istead of an n-type transistor during rise time
 ```
 
 ```ad-important
-Similar to the previous rise time, we will focus on adjusting either $L_p$ or $W_p$ to change our fall time
+Similar to the previous fall time, we will focus on adjusting either $L_p$ or $W_p$ to change our rise time
 ```
 
 ## Sizing of a Circuit Based on Linear-Approximation
@@ -422,7 +422,7 @@ $$
 
 **Pull-Up**
 
-
+Pa
 $$
 4ns = t_{r}
 $$

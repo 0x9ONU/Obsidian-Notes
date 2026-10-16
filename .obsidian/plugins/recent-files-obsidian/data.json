@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Lecture 11 - In Class Activity 2 SQL Querying",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 11 - In Class Activity 2 SQL Querying.md"
+      "basename": "Lecture 21 - Midterm Example",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 21 - Midterm Example.md"
     },
     {
-      "basename": "Lecture 10 - Transactions",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 10 - Transactions.md"
+      "basename": "Lecture 20 - Practice Problem for Exam 1",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 20 - Practice Problem for Exam 1.md"
     },
     {
-      "basename": "Lecture 8 - Views",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 8 - Views.md"
+      "basename": "Lecture 19 - Using Semaphores as Solutions",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 19 - Using Semaphores as Solutions.md"
     },
     {
-      "basename": "Lecture 6 - Extended Relational Algebra Operations",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 6 - Extended Relational Algebra Operations.md"
+      "basename": "Lecture 18 - Continuing the Hospital Problem",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 18 - Continuing the Hospital Problem.md"
     },
     {
-      "basename": "CSGF 2026 Schedule",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/CSGF 2026 Schedule.md"
+      "basename": "DCLE",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Materials/DCLE.pdf"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
+      "basename": "Lecture 16 - Assignment 2 Debrief",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 16 - Assignment 2 Debrief.md"
     },
     {
-      "basename": "HERTZ 2026 Schedule",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Schedule.md"
+      "basename": "Lecture 15- Election Algorithms",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 15- Election Algorithms.md"
     },
     {
-      "basename": "NDSEG 2026 Schedule",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG 2026 Schedule.md"
+      "basename": "Lecture 14 - Deadlock",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 14 - Deadlock.md"
     },
     {
-      "basename": "GRFP 2026 Schedule",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NSF GRFP/GRFP 2026 Schedule.md"
+      "basename": "Lecture 13 - Solutions to the Critical Section Problem",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/3 - Distributed Resources/Lectures/Lecture 13 - Solutions to the Critical Section Problem.md"
     },
     {
-      "basename": "NDSEG Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG Summary.md"
+      "basename": "Lecture 12 - Critical Section & Race Conditions",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/3 - Distributed Resources/Lectures/Lecture 12 - Critical Section & Race Conditions.md"
     },
     {
-      "basename": "CSGF 2026 Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/CSGF 2026 Summary.md"
-    },
-    {
-      "basename": "Lecture 6 - Gate Sizing and Performance Metrics",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 6 - Gate Sizing and Performance Metrics.md"
-    },
-    {
-      "basename": "Lecture 7 - Art of Layout",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 7 - Art of Layout.md"
-    },
-    {
-      "basename": "Lecture 5 - Even Even More Formal RA Operations",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 5 - Even Even More Formal RA Operations.md"
-    },
-    {
-      "basename": "Lecture 4 - Even More Formal RA Operations",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 4 - Even More Formal RA Operations.md"
-    },
-    {
-      "basename": "Lecture 3 - More Formal Relational Query Operations",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 3 - More Formal Relational Query Operations.md"
-    },
-    {
-      "basename": "Lecture 2 - Basic Formal Relational Query Functions",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 2 - Basic Formal Relational Query Functions.md"
-    },
-    {
-      "basename": "Lecture 8 - Topology-to-Layout Methodologies",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 8 - Topology-to-Layout Methodologies.md"
-    },
-    {
-      "basename": "Lecture 9 - In Class Activity 1",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Lecture 9 - In Class Activity 1.md"
+      "basename": "Lecture 11 - Synchronization",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/3 - Distributed Resources/Lectures/Lecture 11 - Synchronization.md"
     },
     {
       "basename": "Lecture 10 - Scheduling on D-OS",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 10 - Scheduling on D-OS.md"
-    },
-    {
-      "basename": "Lecture 10 - Scheduling on D-OS 2026-09-16 10.53.37.excalidraw",
-      "path": "General Notes/Lecture 10 - Scheduling on D-OS 2026-09-16 10.53.37.excalidraw.md"
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/3 - Distributed Resources/Lectures/Lecture 10 - Scheduling on D-OS.md"
     },
     {
       "basename": "Lecture 9 - Process Models",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 9 - Process Models.md"
-    },
-    {
-      "basename": "04-SQL-intermediate",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Materials/04-SQL-intermediate.pdf"
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/3 - Distributed Resources/Lectures/Lecture 9 - Process Models.md"
     },
     {
       "basename": "Lecture 8 - Scheduling Algorithms",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 8 - Scheduling Algorithms.md"
-    },
-    {
-      "basename": "05-advanced-SQL",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- SQL/Materials/05-advanced-SQL.pdf"
-    },
-    {
-      "basename": "sl3-3",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Materials/sl3-3.pdf"
-    },
-    {
-      "basename": "sl2-3",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Materials/sl2-3.pdf"
-    },
-    {
-      "basename": "sl4",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Materials/sl4.pdf"
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/3 - Distributed Resources/Lectures/Lecture 8 - Scheduling Algorithms.md"
     },
     {
       "basename": "Lecture 7 - Inter-Process Communication",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 7 - Inter-Process Communication.md"
     },
     {
-      "basename": "Lecture 7 - Combined Operations on RA",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 7 - Combined Operations on RA.md"
+      "basename": "Lecture 8 - Views",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- Intermediate SQL/Lecture 8 - Views.md"
     },
     {
-      "basename": "03-formal-relational-query-language-RA",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Materials/03-formal-relational-query-language-RA.pdf"
-    },
-    {
-      "basename": "HERTZ 2026 Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Summary.md"
-    },
-    {
-      "basename": "GRFP Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NSF GRFP/GRFP Summary.md"
-    },
-    {
-      "basename": "Lecture 3 - Ali Jannesari & GNN HPC-AI Applications",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Lecture 3 - Ali Jannesari & GNN HPC-AI Applications.md"
-    },
-    {
-      "basename": "Lecture 6 - Gate Sizing and Performance Metrics 2026-09-10 10.53.10.excalidraw",
-      "path": "General Notes/Lecture 6 - Gate Sizing and Performance Metrics 2026-09-10 10.53.10.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 6 - Gate Sizing and Performance Metrics 2026-09-10 10.20.45.excalidraw",
-      "path": "General Notes/Lecture 6 - Gate Sizing and Performance Metrics 2026-09-10 10.20.45.excalidraw.md"
-    },
-    {
-      "basename": "HWSW - Week 10 Day 3",
-      "path": "1 - Undergrad/3 - Junior Year/Spring 2025/HW&SW Co-Design/Week 10/HWSW - Week 10 Day 3.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.circuit-sketcher"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.circuit-sketcher"
-    },
-    {
-      "basename": "Lecture 5 - CMOS Design Part 2",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 5 - CMOS Design Part 2.md"
-    },
-    {
-      "basename": "Lecture 7 - Inter-Process Communication 2026-09-09 10.39.42.excalidraw",
-      "path": "General Notes/Lecture 7 - Inter-Process Communication 2026-09-09 10.39.42.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 7 - 2026-09-09 10.25.32.excalidraw",
-      "path": "General Notes/Lecture 7 - 2026-09-09 10.25.32.excalidraw.md"
+      "basename": "Lecture 9 - In Class Activity 1",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- Intermediate SQL/Lecture 9 - In Class Activity 1.md"
     },
     {
       "basename": "Lecture 6 - D-OS Gaps",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 6 - D-OS Gaps.md"
     },
     {
+      "basename": "Lecture 17 - Recursive Queries",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Lecture 17 - Recursive Queries.md"
+    },
+    {
+      "basename": "Lecture 19 - Windowing and Ranking",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Lecture 19 - Windowing and Ranking.md"
+    },
+    {
+      "basename": "Lecture 18 - Advanced Aggregation Features",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Lecture 18 - Advanced Aggregation Features.md"
+    },
+    {
+      "basename": "Lecture 15 - Triggers",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Lecture 15 - Triggers.md"
+    },
+    {
+      "basename": "Lecture 14 - Dynamic Performance Analysis",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 14 - Dynamic Performance Analysis.md"
+    },
+    {
+      "basename": "Lecture 15 - Introduction to Verilog",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/4 - Verilog HDL/Lecture 15 - Introduction to Verilog.md"
+    },
+    {
+      "basename": "Lecture 16 - ICA4",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Lecture 16 - ICA4.md"
+    },
+    {
+      "basename": "Lecture 20 - Accessing SQL from a Programming Language",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Lecture 20 - Accessing SQL from a Programming Language.md"
+    },
+    {
+      "basename": "Lecture 21 - Data Analytics Introduction",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 21 - Data Analytics Introduction.md"
+    },
+    {
+      "basename": "06-data-analytics",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Materials/06-data-analytics.pdf"
+    },
+    {
+      "basename": "Lecture 13 - In-Class Activity 3- Access Control & Authorization",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- Intermediate SQL/Lecture 13 - In-Class Activity 3- Access Control & Authorization.md"
+    },
+    {
       "basename": "Lecture 5 - Basic D-OS Fundamentals",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/2 - Distributed Processes/Lectures/Lecture 5 - Basic D-OS Fundamentals.md"
     },
     {
-      "basename": "Lecture 6 - D-OS Gaps 2026-09-04 10.50.25.excalidraw",
-      "path": "General Notes/Lecture 6 - D-OS Gaps 2026-09-04 10.50.25.excalidraw.md"
+      "basename": "Lecture 4 - Operating Systems Fundamentals Day 3",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 4 - Operating Systems Fundamentals Day 3.md"
     },
     {
-      "basename": "Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.37.00.excalidraw",
-      "path": "General Notes/Lecture 5 - D-OS Fundamentals Part 4 2026-09-02 10.37.00.excalidraw.md"
+      "basename": "Lecture 3 - Operating Systems Fundamentals Day 2",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 3 - Operating Systems Fundamentals Day 2.md"
     },
     {
-      "basename": "2026-09-03",
-      "path": "2026-09-03.md"
+      "basename": "Lecture 2 - Operating System Fundamentals",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 2 - Operating System Fundamentals.md"
     },
     {
-      "basename": "Lecture 2 - Scientific Visualization",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Lecture 2 - Scientific Visualization.md"
+      "basename": "Lecture 6 - Extended Relational Algebra Operations",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 6 - Extended Relational Algebra Operations.md"
     },
     {
-      "basename": "cmos-gates-shell",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Materials/cmos-gates-shell.pdf"
+      "basename": "pwl_vectors",
+      "path": "file:/home/berei/Downloads/pwl_vectors.md"
     },
     {
-      "basename": "Lecture 5 - CMOS Design Part 2 2026-09-02 13.03.48.excalidraw",
-      "path": "General Notes/Lecture 5 - CMOS Design Part 2 2026-09-02 13.03.48.excalidraw.md"
+      "basename": "Lecture 20 - Practice Problem for Exam 1 2026-10-09 10.20.36.excalidraw",
+      "path": "General Notes/Lecture 20 - Practice Problem for Exam 1 2026-10-09 10.20.36.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 20 - Practice Problem for Exam 1 2026-10-09 10.15.46.excalidraw",
+      "path": "General Notes/Lecture 20 - Practice Problem for Exam 1 2026-10-09 10.15.46.excalidraw.md"
+    },
+    {
+      "basename": "05-advanced-SQL",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Materials/05-advanced-SQL.pdf"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Lecture 13 - Clock Skew",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 13 - Clock Skew.md"
+    },
+    {
+      "basename": "Lecture 12 - Clocking Constraints",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 12 - Clocking Constraints.md"
+    },
+    {
+      "basename": "Lecture 6 - Gate Sizing and Performance Metrics",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 6 - Gate Sizing and Performance Metrics.md"
+    },
+    {
+      "basename": "ch7 Deadlocks",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Materials/ch7 Deadlocks.pdf"
+    },
+    {
+      "basename": "sl7",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Materials/sl7.pdf"
+    },
+    {
+      "basename": "Computer Architecture - Week 7 Day 1",
+      "path": "1 - Undergrad/3 - Junior Year/Fall 2024/Computer Architecture/Week 7/Computer Architecture - Week 7 Day 1.md"
+    },
+    {
+      "basename": "Computer Architecture - Week 6 Day 3",
+      "path": "1 - Undergrad/3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 3.md"
+    },
+    {
+      "basename": "Computer Architecture - Week 6 Day 1",
+      "path": "1 - Undergrad/3 - Junior Year/Fall 2024/Computer Architecture/Week 6/Computer Architecture - Week 6 Day 1.md"
+    },
+    {
+      "basename": "Computer Architecture - Week 5 Day 3",
+      "path": "1 - Undergrad/3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 3.md"
+    },
+    {
+      "basename": "Computer Architecture - Week 5 Day 2",
+      "path": "1 - Undergrad/3 - Junior Year/Fall 2024/Computer Architecture/Week 5/Computer Architecture - Week 5 Day 2.md"
+    },
+    {
+      "basename": "Lecture 5 - CMOS Design Part 2",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 5 - CMOS Design Part 2.md"
     }
   ],
   "omittedPaths": [],

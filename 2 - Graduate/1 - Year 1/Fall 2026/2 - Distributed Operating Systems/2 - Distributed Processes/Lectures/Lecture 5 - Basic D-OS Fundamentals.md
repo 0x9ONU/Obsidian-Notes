@@ -148,4 +148,4 @@ Check the announcements for the good example
 - [x] Copy fundamentals for chapters 1-4 into obsidian 🔼 📅 2026-09-04 ✅ 2026-09-02
 - [x] Review D-OS Lecture 5 📅 2026-09-04 ✅ 2026-09-04
 - [x] Do today’s HW [[Lecture 5 - Basic D-OS Fundamentals#Today’s HW]] ⏫ 📅 2026-09-04 ✅ 2026-09-02
-- [ ] D-OS Assignment 1 ⏫ 📅 2026-10-2
+- [x] D-OS Assignment 1 ⏫ 📅 2026-10-2 ✅ 2026-10-13

@@ -159,12 +159,33 @@ $$
 **Switches
 
 ![[Lecture 2 - Switching Circuits and Switching Expressions 2026-08-25 15.22.26.excalidraw]]
-
-### *Practice*: Implication
+![[Lecture 2 - Switching Circuits and Switching Expressions 2026-10-05 08.37.55.excalidraw]]
+### *Practice*: Implementation
 
 ```ad-question
-$F(A,B) = A \rightarrow B$ is defined as 
+$F(A,B) = A \rightarrow B$ is defined as "if A is true, then B must be true"
 ```
+
+**Truth Table**
+
+
+| $A$ | $B$ | $F$ |
+| --- | --- | --- |
+| 0   | 0   | 1   |
+| 0   | 1   | 1   |
+| 1   | 0   | 0   |
+| 1   | 1   | 1   |
+
+**Function**:
+
+
+$$
+F = \bar{A}+B
+$$
+
+**Switches**
+
+![[Lecture 2 - Switching Circuits and Switching Expressions 2026-10-05 08.46.00.excalidraw]]
 
 ### Majority of Three
 

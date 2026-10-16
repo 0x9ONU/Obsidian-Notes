@@ -19,6 +19,28 @@
 - Includes focus on issues in HPC as a broad technology as well as a particular applications
 - *This is what I will be applying for*
 
+## Applicable Research Areas
+
+**Data Science**
+
+- _In situ_ data analysis
+- High-dimensional data analysis
+- Large-scale data visualization
+- Scientific data management and engineering
+
+**Computer Science and Computer Engineering**
+
+- High-performance compilers
+- Domain-specific languages
+- Dynamic runtime environments
+- Power management
+- Novel HPC hardware technology
+- Programming models and abstractions for heterogeneous computing
+- HPC development tools and debugging at an extreme scale
+- HPC performance analysis and tools
+- Scalable I/O
+- Machine learning
+
 # Breakdown on Submssion
 
 1. **Research Statement**: Describe your specific research interest with emphasis on how computational science/HPC drives it. 

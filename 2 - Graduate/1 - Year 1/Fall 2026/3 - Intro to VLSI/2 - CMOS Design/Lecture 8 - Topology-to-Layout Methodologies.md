@@ -181,6 +181,10 @@ Continuity on either side is not guaranteed, but it should be possible in 90% of
 
 ![[Pasted image 20260916132403.png]]
 
+```ad-important
+We will go through A->B->C->D
+```
+
 **P-Graph**
 ```mermaid
 flowchart LR
@@ -190,7 +194,7 @@ Vdd--A-->f--B-->h--C-->y--D-->Vdd
 **N-Graph**
 ```mermaid
 flowchart LR
-GND--A-->g--B-->GND--C-->g--A-->y
+GND--A-->g--B-->GND--C-->g--D-->y
 ```
 
 *Double continuity exists!*
@@ -260,6 +264,6 @@ These alternating rows allows you to share multiple $V_{dd}$ and $GND$ wires wit
 
 Done very rarely. Only when clear design constraints require specific sizing.
 # 3. Action Items & Follow-Up
-- [ ] Review Lecture 8 for VLSI 📅 2026-09-18
-- [ ] *Practice* VLSI 4-Input NAND Euler [[Lecture 8 - Topology-to-Layout Methodologies#Practice 4-Input NAND]]📅 2026-09-18
-- [ ] *Practice* VLSI Complex Gate Euler [[Lecture 8 - Topology-to-Layout Methodologies#Practice Complex Gate]] 📅 2026-09-18
+- [x] Review Lecture 8 for VLSI 📅 2026-09-18 ✅ 2026-09-18
+- [x] *Practice* VLSI 4-Input NAND Euler [[Lecture 8 - Topology-to-Layout Methodologies#Practice 4-Input NAND]] 📅 2026-09-18 ✅ 2026-09-18
+- [x] *Practice* VLSI Complex Gate Euler [[Lecture 8 - Topology-to-Layout Methodologies#Practice Complex Gate]] 📅 2026-09-18 ✅ 2026-09-18

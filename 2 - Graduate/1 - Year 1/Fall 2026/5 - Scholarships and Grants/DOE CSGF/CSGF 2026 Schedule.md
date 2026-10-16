@@ -6,7 +6,8 @@ kanban-plugin: board
 
 ## Next
 
-- [ ] - [ ] Register in CSGF Portal
+- [ ] Application Opens late October!
+- [ ] Ask References
 
 
 ## Upcoming
@@ -15,9 +16,27 @@ kanban-plugin: board
 
 ## Done
 
+- [x] - [x] Register in CSGF Portal ✅ 2026-09-28
+- [ ] Finish CV
+- [ ] Demographics
 
 
+***
 
+## Archive
+
+- [ ] Fillout Other Info
+- [ ] Upload CV
+- [ ] Essay
+- [ ] Proposal
+- [ ] Transcripts
+- [ ] References
+- [ ] Statement
+- [ ] Disclosure
+- [ ] Statement
+- [ ] Disclosure
+- [ ] Submit
+- [ ] Create REDACTED CV
 
 %% kanban:settings
 ```
