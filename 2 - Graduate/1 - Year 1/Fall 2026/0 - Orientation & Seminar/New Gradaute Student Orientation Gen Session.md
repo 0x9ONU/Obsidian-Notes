@@ -246,7 +246,7 @@ Always free counseling
 
 ## More orientation tasks
 
-- [ ] Get ID ⏫ 📅 2026-08-28 
+- [x] Get ID ⏫ 📅 2026-08-28 ✅ 2026-08-28
 - [x] Do the tightrope stuff 📅 (2026-09-23) ✅ 2026-08-28
 
 

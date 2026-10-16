@@ -23,7 +23,13 @@ title: Summary
 - Get ready for this. He has annotated notes now and a video if supplementary stuff is needed
 - No lab today! it starts next week
 
+### Lecture Part 1
+
 ![[cmos-transistors-presentation-notes.pdf]]
+
+### Lecture Part 2
+
+![[08-26-2026-cmos-gates - class-notes.pdf]]
 # 2. Lecture & Discussion Notes
 
 ## CMOS Types
@@ -93,7 +99,7 @@ There is no potential on either side of the circuit, and no current flow
 
 **Transistor 2**:
 
-There is a difference on both sides, with the left side having a smaller 
+There is a difference on both sides, with the left side having a smaller amount
 
 - Saturation
 - Left→Right
@@ -119,8 +125,21 @@ Vth is high enough, but both sides have the same potential. There is no potentia
 - N/A
 - N/A
 
-*Quiz will need the answers for every single one*
+**Transistor 5**: 
 
+Gate has high enough potential, and the left side has a higher potential than the right. However, the left side does not have a high enough value to be $V_{G}-V_{th}$, so it is linear
+
+- Linear
+- Left → Right
+- A is the drain, B is the source
+
+**Transistor 6**:
+
+Gate has enough potenial, with the right side having a higher potential than the left. However, it is not $V_{G}-V_{th}$, so it is linear
+
+- Linear
+- Right → Left
+- B is the drain, A is the source
 ### p-type transistor
 
 - Due to the transistor difference, the *majority* carriers are attracted to the gate instead of the minority
@@ -171,6 +190,12 @@ The potential is
 - B is the source, A is the drain
 
 **Transistor 4**:
+
+The gate is at a low-enough potential, and both sides are above said potential. 
+
+- Linear 
+- B to A
+- B is the source, A is the drain
 
 ### CMOS: N and P Type
 
@@ -342,6 +367,6 @@ Transmission quality can become very poor as we compound more and more transisto
 
 
 # 3. Action Items & Follow-Up
-- [ ] CMOS Quiz 1 ⏫ 📅 2026-08-31
-- [ ] CMOS Quiz 2 ⏫ 📅 2026-08-31 
-- [ ] Review everything📅 2026-08-31 
+- [x] CMOS Quiz 1 ⏫ 📅 2026-08-31 ✅ 2026-08-28
+- [x] CMOS Quiz 2 ⏫ 📅 2026-08-31 ✅ 2026-08-28
+- [x] Review everything 🔼 📅 2026-08-31 ✅ 2026-08-31

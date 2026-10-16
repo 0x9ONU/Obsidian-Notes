@@ -10,11 +10,6 @@
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
   "anthropicApiKey": "",
-  "azureOpenAIApiKey": "",
-  "azureOpenAIApiInstanceName": "",
-  "azureOpenAIApiDeploymentName": "",
-  "azureOpenAIApiVersion": "",
-  "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
@@ -24,7 +19,6 @@
   "defaultChainType": "llm_chain",
   "defaultModelKey": "deepseek-v4-flash|deepseek",
   "embeddingModelKey": "text-embedding-3-small|openai",
-  "temperature": 0.1,
   "contextTurns": 15,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
@@ -263,13 +257,6 @@
       "apiKey": ""
     },
     {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "apiKey": ""
-    },
-    {
       "name": "deepseek-chat",
       "provider": "deepseek",
       "enabled": true,
@@ -415,14 +402,6 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "apiKey": ""
-    },
-    {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "apiKey": ""
     }
   ],
   "embeddingRequestsPerMin": 60,
@@ -451,6 +430,8 @@
   "selfHostSearchProvider": "firecrawl",
   "firecrawlApiKey": "",
   "perplexityApiKey": "",
+  "parallelApiKey": "",
+  "exaApiKey": "",
   "supadataApiKey": "",
   "docProcessorBackend": "plus",
   "enableLexicalBoosts": true,
@@ -494,6 +475,7 @@
   "providers": {},
   "configuredModels": [],
   "backends": {},
+  "temperature": 0.1,
   "generateAIChatTitleOnSave": true,
   "showSuggestedPrompts": true,
   "showRelevantNotes": true,
@@ -508,5 +490,5 @@
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
   "_keychainVaultId": "61f3ba71",
-  "settingsVersion": 11
+  "settingsVersion": 12
 }
