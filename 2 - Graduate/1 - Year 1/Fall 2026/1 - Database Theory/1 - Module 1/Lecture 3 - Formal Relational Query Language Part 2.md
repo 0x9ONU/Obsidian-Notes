@@ -188,5 +188,5 @@ Find the **largest salary** in the university
 ![[Pasted image 20260828095814.png]]
 
 # 3. Action Items & Follow-Up
-- [ ] Review Notes📅 2026-08-31 
+- [x] Review Notes 📅 2026-08-31 ✅ 2026-08-30
 - [ ] 

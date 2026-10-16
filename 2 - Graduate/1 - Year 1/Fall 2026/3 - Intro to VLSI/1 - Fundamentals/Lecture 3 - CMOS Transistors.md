@@ -231,7 +231,7 @@ CMOS is a combination of both transistor types
 
 ![[Pasted image 20260826131346.png]]
 
-#### In terms of an n-type transistor with a single-sided capacitor
+#### In terms of an n-type transistor going low→high
 
 **Initial Condition**
 - Gate has a voltage of $0$, so the gate is closed and the transistor is in cutoff
@@ -251,10 +251,10 @@ CMOS is a combination of both transistor types
 
 ```mermaid
 flowchart TD
-A(Cutoff)--Gate Voltage Added-->B(Saturation w/ current flow)--Capacitor discharges to 4.3-->C(Linear w/ current flow)--Discharged to zero -->D(Linear w/o current flow)
+A(Cutoff)--Gate Voltage Added-->B(Saturation w/ current flow to the left)--Capacitor discharges to 4.3-->C(Linear w/ current flow)--Discharged to zero -->D(Linear w/o current flow)
 ```
 
-#### N-type transistor with two parasitic capacitor
+#### N-type transistor going high → low
 
 ```mermaid
 flowchart TD
@@ -279,7 +279,7 @@ This is considered poor logic high because there are two floating capacitor node
 
 ![[Pasted image 20260826133020.png]]
 
-#### One Capacitor
+#### p-type high→low logic
 
 ```mermaid
 flowchart TD
@@ -299,7 +299,7 @@ This is a bad logic "0"/LOW
 ```mermaid
 flowchart TD
 
-A(Cutoff with high gate)--Remove gate voltage-->B(Saturation from left/right)--Capacitor is charged to 0.7-->C(Linear with current flow from left/right)--Capacitor is charged to 5-->D(Capacitor is charged and current flow stops)
+A(Cutoff with high gate)--Remove gate voltage-->B(Saturation from left/right)--Capacitor is charged to 0.7-->C(Linear with current flow from left/right)--Capacitor is charged to 5-->D(Capacitor is charged and current flow stops aka. cutoff)
 ```
 
 ```ad-note

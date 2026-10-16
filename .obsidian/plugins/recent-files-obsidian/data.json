@@ -1,56 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Lecture 3 - Operating Systems Fundamentals Day 2",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 3 - Operating Systems Fundamentals Day 2.md"
-    },
-    {
-      "basename": "Lecture 3 - Operating Systems Fundamentals Day 2 2026-08-28 10.30.04.excalidraw",
-      "path": "General Notes/Lecture 3 - Operating Systems Fundamentals Day 2 2026-08-28 10.30.04.excalidraw.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "Lecture 3 - Formal Relational Query Language Part 2",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 3 - Formal Relational Query Language Part 2.md"
-    },
-    {
-      "basename": "03-formal-relational-query-language-RA",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/03-formal-relational-query-language-RA.pdf"
-    },
-    {
-      "basename": "Lecture 2 - Formal Relational Query Language",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 2 - Formal Relational Query Language.md"
-    },
-    {
-      "basename": "New Gradaute Student Orientation Gen Session",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/New Gradaute Student Orientation Gen Session.md"
+      "basename": "Lecture 2 - Switching Circuits and Switching Expressions",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md"
     },
     {
       "basename": "Lecture 3 - CMOS Transistors",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 3 - CMOS Transistors.md"
     },
     {
-      "basename": "Lecture 1 - Projects found in the CS World",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Lecture 1 - Projects found in the CS World.md"
-    },
-    {
-      "basename": "cmos-transistors-presentation-notes",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Materials/cmos-transistors-presentation-notes.pdf"
+      "basename": "Lecture 3 - Operating Systems Fundamentals Day 2",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 3 - Operating Systems Fundamentals Day 2.md"
     },
     {
       "basename": "Lecture 2 - Operating System Fundamentals",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/1 - Fundamental Concepts/Lectures/Lecture 2 - Operating System Fundamentals.md"
-    },
-    {
-      "basename": "Lecture 2 - Operating System Fundamentals 2026-08-26 10.13.31.excalidraw",
-      "path": "General Notes/Lecture 2 - Operating System Fundamentals 2026-08-26 10.13.31.excalidraw.md"
-    },
-    {
-      "basename": "Lecture 2 - Operating System Fundamentals 2026-08-26 10.33.38.excalidraw",
-      "path": "General Notes/Lecture 2 - Operating System Fundamentals 2026-08-26 10.33.38.excalidraw.md"
     },
     {
       "basename": "sl1",
@@ -61,12 +25,48 @@
       "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/0 - Intro & Syllabus/Lecture 1 - Syllabus & Course Outcomes.md"
     },
     {
-      "basename": "02-relational-model",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/02-relational-model.pdf"
+      "basename": "Lecture 3 - Formal Relational Query Language Part 2",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 3 - Formal Relational Query Language Part 2.md"
     },
     {
-      "basename": "Lecture 2 - Switching Circuits and Switching Expressions",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md"
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Lecture 2 - Formal Relational Query Language",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 2 - Formal Relational Query Language.md"
+    },
+    {
+      "basename": "03-formal-relational-query-language-RA",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/03-formal-relational-query-language-RA.pdf"
+    },
+    {
+      "basename": "Lecture 3 - Operating Systems Fundamentals Day 2 2026-08-28 10.30.04.excalidraw",
+      "path": "General Notes/Lecture 3 - Operating Systems Fundamentals Day 2 2026-08-28 10.30.04.excalidraw.md"
+    },
+    {
+      "basename": "New Gradaute Student Orientation Gen Session",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/New Gradaute Student Orientation Gen Session.md"
+    },
+    {
+      "basename": "Lecture 1 - Projects found in the CS World",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/0 - Orientation & Seminar/Lecture 1 - Projects found in the CS World.md"
+    },
+    {
+      "basename": "cmos-transistors-presentation-notes",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Materials/cmos-transistors-presentation-notes.pdf"
+    },
+    {
+      "basename": "Lecture 2 - Operating System Fundamentals 2026-08-26 10.13.31.excalidraw",
+      "path": "General Notes/Lecture 2 - Operating System Fundamentals 2026-08-26 10.13.31.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 2 - Operating System Fundamentals 2026-08-26 10.33.38.excalidraw",
+      "path": "General Notes/Lecture 2 - Operating System Fundamentals 2026-08-26 10.33.38.excalidraw.md"
+    },
+    {
+      "basename": "02-relational-model",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Materials/02-relational-model.pdf"
     },
     {
       "basename": "Lecture 1 - Course Outcomes and Syllabus",
