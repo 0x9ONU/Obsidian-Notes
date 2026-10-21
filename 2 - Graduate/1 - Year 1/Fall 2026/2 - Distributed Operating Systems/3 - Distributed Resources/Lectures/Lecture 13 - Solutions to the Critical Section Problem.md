@@ -65,7 +65,7 @@ However, for D-OS, we often use **DLE**
 How will we handle one producer out of a lot of the same consumers?
 ```
 
-Well see[[Lecture 14 - Deadlock| The Next Lecture]] ig lol.
+Well see[[Lecture 14 - Locks & Atomics| The Next Lecture]] ig lol.
 
 ### DLE Layout
 
@@ -101,8 +101,8 @@ Assume that the teacher leaves the classroom in grade school. Someone becomes th
 
 ## The Classical CPU Sync Problems
 1. Producer/Consumer Dynamic
-2. Sleeping Teaching Assistant → *friday solution…* [[Lecture 14 - Deadlock]]
-3. Sleeping Barber → Multiple sleeping barbers are placed in front of hairdressing chairs when multiple customers walk in. *friday solution…* [[Lecture 14 - Deadlock]]
+2. Sleeping Teaching Assistant → *friday solution…* [[Lecture 14 - Locks & Atomics]]
+3. Sleeping Barber → Multiple sleeping barbers are placed in front of hairdressing chairs when multiple customers walk in. *friday solution…* [[Lecture 14 - Locks & Atomics]]
 4. Sleeping Philosopher
 5. Dining Philosopher
 6. Cigarette Smoker Problem → Monitors + Semaphores (*Hybrid Solution*)

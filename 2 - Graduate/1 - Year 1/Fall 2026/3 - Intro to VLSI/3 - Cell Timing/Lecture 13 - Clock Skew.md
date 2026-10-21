@@ -590,7 +590,7 @@ The minimum value of skew must be $\delta = -7$ to ensure the second path can pe
 
 # 3. Action Items & Follow-Up
 - [x] Review Lecture 13 for VLSI 📅 2026-10-07 ✅ 2026-10-07
-- [ ] HW 3 for VLSI 📅 2026-10-17 ⏫ 
+- [x] HW 3 for VLSI ⏫ 📅 2026-10-17 ✅ 2026-10-20
 - [x] Quiz [[Lecture 13 - Clock Skew#Clocking 4-5|Clocking 4]] ⏫ 📅 2026-10-13 ✅ 2026-10-06
 - [x] Quiz [[Lecture 13 - Clock Skew|Clocking 5]] ⏫ 📅 2026-10-13 ✅ 2026-10-06  
 - [x] Quiz [[Lecture 13 - Clock Skew#Clocking 6|Clocking 6]] ⏫ 📅 2026-10-13 ✅ 2026-10-06

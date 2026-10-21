@@ -294,4 +294,4 @@ UNDERSTAND THE QUIZ QUESTIONS
 
 
 # 3. Action Items & Follow-Up
-- [ ] Review Lecture 15 for VLSI📅 2026-10-16 
+- [x] Review Lecture 15 for VLSI 📅 2026-10-16 ✅ 2026-10-20

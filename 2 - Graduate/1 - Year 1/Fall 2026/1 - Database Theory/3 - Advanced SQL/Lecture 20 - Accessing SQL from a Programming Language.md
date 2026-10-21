@@ -268,7 +268,7 @@ EXEC SQL
 	where tot_cred > :credit_amount;
 ```
 
-Look at notes for more
+
 # 3. Action Items & Follow-Up
 - [x] Review lecture 20 for Databases 📅 2026-10-12 ✅ 2026-10-14
-- [ ] DB HW2 ⏫ 📅 2026-10-20 
+- [x] DB HW2 ⏫ 📅 2026-10-20 ✅ 2026-10-19
