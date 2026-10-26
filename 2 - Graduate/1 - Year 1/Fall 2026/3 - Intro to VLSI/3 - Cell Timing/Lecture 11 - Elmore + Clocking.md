@@ -182,7 +182,7 @@ $$
 #### Elmore 7
 
 WRONG GO OVER THIS #comebacklater 
-- [ ] Fix Elmore 7 📅 2026-10-01 
+- [x] Fix Elmore 7 📅 2026-10-01 ✅ 2026-10-21
 The best case rise vector would be: (110)→(011)
 - The g-cap is discharged, but, it will be closed off when B and C switch off 
 - We unfortunately cannot avoid the h cap
@@ -205,7 +205,7 @@ $$
 
 
 WRONG GO OVER THIS #comebacklater 
-- [ ] Fix Elmore 8 📅 2026-10-01 
+- [x] Fix Elmore 8 📅 2026-10-01 ✅ 2026-10-21
 
 The best case fall vector would be: (011)→(101)
 - The bottom capacitor would not be charged and will not discharge during the fall time

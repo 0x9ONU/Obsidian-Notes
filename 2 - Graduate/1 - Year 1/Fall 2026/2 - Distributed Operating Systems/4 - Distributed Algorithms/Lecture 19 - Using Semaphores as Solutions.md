@@ -133,6 +133,6 @@ finish[i]=false for i=0,1,...,n-1
 
 
 # 3. Action Items & Follow-Up
-- [ ] Review Lecture 19 for D-OS 📅 2026-10-09
+- [x] Review Lecture 19 for D-OS 📅 2026-10-09 ✅ 2026-10-21
 - [x] Understand hospital problem 📅 2026-10-09 ✅ 2026-10-19
 - [x] Start Anki study deck for D-OS midterm 📅 2026-10-09 ✅ 2026-10-19

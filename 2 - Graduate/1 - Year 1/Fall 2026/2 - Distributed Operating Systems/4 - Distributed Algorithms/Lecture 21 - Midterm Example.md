@@ -221,4 +221,4 @@ A process writes a value, while B process reads it
 - D-OS shared memory is implemented using network communication, replicated state, distributed shared-memory mechanisms, chases, or a database
 - **Memory mapping** is *critical*
 # 3. Action Items & Follow-Up
-- [ ] Review Lecture 21 for D-OS 📅 2026-10-16
+- [x] Review Lecture 21 for D-OS 📅 2026-10-16 ✅ 2026-10-26

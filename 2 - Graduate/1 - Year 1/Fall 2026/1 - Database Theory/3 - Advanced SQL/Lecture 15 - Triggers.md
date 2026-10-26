@@ -170,4 +170,4 @@ Triggers can also just objectively be the worst way for executing actions someti
 
 # 3. Action Items & Follow-Up
 - [x] Review Lecture 15 for Databases 📅 2026-09-30 ✅ 2026-09-30
-- [ ] Databases Report 2 📅 2026-10-25 ⏫  
+- [x] Databases Report 2 ⏫ 📅 2026-10-25 ✅ 2026-10-26  

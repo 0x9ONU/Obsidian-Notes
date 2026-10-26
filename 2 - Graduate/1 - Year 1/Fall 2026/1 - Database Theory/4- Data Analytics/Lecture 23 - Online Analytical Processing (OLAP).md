@@ -252,6 +252,9 @@ group by rollup(item_name, color, size)
 This will generate union of four groupings:
 `{(item_name, color, size), (item_name, color), (item_name), ()}`
 
+```ad-warning
+Remember that rollup **order matters**. The `color` and `size` attributes will be rolled up, unlike the front value (`item_name`)
+```
 #### With Hierarchy
 
 Can also be used on *multiple levels* of **hierarchy**:
@@ -293,4 +296,4 @@ group by grouping sets ((color, clothes_size), (clothes_size, item_name));
 
 
 # 3. Action Items & Follow-Up
-- [x]  ✅ 2026-08-24
+- [x] Review Lecture 23 for Databases 📅 2026-10-21 ✅ 2026-10-21

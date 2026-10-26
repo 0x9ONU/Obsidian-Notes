@@ -8,7 +8,7 @@ tags:
   - status/todo
 author: Ethan Berei
 ---
-# 1. Introduction / Pre-Class Notes
+\# 1. Introduction / Pre-Class Notes
 
 ```ad-abstract
 title: Summary

@@ -4,24 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd520ebdbea6fde",
+        "id": "7cb53a889778d945",
         "type": "tabs",
         "children": [
           {
-            "id": "4e4a92ca6277fdc1",
+            "id": "726d10713b05a982",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 12 - Clocking Constraints.md",
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12 - Clocking Constraints"
+              "title": "HERTZ 2026 - Brief Essay 1"
+            }
+          },
+          {
+            "id": "981ccf83e222d319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HERTZ 2026 - Brief Essay 2"
+            }
+          },
+          {
+            "id": "4679c8d349eee318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HERTZ 2026 - Brief Essay 3"
+            }
+          },
+          {
+            "id": "ee2278fbfe52fcab",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Schedule.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "HERTZ 2026 Schedule"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roles",
+                "query": "tag:status/todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -297,54 +347,54 @@
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "4e4a92ca6277fdc1",
+  "active": "981ccf83e222d319",
   "lastOpenFiles": [
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 3.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 2.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Schedule.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ 2026 - Honors and Fellowships.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 1.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/5 - Dynamic Logic/Lecture 16 -  Dynamic Logic Introduction.md",
+    "General Notes/Lecture 16 -  Dynamic Logic Introduction 2026-10-26 14.57.41.excalidraw.md",
+    "General Notes/Lecture 16 -  Dynamic Logic Introduction 2026-10-26 14.49.13.excalidraw.md",
+    "General Notes/Pasted image 20261026135130.png",
+    "General Notes/Pasted image 20261026134637.png",
+    "General Notes/Pasted image 20261026134633.png",
+    "General Notes/Pasted image 20261026134411.png",
+    "General Notes/Pasted image 20261026134112.png",
+    "General Notes/Pasted image 20261026134107.png",
+    "General Notes/Pasted image 20261026134003.png",
+    "General Notes/Pasted image 20261026133832.png",
+    "General Notes/Pasted image 20261026133819.png",
+    "General Notes/Pasted image 20261026133814.png",
+    "Tasks.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG Summary.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG 2026 Schedule.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Summary.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/5 - Dynamic Logic",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 25 -.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Lecture 25 - Transaction Management Introduction.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Materials/07-transaction-management.pdf",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 24 - OLAP Implementation.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 23 - Online Analytical Processing (OLAP).md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/Supporting Material/CSGF 2026 High-performance Computing.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 24 - Service Numericals.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 23 - Hadoop Chunk Implementation.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/Misc/Guess Lecture 1 - 5th 3rd Bank.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 8 - Topology-to-Layout Methodologies.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/Misc",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 9 - Cell Timing Characteristics.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 10 - Elmore Delay.md",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 11 - Elmore + Clocking.md",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 12 - Clocking Constraints.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 10 - Elmore Delay.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 9 - Cell Timing Characteristics.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 8 - Topology-to-Layout Methodologies.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 7 - Art of Layout.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 14 - Dynamic Performance Analysis.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 6 - Gate Sizing and Performance Metrics.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 5 - CMOS Design Part 2.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 4 - CMOS Design.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 3 - CMOS Transistors.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/4 - Verilog HDL/Lecture 15 - Introduction to Verilog.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 22 - Data Warehousing.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 21 - Data Analytics Introduction.md",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/3 - Cell Timing/Lecture 13 - Clock Skew.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 22 - Hadoop Introduction.md",
-    "General Notes/Pasted image 20261019105436.png",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Materials/Hadoop Ecosystem.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 14 - Locks & Atomics.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 23 - Online Analytical Processing (OLAP).md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/Misc",
+    "1 - Undergrad/3 - Junior Year/Fall 2024/Hardware Security/Week 13/Materials/Lecture 24.pdf",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Materials",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management",
     "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Materials/06-data-analytics.pdf",
-    "General Notes/Pasted image 20261019095342.png",
-    "General Notes/Pasted image 20261019094434.png",
-    "General Notes/Pasted image 20261019094233.png",
-    "General Notes/Pasted image 20261019094136.png",
-    "General Notes/Pasted image 20261019093703.png",
-    "General Notes/Pasted image 20261019093029.png",
-    "General Notes/Pasted image 20261019092712.png",
-    "General Notes/Pasted image 20261019092628.png",
-    "General Notes/Pasted image 20261019091938.png",
-    "Tasks.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Lecture 20 - Accessing SQL from a Programming Language.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Lecture 19 - Windowing and Ranking.md",
-    "file:/home/berei/Downloads/pwl_vectors.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- Intermediate SQL/Lecture 12 - SQL Data Types and Schemas.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- Intermediate SQL/Lecture 13 - In-Class Activity 3- Access Control & Authorization.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/2- Intermediate SQL/Lecture 10 - Transactions.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Materials/Hadoop Ecosystem.pdf",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Materials/DCLE.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/4 - Verilog HDL",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Materials",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Materials/05-advanced-SQL.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Materials/ch7 Deadlocks.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Materials/sl7.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Materials/ch7 Deadlocks.ppt",
     "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Untitled.canvas",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
