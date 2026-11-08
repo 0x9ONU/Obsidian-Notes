@@ -74,8 +74,8 @@ Multiple clients should be able to access the database concurrently
 #### Problem with Serial Schedules
 
 ```ad-summary
-A database must provide a mehcanism that will esnure that all possbile scheudlaes are:
-1. either conflict or view seriazable, and
+A database must provide a mechanism that will ensure that all possbile schedules are:
+1. either conflict or view serializable, and
 2. recoverable and preferably cascadeless
 ```
 
@@ -155,6 +155,151 @@ A collection of actions that *preserve consistency*
 ![[Pasted image 20261026095500.png]]
 ```
 
+```ad-warning
+title: Assumption
+If $T$ starts with consistent state and $T$ executes in isolation, then $T$ leaves the database in a consistent state.
+```
+
+### ACID
+
+1. **Atomicity**: Either all or no commands of transaction are executed
+2. **Consistency**: After transaction DB is consistent (if before consistent)
+3. **Isolation**: Transactions are running isolated from each other
+	- Although multiple transactions may execute concurrently, each transaction must be unaware of other concurrently executing transactions.
+4. **Durability**: Modifications of transactions are never lost.
+
+### Transaction Model
+
+**Operations**:
+1. **Read($A$)**: read value of data item $A$
+2. **Write($A$)**: Write a new value of data item $A$
+3. **Commit**: Commit changes of the transaction
+4. **Abort**: Revert changes made by the transaction
+
+```ad-summary
+title: Definition
+**Data Items**: Objects in the database
+- Usually we consider tuples(rows) or disk pages
+```
+
+#### Example: Applying ACID
+
+Transaction to transfer $50 from account A to account B:
+
+```
+Read(A)
+A := A - 50
+Write(A)
+Read(B)
+B := B + 50
+Write(B)
+```
+
+1. **Atomicity**: If the transaction fails after step 3 and before step 6
+	- Money will be “lost”, leading to inconsistencies
+	- Partially executed transaction should not be reflected
+2. **Consistency**: The sum of A and B is unchanged by the execution of the transaction
+	- Need to explicitly specified integrity constrains (*Primary* and *Foreign* keys)
+	- Implict integrity constraints
+	- A transaction must see a consistent database (*not*  **during transaction execution**)
+	- When the transaction completes successfully, the database must be consistent
+3. **Isolation**: If between steps 3 and 6,a another transaction $T_{2}$ is allowed to access the partially updated database (prints the total sum of A+B)
+	- It will see an inconsistent database, which should not be possible
+	- One solution is to keep a snapshot so that $T_{2}$ reads the data when it was consistent even when it is called during the transaction
+	- **Locking Mechanisms** 
+4. **Durability**: Once the user has been notified that the transaction has completed (ex. the transfer of the $50 has taken place)
+	- The updates must persist to keep the user up-to-date on the state of the database
+
+### Transaction State
+
+![[Pasted image 20261028093458.png]]
+
+**States**
+1. **Active**: The initial state; the transactions stays in this state while it is executing
+2. **Partially Committed**: After the final statement has been executed (still possible to be **aborted** even after the transaction is completed)
+3. **Failed**: after the discovery that the normal execution can no longer proceed
+4. **Aborted**: After the transaction has been rolled back and the database restored to its state prior to the start of the transaction
+	- *Option 1*: Restart the transaction (if possible)
+	- *Option 2*: Kill the transaction
+5. **Committed**: After successful completion
+
+*Operations*
+1. $\text{Input}(x)$: Block containing $x \to$ memory
+2. $\text{Output}(x)$: Block containing $x \to$ disk
+3. $\text{Read}(x,t)$: Do $\text{Input(x)}$ if necessary
+	- $t \leftarrow$ value of $x$ in block
+4. $Write(x,t)$: Do $\text{Input}(x)$ if necessary
+	- value of $x$ in block $\leftarrow t$
+
+#### Example: Unfinished Transaction
+
+```ad-note
+- Constraint = $A = B$
+- where:
+	- $A \leftarrow A \times 2$
+	- $B \leftarrow B \times 2$
+```
+
+![[Pasted image 20261028094033.png]]
+
+```
+Read(A, t);
+t <- t x 2
+Write(A, t);
+Read(B, t);
+t <- t x 2
+Write(B, t)
+Output(A);
+Output(B);
+```
+
+**Successful!**
+
+![[Pasted image 20261028094144.png]]
+
+![[Pasted image 20261028094139.png]]
+
+*Failure!*
+
+![[Pasted image 20261028094318.png]]
+
+```ad-important
+1. **Atomicity** needs to be held: All actions of a transaction must be held or none at all
+2. On *success*, we have to **commit**
+3. On *failure*, we have to **abort** an instruction to the last statement (before either output)
+```
+
+### Restoring Consistent State After Crash
+
+```ad-note
+We want the following after recovery:
+1. Changes of commited transactions should be reflected on the disk.
+2. Changes of unfinished transactions should *not* be reflected on the disk.
+```
+
+
+From the previous example, we need to undo the write to $A$ to recover the consistent state.
+
+![[Pasted image 20261028094855.png]]
+
+```ad-question
+What is the desired behavior here? Which transactions should be kept and which ones need to be aborted? 
+```
+
+- $T_{1}, T_{2}, T_{3}$ should be durable and written to the disk
+- $T_{4}$ and $T_{5}$ should be aborted and re-written.
+
+```ad-important
+Therefore, after a crash we need to:
+1. **Undo** changes of unfinished transactions
+2. **Redo** changes of finished transactions
+
+This can be done via:
+1. Storing additional data for Undo/Redo
+2. Avoid situations if possbile
+```
+
+See [[Lecture 26 - Transaction Logging]] For more information!
 
 # 3. Action Items & Follow-Up
-- [ ] Review lecture 25 for Database theory 📅 2026-10-28 
+- [x] Review lecture 25 for Database theory 📅 2026-10-30 ✅ 2026-10-30

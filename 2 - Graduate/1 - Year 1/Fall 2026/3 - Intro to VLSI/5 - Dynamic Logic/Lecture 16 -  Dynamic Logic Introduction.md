@@ -181,6 +181,7 @@ Take the original gate and use De Morgan’s on any inverted gates to turn them 
 ```
 
 ![[Pasted image 20261026133814.png]]
+
 ![[Pasted image 20261026133819.png]]
 
 ![[Pasted image 20261026133832.png]]
@@ -216,9 +217,47 @@ Instead, we will do evaluation on the P-type (logic high), and discharge during 
 | 1   | 0   | 1   | Strong          |
 | 1   | 1   | 0   | Weak (floating) |
 
+```ad-warning
+Not preferred over n-type beacause:
+1. PMOS takes up 2x3 times the area for the same performance
+2. If not, the rise time will take significantly longer than its fall time
+```
 #### Basic Layout of Zipper Logic
 
 ![[Pasted image 20261026135130.png]]
+
+- **$S$, Setup** ($\phi = 0$): The n-type stage is pre-charged, while the p-type is pre-discharged.
+- $E$, **Evaluation** ($\phi = 1$): $f$ may fall from $1 \to 0$. WHen that happens, the falling $f$ can only turn a PMOS in a PUN on, so $g$ may rise $0 \to 1$.
+
+```ad-note
+No inverter is needed since the PMOS automatically inverts the input
+```
+
+#### Example: An n-type NAND driving a p-type NAND
+
+![[Pasted image 20261028123453.png]]
+
+*Evaluation Steps*:
+1. Setup: $f=1$ and $g=0$
+2. Evaluation: $A=B=1$, so the n-type NAND pulls $f$ to a strong 0.
+3. $f=0$, which turns its PMOS in the p-type NANND< which pulsl $g$ to a strong 1.
+4. $C=1$ keeps the other PMOS off. $g=NAND(0,1)=1$
+
+```ad-important
+$f$ only falls and $g$ only rises, so *neither* evaluate too early.
+```
+
+### General Dynamic Logic Design
+
+```ad-summary
+You can combine both the domino-style and the zipper-style logic together!
+```
+
+![[Pasted image 20261028123755.png]]
+
+```ad-warning
+From n to p stages and vice versa, no inverters are needed. HOWEVER, from n-type to n-type and p-type and p-type, a static inverter is needed (+2 transistors).
+```
 
 ## Quizes
 
@@ -297,9 +336,9 @@ $f$ and $h$ are positive functions, each impelmented by a domino gate. All inver
 
 
 # 3. Action Items & Follow-Up
-- [ ] Review Lecture 16 for VLSI 📅 2026-10-28 
-- [ ] HW4 for VLSI 📅 2026-11-03 ⏫ 
-- [ ] [[Lecture 16 -  Dynamic Logic Introduction#Dynamic Quiz 1|Dynamic Quiz 1]] for VLSI 📅 2026-11-02 ⏫ 
-- [ ] [[Lecture 16 -  Dynamic Logic Introduction#Dynamic Quiz 2|Dynamic Quiz 2]] for VLSI 📅 2026-11-02 ⏫ 
-- [ ] [[Lecture 16 -  Dynamic Logic Introduction#Dynamic Quiz 3|Dynamic Quiz 3]] for VLSI 📅 2026-11-02 ⏫ 
-- [ ] [[Lecture 16 -  Dynamic Logic Introduction#Dynamic Quiz 4|Dynamic Quiz 4]] for VLSI 📅 2026-11-02 ⏫ 
+- [x] Review Lecture 16 for VLSI 📅 2026-10-28 ✅ 2026-10-28
+- [x] HW4 for VLSI ⏫ 📅 2026-11-03 ✅ 2026-11-04
+- [x] [[Lecture 16 -  Dynamic Logic Introduction#Dynamic Quiz 1|Dynamic Quiz 1]] for VLSI ⏫ 📅 2026-11-02 ✅ 2026-10-26
+- [x] [[Lecture 16 -  Dynamic Logic Introduction#Dynamic Quiz 2|Dynamic Quiz 2]] for VLSI ⏫ 📅 2026-11-02 ✅ 2026-10-26
+- [x] [[Lecture 16 -  Dynamic Logic Introduction#Dynamic Quiz 3|Dynamic Quiz 3]] for VLSI ⏫ 📅 2026-11-02 ✅ 2026-10-26
+- [x] [[Lecture 16 -  Dynamic Logic Introduction#Dynamic Quiz 4|Dynamic Quiz 4]] for VLSI ⏫ 📅 2026-11-02 ✅ 2026-10-26

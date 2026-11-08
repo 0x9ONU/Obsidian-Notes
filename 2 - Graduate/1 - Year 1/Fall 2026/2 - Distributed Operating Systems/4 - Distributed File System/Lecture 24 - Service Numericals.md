@@ -95,7 +95,6 @@ ACVMs selling KitKat, Milk, Fruit and Nuts, Nougat and Oreo choclates. Assume 24
 
 
 
-
 ## Querying More Simply
 
 **HBase** can be used to return data that is more readable for the average user.

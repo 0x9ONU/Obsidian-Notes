@@ -1,10 +1,10 @@
 ---
-creation_date: 2026-10-26 10:22
-last_modified: 2026-10-26 10:22
-folder: 4 - Distributed Algorithms
+creation_date: 2026-11-06 09:05
+last_modified: 2026-11-06 09:05
+folder: 6 - Datalogging
 tags:
   - type/lecture
-  - field/distributed-operating-systems
+  - field/database-theory
   - status/todo
 author: Ethan Berei
 ---
@@ -17,5 +17,13 @@ title: Summary
 ## Pre-Class Notes
 # 2. Lecture & Discussion Notes
 
+## History
+
+
+
+## Introduction
+
+
+
 # 3. Action Items & Follow-Up
-- [x]  ✅ 2026-08-24
+- [ ] Review Lecture 28 for Databases 📅 2026-11-11 

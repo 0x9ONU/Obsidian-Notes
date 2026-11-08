@@ -1,28 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "HERTZ 2026 - Brief Essay 2",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 2.md"
+      "basename": "Distributed Operating Systems - Assignment 2 - Berei",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/* - Assignments/Assignment 2/Distributed Operating Systems - Assignment 2 - Berei.md"
     },
     {
-      "basename": "HERTZ 2026 - Brief Essay 3",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 3.md"
+      "basename": "6-9-2025 Meeting",
+      "path": "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md"
+    },
+    {
+      "basename": "6-17-2025 Meeting Minutes",
+      "path": "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md"
+    },
+    {
+      "basename": "Lecture 28 - Access Matrices",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/5 - Deadlocking in DOS/Lecture 28 - Access Matrices.md"
+    },
+    {
+      "basename": "Lecture 27 - Deadlock Numerical",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/5 - Deadlocking in DOS/Lecture 27 - Deadlock Numerical.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Lecture 27 - Transactions in SQL",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Lecture 27 - Transactions in SQL.md"
+    },
+    {
+      "basename": "Lecture 28 - Datalogging Introduction",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Lecture 28 - Datalogging Introduction.md"
+    },
+    {
+      "basename": "07-transaction-management",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Materials/07-transaction-management.pdf"
+    },
+    {
+      "basename": "08-datalog",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Materials/08-datalog.pdf"
+    },
+    {
+      "basename": "Lecture 26 - Transaction Logging",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Lecture 26 - Transaction Logging.md"
+    },
+    {
+      "basename": "Lecture 19 - Power Probability Computation and Wrap-Up",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/6 - Power Analysis/Lecture 19 - Power Probability Computation and Wrap-Up.md"
+    },
+    {
+      "basename": "Lecture 18 - Power Analysis Introduction",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/6 - Power Analysis/Lecture 18 - Power Analysis Introduction.md"
+    },
+    {
+      "basename": "Lecture 17 - More Types of Dynamic Gates",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/5 - Dynamic Logic/Lecture 17 - More Types of Dynamic Gates.md"
+    },
+    {
+      "basename": "Lecture 26 - More Numericals for DFS",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed File System/Lecture 26 - More Numericals for DFS.md"
+    },
+    {
+      "basename": "Potential Flow Detection Model",
+      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas"
+    },
+    {
+      "basename": "Spring 2026 Lit Review",
+      "path": "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md"
+    },
+    {
+      "basename": "Lecture 25 - Transaction Management Introduction",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Lecture 25 - Transaction Management Introduction.md"
     },
     {
       "basename": "HERTZ 2026 Schedule",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Schedule.md"
     },
     {
-      "basename": "HERTZ 2026 - Honors and Fellowships",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ 2026 - Honors and Fellowships.md"
+      "basename": "HERTZ 2026 - Personal Essay",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ 2026 - Personal Essay.md"
     },
     {
       "basename": "HERTZ 2026 - Brief Essay 1",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 1.md"
     },
     {
+      "basename": "HERTZ 2026 - Brief Essay 3",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 3.md"
+    },
+    {
+      "basename": "HERTZ 2026 - Brief Essay 2",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 2.md"
+    },
+    {
+      "basename": "HERTZ 2026 - Personal Essay Help",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ 2026 - Personal Essay Help.md"
+    },
+    {
+      "basename": "HERTZ - Project",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ - Project.md"
+    },
+    {
+      "basename": "HERTZ 2026 Summary",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Summary.md"
+    },
+    {
+      "basename": "HERTZ 2026 - Honors and Fellowships",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ 2026 - Honors and Fellowships.md"
+    },
+    {
       "basename": "Lecture 16 -  Dynamic Logic Introduction",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/5 - Dynamic Logic/Lecture 16 -  Dynamic Logic Introduction.md"
+    },
+    {
+      "basename": "Lecture 24 - Service Numericals",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed File System/Lecture 24 - Service Numericals.md"
+    },
+    {
+      "basename": "Lecture 25 - Hadoop Row-Key Families",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed File System/Lecture 25 - Hadoop Row-Key Families.md"
+    },
+    {
+      "basename": "Guess Lecture 1 - 5th 3rd Bank",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/Misc/Guess Lecture 1 - 5th 3rd Bank.md"
+    },
+    {
+      "basename": "Lecture 23 - Online Analytical Processing (OLAP)",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 23 - Online Analytical Processing (OLAP).md"
+    },
+    {
+      "basename": "Lecture 24 - OLAP Implementation",
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 24 - OLAP Implementation.md"
     },
     {
       "basename": "Lecture 16 -  Dynamic Logic Introduction 2026-10-26 14.57.41.excalidraw",
@@ -33,10 +145,6 @@
       "path": "General Notes/Lecture 16 -  Dynamic Logic Introduction 2026-10-26 14.49.13.excalidraw.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
       "basename": "NDSEG Summary",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG Summary.md"
     },
@@ -45,44 +153,12 @@
       "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/NDSEG/NDSEG 2026 Schedule.md"
     },
     {
-      "basename": "HERTZ 2026 Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Summary.md"
-    },
-    {
-      "basename": "Lecture 25 -",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 25 -.md"
-    },
-    {
-      "basename": "Lecture 25 - Transaction Management Introduction",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Lecture 25 - Transaction Management Introduction.md"
-    },
-    {
-      "basename": "07-transaction-management",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Materials/07-transaction-management.pdf"
-    },
-    {
-      "basename": "Lecture 24 - OLAP Implementation",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 24 - OLAP Implementation.md"
-    },
-    {
-      "basename": "Lecture 23 - Online Analytical Processing (OLAP)",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 23 - Online Analytical Processing (OLAP).md"
-    },
-    {
       "basename": "CSGF 2026 High-performance Computing",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/Supporting Material/CSGF 2026 High-performance Computing.md"
     },
     {
-      "basename": "Lecture 24 - Service Numericals",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 24 - Service Numericals.md"
-    },
-    {
       "basename": "Lecture 23 - Hadoop Chunk Implementation",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 23 - Hadoop Chunk Implementation.md"
-    },
-    {
-      "basename": "Guess Lecture 1 - 5th 3rd Bank",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/Misc/Guess Lecture 1 - 5th 3rd Bank.md"
+      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed File System/Lecture 23 - Hadoop Chunk Implementation.md"
     },
     {
       "basename": "Lecture 8 - Topology-to-Layout Methodologies",
@@ -123,82 +199,6 @@
     {
       "basename": "CSGF 2026 Personal Statement",
       "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/Supporting Material/CSGF 2026 Personal Statement.md"
-    },
-    {
-      "basename": "CSGF 2026 Program of Study Statement",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/Supporting Material/CSGF 2026 Program of Study Statement.md"
-    },
-    {
-      "basename": "CSGF 2026 Field-of-Interest Research Statement",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/Supporting Material/CSGF 2026 Field-of-Interest Research Statement.md"
-    },
-    {
-      "basename": "CSGF 2026 Summary",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/DOE CSGF/CSGF 2026 Summary.md"
-    },
-    {
-      "basename": "Midterm Exam Q&A",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/Misc/Midterm Exam Q&A.md"
-    },
-    {
-      "basename": "Lecture 15 - Introduction to Verilog",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/4 - Verilog HDL/Lecture 15 - Introduction to Verilog.md"
-    },
-    {
-      "basename": "Lecture 4 - CMOS Design",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 4 - CMOS Design.md"
-    },
-    {
-      "basename": "Lecture 3 - CMOS Transistors",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 3 - CMOS Transistors.md"
-    },
-    {
-      "basename": "Lecture 2 - Switching Circuits and Switching Expressions",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/1 - Fundamentals/Lecture 2 - Switching Circuits and Switching Expressions.md"
-    },
-    {
-      "basename": "Lecture 22 - Hadoop Introduction",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 22 - Hadoop Introduction.md"
-    },
-    {
-      "basename": "Lecture 24",
-      "path": "1 - Undergrad/3 - Junior Year/Fall 2024/Hardware Security/Week 13/Materials/Lecture 24.pdf"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
-    },
-    {
-      "basename": "06-data-analytics",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Materials/06-data-analytics.pdf"
-    },
-    {
-      "basename": "Lecture 22 - Data Warehousing",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 22 - Data Warehousing.md"
-    },
-    {
-      "basename": "Lecture 7 - Art of Layout",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 7 - Art of Layout.md"
-    },
-    {
-      "basename": "Lecture 6 - Gate Sizing and Performance Metrics",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 6 - Gate Sizing and Performance Metrics.md"
-    },
-    {
-      "basename": "Lecture 5 - CMOS Design Part 2",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/2 - CMOS Design/Lecture 5 - CMOS Design Part 2.md"
-    },
-    {
-      "basename": "Lecture 21 - Data Analytics Introduction",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/4- Data Analytics/Lecture 21 - Data Analytics Introduction.md"
-    },
-    {
-      "basename": "Lecture 14 - Locks & Atomics",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed Algorithms/Lecture 14 - Locks & Atomics.md"
-    },
-    {
-      "basename": "Lecture 20 - Accessing SQL from a Programming Language",
-      "path": "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/3 - Advanced SQL/Lecture 20 - Accessing SQL from a Programming Language.md"
     }
   ],
   "omittedPaths": [],
