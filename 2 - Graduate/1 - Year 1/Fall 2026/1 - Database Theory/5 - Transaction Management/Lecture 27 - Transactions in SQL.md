@@ -181,4 +181,4 @@ Only one trasnaction can hold a lock on an element at a time.
 
 # 3. Action Items & Follow-Up
 - [x] Review Lecture 27 for Databases 📅 2026-11-04 ✅ 2026-11-06
-- [ ] HW3 for Databases 📅 2026-11-06 ⏫ 
+- [x] HW3 for Databases ⏫ 📅 2026-11-06 ✅ 2026-11-13

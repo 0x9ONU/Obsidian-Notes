@@ -580,48 +580,401 @@ Both the input testing and the performance will be evaluated. Input vectors that
 
 #### Test 5B: `./smoker 100`
 
+![[Pasted image 20261108161025.png]]
+
 #### Test 6B: `./smoker 1000`
 
+![[Pasted image 20261108161912.png]]
+
 #### Test 7B: `./smoker 10000`
+
+![[Pasted image 20261108194853.png]]
+
 ## Problem 3: TA Problem
 
 ### Pseudocode
 
-Main
-- Takes and sanitizes inputs
-	1. Number of chairs
-	2. Number of students
-	3. Maximum arrival time
-- Assigns inputs to variables
-- Creates the TA thread
-- Creates that many student threads
-- Waits until all students have joined back
-- Signal TA to shutdown
-- Join TA back
-- Print out statistics
+```pseudo
+\begin{algorithm}
+\caption{Sleeping Barber Problem}
+\begin{algorithmic}
+\procedure{main}{argc, argv}
+	\state{Seed random number generator}
+	\state{Validate command-line arguments and parse positive integers}
+	\state{Set configuration: chairs, num\_students, maximum\_time}
+	\state{Initialize chair\_occupied array of size chairs to false}
+	\state{Spawn TA thread (ID 0)}
+	\state{Spawn student threads (IDs 1 to num\_students)}
+	\For{each student thread}
+		\state{Join student thread}
+	\EndFor
+	\state{Lock mutex, set shutdown\_TA to true, and notify TA\_cv}
+	\state{Join TA thread}
+	\state{Print final statistics report}
+\endprocedure
 
-TA thread
-- 
+\procedure{teaching_assistant}{id}
+	\state{Initialize barber's VectorClock}
+	\while{true}
+		\state{Lock mutex}
+		\If{Waiting queue is empty AND the program is still running}
+			\state{TA takes a nap waiting for students}
+			\state{Release the lock until waiting is not empty or the program is ready to terminate. Stalls until this is true}
+			\If{The waiting queue becomes not empty}
+				\state{The lock is reaquired as the TA wakes up}
+            \EndIf
+        \EndIf
+        \state{Read message from next student in queue}
+        \if{Student was waiting in a chair outside}
+	        \state{TA calls student in from the hallway}
+	    \Else
+		    \state{TA allows student to sit in the office seat}
+	    \endif
+	    \state{Update vector clock}
+	    \state{Signal to student that the session started}
+	    \state{Wait until session is over}
+	    \state{Update vector clock}
+	    \state{Signal to current student that the session is over}
+	    \state{Notify the next student that she is ready for another session}
+	\endwhile
+\endprocedure
 
-Student(s) thread
-
-
-
-
+\procedure{student}{id}
+	\state{Initialize customer's VectorClock}
+	\state{Lock Mutex}
+	\state{Update vector clock}
+	\state{Arrive at the TA office}
+	\while{true}
+		\if{Office is empty}
+			\state{Walk into office and wake up the TA}
+		\elseif{There is a free hallway chair}
+			\state{Choose the closest seat and wait until it is their turn}
+			\state{Push vector clock to queue}
+			\state{Notify the TA that a student arrived}
+			\state{Wait unitl the TA responds to their message and teaches them}
+			\state{Update vector clock}
+			\state{Leave office hours}
+		\Else
+			\state{Leave the office for a random amount of time and try again later}
+		\endif
+	\endwhile
+\endprocedure
+\end{algorithmic}
+\end{algorithm}
+```
 ### Instructions
 
+This implementation and testing is done completely via the bash command line and was compiled using the current stable`g++` build and tested on an Arch Linux personal system. The `.cpp` file is provided in the zip uploaded to Canvas as instructed. The syntax is as follows:
+
+```bash
+g++ main.cpp -o teaching
+./teaching <num_of_chairs> <num_of_students> <maximum_duration>
+```
 ### Alpha Testing
 
+The primary objective of the alpha testing is to ensure that the program functions as intended with intended inputs and boundaries. The following needs to be analyzed:
+1. TA fall asleep *only* when there are no students in the office
+2. TA’wake up when a student signals that they arrived after downtime
+3. TA choose the next student in line in a FCFS fashion
+4. TA signals specific student to come in
+5. TA teaches student and then releases them when done
+6. Student signals the TA to wake up if they are asleep
+7. If busy, the student will take the closest seat and queue and notify their time with the TA
+8. Student will go into the office once notified by the TA
+9. Student will leave once the session is over as notified by the TA
+10. Student will leave and come back later if everything is full
+
+#### Test 1A: `./teaching 3 5 2`
+
+![[Pasted image 20261109085536.png]]
+
+```ad-summary
+All objectives are completed by this run except the 10th one!
+```
+
+#### Test 2A: `./teaching 3 15 1`
+
+![[Pasted image 20261109085746.png]]
+![[Pasted image 20261109085821.png]]
+![[Pasted image 20261109085841.png]]
+
+```ad-summary
+Objective 10 is also true! All the students eventually got taught even if they had to wait and return.
+```
 ### Beta Testing
+
+The beta testing for this project revolves around finding any problems that come with long-term runs of this program and testing input sanitation.
+
+#### Test 1B: `./teaching`
+
+![[Pasted image 20261109090102.png]]
+
+#### Test 2B: `./teaching 1`
+
+![[Pasted image 20261109090136.png]]
+
+#### Test 3B: `./teaching 1 1`
+
+![[Pasted image 20261109090153.png]]
+
+### Test 4B: `./teaching 0 1 1`
+
+![[Pasted image 20261109090213.png]]
+
+#### Test 5B: `./teaching 1 0 1`
+
+![[Pasted image 20261109090232.png]]
+
+#### Test 6B: `./teaching 1 1 0`
+
+![[Pasted image 20261109090246.png]]
+
+#### Test 7B: `./teaching abc 1 1`
+
+![[Pasted image 20261109090323.png]]
+
+#### Test 8B: `./teaching 30 100 25`
+
+![[Pasted image 20261109090525.png]]
+
+#### Test 9B: `./teaching 30 1000 100`
+
+![[Pasted image 20261109090947.png]]
+
+#### Test 10B: `./teaching 30 10000 1000`
+
+![[Pasted image 20261109095149.png]]
 
 ## Problem 4: Reader-Writer Problem
 
+### Psuedocode
+
+```pseudo
+\begin{algorithm}
+\caption{Reader-Writer Problem}
+\begin{algorithmic}
+\procedure{VectorClock}{num\_processes, id}
+	\state{Holds one timestamp per process, all starting at 0}
+	\state{tick: increment this process's own timestamp}
+	\state{update: take the element-wise maximum of the local and incoming clocks, then tick}
+\endprocedure
+
+\procedure{Message}{sender\_id, type, vector\_clock}
+	\state{Carries the sender's clock and a type of REQUEST, GRANT, or RELEASE}
+\endprocedure
+
+\procedure{ThreadStats}{}
+	\state{Each thread records its own operation count, immediate vs. waited accesses, total wait time, and max wait time}
+\endprocedure
+
+\procedure{Resource}{}
+	\state{Holds a mutex, condition variable, active reader count, active writer flag, waiting writer count, and FCFS ticket counters}
+	\state{Acts as its own process with its own VectorClock}
+	\state{onRequest and onRelease merge the sender's clock into the resource clock}
+	\state{makeGrant ticks the resource clock and returns it in a GRANT message}
+	\procedure{startRead}{mode}
+		\state{Lock mutex}
+		\If{mode is Reader priority}
+			\state{Readers wait only while a writer is active}
+		\ElsIf{mode is Writer priority}
+			\state{Readers wait while a writer is active or any writer is waiting}
+		\Else
+			\state{Reader takes a ticket and waits until it is being served and no writer is active}
+			\state{Advance the serving ticket and notify all so a following reader can enter}
+		\EndIf
+		\state{If the reader had to block, print that it is waiting before blocking}
+		\state{Increment active readers and return whether the reader waited}
+	\endprocedure
+	\procedure{endRead}{}
+		\state{Lock mutex and decrement active readers}
+		\state{If no readers remain, notify all waiting threads}
+	\endprocedure
+	\procedure{startWrite}{mode}
+		\state{Lock mutex}
+		\If{mode is Reader priority}
+			\state{Writers wait until no readers and no writer are active}
+		\ElsIf{mode is Writer priority}
+			\state{Writer increments the waiting writer count, waits until no readers and no writer are active, then decrements the count}
+		\Else
+			\state{Writer takes a ticket and waits until it is being served and the resource is free}
+			\state{Advance the serving ticket and notify all}
+		\EndIf
+		\state{If the writer had to block, print that it is waiting before blocking}
+		\state{Set active writer to true and return whether the writer waited}
+	\endprocedure
+	\procedure{endWrite}{}
+		\state{Lock mutex, set active writer to false, and notify all waiting threads}
+	\endprocedure
+\endprocedure
+
+\procedure{main}{argc, argv}
+	\state{Seed random number generator with rand}
+	\state{Validate command-line arguments and parse positive integers and priority mode}
+	\state{Set configuration: readers, writers, time ranges, priority, resources, simulation\_time}
+	\state{Generate random string data and one Resource per string}
+	\state{Initialize each resource's VectorClock as its own process after the reader and writer threads}
+	\state{Spawn reader threads (IDs 0 to readers - 1)}
+	\state{Spawn writer threads (IDs readers to readers + writers - 1)}
+	\state{Sleep for the simulation time, then set stop flag to true}
+	\For{each reader and writer thread}
+		\state{Join thread}
+	\EndFor
+	\state{Print final statistics report}
+\endprocedure
+
+\procedure{reader}{id}
+	\state{Initialize reader's VectorClock}
+	\while{stop flag is false}
+		\state{Sleep for a random think time and pick a random resource}
+		\state{Tick the clock and send a REQUEST message to the resource}
+		\state{Record the request time and print that the reader requests the resource}
+		\state{Call startRead, which blocks if the priority mode does not allow access yet}
+		\state{Record how long the reader waited and whether it waited at all}
+		\state{Receive a GRANT message from the resource and update vector clock}
+		\state{Print whether access was immediate or after waiting, and read the data}
+		\state{Sleep for a random read time}
+		\state{Tick the clock and send a RELEASE message to the resource}
+		\state{Call endRead}
+	\endwhile
+\endprocedure
+
+\procedure{writer}{id}
+	\state{Initialize writer's VectorClock}
+	\while{stop flag is false}
+		\state{Sleep for a random think time and pick a random resource}
+		\state{Tick the clock and send a REQUEST message to the resource}
+		\state{Record the request time and print that the writer requests the resource}
+		\state{Call startWrite, which blocks if the priority mode does not allow access yet}
+		\state{Record how long the writer waited and whether it waited at all}
+		\state{Receive a GRANT message from the resource and update vector clock}
+		\state{Print whether access was immediate or after waiting, and overwrite the data with a new random string}
+		\state{Sleep for a random write time}
+		\state{Tick the clock and send a RELEASE message to the resource}
+		\state{Call endWrite}
+	\endwhile
+\endprocedure
+\end{algorithmic}
+\end{algorithm}
+```
 ### Instructions
+
+This implementation and testing is done completely via the bash command line and was compiled using the current stable`g++` build and tested on an Arch Linux personal system. The `.cpp` file is provided in the zip uploaded to Canvas as instructed. The syntax is as follows:
+
+```bash
+g++ main.cpp -o smoker
+./rw <num_of_readers> <r min_time> <r max_time> <num_of_writers> <w min_time> <w max_time> <priority> <num_of_resources> <simulation_time>
+```
 
 ### Alpha Testing
 
+All alpha testing files can be found in the `alpha_testing` sub-directory with its matching file name within the .zip file provided. The results of each test will be discussed here.
+
+#### Test A1: `./rw 5 1 1 5 5 10 reader 3 1`
+
+![[Pasted image 20261110165702.png]]
+
+#### Test A2: `./rw 5 1 1 5 5 10 writer 3 1`
+
+![[Pasted image 20261110165710.png]]
+
+#### Test A3: `./rw 5 1 1 5 5 10 neutral 3 1`
+
+![[Pasted image 20261110165737.png]]
+
 ### Beta Testing
 
+Beta testing will further test input sanitation and test for any deadlocking and starvation issues that might come up with each type of implementation.
+
+#### Test B1: `./rw`
+
+![[Pasted image 20261110170534.png]]
+#### Test B2: `./rw 0 1 1 5 5 10 neutral 3 1`
+
+![[Pasted image 20261110170541.png]]
+
+#### Test B3: `./rw 5 g 1 5 5 10 neutral 3 1`
+
+![[Pasted image 20261110170930.png]]
+
+#### Test B4: `./rw 5 1 h 5 5 10 neutral 3 1`
+
+![[Pasted image 20261110170959.png]]
+
+#### Test B5: `./rw 5 1 1 0 5 10 neutral 3 1`
+
+![[Pasted image 20261110171022.png]]
+
+#### Test B6: `./rw 5 1 1 5 p 10 neutral 3 1`
+
+![[Pasted image 20261110171051.png]]
+
+#### Test B7: `./rw 5 1 1 5 5 j neutral 3 1`
+
+![[Pasted image 20261110171149.png]]
+
+#### Test B8: `./rw 5 1 1 5 5 10 super_preference 3 1`
+
+![[Pasted image 20261110171230.png]]
+
+#### Test B9: `./rw 5 1 1 5 5 10 3 3 1`
+
+![[Pasted image 20261110171353.png]]
+
+#### Test B10: `./rw 5 1 1 5 5 10 neutral s 1`
+
+![[Pasted image 20261110171526.png]]
+
+#### Test B10: `./rw 5 1 1 5 5 10 neutral 3 f`
+
+![[Pasted image 20261110171602.png]]
+
+#### Test B11: `./rw 100 1 1 5 5 10 reader 10 10`
+
+![[Pasted image 20261110172744.png]]
+
+#### Test B12: `./rw 1000 1 1 5 5 100 reader 10 10`
+
+![[Pasted image 20261110172915.png]]
+
+#### Test B13: `./rw 10000 1 1 5 5 1000 reader 10 100`
+
+![[Pasted image 20261110173712.png]]
+
+#### Test B14: `./rw 10 1 1 100 5 10 writer 10 1`
+
+![[Pasted image 20261110173947.png]]
+
+#### Test B15: `./rw 10 1 1 1000 5 10 writer 10 10`
+
+![[Pasted image 20261110174041.png]]
+
+#### Test B16: `./rw 10 1 1 10000 5 10 writer 10 100`
+
+![[Pasted image 20261110174326.png]]
+
+#### Test B17: `./rw 100 1 1 5 5 10 neutral 10 10`
+
+![[Pasted image 20261110174828.png]]
+
+#### Test B18: `./rw 1000 1 1 5 5 100 neutral 10 10`
+
+![[Pasted image 20261110174850.png]]
+
+#### Test B19: `./rw 10000 1 1 5 5 1000 neutral 10 100`
+
+![[Pasted image 20261110175048.png]]
+
+#### Test B20: `./rw 10 1 1 100 5 10 neutral 10 1`
+
+![[Pasted image 20261110175124.png]]
+
+#### Test B21: `./rw 10 1 1 1000 5 10 neutral 10 10`
+
+![[Pasted image 20261110175129.png]]
+
+#### Test B22: `./rw 10 1 1 10000 5 10 neutral 10 100`
+
+![[Pasted image 20261110175340.png]]
 ## Problem 5: Bridge Problem
 
 ### Instructions

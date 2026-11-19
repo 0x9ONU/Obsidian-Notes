@@ -62,7 +62,7 @@ Ex. $P_F^1 = (\frac{1}{2}\times\frac{1}{4})^{-1} = \frac{7}{8}$
 | -------- | ----------------------------------------------- |
 | Inverter | $P_{B}^1=1-P_{A}^1$                             |
 | AND      | $P_{C}^1=P_{A}^1 \times P_{B}^1$                |
-| OR       | $P_C^1 = 1-(1-P_{A}^1)\times(1-P_{B}^1)$        |
+| OR       | p                                               |
 | XOR      | $P_{C}^1=P_{A}^1(1-P_{B}^1)+(1-P_{A}^1)P_{B}^1$ |
 
 ```ad-note
@@ -136,11 +136,49 @@ $$
 ### Power 1: Output Transition Probability
 
 ```ad-question
-Givne the probabiity of a $1$ at each input, find the probability of a $1$ at the output $G$
+Given the probabiity of a $1$ at each input, find the probability $G$ going from $0 \to 1$ at the output.
 ```
 
 ![[Pasted image 20261104130857.png]]
 
+
+$$
+P_{G}^{0 \to 1} = P_{G}^0 \times P_{G}^1
+$$
+**Find $P_{G}^0$**
+
+
+$$
+P_{G}^0 = 1 - (P_{E}^0 \times P_{F}^0)
+$$
+
+$$
+P_{G}^0 = 1 - [(P_{A}^1 \times P_{B}^1) \times (P_{C}^1 \times P_{D}^1)]
+$$
+
+$$
+P_{G}^0 = 1- \left[ \left( \frac{1}{2} \times \frac{1}{2} \right) \times \left( \frac{1}{2} \times \frac{1}{2} \right)\right]
+$$
+
+$$
+P_{G}^0 = \frac{15}{16}
+$$
+**Find $P_{G}^1$**
+
+$$
+P_{G}^1 = \left[ \left( \frac{1}{2} \times \frac{1}{2} \right) \times \left( \frac{1}{2} \times \frac{1}{2} \right)\right]
+$$
+
+$$
+P_{G}^1 = \frac{1}{16}
+$$
+
+$$
+P_{G}^{0 \to 1} = \left( \frac{15}{16} \right) \times \left( \frac{1}{16} \right)
+$$
+$$
+\boxed{P_{G}^{0 \to 1} = \frac{15}{256}}
+$$
 ### Power 2: Reconvergent Fanout
 
 ```ad-question
@@ -148,6 +186,32 @@ Find the probability of a 1 on the output $y$, given the input probabilities. Ve
 ```
 
 ![[Pasted image 20261104130929.png]]
+
+*Truth Table*
+
+| A   | B   | C   | F   |
+| --- | --- | --- | --- |
+| 0   | 0   | 0   | 1   |
+| 0   | 0   | 1   | 1   |
+| 0   | 1   | 0   | 1   |
+| 0   | 1   | 1   | 0   |
+| 1   | 0   | 0   | 0   |
+| 1   | 0   | 1   | 1   |
+| 1   | 1   | 0   | 1   |
+| 1   | 1   | 1   | 1   |
+
+
+$$
+P_{y}^1 = (P_{A}^0 \times P_{B}^0 \times P_{C}^0) + (P_{A}^0 \times P_{B}^0 \times P_{C}^1) \\ + (P_{A}^0 \times P_{B}^1 \times P_{C}^0) + (P_{A}^1 \times P_{B}^0 \times P_{C}^1) \\ + (P_{A}^1 \times P_{B}^1 \times P_{C}^0) + (P_{A}^1 \times P_{B}^1 \times P_{C}^1)
+$$
+
+$$
+P_{y}^1 = \left( \frac{3}{16} \right) + \left( \frac{3}{16} \right) + \left( \frac{1}{16} \right) \\ + \left( \frac{3}{16} \right) + \left( \frac{1}{16} \right) + \left(\frac{1}{16} \right)
+$$
+
+$$
+P_{y}^1 = \frac{3}{4}
+$$
 
 ### Power 3: Dynamic Power Computation
 
@@ -163,9 +227,149 @@ Assume the capactiance a each node is $10fF$ and he supply is $5V$. he inputs $a
 Any node that changes from $0 \to 1$ will draw energy.
 ```
 
+At 011:
+- $D = 1$
+- $E = 0$
+- $y = 0$
+
+At 110:
+- $D = 0$
+- $E = 1$
+- $y = 0\to 1$
+
+$y$ Has a glitch due to 
+
+Only node that draws power is $E$!
+
+$$
+E_{s} Y_{s}= C_{L}V^2_{DD}*2
+$$
+
+$$
+E_{s} = Y_{s} = 250fJ
+$$
+$$
+\boxed{\text{Total Energy} = 500 f J}
+$$
 ### Quiz 4: Static Power Analysis
 
 ![[Pasted image 20261104131503.png]]
+
+
+$$
+\text{Expected Power} = V_{DD}^2 f \sum_{i=1}^N C_{L, i} P^{0 \to 1}_{i}
+$$
+$$
+\text{Expected Power}= V_{DD}^2f \left[(C_{L,D}P_{D}^{0\to 1})+\\(C_{L, E}P_{E}^{0 \to 1})+(C_{L,Y}P_{Y}^{0 \to 1}) + \\ 2 * (C_{L,A/C} \times P_{A/C}^{0 \to 1})  + C_{L,B} \times P_{B}^{0 \to 1}\right ]
+$$
+
+We need to find the probability of each node going 0→1 that can be charged ($D, E, Y$)
+
+#### $D$-Probability
+
+$$
+P_{D}^{0 \to 1} = P_{D}^0 \times P_{D}^1
+$$
+
+Indepedent AND Gate formula:
+
+$$
+P_{D}^1 = P_{A}^1 \times P_{B}^1
+$$
+
+$$
+= \frac{1}{2} \times \frac{1}{2}
+$$
+
+$$
+P_{D}^1 = \frac{1}{4}
+$$
+
+$$
+P_{D}^0 = 1 - \frac{1}{4}= \frac{3}{4}
+$$
+
+$$
+P_{D}^{0\to 1} = \frac{1}{4} \times \frac{3}{4} = \frac{3}{16}
+$$
+
+#### $E$-Probability
+
+Same as above:
+
+$$
+P_{E}^{0\to 1} = \frac{1}{4} \times \frac{3}{4} = \frac{3}{16}
+$$
+
+#### $Y$-Probability
+
+*Truth Table*:
+
+| $A$ | $B$ | $C$ | $Y$ |
+| --- | --- | --- | --- |
+| 0   | 0   | 0   | 1   |
+| 0   | 0   | 1   | 1   |
+| 0   | 1   | 0   | 1   |
+| 0   | 1   | 1   | 0   |
+| 1   | 0   | 0   | 1   |
+| 1   | 0   | 1   | 1   |
+| 1   | 1   | 0   | 0   |
+| 1   | 1   | 1   | 0   |
+
+
+$$
+P_{Y}^{0\to 1} = P_{Y}^{0} \times P_{Y}^1
+$$
+**For Low**
+$$
+P_{Y}^0=(P_{A}^0 \times P_{B}^1 \times P_{C}^1) \\ +(P_{A}^1 \times P_{B}^1 \times P_{C}^0) +(P_{A}^1 \times P_{B}^1 \times P_{C}^1)
+$$
+
+$$
+P_{Y}^0 = \left( \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2}\right)+\\\left( \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} \right)+\left( \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} \right)
+$$
+
+$$
+P_{y}^0 = \frac{3}{8}
+$$
+**For High**:
+
+
+$$
+P_{y}^1 = 1 - P_{y}^0
+$$
+
+$$
+P_{y}^1 = \frac{5}{8}
+$$
+**Combined**
+
+
+$$
+P_{y}^{0 \to 1} = \left( \frac{3}{8} \times \frac{5}{8} \right)
+$$
+
+$$
+P_{Y}^{0\to 1} = \frac{15}{64}
+$$
+#### Expected Power
+
+$$
+\text{Expected Power}= V_{DD}^2f \left[(C_{L,D}P_{D}^{0\to 1})+\\(C_{L, E}P_{E}^{0 \to 1})+(C_{L,Y}P_{Y}^{0 \to 1}) + \\ 2 * (C_{L,A/C} \times P_{A/C}^{0 \to 1})  + C_{L,B} \times P_{B}^{0 \to 1}\right ]
+$$
+
+
+$$
+=(5)^2(100Mhz)\left[ (5fF)\left( \frac{3}{16} \right) + \\(5fF)\left( \frac{3}{16} \right)+(30fF)\left( \frac{15}{64} \right) \\+ 2(5fF)\left( \frac{1}{4} \right) + (10fF)\left( \frac{1}{4} \right) \right]
+$$
+
+$$
+\text{Expected Power} = 34.77 \micro W
+$$
+
+$$
+
+$$
 
 ## Dynamic Gates Power Draw
 
@@ -256,7 +460,7 @@ These are not all bad. Gate leakage and thinner gate oxide is directly connected
 
 ![[Pasted image 20261104135146.png]]
 # 3. Action Items & Follow-Up
-- [ ] [[Lecture 19 - Power Probability Computation and Wrap-Up#Power 1 Output Transition Probability|Power Quiz 1]] for VLSI 📅 2026-11-11 ⏫ 
-- [ ] [[Lecture 19 - Power Probability Computation and Wrap-Up#Power 2 Reconvergent Fanout|Power Quiz 2]] for VLSI 📅 2026-11-11 ⏫ 
-- [ ] [[Lecture 19 - Power Probability Computation and Wrap-Up#Power 3 Dynamic Power Computation|Power Quiz 3]] for VLSI 📅 2026-11-11 ⏫ 
-- [ ] [[Lecture 19 - Power Probability Computation and Wrap-Up#Quiz 4 Static Power Analysis|Power Quiz 4]] for VLSI 📅 2026-11-11 ⏫ 
+- [x] [[Lecture 19 - Power Probability Computation and Wrap-Up#Power 1 Output Transition Probability|Power Quiz 1]] for VLSI ⏫ 📅 2026-11-11 ✅ 2026-11-10
+- [x] [[Lecture 19 - Power Probability Computation and Wrap-Up#Power 2 Reconvergent Fanout|Power Quiz 2]] for VLSI ⏫ 📅 2026-11-11 ✅ 2026-11-10
+- [x] [[Lecture 19 - Power Probability Computation and Wrap-Up#Power 3 Dynamic Power Computation|Power Quiz 3]] for VLSI ⏫ 📅 2026-11-11 ✅ 2026-11-10
+- [x] [[Lecture 19 - Power Probability Computation and Wrap-Up#Quiz 4 Static Power Analysis|Power Quiz 4]] for VLSI ⏫ 📅 2026-11-11 ✅ 2026-11-13

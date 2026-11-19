@@ -1,0 +1,10 @@
+{
+	"id": "citation-atlas",
+	"name": "Citation Atlas",
+	"version": "0.0.2",
+	"minAppVersion": "1.4.0",
+	"description": "Citation-map canvas export for Zotero: pick items, collections or authors and get a drag-and-drop .canvas literature map — papers as nodes, citations as edges, collections as containers, colored by unread / read / annotated.",
+	"author": "Citation Atlas",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}

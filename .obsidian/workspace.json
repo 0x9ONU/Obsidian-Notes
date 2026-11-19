@@ -4,35 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "ff44750fb0cafbd9",
+        "id": "50fcf2c77a01dcb0",
         "type": "tabs",
         "children": [
           {
-            "id": "40beac0b3d9cb17f",
+            "id": "9e24528d8e8ca129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/* - Assignments/Assignment 2/Distributed Operating Systems - Assignment 2 - Berei.md",
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Paper Note Summaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distributed Operating Systems - Assignment 2 - Berei"
+              "title": "Paper Note Summaries"
             }
           },
           {
-            "id": "bf84955e3032ad87",
+            "id": "24b5f492ed940679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md",
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Presentation Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6-9-2025 Meeting"
+              "title": "Presentation Outline"
+            }
+          },
+          {
+            "id": "22000bc61153b729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/8 - Sequential Logic Design/Lecture 22 - Sequential Logic Circuits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 22 - Sequential Logic Circuits"
+            }
+          },
+          {
+            "id": "4731c2729aa7ab8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/8 - Sequential Logic Design/Lecture 22 - Sequential Logic Circuits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 22 - Sequential Logic Circuits"
             }
           }
         ]
@@ -69,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:status/todo",
+                "query": "tag:#field/database-theory presentation ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -309,59 +337,61 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "copilot:Open Copilot Agent Chat": false,
       "obsidian-importer:Import notes": false,
-      "circuit-sketcher:Create new Circuit Sketcher file": false
+      "circuit-sketcher:Create new Circuit Sketcher file": false,
+      "citation-atlas:Citation Atlas — export citation-map canvas": false
     }
   },
-  "active": "40beac0b3d9cb17f",
+  "active": "9e24528d8e8ca129",
   "lastOpenFiles": [
-    "General Notes/Pasted image 20261108155702.png",
-    "General Notes/Pasted image 20261108155224.png",
-    "General Notes/Pasted image 20261108155207.png",
-    "General Notes/Pasted image 20261108155145.png",
-    "General Notes/Pasted image 20261108153332.png",
-    "General Notes/Pasted image 20261107174442.png",
-    "General Notes/Pasted image 20261107170422.png",
-    "General Notes/Pasted image 20261107170331.png",
-    "General Notes/Pasted image 20261107170100.png",
-    "General Notes/Pasted image 20261107165918.png",
-    "General Notes/Pasted image 20261107165457.png",
-    "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Presentation Outline.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Paper Note Summaries.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/8 - Sequential Logic Design/Lecture 22 - Sequential Logic Circuits.md",
+    "General Notes/Pasted image 20261118135145.png",
+    "General Notes/Pasted image 20261118134718.png",
+    "General Notes/Pasted image 20261118133719.png",
+    "General Notes/Pasted image 20261118133025.png",
+    "General Notes/Pasted image 20261118132724.png",
+    "General Notes/Pasted image 20261118132329.png",
+    "General Notes/Pasted image 20261118131748.png",
+    "General Notes/Pasted image 20261118131454.png",
+    "General Notes/Pasted image 20261118131110.png",
+    "General Notes/Pasted image 20261118130229.png",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/7 - Driving Loads & Buffers/Lecture 21 - Choosing Optimal Values for Buffering.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/7 - Driving Loads & Buffers/Lecture 20 - Driving Large Capacitive Loads.md",
+    "1 - Undergrad/4 - Senior Year/Fall 2025/Resume 2025.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/7 - IoT, Blockchain and Cloud Computing/Lecture 32 - Smoker's Problem.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/7 - IoT, Blockchain and Cloud Computing/Lecture 31 - Proof of Stake & Proof of Work.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/Misc/Guess Lecture 1 - 5th 3rd Bank.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/Misc/Presentations/Database Theory - Presentation Day 2.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/7 - IoT, Blockchain and Cloud Computing/Lecture 30 - Blockchain Demo.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/Misc/Presentations",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Linking Papers.md",
+    "Citation Atlas - collection - 2026-11-16-2.canvas",
+    "Citation Atlas - collection - 2026-11-16.canvas",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang",
+    "2 - Graduate/1 - Year 1/Fall 2026/6 - ETC/Untitled",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/8 - Sequential Logic Design",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/6 - Power Analysis/Lecture 19 - Power Probability Computation and Wrap-Up.md",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/* - Assignments/Assignment 2/Distributed Operating Systems - Assignment 2 - Berei.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 6 - Extended Relational Algebra Operations.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Materials/08-datalog.pdf",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Lecture 29 - Extensions of Datalog.md",
+    "Tasks.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Materials/08-containment.pdf",
+    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Lecture 28 - Datalogging Introduction.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/6 - Power Analysis/Lecture 18 - Power Analysis Introduction.md",
+    "1 - Undergrad/3 - Junior Year/Fall 2024/Computer Architecture/Week 10/Materials/Lecture 18.pdf",
+    "[.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/7 - Driving Loads & Buffers",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/6 - Security and Trust/Lecture 29 - Security Violations.md",
+    "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md",
     "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/* - Assignments/Assignment 2",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/* - Assignments",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/5 - Deadlocking in DOS/Lecture 28 - Access Matrices.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/6 - Security and Trust/Lecture 28 - Access Matrices.md",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/5 - Deadlocking in DOS/Lecture 27 - Deadlock Numerical.md",
-    "Tasks.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Lecture 27 - Transactions in SQL.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Lecture 28 - Datalogging Introduction.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Materials/07-transaction-management.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Materials/08-datalog.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Materials/08-containment.pdf",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Materials",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Lecture 26 - Transaction Logging.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/6 - Power Analysis/Lecture 19 - Power Probability Computation and Wrap-Up.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/6 - Power Analysis/Lecture 18 - Power Analysis Introduction.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/5 - Dynamic Logic/Lecture 17 - More Types of Dynamic Gates.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/6 - Power Analysis",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/4 - Distributed File System/Lecture 26 - More Numericals for DFS.md",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Wireless Sensors/Untitled.canvas",
-    "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Literature Review 3/Spring 2026 Lit Review.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/5 - Transaction Management/Lecture 25 - Transaction Management Introduction.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Schedule.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ 2026 - Personal Essay.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 1.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 3.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/Brief Essays/HERTZ 2026 - Brief Essay 2.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ 2026 - Personal Essay Help.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ - Project.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/HERTZ 2026 Summary.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/HERTZ/Supporting Material/HERTZ 2026 - Honors and Fellowships.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/5 - Dynamic Logic/Lecture 16 -  Dynamic Logic Introduction.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/5 - Dynamic Logic",
-    "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/Misc",
     "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Untitled.canvas",
     "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Literature Review/Literature Review Diagram.canvas",
     "1 - Undergrad/4 - Senior Year/Fall 2025/Ancient Philosophy/!Papers/Paper 1 - Parmenides/Paper 1 Canvas.canvas",

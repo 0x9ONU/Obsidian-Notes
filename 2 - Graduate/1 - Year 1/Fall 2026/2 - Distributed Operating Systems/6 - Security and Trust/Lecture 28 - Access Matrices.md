@@ -91,4 +91,4 @@ If a process in domain $D_{i}$ tries to do “op” on object, it must have the 
 Very similar to how copyright works IRL
 ```
 # 3. Action Items & Follow-Up
-- [ ] Review Lecture 28 for DoS 📅 2026-11-09 
+- [x] Review Lecture 28 for DoS 📅 2026-11-09 ✅ 2026-11-13
