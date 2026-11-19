@@ -189,5 +189,10 @@ Find the **largest salary** in the university
 
 Continued in: [[Lecture 4 - Even More Formal RA Operations]]
 # 3. Action Items & Follow-Up
+<<<<<<< HEAD:2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Module 1/Lecture 3 - Formal Relational Query Language Part 2.md
+- [x] Review Notes 📅 2026-08-31 ✅ 2026-08-30
+- [ ] 
+=======
 - [x] Review Notes 📅 2026-08-31 ✅ 2026-08-31
 - [x]  ✅ 2026-08-31
+>>>>>>> origin/main:2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 3 - More Formal Relational Query Operations.md
