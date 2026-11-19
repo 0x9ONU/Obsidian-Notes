@@ -39,6 +39,6 @@
 
 # Due Dates
 
-- [ ] NSF GRFP Reference Letters Due 📅 2026-10-16 🔼
-- [ ] NSF GRFP – CISE / Materials Research / Psychology / Social Sciences 📅 2026-10-20
-- [ ] NSF GRFP Withdrawal Deadline (no penalty toward future applications) 📅 2026-11-15
+- [x] NSF GRFP Reference Letters Due 🔼 📅 2026-10-16 ✅ 2026-10-19
+- [x] NSF GRFP – CISE / Materials Research / Psychology / Social Sciences 📅 2026-10-20 ✅ 2026-10-19
+- [x] NSF GRFP Withdrawal Deadline (no penalty toward future applications) 📅 2026-11-15 ✅ 2026-10-21

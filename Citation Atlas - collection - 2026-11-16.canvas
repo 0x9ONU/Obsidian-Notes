@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"g-root","type":"group","x":0,"y":0,"width":1152,"height":1398,"label":"Citation Atlas · collection · 5 papers · 2026-11-16"},
+		{"id":"g-a4e0240318fbc82f","type":"group","x":0,"y":68,"width":1116,"height":958,"label":"Research Presentation for Dr. Wang"},
+		{"id":"g-331e0b483bf5141e","type":"group","x":26,"y":606,"width":1064,"height":396,"label":"Original Papers"},
+		{"id":"g-e2184711279832bc","type":"group","x":26,"y":480,"width":212,"height":86,"label":"Added Papers"},
+		{"id":"n-aaef25f0f16e50d1","type":"text","text":"**A Comprehensive FPGA Reverse Engineering Tool-Chain: From Bitstream to RTL Code**\nZhang et al. · 2019 · Journal article","x":26,"y":130,"width":320,"height":128,"color":"1"},
+		{"id":"n-d529944b1f1d17c7","type":"text","text":"**Automated Reverse Engineering Tools for FPGA Bitstream Extraction and Logic Estimation**\nCho et al. · 2022 · Conference paper","x":372,"y":130,"width":320,"height":128,"color":"1"},
+		{"id":"n-819b36fafdca46fd","type":"text","text":"**BitFREE: On Significant Speedup and Security Applications of FPGA Bitstream Format Reverse Engineering**\nZhang et al. · 2023 · Conference paper","x":718,"y":130,"width":320,"height":128,"color":"1"},
+		{"id":"n-d14024d28cf7e867","type":"text","text":"**Project Foxtrot: Abstracting the Complexity of Bitstream Reverse Engineering Through ML**\nProulx et al. · 2025 · Conference paper","x":26,"y":288,"width":320,"height":152,"color":"1"},
+		{"id":"n-1ee5f0c0f6218ed3","type":"text","text":"**Fast Reverse Engineering for Xilinx FPGAs**\nChoi et al. · 2026 · Conference paper","x":372,"y":288,"width":320,"height":104,"color":"1"},
+		{"id":"n-legend","type":"text","text":"**Reading status**\n• red cards — annotated\n• green cards — read\n• yellow cards — unread\n• arrow points from newer to older (cited) work\n\n**Citation Atlas · collection · 5 papers · 2026-11-16**\n5 papers · 0 citation links","x":0,"y":1096,"width":398,"height":272},
+		{"id":"n-e0b3efec79dead72","type":"text","text":"**A Comprehensive FPGA Reverse Engineering Tool-Chain: From Bitstream to RTL Code**\nZhang et al. · 2019 · Journal article","x":52,"y":668,"width":320,"height":128,"color":"1"},
+		{"id":"n-5bcdd8374ffb08a7","type":"text","text":"**Automated Reverse Engineering Tools for FPGA Bitstream Extraction and Logic Estimation**\nCho et al. · 2022 · Conference paper","x":398,"y":668,"width":320,"height":128,"color":"1"},
+		{"id":"n-36015eda2ad1ef3b","type":"text","text":"**BitFREE: On Significant Speedup and Security Applications of FPGA Bitstream Format Reverse Engineering**\nZhang et al. · 2023 · Conference paper","x":744,"y":668,"width":320,"height":128,"color":"1"},
+		{"id":"n-d00aae74a4d70135","type":"text","text":"**Project Foxtrot: Abstracting the Complexity of Bitstream Reverse Engineering Through ML**\nProulx et al. · 2025 · Conference paper","x":52,"y":826,"width":320,"height":152,"color":"1"},
+		{"id":"n-a99091a03dc11da8","type":"text","text":"**Fast Reverse Engineering for Xilinx FPGAs**\nChoi et al. · 2026 · Conference paper","x":398,"y":826,"width":320,"height":104,"color":"1"}
+	],
+	"edges":[],
+	"view":{"x":0,"y":0,"zoom":0.7153075822603719}
+}

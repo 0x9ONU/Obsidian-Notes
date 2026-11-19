@@ -41,7 +41,7 @@
 - [x] Hertz Application Opened 📅 2026-08-31 ✅ 2026-09-10
 - [x] Hertz Info Session #1 📅 2026-09-10 ✅ 2026-09-10
 - [x] Hertz Info Session #2 📅 2026-09-14 ✅ 2026-09-10
-- [ ] Hertz Application Deadline 📅 2026-10-30 🔼
+- [x] Hertz Application Deadline 🔼 📅 2026-10-30 ✅ 2026-11-02
 - [ ] Hertz Reference Deadline 📅 2026-11 
 - [ ] Hertz Round 1 Interviews 📅 2026-12 to 2027-01
 - [ ] Hertz Round 2 Interviews 📅 2027-02

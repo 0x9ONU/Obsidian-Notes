@@ -158,7 +158,6 @@ The maximum clock frequency from is determined by three of the main constraints.
 $$
 T > d_{max}+D_{max} + t_{su}
 $$
-
 $$
 T > (3)+(5)+(1)
 $$
@@ -386,5 +385,5 @@ $$
 - [x] [[Lecture 12 - Clocking Constraints#Clocking 1|Clocking 1]] for VLSI ⏫ 📅 2026-10-05 ✅ 2026-10-03
 - [x] [[Lecture 12 - Clocking Constraints#Clocking 2&3|Clocking 2]] for VLSI ⏫ 📅 2026-10-05 ✅ 2026-10-05
 - [x] [[Lecture 12 - Clocking Constraints#Clocking 2&3|Clocking 3]] for VLSI ⏫ 📅 2026-10-05 ✅ 2026-10-05
-- [ ] *Practice 1* for VLSI Lecture 12 📅 2026-10-05 🔼 
+- [x] *Practice 1* for VLSI Lecture 12 🔼 📅 2026-10-05 ✅ 2026-10-21
 

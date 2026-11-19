@@ -62,6 +62,6 @@
 
 # Due Dates
 
-- [ ] DOE CSGF Opens 📅 2026-10-10 
+- [x] DOE CSGF Opens 📅 2026-10-10 ✅ 2026-10-21
 - [ ] DOE CSGF Application 📅 2027-01-22 🔼 
 - [ ] DOE CSGF Transcipts 📅 2027-01-31 🔼 

@@ -40,4 +40,4 @@
 # Due Dates
 
 - [x] NDSEG Application Opened 📅 2026-08-03 (already open) ✅ 2026-09-10
-- [ ] NDSEG Application Deadline 📅 2026-10-30 🔼 (5 PM Eastern)
+- [x] NDSEG Application Deadline ⏫ 📅 2026-10-30 ✅ 2026-10-28

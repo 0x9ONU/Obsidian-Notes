@@ -6,18 +6,27 @@ kanban-plugin: board
 
 ## Next
 
-- [ ] Application Opens late October!
-- [ ] Ask References
 
 
 ## Upcoming
 
+- [ ] Make Plan of Study (Courses)
+- [ ] Add Other Courses
+- [ ] [[CSGF 2026 Field-of-Interest Research Statement]]
+- [ ] [[CSGF 2026 High-performance Computing]]
+- [ ] [[CSGF 2026 Program of Study Statement]]
+- [ ] Add Research Tools
+- [ ] Publications
+- [ ] Experiences
+- [ ] [[CSGF 2026 Personal Statement]]
 
 
 ## Done
 
 - [x] - [x] Register in CSGF Portal ✅ 2026-09-28
+- [ ] Application Opens late October!
 - [ ] Finish CV
+- [ ] Ask References
 - [ ] Demographics
 
 

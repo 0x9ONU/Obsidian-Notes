@@ -367,7 +367,7 @@ There are nine major paths:
 3. Run simulations through these vectors
 	- Can be done on the gate level all the way from an `av_extracted` layout
 
-## Quiz Soljutions
+## Quiz Solutions
 
 ![[Pasted image 20261014134848.png]]
 
@@ -377,6 +377,6 @@ There are nine major paths:
 
 # 3. Action Items & Follow-Up
 - [x] Review Lecture 14 for VLSI 📅 2026-10-12 ✅ 2026-10-14
-- [ ] *Practice* [[Lecture 14 - Dynamic Performance Analysis#Practice|Carry]] for VLSI 📅 2026-10-12 
-- [ ] *Practice* [[Lecture 14 - Dynamic Performance Analysis#Practice Problem 2 Sequential Adder |Sequential Adder]] for VLSI 📅 2026-10-12 
-- [ ] *Practice* [[Lecture 14 - Dynamic Performance Analysis#Practice Problem - Sequential Adder Built from NANDs| Sequential Adder with Only NAND Gates]] for VLSI 📅 2026-10-12
+- [x] *Practice* [[Lecture 14 - Dynamic Performance Analysis#Practice|Carry]] for VLSI 📅 2026-10-12 ✅ 2026-10-21
+- [x] *Practice* [[Lecture 14 - Dynamic Performance Analysis#Practice Problem 2 Sequential Adder |Sequential Adder]] for VLSI 📅 2026-10-12 ✅ 2026-10-21
+- [x] *Practice* [[Lecture 14 - Dynamic Performance Analysis#Practice Problem - Sequential Adder Built from NANDs| Sequential Adder with Only NAND Gates]] for VLSI 📅 2026-10-12 ✅ 2026-10-21

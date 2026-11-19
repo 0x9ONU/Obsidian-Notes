@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"g-root","type":"group","x":0,"y":0,"width":1498,"height":1890,"label":"Citation Atlas · collection · 17 papers · 2026-11-16"},
+		{"id":"g-b15d676831d0c8a9","type":"group","x":0,"y":68,"width":1462,"height":1450,"label":"Research Presentation for Dr. Wang"},
+		{"id":"g-0de0f53c54b80f9f","type":"group","x":26,"y":480,"width":1410,"height":578,"label":"Added Papers"},
+		{"id":"g-008f35a604d129f1","type":"group","x":26,"y":1098,"width":1064,"height":396,"label":"Original Papers"},
+		{"id":"n-a6aaa95e3858c405","type":"text","text":"**A Comprehensive FPGA Reverse Engineering Tool-Chain: From Bitstream to RTL Code**\nZhang et al. · 2019 · Journal article","x":26,"y":130,"width":320,"height":128,"color":"1"},
+		{"id":"n-76aa58082318d388","type":"text","text":"**Automated Reverse Engineering Tools for FPGA Bitstream Extraction and Logic Estimation**\nCho et al. · 2022 · Conference paper","x":372,"y":130,"width":320,"height":128,"color":"1"},
+		{"id":"n-aafe7d103659120d","type":"text","text":"**Project Foxtrot: Abstracting the Complexity of Bitstream Reverse Engineering Through ML**\nProulx et al. · 2025 · Conference paper","x":26,"y":288,"width":320,"height":152,"color":"1"},
+		{"id":"n-0a4c430518d9e804","type":"text","text":"**Project Foxtrot: Abstracting the Complexity of Bitstream Reverse Engineering Through ML**\nProulx et al. · 2025 · Conference paper","x":52,"y":1318,"width":320,"height":152,"color":"1"},
+		{"id":"n-35cc26ab1b1876b3","type":"text","text":"**Fast Reverse Engineering for Xilinx FPGAs**\nChoi et al. · 2026 · Conference paper","x":398,"y":1318,"width":320,"height":104,"color":"1"},
+		{"id":"n-legend","type":"text","text":"**Reading status**\n• red cards — annotated\n• green cards — read\n• yellow cards — unread\n• arrow points from newer to older (cited) work\n\n**Citation Atlas · collection · 17 papers · 2026-11-16**\n17 papers · 0 citation links","x":0,"y":1588,"width":340,"height":272},
+		{"id":"n-9f9217cc5603dbc6","type":"text","text":"**BitFREE: On Significant Speedup and Security Applications of FPGA Bitstream Format Reverse Engineering**\nZhang et al. · 2023 · Conference paper","x":718,"y":130,"width":320,"height":128,"color":"1"},
+		{"id":"n-ebde31e357078e53","type":"text","text":"**Fast Reverse Engineering for Xilinx FPGAs**\nChoi et al. · 2026 · Conference paper","x":372,"y":288,"width":320,"height":104,"color":"1"},
+		{"id":"n-5281cf1671776032","type":"text","text":"**Topological sorting of large networks**\nKahn · 1962 · Journal article","x":52,"y":542,"width":320,"height":128,"color":"3"},
+		{"id":"n-1f885f1753838c03","type":"text","text":"**Overcoming an Untrusted Computing Base: Detecting and Removing Malicious Hardware Automatically**\nHicks et al. · 2010 · Conference paper","x":398,"y":542,"width":320,"height":392,"color":"3"},
+		{"id":"n-bb00b001c456d8f2","type":"text","text":"**Deriving an NCD file from an FPGA bitstream: Methodology, architecture and evaluation**\nDing et al. · 2013 · Journal article","x":744,"y":542,"width":320,"height":128,"color":"3"},
+		{"id":"n-6f070a5c6471e75c","type":"text","text":"**Hardware Trojan Insertion by Direct Modification of FPGA Configuration Bitstream**\nChakraborty et al. · 2013 · Journal article","x":1090,"y":542,"width":320,"height":152,"color":"3"},
+		{"id":"n-cbeb418ccfefbf54","type":"text","text":"**WordRev: Finding word-level structures in a sea of bit-level gates**\nLi et al. · 2013 · Conference paper","x":52,"y":724,"width":320,"height":104,"color":"3"},
+		{"id":"n-53a669d44c8fb9a1","type":"text","text":"**Adam: A Method for Stochastic Optimization**\nKingma & Ba · 2017 · Preprint","x":398,"y":724,"width":320,"height":104,"color":"3"},
+		{"id":"n-48d6eb84e0bacb1f","type":"text","text":"**Hardware Trojans: Lessons Learned after One Decade of Research**\nXiao et al. · 2017 · Journal article","x":1090,"y":724,"width":320,"height":104,"color":"3"},
+		{"id":"n-803b98e2790a4dc8","type":"text","text":"**Insights into the Mind of a Trojan Designer: The Challenge to Integrate a Trojan into the Bitstream**\nEnder et al. · 2019 · Conference paper","x":398,"y":882,"width":320,"height":128,"color":"3"},
+		{"id":"n-aae6577f38b3daa0","type":"text","text":"**BITMAN: A tool and API for FPGA bitstream manipulations**\nDang Pham et al. · 2017 · Conference paper","x":744,"y":724,"width":320,"height":128,"color":"3"},
+		{"id":"n-014ca3c6eb9846d2","type":"text","text":"**A Bitstream Reverse Engineering Tool for FPGA Hardware Trojan Detection**\nYoon et al. · 2018 · Conference paper","x":52,"y":882,"width":320,"height":104,"color":"3"},
+		{"id":"n-eb87c9616e36cc82","type":"text","text":"**Fast FPGA Reverse Engineering for Hardware Metering and Fingerprinting**\nPerumalla et al. · 2023 · Conference paper","x":744,"y":882,"width":320,"height":128,"color":"3"},
+		{"id":"n-b525945d6b568fa6","type":"text","text":"**REVBiT: REVerse Engineering of BiTstream for LUT Extraction & Logic Identification**\nNarwariya et al. · 2024 · Conference paper","x":1090,"y":882,"width":320,"height":152,"color":"3"},
+		{"id":"n-41ed87b006bc7a33","type":"text","text":"**A Comprehensive FPGA Reverse Engineering Tool-Chain: From Bitstream to RTL Code**\nZhang et al. · 2019 · Journal article","x":52,"y":1160,"width":320,"height":128,"color":"1"},
+		{"id":"n-36f82f52a917974e","type":"text","text":"**Automated Reverse Engineering Tools for FPGA Bitstream Extraction and Logic Estimation**\nCho et al. · 2022 · Conference paper","x":398,"y":1160,"width":320,"height":128,"color":"1"},
+		{"id":"n-035a839cb960bd1b","type":"text","text":"**BitFREE: On Significant Speedup and Security Applications of FPGA Bitstream Format Reverse Engineering**\nZhang et al. · 2023 · Conference paper","x":744,"y":1160,"width":320,"height":128,"color":"1"}
+	],
+	"edges":[],
+	"view":{"x":0,"y":0,"zoom":0.5291005291005291}
+}

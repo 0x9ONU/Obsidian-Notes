@@ -195,13 +195,13 @@ $$
 *For p-type*
 
 $$
-t_{f} = \frac{1}{6} \frac{L_{n}}{w_{n}}
+t_{f} = \frac{1}{6} \frac{L_{p}}{w_{p}}
 $$
 $$
-6W_{n}= 2 \lambda
+6W_{p}= 2 \lambda
 $$
 $$
-w_{n}=12 \lambda
+w_{p}=12 \lambda
 $$
 **THEREFORE**
 

@@ -7,7 +7,6 @@ kanban-plugin: board
 ## Next
 
 - [ ] Create REDACTED CV
-- [ ] Ask for References
 - [ ] Transcripts
 
 
@@ -28,6 +27,7 @@ kanban-plugin: board
 
 - [x] - [x] Register in CSGF Portal ✅ 2026-09-28
 - [ ] Demographics
+- [ ] Ask for References
 - [ ] Finish CV
 
 
