@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "9682172de8e0f431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "24b5f492ed940679",
             "type": "leaf",
             "state": {
@@ -157,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 378
   },
   "right": {
     "id": "3aae8ecb757e9689",
@@ -356,10 +341,10 @@
       "citation-atlas:Citation Atlas — export citation-map canvas": false
     }
   },
-  "active": "9682172de8e0f431",
+  "active": "20fa6d1f814f2ed8",
   "lastOpenFiles": [
-    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Paper Note Summaries.md",
     "conflict-files-obsidian-git.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Paper Note Summaries.md",
     "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Presentation Outline.md",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/8 - Sequential Logic Design/Lecture 22 - Sequential Logic Circuits.md",
     "General Notes/Pasted image 20261118135145.png",
@@ -388,7 +373,7 @@
     "2 - Graduate/1 - Year 1/Fall 2026/6 - ETC/Untitled",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/8 - Sequential Logic Design",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/6 - Power Analysis/Lecture 19 - Power Probability Computation and Wrap-Up.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/* - Assignments/Assignment 2/Distributed Operating Systems - Assignment 2 - Berei.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/00 - Assignments/Assignment 2/Distributed Operating Systems - Assignment 2 - Berei.md",
     "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/1 - Formal Relations in RA/Lecture 6 - Extended Relational Algebra Operations.md",
     "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Materials/08-datalog.pdf",
     "2 - Graduate/1 - Year 1/Fall 2026/1 - Database Theory/6 - Datalogging/Lecture 29 - Extensions of Datalog.md",
@@ -402,8 +387,8 @@
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/6 - Security and Trust/Lecture 29 - Security Violations.md",
     "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md",
     "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-17-2025 Meeting Minutes.md",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/* - Assignments/Assignment 2",
-    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/* - Assignments",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/00 - Assignments/Assignment 2",
+    "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/00 - Assignments",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/6 - Security and Trust/Lecture 28 - Access Matrices.md",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/5 - Deadlocking in DOS/Lecture 27 - Deadlock Numerical.md",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
