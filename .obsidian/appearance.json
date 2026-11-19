@@ -9,5 +9,6 @@
     "center images",
     "center_tables",
     "pageBreak"
-  ]
+  ],
+  "showRibbon": true
 }
