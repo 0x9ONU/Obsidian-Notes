@@ -10,7 +10,7 @@
 
 ### Core Methodology
 
-- Introduces a reverse eingeeirng tool that can transofrm the FPGA bitstream to an RTL code, so it can assist in HT detection
+- Introduces a reverse engineering tool that can transform the FPGA bitstream to an RTL code, so it can assist in HT detection
 	- Construct an Integrated Database for FPGA information and bitstream mapping (**Library Generator**)
 	- Create a bitstream reversal tool (BRT) to go from bitstream→netlist
 	- Create a netlist reversal tool (NRT) to turn netlist→RTL
@@ -46,13 +46,13 @@
 	- Determine I/O
 	- Cluster Extraction
 		- Find out how each element is connected from PAD-to-PAD
-		- Use DFS to find out all singal paths belonging to one cluster. Keeps going until it finds the next pad
+		- Use DFS to find out all signal paths belonging to one cluster. Keeps going until it finds the next pad
 	- Code Generation
 		- Takes each cluster and replaces them with their equivalent RTL
 		- Combined together using the cluster map
 	- Output RTL
 - Steps:
-	- Recover teh netlist and RTL code from bitstream using two methods above
+	- Recover the netlist and RTL code from bitstream using two methods above
 	- Employ two HT detection techniques
 		- Controllability and Observability COTD *check 9*
 		- Coverage AnalysisCA *check 10*

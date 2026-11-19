@@ -13,6 +13,12 @@ Thanks for meeting me yesterday. Here is a set of papers related to FPGA reverse
 - Provide correlations
 - Provide Potential Future Work
 
+## Methodology
+
+```mermaid
+flowchart LR
+A(Paper Requisition)-->B(Sifting)-->C(First Read)-->D(Annotations)-->E(Summaries)-->F(Correlations)-->G(Finding Future Work)
+```
 # [[Paper Note Summaries]]
 
 # Correlations

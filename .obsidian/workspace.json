@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "50fcf2c77a01dcb0",
+        "id": "e9934335268fd4fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a9763a3450033d78",
+            "id": "3bbc7179c903ceb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -294,15 +298,16 @@
       "citation-atlas:Citation Atlas — export citation-map canvas": false
     }
   },
-  "active": "a9763a3450033d78",
+  "active": "3bbc7179c903ceb1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Resources.md",
     "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Paper Note Summaries.md",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/8 - Sequential Logic Design/Lecture 22 - Sequential Logic Circuits.md",
     "2 - Graduate/1 - Year 1/Fall 2026/5 - Scholarships and Grants/Dr. Wang/Presentation Outline.md",
     "Untitled 8.md",
     "TC Hierarchy Flowchart.md",
     "Exam Thing.md",
-    "conflict-files-obsidian-git.md",
     "General Notes/Pasted image 20261118135145.png",
     "General Notes/Pasted image 20261118134718.png",
     "General Notes/Pasted image 20261118133719.png",
@@ -341,7 +346,6 @@
     "[.md",
     "2 - Graduate/1 - Year 1/Fall 2026/3 - Intro to VLSI/7 - Driving Loads & Buffers",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/6 - Security and Trust/Lecture 29 - Security Violations.md",
-    "1 - Undergrad/4 - Senior Year/Summer 2025/Research/Meeting Minutes/6-9-2025 Meeting.md",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/00 - Assignments/Assignment 2",
     "2 - Graduate/1 - Year 1/Fall 2026/2 - Distributed Operating Systems/00 - Assignments",
     "1 - Undergrad/4 - Senior Year/Spring 2026/Research/Potential Flow Detection Model.canvas",
