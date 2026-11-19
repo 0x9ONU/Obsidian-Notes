@@ -1,0 +1,7 @@
+# Question 1.C
+
+From a mathematical perspective as seen in both definitions above, there is a key difference that allows vector clocks to calculate concurrency, while standard Lamport cannot. If a specific event/message is *less than* another message, this implies that they are **causal**. However, we are able to reverse the function such that $C_i(a) \ge C_{j}(b) \Rightarrow a \parallel b$ (*implies concurrency*)due to the equation implying casuality is a direct cause of subtracting these two vectors.
+
+On the other hand, the other equation says that finding causality ($a \to b$) means that the clock of the sending event $a$ is **must be less than** the corresponding receiving event $b$ ($C(a)<C(b)$). This means that causality only implies the sending and receiving event must be related, not the other way around. 
+
+From a logical perspective, the logical clock does not send enough information to each others’ processes to even calculate concurrency. The calculation requires that a process knows the clock of every process so that it can find if a specific event is ahead of another event *for all processes*. Without this, a Process $i$ might assume that Process $j$ has has not had event and assume concurrency, while Process $j$ actually gained an event from Process $m$.
